@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2004-08-21
+Version Consolidée au 2004-09-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -189,7 +189,7 @@ Version Consolidée au 2004-08-21
         - [Chapitre Ier : Prévention. (art. R221-1 à R221-2)](#186)
         - [Chapitre III : Sanctions (art. R223-1 à R223-2)](#187)
         - [Chapitre IV : La commission de la sécurité des consommateurs (art. R224-1 à R224-12)](#188)
-        - [Chapitre V : Dispositions diverses (art. D225-1 à D225-2)](#189)
+        - [Chapitre V : Dispositions diverses (art. D225-2)](#189)
     - [Livre III : Endettement (art. D311-1 à R333-5)](#190)
       - [Titre Ier : Crédit (art. D311-1 à Annexe à l'article R313-1)](#191)
         - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#192)
@@ -21402,78 +21402,6 @@ _Abrogé par_:
 
 
 #### Chapitre V : Dispositions diverses<a id=189></a>
-
-###### Article D225-1
-
-Les organismes scientifiques ou techniques habilités à effectuer les contrôles prévus à l'article L. 221-7 sont les
-suivants :
-
-1° Le Centre national d'études vétérinaires et alimentaires ;
-
-2° Le Centre national du machinisme agricole, du génie rural, des eaux et des forêts ;
-
-3° Le Centre scientifique et technique du bâtiment ;
-
-4° Le Commissariat à l'énergie atomique ;
-
-5° L'Institut français de recherche pour l'exploitation de la mer ;
-
-6° L'Institut national de recherche chimique appliquée ;
-
-7° L'Institut national de l'environnement industriel et des risques ;
-
-8° L'Institut national de recherche et de sécurité ;
-
-9° L'Institut national de la recherche agronomique ;
-
-10° L'Institut national de la santé et de la recherche médicale ;
-
-11° L'Institut Pasteur de Paris ;
-
-12° Le Laboratoire central des industries électriques ;
-
-13° Le Laboratoire central des ponts et chaussées ;
-
-14° Le Laboratoire central de la préfecture de police ;
-
-15° Le laboratoire du Centre national de formation des techniciens des services vétérinaires ;
-
-16° Les laboratoires d'Etat de la direction générale de la concurrence, de la consommation et de la répression de fraudes ;
-
-17° Les laboratoires de la direction générale des douanes et droits indirects ;
-
-18° Le laboratoire d'hygiène de la ville de Paris ;
-
-19° Le Laboratoire national d'essais ;
-
-20° Le laboratoire de biomécanique et de physiologie de l'Institut national du sport et de l'éducation physique ;
-
-21° L'Agence du médicament ;
-
-22° Le service central de protection contre les rayonnements ionisants ;
-
-23° Les laboratoires accrédités par le Comité français d'accréditation (COFRAC).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-934 1984-10-17 art. 1, annexe
-  - Décret n°84-934 du 17 octobre 1984 - art. 1 (Ab)
-  - Décret n°84-934 du 17 octobre 1984 - art. Annexe (Ab)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-_Abrogé par_:
-
-  - Décret n°2004-947 du 1 septembre 2004 - art. 1 () JORF 8 septembre 2004
-
-_Cite_:
-
-  - Code de la consommation - art. L221-7 (M)
-
 
 ###### Article D225-2
 
