@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1999-06-23
+Version Consolidée au 1999-06-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -84,7 +84,7 @@ Version Consolidée au 1999-06-23
         - [Chapitre II : Crédit immobilier (art. L312-1 à L312-36)](#81)
           - [Section 1 : Champ d'application (art. L312-1 à L312-3)](#82)
           - [Section 2 : Publicité (art. L312-4 à L312-6)](#83)
-          - [Section 3 : Le contrat de crédit (art. L312-7 à L312-14)](#84)
+          - [Section 3 : Le contrat de crédit (art. L312-7 à L312-14-1)](#84)
           - [Section 4 : Le contrat principal (art. L312-15 à L312-20)](#85)
           - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. L312-21 à L312-23)](#86)
             - [Sous-section 1 : Remboursement anticipé (art. L312-21)](#87)
@@ -11141,6 +11141,39 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-38 (V)
 
 
+###### Article L312-14-1
+
+En cas de renégociation de prêt, les modifications au contrat de prêt initial sont apportées sous la seule forme d'un
+avenant. Cet avenant comprend, d'une part, un échéancier des amortissements détaillant pour chaque échéance le capital
+restant dû en cas de remboursement anticipé et, d'autre part, le taux effectif global ainsi que le coût du crédit calculés
+sur la base des seuls échéances et frais à venir. Pour les prêts à taux variable, l'avenant comprend le taux effectif global
+ainsi que le coût du crédit calculés sur la base des seuls échéances et frais à venir jusqu'à la date de la révision du taux,
+ainsi que les conditions et modalités de variation du taux. L'emprunteur dispose d'un délai de réflexion de dix jours à
+compter de la réception des informations mentionnées ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°99-532 du 25 juin 1999 - art. 115 (V) JORF 29 juin 1999
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L312-9 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L313-39 (V)
+
+
 ##### Section 4 : Le contrat principal<a id=85></a>
 
 ###### Article L312-15
@@ -11362,7 +11395,7 @@ _Nouveaux textes_:
 ###### Article L312-21
 
 L'emprunteur peut toujours, à son initiative, rembourser par anticipation, en partie ou en totalité, les prêts régis par les
-sections 1 à 3 du présent chapitre. Le contrat de prêt peut interdire les remboursements égaux ou inférieurs à 10 p. 100 du
+sections 1 à 3 du présent chapitre. Le contrat de prêt peut interdire les remboursements égaux ou inférieurs à 10 % du
 montant initial du prêt, sauf s'il s'agit de son solde.
 
 Si le contrat de prêt comporte une clause aux termes de laquelle, en cas de remboursement par anticipation, le prêteur est en
@@ -11370,28 +11403,33 @@ droit d'exiger une indemnité au titre des intérêts non encore échus, celle-c
 l'article 1152 du code civil, excéder un montant qui, dépendant de la durée restant à courir du contrat, est fixé suivant un
 barème déterminé par décret.
 
+Pour les contrats conclus à compter de la date d'entrée en vigueur de la loi n° 99-532 du 25 juin 1999 relative à l'épargne
+et à la sécurité financière, aucune indemnité n'est due par l'emprunteur en cas de remboursement par anticipation lorsque le
+remboursement est motivé par la vente du bien immobilier faisant suite à un changement du lieu d'activité professionnelle de
+l'emprunteur ou de son conjoint, par le décès ou par la cessation forcée de l'activité professionnelle de ces derniers.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°79-596 1979-07-13 art. 12
   - Loi n°79-596 du 13 juillet 1979 - art. 12 (Ab)
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°99-532 1999-06-25
+  - Code civil - art. 1152 (M)
+
+_Modifié par_:
+
+  - Loi n°99-532 du 25 juin 1999 - art. 97 () JORF 29 juin 1999
 
 _Cité par_:
 
   - Code de la consommation - art. R312-2 (MMN)
-
-_Cite_:
-
-  - Code civil - art. 1152 (M)
 
 
 ##### Sous-section 2 : Défaillance de l'emprunteur<a id=88></a>
