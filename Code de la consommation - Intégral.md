@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1995-08-01
+Version Consolidée au 1996-04-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -66,7 +66,7 @@ Version Consolidée au 1995-08-01
         - [Chapitre III : Sanctions. (art. L223-1 à L223-2)](#63)
         - [Chapitre IV : La commission de la sécurité des consommateurs. (art. L224-1 à L224-6)](#64)
         - [Chapitre V : Dispositions diverses (art. L225-1)](#65)
-    - [Livre III : Endettement (art. L311-1 à L332-4)](#66)
+    - [Livre III : Endettement (art. L311-1 à L333-8)](#66)
       - [Titre Ier : Crédit (art. L311-1 à L313-16)](#67)
         - [Chapitre Ier : Crédit à la consommation (art. L311-1 à L311-37)](#68)
           - [Section 1 : Champ d'application (art. L311-1 à L311-3)](#69)
@@ -109,31 +109,29 @@ Version Consolidée au 1995-08-01
         - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. L331-1 à L331-11)](#106)
         - [Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement. (art. L332-1 à L332-3)](#107)
         - [Chapitre III : Dispositions communes (art. L333-1 à L333-8)](#108)
-      - [Titre III : Réglement des situations de surendettement (art. L332-4)](#109)
-        - [Chapitre II : Redressement judiciaire civil. (art. L332-4)](#110)
-    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#111)
-      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#112)
-        - [Chapitre Ier : Les associations (art. L411-1)](#113)
-        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#114)
-      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#115)
-        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#116)
-          - [Section 1 : Action civile (art. L421-1 à L421-5)](#117)
-          - [Section 2 : Action en suppression de clauses abusives. (art. L421-6)](#118)
-          - [Section 3 : Interventions en justice (art. L421-7)](#119)
-          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#120)
-        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#121)
-    - [Livre V : Les institutions (art. L531-1 à L562-1)](#122)
-      - [Titre III : L'Institut national de la consommation (art. L531-1)](#123)
-        - [Chapitre Ier : Organisation administrative (art. L531-1)](#124)
-      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#125)
-        - [Chapitre Ier : Missions (art. L561-1)](#126)
-        - [Chapitre II : Fonctionnement (art. L562-1)](#127)
-  - [Partie réglementaire (art. Annexe à l'article L132-1)](#128)
-    - [Livre III : Endettement (art. Annexe à l'article L132-1)](#129)
-      - [Titre Ier : Crédit (art. Annexe à l'article L132-1)](#130)
-        - [Chapitre III : Dispositions communes (art. Annexe à l'article L132-1)](#131)
-          - [Annexes (art. Annexe à l'article L132-1)](#132)
-            - [Annexe : clauses visées au troisième alinéa de l'article L. 132-1 (art. Annexe à l'article L132-1)](#133)
+    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#109)
+      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#110)
+        - [Chapitre Ier : Les associations (art. L411-1)](#111)
+        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#112)
+      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#113)
+        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#114)
+          - [Section 1 : Action civile (art. L421-1 à L421-5)](#115)
+          - [Section 2 : Action en suppression de clauses abusives. (art. L421-6)](#116)
+          - [Section 3 : Interventions en justice (art. L421-7)](#117)
+          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#118)
+        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#119)
+    - [Livre V : Les institutions (art. L531-1 à L562-1)](#120)
+      - [Titre III : L'Institut national de la consommation (art. L531-1)](#121)
+        - [Chapitre Ier : Organisation administrative (art. L531-1)](#122)
+      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#123)
+        - [Chapitre Ier : Missions (art. L561-1)](#124)
+        - [Chapitre II : Fonctionnement (art. L562-1)](#125)
+  - [Partie réglementaire (art. Annexe à l'article L132-1)](#126)
+    - [Livre III : Endettement (art. Annexe à l'article L132-1)](#127)
+      - [Titre Ier : Crédit (art. Annexe à l'article L132-1)](#128)
+        - [Chapitre III : Dispositions communes (art. Annexe à l'article L132-1)](#129)
+          - [Annexes (art. Annexe à l'article L132-1)](#130)
+            - [Annexe : clauses visées au troisième alinéa de l'article L. 132-1 (art. Annexe à l'article L132-1)](#131)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -674,38 +672,39 @@ Les appellations d'origine définies par voie législative ou réglementaire ava
 répondant aux conditions de l'article L. 115-6. Toute modification ultérieure des textes définissant ces appellations doit
 intervenir conformément à la procédure prévue au même article.
 
-Avant le 1er juillet 1995, les produits dont l'appellation d'origine a été définie par voie judiciaire avant le 1er juillet
-1990 ou a été acquise en application des articles 14 et 15 de la loi du 6 mai 1919 relative à la protection des appellations
+Avant le 1er juillet 2000, les produits dont l'appellation d'origine a été définie par voie judiciaire avant le 1er juillet
+1990, ou a été acquise en application des articles 14 et 15 de la loi du 6 mai 1919 relative à la protection des appellations
 d'origine dans leur rédaction antérieure à la loi n° 90-558 du 2 juillet 1990 relative aux appellations d'origine contrôlées
-des produits agricoles ou alimentaires, bruts ou transformés, s'ils satisfont aux conditions fixées à l'article L. 115-5, se
-verront attribuer, par décret, une appellation d'origine contrôlée selon la procédure prévue à l'article L. 115-6. A défaut,
-ces appellations seront caduques.
+des produits agricoles ou alimentaires, bruts ou transformés, et pour lesquels une demande de reconnaissance en appellation
+d'origine contrôlée a été déposée auprès de l'Institut national des appellations d'origine avant le 31 décembre 1996, se
+verront attribuer cette reconnaissance, par décret, s'ils satisfont aux conditions fixées à l'article L. 115-5. A compter du
+1er juillet 2000, ou en cas de refus de reconnaissance de l'appellation d'origine contrôlée, ces appellations seront
+caduques.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code de la consommation - art. L115-5 (M)
-  - Code de la consommation - art. L115-6 (M)
   - Loi n°1919-05-06 art. 14, art. 15
   - Loi n°90-558 1990-07-02
-
-_Nouveaux textes_:
-
-  - Code rural - art. L641-4 (M)
+  - Code de la consommation - art. L115-5 (M)
+  - Code de la consommation - art. L115-6 (M)
 
 _Anciens textes_:
 
-  - Loi n°1919-05-06 art. 7-6
   - Loi n°1919-05-06 du 6 mai 1919 - art. 7-6 (Ab)
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°96-314 du 12 avril 1996 - art. 61 () JORF 13 avril 1996
+
+_Nouveaux textes_:
+
+  - Code rural - art. L641-4 (M)
 
 
 ##### Sous-section 3 : Procédure judiciaire de protection<a id=11></a>
@@ -5233,7 +5232,7 @@ date à laquelle cette condamnation sera devenue définitive, commis un nouveau 
 II à VII du présent titre ou des textes énumérés ci-après :
 
 - les articles L. 141, L. 142 et L. 144, les chapitres Ier et IV du titre Ier, les chapitres II et III du titre II et les
-chapitres Ier et VIII du titre III du livre V du code de la santé publique ;
+chapitres Ier et VIII du titre III du livre V du code de la santé publique (1) ;
 
 - les articles L. 231-6 et L. 231-7 du chapitre Ier du titre III et l'article L. 263-2 du chapitre III du titre VI du livre
 II du code du travail ;
@@ -5249,7 +5248,7 @@ titre II du livre Ier, l'article L. 115-30 du présent code ;
 
 - loi du 6 avril 1897 concernant la fabrication, la circulation et la vente des vins artificiels ;
 
-- loi du 4 août 1903 réglementant le commerce des produits cupriques et anticryptogamiques ;
+- les articles L. 253-12 et L. 253-13 du code rural ;
 
 - loi du 11 juillet 1906 relative à la protection des conserves de sardines, de légumes et de prunes contre la fraude
 étrangère, dont les dispositions ont été rendues applicables à toutes les conserves étrangères de poissons entrant en France
@@ -5278,24 +5277,24 @@ du cuir et des produits ouvrés du cuir ;
 
 - loi du 3 février 1940 tendant à réglementer le commerce des produits destinés à l'alimentation des animaux ;
 
-- loi n° 525 du 2 novembre 1943 modifiée relative à l'organisation du contrôle des produits antiparasitaires à usage
-agricole ;
+- les articles L. 253-1 à L. 253-11 et les articles L. 253-14 à L. 253-17 du code rural ;
 
 - loi n° 60-808 du 5 août 1960 d'orientation agricole ;
 
-- loi n° 64-1360 du 31 décembre 1964 modifiée sur les marques de fabrique, de commerce ou de service ;
-
-- loi n° 69-10 du 3 janvier 1969 relative à l'institution du paiement du lait en fonction de sa composition et de sa
-qualité ;
+- les articles L. 711-1 et suivants du code de la propriété intellectuelle ;
 
 - loi n° 71-383 du 22 mai 1971 relative à l'amélioration des essences forestières ;
 
 - loi n° 73-1097 du 12 décembre 1973 sur les appellations d'origine en matière viticole ;
 
-- loi n° 79-595 du 13 juillet 1979 relative à l'organisation du contrôle des matières fertilisantes et des supports de
-culture ;
+- les articles L. 255-1 à L. 255-11 du code rural ;
 
-- loi n° 80-502 du 4 juillet 1980 d'orientation agricole (paragraphes III et IV de l'article 14).
+- les articles L. 645-1 et L. 671-7 du code rural ;
+
+**Nota:**
+
+(1) : Dispositions abrogées par l'ordonnance n° 2000-548 du 15 juin 2000 et codifiées dans la nouvelle partie législative du
+code de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -5310,13 +5309,14 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de la propriété intellectuelle - art. L711-1 (V)
   - Code de la consommation - art. L115-30 (M)
-  - Code de la consommation L141, L142, L144, L115-30, 14
+  - Code de la consommation L141, L142, L144, L115-30, L253-1 à L253-11
+  - Code rural L253-12, L253-13, L253-14 à L253-17, L255-1 à L255-11, L645-1, L671-7
   - Loi n°1889-08-14
   - Loi n°1891-07-11
   - Loi n°1894-07-24
   - Loi n°1897-04-06
-  - Loi n°1903-08-04
   - Loi n°1906-07-11
   - Loi n°1913-06-28
   - Loi n°1929-08-04
@@ -5329,27 +5329,22 @@ _Cite_:
   - Loi n°1936-06-25
   - Loi n°1939-04-21
   - Loi n°1940-02-03
-  - Loi n°43-525 1943-11-02
   - Loi n°60-808 1960-08-05
-  - Loi n°64-1360 1964-12-31
-  - Loi n°69-10 1969-01-03
   - Loi n°71-383 1971-05-22
   - Loi n°73-1097 1973-12-12
-  - Loi n°79-595 1979-07-13
-  - Loi n°80-502 1980-07-04
+  - Ordonnance 2000-548 2000-06-15
 
 _Anciens textes_:
 
-  - Loi n°1905-08-01 art. 5
   - Loi n°1905-08-01 du 1 août 1905 - art. 5 (Ab)
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°96-314 du 12 avril 1996 - art. 60 () JORF 13 avril 1996
 
 
 #### Chapitre IV : Mesures d'application<a id=51></a>
@@ -10019,9 +10014,14 @@ L'offre définie à l'article précédent :
 1° Mentionne l'identité des parties, et éventuellement des cautions déclarées ;
 
 2° Précise la nature, l'objet, les modalités du prêt, notamment celles qui sont relatives aux dates et conditions de mise à
-disposition des fonds ainsi qu'à l'échéancier des amortissements ;    3° Indique, outre le montant du crédit susceptible
-d'être consenti, et, le cas échéant, celui de ses fractions périodiquement disponibles, son coût total, son taux défini
-conformément à l'article L. 313-1 ainsi que, s'il y a lieu, les modalités de l'indexation ;
+disposition des fonds ;
+
+2° bis. Comprend un échéancier des amortissements détaillant pour chaque échéance la répartition du remboursement entre le
+capital et les intérêts. Toutefois, cette disposition ne concerne pas les offres de prêts à taux variable ;
+
+3° Indique, outre le montant du crédit susceptible d'être consenti, et, le cas échéant, celui de ses fractions périodiquement
+disponibles, son coût total, son taux défini conformément à l'article L. 313-1 ainsi que, s'il y a lieu, les modalités de
+l'indexation ;
 
 4° Enonce, en donnant une évaluation de leur coût, les stipulations, les assurances et les sûretés réelles ou personnelles
 exigées, qui conditionnent la conclusion du prêt ;
@@ -10040,16 +10040,15 @@ l'emprunteur avec l'offre préalable une notice présentant les conditions et mo
 
 _Anciens textes_:
 
-  - Loi n°79-596 1979-07-13 art. 5 al. 2 à 10
   - Loi n°79-596 du 13 juillet 1979 - art. 5 (Ab)
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°96-314 du 12 avril 1996 - art. 87 (V) JORF 13 avril 1996
 
 _Cité par_:
 
@@ -10066,6 +10065,10 @@ _Cite_:
 
   - Code de la consommation - art. L312-10 (V)
   - Code de la consommation - art. L313-1 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Code de la consommation L312-33 *sanctions pénales*
 
 
 ###### Article L312-9
@@ -13033,60 +13036,11 @@ _Cité par_:
   - Code de la consommation - art. L333-7 (Ab)
 
 
-### Titre III : Réglement des situations de surendettement<a id=109></a>
+## Livre IV : Les associations de consommateurs<a id=109></a>
 
-#### Chapitre II : Redressement judiciaire civil.<a id=110></a>
+### Titre Ier : Agrément des associations<a id=110></a>
 
-###### Article L332-4
-
-Le juge charge la commission instituée à l'article L. 331-1 de conduire une mission de conciliation dans les conditions
-définies par le chapitre Ier du présent titre sauf si la commission préalablement saisie n'est pas parvenue à concilier les
-parties, si les chances de succès de cette mission sont irrémédiablement compromises ou si la situation du débiteur exige la
-mise en oeuvre immédiate de mesures de redressement judiciaire civil.
-
-La commission rend compte au juge de sa mission.
-
-**Nota:**
-
-NOTA - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°89-1010 1989-12-31 art. 11 al. 6 et 7
-  - Loi n°89-1010 du 31 décembre 1989 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 (champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie)
-
-_Abrogé par_:
-
-  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995 en vigueur le 1er août 1995
-
-_Cité par_:
-
-  - Code de la consommation - art. L331-3 (M)
-  - Code de la consommation - art. R332-10 (Ab)
-  - Code de la consommation - art. R334-18 (Ab)
-  - Code monétaire et financier - art. R131-21-1 (M)
-
-
-## Livre IV : Les associations de consommateurs<a id=111></a>
-
-### Titre Ier : Agrément des associations<a id=112></a>
-
-#### Chapitre Ier : Les associations<a id=113></a>
+#### Chapitre Ier : Les associations<a id=111></a>
 
 ###### Article L411-1
 
@@ -13163,7 +13117,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L811-1 (V)
 
 
-#### Chapitre II : Les sociétés coopératives de consommation<a id=114></a>
+#### Chapitre II : Les sociétés coopératives de consommation<a id=112></a>
 
 ###### Article L412-1
 
@@ -13204,11 +13158,11 @@ _Cité par_:
   - Code de la consommation - art. R411-7 (Ab)
 
 
-### Titre II : Actions en justice des associations<a id=115></a>
+### Titre II : Actions en justice des associations<a id=113></a>
 
-#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=116></a>
+#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=114></a>
 
-##### Section 1 : Action civile<a id=117></a>
+##### Section 1 : Action civile<a id=115></a>
 
 ###### Article L421-1
 
@@ -13384,7 +13338,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L621-5 (V)
 
 
-##### Section 2 : Action en suppression de clauses abusives.<a id=118></a>
+##### Section 2 : Action en suppression de clauses abusives.<a id=116></a>
 
 ###### Article L421-6
 
@@ -13415,7 +13369,7 @@ _Cite_:
   - Code de la consommation - art. L421-1 (V)
 
 
-##### Section 3 : Interventions en justice<a id=119></a>
+##### Section 3 : Interventions en justice<a id=117></a>
 
 ###### Article L421-7
 
@@ -13443,7 +13397,7 @@ _Cite_:
   - Code de la consommation - art. L421-2 (V)
 
 
-##### Section 4 : Dispositions communes<a id=120></a>
+##### Section 4 : Dispositions communes<a id=118></a>
 
 ###### Article L421-8
 
@@ -13509,7 +13463,7 @@ _Cite_:
   - Code pénal - art. 131-35
 
 
-#### Chapitre II : Action en représentation conjointe<a id=121></a>
+#### Chapitre II : Action en représentation conjointe<a id=119></a>
 
 ###### Article L422-1
 
@@ -13624,11 +13578,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. L622-4 (V)
 
 
-## Livre V : Les institutions<a id=122></a>
+## Livre V : Les institutions<a id=120></a>
 
-### Titre III : L'Institut national de la consommation<a id=123></a>
+### Titre III : L'Institut national de la consommation<a id=121></a>
 
-#### Chapitre Ier : Organisation administrative<a id=124></a>
+#### Chapitre Ier : Organisation administrative<a id=122></a>
 
 ###### Article L531-1
 
@@ -13653,9 +13607,9 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-### Titre VI : Le laboratoire d'essais<a id=125></a>
+### Titre VI : Le laboratoire d'essais<a id=123></a>
 
-#### Chapitre Ier : Missions<a id=126></a>
+#### Chapitre Ier : Missions<a id=124></a>
 
 ###### Article L561-1
 
@@ -13706,7 +13660,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-1 (V)
 
 
-#### Chapitre II : Fonctionnement<a id=127></a>
+#### Chapitre II : Fonctionnement<a id=125></a>
 
 ###### Article L562-1
 
@@ -13736,17 +13690,17 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-2 (V)
 
 
-# Partie réglementaire<a id=128></a>
+# Partie réglementaire<a id=126></a>
 
-## Livre III : Endettement<a id=129></a>
+## Livre III : Endettement<a id=127></a>
 
-### Titre Ier : Crédit<a id=130></a>
+### Titre Ier : Crédit<a id=128></a>
 
-#### Chapitre III : Dispositions communes<a id=131></a>
+#### Chapitre III : Dispositions communes<a id=129></a>
 
-##### Annexes<a id=132></a>
+##### Annexes<a id=130></a>
 
-##### Annexe : clauses visées au troisième alinéa de l'article L. 132-1<a id=133></a>
+##### Annexe : clauses visées au troisième alinéa de l'article L. 132-1<a id=131></a>
 
 ###### Article Annexe à l'article L132-1
 
