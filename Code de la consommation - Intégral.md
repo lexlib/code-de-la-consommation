@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1998-12-31
+Version Consolidée au 1999-02-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -175,7 +175,7 @@ Version Consolidée au 1998-12-31
         - [Chapitre III : Sanctions (art. R223-1 à R223-2)](#172)
         - [Chapitre IV : La commission de la sécurité des consommateurs (art. R224-1 à R224-12)](#173)
         - [Chapitre V : Dispositions diverses (art. D225-1 à D225-2)](#174)
-    - [Livre III : Endettement (art. D311-1 à R333-1)](#175)
+    - [Livre III : Endettement (art. D311-1 à R333-5)](#175)
       - [Titre Ier : Crédit (art. D311-1 à Annexe à l'article L132-1)](#176)
         - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#177)
           - [Section 1 : Champ d'application (art. D311-1 à D311-3)](#178)
@@ -204,36 +204,37 @@ Version Consolidée au 1998-12-31
         - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. R331-1 à R331-20)](#201)
           - [Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers. (art. R331-1 à R331-6)](#202)
           - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-7 à R331-20)](#203)
-            - [Sous-section 1 : Dispositions générales. (art. R331-7 à R331-10)](#204)
+            - [Sous-section 1 : Dispositions générales. (art. R331-7 à R331-10-2)](#204)
             - [Sous-section 2 : Vérification des créances. (art. R*331-13 à R331-12)](#205)
-            - [Sous-section 3 : Suspension des procédures d'exécution. (art. R331-14 à R331-15)](#206)
+            - [Sous-section 3 : Suspension des procédures d'exécution et remise de l'adjudication. (art. R331-14 à R331-15)](#206)
             - [Sous-section 4 : Plan conventionnel de redressement. (art. R331-16 à R331-17)](#207)
             - [Sous-section 5 : Mesures recommandées par la commission. (art. R331-18 à R331-20)](#208)
-        - [Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement (art. R332-1 à R332-8)](#209)
+        - [Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement (art. R332-1 à R332-10)](#209)
           - [Section 1 : Acquisition de la force exécutoire. (art. R332-1 à R332-3)](#210)
-          - [Section 2 : Contestation des mesures recommandées. (art. R*332-4 à R332-8)](#211)
+          - [Section 2 : Contestation des mesures recommandées. (art. R*332-4 à R332-10)](#211)
         - [Chapitre III : Dispositions communes (art. R*333-2 à R333-1)](#212)
-    - [Livre IV : Les associations de consommateurs (art. R411-1 à R422-10)](#213)
-      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#214)
-        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#215)
-      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#216)
-        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#217)
-    - [Livre V : Les institutions (art. D511-1 à R*551-1)](#218)
-      - [Titre Ier : Les organes de concertation. (art. D511-1 à R512-1)](#219)
-        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#220)
-          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#221)
-          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#222)
-          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#223)
-        - [Chapitre II : Les comités départementaux de la consommation. (art. R512-1)](#224)
-      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#225)
-        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#226)
-        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#227)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-4)](#228)
-        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-9)](#229)
-        - [Chapitre II : Organes consultatifs. (art. R*532-2 à R532-1)](#230)
-        - [Chapitre III : Dispositions financières et comptables. (art. R*533-5 à R533-4)](#231)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#232)
-      - [Titre V : La commission générale d'unification des méthodes d'analyse. (art. R*551-1)](#233)
+      - [Titre IV : Dispositions diverses. (art. R333-5)](#213)
+    - [Livre IV : Les associations de consommateurs (art. R411-1 à R422-10)](#214)
+      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#215)
+        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#216)
+      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#217)
+        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#218)
+    - [Livre V : Les institutions (art. D511-1 à R*551-1)](#219)
+      - [Titre Ier : Les organes de concertation. (art. D511-1 à R512-1)](#220)
+        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#221)
+          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#222)
+          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#223)
+          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#224)
+        - [Chapitre II : Les comités départementaux de la consommation. (art. R512-1)](#225)
+      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#226)
+        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#227)
+        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#228)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-4)](#229)
+        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-9)](#230)
+        - [Chapitre II : Organes consultatifs. (art. R*532-2 à R532-1)](#231)
+        - [Chapitre III : Dispositions financières et comptables. (art. R*533-5 à R533-4)](#232)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#233)
+      - [Titre V : La commission générale d'unification des méthodes d'analyse. (art. R*551-1)](#234)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -20508,23 +20509,25 @@ _Cité par_:
 
 ###### Article R331-2
 
-Au sein de chaque commission le préfet peut se faire représenter par un membre du corps préfectoral, le chef d'un des
-services déconcentrés de l'Etat ou un directeur de préfecture.
+Le préfet, le trésorier-payeur général et le directeur des services fiscaux ne peuvent se faire représenter respectivement
+dans chaque commission que par un seul délégué.
 
-Le trésorier-payeur général peut se faire représenter par l'un de ses adjoints ayant au moins le grade d'inspecteur principal
-adjoint ou par un receveur particulier des finances.
+Le préfet choisit son délégué parmi les membres du corps préfectoral, les chefs des services déconcentrés de l'Etat ou les
+directeurs de préfecture.
 
-En l'absence du préfet et du trésorier-payeur général, le représentant du préfet préside la commission.
+Le trésorier-payeur général choisit son délégué parmi les fonctionnaires de la trésorerie générale ayant au moins le grade
+d'inspecteur ou les receveurs des finances.
+
+Le directeur des services fiscaux choisit son délégué parmi l es fonctionnaires de la direction ayant au moins le grade
+d'inspecteur.
+
+Le délégué du préfet ne préside la commission qu'en l'absence du trésorier-payeur général.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 2 (Ab)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 1 () JORF 2 février 1999
 
 _Cité par_:
 
@@ -20559,8 +20562,9 @@ _Cité par_:
 
 Pour chaque commission, le préfet nomme par arrêté, pour une durée d'un an renouvelable, une personnalité et son suppléant
 qu'il choisit sur une liste départementale, comprenant quatre noms, qui lui est transmise par l'Association française des
-établissements de crédit, ainsi qu'une personnalité et son suppléant proposés, dans les mêmes conditions, par les
-associations familiales ou de consommateurs siégeant au comité départemental de la consommation défini à l'article R. 512-1.
+établissements de crédit et des entreprises d'investissement, ainsi qu'une personnalité et son suppléant proposés, dans les
+mêmes conditions, par les associations familiales ou de consommateurs siégeant au comité départemental de la consommation
+défini à l'article R. 512-1.
 
 S'il constate l'absence de l'une de ces personnalités et de son suppléant à trois séances consécutives de la commission, le
 préfet peut mettre fin à leur mandat avant l'expiration de la période d'un an. Il nomme alors une autre personnalité et un
@@ -20568,13 +20572,9 @@ suppléant choisis sur la même liste.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 4 (M)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 2 () JORF 2 février 1999
 
 _Cité par_:
 
@@ -20588,18 +20588,14 @@ _Cite_:
 
 ###### Article R331-5
 
-La commission ne peut valablement se réunir que si au moins quatre de ses cinq membres sont présents ou représentés. En cas
-de partage égal des voix, la voix du président est prépondérante.
+La commission ne peut valablement se réunir que si au moins quatre de ses six membres sont présents ou représentés. En cas de
+partage égal des voix, la voix du président est prépondérante.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 5 (Ab)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 3 () JORF 2 février 1999
 
 _Cité par_:
 
@@ -20639,24 +20635,29 @@ _Cité par_:
 
 La commission est saisie de la demande d'élaboration d'un plan conventionnel de redressement par une déclaration du débiteur
 remise ou adressée à son secrétariat. A peine d'irrecevabilité, la demande doit être signée par le débiteur, préciser ses nom
-et adresse, mentionner sa situation familiale, fournir un état sommaire de ses revenus et des éléments actifs et passifs de
+et adresse, mentionner sa situation familiale, fournir un état détaillé de ses revenus et des éléments actifs et passifs de
 son patrimoine et indiquer le nom et l'adresse des créanciers. La commission informe le débiteur et les créanciers de sa
-saisine par lettre simple.
+saisine par lettre simple. Le courrier adressé au débiteur mentionne qu'il peut être entendu sur demande remise ou adressée
+au secrétariat de la commission.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 9 (Ab)
+  - Décret n°99-65 du 1 février 1999 - art. 4 () JORF 2 février 1999
 
-_Créé par_:
+_Transféré par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
 
 _Cité par_:
 
   - Code de la consommation - art. R336-1 (Ab)
   - Code de la consommation - art. R336-4 (VD)
+
+_Nouveaux textes_:
+
+  - Code de la consommation R331-7-3
 
 
 ###### Article R331-8
@@ -20714,18 +20715,91 @@ _Cite_:
 
 ###### Article R331-10
 
-La commission peut demander à entendre le débiteur et les créanciers ou les faire entendre par l'un de ses membres. La
-convocation leur indique qu'ils peuvent être assistés par toute personne de leur choix.
+Les personnes que la commission entend ou décide de faire entendre par l'un de ses membres sont convoquées quinze jours au
+moins avant la date de la réunion par lettre simple.
+
+La convocation adressée au débiteur et aux créanciers leur indique qu'ils peuvent être assistés par la personne de leur
+choix.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 12 (Ab)
+  - Décret n°99-65 du 1 février 1999 - art. 5 () JORF 2 février 1999
+
+_Transféré par_:
+
+  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+
+_Nouveaux textes_:
+
+  - Code de la consommation R331-7-1
+
+
+###### Article R331-10-1
+
+La commission informe par lettre recommandée avec demande d'avis de réception les créanciers de l'état du passif déclaré par
+le débiteur. Cette lettre reproduit les dispositions des sixième et septième alinéas de l'article L. 331-3 du code de la
+consommation.
+
+Lorsque la commission est informée par le débiteur ou les créanciers que des personnes ont cautionné le remboursement d'une
+ou de plusieurs dettes, ces personnes sont avisées par lettre recommandée avec demande d'avis de réception de la saisine par
+le débiteur de la commission et invitées à justifier dans un délai de trente jours du montant des sommes le cas échéant déjà
+acquittées en exécution de leur engagement de caution et à fournir dans ce même délai toutes informations complémentaires
+utiles.
+
+Au vu de l'ensemble des éléments produits par les parties, la commission dresse l'état du passif et le notifie au débiteur
+par lettre recommandée avec demande d'avis de réception. Le courrier reproduit les dispositions du premier alinéa de
+l'article L. 331-4 du code de la consommation et précise que la contestation du débiteur est formée par déclaration motivée
+remise ou adressée par lettre recommandée avec demande d'avis de réception au secrétariat de la commission.
+
+**Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 6 () JORF 2 février 1999
+
+_Transféré par_:
+
+  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+
+_Cite_:
+
+  - Code de la consommation - art. L331-3 (M)
+  - Code de la consommation - art. L331-4 (M)
+
+_Nouveaux textes_:
+
+  - Code de la consommation R331-10
+
+
+###### Article R331-10-2
+
+Pour l'application des articles L. 331-6, L. 331-7 et L. 331-7-1, la part des ressources mensuelles du débiteur à affecter à
+l'apurement de ses dettes est calculée par application du barème prévu à l'article R. 145-2 du code du travail. Toutefois, la
+somme résultant de ce calcul est plafonnée à la différence entre le montant des ressources mensuelles réelles de l'intéressé
+et le montant du revenu minimum d'insertion, majoré de 50 % dans le cas d'un ménage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°99-65 du 1 février 1999 - art. 7 () JORF 2 février 1999
+
+_Transféré par_:
+
+  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+
+_Cite_:
+
+  - Code de la consommation - art. L331-6 (M)
+  - Code de la consommation - art. L331-7 (M)
+  - Code de la consommation - art. L331-7-1 (M)
+  - Code du travail - art. R145-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la consommation R331-15-1
 
 
 ##### Sous-section 2 : Vérification des créances.<a id=205></a>
@@ -20755,20 +20829,17 @@ Lorsqu'il y a lieu de procéder, en application de l'article L. 331-4, à la vé
 commission saisit le juge de l'exécution par lettre simple signée par son président.
 
 La lettre précise les nom, prénoms, profession et adresse du débiteur et ceux des créanciers en cause ou, pour les personnes
-morales, leur dénomination et leur siège social ; elle contient l'exposé de l'objet et des motifs de la saisine. Y sont
-annexés les documents nécessaires à la vérification des créances.
+morales, leur dénomination et leur siège social ; elle contient l'exposé de l'objet et des motifs de la saisine et indique,
+le cas échéant, que celle-ci est opérée à la demande du débiteur. Y sont annexés les documents nécessaires à la vérification
+des créances.
 
 La commission informe les créanciers concernés et le débiteur de la saisine du juge.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 13 (Ab)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 8 () JORF 2 février 1999
 
 _Cite_:
 
@@ -20799,31 +20870,44 @@ _Cité par_:
   - Code de la consommation - art. R333-3 (Ab)
 
 
-##### Sous-section 3 : Suspension des procédures d'exécution.<a id=206></a>
+##### Sous-section 3 : Suspension des procédures d'exécution et remise de l'adjudication.<a id=206></a>
 
 ###### Article R331-14
 
-Lorsque la commission demande, en application des dispositions de l'article L. 331-5, la suspension des procédures
-d'exécution diligentées contre le débiteur, elle adresse une lettre simple au secrétariat-greffe du juge de l'exécution. La
-lettre, signée du président de la commission, indique les nom, prénoms, profession et adresse du débiteur et ceux des
-créanciers poursuivants ou, pour les personnes morales, leur dénomination et leur siège social.
+I. - La suspension, en application du premier alinéa de l'article L. 331-5, des voies d'exécution diligentées contre le
+débiteur est demandée par lettre simple adressée au secrétariat-greffe du juge de l'exécution ou, postérieurement à la
+publication d'un commandement aux fins de saisie immobilière, au secrétariat-greffe du juge de la saisie immobilière. Lorsque
+la saisine du juge intervient en cas d'urgence à l'initiative du président de la commission, de son délégué ou du
+représentant local de la Banque de France, ceux-ci en informent les autres membres de la commission. Lorsque le juge est
+saisi à l'initiative du débiteur, le secrétariat-greffe en avise la commission par lettre simple.
 
-A cette lettre sont annexés un état sommaire des revenus du débiteur, un relevé des éléments actifs et passifs de son
-patrimoine, l'état de son endettement et la liste des procédures d'exécution en cours.
+La lettre de saisine du juge indique les nom, prénoms, profession et adresse du débiteur et ceux des créanciers poursuivants
+ou, pour les personnes morales, leur dénomination et leur siège social. Y sont annexés un état des revenus du débiteur, un
+relevé des éléments actifs et passifs de son patrimoine, l'état de son endettement et la liste des procédures d'exécution en
+cours.
+
+II. - Dans le cas où lui est délivrée la sommation prévue à l'article 689 du code de procédure civile (ancien), le débiteur
+en informe la commission sans délai.
+
+Si celle-ci estime opportun de faire application du troisième alinéa de l'article L. 331-5, elle saisit le juge en adressant
+au secrétariat-greffe du tribunal de grande instance par lettre simple une demande de remise de l'adjudication, cinq jours au
+moins avant la date prévue pour cette dernière, telle qu'elle est fixée par la sommation susmentionnée, en fournissant les
+indications prévues au second alinéa du I ci-dessus et en précisant en outre les causes graves et dûment justifiées invoquées
+à l'appui de la demande.
+
+Le secrétariat-greffe porte cette demande à la connaissance du débiteur et du créancier poursuivant par lettre recommandée
+avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 16 (Ab)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 10 () JORF 2 février 1999
 
 _Cite_:
 
   - Code de la consommation - art. L331-5 (M)
+  - Code de procédure civile - art. 689 (Ab)
 
 
 ###### Article R331-15
@@ -20831,7 +20915,7 @@ _Cite_:
 L'ordonnance qui suspend une ou plusieurs des procédures d'exécution est notifiée par le secrétariat-greffe aux créanciers
 poursuivants et aux agents chargés de l'exécution par lettre recommandée avec demande d'avis de réception.
 
-La notification indique que la décision peut être l'objet de la part des créanciers poursuivants d'une demande en
+La notification indique que l'ordonnance peut être l'objet de la part des créanciers poursuivants d'une demande en
 rétractation formée par déclaration signée de son auteur et remise ou adressée au secrétariat-greffe du juge de l'exécution.
 Y est jointe une copie de l'ordonnance.
 
@@ -20845,15 +20929,17 @@ demande d'avis de réception.
 
 Les ordonnances mentionnées aux alinéas précédents ne sont pas susceptibles d'appel.
 
+Le jugement statuant sur la remise de l'adjudication est notifié par lettre recommandée avec demande d'avis de réception par
+le secrétariat-greffe du tribunal de grande instance à la commission, au débiteur ainsi qu'au créancier poursuivant.
+
+La notification indique que ce jugement n'est susceptible ni d' appel, ni d'opposition.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 17 (Ab)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 11 () JORF 2 février 1999
+  - Décret n°99-65 du 1 février 1999 - art. 9 () JORF 2 février 1999
 
 
 ##### Sous-section 4 : Plan conventionnel de redressement.<a id=207></a>
@@ -20902,8 +20988,8 @@ Lorsque la commission constate qu'il lui est impossible de recueillir l'accord d
 le notifie au débiteur par lettre recommandée avec demande d'avis de réception et aux créanciers par lettre simple.
 
 Ces lettres mentionnent que le débiteur peut, dans un délai de quinze jours à compter de la notification visée à l'alinéa
-précédent, saisir la commission aux fins de voir recommander les mesures prévues à l'article L. 331-7 dont elles reproduisent
-intégralement les dispositions.
+précédent, saisir la commission aux fins de voir recommander les mesures prévues à l'article L. 331-7 ou au premier alinéa de
+l'article L. 331-7-1 dont elles reproduisent intégralement les dispositions.
 
 Lorsque, en application de l'article L. 331-5, le juge de l'exécution a prononcé la suspension d'une ou plusieurs des
 procédures d'exécution diligentées contre le débiteur, ces lettres mentionnent également que la suspension se poursuit soit
@@ -20913,18 +20999,15 @@ contestation émise à leur encontre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 20 (Ab)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 12 () JORF 2 février 1999
 
 _Cite_:
 
   - Code de la consommation - art. L331-5 (M)
   - Code de la consommation - art. L331-7 (M)
+  - Code de la consommation - art. L331-7-1 (M)
 
 
 ###### Article R331-19
@@ -20949,28 +21032,52 @@ _Cite_:
   - Code de la consommation - art. L331-7 (M)
 
 
+###### Article R331-19-1
+
+Trente jours avant le terme du moratoire prévu au premier alinéa de l'article L. 331-7-1, la commission avertit les
+créanciers et le débiteur par lettre recommandée avec demande d'avis de réception du réexamen de la situation de ce dernier à
+l'issue du moratoire.
+
+Cette lettre reproduit les dispositions des articles L. 331-7 et L. 331-7-1 et précise que le débiteur dispose d'un délai de
+trente jours pour informer la commission de l'état de son patrimoine et de toute évolution de sa situation personnelle. La
+lettre précise, en outre, qu'à défaut d'accomplir cette diligence dans le délai imparti, la commission rend son avis en
+l'état des informations dont elle dispose.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°99-65 du 1 février 1999 - art. 19 () JORF 2 février 1999
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7 (M)
+  - Code de la consommation - art. L331-7-1 (M)
+
+
 ###### Article R331-20
 
-La commission rend son avis dans les deux mois de sa saisine, après avoir recueilli ou demandé les observations des parties.
-En cas d'application des 3° et 4° de l'article L. 331-7, elle s'en explique par une motivation spéciale.
+La commission rend son avis dans les deux mois, selon le cas, de sa saisine ou de l'expiration du délai prévu à l'article R.
+331-19-1, après avoir recueilli ou demandé les observations des parties.
+
+En cas d'application des 3° et 4° de l'article L. 331-7 ou du premier ou du troisième alinéa de l'article L. 331-7-1, elle
+s'en explique par une motivation spéciale. 
 
 L'avis de la commission est communiqué aux parties par lettre recommandée avec demande d'avis de réception. Cette lettre
 mentionne les dispositions du premier alinéa de l'article L. 332-2.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 22 (Ab)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 14 () JORF 2 février 1999
 
 _Cite_:
 
   - Code de la consommation - art. L331-7 (M)
+  - Code de la consommation - art. L331-7-1 (M)
   - Code de la consommation - art. L332-2 (M)
+  - Code de la consommation R331-19-1, L331-7, L331-7-1, L332-2
 
 
 #### Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement<a id=209></a>
@@ -20979,21 +21086,21 @@ _Cite_:
 
 ###### Article R332-1
 
-Dans un délai de quinze jours après avoir rendu son avis, la commission transmet au juge de l'exécution, par lettre simple
-signée par son président, les mesures qu'elle recommande afin qu'il leur soit conféré force exécutoire.
+Dans un délai de quinze jours après avoir rendu son avis, la commission transmet au juge de l'exécution les mesures qu'elle
+recommande afin qu'il leur soit conféré force exécutoire.
 
-La lettre comporte en annexe les recommandations de la commission, les courriers mentionnés aux articles R. 331-18 et R.
-331-19, ainsi que la déclaration prévue à ce dernier article.
+La lettre comporte en annexe les recommandations de la commission, les courriers mentionnés aux articles R. 331-18, R. 331-19
+et R. 331-19-1, ainsi que la déclaration prévue au premier alinéa de l'article R. 331-19.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°95-660 du 9 mai 1995 - art. 23 (Ab)
-
 _Créé par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 15 () JORF 2 février 1999
+
+_Transféré par_:
+
+  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
 
 _Cité par_:
 
@@ -21004,31 +21111,33 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation R331-18, R331-19
+  - Code de la consommation R331-18, R331-19, R331-19-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation R331-21
 
 
 ###### Article R332-2
 
 Le juge de l'exécution vérifie, au vu des pièces transmises par la commission, que les recommandations de celle-ci sont
-conformes aux dispositions de l'article L. 331-7 et qu'elles ont été formulées dans le respect de la procédure prévue aux
-articles R. 331-18 à R. 331-20.
+conformes aux dispositions des articles L. 331-7 et L. 331-7-1 et qu'elles ont été formulées dans le respect de la procédure
+prévue aux articles R. 331-18 à R. 331-20. Il s'assure en outre du bien-fondé des mesures recommandées en application du
+troisième alinéa de l'article L. 331-7-1.
 
 Il ne peut ni les compléter ni les modifier.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 24 (Ab)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 16 () JORF 2 février 1999
 
 _Cite_:
 
   - Code de la consommation - art. L331-7 (M)
-  - Code de la consommation L331-7, R331-18 à R331-20
+  - Code de la consommation - art. L331-7-1 (M)
+  - Code de la consommation L331-7, L331-7-1, R331-18 à R331-20
 
 
 ###### Article R332-3
@@ -21042,26 +21151,24 @@ Le secrétariat-greffe établit autant de copies exécutoires de l'ordonnance qu
 avec les pièces transmises. La commission adresse à chacune des parties une copie exécutoire de l'ordonnance par lettre
 recommandée avec demande d'avis de réception.
 
-En cas d'illégalité des recommandations ou d'irrégularité de la procédure, le juge adresse copie de son ordonnance à la
-commission et lui renvoie les pièces en l'invitant à se conformer aux dispositions de l'article R. 331-20 ; le secrétariat-
-greffe en informe les parties par lettre simple.
+En cas d'illégalité des recommandations ou d'irrégularité de la procédure ou lorsque les mesures recommandées en application
+du troisième alinéa de l'article L. 331-7-1 sont infondées, le juge adresse copie de son ordonnance à la commission et lui
+renvoie les pièces en l'invitant à se conformer aux dispositions de l'article R. 331-20 ; le secrétariat-greffe en informe
+les parties par lettre simple.
 
 La décision du juge n'est pas susceptible d'appel.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 25 (Ab)
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°99-65 du 1 février 1999 - art. 17 () JORF 2 février 1999
 
 _Cite_:
 
+  - Code de la consommation - art. L331-7-1 (M)
   - Code de la consommation - art. L332-2 (M)
-  - Code de la consommation L332-2, R331-20
+  - Code de la consommation L331-7-1, L332-2, R331-20
 
 
 ##### Section 2 : Contestation des mesures recommandées.<a id=211></a>
@@ -21219,6 +21326,51 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
+###### Article R332-8-1
+
+Le juge se prononce sur la contestation en faisant application soit de l'article L. 331-7, soit de l'article L. 331-7-1..
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°99-65 du 1 février 1999 - art. 18 () JORF 2 février 1999
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7 (M)
+  - Code de la consommation - art. L331-7-1 (M)
+
+
+###### Article R332-10
+
+En cas d'effacement total d'une créance correspondant au montant d'un chèque impayé et valant régularisation de l'incident de
+paiement en application de l'article L. 332-4, l'établissement teneur de compte avise la Banque de France de cette
+régularisation au plus tard le deuxième jour ouvré suivant la remise par le débiteur d'une attestation précisant que
+l'incident de paiement est régularisé par suite de l'effacement total de la créance correspondante.
+
+Lorsque la mesure d'effacement a été prise en application de l'article L. 332-1, l'attestation est établie par la commission
+qui l'adresse au débiteur lors de l'envoi de la copie exécutoire de l'ordonnance prévu au troisième alinéa de l'article R.
+332-3.
+
+Lorsque cette mesure a été prise en application de l'article L. 332-2, l'attestation est établie par le juge de l'exécution
+et adressée au débiteur par le secrétariat-greffe lors de l'envoi du jugement prévu au deuxième alinéa de l'article R.
+332-9..
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°99-65 du 1 février 1999 - art. 19 () JORF 2 février 1999
+
+_Cite_:
+
+  - Code de la consommation - art. L332-1 (M)
+  - Code de la consommation - art. L332-2 (M)
+  - Code de la consommation - art. L332-4 (M)
+  - Code de la consommation L332-4, L332-1, R332-3, L332-2, R332-9
+
+
 #### Chapitre III : Dispositions communes<a id=212></a>
 
 ###### Article R*333-2
@@ -21337,11 +21489,50 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-## Livre IV : Les associations de consommateurs<a id=213></a>
+### Titre IV : Dispositions diverses.<a id=213></a>
 
-### Titre Ier : Agrément des associations.<a id=214></a>
+###### Article R333-5
 
-#### Chapitre Ier : Les associations.<a id=215></a>
+A réception de la notification prévue au premier alinéa de l'article R. 331-8, le débiteur en envoie une copie à l'huissier
+de justice instrumentaire par lettre recommandée avec demande d'avis de réception.
+
+Dans ce cas, les émoluments supportés par le débiteur sont égaux à la moitié de ceux prévus pour des actes de même nature par
+le décret n° 96-1080 du 12 décembre 1996 portant fixation du tarif des huissiers en matière civile et commerciale.
+
+**Nota:**
+
+La création du chapitre IV par le décret n° 2007-43 du 10 janvier 2007 engendre une rupture dans la numérotation des
+articles. Les articles R336-7 et R336-8 se placent en effet avant l'article R333-5.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°96-1080 du 12 décembre 1996
+  - Code de la consommation
+
+_Codifié par_:
+
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+_Créé par_:
+
+  - Décret n°99-65 du 1 février 1999 - art. 20 () JORF 2 février 1999
+
+_Abrogé par_:
+
+  - Décret n°2014-190 du 21 février 2014 - art. 1
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-1 (V)
+
+
+## Livre IV : Les associations de consommateurs<a id=214></a>
+
+### Titre Ier : Agrément des associations.<a id=215></a>
+
+#### Chapitre Ier : Les associations.<a id=216></a>
 
 ###### Article R411-1
 
@@ -21605,9 +21796,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : Action en justice des associations.<a id=216></a>
+### Titre II : Action en justice des associations.<a id=217></a>
 
-#### Chapitre II : Action en représentation conjointe.<a id=217></a>
+#### Chapitre II : Action en représentation conjointe.<a id=218></a>
 
 ###### Article R422-1
 
@@ -21934,13 +22125,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R622-10 (V)
 
 
-## Livre V : Les institutions<a id=218></a>
+## Livre V : Les institutions<a id=219></a>
 
-### Titre Ier : Les organes de concertation.<a id=219></a>
+### Titre Ier : Les organes de concertation.<a id=220></a>
 
-#### Chapitre Ier : Le Conseil national de la consommation.<a id=220></a>
+#### Chapitre Ier : Le Conseil national de la consommation.<a id=221></a>
 
-##### Section 1 : Missions et attributions.<a id=221></a>
+##### Section 1 : Missions et attributions.<a id=222></a>
 
 ###### Article D511-1
 
@@ -22075,7 +22266,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. D821-4 (V)
 
 
-##### Section 2 : Composition et organisation.<a id=222></a>
+##### Section 2 : Composition et organisation.<a id=223></a>
 
 ###### Article D511-5
 
@@ -22286,7 +22477,7 @@ _Cité par_:
   - Code de la consommation - art. D511-9 (Ab)
 
 
-##### Section 3 : Fonctionnement.<a id=223></a>
+##### Section 3 : Fonctionnement.<a id=224></a>
 
 ###### Article D511-12
 
@@ -22467,7 +22658,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-#### Chapitre II : Les comités départementaux de la consommation.<a id=224></a>
+#### Chapitre II : Les comités départementaux de la consommation.<a id=225></a>
 
 ###### Article R512-1
 
@@ -22501,9 +22692,9 @@ _Abrogé par_:
   - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
-### Titre II : Les organes de coordination administrative.<a id=225></a>
+### Titre II : Les organes de coordination administrative.<a id=226></a>
 
-#### Chapitre Ier : Le comité interministériel de la consommation.<a id=226></a>
+#### Chapitre Ier : Le comité interministériel de la consommation.<a id=227></a>
 
 ###### Article D521-1
 
@@ -22564,7 +22755,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-#### Chapitre II : Le groupe interministériel de la consommation.<a id=227></a>
+#### Chapitre II : Le groupe interministériel de la consommation.<a id=228></a>
 
 ###### Article D522-1
 
@@ -22734,9 +22925,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. D825-4 (Ab)
 
 
-### Titre III : L'institut national de la consommation.<a id=228></a>
+### Titre III : L'institut national de la consommation.<a id=229></a>
 
-#### Chapitre Ier : Organisation et administration.<a id=229></a>
+#### Chapitre Ier : Organisation et administration.<a id=230></a>
 
 ###### Article R531-1
 
@@ -23051,7 +23242,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-#### Chapitre II : Organes consultatifs.<a id=230></a>
+#### Chapitre II : Organes consultatifs.<a id=231></a>
 
 ###### Article R*532-2
 
@@ -23141,7 +23332,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-#### Chapitre III : Dispositions financières et comptables.<a id=231></a>
+#### Chapitre III : Dispositions financières et comptables.<a id=232></a>
 
 ###### Article R*533-5
 
@@ -23240,7 +23431,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=232></a>
+### Titre IV : Le conseil national de l'alimentation.<a id=233></a>
 
 ###### Article D541-1
 
@@ -23526,7 +23717,7 @@ _Cité par_:
   - Arrêté du 12 mai 2010 - art. 6 (V)
 
 
-### Titre V : La commission générale d'unification des méthodes d'analyse.<a id=233></a>
+### Titre V : La commission générale d'unification des méthodes d'analyse.<a id=234></a>
 
 ###### Article R*551-1
 
