@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2002-06-12
+Version Consolidée au 2002-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -182,7 +182,7 @@ Version Consolidée au 2002-06-12
         - [Chapitre IV : La commission de la sécurité des consommateurs (art. R224-1 à R224-12)](#179)
         - [Chapitre V : Dispositions diverses (art. D225-1 à D225-2)](#180)
     - [Livre III : Endettement (art. D311-1 à R333-5)](#181)
-      - [Titre Ier : Crédit (art. D311-1 à Annexe à l'article L132-1)](#182)
+      - [Titre Ier : Crédit (art. D311-1 à Annexe à l'article R313-1)](#182)
         - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#183)
           - [Section 1 : Champ d'application (art. D311-1 à D311-3)](#184)
           - [Section 3 : Crédit gratuit (art. R311-4 à R311-5)](#185)
@@ -197,54 +197,55 @@ Version Consolidée au 2002-06-12
             - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#194)
             - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#195)
           - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#196)
-        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article L132-1)](#197)
+        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article R313-1)](#197)
           - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-9)](#198)
             - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#199)
             - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-9)](#200)
           - [Section 3 : Rémunération du vendeur (art. R313-10)](#201)
-          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article L132-1)](#202)
+          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article R313-1)](#202)
             - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#203)
             - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#204)
             - [Annexe : clauses visées au troisième alinéa de l'article L. 132-1 (art. Annexe à l'article L132-1)](#205)
-      - [Titre III : Traitement des situations de surendettement (art. R331-21 à R333-1)](#206)
-        - [Chapitre Ier : Commission de surendettement des particuliers (art. R331-21)](#207)
-          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-21)](#208)
-            - [Sous-section 5 : Mesures de traitement du surendettement (art. R331-21)](#209)
-              - [Paragraphe 3 : Mesures recommandées par la commission (art. R331-21)](#210)
-        - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. R331-1 à R331-20)](#211)
-          - [Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers. (art. R331-1 à R331-6)](#212)
-          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-7 à R331-20)](#213)
-            - [Sous-section 1 : Dispositions générales. (art. R331-7 à R331-10-2)](#214)
-            - [Sous-section 2 : Vérification des créances. (art. R*331-13 à R331-12)](#215)
-            - [Sous-section 3 : Suspension des procédures d'exécution et remise de l'adjudication. (art. R331-14 à R331-15)](#216)
-            - [Sous-section 4 : Plan conventionnel de redressement. (art. R331-16 à R331-17)](#217)
-            - [Sous-section 5 : Mesures recommandées par la commission. (art. R331-18 à R331-20)](#218)
-        - [Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement (art. R332-1 à R332-10)](#219)
-          - [Section 1 : Acquisition de la force exécutoire. (art. R332-1 à R332-3)](#220)
-          - [Section 2 : Contestation des mesures recommandées. (art. R*332-4 à R332-10)](#221)
-        - [Chapitre III : Dispositions communes (art. R*333-2 à R333-1)](#222)
-      - [Titre IV : Dispositions diverses. (art. R333-5)](#223)
-    - [Livre IV : Les associations de consommateurs (art. R411-1 à R422-10)](#224)
-      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#225)
-        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#226)
-      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#227)
-        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#228)
-    - [Livre V : Les institutions (art. D511-1 à R*551-1)](#229)
-      - [Titre Ier : Les organes de concertation. (art. D511-1 à R512-1)](#230)
-        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#231)
-          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#232)
-          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#233)
-          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#234)
-        - [Chapitre II : Les comités départementaux de la consommation. (art. R512-1)](#235)
-      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#236)
-        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#237)
-        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#238)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-5)](#239)
-        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#240)
-        - [Chapitre II : Organes consultatifs. (art. R532-1)](#241)
-        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#242)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#243)
-      - [Titre V : La commission générale d'unification des méthodes d'analyse. (art. R*551-1)](#244)
+            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#206)
+      - [Titre III : Traitement des situations de surendettement (art. R331-21 à R333-1)](#207)
+        - [Chapitre Ier : Commission de surendettement des particuliers (art. R331-21)](#208)
+          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-21)](#209)
+            - [Sous-section 5 : Mesures de traitement du surendettement (art. R331-21)](#210)
+              - [Paragraphe 3 : Mesures recommandées par la commission (art. R331-21)](#211)
+        - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. R331-1 à R331-20)](#212)
+          - [Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers. (art. R331-1 à R331-6)](#213)
+          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-7 à R331-20)](#214)
+            - [Sous-section 1 : Dispositions générales. (art. R331-7 à R331-10-2)](#215)
+            - [Sous-section 2 : Vérification des créances. (art. R*331-13 à R331-12)](#216)
+            - [Sous-section 3 : Suspension des procédures d'exécution et remise de l'adjudication. (art. R331-14 à R331-15)](#217)
+            - [Sous-section 4 : Plan conventionnel de redressement. (art. R331-16 à R331-17)](#218)
+            - [Sous-section 5 : Mesures recommandées par la commission. (art. R331-18 à R331-20)](#219)
+        - [Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement (art. R332-1 à R332-10)](#220)
+          - [Section 1 : Acquisition de la force exécutoire. (art. R332-1 à R332-3)](#221)
+          - [Section 2 : Contestation des mesures recommandées. (art. R*332-4 à R332-10)](#222)
+        - [Chapitre III : Dispositions communes (art. R*333-2 à R333-1)](#223)
+      - [Titre IV : Dispositions diverses. (art. R333-5)](#224)
+    - [Livre IV : Les associations de consommateurs (art. R411-1 à R422-10)](#225)
+      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#226)
+        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#227)
+      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#228)
+        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#229)
+    - [Livre V : Les institutions (art. D511-1 à R*551-1)](#230)
+      - [Titre Ier : Les organes de concertation. (art. D511-1 à R512-1)](#231)
+        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#232)
+          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#233)
+          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#234)
+          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#235)
+        - [Chapitre II : Les comités départementaux de la consommation. (art. R512-1)](#236)
+      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#237)
+        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#238)
+        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#239)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-5)](#240)
+        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#241)
+        - [Chapitre II : Organes consultatifs. (art. R532-1)](#242)
+        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#243)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#244)
+      - [Titre V : La commission générale d'unification des méthodes d'analyse. (art. R*551-1)](#245)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -20714,8 +20715,11 @@ _Cite_:
 
 ###### Article R313-1
 
-Le taux effectif global d'un prêt est un taux annuel, proportionnel au taux de période, à terme échu et exprimé pour cent
-unités monétaires. Le taux de période et la durée de la période doivent être expressément communiqués à l'emprunteur.
+Sauf pour les opérations de crédit mentionnées au 3° de l'article L. 311-3 et à l'article L. 312-2 du présent code pour
+lesquelles le taux effectif global est un taux annuel, proportionnel au taux de période, à terme échu et exprimé pour cent
+unités monétaires, le taux effectif global d'un prêt est un taux annuel, à terme échu, exprimé pour cent unités monétaires et
+calculé selon la méthode d'équivalence définie par la formule figurant en annexe au présent code. Le taux de période et la
+durée de la période doivent être expressément communiqués à l'emprunteur.
 
 Le taux de période est calculé actuariellement, à partir d'une période unitaire correspondant à la périodicité des versements
 effectués par l'emprunteur. Il assure, selon la méthode des intérêts composés, l'égalité entre, d'une part, les sommes
@@ -20725,19 +20729,20 @@ ces éléments étant, le cas échéant, estimés.
 Lorsque la périodicité des versements est irrégulière, la période unitaire est celle qui correspond au plus petit intervalle
 séparant deux versements. Le plus petit intervalle de calcul ne peut cependant être inférieur à un mois.
 
-Lorsque les versements sont effectués avec une fréquence autre que annuelle, le taux effectif global est obtenu en
-multipliant le taux de période par le rapport entre la durée de l'année civile et celle de la période unitaire. Le rapport
-est calculé, le cas échéant, avec une précision d'au moins une décimale.
+Pour les opérations mentionnées au 3° de l'article L. 311-3 et à l'article L. 312-2, lorsque les versements sont effectués
+avec une fréquence autre que annuelle, le taux effectif global est obtenu en multipliant le taux de période par le rapport
+entre la durée de l'année civile et celle de la période unitaire. Le rapport est calculé, le cas échéant, avec une précision
+d'au moins une décimale.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Décret n°85-944 du 4 septembre 1985 - art. 1 (Ab)
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°2002-927 du 10 juin 2002 - art. 1 () JORF 11 juin 2002 en vigueur le 1er juillet 2002
 
 _Cité par_:
 
@@ -20749,6 +20754,11 @@ _Cité par_:
   - Code de la consommation - art. R313-5-2 (MMN)
   - Code de la consommation - art. R315-1 (Ab)
   - Code monétaire et financier - art. R313-1 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L311-3 (M)
+  - Code de la consommation - art. L312-2 (V)
 
 **Liens**:
 
@@ -21844,15 +21854,74 @@ _Créé par_:
   - Loi n°95-96 du 1 février 1995 - art. 1 () JORF 2 février 1995
 
 
-### Titre III : Traitement des situations de surendettement<a id=206></a>
+##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=206></a>
 
-#### Chapitre Ier : Commission de surendettement des particuliers<a id=207></a>
+###### Article Annexe à l'article R313-1
 
-##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=208></a>
+Equation de base traduisant l'équivalence des prêts, d'une part, et des remboursements et charges, d'autre part.
 
-##### Sous-section 5 : Mesures de traitement du surendettement<a id=209></a>
+(Formule non reproduite, voir Journal officiel du 11 juin 2002 p. 10357).
 
-##### Paragraphe 3 : Mesures recommandées par la commission<a id=210></a>
+Signification des lettres et symboles :
+
+K est le numéro d'ordre d'un prêt ;
+
+K' est le numéro d'ordre d'un remboursement ou d'un paiement de charges ;
+
+AK est le montant du prêt n° K ;
+
+A'K' est le montant du remboursement ou du paiement de charges n° K' ;
+
+(somme)  est le signe indiquant une somme ;
+
+m est le numéro d'ordre du dernier prêt ;
+
+m' est le numéro d'ordre du dernier remboursement ou du dernier paiement de charges ;
+
+tK est l'intervalle, exprimé en années et fractions d'années, entre la date du prêt n° 1 et celle des prêts ultérieurs n° 2 à
+m ;
+
+tK' est l'intervalle, exprimé en années et fractions d'années, entre la date du prêt n° 1 et celles des remboursements ou
+paiements de charges n° 1 à m' ;
+
+i est le taux effectif global qui peut être calculé (soit par l'algèbre, soit par approximations successives, soit par un
+programme d'ordinateur) lorsque les autres termes de l'équation sont connus, par le contrat ou autrement.
+
+Remarques
+
+a) Les sommes versées de part et d'autre à différents moments ne sont pas nécessairement égales et ne sont pas nécessairement
+versées à des intervalles égaux.
+
+b) La date initiale est celle du premier prêt.
+
+c) L'écart entre les dates utilisées pour le calcul est exprimé en années ou en fractions d'années. Une année compte 365
+jours, ou, pour les années bissextiles, 366 jours, 52 semaines ou 12 mois normalisés. Un mois normalisé compte 30,416 66
+jours (c'est-à-dire 365/12), que l'année soit bissextile ou non.
+
+d) Le résultat du calcul est exprimé avec une exactitude d'au moins une décimale. Lorsque le chiffre est arrondi à une
+décimale particulière, la règle suivante est d'application : si le chiffre de la décimale suivant cette décimale particulière
+est supérieur ou égal à 5, le chiffre de cette décimale particulière sera augmenté de 1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+_Créé par_:
+
+  - Décret n°2002-927 2002-06-10 annexe JORF 11 juin 2002 en vigueur le 1er juillet 2002
+
+
+### Titre III : Traitement des situations de surendettement<a id=207></a>
+
+#### Chapitre Ier : Commission de surendettement des particuliers<a id=208></a>
+
+##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=209></a>
+
+##### Sous-section 5 : Mesures de traitement du surendettement<a id=210></a>
+
+##### Paragraphe 3 : Mesures recommandées par la commission<a id=211></a>
 
 ###### Article R331-21
 
@@ -21886,9 +21955,9 @@ _Anciens textes_:
   - Code de la consommation R332-1
 
 
-#### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers<a id=211></a>
+#### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers<a id=212></a>
 
-##### Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers.<a id=212></a>
+##### Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers.<a id=213></a>
 
 ###### Article R331-1
 
@@ -22035,9 +22104,9 @@ _Cité par_:
   - Code de la consommation - art. R336-6 (Ab)
 
 
-##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=213></a>
+##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=214></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=214></a>
+##### Sous-section 1 : Dispositions générales.<a id=215></a>
 
 ###### Article R331-7
 
@@ -22210,7 +22279,7 @@ _Nouveaux textes_:
   - Code de la consommation R331-15-1
 
 
-##### Sous-section 2 : Vérification des créances.<a id=215></a>
+##### Sous-section 2 : Vérification des créances.<a id=216></a>
 
 ###### Article R*331-13
 
@@ -22278,7 +22347,7 @@ _Cité par_:
   - Code de la consommation - art. R333-3 (Ab)
 
 
-##### Sous-section 3 : Suspension des procédures d'exécution et remise de l'adjudication.<a id=216></a>
+##### Sous-section 3 : Suspension des procédures d'exécution et remise de l'adjudication.<a id=217></a>
 
 ###### Article R331-14
 
@@ -22350,7 +22419,7 @@ _Modifié par_:
   - Décret n°99-65 du 1 février 1999 - art. 9 () JORF 2 février 1999
 
 
-##### Sous-section 4 : Plan conventionnel de redressement.<a id=217></a>
+##### Sous-section 4 : Plan conventionnel de redressement.<a id=218></a>
 
 ###### Article R331-16
 
@@ -22388,7 +22457,7 @@ _Cite_:
   - Code de la consommation R331-7, R331-14
 
 
-##### Sous-section 5 : Mesures recommandées par la commission.<a id=218></a>
+##### Sous-section 5 : Mesures recommandées par la commission.<a id=219></a>
 
 ###### Article R331-18
 
@@ -22488,9 +22557,9 @@ _Cite_:
   - Code de la consommation R331-19-1, L331-7, L331-7-1, L332-2
 
 
-#### Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement<a id=219></a>
+#### Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement<a id=220></a>
 
-##### Section 1 : Acquisition de la force exécutoire.<a id=220></a>
+##### Section 1 : Acquisition de la force exécutoire.<a id=221></a>
 
 ###### Article R332-1
 
@@ -22579,7 +22648,7 @@ _Cite_:
   - Code de la consommation L331-7-1, L332-2, R331-20
 
 
-##### Section 2 : Contestation des mesures recommandées.<a id=221></a>
+##### Section 2 : Contestation des mesures recommandées.<a id=222></a>
 
 ###### Article R*332-4
 
@@ -22779,7 +22848,7 @@ _Cite_:
   - Code de la consommation L332-4, L332-1, R332-3, L332-2, R332-9
 
 
-#### Chapitre III : Dispositions communes<a id=222></a>
+#### Chapitre III : Dispositions communes<a id=223></a>
 
 ###### Article R*333-2
 
@@ -22894,7 +22963,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-### Titre IV : Dispositions diverses.<a id=223></a>
+### Titre IV : Dispositions diverses.<a id=224></a>
 
 ###### Article R333-5
 
@@ -22933,11 +23002,11 @@ _Cité par_:
   - Code de la consommation - art. R334-1 (V)
 
 
-## Livre IV : Les associations de consommateurs<a id=224></a>
+## Livre IV : Les associations de consommateurs<a id=225></a>
 
-### Titre Ier : Agrément des associations.<a id=225></a>
+### Titre Ier : Agrément des associations.<a id=226></a>
 
-#### Chapitre Ier : Les associations.<a id=226></a>
+#### Chapitre Ier : Les associations.<a id=227></a>
 
 ###### Article R411-1
 
@@ -23201,9 +23270,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : Action en justice des associations.<a id=227></a>
+### Titre II : Action en justice des associations.<a id=228></a>
 
-#### Chapitre II : Action en représentation conjointe.<a id=228></a>
+#### Chapitre II : Action en représentation conjointe.<a id=229></a>
 
 ###### Article R422-1
 
@@ -23530,13 +23599,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R622-10 (V)
 
 
-## Livre V : Les institutions<a id=229></a>
+## Livre V : Les institutions<a id=230></a>
 
-### Titre Ier : Les organes de concertation.<a id=230></a>
+### Titre Ier : Les organes de concertation.<a id=231></a>
 
-#### Chapitre Ier : Le Conseil national de la consommation.<a id=231></a>
+#### Chapitre Ier : Le Conseil national de la consommation.<a id=232></a>
 
-##### Section 1 : Missions et attributions.<a id=232></a>
+##### Section 1 : Missions et attributions.<a id=233></a>
 
 ###### Article D511-1
 
@@ -23671,7 +23740,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. D821-4 (V)
 
 
-##### Section 2 : Composition et organisation.<a id=233></a>
+##### Section 2 : Composition et organisation.<a id=234></a>
 
 ###### Article D511-5
 
@@ -23882,7 +23951,7 @@ _Cité par_:
   - Code de la consommation - art. D511-9 (Ab)
 
 
-##### Section 3 : Fonctionnement.<a id=234></a>
+##### Section 3 : Fonctionnement.<a id=235></a>
 
 ###### Article D511-12
 
@@ -24063,7 +24132,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-#### Chapitre II : Les comités départementaux de la consommation.<a id=235></a>
+#### Chapitre II : Les comités départementaux de la consommation.<a id=236></a>
 
 ###### Article R512-1
 
@@ -24097,9 +24166,9 @@ _Abrogé par_:
   - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
-### Titre II : Les organes de coordination administrative.<a id=236></a>
+### Titre II : Les organes de coordination administrative.<a id=237></a>
 
-#### Chapitre Ier : Le comité interministériel de la consommation.<a id=237></a>
+#### Chapitre Ier : Le comité interministériel de la consommation.<a id=238></a>
 
 ###### Article D521-1
 
@@ -24160,7 +24229,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-#### Chapitre II : Le groupe interministériel de la consommation.<a id=238></a>
+#### Chapitre II : Le groupe interministériel de la consommation.<a id=239></a>
 
 ###### Article D522-1
 
@@ -24330,9 +24399,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. D825-4 (V)
 
 
-### Titre III : L'institut national de la consommation.<a id=239></a>
+### Titre III : L'institut national de la consommation.<a id=240></a>
 
-#### Chapitre Ier : Organisation et administration.<a id=240></a>
+#### Chapitre Ier : Organisation et administration.<a id=241></a>
 
 ###### Article R531-1
 
@@ -24669,7 +24738,7 @@ _Créé par_:
   - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
-#### Chapitre II : Organes consultatifs.<a id=241></a>
+#### Chapitre II : Organes consultatifs.<a id=242></a>
 
 ###### Article R532-1
 
@@ -24683,7 +24752,7 @@ _Modifié par_:
   - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
-#### Chapitre III : Dispositions financières et comptables.<a id=242></a>
+#### Chapitre III : Dispositions financières et comptables.<a id=243></a>
 
 ###### Article R533-1
 
@@ -24800,7 +24869,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-16 (V)
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=243></a>
+### Titre IV : Le conseil national de l'alimentation.<a id=244></a>
 
 ###### Article D541-1
 
@@ -25086,7 +25155,7 @@ _Cité par_:
   - Arrêté du 12 mai 2010 - art. 6 (V)
 
 
-### Titre V : La commission générale d'unification des méthodes d'analyse.<a id=244></a>
+### Titre V : La commission générale d'unification des méthodes d'analyse.<a id=245></a>
 
 ###### Article R*551-1
 
