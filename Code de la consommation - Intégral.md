@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1994-02-11
+Version Consolidée au 1994-03-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -2548,8 +2548,7 @@ les départements de la Moselle, du Bas-Rhin et du Haut-Rhin ;
 du code du travail.
 
 Tout annonceur qui effectue ou fait effectuer une publicité interdite en vertu des alinéas précédents est puni d'une amende
-de 1 000 F à 250 000 F. Le maximum de l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à la publicité
-illégale.
+de 250 000 F. Le maximum de l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à la publicité illégale.
 
 Le tribunal peut ordonner la cessation de la publicité interdite aux frais des personnes reconnues coupables des infractions
 définies aux alinéas qui précèdent.
@@ -2558,31 +2557,30 @@ définies aux alinéas qui précèdent.
 
 _Cite_:
 
-  - Code du travail - art. L221-17 (M)
-  - Code du travail 41, 105 à 105, L221-17
   - Loi n°1841-06-25
   - Loi n°1906-12-30
   - Ordonnance 45-2088 1945-09-11
   - Loi n°73-1193 1973-12-27 art. 29, art. 32, art. 39
   - Loi n°73-1193 du 27 décembre 1973 - art. 32 (M)
   - Loi n°73-1193 du 27 décembre 1973 - art. 39 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°89-1008 1989-12-31 art. 8 al. 1 à 3, al. 5 et al. 6
-  - Loi n°89-1008 du 31 décembre 1989 - art. 8 (Ab)
+  - Code du travail - art. L221-17 (M)
+  - Code du travail 41, 105 à 105, L221-17
 
 _Cité par_:
 
   - Loi n°89-1008 du 31 décembre 1989 - art. 9 (VT)
 
+_Anciens textes_:
+
+  - Loi n°89-1008 du 31 décembre 1989 - art. 8 (Ab)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
 ##### Section 2 : Ventes à distance.<a id=20></a>
@@ -2628,27 +2626,23 @@ télépromotion avec offre de vente dites de "téléachat" reproduit ci-après :
 
 "II. - Le dirigeant de droit ou de fait d'un service de radiodiffusion sonore ou de télévision défini à l'article 2 de la
 présente loi qui aura programmé et fait diffuser ou distribuer une émission en violation des règles fixées en vertu du même
-article sera puni d'une amende de 6 000 F à 500 000 F.
+article sera puni d'une amende de 500 000 F [*sanctions pénales*].
 
-Dans le cas de récidive, l'auteur de l'infraction pourra être puni d'une amende de 100 000 F à 1 000 000 F".
+Dans le cas de récidive, l'auteur de l'infraction pourra être puni d'une amende de 1 000 000 F".
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-21 1988-01-06 art. 3 II
 
 _Cite_:
 
   - Loi n°88-21 du 6 janvier 1988 - art. 3 (M)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cité par_:
 
@@ -2672,6 +2666,7 @@ _Cité par_:
 
 _Nouveaux textes_:
 
+  - Code de la consommation - art. L121-20-8 (M)
   - Code de la consommation - art. L121-20-8 (VT)
 
 
@@ -3097,7 +3092,7 @@ _Cité par_:
 ###### Article L121-28
 
 Toute infraction aux dispositions des articles L. 121-23, L. 121-24, L. 121-25 et L. 121-26 sera punie d'une peine
-d'emprisonnement de un mois à un an et d'une amende de 1 000 F à 20 000 F ou de l'une de ces deux peines seulement.
+d'emprisonnement d'un an et d'une amende de 25 000 F ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
 
@@ -3124,13 +3119,13 @@ _Anciens textes_:
   - Loi n°72-1137 du 22 décembre 1972 - art. 5 (Ab)
   - Code de la consommation - art. L121-20-11 (VT)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cite_:
 
@@ -3542,31 +3537,31 @@ _Créé par_:
 
 ###### Article L121-41
 
-Seront punis d'une amende de 1 000 F à 250 000 F les organisateurs des opérations définies au premier alinéa de l'article L.
-121-36 qui n'auront pas respecté les conditions exigées par la présente section. Le tribunal peut ordonner la publication de
-sa décision, aux frais du condamné, par tous moyens appropriés. En cas d'infraction particulièrement grave, il peut en
-ordonner l'envoi à toutes les personnes sollicitées par lesdites opérations. Lorsqu'il en ordonne l'affichage, il y est
-procédé dans les conditions et sous les peines prévues par l'article 51 du code pénal.
+Seront punis d'une amende de 250 000 F les organisateurs des opérations définies au premier alinéa de l'article L. 121-36 qui
+n'auront pas respecté les conditions exigées par la présente section. Le tribunal peut ordonner la publication de sa
+décision, aux frais du condamné, par tous moyens appropriés. En cas d'infraction particulièrement grave, il peut en ordonner
+l'envoi à toutes les personnes sollicitées par lesdites opérations. Lorsqu'il en ordonne l'affichage, il y est procédé dans
+les conditions et sous les peines prévues par l'article 131-35 du code pénal.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°89-421 1989-06-23 art. 5 al. 8
   - Loi n°89-421 du 23 juin 1989 - art. 5 (Ab)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 331 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 _Cite_:
 
   - Code de la consommation - art. L121-36 (V)
-  - Code pénal 51
+  - Code pénal - art. 131-35 (M)
 
 
 #### Chapitre II : Pratiques commerciales illicites<a id=25></a>
@@ -3617,29 +3612,30 @@ _Cite_:
 
 ###### Article L122-2
 
-Les infractions aux dispositions du 12° de l'article R. 40 du code pénal peuvent être constatées et poursuivies dans les
-conditions fixées par les articles 45, premier et troisième alinéas, 46, 47 et 52 de l'ordonnance n° 86-1243 du 1er décembre
-1986 relative à la liberté des prix et de la concurrence.
+Les infractions aux dispositions de l'article R. 635-2 du code pénal peuvent être constatées et poursuivies dans les
+conditions fixées par les articles L. 450-1 premier et troisième alinéas, L. 450-2, L. 450-3 et L. 450-8 du code de commerce.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 86-1243 1986-12-01
-  - Code de la consommation 45
-  - Code pénal R40
-
-_Anciens textes_:
-
-  - Loi n°89-421 du 23 juin 1989 - art. 9, v. init.
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°93-949 du 26 juillet 1993 - art. 7 () JORF 27 juillet 1993 en vigueur le 1er mars 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 4 () JORF 2 septembre 2005
+
+_Cite_:
+
+  - Code de commerce. - art. L450-1 (M)
+  - Code de commerce. - art. L450-2 (V)
+  - Code de commerce. - art. L450-3 (M)
+  - Code de commerce. - art. L450-8 (M)
+  - Code pénal - art. R635-2 (V)
 
 
 ###### Article L122-3
@@ -3755,8 +3751,8 @@ _Cité par_:
 
 ###### Article L122-7
 
-Sans préjudice de l'application, le cas échéant, des peines prévues à l'article 405 du code pénal, toute infraction à la
-présente section sera punie d'une amende de 3 000 F à 30 000 F et d'un emprisonnement de onze jours à un an.
+Sans préjudice de l'application, le cas échéant, des peines prévues aux articles 313-1, 313-7 et 313-8 du code pénal, toute
+infraction à la présente section sera punie d'une amende de 30 000 F et d'un emprisonnement d'un an.
 
 Le délinquant pourra être, en outre, condamné à rembourser à ceux de ses clients qui n'auront pu être satisfaits les sommes
 versées par eux, sans qu'il puisse avoir recours contre ceux qui ont obtenu la marchandise.
@@ -3767,13 +3763,14 @@ _Anciens textes_:
 
   - Loi n°53-1090 du 5 novembre 1953 - art. 2 (Ab)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 335 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cité par_:
 
@@ -3781,7 +3778,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal 405
+  - Code pénal - art. 313-1 (M)
+  - Code pénal - art. 313-7 (MMN)
+  - Code pénal - art. 313-8 (M)
 
 
 ##### Section 4 : Abus de faiblesse<a id=29></a>
@@ -3789,10 +3788,10 @@ _Cite_:
 ###### Article L122-8
 
 Quiconque aura abusé de la faiblesse ou de l'ignorance d'une personne pour lui faire souscrire, par le moyen de visites à
-domicile, des engagements au comptant ou à crédit sous quelque forme que ce soit sera puni d'un emprisonnement de un à cinq
-ans et d'une amende de 3 600 F à 60 000 F ou de l'une de ces deux peines seulement, lorsque les circonstances montrent que
-cette personne n'était pas en mesure d'apprécier la portée des engagements qu'elle prenait ou de déceler les ruses ou
-artifices déployés pour la convaincre à y souscrire, ou font apparaître qu'elle a été soumise à une contrainte.
+domicile, des engagements au comptant ou à crédit sous quelque forme que ce soit sera puni d'un emprisonnement de cinq ans et
+d'une amende de 60 000 F ou de l'une de ces deux peines seulement, lorsque les circonstances montrent que cette personne
+n'était pas en mesure d'apprécier la portée des engagements qu'elle prenait ou de déceler les ruses ou artifices déployés
+pour la convaincre à y souscrire, ou font apparaître qu'elle a été soumise à une contrainte.
 
 **Liens relatifs à cet article**
 
@@ -3801,13 +3800,13 @@ _Anciens textes_:
   - Loi n°72-1137 1972-12-22 art. 7 al. 1
   - Loi n°72-1137 du 22 décembre 1972 - art. 7 (Ab)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cité par_:
 
@@ -4544,9 +4543,9 @@ _Créé par_:
 
 ###### Article L213-1
 
-Sera puni d'un emprisonnement de trois mois au moins, deux ans au plus et d'une amende de 1 000 F au moins, 250 000 F au plus
-ou de l'une de ces deux peines seulement quiconque, qu'il soit ou non partie au contrat, aura trompé ou tenté de tromper le
-contractant, par quelque moyen en procédé que ce soit, même par l'intermédiaire d'un tiers :
+Sera puni d'un emprisonnement de deux ans au plus et d'une amende de 250 000 F au plus ou de l'une de ces deux peines
+seulement quiconque, qu'il soit ou non partie au contrat, aura trompé ou tenté de tromper le contractant, par quelque moyen
+en procédé que ce soit, même par l'intermédiaire d'un tiers :
 
 1° Soit sur la nature, l'espèce, l'origine, les qualités substantielles, la composition ou la teneur en principes utiles de
 toutes marchandises ;
@@ -4645,13 +4644,13 @@ _Cité par_:
   - Décret n°1919-01-22 du 22 janvier 1919 - art. 35 (Ab)
   - Loi du 31 décembre 1922 - art. 9 (V)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 **Liens**:
 
@@ -4728,7 +4727,7 @@ produits agricoles ou naturels et ceux qui auront provoqué à leur emploi par l
 affiches, annonces ou instructions quelconques.
 
 Si la substance falsifiée ou corrompue ou si la substance médicamenteuse falsifiée est nuisible à la santé de l'homme ou de
-l'animal, l'emprisonnement sera de six mois à quatre ans et l'amende de 2 000 F à 500 000 F.
+l'animal, l'emprisonnement sera de quatre ans et l'amende de 500 000 F.
 
 Ces peines seront applicables même au cas où la falsification nuisible serait connue de l'acheteur ou du consommateur.
 
@@ -4739,7 +4738,6 @@ Les dispositions du présent article ne sont pas applicables aux fruits frais et
 _Anciens textes_:
 
   - Loi n°1905-08-01 du 1 août 1905 - art. 3 (Ab)
-  - Loi n°1905-08-01 art. 3
 
 _Cité par_:
 
@@ -4756,13 +4754,13 @@ _Cité par_:
   - Code du vin - art. 323 (Ab)
   - Décret du 19 août 1921 - art. 8 (VD)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cite_:
 
@@ -4771,11 +4769,11 @@ _Cite_:
 
 ###### Article L213-4
 
-Seront punis d'une amende de 500 F à 30 000 F et d'un emprisonnement de six jours au moins et de trois mois au plus ou de
-l'une de ces deux peines seulement ceux qui, sans motifs légitimes, seront trouvés détenteurs dans tous les lieux de
-fabrication, de production, de conditionnement, de stockage, de dépôt ou de vente, dans les véhicules utilisés pour le
-transport des marchandises, ainsi que dans les lieux où sont hébergés ou abattus les animaux dont la viande ou les produits
-sont destinés à l'alimentation humaine ou animale :
+Seront punis d'une amende de 30 000 F et d'un emprisonnement de trois mois au plus ou de l'une de ces deux peines seulement
+ceux qui, sans motifs légitimes, seront trouvés détenteurs dans tous les lieux de fabrication, de production, de
+conditionnement, de stockage, de dépôt ou de vente, dans les véhicules utilisés pour le transport des marchandises, ainsi que
+dans les lieux où sont hébergés ou abattus les animaux dont la viande ou les produits sont destinés à l'alimentation humaine
+ou animale :
 
 1° Soit de poids ou mesures faux ou autres appareils inexacts servant au pesage ou au mesurage des marchandises ;
 
@@ -4788,7 +4786,7 @@ savaient être falsifiés, corrompus ou toxiques ;
 ou des animaux, des boissons ou des produits agricoles ou naturels.
 
 Si la substance alimentaire falsifiée ou corrompue ou si la substance médicamenteuse falsifiée est nuisible à la santé de
-l'homme ou de l'animal, l'emprisonnement sera de trois mois à deux ans et l'amende de 1 000 F à 250 000 F.
+l'homme ou de l'animal, l'emprisonnement sera de deux ans et l'amende de 250 000 F.
 
 Les dispositions du présent article ne sont pas applicables aux fruits frais et légumes frais, fermentés ou corrompus.
 
@@ -4801,7 +4799,6 @@ la proportion de ceux de ces éléments dont l'emploi n'est admis par les lois e
 _Anciens textes_:
 
   - Loi n°1905-08-01 du 1 août 1905 - art. 4 (Ab)
-  - Loi n°1905-08-01 art. 4 al. 1 à al. 9
 
 _Cité par_:
 
@@ -4825,13 +4822,13 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2224-29 (V)
   - Décret n°1919-01-22 du 22 janvier 1919 - art. 35 (Ab)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cite_:
 
@@ -6320,10 +6317,10 @@ Au cas de suppression, de dissimulation ou de lacération totale ou partielle de
 condamnation, il sera procédé de nouveau à l'exécution intégrale des dispositions du jugement relatives à l'affichage.
 
 Lorsque la suppression, la dissimulation ou la lacération totale ou partielle aura été opérée volontairement par le condamné,
-à son instigation ou par ses ordres, elle entraînera contre celui-ci l'application d'une peine d'amende de 500 F à 15 000 F.
+à son instigation ou par ses ordres, elle entraînera contre celui-ci l'application d'une peine d'amende de 25 000 F.
 
 La récidive de suppression, de dissimulation ou de lacération volontaire d'affiches par le condamné, à son instigation ou par
-ses ordres, sera punie d'un emprisonnement de six jours à un mois et d'une amende de 1 000 F à 20 000 F.
+ses ordres, sera punie d'un emprisonnement d'un mois et d'une amende de 50 000 F.
 
 Lorsque l'affichage aura été ordonné à la porte des magasins du condamné, l'exécution du jugement ne pourra être entravée par
 la vente du fonds de commerce réalisée postérieurement à la première décision qui a ordonné l'affichage.
@@ -6333,7 +6330,6 @@ la vente du fonds de commerce réalisée postérieurement à la première décis
 _Anciens textes_:
 
   - Loi n°1905-08-01 du 1 août 1905 - art. 7 (Ab)
-  - Loi n°1905-08-01 art. 7
 
 _Cité par_:
 
@@ -6347,6 +6343,31 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1776 (V)
   - Code général des impôts, CGI. - art. 1789 (V)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+
+###### Article L216-4
+
+Toute poursuite exercée en vertu des chapitres II à VI devra être continuée et terminée en vertu des mêmes textes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°1905-08-01 art. 8
+  - Loi n°1905-08-01 du 1 août 1905 - art. 8 (MMN)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 323 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
@@ -6354,6 +6375,20 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L217-10 (VT)
+  - Code forestier (nouveau) - art. L163-17 (VD)
+  - Code forestier - art. L555-3 (VT)
+
+_Cite_:
+
+  - Code pénal
 
 
 ###### Article L216-5
@@ -6699,40 +6734,6 @@ _Nouveaux textes_:
   - Code de la consommation - art. L451-16 (V)
 
 
-###### Article L217-5
-
-L'article 463 du code pénal sera applicable aux délits prévus par les articles L. 217-2 et L. 217-3.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 323 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-_Cité par_:
-
-  - Décret n°2015-1417 du 4 novembre 2015 (V)
-
-_Cite_:
-
-  - Code de la consommation - art. L217-2 (M)
-  - Code de la consommation - art. L217-3 (V)
-  - Code pénal 463
-
-_Anciens textes_:
-
-  - Loi n°1928-06-24 art. 3
-  - Loi n°1928-06-24 du 24 juin 1928 - art. 4 (Ab)
-
-
 ###### Article L217-6
 
 Quiconque, sur des produits naturels ou fabriqués, détenus ou transportés en vue de la vente, mis en vente ou vendus en
@@ -6860,43 +6861,12 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-###### Article L217-9
-
-L'article 463 du code pénal sera applicable, même en cas de récidive, aux délits prévus par les articles L. 217-6 et L.
-217-7.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1930-03-26 art. 4
-  - Loi n°1930-03-26 du 26 mars 1930 - art. 4 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 323 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-_Cite_:
-
-  - Code de la consommation - art. L217-6 (V)
-  - Code de la consommation - art. L217-7 (V)
-  - Code pénal 463
-
-
 ###### Article L217-10
 
 Quiconque aura mis les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes
 dans l'impossibilité d'accomplir leurs fonctions, soit en leur refusant l'entrée de leurs locaux de fabrication, de dépôt ou
 de vente, soit de toute autre manière, sera passible des peines prévues par les articles L. 213-1, L. 213-5 et L. 216-3 du
-présent code, sans préjudice des peines prévues par les articles 209 et suivants du code pénal.
+présent code, sans préjudice des peines prévues aux articles 433-6 à 433-10 du code pénal.
 
 Les dispositions de l'article L. 216-4 sont applicables aux infractions visées au présent article.
 
@@ -6928,9 +6898,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°93-949 du 26 juillet 1993 - art. 7 () JORF 27 juillet 1993 en vigueur le 1er mars 1994
 
 _Cite_:
 
@@ -6938,7 +6908,7 @@ _Cite_:
   - Code de la consommation - art. L213-5 (M)
   - Code de la consommation - art. L216-3 (M)
   - Code de la consommation - art. L216-4 (V)
-  - Code pénal 209
+  - Code pénal 433-6 à 433-10
 
 
 ### Titre II : Sécurité<a id=56></a>
@@ -7650,8 +7620,8 @@ _Cité par_:
 ###### Article L224-4
 
 La commission peut se faire communiquer tous les renseignements ou consulter sur place tous les documents qu'elle estime
-utiles à l'accomplissement de sa mission, sans que puissent lui être opposées les dispositions des articles 378 et 418 du
-code pénal.
+utiles à l'accomplissement de sa mission, sans que puissent lui être opposées les dispositions des articles 226-13 et 226-14
+du code pénal et L. 152-7 du code du travail.
 
 Le président peut, par décision motivée, procéder ou faire procéder par les membres ou les agents de la commission à la
 convocation ou à l'audition de toute personne susceptible de lui fournir des informations concernant des affaires dont la
@@ -7669,21 +7639,27 @@ connaissance de la commission les éléments relatifs au caractère dangereux de
 
 _Anciens textes_:
 
-  - Loi n°83-660 1983-07-21 art. 16
   - Loi n°83-660 du 21 juillet 1983 - art. 16 (MMN)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 314 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2010-737 du 1er juillet 2010 - art. 62
 
 _Cite_:
 
-  - Code de la consommation - art. L221-7 (M)
-  - Code pénal 378, 418
+  - Code de la consommation - art. L221-7
+  - Code pénal - art. 226-13
+  - Code pénal - art. 226-14
 
 _Cité par_:
 
@@ -7719,26 +7695,31 @@ _Abrogé par_:
 
 Les membres et les agents de la commission sont astreints au secret professionnel pour les faits, actes et renseignements
 dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions et sous les peines prévues à l'article
-378 du code pénal ou de l'article 418 en cas de divulgation d'informations relevant du secret de fabrication.
+226-13 du code pénal ou de l'article L. 621-1 du code de propriété intellectuelle en cas de divulgation d'informations
+relevant du secret de fabrication.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°83-660 du 21 juillet 1983 - art. 18 (M)
   - Loi n°83-660 du 21 juillet 1983 - art. 18 (MMN)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2010-737 du 1er juillet 2010 - art. 62
 
 _Cite_:
 
-  - Code pénal 378 et 418
+  - Code pénal
+  - Code pénal - art. 226-13
 
 
 #### Chapitre V : Dispositions diverses<a id=61></a>
@@ -9043,14 +9024,14 @@ _Cite_:
 ###### Article L311-34
 
 Le prêteur qui omet de respecter les formalités prescrites aux articles L. 311-8 à L. 311-13 et de prévoir un formulaire
-détachable dans l'offre de crédit, en application de l'article L. 311-15, sera puni d'une amende de 6 000 F à 12 000 F.
+détachable dans l'offre de crédit, en application de l'article L. 311-15, sera puni d'une amende de 1 500 euros. 
 
 La même peine est applicable à l'annonceur pour le compte duquel est diffusée une publicité non conforme aux dispositions des
 articles L. 311-4 à L. 311-6. Si le contrevenant est une personne morale, la responsabilité incombe à ses dirigeants. La
-complicité est punissable dans les conditions du droit commun.
+complicité est punissable dans les conditions du droit commun. 
 
 Le tribunal pourra également ordonner la publication du jugement et la rectification de la publicité aux frais du condamné ou
-l'une de ces deux peines seulement.
+l'une de ces deux peines seulement. 
 
 Les peines prévues au premier alinéa du présent article sont également applicables au vendeur qui contrevient aux
 dispositions de l'article L. 311-7.
@@ -9059,16 +9040,19 @@ dispositions de l'article L. 311-7.
 
 _Anciens textes_:
 
-  - Loi n°78-22 du 10 janvier 1978 - art. 24 (M)
   - Loi n°78-22 du 10 janvier 1978 - art. 24 (Ab)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
 
 _Cité par_:
 
@@ -9078,14 +9062,19 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L311-15 (V)
-  - Code de la consommation - art. L311-7 (M)
-  - Code de la consommation L311-15, L311-4 à L311-6, L311-7
+  - Code de la consommation - art. L311-15 (VT)
+  - Code de la consommation - art. L311-4 (VT)
+  - Code de la consommation - art. L311-7 (VT)
+  - Code de la consommation - art. L311-8 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L311-49 (VD)
 
 
 ###### Article L311-35
 
-Sera puni d'une amende de 2 000 F à 200 000 F :
+Sera puni d'une amende de 200 000 F :
 
 1° Le prêteur ou le vendeur qui, en infraction aux dispositions de l'article L. 311-17 et de l'article L. 311-27, réclame ou
 reçoit de l'emprunteur ou de l'acheteur un paiement sous quelque forme que ce soit ;
@@ -9110,13 +9099,13 @@ _Anciens textes_:
 
   - Loi n°78-22 du 10 janvier 1978 - art. 25 (Ab)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cite_:
 
@@ -10538,7 +10527,7 @@ _Nouveaux textes_:
 ###### Article L312-32
 
 L'annonceur pour le compte de qui est diffusée une publicité non conforme aux dispositions des articles L. 312-4 à L. 312-6
-ou de l'article L. 312-25 sera puni d'une amende de 2 000 F à 200 000 F.
+ou de l'article L. 312-25 sera puni d'une amende de 200 000 F. 
 
 Les dispositions des articles L. 121-2 à L. 121-7 sont applicables aux infractions relatives à la publicité relevées dans le
 cadre du présent chapitre.
@@ -10549,13 +10538,13 @@ _Anciens textes_:
 
   - Loi n°79-596 du 13 juillet 1979 - art. 30 (Ab)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cite_:
 
@@ -10566,17 +10555,18 @@ _Cite_:
 ###### Article L312-33
 
 Le prêteur ou le bailleur qui ne respecte pas l'une des obligations prévues aux articles L. 312-7 et L. 312-8, à l'article L.
-312-14, deuxième alinéa, ou à l'article L. 312-26 sera puni d'une amende de 2 000 F à 20 000 F.
+312-14, deuxième alinéa, ou à l'article L. 312-26 sera puni d'une amende de 25 000 F.
 
 Le prêteur qui fait souscrire par l'emprunteur ou les cautions déclarées, ou reçoit de leur part l'acceptation de l'offre
 sans que celle-ci comporte de date ou dans le cas où elle comporte une date fausse de nature à faire croire qu'elle a été
-donnée après expiration du délai de dix jours prescrit à l'article L. 312-10, sera puni d'une amende de 2 000 F à 200 000 F.
+donnée après expiration du délai de dix jours prescrit à l'article L. 312-10, sera puni d'une amende de 200 000 F.
 
 La même peine sera applicable au bailleur qui fait souscrire par le preneur ou qui reçoit de sa part l'acceptation de l'offre
 sans que celle-ci comporte de date ou dans le cas où elle comporte une date fausse de nature à faire croire qu'elle a été
-donnée après l'expiration du délai de dix jours prescrit à l'article L. 312-27.    Dans les cas prévus aux alinéas
-précédents, le prêteur ou le bailleur pourra en outre être déchu du droit aux intérêts, en totalité ou dans la proportion
-fixée par le juge.
+donnée après l'expiration du délai de dix jours prescrit à l'article L. 312-27.
+
+Dans les cas prévus aux alinéas précédents, le prêteur ou le bailleur pourra en outre être déchu du droit aux intérêts, en
+totalité ou dans la proportion fixée par le juge.
 
 **Liens relatifs à cet article**
 
@@ -10584,13 +10574,14 @@ _Anciens textes_:
 
   - Loi n°79-596 du 13 juillet 1979 - art. 31 (Ab)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cite_:
 
@@ -10611,7 +10602,7 @@ _Cite_:
 Le prêteur ou le bailleur qui, en infraction aux dispositions de l'article L. 312-11 ou de l'article L. 312-28, accepte de
 recevoir de l'emprunteur ou du preneur, ou pour le compte d'un de ces derniers, un versement ou un dépôt, un chèque ou un
 effet de commerce souscrit, endossé ou avalisé à son profit, ou utilise une autorisation de prélèvement sur compte bancaire
-ou postal, sera puni d'une amende de 2 000 F à 200 000 F.
+ou postal, sera puni d'une amende de 200 000 F.
 
 **Liens relatifs à cet article**
 
@@ -10619,13 +10610,13 @@ _Anciens textes_:
 
   - Loi n°79-596 du 13 juillet 1979 - art. 32 (Ab)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cite_:
 
@@ -10636,7 +10627,7 @@ _Cite_:
 
 Le prêteur, en infraction aux dispositions du premier alinéa de l'article L. 312-14, ou le vendeur, en infraction aux
 dispositions de l'article L. 312-16, ou le bailleur, en infraction aux dispositions du dernier alinéa de l'article L. 312-30,
-qui ne restitue pas les sommes visées à ces articles, sera puni d'une amende de 2 000 F à 200 000 F.
+qui ne restitue pas les sommes visées à ces articles, sera puni d'une amende de 200 000 F.
 
 La même peine sera applicable à celui qui réclame à l'emprunteur ou au preneur ou retient sur son compte des sommes
 supérieures à celles qu'il est autorisé à réclamer ou à retenir en application des dispositions de l'article L. 312-23 ou des
@@ -10648,13 +10639,13 @@ _Anciens textes_:
 
   - Loi n°79-596 du 13 juillet 1979 - art. 33 (Ab)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cite_:
 
@@ -10781,7 +10772,7 @@ _Nouveaux textes_:
 Le taux effectif global déterminé comme il est dit à l'article L. 313-1 doit être mentionné dans tout écrit constatant un
 contrat de prêt régi par la présente section.
 
-Toute infraction aux dispositions du présent article sera punie d'une amende de 2 000 F à 30 000 F.
+Toute infraction aux dispositions du présent article sera punie d'une amende de 30 000 F.
 
 **Liens relatifs à cet article**
 
@@ -10793,18 +10784,16 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°66-1010 1966-12-28 art. 4 et art. 16 al. 1
   - Loi n°66-1010 du 28 décembre 1966 - art. 16 (M)
   - Loi n°66-1010 du 28 décembre 1966 - art. 4 (Ab)
-  - Loi n°79-596 1979-07-13 art. 37 al. 2
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 **Liens**:
 
@@ -10854,13 +10843,13 @@ _Cite_:
 
 Quiconque consent à autrui un prêt usuraire ou apporte sciemment à quelque titre et de quelque manière que ce soit,
 directement ou indirectement, son concours à l'obtention ou à l'octroi d'un prêt usuraire ou d'un prêt qui deviendrait
-usuraire au sens de l'article L. 313-3 du fait de son concours est puni d'un emprisonnement de deux mois à deux ans et d'une
-amende de 2 000 F à 300 000 F ou de l'une de ces deux peines seulement.
+usuraire au sens de l'article L. 313-3 du fait de son concours est puni d'un emprisonnement de deux ans et d'une amende de
+300 000 F ou de l'une de ces deux peines seulement.
 
 En outre, le tribunal peut ordonner :
 
 1° La publication intégrale, ou par extraits, de sa décision, aux frais du condamné, dans les journaux qu'il désigne, ainsi
-que l'affichage de cette décision dans les conditions prévues à l'article 51 du code pénal ;
+que l'affichage de cette décision dans les conditions prévues à l'article 131-35 du code pénal ;
 
 2° La fermeture, provisoire ou définitive, de l'entreprise dont l'une des personnes chargées de l'administration ou de la
 direction est condamnée en application de l'alinéa premier du présent article, assortie éventuellement de la nomination d'un
@@ -10890,17 +10879,18 @@ _Cité par_:
   - Code des assurances - art. L322-2 (M)
   - Code monétaire et financier - art. L353-1 (M)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 331 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 _Cite_:
 
-  - Code pénal 51
+  - Code pénal - art. 131-35 (M)
 
 
 ###### Article L313-6
@@ -11295,8 +11285,7 @@ _Cité par_:
 ###### Article L322-1
 
 Tout intermédiaire qui aura perçu une somme d'argent à l'occasion de l'une des opérations mentionnées à l'article L. 321-1
-sera puni d'un emprisonnement de trois mois à un an et d'une amende de 6 000 F à 200 000 F ou de l'une de ces deux peines
-seulement.
+sera puni d'un emprisonnement d'un an et d'une amende de 200 000 F ou de l'une de ces deux peines seulement.
 
 Le tribunal pourra en outre ordonner, aux frais du condamné, la publication intégrale ou par extraits du jugement dans les
 journaux qu'il fixe, sans que le coût de cette publication puisse excéder le montant de l'amende encourue.
@@ -11305,16 +11294,15 @@ journaux qu'il fixe, sans que le coût de cette publication puisse excéder le m
 
 _Anciens textes_:
 
-  - Loi n°85-1097 1985-11-15 art. 5
   - Loi n°85-1097 du 11 octobre 1985 - art. 5 (Ab)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cite_:
 
@@ -13097,7 +13085,7 @@ _Nouveaux textes_:
 
 La juridiction saisie peut ordonner la diffusion, par tous moyens appropriés, de l'information au public du jugement rendu.
 Lorsqu'elle ordonne l'affichage de l'information en application du présent alinéa, il est procédé à celui-ci dans les
-conditions et sous les peines prévues par l'article 51 du code pénal.
+conditions et sous les peines prévues par l'article 131-35 du code pénal.
 
 Cette diffusion a lieu aux frais de la partie qui succombe ou du condamné ou de l'association qui s'est constituée partie
 civile lorsque les poursuites engagées à son initiative ont donné lieu à une décision de relaxe.
@@ -13106,20 +13094,27 @@ civile lorsque les poursuites engagées à son initiative ont donné lieu à une
 
 _Anciens textes_:
 
-  - Loi n°88-14 du 5 janvier 1988 - art. 8 (M)
   - Loi n°88-14 du 5 janvier 1988 - art. 8 (MMN)
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 331 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L621-11 (V)
 
 _Cite_:
 
-  - Code pénal 51
+  - Code pénal - art. 131-35
 
 
 #### Chapitre II : Action en représentation conjointe<a id=119></a>
