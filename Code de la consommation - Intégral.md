@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2001-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -2308,8 +2308,8 @@ _Nouveaux textes_:
 
 Constitue une certification de produit ou de service soumise aux dispositions de la présente section l'activité par laquelle
 un organisme, distinct du fabricant, de l'importateur, du vendeur ou du prestataire, atteste, à la demande de celui-ci
-effectuée à des fins commerciales, qu'un produit ou un service est conforme à des caractéristiques décrites dans un
-référentiel et faisant l'objet de contrôles.
+effectuée à des fins commerciales ou non commerciales, qu'un produit ou un service est conforme à des caractéristiques
+décrites dans un référentiel et faisant l'objet de contrôles.
 
 Le référentiel est un document technique définissant les caractéristiques que doit présenter un produit ou un service et les
 modalités du contrôle de la conformité du produit ou du service à ces caractéristiques.
@@ -2352,7 +2352,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-442 du 3 juin 1994 - art. 1 () JORF 4 juin 1994
+  - Loi - art. 6 (V) JORF 29 décembre 2001
 
 
 ###### Article L115-28
