@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-01-07
+Version Consolidée au 2005-01-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -14547,15 +14547,17 @@ _Cité par_:
 La commission a pour mission de traiter, dans les conditions prévues par le présent chapitre, la situation de surendettement
 des personnes physiques définie au premier alinéa de l'article L. 330-1, 
   _ainsi qu'à l'engagement qu'il a donné de cautionner ou d'acquitter solidairement la dette d'un entrepreneur individuel ou
-d'une société dès lors qu'il n'a pas été, en droit ou en fait, dirigeant de celle-ci. (1)_
+d'une société dès lors qu'il n'a pas été, en droit ou en fait, dirigeant de celle-ci_. (1)
 
 Le montant des remboursements résultant de l'application des articles L. 331-6 ou L. 331-7 est fixé, dans des conditions
 précisées par décret, par référence à la quotité saisissable du salaire telle qu'elle résulte de l'article L. 145-2 du code
 du travail, de manière à ce qu'une partie des ressources nécessaire aux dépenses courantes du ménage lui soit réservée par
 priorité. Cette part de ressources, qui ne peut être inférieure à un montant égal au revenu minimum d'insertion dont
-disposerait le ménage, est fixée par la commission après avis de la personne justifiant d'une expérience dans le domaine de
-l'économie sociale et familiale visée au dernier alinéa de l'article L. 331-1, et mentionnée dans le plan conventionnel de
-redressement prévu à l'article L. 331-6 ou dans les recommandations prévues aux articles L. 331-7 et L. 331-7-1.
+disposerait le ménage, intègre le montant des dépenses de logement, de nourriture et de scolarité, dans la limite d'un
+plafond, selon des modalités définies par décret. Elle est fixée par la commission après avis de la personne justifiant d'une
+expérience dans le domaine de l'économie sociale et familiale visée au dernier alinéa de l'article L. 331-1, et mentionnée
+dans le plan conventionnel de redressement prévu à l'article L. 331-6 ou dans les recommandations prévues aux articles L.
+331-7 et L. 331-7-1.
 
 **Nota:**
 
@@ -14600,8 +14602,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
-  - Loi n°2003-721 du 1 août 2003 - art. 11 () JORF 5 août 2003
+  - Loi n°2005-32 du 18 janvier 2005 - art. 124 () JORF 19 janvier 2005
 
 _Cite_:
 
@@ -15761,6 +15762,30 @@ _Cité par_:
   - Code de la consommation - art. R*333-4 (Ab)
 
 
+###### Article L333-1-1
+
+Dans les procédures ouvertes en application du présent titre, les créances des bailleurs sont réglées prioritairement aux
+créances des établissements de crédit et aux crédits visés aux articles L. 311-1 et suivants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2005-32 du 18 janvier 2005 - art. 125 () JORF 19 janvier 2005
+
+_Cite_:
+
+  - Code de la consommation - art. L311-1 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L331-6 (VT)
+
+
 ###### Article L333-2
 
 Est déchue du bénéfice des dispositions du présent titre :
@@ -15884,7 +15909,8 @@ soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'info
 
 Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
 établissements de crédit ainsi que les services financiers de La Poste sont tenus de déclarer à la Banque de France les
-incidents visés à l'alinéa précédent.
+incidents visés à l'alinéa précédent. Les frais afférents à cette déclaration ne peuvent être facturés aux personnes
+physiques concernées.
 
 Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur en application du premier alinéa de l'article
 L. 331-3, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa du présent
@@ -15916,11 +15942,6 @@ quiconque copie, sous quelque forme que ce soit, des informations contenues dans
 exerce son droit d'accès conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions
 prévues aux articles 43 et 44 de la même loi.
 
-**Nota:**
-
-Nota - article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du
-16 décembre 1994.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -15949,7 +15970,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-801 du 6 août 2004 - art. 18 () JORF 7 août 2004
+  - Loi n°2005-32 du 18 janvier 2005 - art. 126 () JORF 19 janvier 2005
 
 _Cité par_:
 
