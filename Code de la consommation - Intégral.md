@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1998-05-26
+Version Consolidée au 1998-07-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -6016,7 +6016,7 @@ de police judiciaire désignés à l'article 20 dudit code ;
 
 3° Les vétérinaires inspecteurs, les préposés sanitaires, les agents techniques sanitaires ;
 
-4° Les médecins inspecteurs départementaux de la santé ;
+4° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de santé publique ;
 
 5° Les agents de l'Institut français de recherche pour l'exploitation de la mer ;
 
@@ -6172,7 +6172,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°97-1051 du 18 novembre 1997 - art. 38 () JORF 19 novembre 1997
+  - Loi n°98-535 du 1 juillet 1998 - art. 26 () JORF 2 juillet 1998
 
 _Anciens textes_:
 
@@ -6180,10 +6180,10 @@ _Anciens textes_:
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 16 (M)
-  - CODE DE PROCEDURE PENALE - art. 20 (M)
   - Décret-loi 1938-06-14 art. 3
   - Loi n°1912-02-27 art. 65
+  - CODE DE PROCEDURE PENALE - art. 16 (M)
+  - CODE DE PROCEDURE PENALE - art. 20 (M)
 
 
 ###### Article L215-2
@@ -7954,8 +7954,8 @@ régionales de l'industrie, de la recherche et de l'environnement ;
 4° Les agents de la direction générale de l'alimentation du ministère de l'agriculture (service de la qualité alimentaire et
 des actions vétérinaires et service des politiques industrielles agro-alimentaires) ;
 
-5° Les pharmaciens inspecteurs, les médecins inspecteurs du ministère de la santé et les agents visés à l'article L. 48 du
-code de la santé publique ;
+5° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de santé publique et les agents visés à
+l'article L. 48 du code de la santé publique ;
 
 6° Les inspecteurs du travail ;
 
@@ -7965,13 +7965,6 @@ protection de l'environnement ;
 8° Les services de police et de gendarmerie.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°76-663 du 19 juillet 1976 - art. 22 (Ab)
-  - Code de la consommation - art. L221-6 (M)
-  - Code de la consommation - art. L222-2 (Ab)
-  - Code de la santé publique - art. L48 (Ab)
 
 _Cité par_:
 
@@ -7987,16 +7980,19 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°83-660 1983-07-21 art. 4
   - Loi n°83-660 du 21 juillet 1983 - art. 4 (Ab)
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°98-535 du 1 juillet 1998 - art. 26 () JORF 2 juillet 1998
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 
 ###### Article L222-2
