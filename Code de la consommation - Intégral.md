@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1993-07-27
+Version Consolidée au 1993-07-27 00:00:01 +0200
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -9512,27 +9512,32 @@ déterminé par décret.
 
 _Anciens textes_:
 
-  - Loi n°79-596 du 13 juillet 1979 - art. 13 (M)
   - Loi n°79-596 du 13 juillet 1979 - art. 13 (Ab)
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°93-949 du 26 juillet 1993
 
 _Cité par_:
 
   - Ordonnance n°2016-131 du 10 février 2016 - art. 7 (V)
+  - Code de la consommation - art. L312-23 (VT)
   - Code de la consommation - art. L313-14-1 (VT)
   - Code de la consommation - art. R312-3 (MMN)
 
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L313-50 (V)
+  - Code de la consommation - art. L313-51 (VD)
+
 _Cite_:
 
-  - Code civil - art. 1152 (M)
-  - Code civil - art. 1231 (M)
+  - Code civil - art. 1152
+  - Code civil - art. 1231
 
 
 ##### Sous-section 3 : Dispositions communes<a id=81></a>
@@ -9812,24 +9817,25 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
-  - Code de la consommation - art. L312-35 (V)
+  - Code de la consommation - art. L312-35 (VT)
   - Code de la consommation - art. R312-4 (Ab)
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Code de la consommation L312-35 *sanctions pénales*
+  - Code de la consommation - art. L313-60 (VT)
+  - Code de la consommation - art. L313-61 (V)
 
 _Cite_:
 
-  - Code civil - art. 1152 (M)
+  - Code civil - art. 1152
 
 
 ###### Article L312-30
