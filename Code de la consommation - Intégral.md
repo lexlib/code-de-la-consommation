@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1998-01-24
+Version Consolidée au 1998-05-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -18,7 +18,7 @@ Version Consolidée au 1998-01-24
           - [Section 3 : Appellations d'origine protégées, indications géographiques protégées et attestations de spécificité. (art. L115-26-1 à L115-26-4)](#15)
           - [Section 4 : Certification des services et des produits autres qu'alimentaires. (art. L115-27 à L115-33)](#16)
       - [Titre II : Pratiques commerciales (art. L121-1 à L122-11)](#17)
-        - [Chapitre Ier : Pratiques commerciales réglementées (art. L121-1 à L121-53)](#18)
+        - [Chapitre Ier : Pratiques commerciales réglementées (art. L121-1 à L121-82)](#18)
           - [Section 1 : Publicité. (art. L121-1 à L121-15)](#19)
           - [Section 2 : Ventes à distance. (art. L121-16 à L121-20)](#20)
           - [Section 3 : Démarchage (art. L121-21 à L121-33)](#21)
@@ -26,210 +26,211 @@ Version Consolidée au 1998-01-24
           - [Section 5 : Ventes ou prestations avec primes (art. L121-35)](#23)
           - [Section 6 : Loteries publicitaires (art. L121-36 à L121-41)](#24)
           - [Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons (art. L121-50 à L121-53)](#25)
-        - [Chapitre II : Pratiques commerciales illicites (art. L122-1 à L122-11)](#26)
-          - [Section 1 : Refus et subordination de vente ou de prestation de services (art. L122-1)](#27)
-          - [Section 2 : Ventes sans commande préalable. (art. L122-2 à L122-5)](#28)
-          - [Section 3 : Ventes ou prestations "à la boule de neige" (art. L122-6 à L122-7)](#29)
-          - [Section 4 : Abus de faiblesse (art. L122-8 à L122-11)](#30)
-      - [Titre III : Conditions générales des contrats (art. L131-1 à L135-1)](#31)
-        - [Chapitre Ier : Arrhes et acompte (art. L131-1 à L131-3)](#32)
-        - [Chapitre II : Clauses abusives (art. L132-1 à L132-5)](#33)
-          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. L132-1)](#34)
-          - [Section 2 : La commission des clauses abusives. (art. L132-2 à L132-5)](#35)
-        - [Chapitre III : Interprétation et forme des contrats (art. L133-1 à L133-2)](#36)
-        - [Chapitre IV : Remise des contrats (art. L134-1)](#37)
-        - [Chapitre V : Du conflit des lois relatives aux clauses abusives (art. L135-1)](#38)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L141-1)](#39)
-        - [Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. L141-1)](#40)
-    - [Livre II : Conformité et sécurité des produits et des services (art. L211-1 à L225-1)](#41)
-      - [Titre Ier : Conformité (art. L211-1 à L217-10)](#42)
-        - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-2)](#43)
-          - [Section 1 : Garantie légale. (art. L211-1)](#44)
-          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. L211-2)](#45)
-        - [Chapitre II : Obligation générale de conformité (art. L212-1)](#46)
-        - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-5)](#47)
-          - [Section 1 : Tromperie (art. L213-1 à L213-2)](#48)
-          - [Section 2 : Falsifications et délits connexes (art. L213-3 à L213-4)](#49)
-          - [Section 3 : Récidive légale (art. L213-5)](#50)
-        - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#51)
-        - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-18)](#52)
-          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2)](#53)
-          - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#54)
-          - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#55)
-          - [Section 4 : Expertises (art. L215-9 à L215-17)](#56)
-          - [Section 5 : Marquage communautaire de conformité. (art. L215-18)](#57)
-        - [Chapitre VI : Dispositions communes (art. L216-1 à L216-9)](#58)
-        - [Chapitre VII : Dispositions particulières (art. L217-1 à L217-10)](#59)
-      - [Titre II : Sécurité (art. L221-1 à L225-1)](#60)
-        - [Chapitre Ier : Prévention (art. L221-1 à L221-9)](#61)
-        - [Chapitre II : Habilitations et pouvoirs des agents. (art. L222-1 à L222-3)](#62)
-        - [Chapitre III : Sanctions. (art. L223-1 à L223-2)](#63)
-        - [Chapitre IV : La commission de la sécurité des consommateurs. (art. L224-1 à L224-6)](#64)
-        - [Chapitre V : Dispositions diverses (art. L225-1)](#65)
-    - [Livre III : Endettement (art. L311-1 à L333-8)](#66)
-      - [Titre Ier : Crédit (art. L311-1 à L313-16)](#67)
-        - [Chapitre Ier : Crédit à la consommation (art. L311-1 à L311-37)](#68)
-          - [Section 1 : Champ d'application (art. L311-1 à L311-3)](#69)
-          - [Section 2 : Publicité (art. L311-4)](#70)
-          - [Section 3 : Crédit gratuit. (art. L311-5 à L311-7)](#71)
-          - [Section 4 : Le contrat de crédit. (art. L311-8 à L311-19)](#72)
-          - [Section 5 : Les crédits affectés. (art. L311-20 à L311-27)](#73)
-          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur. (art. L311-29 à L311-32)](#74)
-            - [Sous-section 1 : Remboursement anticipé (art. L311-29)](#75)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. L311-30 à L311-32)](#76)
-          - [Section 7 : Sanctions. (art. L311-33 à L311-36)](#77)
-          - [Section 8 : Procédure. (art. L311-28 à L311-37)](#78)
-        - [Chapitre II : Crédit immobilier (art. L312-1 à L312-36)](#79)
-          - [Section 1 : Champ d'application (art. L312-1 à L312-3)](#80)
-          - [Section 2 : Publicité (art. L312-4 à L312-6)](#81)
-          - [Section 3 : Le contrat de crédit (art. L312-7 à L312-14)](#82)
-          - [Section 4 : Le contrat principal (art. L312-15 à L312-20)](#83)
-          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. L312-21 à L312-23)](#84)
-            - [Sous-section 1 : Remboursement anticipé (art. L312-21)](#85)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. L312-22)](#86)
-            - [Sous-section 3 : Dispositions communes (art. L312-23)](#87)
-          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. L312-24 à L312-31)](#88)
-          - [Section 7 : Sanctions (art. L312-32 à L312-35)](#89)
-          - [Section 8 : Procédure (art. L312-36)](#90)
-        - [Chapitre III : Dispositions communes (art. L313-1 à L313-16)](#91)
-          - [Section 1 : Le taux d'intérêt (art. L313-1 à L313-6)](#92)
-            - [Sous-section 1 : Le taux effectif global. (art. L313-1 à L313-2)](#93)
-            - [Sous-section 2 : Le taux d'usure. (art. L313-4 à L313-6)](#94)
-          - [Section 2 : Les cautions. (art. L313-7 à L313-10)](#95)
-          - [Section 3 : Rémunération du vendeur. (art. L313-11)](#96)
-          - [Section 4 : Délais de grâce. (art. L313-12)](#97)
-          - [Section 5 : Lettres de change et billets à ordre. (art. L313-13)](#98)
-          - [Section 6 : Pouvoirs d'enquête. (art. L313-14)](#99)
-          - [Section 7 : Textes d'application. (art. L313-15)](#100)
-          - [Section 8 : Dispositions d'ordre public. (art. L313-16)](#101)
-      - [Titre II : Activité d'intermédiaire pour le règlement des dettes (art. L321-1 à L322-3)](#102)
-        - [Chapitre Ier : Nullité des conventions. (art. L321-1)](#103)
-        - [Chapitre II : Dispositions diverses. (art. L322-1 à L322-3)](#104)
-      - [Titre III : Traitement des situations de surendettement (art. L331-1 à L333-8)](#105)
-        - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. L331-1 à L331-11)](#106)
-        - [Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement. (art. L332-1 à L332-3)](#107)
-        - [Chapitre III : Dispositions communes (art. L333-1 à L333-8)](#108)
-    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#109)
-      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#110)
-        - [Chapitre Ier : Les associations (art. L411-1)](#111)
-        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#112)
-      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#113)
-        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#114)
-          - [Section 1 : Action civile (art. L421-1 à L421-5)](#115)
-          - [Section 2 : Action en suppression de clauses abusives. (art. L421-6)](#116)
-          - [Section 3 : Interventions en justice (art. L421-7)](#117)
-          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#118)
-        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#119)
-    - [Livre V : Les institutions (art. L531-1 à L562-1)](#120)
-      - [Titre III : L'Institut national de la consommation (art. L531-1)](#121)
-        - [Chapitre Ier : Organisation administrative (art. L531-1)](#122)
-      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#123)
-        - [Chapitre Ier : Missions (art. L561-1)](#124)
-        - [Chapitre II : Fonctionnement (art. L562-1)](#125)
-  - [Partie réglementaire (art. R*112-32 à R*551-1)](#126)
-    - [Livre Ier : Information des consommateurs et formation des contrats (art. R*112-32 à R142-2)](#127)
-      - [Titre Ier : Information des consommateurs (art. R*112-32 à R115-12)](#128)
-        - [Chapitre II : Modes de présentation et inscriptions (art. R*112-32 à R112-33)](#129)
-        - [Chapitre III : Prix et conditions de vente (art. R113-1)](#130)
-        - [Chapitre IV : Information sur les délais de livraison (art. R114-1)](#131)
-        - [Chapitre V : Valorisation des produits et des services (art. R115-1 à R115-12)](#132)
-          - [Section 4 : Certification des services et des produits autres qu'alimentaires (art. R115-1 à R115-12)](#133)
-            - [Sous-section 1 : Des organismes certificateurs. (art. R115-1 à R115-5)](#134)
-            - [Sous-section 2 : De l'accréditation. (art. R115-6 à R115-7)](#135)
-            - [Sous-section 3 : Des référentiels. (art. R115-8 à R115-9)](#136)
-            - [Sous-section 4 : De l'information des consommateurs et utilisateurs. (art. R115-10 à R115-11)](#137)
-            - [Sous-section 5 : Dispositions pénales. (art. R115-12)](#138)
-      - [Titre II : Pratiques commerciales (art. R121-1 à R122-1)](#139)
-        - [Chapitre Ier : Pratiques commerciales réglementées (art. R121-1 à R121-13)](#140)
-          - [Section 2 : Vente à distance. (art. R121-1 à R121-2)](#141)
-          - [Section 3 : Démarchage (art. R121-3 à R121-6)](#142)
-          - [Section 4 : Ventes directes. (art. R121-7)](#143)
-          - [Section 5 : Ventes ou prestations avec primes (art. R121-8 à R121-10)](#144)
-          - [Section 6 : Loteries publicitaires (art. R121-11 à R121-13)](#145)
-        - [Chapitre II : Pratiques commerciales illicites (art. R122-1)](#146)
-          - [Section 2 : Ventes sans commande préalable. (art. R122-1)](#147)
-      - [Titre III : Conditions générales des contrats (art. R132-1 à R134-1)](#148)
-        - [Chapitre II : Clauses abusives (art. R132-1 à R132-6)](#149)
-          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. R132-1 à R132-2)](#150)
-          - [Section 2 : Commission des clauses abusives (art. R132-3 à R132-6)](#151)
-        - [Chapitre IV : Remise des contrats (art. R134-1)](#152)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R141-1 à R142-2)](#153)
-        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-2)](#154)
-        - [Chapitre II : Procédures civiles simplifiées (art. R142-1 à R142-2)](#155)
-    - [Livre II : Qualité des produits et des services (art. R211-1 à D225-2)](#156)
-      - [Titre Ier : Conformité (art. R211-1 à R216-2)](#157)
-        - [Chapitre Ier : Dispositions générales. (art. R211-1 à R211-5)](#158)
-          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. R211-1 à R211-5)](#159)
-        - [Chapitre V : Pouvoirs d'enquête (art. R215-1 à R215-23)](#160)
-          - [Section 1 : Autorités qualifiées. (art. R215-1)](#161)
-          - [Section 2 : Recherche et constatation. (art. R*215-2 à R215-14)](#162)
-          - [Section 3 : Mesures d'urgence. (art. R215-16 à R215-17)](#163)
-          - [Section 4 : Expertises. (art. R215-18 à R215-23)](#164)
-        - [Chapitre VI : Dispositions communes. (art. R216-1 à R216-2)](#165)
-      - [Titre II : Sécurité (art. R221-1 à D225-2)](#166)
-        - [Chapitre Ier : Prévention. (art. R221-1 à R221-2)](#167)
-        - [Chapitre III : Sanctions (art. R223-1 à R223-2)](#168)
-        - [Chapitre IV : La commission de la sécurité des consommateurs (art. R224-1 à R224-12)](#169)
-        - [Chapitre V : Dispositions diverses (art. D225-1 à D225-2)](#170)
-    - [Livre III : Endettement (art. D311-1 à R333-1)](#171)
-      - [Titre Ier : Crédit (art. D311-1 à Annexe à l'article L132-1)](#172)
-        - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#173)
-          - [Section 1 : Champ d'application (art. D311-1 à D311-3)](#174)
-          - [Section 3 : Crédit gratuit (art. R311-4 à R311-5)](#175)
-          - [Section 4 : Le contrat de crédit (art. R311-6 à R311-7)](#176)
-          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. D311-10 à D311-13)](#177)
-            - [Sous-section 1 : Remboursement anticipé (art. D311-10)](#178)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. D311-11 à D311-13)](#179)
-          - [Section 5 : Les crédits affectés (art. R311-8 à R311-9)](#180)
-        - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#181)
-          - [Section 3 : Le contrat de crédit (art. R312-1)](#182)
-          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#183)
-            - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#184)
-            - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#185)
-          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#186)
-        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article L132-1)](#187)
-          - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-9)](#188)
-            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#189)
-            - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-9)](#190)
-          - [Section 3 : Rémunération du vendeur (art. R313-10)](#191)
-          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article L132-1)](#192)
-            - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#193)
-            - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#194)
-            - [Annexe : clauses visées au troisième alinéa de l'article L. 132-1 (art. Annexe à l'article L132-1)](#195)
-      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R333-1)](#196)
-        - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. R331-1 à R331-20)](#197)
-          - [Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers. (art. R331-1 à R331-6)](#198)
-          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-7 à R331-20)](#199)
-            - [Sous-section 1 : Dispositions générales. (art. R331-7 à R331-10)](#200)
-            - [Sous-section 2 : Vérification des créances. (art. R*331-13 à R331-12)](#201)
-            - [Sous-section 3 : Suspension des procédures d'exécution. (art. R331-14 à R331-15)](#202)
-            - [Sous-section 4 : Plan conventionnel de redressement. (art. R331-16 à R331-17)](#203)
-            - [Sous-section 5 : Mesures recommandées par la commission. (art. R331-18 à R331-20)](#204)
-        - [Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement (art. R332-1 à R332-8)](#205)
-          - [Section 1 : Acquisition de la force exécutoire. (art. R332-1 à R332-3)](#206)
-          - [Section 2 : Contestation des mesures recommandées. (art. R*332-4 à R332-8)](#207)
-        - [Chapitre III : Dispositions communes (art. R*333-2 à R333-1)](#208)
-    - [Livre IV : Les associations de consommateurs (art. R411-1 à R422-10)](#209)
-      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#210)
-        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#211)
-      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#212)
-        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#213)
-    - [Livre V : Les institutions (art. D511-1 à R*551-1)](#214)
-      - [Titre Ier : Les organes de concertation. (art. D511-1 à R512-1)](#215)
-        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#216)
-          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#217)
-          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#218)
-          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#219)
-        - [Chapitre II : Les comités départementaux de la consommation. (art. R512-1)](#220)
-      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#221)
-        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#222)
-        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#223)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-4)](#224)
-        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-9)](#225)
-        - [Chapitre II : Organes consultatifs. (art. R*532-2 à R532-1)](#226)
-        - [Chapitre III : Dispositions financières et comptables. (art. R*533-5 à R533-4)](#227)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#228)
-      - [Titre V : La commission générale d'unification des méthodes d'analyse. (art. R*551-1)](#229)
+          - [Section 10 : Appellation de boulanger et enseigne de boulangerie (art. L121-80 à L121-82)](#26)
+        - [Chapitre II : Pratiques commerciales illicites (art. L122-1 à L122-11)](#27)
+          - [Section 1 : Refus et subordination de vente ou de prestation de services (art. L122-1)](#28)
+          - [Section 2 : Ventes sans commande préalable. (art. L122-2 à L122-5)](#29)
+          - [Section 3 : Ventes ou prestations "à la boule de neige" (art. L122-6 à L122-7)](#30)
+          - [Section 4 : Abus de faiblesse (art. L122-8 à L122-11)](#31)
+      - [Titre III : Conditions générales des contrats (art. L131-1 à L135-1)](#32)
+        - [Chapitre Ier : Arrhes et acompte (art. L131-1 à L131-3)](#33)
+        - [Chapitre II : Clauses abusives (art. L132-1 à L132-5)](#34)
+          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. L132-1)](#35)
+          - [Section 2 : La commission des clauses abusives. (art. L132-2 à L132-5)](#36)
+        - [Chapitre III : Interprétation et forme des contrats (art. L133-1 à L133-2)](#37)
+        - [Chapitre IV : Remise des contrats (art. L134-1)](#38)
+        - [Chapitre V : Du conflit des lois relatives aux clauses abusives (art. L135-1)](#39)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L141-1)](#40)
+        - [Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. L141-1)](#41)
+    - [Livre II : Conformité et sécurité des produits et des services (art. L211-1 à L225-1)](#42)
+      - [Titre Ier : Conformité (art. L211-1 à L217-10)](#43)
+        - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-2)](#44)
+          - [Section 1 : Garantie légale. (art. L211-1)](#45)
+          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. L211-2)](#46)
+        - [Chapitre II : Obligation générale de conformité (art. L212-1)](#47)
+        - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-5)](#48)
+          - [Section 1 : Tromperie (art. L213-1 à L213-2)](#49)
+          - [Section 2 : Falsifications et délits connexes (art. L213-3 à L213-4)](#50)
+          - [Section 3 : Récidive légale (art. L213-5)](#51)
+        - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#52)
+        - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-18)](#53)
+          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2)](#54)
+          - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#55)
+          - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#56)
+          - [Section 4 : Expertises (art. L215-9 à L215-17)](#57)
+          - [Section 5 : Marquage communautaire de conformité. (art. L215-18)](#58)
+        - [Chapitre VI : Dispositions communes (art. L216-1 à L216-9)](#59)
+        - [Chapitre VII : Dispositions particulières (art. L217-1 à L217-10)](#60)
+      - [Titre II : Sécurité (art. L221-1 à L225-1)](#61)
+        - [Chapitre Ier : Prévention (art. L221-1 à L221-9)](#62)
+        - [Chapitre II : Habilitations et pouvoirs des agents. (art. L222-1 à L222-3)](#63)
+        - [Chapitre III : Sanctions. (art. L223-1 à L223-2)](#64)
+        - [Chapitre IV : La commission de la sécurité des consommateurs. (art. L224-1 à L224-6)](#65)
+        - [Chapitre V : Dispositions diverses (art. L225-1)](#66)
+    - [Livre III : Endettement (art. L311-1 à L333-8)](#67)
+      - [Titre Ier : Crédit (art. L311-1 à L313-16)](#68)
+        - [Chapitre Ier : Crédit à la consommation (art. L311-1 à L311-37)](#69)
+          - [Section 1 : Champ d'application (art. L311-1 à L311-3)](#70)
+          - [Section 2 : Publicité (art. L311-4)](#71)
+          - [Section 3 : Crédit gratuit. (art. L311-5 à L311-7)](#72)
+          - [Section 4 : Le contrat de crédit. (art. L311-8 à L311-19)](#73)
+          - [Section 5 : Les crédits affectés. (art. L311-20 à L311-27)](#74)
+          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur. (art. L311-29 à L311-32)](#75)
+            - [Sous-section 1 : Remboursement anticipé (art. L311-29)](#76)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. L311-30 à L311-32)](#77)
+          - [Section 7 : Sanctions. (art. L311-33 à L311-36)](#78)
+          - [Section 8 : Procédure. (art. L311-28 à L311-37)](#79)
+        - [Chapitre II : Crédit immobilier (art. L312-1 à L312-36)](#80)
+          - [Section 1 : Champ d'application (art. L312-1 à L312-3)](#81)
+          - [Section 2 : Publicité (art. L312-4 à L312-6)](#82)
+          - [Section 3 : Le contrat de crédit (art. L312-7 à L312-14)](#83)
+          - [Section 4 : Le contrat principal (art. L312-15 à L312-20)](#84)
+          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. L312-21 à L312-23)](#85)
+            - [Sous-section 1 : Remboursement anticipé (art. L312-21)](#86)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. L312-22)](#87)
+            - [Sous-section 3 : Dispositions communes (art. L312-23)](#88)
+          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. L312-24 à L312-31)](#89)
+          - [Section 7 : Sanctions (art. L312-32 à L312-35)](#90)
+          - [Section 8 : Procédure (art. L312-36)](#91)
+        - [Chapitre III : Dispositions communes (art. L313-1 à L313-16)](#92)
+          - [Section 1 : Le taux d'intérêt (art. L313-1 à L313-6)](#93)
+            - [Sous-section 1 : Le taux effectif global. (art. L313-1 à L313-2)](#94)
+            - [Sous-section 2 : Le taux d'usure. (art. L313-4 à L313-6)](#95)
+          - [Section 2 : Les cautions. (art. L313-7 à L313-10)](#96)
+          - [Section 3 : Rémunération du vendeur. (art. L313-11)](#97)
+          - [Section 4 : Délais de grâce. (art. L313-12)](#98)
+          - [Section 5 : Lettres de change et billets à ordre. (art. L313-13)](#99)
+          - [Section 6 : Pouvoirs d'enquête. (art. L313-14)](#100)
+          - [Section 7 : Textes d'application. (art. L313-15)](#101)
+          - [Section 8 : Dispositions d'ordre public. (art. L313-16)](#102)
+      - [Titre II : Activité d'intermédiaire pour le règlement des dettes (art. L321-1 à L322-3)](#103)
+        - [Chapitre Ier : Nullité des conventions. (art. L321-1)](#104)
+        - [Chapitre II : Dispositions diverses. (art. L322-1 à L322-3)](#105)
+      - [Titre III : Traitement des situations de surendettement (art. L331-1 à L333-8)](#106)
+        - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. L331-1 à L331-11)](#107)
+        - [Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement. (art. L332-1 à L332-3)](#108)
+        - [Chapitre III : Dispositions communes (art. L333-1 à L333-8)](#109)
+    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#110)
+      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#111)
+        - [Chapitre Ier : Les associations (art. L411-1)](#112)
+        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#113)
+      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#114)
+        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#115)
+          - [Section 1 : Action civile (art. L421-1 à L421-5)](#116)
+          - [Section 2 : Action en suppression de clauses abusives. (art. L421-6)](#117)
+          - [Section 3 : Interventions en justice (art. L421-7)](#118)
+          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#119)
+        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#120)
+    - [Livre V : Les institutions (art. L531-1 à L562-1)](#121)
+      - [Titre III : L'Institut national de la consommation (art. L531-1)](#122)
+        - [Chapitre Ier : Organisation administrative (art. L531-1)](#123)
+      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#124)
+        - [Chapitre Ier : Missions (art. L561-1)](#125)
+        - [Chapitre II : Fonctionnement (art. L562-1)](#126)
+  - [Partie réglementaire (art. R*112-32 à R*551-1)](#127)
+    - [Livre Ier : Information des consommateurs et formation des contrats (art. R*112-32 à R142-2)](#128)
+      - [Titre Ier : Information des consommateurs (art. R*112-32 à R115-12)](#129)
+        - [Chapitre II : Modes de présentation et inscriptions (art. R*112-32 à R112-33)](#130)
+        - [Chapitre III : Prix et conditions de vente (art. R113-1)](#131)
+        - [Chapitre IV : Information sur les délais de livraison (art. R114-1)](#132)
+        - [Chapitre V : Valorisation des produits et des services (art. R115-1 à R115-12)](#133)
+          - [Section 4 : Certification des services et des produits autres qu'alimentaires (art. R115-1 à R115-12)](#134)
+            - [Sous-section 1 : Des organismes certificateurs. (art. R115-1 à R115-5)](#135)
+            - [Sous-section 2 : De l'accréditation. (art. R115-6 à R115-7)](#136)
+            - [Sous-section 3 : Des référentiels. (art. R115-8 à R115-9)](#137)
+            - [Sous-section 4 : De l'information des consommateurs et utilisateurs. (art. R115-10 à R115-11)](#138)
+            - [Sous-section 5 : Dispositions pénales. (art. R115-12)](#139)
+      - [Titre II : Pratiques commerciales (art. R121-1 à R122-1)](#140)
+        - [Chapitre Ier : Pratiques commerciales réglementées (art. R121-1 à R121-13)](#141)
+          - [Section 2 : Vente à distance. (art. R121-1 à R121-2)](#142)
+          - [Section 3 : Démarchage (art. R121-3 à R121-6)](#143)
+          - [Section 4 : Ventes directes. (art. R121-7)](#144)
+          - [Section 5 : Ventes ou prestations avec primes (art. R121-8 à R121-10)](#145)
+          - [Section 6 : Loteries publicitaires (art. R121-11 à R121-13)](#146)
+        - [Chapitre II : Pratiques commerciales illicites (art. R122-1)](#147)
+          - [Section 2 : Ventes sans commande préalable. (art. R122-1)](#148)
+      - [Titre III : Conditions générales des contrats (art. R132-1 à R134-1)](#149)
+        - [Chapitre II : Clauses abusives (art. R132-1 à R132-6)](#150)
+          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. R132-1 à R132-2)](#151)
+          - [Section 2 : Commission des clauses abusives (art. R132-3 à R132-6)](#152)
+        - [Chapitre IV : Remise des contrats (art. R134-1)](#153)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R141-1 à R142-2)](#154)
+        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-2)](#155)
+        - [Chapitre II : Procédures civiles simplifiées (art. R142-1 à R142-2)](#156)
+    - [Livre II : Qualité des produits et des services (art. R211-1 à D225-2)](#157)
+      - [Titre Ier : Conformité (art. R211-1 à R216-2)](#158)
+        - [Chapitre Ier : Dispositions générales. (art. R211-1 à R211-5)](#159)
+          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. R211-1 à R211-5)](#160)
+        - [Chapitre V : Pouvoirs d'enquête (art. R215-1 à R215-23)](#161)
+          - [Section 1 : Autorités qualifiées. (art. R215-1)](#162)
+          - [Section 2 : Recherche et constatation. (art. R*215-2 à R215-14)](#163)
+          - [Section 3 : Mesures d'urgence. (art. R215-16 à R215-17)](#164)
+          - [Section 4 : Expertises. (art. R215-18 à R215-23)](#165)
+        - [Chapitre VI : Dispositions communes. (art. R216-1 à R216-2)](#166)
+      - [Titre II : Sécurité (art. R221-1 à D225-2)](#167)
+        - [Chapitre Ier : Prévention. (art. R221-1 à R221-2)](#168)
+        - [Chapitre III : Sanctions (art. R223-1 à R223-2)](#169)
+        - [Chapitre IV : La commission de la sécurité des consommateurs (art. R224-1 à R224-12)](#170)
+        - [Chapitre V : Dispositions diverses (art. D225-1 à D225-2)](#171)
+    - [Livre III : Endettement (art. D311-1 à R333-1)](#172)
+      - [Titre Ier : Crédit (art. D311-1 à Annexe à l'article L132-1)](#173)
+        - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#174)
+          - [Section 1 : Champ d'application (art. D311-1 à D311-3)](#175)
+          - [Section 3 : Crédit gratuit (art. R311-4 à R311-5)](#176)
+          - [Section 4 : Le contrat de crédit (art. R311-6 à R311-7)](#177)
+          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. D311-10 à D311-13)](#178)
+            - [Sous-section 1 : Remboursement anticipé (art. D311-10)](#179)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. D311-11 à D311-13)](#180)
+          - [Section 5 : Les crédits affectés (art. R311-8 à R311-9)](#181)
+        - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#182)
+          - [Section 3 : Le contrat de crédit (art. R312-1)](#183)
+          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#184)
+            - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#185)
+            - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#186)
+          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#187)
+        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article L132-1)](#188)
+          - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-9)](#189)
+            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#190)
+            - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-9)](#191)
+          - [Section 3 : Rémunération du vendeur (art. R313-10)](#192)
+          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article L132-1)](#193)
+            - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#194)
+            - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#195)
+            - [Annexe : clauses visées au troisième alinéa de l'article L. 132-1 (art. Annexe à l'article L132-1)](#196)
+      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R333-1)](#197)
+        - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. R331-1 à R331-20)](#198)
+          - [Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers. (art. R331-1 à R331-6)](#199)
+          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-7 à R331-20)](#200)
+            - [Sous-section 1 : Dispositions générales. (art. R331-7 à R331-10)](#201)
+            - [Sous-section 2 : Vérification des créances. (art. R*331-13 à R331-12)](#202)
+            - [Sous-section 3 : Suspension des procédures d'exécution. (art. R331-14 à R331-15)](#203)
+            - [Sous-section 4 : Plan conventionnel de redressement. (art. R331-16 à R331-17)](#204)
+            - [Sous-section 5 : Mesures recommandées par la commission. (art. R331-18 à R331-20)](#205)
+        - [Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement (art. R332-1 à R332-8)](#206)
+          - [Section 1 : Acquisition de la force exécutoire. (art. R332-1 à R332-3)](#207)
+          - [Section 2 : Contestation des mesures recommandées. (art. R*332-4 à R332-8)](#208)
+        - [Chapitre III : Dispositions communes (art. R*333-2 à R333-1)](#209)
+    - [Livre IV : Les associations de consommateurs (art. R411-1 à R422-10)](#210)
+      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#211)
+        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#212)
+      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#213)
+        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#214)
+    - [Livre V : Les institutions (art. D511-1 à R*551-1)](#215)
+      - [Titre Ier : Les organes de concertation. (art. D511-1 à R512-1)](#216)
+        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#217)
+          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#218)
+          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#219)
+          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#220)
+        - [Chapitre II : Les comités départementaux de la consommation. (art. R512-1)](#221)
+      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#222)
+        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#223)
+        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#224)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-4)](#225)
+        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-9)](#226)
+        - [Chapitre II : Organes consultatifs. (art. R*532-2 à R532-1)](#227)
+        - [Chapitre III : Dispositions financières et comptables. (art. R*533-5 à R533-4)](#228)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#229)
+      - [Titre V : La commission générale d'unification des méthodes d'analyse. (art. R*551-1)](#230)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -3824,9 +3825,96 @@ _Nouveaux textes_:
   - Code de la consommation - art. L122-16 (V)
 
 
-#### Chapitre II : Pratiques commerciales illicites<a id=26></a>
+##### Section 10 : Appellation de boulanger et enseigne de boulangerie<a id=26></a>
 
-##### Section 1 : Refus et subordination de vente ou de prestation de services<a id=27></a>
+###### Article L121-80
+
+Ne peuvent utiliser l'appellation de "boulanger" et l'enseigne commerciale de "boulangerie" ou une dénomination susceptible
+de porter à confusion, sur le lieu de vente du pain au consommateur final ou dans des publicités à l'exclusion des documents
+commerciaux à usage strictement professionnel, les professionnels qui n'assurent pas eux-mêmes, à partir de matières
+premières choisies, le pétrissage de la pâte, sa fermentation et sa mise en forme ainsi que la cuisson du pain sur le lieu de
+vente au consommateur final ; les produits ne peuvent à aucun stade de la production ou de la vente être surgelés ou
+congelés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Créé par_:
+
+  - Loi n°98-405 du 25 mai 1998 - art. 1 () JORF 26 mai 1998
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L121-81 (VT)
+  - Code de la consommation - art. L121-82 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L122-17 (V)
+
+
+###### Article L121-81
+
+Cette dénomination peut également être utilisée lorsque le pain est vendu de façon itinérante par le professionnel, ou sous
+sa responsabilité, qui remplit les conditions précisées à l'article L. 121-80.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Créé par_:
+
+  - Loi n°98-405 du 25 mai 1998 - art. 1 () JORF 26 mai 1998
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-80
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L122-18 (V)
+
+
+###### Article L121-82
+
+La recherche et la constatation des infractions aux dispositions des articles L. 121-80 et L. 121-81 sont exercées dans les
+conditions prévues à l'article L. 121-2 et punies des peines prévues à l'article L. 213-1 et, le cas échéant, au second
+alinéa de l'article L. 121-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°98-405 du 25 mai 1998 - art. 1 () JORF 26 mai 1998
+
+_Cite_:
+
+  - Code de la consommation - art. L121-2 (V)
+  - Code de la consommation - art. L121-6 (V)
+  - Code de la consommation - art. L121-80 (V)
+  - Code de la consommation - art. L213-1 (V)
+
+
+#### Chapitre II : Pratiques commerciales illicites<a id=27></a>
+
+##### Section 1 : Refus et subordination de vente ou de prestation de services<a id=28></a>
 
 ###### Article L122-1
 
@@ -3868,7 +3956,7 @@ _Cite_:
   - Code de la consommation - art. L113-2 (V)
 
 
-##### Section 2 : Ventes sans commande préalable.<a id=28></a>
+##### Section 2 : Ventes sans commande préalable.<a id=29></a>
 
 ###### Article L122-2
 
@@ -3975,7 +4063,7 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-##### Section 3 : Ventes ou prestations "à la boule de neige"<a id=29></a>
+##### Section 3 : Ventes ou prestations "à la boule de neige"<a id=30></a>
 
 ###### Article L122-6
 
@@ -4053,7 +4141,7 @@ _Cite_:
   - Code pénal - art. 313-8 (M)
 
 
-##### Section 4 : Abus de faiblesse<a id=30></a>
+##### Section 4 : Abus de faiblesse<a id=31></a>
 
 ###### Article L122-8
 
@@ -4193,9 +4281,9 @@ _Cite_:
   - Code de la consommation L450-1 à L450-3, L450-8
 
 
-### Titre III : Conditions générales des contrats<a id=31></a>
+### Titre III : Conditions générales des contrats<a id=32></a>
 
-#### Chapitre Ier : Arrhes et acompte<a id=32></a>
+#### Chapitre Ier : Arrhes et acompte<a id=33></a>
 
 ###### Article L131-1
 
@@ -4281,9 +4369,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L214-4 (V)
 
 
-#### Chapitre II : Clauses abusives<a id=33></a>
+#### Chapitre II : Clauses abusives<a id=34></a>
 
-##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=34></a>
+##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=35></a>
 
 ###### Article L132-1
 
@@ -4437,7 +4525,7 @@ _Cite_:
   - Code civil 1156 à 1161, 1163, 1164
 
 
-##### Section 2 : La commission des clauses abusives.<a id=35></a>
+##### Section 2 : La commission des clauses abusives.<a id=36></a>
 
 ###### Article L132-2
 
@@ -4561,7 +4649,7 @@ _Abrogé par_:
   - Loi n°2010-737 du 1er juillet 2010 - art. 62
 
 
-#### Chapitre III : Interprétation et forme des contrats<a id=36></a>
+#### Chapitre III : Interprétation et forme des contrats<a id=37></a>
 
 ###### Article L133-1
 
@@ -4635,7 +4723,7 @@ _Cite_:
   - Code de la consommation - art. L421-6
 
 
-#### Chapitre IV : Remise des contrats<a id=37></a>
+#### Chapitre IV : Remise des contrats<a id=38></a>
 
 ###### Article L134-1
 
@@ -4670,7 +4758,7 @@ _Cité par_:
   - Code de la consommation - art. L141-1 (M)
 
 
-#### Chapitre V : Du conflit des lois relatives aux clauses abusives<a id=38></a>
+#### Chapitre V : Du conflit des lois relatives aux clauses abusives<a id=39></a>
 
 ###### Article L135-1
 
@@ -4695,9 +4783,9 @@ _Cite_:
   - Code de la consommation - art. L132-1 (V)
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=39></a>
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=40></a>
 
-#### Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=40></a>
+#### Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=41></a>
 
 ###### Article L141-1
 
@@ -4874,13 +4962,13 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-## Livre II : Conformité et sécurité des produits et des services<a id=41></a>
+## Livre II : Conformité et sécurité des produits et des services<a id=42></a>
 
-### Titre Ier : Conformité<a id=42></a>
+### Titre Ier : Conformité<a id=43></a>
 
-#### Chapitre Ier : Dispositions générales<a id=43></a>
+#### Chapitre Ier : Dispositions générales<a id=44></a>
 
-##### Section 1 : Garantie légale.<a id=44></a>
+##### Section 1 : Garantie légale.<a id=45></a>
 
 ###### Article L211-1
 
@@ -4943,7 +5031,7 @@ _Cite_:
   - Code civil 1641 à 1648
 
 
-##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=45></a>
+##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=46></a>
 
 ###### Article L211-2
 
@@ -4971,7 +5059,7 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-#### Chapitre II : Obligation générale de conformité<a id=46></a>
+#### Chapitre II : Obligation générale de conformité<a id=47></a>
 
 ###### Article L212-1
 
@@ -5016,9 +5104,9 @@ _Créé par_:
   - TXT_SOURCE: Arrêté du 3 juin 1999 - art. 4 (Ab)
 
 
-#### Chapitre III : Fraudes et falsifications<a id=47></a>
+#### Chapitre III : Fraudes et falsifications<a id=48></a>
 
-##### Section 1 : Tromperie<a id=48></a>
+##### Section 1 : Tromperie<a id=49></a>
 
 ###### Article L213-1
 
@@ -5186,7 +5274,7 @@ _Cite_:
   - Code de la consommation - art. L213-1 (V)
 
 
-##### Section 2 : Falsifications et délits connexes<a id=49></a>
+##### Section 2 : Falsifications et délits connexes<a id=50></a>
 
 ###### Article L213-3
 
@@ -5314,7 +5402,7 @@ _Cite_:
   - Code de la consommation 214-2
 
 
-##### Section 3 : Récidive légale<a id=50></a>
+##### Section 3 : Récidive légale<a id=51></a>
 
 ###### Article L213-5
 
@@ -5439,7 +5527,7 @@ _Modifié par_:
   - Loi n°96-314 du 12 avril 1996 - art. 60 () JORF 13 avril 1996
 
 
-#### Chapitre IV : Mesures d'application<a id=51></a>
+#### Chapitre IV : Mesures d'application<a id=52></a>
 
 ###### Article L214-1
 
@@ -5911,9 +5999,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L412-2 (V)
 
 
-#### Chapitre V : Pouvoirs d'enquête<a id=52></a>
+#### Chapitre V : Pouvoirs d'enquête<a id=53></a>
 
-##### Section 1 : Autorités qualifiées<a id=53></a>
+##### Section 1 : Autorités qualifiées<a id=54></a>
 
 ###### Article L215-1
 
@@ -6130,7 +6218,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L205-1 (V)
 
 
-##### Section 2 : Recherche et constatation<a id=54></a>
+##### Section 2 : Recherche et constatation<a id=55></a>
 
 ###### Article L215-3
 
@@ -6243,7 +6331,7 @@ _Anciens textes_:
   - Loi n°1905-08-01 art. 11 3° et 4°
 
 
-##### Section 3 : Mesures d'urgence<a id=55></a>
+##### Section 3 : Mesures d'urgence<a id=56></a>
 
 ###### Article L215-5
 
@@ -6431,7 +6519,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L512-37 (V)
 
 
-##### Section 4 : Expertises<a id=56></a>
+##### Section 4 : Expertises<a id=57></a>
 
 ###### Article L215-9
 
@@ -6715,7 +6803,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 157 (M)
 
 
-##### Section 5 : Marquage communautaire de conformité.<a id=57></a>
+##### Section 5 : Marquage communautaire de conformité.<a id=58></a>
 
 ###### Article L215-18
 
@@ -6794,7 +6882,7 @@ _Cite_:
   - Code pénal - art. 314-6 (M)
 
 
-#### Chapitre VI : Dispositions communes<a id=58></a>
+#### Chapitre VI : Dispositions communes<a id=59></a>
 
 ###### Article L216-1
 
@@ -7134,7 +7222,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-#### Chapitre VII : Dispositions particulières<a id=59></a>
+#### Chapitre VII : Dispositions particulières<a id=60></a>
 
 ###### Article L217-1
 
@@ -7467,9 +7555,9 @@ _Cite_:
   - Code pénal 433-6 à 433-10
 
 
-### Titre II : Sécurité<a id=60></a>
+### Titre II : Sécurité<a id=61></a>
 
-#### Chapitre Ier : Prévention<a id=61></a>
+#### Chapitre Ier : Prévention<a id=62></a>
 
 ###### Article L221-1
 
@@ -7849,7 +7937,7 @@ _Cite_:
   - Code de la consommation - art. L221-2 (VT)
 
 
-#### Chapitre II : Habilitations et pouvoirs des agents.<a id=62></a>
+#### Chapitre II : Habilitations et pouvoirs des agents.<a id=63></a>
 
 ###### Article L222-1
 
@@ -7969,7 +8057,7 @@ _Abrogé par_:
   - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 
-#### Chapitre III : Sanctions.<a id=63></a>
+#### Chapitre III : Sanctions.<a id=64></a>
 
 ###### Article L223-1
 
@@ -8050,7 +8138,7 @@ _Abrogé par_:
   - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 
-#### Chapitre IV : La commission de la sécurité des consommateurs.<a id=64></a>
+#### Chapitre IV : La commission de la sécurité des consommateurs.<a id=65></a>
 
 ###### Article L224-1
 
@@ -8278,7 +8366,7 @@ _Cite_:
   - Code pénal - art. 226-13
 
 
-#### Chapitre V : Dispositions diverses<a id=65></a>
+#### Chapitre V : Dispositions diverses<a id=66></a>
 
 ###### Article L225-1
 
@@ -8303,13 +8391,13 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-## Livre III : Endettement<a id=66></a>
+## Livre III : Endettement<a id=67></a>
 
-### Titre Ier : Crédit<a id=67></a>
+### Titre Ier : Crédit<a id=68></a>
 
-#### Chapitre Ier : Crédit à la consommation<a id=68></a>
+#### Chapitre Ier : Crédit à la consommation<a id=69></a>
 
-##### Section 1 : Champ d'application<a id=69></a>
+##### Section 1 : Champ d'application<a id=70></a>
 
 ###### Article L311-1
 
@@ -8449,7 +8537,7 @@ _Cite_:
   - Code de la consommation - art. L311-5 (M)
 
 
-##### Section 2 : Publicité<a id=70></a>
+##### Section 2 : Publicité<a id=71></a>
 
 ###### Article L311-4
 
@@ -8495,7 +8583,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la consommation L312-34 *sanctions pénales*
 
 
-##### Section 3 : Crédit gratuit.<a id=71></a>
+##### Section 3 : Crédit gratuit.<a id=72></a>
 
 ###### Article L311-5
 
@@ -8617,7 +8705,7 @@ _Cite_:
   - Code de la consommation L311-4 à L311-6
 
 
-##### Section 4 : Le contrat de crédit.<a id=72></a>
+##### Section 4 : Le contrat de crédit.<a id=73></a>
 
 ###### Article L311-8
 
@@ -9076,7 +9164,7 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-##### Section 5 : Les crédits affectés.<a id=73></a>
+##### Section 5 : Les crédits affectés.<a id=74></a>
 
 ###### Article L311-20
 
@@ -9394,9 +9482,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L311-40 (VD)
 
 
-##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur.<a id=74></a>
+##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur.<a id=75></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=75></a>
+##### Sous-section 1 : Remboursement anticipé<a id=76></a>
 
 ###### Article L311-29
 
@@ -9428,7 +9516,7 @@ _Cité par_:
   - Code de la consommation - art. L311-49 (VT)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=76></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=77></a>
 
 ###### Article L311-30
 
@@ -9546,7 +9634,7 @@ _Cite_:
   - Code de la consommation L311-29 à L311-31
 
 
-##### Section 7 : Sanctions.<a id=77></a>
+##### Section 7 : Sanctions.<a id=78></a>
 
 ###### Article L311-33
 
@@ -9710,7 +9798,7 @@ _Cité par_:
   - Code de la consommation - art. L311-37 (VT)
 
 
-##### Section 8 : Procédure.<a id=78></a>
+##### Section 8 : Procédure.<a id=79></a>
 
 ###### Article L311-28
 
@@ -9783,9 +9871,9 @@ _Cite_:
   - Code de la consommation - art. L331-7 (M)
 
 
-#### Chapitre II : Crédit immobilier<a id=79></a>
+#### Chapitre II : Crédit immobilier<a id=80></a>
 
-##### Section 1 : Champ d'application<a id=80></a>
+##### Section 1 : Champ d'application<a id=81></a>
 
 ###### Article L312-1
 
@@ -9930,7 +10018,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-2 (V)
 
 
-##### Section 2 : Publicité<a id=81></a>
+##### Section 2 : Publicité<a id=82></a>
 
 ###### Article L312-4
 
@@ -10046,7 +10134,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la consommation L312-32 *sanctions pénales*
 
 
-##### Section 3 : Le contrat de crédit<a id=82></a>
+##### Section 3 : Le contrat de crédit<a id=83></a>
 
 ###### Article L312-7
 
@@ -10399,7 +10487,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-38 (V)
 
 
-##### Section 4 : Le contrat principal<a id=83></a>
+##### Section 4 : Le contrat principal<a id=84></a>
 
 ###### Article L312-15
 
@@ -10613,9 +10701,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-45 (V)
 
 
-##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=84></a>
+##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=85></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=85></a>
+##### Sous-section 1 : Remboursement anticipé<a id=86></a>
 
 ###### Article L312-21
 
@@ -10652,7 +10740,7 @@ _Cite_:
   - Code civil - art. 1152 (M)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=86></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=87></a>
 
 ###### Article L312-22
 
@@ -10697,7 +10785,7 @@ _Cite_:
   - Code civil - art. 1231
 
 
-##### Sous-section 3 : Dispositions communes<a id=87></a>
+##### Sous-section 3 : Dispositions communes<a id=88></a>
 
 ###### Article L312-23
 
@@ -10746,7 +10834,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la consommation L312-35 *sanctions pénales*
 
 
-##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=88></a>
+##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=89></a>
 
 ###### Article L312-24
 
@@ -11078,7 +11166,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-63 (V)
 
 
-##### Section 7 : Sanctions<a id=89></a>
+##### Section 7 : Sanctions<a id=90></a>
 
 ###### Article L312-32
 
@@ -11212,7 +11300,7 @@ _Cite_:
   - Code de la consommation - art. L312-30 (V)
 
 
-##### Section 8 : Procédure<a id=90></a>
+##### Section 8 : Procédure<a id=91></a>
 
 ###### Article L312-36
 
@@ -11250,11 +11338,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. R313-33 (V)
 
 
-#### Chapitre III : Dispositions communes<a id=91></a>
+#### Chapitre III : Dispositions communes<a id=92></a>
 
-##### Section 1 : Le taux d'intérêt<a id=92></a>
+##### Section 1 : Le taux d'intérêt<a id=93></a>
 
-##### Sous-section 1 : Le taux effectif global.<a id=93></a>
+##### Sous-section 1 : Le taux effectif global.<a id=94></a>
 
 ###### Article L313-1
 
@@ -11361,7 +11449,7 @@ _Cite_:
   - Code de la consommation - art. L313-1 (M)
 
 
-##### Sous-section 2 : Le taux d'usure.<a id=94></a>
+##### Sous-section 2 : Le taux d'usure.<a id=95></a>
 
 ###### Article L313-4
 
@@ -11476,7 +11564,7 @@ _Cite_:
   - Code de la consommation - art. L313-3 (M)
 
 
-##### Section 2 : Les cautions.<a id=95></a>
+##### Section 2 : Les cautions.<a id=96></a>
 
 ###### Article L313-7
 
@@ -11591,7 +11679,7 @@ _Cité par_:
   - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
 
 
-##### Section 3 : Rémunération du vendeur.<a id=96></a>
+##### Section 3 : Rémunération du vendeur.<a id=97></a>
 
 ###### Article L313-11
 
@@ -11619,7 +11707,7 @@ _Cité par_:
   - Code de la consommation - art. R313-10 (Ab)
 
 
-##### Section 4 : Délais de grâce.<a id=97></a>
+##### Section 4 : Délais de grâce.<a id=98></a>
 
 ###### Article L313-12
 
@@ -11659,7 +11747,7 @@ _Cite_:
   - Code civil 1244-1 à 1244-3
 
 
-##### Section 5 : Lettres de change et billets à ordre.<a id=98></a>
+##### Section 5 : Lettres de change et billets à ordre.<a id=99></a>
 
 ###### Article L313-13
 
@@ -11694,7 +11782,7 @@ _Cité par_:
   - Code de la consommation - art. L311-10 (VD)
 
 
-##### Section 6 : Pouvoirs d'enquête.<a id=99></a>
+##### Section 6 : Pouvoirs d'enquête.<a id=100></a>
 
 ###### Article L313-14
 
@@ -11729,7 +11817,7 @@ _Cite_:
   - Code de commerce. - art. L450-3 (M)
 
 
-##### Section 7 : Textes d'application.<a id=100></a>
+##### Section 7 : Textes d'application.<a id=101></a>
 
 ###### Article L313-15
 
@@ -11775,7 +11863,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-16 (VD)
 
 
-##### Section 8 : Dispositions d'ordre public.<a id=101></a>
+##### Section 8 : Dispositions d'ordre public.<a id=102></a>
 
 ###### Article L313-16
 
@@ -11797,9 +11885,9 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-### Titre II : Activité d'intermédiaire pour le règlement des dettes<a id=102></a>
+### Titre II : Activité d'intermédiaire pour le règlement des dettes<a id=103></a>
 
-#### Chapitre Ier : Nullité des conventions.<a id=103></a>
+#### Chapitre Ier : Nullité des conventions.<a id=104></a>
 
 ###### Article L321-1
 
@@ -11836,7 +11924,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la consommation L322-1 *sanctions pénales*
 
 
-#### Chapitre II : Dispositions diverses.<a id=104></a>
+#### Chapitre II : Dispositions diverses.<a id=105></a>
 
 ###### Article L322-1
 
@@ -11956,9 +12044,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L322-5 (V)
 
 
-### Titre III : Traitement des situations de surendettement<a id=105></a>
+### Titre III : Traitement des situations de surendettement<a id=106></a>
 
-#### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers<a id=106></a>
+#### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers<a id=107></a>
 
 ###### Article L331-1
 
@@ -12526,7 +12614,7 @@ _Cite_:
   - Code pénal - art. 226-13 (M)
 
 
-#### Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement.<a id=107></a>
+#### Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement.<a id=108></a>
 
 ###### Article L332-1
 
@@ -12683,7 +12771,7 @@ _Cite_:
   - Code de la consommation - art. L332-2 (M)
 
 
-#### Chapitre III : Dispositions communes<a id=108></a>
+#### Chapitre III : Dispositions communes<a id=109></a>
 
 ###### Article L333-1
 
@@ -13086,11 +13174,11 @@ _Cité par_:
   - Code de la consommation - art. L333-7 (Ab)
 
 
-## Livre IV : Les associations de consommateurs<a id=109></a>
+## Livre IV : Les associations de consommateurs<a id=110></a>
 
-### Titre Ier : Agrément des associations<a id=110></a>
+### Titre Ier : Agrément des associations<a id=111></a>
 
-#### Chapitre Ier : Les associations<a id=111></a>
+#### Chapitre Ier : Les associations<a id=112></a>
 
 ###### Article L411-1
 
@@ -13167,7 +13255,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L811-1 (V)
 
 
-#### Chapitre II : Les sociétés coopératives de consommation<a id=112></a>
+#### Chapitre II : Les sociétés coopératives de consommation<a id=113></a>
 
 ###### Article L412-1
 
@@ -13208,11 +13296,11 @@ _Cité par_:
   - Code de la consommation - art. R411-7 (Ab)
 
 
-### Titre II : Actions en justice des associations<a id=113></a>
+### Titre II : Actions en justice des associations<a id=114></a>
 
-#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=114></a>
+#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=115></a>
 
-##### Section 1 : Action civile<a id=115></a>
+##### Section 1 : Action civile<a id=116></a>
 
 ###### Article L421-1
 
@@ -13389,7 +13477,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L621-5 (V)
 
 
-##### Section 2 : Action en suppression de clauses abusives.<a id=116></a>
+##### Section 2 : Action en suppression de clauses abusives.<a id=117></a>
 
 ###### Article L421-6
 
@@ -13420,7 +13508,7 @@ _Cite_:
   - Code de la consommation - art. L421-1 (V)
 
 
-##### Section 3 : Interventions en justice<a id=117></a>
+##### Section 3 : Interventions en justice<a id=118></a>
 
 ###### Article L421-7
 
@@ -13448,7 +13536,7 @@ _Cite_:
   - Code de la consommation - art. L421-2 (V)
 
 
-##### Section 4 : Dispositions communes<a id=118></a>
+##### Section 4 : Dispositions communes<a id=119></a>
 
 ###### Article L421-8
 
@@ -13514,7 +13602,7 @@ _Cite_:
   - Code pénal - art. 131-35
 
 
-#### Chapitre II : Action en représentation conjointe<a id=119></a>
+#### Chapitre II : Action en représentation conjointe<a id=120></a>
 
 ###### Article L422-1
 
@@ -13629,11 +13717,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. L622-4 (V)
 
 
-## Livre V : Les institutions<a id=120></a>
+## Livre V : Les institutions<a id=121></a>
 
-### Titre III : L'Institut national de la consommation<a id=121></a>
+### Titre III : L'Institut national de la consommation<a id=122></a>
 
-#### Chapitre Ier : Organisation administrative<a id=122></a>
+#### Chapitre Ier : Organisation administrative<a id=123></a>
 
 ###### Article L531-1
 
@@ -13658,9 +13746,9 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-### Titre VI : Le laboratoire d'essais<a id=123></a>
+### Titre VI : Le laboratoire d'essais<a id=124></a>
 
-#### Chapitre Ier : Missions<a id=124></a>
+#### Chapitre Ier : Missions<a id=125></a>
 
 ###### Article L561-1
 
@@ -13711,7 +13799,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-1 (V)
 
 
-#### Chapitre II : Fonctionnement<a id=125></a>
+#### Chapitre II : Fonctionnement<a id=126></a>
 
 ###### Article L562-1
 
@@ -13741,13 +13829,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-2 (V)
 
 
-# Partie réglementaire<a id=126></a>
+# Partie réglementaire<a id=127></a>
 
-## Livre Ier : Information des consommateurs et formation des contrats<a id=127></a>
+## Livre Ier : Information des consommateurs et formation des contrats<a id=128></a>
 
-### Titre Ier : Information des consommateurs<a id=128></a>
+### Titre Ier : Information des consommateurs<a id=129></a>
 
-#### Chapitre II : Modes de présentation et inscriptions<a id=129></a>
+#### Chapitre II : Modes de présentation et inscriptions<a id=130></a>
 
 ###### Article R*112-32
 
@@ -14672,7 +14760,7 @@ _Cite_:
   - Code de la consommation R112-9, R112-11
 
 
-#### Chapitre III : Prix et conditions de vente<a id=130></a>
+#### Chapitre III : Prix et conditions de vente<a id=131></a>
 
 ###### Article R113-1
 
@@ -14711,7 +14799,7 @@ _Cité par_:
   - Code du tourisme. - art. R231-1-4 (V)
 
 
-#### Chapitre IV : Information sur les délais de livraison<a id=131></a>
+#### Chapitre IV : Information sur les délais de livraison<a id=132></a>
 
 ###### Article R114-1
 
@@ -14734,11 +14822,11 @@ _Cite_:
   - Code de la consommation - art. L114-1 (V)
 
 
-#### Chapitre V : Valorisation des produits et des services<a id=132></a>
+#### Chapitre V : Valorisation des produits et des services<a id=133></a>
 
-##### Section 4 : Certification des services et des produits autres qu'alimentaires<a id=133></a>
+##### Section 4 : Certification des services et des produits autres qu'alimentaires<a id=134></a>
 
-##### Sous-section 1 : Des organismes certificateurs.<a id=134></a>
+##### Sous-section 1 : Des organismes certificateurs.<a id=135></a>
 
 ###### Article R115-1
 
@@ -14911,7 +14999,7 @@ _Abrogé par_:
   - Décret n°2008-1401 du 19 décembre 2008 - art. 7
 
 
-##### Sous-section 2 : De l'accréditation.<a id=135></a>
+##### Sous-section 2 : De l'accréditation.<a id=136></a>
 
 ###### Article R115-6
 
@@ -14971,7 +15059,7 @@ _Abrogé par_:
   - Décret n°2008-1401 du 19 décembre 2008 - art. 7
 
 
-##### Sous-section 3 : Des référentiels.<a id=136></a>
+##### Sous-section 3 : Des référentiels.<a id=137></a>
 
 ###### Article R115-8
 
@@ -15054,7 +15142,7 @@ _Abrogé par_:
   - Décret n°2008-1401 du 19 décembre 2008 - art. 7
 
 
-##### Sous-section 4 : De l'information des consommateurs et utilisateurs.<a id=137></a>
+##### Sous-section 4 : De l'information des consommateurs et utilisateurs.<a id=138></a>
 
 ###### Article R115-10
 
@@ -15126,7 +15214,7 @@ _Cite_:
   - Code de la consommation - art. L115-28
 
 
-##### Sous-section 5 : Dispositions pénales.<a id=138></a>
+##### Sous-section 5 : Dispositions pénales.<a id=139></a>
 
 ###### Article R115-12
 
@@ -15158,11 +15246,11 @@ _Cite_:
   - Code de la consommation
 
 
-### Titre II : Pratiques commerciales<a id=139></a>
+### Titre II : Pratiques commerciales<a id=140></a>
 
-#### Chapitre Ier : Pratiques commerciales réglementées<a id=140></a>
+#### Chapitre Ier : Pratiques commerciales réglementées<a id=141></a>
 
-##### Section 2 : Vente à distance.<a id=141></a>
+##### Section 2 : Vente à distance.<a id=142></a>
 
 ###### Article R121-1
 
@@ -15207,7 +15295,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-##### Section 3 : Démarchage<a id=142></a>
+##### Section 3 : Démarchage<a id=143></a>
 
 ###### Article R121-3
 
@@ -15353,7 +15441,7 @@ _Cite_:
   - Code de la consommation R121-4, R121-5
 
 
-##### Section 4 : Ventes directes.<a id=143></a>
+##### Section 4 : Ventes directes.<a id=144></a>
 
 ###### Article R121-7
 
@@ -15475,7 +15563,7 @@ _Abrogé par_:
   - Décret n°99-513 du 16 juin 1999 - art. 2 () JORF 23 juin 1999
 
 
-##### Section 5 : Ventes ou prestations avec primes<a id=144></a>
+##### Section 5 : Ventes ou prestations avec primes<a id=145></a>
 
 ###### Article R121-8
 
@@ -15564,7 +15652,7 @@ _Cite_:
   - Code de la consommation
 
 
-##### Section 6 : Loteries publicitaires<a id=145></a>
+##### Section 6 : Loteries publicitaires<a id=146></a>
 
 ###### Article R121-11
 
@@ -15660,9 +15748,9 @@ _Cite_:
   - Code de la consommation L121-31, L122-1, R121-8, R121-10
 
 
-#### Chapitre II : Pratiques commerciales illicites<a id=146></a>
+#### Chapitre II : Pratiques commerciales illicites<a id=147></a>
 
-##### Section 2 : Ventes sans commande préalable.<a id=147></a>
+##### Section 2 : Ventes sans commande préalable.<a id=148></a>
 
 ###### Article R122-1
 
@@ -15726,11 +15814,11 @@ _Anciens textes_:
   - Code pénal R122-1
 
 
-### Titre III : Conditions générales des contrats<a id=148></a>
+### Titre III : Conditions générales des contrats<a id=149></a>
 
-#### Chapitre II : Clauses abusives<a id=149></a>
+#### Chapitre II : Clauses abusives<a id=150></a>
 
-##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=150></a>
+##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=151></a>
 
 ###### Article R132-1
 
@@ -15787,7 +15875,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-##### Section 2 : Commission des clauses abusives<a id=151></a>
+##### Section 2 : Commission des clauses abusives<a id=152></a>
 
 ###### Article R132-3
 
@@ -15949,7 +16037,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R534-4 (VD)
 
 
-#### Chapitre IV : Remise des contrats<a id=152></a>
+#### Chapitre IV : Remise des contrats<a id=153></a>
 
 ###### Article R134-1
 
@@ -15982,9 +16070,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R131-1 (V)
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=153></a>
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=154></a>
 
-#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=154></a>
+#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=155></a>
 
 ###### Article R141-1
 
@@ -16042,7 +16130,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-#### Chapitre II : Procédures civiles simplifiées<a id=155></a>
+#### Chapitre II : Procédures civiles simplifiées<a id=156></a>
 
 ###### Article R142-1
 
@@ -16176,13 +16264,13 @@ _Cite_:
   - Nouveau code de procédure civile 97, 828, 1425-1 à 1425-9
 
 
-## Livre II : Qualité des produits et des services<a id=156></a>
+## Livre II : Qualité des produits et des services<a id=157></a>
 
-### Titre Ier : Conformité<a id=157></a>
+### Titre Ier : Conformité<a id=158></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=158></a>
+#### Chapitre Ier : Dispositions générales.<a id=159></a>
 
-##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=159></a>
+##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=160></a>
 
 ###### Article R211-1
 
@@ -16321,9 +16409,9 @@ _Cite_:
   - Code de la consommation
 
 
-#### Chapitre V : Pouvoirs d'enquête<a id=160></a>
+#### Chapitre V : Pouvoirs d'enquête<a id=161></a>
 
-##### Section 1 : Autorités qualifiées.<a id=161></a>
+##### Section 1 : Autorités qualifiées.<a id=162></a>
 
 ###### Article R215-1
 
@@ -16350,7 +16438,7 @@ _Cite_:
   - Code de la consommation L213-1 à L216-9
 
 
-##### Section 2 : Recherche et constatation.<a id=162></a>
+##### Section 2 : Recherche et constatation.<a id=163></a>
 
 ###### Article R*215-2
 
@@ -16832,7 +16920,7 @@ _Cite_:
   - Code de la consommation R215-11
 
 
-##### Section 3 : Mesures d'urgence.<a id=163></a>
+##### Section 3 : Mesures d'urgence.<a id=164></a>
 
 ###### Article R215-16
 
@@ -16892,7 +16980,7 @@ _Abrogé par_:
   - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
 
 
-##### Section 4 : Expertises.<a id=164></a>
+##### Section 4 : Expertises.<a id=165></a>
 
 ###### Article R215-18
 
@@ -17080,7 +17168,7 @@ _Cite_:
   - Code de la consommation - art. L215-17 (V)
 
 
-#### Chapitre VI : Dispositions communes.<a id=165></a>
+#### Chapitre VI : Dispositions communes.<a id=166></a>
 
 ###### Article R216-1
 
@@ -17147,9 +17235,9 @@ _Cite_:
   - Code de la consommation - art. L213-4
 
 
-### Titre II : Sécurité<a id=166></a>
+### Titre II : Sécurité<a id=167></a>
 
-#### Chapitre Ier : Prévention.<a id=167></a>
+#### Chapitre Ier : Prévention.<a id=168></a>
 
 ###### Article R221-1
 
@@ -17209,7 +17297,7 @@ _Abrogé par_:
   - Décret n°2005-1701 du 27 décembre 2005 - art. 4 () JORF 30 décembre 2005
 
 
-#### Chapitre III : Sanctions<a id=168></a>
+#### Chapitre III : Sanctions<a id=169></a>
 
 ###### Article R223-1
 
@@ -17291,7 +17379,7 @@ _Cite_:
   - SPEC_APPLI: Code pénal - art. 131-13 (M)
 
 
-#### Chapitre IV : La commission de la sécurité des consommateurs<a id=169></a>
+#### Chapitre IV : La commission de la sécurité des consommateurs<a id=170></a>
 
 ###### Article R224-1
 
@@ -17674,7 +17762,7 @@ _Abrogé par_:
   - Décret n°2010-1221 du 18 octobre 2010 - art. 14
 
 
-#### Chapitre V : Dispositions diverses<a id=170></a>
+#### Chapitre V : Dispositions diverses<a id=171></a>
 
 ###### Article D225-1
 
@@ -17776,13 +17864,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. D521-4 (V)
 
 
-## Livre III : Endettement<a id=171></a>
+## Livre III : Endettement<a id=172></a>
 
-### Titre Ier : Crédit<a id=172></a>
+### Titre Ier : Crédit<a id=173></a>
 
-#### Chapitre Ier : Crédit à la consommation<a id=173></a>
+#### Chapitre Ier : Crédit à la consommation<a id=174></a>
 
-##### Section 1 : Champ d'application<a id=174></a>
+##### Section 1 : Champ d'application<a id=175></a>
 
 ###### Article D311-1
 
@@ -17860,7 +17948,7 @@ _Cite_:
   - Code de la consommation - art. D311-2 (M)
 
 
-##### Section 3 : Crédit gratuit<a id=175></a>
+##### Section 3 : Crédit gratuit<a id=176></a>
 
 ###### Article R311-4
 
@@ -17913,7 +18001,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-##### Section 4 : Le contrat de crédit<a id=176></a>
+##### Section 4 : Le contrat de crédit<a id=177></a>
 
 ###### Article R311-6
 
@@ -17983,9 +18071,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R311-4 (VD)
 
 
-##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=177></a>
+##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=178></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=178></a>
+##### Sous-section 1 : Remboursement anticipé<a id=179></a>
 
 ###### Article D311-10
 
@@ -18016,7 +18104,7 @@ _Cité par_:
   - Code de la consommation - art. Annexe Modèle type n°2 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=179></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=180></a>
 
 ###### Article D311-11
 
@@ -18133,7 +18221,7 @@ _Cite_:
   - Code de la consommation - art. L311-31 (V)
 
 
-##### Section 5 : Les crédits affectés<a id=180></a>
+##### Section 5 : Les crédits affectés<a id=181></a>
 
 ###### Article R311-8
 
@@ -18204,9 +18292,9 @@ _Cite_:
   - Code de la consommation R311-8
 
 
-#### Chapitre II : Crédit immobilier<a id=181></a>
+#### Chapitre II : Crédit immobilier<a id=182></a>
 
-##### Section 3 : Le contrat de crédit<a id=182></a>
+##### Section 3 : Le contrat de crédit<a id=183></a>
 
 ###### Article R312-1
 
@@ -18228,9 +18316,9 @@ _Cite_:
   - Code de la consommation - art. L312-14 (V)
 
 
-##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=183></a>
+##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=184></a>
 
-##### Sous-section 1 : Remboursement anticipé.<a id=184></a>
+##### Sous-section 1 : Remboursement anticipé.<a id=185></a>
 
 ###### Article R312-2
 
@@ -18261,7 +18349,7 @@ _Cite_:
   - Code de la consommation - art. L312-21 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur.<a id=185></a>
+##### Sous-section 2 : Défaillance de l'emprunteur.<a id=186></a>
 
 ###### Article R312-3
 
@@ -18290,7 +18378,7 @@ _Cité par_:
   - Code de la consommation - art. R315-2 (VT)
 
 
-##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=186></a>
+##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=187></a>
 
 ###### Article R312-4
 
@@ -18325,11 +18413,11 @@ _Cite_:
   - Code de la consommation - art. L312-29
 
 
-#### Chapitre III : Dispositions communes<a id=187></a>
+#### Chapitre III : Dispositions communes<a id=188></a>
 
-##### Section 1 : Le taux d'intérêt<a id=188></a>
+##### Section 1 : Le taux d'intérêt<a id=189></a>
 
-##### Sous-section 1 : Le taux effectif global<a id=189></a>
+##### Sous-section 1 : Le taux effectif global<a id=190></a>
 
 ###### Article R313-1
 
@@ -18507,7 +18595,7 @@ _Nouveaux textes_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. R313-1 (V)
 
 
-##### Sous-section 2 : Le taux d'usure<a id=190></a>
+##### Sous-section 2 : Le taux d'usure<a id=191></a>
 
 ###### Article D313-6
 
@@ -18668,7 +18756,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. D711-14 (Ab)
 
 
-##### Section 3 : Rémunération du vendeur<a id=191></a>
+##### Section 3 : Rémunération du vendeur<a id=192></a>
 
 ###### Article R313-10
 
@@ -18712,9 +18800,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R341-25 (V)
 
 
-##### Annexes<a id=192></a>
+##### Annexes<a id=193></a>
 
-##### ANNEXE A L'ARTICLE R113-1<a id=193></a>
+##### ANNEXE A L'ARTICLE R113-1<a id=194></a>
 
 ###### Article Annexe à l'article R113-1
 
@@ -18749,7 +18837,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE A L'ARTICLE R211-2<a id=194></a>
+##### ANNEXE A L'ARTICLE R211-2<a id=195></a>
 
 ###### Article Annexe à l'article R211-2
 
@@ -19362,7 +19450,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### Annexe : clauses visées au troisième alinéa de l'article L. 132-1<a id=195></a>
+##### Annexe : clauses visées au troisième alinéa de l'article L. 132-1<a id=196></a>
 
 ###### Article Annexe à l'article L132-1
 
@@ -19463,11 +19551,11 @@ _Créé par_:
   - Loi n°95-96 du 1 février 1995 - art. 1 () JORF 2 février 1995
 
 
-### Titre III : Traitement des situations de surendettement<a id=196></a>
+### Titre III : Traitement des situations de surendettement<a id=197></a>
 
-#### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers<a id=197></a>
+#### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers<a id=198></a>
 
-##### Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers.<a id=198></a>
+##### Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers.<a id=199></a>
 
 ###### Article R331-1
 
@@ -19619,9 +19707,9 @@ _Cité par_:
   - Code de la consommation - art. R336-6 (Ab)
 
 
-##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=199></a>
+##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=200></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=200></a>
+##### Sous-section 1 : Dispositions générales.<a id=201></a>
 
 ###### Article R331-7
 
@@ -19716,7 +19804,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-##### Sous-section 2 : Vérification des créances.<a id=201></a>
+##### Sous-section 2 : Vérification des créances.<a id=202></a>
 
 ###### Article R*331-13
 
@@ -19787,7 +19875,7 @@ _Cité par_:
   - Code de la consommation - art. R333-3 (Ab)
 
 
-##### Sous-section 3 : Suspension des procédures d'exécution.<a id=202></a>
+##### Sous-section 3 : Suspension des procédures d'exécution.<a id=203></a>
 
 ###### Article R331-14
 
@@ -19844,7 +19932,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-##### Sous-section 4 : Plan conventionnel de redressement.<a id=203></a>
+##### Sous-section 4 : Plan conventionnel de redressement.<a id=204></a>
 
 ###### Article R331-16
 
@@ -19882,7 +19970,7 @@ _Cite_:
   - Code de la consommation R331-7, R331-14
 
 
-##### Sous-section 5 : Mesures recommandées par la commission.<a id=204></a>
+##### Sous-section 5 : Mesures recommandées par la commission.<a id=205></a>
 
 ###### Article R331-18
 
@@ -19961,9 +20049,9 @@ _Cite_:
   - Code de la consommation - art. L332-2 (M)
 
 
-#### Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement<a id=205></a>
+#### Chapitre II : Du contrôle par le juge des mesures recommandées par la commission de surendettement<a id=206></a>
 
-##### Section 1 : Acquisition de la force exécutoire.<a id=206></a>
+##### Section 1 : Acquisition de la force exécutoire.<a id=207></a>
 
 ###### Article R332-1
 
@@ -20052,7 +20140,7 @@ _Cite_:
   - Code de la consommation L332-2, R331-20
 
 
-##### Section 2 : Contestation des mesures recommandées.<a id=207></a>
+##### Section 2 : Contestation des mesures recommandées.<a id=208></a>
 
 ###### Article R*332-4
 
@@ -20207,7 +20295,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-#### Chapitre III : Dispositions communes<a id=208></a>
+#### Chapitre III : Dispositions communes<a id=209></a>
 
 ###### Article R*333-2
 
@@ -20325,11 +20413,11 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-## Livre IV : Les associations de consommateurs<a id=209></a>
+## Livre IV : Les associations de consommateurs<a id=210></a>
 
-### Titre Ier : Agrément des associations.<a id=210></a>
+### Titre Ier : Agrément des associations.<a id=211></a>
 
-#### Chapitre Ier : Les associations.<a id=211></a>
+#### Chapitre Ier : Les associations.<a id=212></a>
 
 ###### Article R411-1
 
@@ -20593,9 +20681,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : Action en justice des associations.<a id=212></a>
+### Titre II : Action en justice des associations.<a id=213></a>
 
-#### Chapitre II : Action en représentation conjointe.<a id=213></a>
+#### Chapitre II : Action en représentation conjointe.<a id=214></a>
 
 ###### Article R422-1
 
@@ -20922,13 +21010,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R622-10 (V)
 
 
-## Livre V : Les institutions<a id=214></a>
+## Livre V : Les institutions<a id=215></a>
 
-### Titre Ier : Les organes de concertation.<a id=215></a>
+### Titre Ier : Les organes de concertation.<a id=216></a>
 
-#### Chapitre Ier : Le Conseil national de la consommation.<a id=216></a>
+#### Chapitre Ier : Le Conseil national de la consommation.<a id=217></a>
 
-##### Section 1 : Missions et attributions.<a id=217></a>
+##### Section 1 : Missions et attributions.<a id=218></a>
 
 ###### Article D511-1
 
@@ -21063,7 +21151,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. D821-4 (V)
 
 
-##### Section 2 : Composition et organisation.<a id=218></a>
+##### Section 2 : Composition et organisation.<a id=219></a>
 
 ###### Article D511-5
 
@@ -21274,7 +21362,7 @@ _Cité par_:
   - Code de la consommation - art. D511-9 (Ab)
 
 
-##### Section 3 : Fonctionnement.<a id=219></a>
+##### Section 3 : Fonctionnement.<a id=220></a>
 
 ###### Article D511-12
 
@@ -21455,7 +21543,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-#### Chapitre II : Les comités départementaux de la consommation.<a id=220></a>
+#### Chapitre II : Les comités départementaux de la consommation.<a id=221></a>
 
 ###### Article R512-1
 
@@ -21489,9 +21577,9 @@ _Abrogé par_:
   - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
-### Titre II : Les organes de coordination administrative.<a id=221></a>
+### Titre II : Les organes de coordination administrative.<a id=222></a>
 
-#### Chapitre Ier : Le comité interministériel de la consommation.<a id=222></a>
+#### Chapitre Ier : Le comité interministériel de la consommation.<a id=223></a>
 
 ###### Article D521-1
 
@@ -21552,7 +21640,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-#### Chapitre II : Le groupe interministériel de la consommation.<a id=223></a>
+#### Chapitre II : Le groupe interministériel de la consommation.<a id=224></a>
 
 ###### Article D522-1
 
@@ -21722,9 +21810,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. D825-4 (V)
 
 
-### Titre III : L'institut national de la consommation.<a id=224></a>
+### Titre III : L'institut national de la consommation.<a id=225></a>
 
-#### Chapitre Ier : Organisation et administration.<a id=225></a>
+#### Chapitre Ier : Organisation et administration.<a id=226></a>
 
 ###### Article R531-1
 
@@ -22039,7 +22127,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-#### Chapitre II : Organes consultatifs.<a id=226></a>
+#### Chapitre II : Organes consultatifs.<a id=227></a>
 
 ###### Article R*532-2
 
@@ -22129,7 +22217,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-#### Chapitre III : Dispositions financières et comptables.<a id=227></a>
+#### Chapitre III : Dispositions financières et comptables.<a id=228></a>
 
 ###### Article R*533-5
 
@@ -22228,7 +22316,7 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=228></a>
+### Titre IV : Le conseil national de l'alimentation.<a id=229></a>
 
 ###### Article D541-1
 
@@ -22514,7 +22602,7 @@ _Cité par_:
   - Arrêté du 12 mai 2010 - art. 6 (V)
 
 
-### Titre V : La commission générale d'unification des méthodes d'analyse.<a id=229></a>
+### Titre V : La commission générale d'unification des méthodes d'analyse.<a id=230></a>
 
 ###### Article R*551-1
 
