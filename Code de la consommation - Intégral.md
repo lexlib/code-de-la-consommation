@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2004-07-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -10123,10 +10123,10 @@ _Abrogé par_:
 ###### Article L224-1
 
 La commission de la sécurité des consommateurs est composée d'un président nommé par décret en conseil des ministres, de
-membres du Conseil d'Etat et des juridictions de l'ordre administratif ou judiciaire. Elle comprend en outre des personnes
-appartenant aux organisations professionnelles, aux associations nationales de consommateurs et des experts. Ces personnes et
-experts sont désignés par le ministre chargé de la consommation après avis des ministres intéressés et sont choisis en raison
-de leurs compétences en matière de prévention des risques.
+membres des juridictions de l'ordre administratif ou judiciaire. Elle comprend en outre des personnes appartenant aux
+organisations professionnelles, aux associations nationales de consommateurs et des experts. Ces personnes et experts sont
+désignés par le ministre chargé de la consommation après avis des ministres intéressés et sont choisis en raison de leurs
+compétences en matière de prévention des risques.
 
 Un commissaire du Gouvernement désigné par le ministre chargé de la consommation siège auprès de la commission. Il peut, dans
 les quatre jours d'une délibération de la commission, provoquer une seconde délibération.
@@ -10142,14 +10142,22 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 1 () JORF 2 juillet 2004
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 62
 
 _Cité par_:
 
   - Code de la consommation - art. L221-3 (V)
   - Code de la consommation - art. R224-9 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L534-4 (VT)
 
 
 ###### Article L224-2
