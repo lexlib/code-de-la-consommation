@@ -1,11 +1,11 @@
 # Code de la consommation  
-Version Consolidée au 2001-04-08
+Version Consolidée au 2001-05-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
       - [Titre Ier : Information des consommateurs (art. L111-1 à L115-33)](#3)
         - [Chapitre Ier : Obligation générale d'information (art. L111-1 à L111-3)](#4)
-        - [Chapitre II : Modes de présentation et inscriptions (art. L112-1 à L112-3)](#5)
+        - [Chapitre II : Modes de présentation et inscriptions (art. L112-1 à L112-7)](#5)
         - [Chapitre III : Prix et conditions de vente (art. L113-1 à L113-3)](#6)
         - [Chapitre IV : Information sur les délais de livraison (art. L114-1)](#7)
         - [Chapitre V : Valorisation des produits et des services (art. L115-1 à L115-33)](#8)
@@ -378,7 +378,7 @@ _Nouveaux textes_:
 Un signe d'identification visuelle officiel, dénommé logo "appellation d'origine contrôlée", au sens du 2 de l'article 6 ter
 de la convention de Paris du 20 mars 1883 pour la protection de la propriété industrielle, doit être utilisé dans toute
 présentation des produits agricoles et des denrées alimentaires bénéficiant d'une appellation d'origine contrôlée, à
-l'exception des vins.
+l'exception des vins, des boissons spiritueuses et des produits intermédiaires.
 
 Un décret en Conseil d'Etat fixe, après consultation de l'Institut national des appellations d'origine, le modèle du logo
 officiel et ses modalités d'utilisation.
@@ -389,9 +389,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°99-574 du 9 juillet 1999 - art. 83 () JORF 10 juillet 1999
+  - Loi n°2001-420 du 15 mai 2001 - art. 61 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -431,6 +431,119 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°2001-6 du 4 janvier 2001 - art. 18 () JORF 5 janvier 2001
+
+
+###### Article L112-4
+
+Les conditions d'utilisation simultanée, pour l'étiquetage d'une denrée alimentaire ou d'un produit agricole non alimentaire
+et non transformé, à l'exception des vins, des boissons spiritueuses et des produits intermédiaires, d'une marque commerciale
+et d'un signe d'identification, au sens de l'article L. 640-2 du code rural, sont précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L640-2
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 59 () JORF 16 mai 2001
+
+_Cité par_:
+
+  - Code rural - art. L641-1-2 (Ab)
+
+
+###### Article L112-5
+
+La recherche et la constatation des infractions aux dispositions du présent chapitre sont exercées dans les conditions
+prévues à l'article L. 215-3 par les agents mentionnés à l'article L. 215-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 59 () JORF 16 mai 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-1
+  - Code de la consommation - art. L215-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-7 (V)
+
+
+###### Article L112-6
+
+L'étiquetage d'un produit vendu sous marque de distributeur doit mentionner le nom et l'adresse du fabricant si celui-ci en
+fait la demande.
+
+Est considéré comme produit vendu sous marque de distributeur le produit dont les caractéristiques ont été définies par
+l'entreprise ou le groupe d'entreprises qui en assure la vente au détail et qui est le propriétaire de la marque sous
+laquelle il est vendu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 62 () JORF 16 mai 2001
+
+_Cité par_:
+
+  - Loi n°2016-138 du 11 février 2016 - art. 1 (V)
+  - Code civil - art. 1386-6 (VT)
+  - Code de commerce - art. L442-6 (M)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R412-47 (V)
+
+
+###### Article L112-7
+
+Les dénominations "chocolat pur beurre de cacao" et "chocolat traditionnel" et toutes les autres dénominations équivalentes
+sont réservées aux chocolats fabriqués à partir des seules graisses tirées des fèves de cacaoyer, sans adjonction de matière
+grasse végétale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 63 () JORF 16 mai 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R412-48 (V)
 
 
 #### Chapitre III : Prix et conditions de vente<a id=6></a>
@@ -6408,10 +6521,10 @@ que la vente, la mise en vente, l'exposition, la détention et la distribution �
 par les chapitres II à VI ;
 
 2° Les modes de présentation ou les inscriptions de toute nature sur les marchandises elles-mêmes, les emballages, les
-factures, les documents commerciaux ou documents de promotion, en ce qui concerne notamment : la nature, les qualités
-substantielles, la composition, la teneur en principes utiles, l'espèce, l'origine, l'identité, la quantité, l'aptitude à
-l'emploi, les modes d'emploi ainsi que les marques spéciales facultatives ou obligatoires apposées sur les marchandises
-françaises exportées à l'étranger ;
+factures, les documents commerciaux ou documents de promotion, en ce qui concerne notamment : le mode de production, la
+nature, les qualités substantielles, la composition, la teneur en principes utiles, l'espèce, l'origine, l'identité, la
+quantité, l'aptitude à l'emploi, les modes d'emploi ainsi que les marques spéciales facultatives ou obligatoires apposées sur
+les marchandises françaises exportées à l'étranger ;
 
 3° La définition, la composition et la dénomination des marchandises de toute nature, les traitements licites dont elles
 peuvent être l'objet, les caractéristiques qui les rendent impropres à la consommation ;
@@ -6638,7 +6751,6 @@ _Cité par_:
   - TXT_SOURCE: Décret n°97-74 du 28 janvier 1997 - art. 8 (Ab)
   - TXT_SOURCE: Décret n°97-74 du 28 janvier 1997 - art. 9 (Ab)
   - TXT_SOURCE: Décret n°97-74 du 28 janvier 1997 - art. Annexe (Ab)
-  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 29 al. 2 (mesures d'entrée en vigueur concernant les dispositions relatives à l'Agence française de sécurité sanitaire des produits de santé)
   - TXT_SOURCE: Arrêté du 2 juillet 1998
   - TXT_SOURCE: Arrêté du 2 juillet 1998 - art. 1 ()
   - TXT_SOURCE: Arrêté du 2 juillet 1998 - art. 2 ()
@@ -6721,7 +6833,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-535 du 1 juillet 1998 - art. 11 () JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1998
+  - Loi n°2001-420 du 15 mai 2001 - art. 57 () JORF 16 mai 2001
 
 
 ###### Article L214-1-1
@@ -7095,6 +7207,22 @@ _Cite_:
   - Loi n°1912-02-27 art. 65
   - CODE DE PROCEDURE PENALE - art. 16 (M)
   - CODE DE PROCEDURE PENALE - art. 20 (M)
+
+
+###### Article L215-1-1
+
+Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes peuvent exercer les
+pouvoirs d'enquête qu'ils tiennent du livre II du présent code sur toute l'étendue du territoire national.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2001-420 du 15 mai 2001 - art. 81 () JORF 16 mai 2001
 
 
 ###### Article L215-2
