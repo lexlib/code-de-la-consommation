@@ -1,11 +1,11 @@
 # Code de la consommation  
-Version Consolidée au 2000-09-22
+Version Consolidée au 2001-01-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
       - [Titre Ier : Information des consommateurs (art. L111-1 à L115-33)](#3)
         - [Chapitre Ier : Obligation générale d'information (art. L111-1 à L111-3)](#4)
-        - [Chapitre II : Modes de présentation et inscriptions (art. L112-1 à L112-2)](#5)
+        - [Chapitre II : Modes de présentation et inscriptions (art. L112-1 à L112-3)](#5)
         - [Chapitre III : Prix et conditions de vente (art. L113-1 à L113-3)](#6)
         - [Chapitre IV : Information sur les délais de livraison (art. L114-1)](#7)
         - [Chapitre V : Valorisation des produits et des services (art. L115-1 à L115-33)](#8)
@@ -392,6 +392,41 @@ _Créé par_:
 _Cité par_:
 
   - Code rural - art. L641-1-1 (MMN)
+
+
+###### Article L112-3
+
+Les conditions d'utilisation des mentions relatives au mode d'élevage des volailles sont déterminées par l'article L. 640-4
+du code rural, ci-après reproduit :
+
+Art. L. 640-4 "Pour les volailles ne bénéficiant pas d'un signe d'identification au sens de l'article L. 640-2, la référence
+aux modes d'élevage concernant l'alimentation ne peut être utilisée, dans le respect de la réglementation communautaire en
+vigueur, que dans des conditions fixées par décret portant notamment sur les modalités de contrôle régulier.
+
+"La référence au mode d'élevage "élevé à l'intérieur, système extensif" et "sortant à l'extérieur", ainsi qu'à l'âge
+d'abattage, ne peut être utilisée que sur les volailles ayant donné lieu à la délivrance par l'autorité administrative d'un
+signe d'identification que sont la certification de conformité, le label, l'appellation d'origine contrôlée ou la
+certification du mode de production biologique.
+
+"Les mentions "fermier - élevé en plein air" ou "fermier - élevé en liberté" ne peuvent être utilisées que sur les volailles
+bénéficiant d'un label, d'une appellation d'origine contrôlée ou d'une certification du mode de production biologique.
+
+"Toutefois, ces dispositions ne s'appliquent pas aux productions à petite échelle destinées à la vente directe ou locale
+visées à l'article 3, paragraphe 5, de la directive 71/118/CEE".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code rural L640-2, L640-4
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2001-6 du 4 janvier 2001 - art. 18 () JORF 5 janvier 2001
 
 
 #### Chapitre III : Prix et conditions de vente<a id=6></a>
@@ -1884,15 +1919,10 @@ _Modifié par_:
 ###### Article L115-25
 
 Les dispositions des chapitres II à VI du titre Ier du livre II du présent code concernant la recherche et la constatation
-des infractions sont applicables aux prescriptions des articles L. 643-2 à L. 643-7 du code rural et L. 115-24 du présent
-code et des textes pris pour leur application.
+des infractions sont applicables aux prescriptions du titre IV du livre VI du code rural et L. 115-24 du présent code et des
+textes pris pour leur application.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L643-2 à L643-7
-  - Code de la consommation L115-22 à L115-24
 
 _Anciens textes_:
 
@@ -1904,7 +1934,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-565 du 8 juillet 1998 - art. 4 () JORF 9 juillet 1998
+  - Loi n°2001-6 du 4 janvier 2001 - art. 18 () JORF 5 janvier 2001
 
 _Cité par_:
 
@@ -1912,6 +1942,10 @@ _Cité par_:
   - Code de la consommation - art. L115-18 (M)
   - Code rural - art. L642-3 (M)
   - Code rural - art. L671-6 (M)
+
+_Cite_:
+
+  - Code de la consommation - art. L115-24 (M)
 
 **Liens**:
 
