@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-06-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -50,10 +50,10 @@ Version Consolidée au 2001-05-16
           - [Section 1 : Garantie légale. (art. L211-1)](#47)
           - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. L211-2)](#48)
         - [Chapitre II : Obligation générale de conformité (art. L212-1)](#49)
-        - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-5)](#50)
+        - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-6)](#50)
           - [Section 1 : Tromperie (art. L213-1 à L213-2)](#51)
           - [Section 2 : Falsifications et délits connexes (art. L213-3 à L213-4)](#52)
-          - [Section 3 : Récidive légale (art. L213-5)](#53)
+          - [Section 3 : Récidive légale (art. L213-5 à L213-6)](#53)
         - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#54)
         - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-18)](#55)
           - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2)](#56)
@@ -6507,6 +6507,46 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°96-314 du 12 avril 1996 - art. 60 () JORF 13 avril 1996
+
+
+###### Article L213-6
+
+Les personnes morales peuvent être déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code
+pénal des infractions définies aux articles L. 213-1 à L. 213-4.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal; 
+
+2° Les peines mentionnées aux 2° à 9° de l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-504 2001-06-12 art. 24 (modalités d'application aux DOM - TOM)
+
+_Créé par_:
+
+  - Loi n°2001-504 du 12 juin 2001 - art. 3 () JORF 13 juin 2001
+
+_Cité par_:
+
+  - Code de la consommation - art. L121-6 (V)
+
+_Cite_:
+
+  - Code de la consommation L213-1 à L213-4
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 131-39 (MMN)
 
 
 #### Chapitre IV : Mesures d'application<a id=54></a>
