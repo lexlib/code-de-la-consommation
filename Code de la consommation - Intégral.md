@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2003-09-15
+Version Consolidée au 2004-02-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -73,7 +73,7 @@ Version Consolidée au 2003-09-15
         - [Chapitre III : Sanctions. (art. L223-1 à L223-2)](#70)
         - [Chapitre IV : La commission de la sécurité des consommateurs. (art. L224-1 à L224-6)](#71)
         - [Chapitre V : Dispositions diverses (art. L225-1)](#72)
-    - [Livre III : Endettement (art. L311-1 à L341-4)](#73)
+    - [Livre III : Endettement (art. L311-1 à L341-6)](#73)
       - [Titre Ier : Crédit (art. L311-1 à L313-16)](#74)
         - [Chapitre Ier : Crédit à la consommation (art. L311-1 à L311-37)](#75)
           - [Section 1 : Champ d'application (art. L311-1 à L311-3)](#76)
@@ -123,7 +123,7 @@ Version Consolidée au 2003-09-15
           - [Section 1 : Du contrôle par le juge des mesures recommandées par la commission de surendettement (art. L332-1 à L332-4)](#120)
           - [Section 2 : De la procédure de rétablissement personnel (art. L332-5 à L332-12)](#121)
         - [Chapitre III : Dispositions communes (art. L333-1 à L333-8)](#122)
-      - [Titre IV : Cautionnement (art. L341-1 à L341-4)](#123)
+      - [Titre IV : Cautionnement (art. L341-1 à L341-6)](#123)
     - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#124)
       - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#125)
         - [Chapitre Ier : Les associations (art. L411-1)](#126)
@@ -15938,6 +15938,58 @@ _Nouveaux textes_:
   - Code de la consommation - art. L343-5 (V)
 
 
+###### Article L341-2
+
+Toute personne physique qui s'engage par acte sous seing privé en qualité de caution envers un créancier professionnel doit,
+à peine de nullité de son engagement, faire précéder sa signature de la mention manuscrite suivante, et uniquement de celle-
+ci : "En me portant caution de X..., dans la limite de la somme de ... couvrant le paiement du principal, des intérêts et, le
+cas échéant, des pénalités ou intérêts de retard et pour la durée de ..., je m'engage à rembourser au prêteur les sommes dues
+sur mes revenus et mes biens si X... n'y satisfait pas lui-même."
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2003-721 du 1 août 2003 - art. 11 () JORF 5 août 2003 en vigueur le 5 février 2004
+  - Loi n°2003-721 du 1 août 2003 - art. 12 () JORF 5 août 2003 en vigueur le 5 février 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L331-1 (V)
+  - Code de la consommation - art. L343-1 (M)
+
+
+###### Article L341-3
+
+Lorsque le créancier professionnel demande un cautionnement solidaire, la personne physique qui se porte caution doit, à
+peine de nullité de son engagement, faire précéder sa signature de la mention manuscrite suivante : "En renonçant au bénéfice
+de discussion défini à l'article 2021 du code civil et en m'obligeant solidairement avec X..., je m'engage à rembourser le
+créancier sans pouvoir exiger qu'il poursuive préalablement X...".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2003-721 du 1 août 2003 - art. 11 () JORF 5 août 2003 en vigueur le 5 février 2004
+  - Loi n°2003-721 du 1 août 2003 - art. 12 () JORF 5 août 2003 en vigueur le 5 février 2004
+
+_Cite_:
+
+  - Code civil - art. 2021 (T)
+
+
 ###### Article L341-4
 
 Un créancier professionnel ne peut se prévaloir d'un contrat de cautionnement conclu par une personne physique dont
@@ -15962,6 +16014,64 @@ _Nouveaux textes_:
 
   - Code de la consommation - art. L332-1 (V)
   - Code de la consommation - art. L343-4 (V)
+
+
+###### Article L341-5
+
+Les stipulations de solidarité et de renonciation au bénéfice de discussion figurant dans un contrat de cautionnement
+consenti par une personne physique au bénéfice d'un créancier professionnel sont réputées non écrites si l'engagement de la
+caution n'est pas limité à un montant global, expressément et contractuellement déterminé, incluant le principal, les
+intérêts, les frais et accessoires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Créé par_:
+
+  - Loi n°2003-721 du 1 août 2003 - art. 11 () JORF 5 août 2003 en vigueur le 5 février 2004
+  - Loi n°2003-721 du 1 août 2003 - art. 12 () JORF 5 août 2003 en vigueur le 5 février 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L331-3 (V)
+  - Code de la consommation - art. L343-3 (V)
+
+
+###### Article L341-6
+
+Le créancier professionnel est tenu de faire connaître à la caution personne physique, au plus tard avant le 31 mars de
+chaque année, le montant du principal et des intérêts, commissions, frais et accessoires restant à courir au 31 décembre de
+l'année précédente au titre de l'obligation garantie, ainsi que le terme de cet engagement. Si l'engagement est à durée
+indéterminée, il rappelle la faculté de révocation à tout moment et les conditions dans lesquelles celle-ci est exercée. A
+défaut, la caution ne saurait être tenue au paiement des pénalités ou intérêts de retard échus depuis la précédente
+information jusqu'à la date de communication de la nouvelle information.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Créé par_:
+
+  - Loi n°2003-721 du 1 août 2003 - art. 11 () JORF 5 août 2003 en vigueur le 5 février 2004
+  - Loi n°2003-721 du 1 août 2003 - art. 12 () JORF 5 août 2003 en vigueur le 5 février 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L333-2 (V)
+  - Code de la consommation - art. L343-6 (V)
 
 
 ## Livre IV : Les associations de consommateurs<a id=124></a>
