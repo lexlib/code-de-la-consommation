@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-02-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -77,8 +77,8 @@ Version Consolidée au 2005-01-19
       - [Titre Ier : Crédit (art. L311-1 à L313-16)](#74)
         - [Chapitre Ier : Crédit à la consommation (art. L311-1 à L311-37)](#75)
           - [Section 1 : Champ d'application (art. L311-1 à L311-3)](#76)
-          - [Section 2 : Publicité (art. L311-4)](#77)
-          - [Section 3 : Crédit gratuit. (art. L311-5 à L311-7)](#78)
+          - [Section 2 : Publicité (art. L311-4 à L311-5)](#77)
+          - [Section 3 : Crédit gratuit. (art. L311-6 à L311-7-1)](#78)
           - [Section 4 : Le contrat de crédit. (art. L311-8 à L311-19)](#79)
           - [Section 5 : Les crédits affectés. (art. L311-20 à L311-27)](#80)
           - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur. (art. L311-29 à L311-32)](#81)
@@ -10600,21 +10600,10 @@ _Cité par_:
   - Code de la consommation - art. L311-49 (VT)
 
 
-##### Section 3 : Crédit gratuit.<a id=78></a>
-
 ###### Article L311-5
 
-Est interdite, hors des lieux de vente, toute publicité :
-
-1° Comportant la mention "crédit gratuit" ou proposant un avantage équivalent ou concernant la prise en charge totale ou
-partielle des frais de crédit par le vendeur ;
-
-2° Portant sur une opération de financement proposée pour l'acquisition ou la location avec option d'achat d'un bien de
-consommation d'une ou plusieurs marques, mais non d'une autre, et d'un taux inférieur au coût de refinancement pour les mêmes
-durées, tel que défini par le comité de la réglementation bancaire ;
-
-3° Promotionnelle relative aux opérations visées à l'article L. 311-2 proposant une période de franchise de paiement de
-loyers ou de remboursement des échéances du crédit supérieure à trois mois.
+Toute publicité relative aux opérations visées à l'article L. 311-2 proposant une période de franchise de paiement de loyers
+ou de remboursement des échéances du crédit supérieure à trois mois est interdite hors des lieux de vente.
 
 **Liens relatifs à cet article**
 
@@ -10627,9 +10616,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2005-67 du 28 janvier 2005 - art. 5 () JORF 1er février 2005
 
 _Cité par_:
 
@@ -10642,15 +10631,14 @@ _Cite_:
 
   - Code de la consommation - art. L311-2 (V)
 
-**Liens**:
 
-  - SPEC_APPLI: Code de la consommation L312-34 *sanctions pénales*
-
+##### Section 3 : Crédit gratuit.<a id=78></a>
 
 ###### Article L311-6
 
-Toute publicité sur les lieux de vente comportant la mention "crédit gratuit" ou proposant un avantage équivalent doit
-indiquer le montant de l'escompte consenti en cas de paiement comptant.
+Toute publicité comportant la mention "crédit gratuit" ou proposant un avantage équivalent doit indiquer le montant de
+l'escompte consenti en cas de paiement comptant et préciser qui prend en charge le coût du crédit consenti gratuitement au
+consommateur.
 
 **Liens relatifs à cet article**
 
@@ -10663,9 +10651,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2005-67 du 28 janvier 2005 - art. 5 () JORF 1er février 2005
 
 _Cité par_:
 
@@ -10681,10 +10669,6 @@ _Cité par_:
   - Code de la consommation - art. L311-8 (VT)
   - Code de la consommation - art. R311-3 (Ab)
   - Code de la consommation - art. R313-12 (MMN)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la consommation L312-34 *sanctions pénales*
 
 
 ###### Article L311-7
@@ -10720,6 +10704,23 @@ _Cité par_:
 _Cite_:
 
   - Code de la consommation L311-4 à L311-6
+
+
+###### Article L311-7-1
+
+Toute opération de crédit à titre onéreux proposée concomitamment à une opération de crédit gratuit ou promotionnel est
+conclue dans les termes d'une offre préalable de crédit distincte, conforme aux dispositions des articles L. 311-8 et L.
+311-10 et suivants.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L311-29 (VD)
 
 
 ##### Section 4 : Le contrat de crédit.<a id=79></a>
@@ -23211,9 +23212,10 @@ p) De prévoir la possibilité de cession du contrat de la part du professionnel
 diminution des garanties pour le consommateur sans l'accord de celui-ci ;
 
 q) De supprimer ou d'entraver l'exercice d'actions en justice ou des voies de recours par le consommateur, notamment en
-obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales, en
-limitant indûment les moyens de preuves à la disposition du consommateur ou en imposant à celui-ci une charge de preuve qui,
-en vertu du droit applicable, devrait revenir normalement à une autre partie au contrat.
+obligeant le consommateur à saisir exclusivement une juridiction d'arbitrage non couverte par des dispositions légales ou à
+passer exclusivement par un mode alternatif de règlement des litiges, en limitant indûment les moyens de preuves à la
+disposition du consommateur ou en imposant à celui-ci une charge de preuve qui, en vertu du droit applicable, devrait revenir
+normalement à une autre partie au contrat.
 
 2. Portée des points g, j et l :
 
@@ -23241,15 +23243,20 @@ aux fluctuations d'un cours ou d'un indice boursier ou d'un taux de marché fina
 d) Le point l ne fait pas obstacle aux clauses d'indexation de prix pour autant qu'elles soient licites et que le mode de
 variation du prix y soit explicitement décrit.
 
+**Nota:**
+
+Loi 2005-67 du 28 janvier 2005 art. 7 II : Les présentes dispositions s'appliquent aux contrats en cours et à leur
+reconduction à la date de promulgation de la présente loi.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°95-96 du 1 février 1995 - art. 1 () JORF 2 février 1995
+  - Loi n°2005-67 du 28 janvier 2005 - art. 6 () JORF 1er février 2005
 
 
 ##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=215></a>
