@@ -1,13 +1,13 @@
 # Code de la consommation  
-Version Consolidée au 1993-07-27
+Version Consolidée au 1994-01-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
-      - [Titre Ier : Information des consommateurs (art. L111-1 à L115-26)](#3)
+      - [Titre Ier : Information des consommateurs (art. L111-1 à L115-33)](#3)
         - [Chapitre Ier : Obligation générale d'information (art. L111-1 à L111-3)](#4)
         - [Chapitre III : Prix et conditions de vente (art. L113-3)](#5)
         - [Chapitre IV : Information sur les délais de livraison (art. L114-1)](#6)
-        - [Chapitre V : Valorisation des produits et des services (art. L115-1 à L115-26)](#7)
+        - [Chapitre V : Valorisation des produits et des services (art. L115-1 à L115-33)](#7)
           - [Section 1 : Appellations d'origine (art. L115-1 à L115-20)](#8)
             - [Sous-section 1 : Définition (art. L115-1)](#9)
             - [Sous-section 2 : Procédure administrative de protection (art. L115-2 à L115-7)](#10)
@@ -15,115 +15,117 @@ Version Consolidée au 1993-07-27
             - [Sous-section 4 : Actions correctionnelles (art. L115-16 à L115-18)](#12)
             - [Sous-section 5 : L'institut national des appellations d'origine. (art. L115-19 à L115-20)](#13)
           - [Section 2 : Labels et certification des produits alimentaires et agricoles. (art. L115-21 à L115-26)](#14)
-      - [Titre II : Pratiques commerciales (art. L121-1 à L122-11)](#15)
-        - [Chapitre Ier : Pratiques commerciales réglementées (art. L121-1 à L121-41)](#16)
-          - [Section 1 : Publicité. (art. L121-1 à L121-15)](#17)
-          - [Section 2 : Ventes à distance. (art. L121-16 à L121-20)](#18)
-          - [Section 3 : Démarchage (art. L121-21 à L121-33)](#19)
-          - [Section 4 : Ventes directes (art. L121-34)](#20)
-          - [Section 5 : Ventes ou prestations avec primes (art. L121-35)](#21)
-          - [Section 6 : Loteries publicitaires (art. L121-36 à L121-41)](#22)
-        - [Chapitre II : Pratiques commerciales illicites (art. L122-1 à L122-11)](#23)
-          - [Section 1 : Refus et subordination de vente ou de prestation de services (art. L122-1)](#24)
-          - [Section 2 : Ventes sans commande préalable. (art. L122-2 à L122-5)](#25)
-          - [Section 3 : Ventes ou prestations "à la boule de neige" (art. L122-6 à L122-7)](#26)
-          - [Section 4 : Abus de faiblesse (art. L122-8 à L122-11)](#27)
-      - [Titre III : Conditions générales des contrats (art. L131-1 à L134-1)](#28)
-        - [Chapitre Ier : Arrhes et acompte (art. L131-1 à L131-3)](#29)
-        - [Chapitre II : Clauses abusives (art. L132-1 à L132-5)](#30)
-          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. L132-1)](#31)
-          - [Section 2 : La commission des clauses abusives. (art. L132-2 à L132-5)](#32)
-        - [Chapitre IV : Remise des contrats (art. L134-1)](#33)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L141-1)](#34)
-        - [Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. L141-1)](#35)
-    - [Livre II : Conformité et sécurité des produits et des services (art. L211-1 à L225-1)](#36)
-      - [Titre Ier : Conformité (art. L211-1 à L217-10)](#37)
-        - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-2)](#38)
-          - [Section 1 : Garantie légale. (art. L211-1)](#39)
-          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. L211-2)](#40)
-        - [Chapitre II : Obligation générale de conformité (art. L212-1)](#41)
-        - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-5)](#42)
-          - [Section 1 : Tromperie (art. L213-1 à L213-2)](#43)
-          - [Section 2 : Falsifications et délits connexes (art. L213-3 à L213-4)](#44)
-          - [Section 3 : Récidive légale (art. L213-5)](#45)
-        - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#46)
-        - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-17)](#47)
-          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2)](#48)
-          - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#49)
-          - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#50)
-          - [Section 4 : Expertises (art. L215-9 à L215-17)](#51)
-        - [Chapitre VI : Dispositions communes (art. L216-1 à L216-9)](#52)
-        - [Chapitre VII : Dispositions particulières (art. L217-1 à L217-10)](#53)
-      - [Titre II : Sécurité (art. L221-1 à L225-1)](#54)
-        - [Chapitre Ier : Prévention (art. L221-1 à L221-9)](#55)
-        - [Chapitre II : Habilitations et pouvoirs des agents. (art. L222-1 à L222-3)](#56)
-        - [Chapitre III : Sanctions. (art. L223-1 à L223-2)](#57)
-        - [Chapitre IV : La commission de la sécurité des consommateurs. (art. L224-1 à L224-6)](#58)
-        - [Chapitre V : Dispositions diverses (art. L225-1)](#59)
-    - [Livre III : Endettement (art. L311-1 à L333-2)](#60)
-      - [Titre Ier : Crédit (art. L311-1 à L313-16)](#61)
-        - [Chapitre Ier : Crédit à la consommation (art. L311-1 à L311-37)](#62)
-          - [Section 1 : Champ d'application (art. L311-1 à L311-3)](#63)
-          - [Section 2 : Publicité (art. L311-4)](#64)
-          - [Section 3 : Crédit gratuit. (art. L311-5 à L311-7)](#65)
-          - [Section 4 : Le contrat de crédit. (art. L311-8 à L311-19)](#66)
-          - [Section 5 : Les crédits affectés. (art. L311-20 à L311-27)](#67)
-          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur. (art. L311-29 à L311-32)](#68)
-            - [Sous-section 1 : Remboursement anticipé (art. L311-29)](#69)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. L311-30 à L311-32)](#70)
-          - [Section 7 : Sanctions. (art. L311-33 à L311-36)](#71)
-          - [Section 8 : Procédure. (art. L311-28 à L311-37)](#72)
-        - [Chapitre II : Crédit immobilier (art. L312-1 à L312-36)](#73)
-          - [Section 1 : Champ d'application (art. L312-1 à L312-3)](#74)
-          - [Section 2 : Publicité (art. L312-4 à L312-6)](#75)
-          - [Section 3 : Le contrat de crédit (art. L312-7 à L312-14)](#76)
-          - [Section 4 : Le contrat principal (art. L312-15 à L312-20)](#77)
-          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. L312-21 à L312-23)](#78)
-            - [Sous-section 1 : Remboursement anticipé (art. L312-21)](#79)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. L312-22)](#80)
-            - [Sous-section 3 : Dispositions communes (art. L312-23)](#81)
-          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. L312-24 à L312-31)](#82)
-          - [Section 7 : Sanctions (art. L312-32 à L312-35)](#83)
-          - [Section 8 : Procédure (art. L312-36)](#84)
-        - [Chapitre III : Dispositions communes (art. L313-1 à L313-16)](#85)
-          - [Section 1 : Le taux d'intérêt (art. L313-1 à L313-6)](#86)
-            - [Sous-section 1 : Le taux effectif global. (art. L313-1 à L313-2)](#87)
-            - [Sous-section 2 : Le taux d'usure. (art. L313-4 à L313-6)](#88)
-          - [Section 2 : Les cautions. (art. L313-7 à L313-10)](#89)
-          - [Section 3 : Rémunération du vendeur. (art. L313-11)](#90)
-          - [Section 4 : Délais de grâce. (art. L313-12)](#91)
-          - [Section 5 : Lettres de change et billets à ordre. (art. L313-13)](#92)
-          - [Section 6 : Pouvoirs d'enquête. (art. L313-14)](#93)
-          - [Section 7 : Textes d'application. (art. L313-15)](#94)
-          - [Section 8 : Dispositions d'ordre public. (art. L313-16)](#95)
-      - [Titre II : Activité d'intermédiaire pour le règlement des dettes (art. L321-1 à L322-3)](#96)
-        - [Chapitre Ier : Nullité des conventions. (art. L321-1)](#97)
-        - [Chapitre II : Dispositions diverses. (art. L322-1 à L322-3)](#98)
-      - [Titre III : Traitement des situations de surendettement (art. L333-1 à L333-8)](#99)
-        - [Chapitre III : Dispositions communes (art. L333-1 à L333-8)](#100)
-      - [Titre III : Réglement des situations de surendettement (art. L331-1 à L333-2)](#101)
-        - [Chapitre Ier : Règlement amiable (art. L331-1 à L331-12)](#102)
-          - [Section 1 : La commission départementale d'examen des situations de surendettement des particuliers. (art. L331-1)](#103)
-          - [Section 2 : La procédure. (art. L331-2 à L331-12)](#104)
-        - [Chapitre II : Redressement judiciaire civil. (art. L332-1 à L332-7)](#105)
-        - [Chapitre III : Dispositions communes. (art. L333-2)](#106)
-    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#107)
-      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#108)
-        - [Chapitre Ier : Les associations (art. L411-1)](#109)
-        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#110)
-      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#111)
-        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#112)
-          - [Section 1 : Action civile (art. L421-1 à L421-5)](#113)
-          - [Section 2 : Action en suppression de clauses abusives. (art. L421-6)](#114)
-          - [Section 3 : Interventions en justice (art. L421-7)](#115)
-          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#116)
-        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#117)
-    - [Livre V : Les institutions (art. L531-1 à L562-1)](#118)
-      - [Titre III : L'Institut national de la consommation (art. L531-1)](#119)
-        - [Chapitre Ier : Organisation administrative (art. L531-1)](#120)
-      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#121)
-        - [Chapitre Ier : Missions (art. L561-1)](#122)
-        - [Chapitre II : Fonctionnement (art. L562-1)](#123)
+          - [Section 3 : Appellations d'origine protégées, indications géographiques protégées et attestations de spécificité. (art. L115-26-1 à L115-26-4)](#15)
+          - [Section 4 : Certification des services et des produits autres qu'alimentaires. (art. L115-27 à L115-33)](#16)
+      - [Titre II : Pratiques commerciales (art. L121-1 à L122-11)](#17)
+        - [Chapitre Ier : Pratiques commerciales réglementées (art. L121-1 à L121-41)](#18)
+          - [Section 1 : Publicité. (art. L121-1 à L121-15)](#19)
+          - [Section 2 : Ventes à distance. (art. L121-16 à L121-20)](#20)
+          - [Section 3 : Démarchage (art. L121-21 à L121-33)](#21)
+          - [Section 4 : Ventes directes (art. L121-34)](#22)
+          - [Section 5 : Ventes ou prestations avec primes (art. L121-35)](#23)
+          - [Section 6 : Loteries publicitaires (art. L121-36 à L121-41)](#24)
+        - [Chapitre II : Pratiques commerciales illicites (art. L122-1 à L122-11)](#25)
+          - [Section 1 : Refus et subordination de vente ou de prestation de services (art. L122-1)](#26)
+          - [Section 2 : Ventes sans commande préalable. (art. L122-2 à L122-5)](#27)
+          - [Section 3 : Ventes ou prestations "à la boule de neige" (art. L122-6 à L122-7)](#28)
+          - [Section 4 : Abus de faiblesse (art. L122-8 à L122-11)](#29)
+      - [Titre III : Conditions générales des contrats (art. L131-1 à L134-1)](#30)
+        - [Chapitre Ier : Arrhes et acompte (art. L131-1 à L131-3)](#31)
+        - [Chapitre II : Clauses abusives (art. L132-1 à L132-5)](#32)
+          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. L132-1)](#33)
+          - [Section 2 : La commission des clauses abusives. (art. L132-2 à L132-5)](#34)
+        - [Chapitre IV : Remise des contrats (art. L134-1)](#35)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L141-1)](#36)
+        - [Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. L141-1)](#37)
+    - [Livre II : Conformité et sécurité des produits et des services (art. L211-1 à L225-1)](#38)
+      - [Titre Ier : Conformité (art. L211-1 à L217-10)](#39)
+        - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-2)](#40)
+          - [Section 1 : Garantie légale. (art. L211-1)](#41)
+          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. L211-2)](#42)
+        - [Chapitre II : Obligation générale de conformité (art. L212-1)](#43)
+        - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-5)](#44)
+          - [Section 1 : Tromperie (art. L213-1 à L213-2)](#45)
+          - [Section 2 : Falsifications et délits connexes (art. L213-3 à L213-4)](#46)
+          - [Section 3 : Récidive légale (art. L213-5)](#47)
+        - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#48)
+        - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-17)](#49)
+          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2)](#50)
+          - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#51)
+          - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#52)
+          - [Section 4 : Expertises (art. L215-9 à L215-17)](#53)
+        - [Chapitre VI : Dispositions communes (art. L216-1 à L216-9)](#54)
+        - [Chapitre VII : Dispositions particulières (art. L217-1 à L217-10)](#55)
+      - [Titre II : Sécurité (art. L221-1 à L225-1)](#56)
+        - [Chapitre Ier : Prévention (art. L221-1 à L221-9)](#57)
+        - [Chapitre II : Habilitations et pouvoirs des agents. (art. L222-1 à L222-3)](#58)
+        - [Chapitre III : Sanctions. (art. L223-1 à L223-2)](#59)
+        - [Chapitre IV : La commission de la sécurité des consommateurs. (art. L224-1 à L224-6)](#60)
+        - [Chapitre V : Dispositions diverses (art. L225-1)](#61)
+    - [Livre III : Endettement (art. L311-1 à L333-2)](#62)
+      - [Titre Ier : Crédit (art. L311-1 à L313-16)](#63)
+        - [Chapitre Ier : Crédit à la consommation (art. L311-1 à L311-37)](#64)
+          - [Section 1 : Champ d'application (art. L311-1 à L311-3)](#65)
+          - [Section 2 : Publicité (art. L311-4)](#66)
+          - [Section 3 : Crédit gratuit. (art. L311-5 à L311-7)](#67)
+          - [Section 4 : Le contrat de crédit. (art. L311-8 à L311-19)](#68)
+          - [Section 5 : Les crédits affectés. (art. L311-20 à L311-27)](#69)
+          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur. (art. L311-29 à L311-32)](#70)
+            - [Sous-section 1 : Remboursement anticipé (art. L311-29)](#71)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. L311-30 à L311-32)](#72)
+          - [Section 7 : Sanctions. (art. L311-33 à L311-36)](#73)
+          - [Section 8 : Procédure. (art. L311-28 à L311-37)](#74)
+        - [Chapitre II : Crédit immobilier (art. L312-1 à L312-36)](#75)
+          - [Section 1 : Champ d'application (art. L312-1 à L312-3)](#76)
+          - [Section 2 : Publicité (art. L312-4 à L312-6)](#77)
+          - [Section 3 : Le contrat de crédit (art. L312-7 à L312-14)](#78)
+          - [Section 4 : Le contrat principal (art. L312-15 à L312-20)](#79)
+          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. L312-21 à L312-23)](#80)
+            - [Sous-section 1 : Remboursement anticipé (art. L312-21)](#81)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. L312-22)](#82)
+            - [Sous-section 3 : Dispositions communes (art. L312-23)](#83)
+          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. L312-24 à L312-31)](#84)
+          - [Section 7 : Sanctions (art. L312-32 à L312-35)](#85)
+          - [Section 8 : Procédure (art. L312-36)](#86)
+        - [Chapitre III : Dispositions communes (art. L313-1 à L313-16)](#87)
+          - [Section 1 : Le taux d'intérêt (art. L313-1 à L313-6)](#88)
+            - [Sous-section 1 : Le taux effectif global. (art. L313-1 à L313-2)](#89)
+            - [Sous-section 2 : Le taux d'usure. (art. L313-4 à L313-6)](#90)
+          - [Section 2 : Les cautions. (art. L313-7 à L313-10)](#91)
+          - [Section 3 : Rémunération du vendeur. (art. L313-11)](#92)
+          - [Section 4 : Délais de grâce. (art. L313-12)](#93)
+          - [Section 5 : Lettres de change et billets à ordre. (art. L313-13)](#94)
+          - [Section 6 : Pouvoirs d'enquête. (art. L313-14)](#95)
+          - [Section 7 : Textes d'application. (art. L313-15)](#96)
+          - [Section 8 : Dispositions d'ordre public. (art. L313-16)](#97)
+      - [Titre II : Activité d'intermédiaire pour le règlement des dettes (art. L321-1 à L322-3)](#98)
+        - [Chapitre Ier : Nullité des conventions. (art. L321-1)](#99)
+        - [Chapitre II : Dispositions diverses. (art. L322-1 à L322-3)](#100)
+      - [Titre III : Traitement des situations de surendettement (art. L333-1 à L333-8)](#101)
+        - [Chapitre III : Dispositions communes (art. L333-1 à L333-8)](#102)
+      - [Titre III : Réglement des situations de surendettement (art. L331-1 à L333-2)](#103)
+        - [Chapitre Ier : Règlement amiable (art. L331-1 à L331-12)](#104)
+          - [Section 1 : La commission départementale d'examen des situations de surendettement des particuliers. (art. L331-1)](#105)
+          - [Section 2 : La procédure. (art. L331-2 à L331-12)](#106)
+        - [Chapitre II : Redressement judiciaire civil. (art. L332-1 à L332-7)](#107)
+        - [Chapitre III : Dispositions communes. (art. L333-2)](#108)
+    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#109)
+      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#110)
+        - [Chapitre Ier : Les associations (art. L411-1)](#111)
+        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#112)
+      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#113)
+        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#114)
+          - [Section 1 : Action civile (art. L421-1 à L421-5)](#115)
+          - [Section 2 : Action en suppression de clauses abusives. (art. L421-6)](#116)
+          - [Section 3 : Interventions en justice (art. L421-7)](#117)
+          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#118)
+        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#119)
+    - [Livre V : Les institutions (art. L531-1 à L562-1)](#120)
+      - [Titre III : L'Institut national de la consommation (art. L531-1)](#121)
+        - [Chapitre Ier : Organisation administrative (art. L531-1)](#122)
+      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#123)
+        - [Chapitre Ier : Missions (art. L561-1)](#124)
+        - [Chapitre II : Fonctionnement (art. L562-1)](#125)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -984,9 +986,10 @@ _Abrogé par_:
 
 Quiconque aura soit apposé, soit fait apparaître, par addition, retranchement ou par une altération quelconque, sur des
 produits, naturels ou fabriqués, mis en vente ou destinés à être mis en vente, des appellations d'origine qu'il savait
-inexactes sera puni d'un emprisonnement de trois mois au moins, d'un an au plus, et d'une amende de 360 F à 20 000 F, ou
-l'une de ces deux peines seulement.    Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il
-désignera et son insertion intégrale ou par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
+inexactes sera puni des peines prévues à l'article L. 213-1.
+
+Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
+par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
 
 Quiconque aura vendu, mis en vente ou en circulation des produits naturels ou fabriqués portant une appellation d'origine
 qu'il savait inexacte sera puni des mêmes peines.
@@ -1017,9 +1020,13 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+_Cite_:
+
+  - Code de la consommation - art. L213-1 (M)
 
 _Anciens textes_:
 
@@ -1178,7 +1185,9 @@ chacune de ces appellations d'origine contrôlées.
 Il donne son avis sur les dispositions nationales relatives à l'étiquetage et à la présentation de chacun des produits
 relevant de sa compétence. Il peut être consulté sur toute autre question relative aux appellations d'origine.
 
-Il contribue à la promotion et à la défense de ces appellations d'origine en France et à l'étranger.
+Il contribue, en France et à l'étranger, à la promotion et à la défense des appellations d'origine mentionnées dans la
+présente section, ainsi qu'à la défense des appellations d'origine protégées et des indications géographiques protégées
+mentionnées à la section III du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -1189,7 +1198,6 @@ _Cite_:
 _Anciens textes_:
 
   - Loi n°1919-05-06 du 6 mai 1919 - art. 7-8 (Ab)
-  - Loi n°1919-05-06 art. 7-8
 
 _Cité par_:
 
@@ -1211,9 +1219,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°94-2 du 3 janvier 1994 - art. 2 () JORF 4 janvier 1994
 
 **Liens**:
 
@@ -1240,13 +1248,12 @@ _Nouveaux textes_:
 ###### Article L115-21
 
 Les denrées alimentaires et les produits agricoles non alimentaires et non transformés peuvent bénéficier d'un label agricole
-homologué ou d'une certification de conformité à des spécifications de type normatif.
+ou faire l'objet d'une certification de conformité aux règles définies dans un cahier des charges.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°60-808 du 5 août 1960 - art. 28-1 (M)
   - Loi n°60-808 du 5 août 1960 - art. 28-1 (Ab)
 
 _Cité par_:
@@ -1258,9 +1265,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
 
 _Nouveaux textes_:
 
@@ -1269,19 +1276,18 @@ _Nouveaux textes_:
 
 ###### Article L115-22
 
-Les labels agricoles sont des marques collectives attestant qu'une denrée alimentaire ou qu'un produit agricole non
-alimentaire et non transformé possède un ensemble distinct de qualités et caractéristiques spécifiques préalablement fixées
-et établissant un niveau de qualité.
+Les labels agricoles attestent qu'une denrée alimentaire ou qu'un produit agricole non alimentaire et non transformé possède
+un ensemble distinct de qualités et caractéristiques spécifiques préalablement fixées dans un cahier des charges et
+établissant un niveau de qualité supérieure.
 
-Ce produit doit se distinguer des produits similaires de l'espèce habituellement commercialisée par ses conditions
-particulières de production, de fabrication et, le cas échéant, par son origine.
+L'origine géographique ne peut figurer parmi les caractéristiques spécifiques que si elle est enregistrée comme indication
+géographique protégée, sous réserve des dispositions du deuxième alinéa de l'article L. 115-23-1.
 
-Les labels agricoles sont délivrés par une personne morale de droit public ou de droit privé qui n'est ni producteur, ni
-fabricant, ni importateur, ni vendeur de produits de même nature.
+Ce produit doit se distinguer des produits similaires de l'espèce habituellement commercialisés, notamment par ses conditions
+particulières de production ou de fabrication et, le cas échéant, par son origine géographique.
 
-Les labels agricoles ne peuvent être utilisés que s'ils ont fait l'objet d'une homologation par arrêté ministériel.
-
-Un décret en Conseil d'Etat précise, en tant que de besoin, les modalités d'application du présent article.
+Seuls des producteurs ou des transformateurs organisés en groupement, quelle qu'en soit la forme juridique, sont habilités à
+demander la délivrance d'un label.
 
 **Liens relatifs à cet article**
 
@@ -1293,15 +1299,19 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
 
 _Cité par_:
 
   - Décret n°96-193 du 12 mars 1996 - art. 18 (Ab)
   - Décret n°96-193 du 12 mars 1996 - art. 8 (M)
   - Code rural - art. L671-5 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L115-23-1 (M)
 
 _Nouveaux textes_:
 
@@ -1310,16 +1320,11 @@ _Nouveaux textes_:
 
 ###### Article L115-23
 
-La certification atteste qu'une denrée alimentaire ou qu'un produit agricole non alimentaire et non transformé est conforme à
-des caractéristiques spécifiques ou à des règles préalablement fixées portant, selon le cas, sur la fabrication, la
-transformation ou le conditionnement.
-
-La certification est délivrée par des organismes agréés et indépendants du producteur, du fabricant, du vendeur et de
-l'importateur.
-
-Un décret en Conseil d'Etat précise les conditions dans lesquelles les organismes certificateurs sont agréés et selon
-lesquelles l'impartialité de ces organismes et l'efficacité de leur contrôle sont assurées. Il précise également la nature et
-le mode d'élaboration des documents de référence dont la certification atteste le respect.
+La certification de conformité atteste qu'une denrée alimentaire ou qu'un produit agricole non alimentaire et non transformé
+est conforme à des caractéristiques spécifiques ou à des règles préalablement fixées dans un cahier des charges portant,
+selon le cas, sur la production, la transformation ou le conditionnement et, le cas échéant, l'origine géographique de la
+denrée ou du produit lorsque cette origine est enregistrée comme indication géographique protégée, sous réserve des
+dispositions du deuxième alinéa de l'article L. 115-23-1.
 
 **Liens relatifs à cet article**
 
@@ -1338,13 +1343,163 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+_Cite_:
+
+  - Code de la consommation - art. L115-23-1 (M)
 
 _Nouveaux textes_:
 
   - Code rural - art. L643-3 (V)
+
+
+###### Article L115-23-1
+
+Le label ou la certification de conformité ne peut pas comporter de mention géographique si cette dernière n'est pas
+enregistrée comme indication géographique protégée.
+
+Toutefois, si l'autorité administrative a demandé l'enregistrement de cette mention géographique comme indication
+géographique protégée, le label ou la certification de conformité peut comporter cette mention, y compris dans les
+caractéristiques spécifiques, jusqu'à la date de la décision relative à son enregistrement.
+
+L'interdiction mentionnée au premier alinéa ne s'applique pas lorsque la dénomination qui intègre cette mention est générique
+ou désigne un produit bénéficiant d'une attestation de spécificité.
+
+Les produits agricoles et les denrées alimentaires bénéficiant, avant la publication de la loi n° 94-2 du 3 janvier 1994
+relative à la reconnaissance de qualité des produits agricoles et alimentaires, d'un label agricole ou d'une certification de
+conformité peuvent continuer de porter une mention d'origine géographique sans bénéficier d'une indication géographique
+protégée pendant une période de huit ans à compter de la date de publication de la loi précitée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Cite_:
+
+  - Loi n°94-2 1994-01-03
+
+_Créé par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+_Cité par_:
+
+  - Code de la consommation - art. L115-22 (M)
+  - Code de la consommation - art. L115-23 (M)
+
+_Nouveaux textes_:
+
+  - Code rural - art. L643-4 (M)
+
+
+###### Article L115-23-2
+
+Les labels agricoles et les certificats de conformité sont délivrés par des organismes certificateurs agréés par l'autorité
+administrative.
+
+Les organismes certificateurs doivent offrir des garanties d'impartialité et d'indépendance et n'être, notamment, ni
+producteur, ni fabricant, ni importateur, ni vendeur de produits de même nature et justifier de leur compétence et de
+l'efficacité de leur contrôle.
+
+L'agrément ne peut être accordé que sur vérification de ces conditions et de la capacité de l'organisme à assurer les
+contrôles de la qualité des produits dotés de labels ou de certificats de conformité.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+
+_Cité par_:
+
+  - Décret n°83-507 du 17 juin 1983 - art. 12-1 (Ab)
+  - Décret n°95-723 du 9 mai 1995 - art. 2 (Ab)
+  - Décret n°96-193 du 12 mars 1996 - art. 1 (Ab)
+  - Décret n°96-193 du 12 mars 1996 - art. 3 (M)
+  - Décret n°96-193 du 12 mars 1996 - art. 8 (M)
+  - Décret n°96-193 du 12 mars 1996 - art. 9 (M)
+  - Code de la consommation - art. L115-26-2 (M)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+_Nouveaux textes_:
+
+  - Code rural - art. L643-5 (M)
+
+
+###### Article L115-23-3
+
+Les labels agricoles ne peuvent être utilisés que s'ils ont fait l'objet d'une homologation par arrêté interministériel.
+
+Il en est de même des certifications de conformité qui attestent l'origine géographique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+
+_Cité par_:
+
+  - Décret n°83-507 du 17 juin 1983 - art. 12-1 (Ab)
+  - Décret n°96-193 du 12 mars 1996 - art. 3 (M)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+_Nouveaux textes_:
+
+  - Code rural - art. L643-6 (V)
+
+
+###### Article L115-23-4
+
+Des décrets en Conseil d'Etat précisent, en tant que de besoin, les modalités d'application des articles L. 115-22 à L.
+115-23-3, et notamment les conditions que doivent remplir les cahiers des charges, leurs modalités d'examen et, s'il y a
+lieu, d'homologation, les caractéristiques des organismes certificateurs, leurs modalités de fonctionnement et les conditions
+de leur agrément.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 28-1-2 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 1 () JORF 4 janvier 1994
+
+_Cite_:
+
+  - Code de la consommation L115-22 à L115-23-3
+
+_Nouveaux textes_:
+
+  - Code rural - art. L643-7 (Ab)
 
 
 ###### Article L115-24
@@ -1459,11 +1614,455 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L671-6 (V)
 
 
-### Titre II : Pratiques commerciales<a id=15></a>
+##### Section 3 : Appellations d'origine protégées, indications géographiques protégées et attestations de spécificité.<a id=15></a>
 
-#### Chapitre Ier : Pratiques commerciales réglementées<a id=16></a>
+###### Article L115-26-1
 
-##### Section 1 : Publicité.<a id=17></a>
+Constitue une appellation d'origine protégée ou une indication géographique protégée la dénomination inscrite au registre des
+appellations d'origine protégées et des indications géographiques protégées tenu par la Commission des communautés
+européennes.
+
+Constitue une attestation de spécificité le nom du produit qui figure au registre des attestations de spécificité tenu par la
+Commission des communautés européennes.
+
+Seules les appellations d'origine mentionnées dans la section I du présent chapitre peuvent demander leur enregistrement
+comme appellations d'origine protégées.
+
+La demande d'enregistrement d'une indication géographique ou d'une attestation de spécificité ne peut s'effectuer que dans le
+cadre des dispositions de la section II du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
+
+_Cité par_:
+
+  - Loi n°85-30 du 9 janvier 1985 - art. 33 (M)
+  - Décret n°95-723 du 9 mai 1995 - art. 2 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
+
+_Nouveaux textes_:
+
+  - Code rural - art. L642-1 (M)
+
+
+###### Article L115-26-2
+
+Les organismes certificateurs agréés mentionnés à l'article L. 115-23-2 assurent le contrôle du respect des cahiers des
+charges des indications géographiques protégées et des attestations de spécificité.
+
+Toutefois, un décret en Conseil d'Etat définit, en tant que de besoin, des modalités particulières de contrôle pour les
+producteurs agricoles et les artisans qui commercialisent leur production en petite quantité directement sur le marché local.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
+
+_Cité par_:
+
+  - Loi n°85-30 du 9 janvier 1985 - art. 34 (M)
+  - Décret n°95-723 du 9 mai 1995 - art. 1 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
+
+_Cite_:
+
+  - Code de la consommation - art. L115-23-2 (M)
+
+_Nouveaux textes_:
+
+  - Code rural - art. L642-2 (M)
+
+
+###### Article L115-26-3
+
+Les dispositions de l'article L. 115-16 s'appliquent aux appellations d'origine protégées, aux indications géographiques
+protégées et aux attestations de spécificité.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-1547 du 7 décembre 2006 - art. 4 () JORF 8 décembre 2006 en vigueur le 1er janvier 2007
+
+_Cite_:
+
+  - Code de la consommation - art. L115-16 (M)
+
+_Nouveaux textes_:
+
+  - Code rural - art. L642-3 (M)
+
+
+###### Article L115-26-4
+
+L'utilisation d'indication d'origine ou de provenance ne doit pas être susceptible d'induire le consommateur en erreur sur
+les caractéristiques du produit, de détourner ou d'affaiblir la notoriété d'une dénomination enregistrée comme indication
+géographique protégée ou comme attestation de spécificité.
+
+Un décret en Conseil d'Etat pris en application de l'article L. 214-1 fixe en tant que de besoin les conditions d'application
+du précédent alinéa.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°60-808 du 5 août 1960 - art. 28-3 (M)
+
+_Cité par_:
+
+  - Loi n°85-30 du 9 janvier 1985 - art. 35 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 4 () JORF 4 janvier 1994
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1 (M)
+
+_Nouveaux textes_:
+
+  - Code rural - art. L642-4 (M)
+
+
+##### Section 4 : Certification des services et des produits autres qu'alimentaires.<a id=16></a>
+
+###### Article L115-27
+
+Constitue un certificat de qualification, quelle que soit la dénomination qui lui est donnée, toute inscription, tout signe
+distinctif, tout document ou titre joint tendant à attester, à des fins commerciales, qu'un point industriel, un produit
+agricole non alimentaire transformé ou un bien d'équipement commercialisé en France présente certaines caractéristiques
+spécifiques ayant fait l'objet d'un contrôle par un organisme distinct du fabricant, de l'importateur ou du vendeur.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°78-23 1978-01-10 art. 22 al. 1
+
+_Cité par_:
+
+  - Décret n°86-583 du 14 mars 1986 - art. 3 (V)
+  - Décret n°95-354 du 30 mars 1995 - art. 2 (Ab)
+  - Arrêté du 7 décembre 2001 - art. 3 (Ab)
+  - Arrêté du 7 décembre 2001 - art. 5 (Ab)
+  - Arrêté du 7 décembre 2001 - art. 7 (Ab)
+  - Arrêté du 21 novembre 2002 - art. 7 (V)
+  - Arrêté du 22 mars 2004 - art. 18 (V)
+  - Arrêté du 19 novembre 2004 - art. 14 (V)
+  - Arrêté du 19 novembre 2004 - art. 17 (V)
+  - Arrêté du 19 novembre 2004 - art. 7 (V)
+  - Arrêté du 29 septembre 2009 - art. 4 (V)
+  - Arrêté du 29 avril 2010 - art. 2 (Ab)
+  - Arrêté du 9 décembre 2013 (V)
+  - Décret n°2016-856 du 28 juin 2016 - art. 1
+  - Code de l'action sociale et des familles - art. D312-206 (M)
+  - Code de l'action sociale et des familles - art. D347-3 (Ab)
+  - Code de la consommation - art. L115-29 (VT)
+  - Code de la consommation - art. L115-30 (VT)
+  - Code de la consommation - art. L115-32 (VT)
+  - Code de la consommation - art. R115-2 (VT)
+  - Code de la construction et de l'habitation. - art. L111-10-2 (M)
+  - Code de la construction et de l'habitation. - art. L111-9-1 (M)
+  - Code de la construction et de l'habitation. - art. R111-20-4 (M)
+  - Code de la construction et de l'habitation. - art. R111-21 (M)
+  - Code de la construction et de l'habitation. - art. R131-28-4 (M)
+  - Code du travail - art. R7232-9 (V)
+  - Code forestier - art. L13 (V)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+_Modifié par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+
+###### Article L115-28
+
+Tout certificat de qualification ne peut être délivré que par un organisme certificateur agréé par l'autorité administrative
+et selon un règlement technique approuvé par elle. Il doit faire apparaître dans son mode de présentation les
+caractéristiques du produit.
+
+L'organisme certificateur ne doit pas être fabricant, importateur ou vendeur d'un produit industriel, d'un produit agricole
+non alimentaire transformé ou d'un bien d'équipement.
+
+L'organisme certificateur dépose comme marque collective, conformément à la législation des marques de fabrique, de commerce
+ou de service, le signe distinctif qui, le cas échéant, accompagne ou matérialise le certificat de qualification.
+
+Un décret en Conseil d'Etat précisera les conditions de délivrance, d'utilisation ou de retrait des certificats de
+qualification.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°78-23 1978-01-10 art. 22 al. 2 à 5
+
+_Cité par_:
+
+  - Décret n°86-583 du 14 mars 1986 - art. 3 (V)
+  - Décret n°95-354 du 30 mars 1995 - art. 1 (Ab)
+  - Décret n°95-354 du 30 mars 1995 - art. 11 (Ab)
+  - Décret n°95-354 du 30 mars 1995 - art. 2 (Ab)
+  - Décret n°2002-535 du 18 avril 2002 - art. 11 (V)
+  - Décret n°2010-112 du 2 février 2010 - art. 10 (V)
+  - Arrêté du 29 avril 2010 - art. 1 (Ab)
+  - Arrêté du 20 avril 2011 - art. 1 (V)
+  - Décret n°2012-147 du 30 janvier 2012 (V)
+  - Décret n°2015-350 du 27 mars 2015 - art. 16 (V)
+  - Décret n°2016-10 du 8 janvier 2016 - art. 2 (V)
+  - Décret n°2017-705 du 2 mai 2017 - art. 4 (V)
+  - Code de l'action sociale et des familles - art. D312-206 (M)
+  - Code de l'action sociale et des familles - art. L312-8 (M)
+  - Code de la consommation - art. L115-29 (M)
+  - Code de la consommation - art. L115-30 (V)
+  - Code de la consommation - art. L115-32 (M)
+  - Code de la consommation - art. R115-1 (VT)
+  - Code de la consommation - art. R115-11 (VT)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+_Modifié par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+
+###### Article L115-29
+
+Ne sont pas soumis aux dispositions des articles L. 115-27 et L. 115-28 :
+
+1° Les médicaments à usage humain ou vétérinaire faisant l'objet des dispositions du livre V du code de la santé publique ;
+
+2° Les poinçons, estampilles, visas, certificats d'homologation ou marques collectives délivrés par l'autorité publique ou
+par des organismes désignés à cet effet et soumis à un contrôle technique ou administratif de l'autorité publique en vertu de
+dispositions législatives ou réglementaires ;
+
+3° Les "labels" ou marques prévus par l'article L. 413-1 du code du travail et par le décret n° 62-235 du 1er mars 1962
+relatif au Répertoire des métiers et aux titres d'artisan et de maître artisan pour autant que ces marques ne tendent qu'à
+attester l'origine d'un produit ; néanmoins, les dispositions des articles L. 115-27 et L. 115-28 s'appliquent à ces "labels"
+dans la mesure où ils tendent à certifier, même indirectement, la qualification d'un produit.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°62-235 1962-03-01
+  - Code de la consommation - art. L115-27 (M)
+  - Code de la consommation - art. L115-28 (M)
+  - Code du travail - art. L413-1 (M)
+
+_Anciens textes_:
+
+  - Loi n°78-23 du 10 janvier 1978 - art. 23 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+_Modifié par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+
+###### Article L115-30
+
+Sera puni des peines prévues à l'article L. 213-1 quiconque aura :
+
+1° Délivré, utilisé ou tenté d'utiliser un certificat de qualification en contravention avec les articles L. 115-27 et L.
+115-28 ;
+
+2° Fait croire ou tenté de faire croire faussement, notamment par l'utilisation d'un mode de présentation prêtant à
+confusion, qu'un produit industriel, un produit agricole non alimentaire transformé ou un bien d'équipement bénéficie d'un
+certificat de qualification ;
+
+3° Fait croire ou tenté de faire croire à tort qu'un produit industriel, un produit agricole non alimentaire transformé ou un
+bien d'équipement ayant un certificat de qualification est garanti par l'Etat ou un organisme public.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°70-9 du 2 janvier 1970 - art. 9 (VD)
+  - Code de commerce - art. L123-11-3 (VD)
+  - Code de commerce. - art. L128-1 (Ab)
+  - Code de la consommation - art. L213-5 (V)
+
+_Anciens textes_:
+
+  - Loi n°78-23 du 10 janvier 1978 - art. 24 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+_Modifié par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+_Cite_:
+
+  - Code de la consommation - art. L115-27 (M)
+  - Code de la consommation - art. L115-28 (M)
+  - Code de la consommation - art. L213-1 (M)
+
+
+###### Article L115-31
+
+Sont qualifiés pour procéder à la recherche et à la constatation des infractions aux dispositions de la présente section et
+des textes pris pour son application :
+
+- les officiers et agents de police judiciaire ;
+
+- les agents de la sous-direction de la métrologie au ministère chargé de l'industrie ainsi que ceux des directions
+régionales de l'industrie, de la recherche et de l'environnement ;
+
+- les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction
+générale des douanes et des droits indirects ;
+
+- les inspecteurs de la pharmacie et les médecins-inspecteurs de la santé du ministère chargé de la santé ;
+
+- les inspecteurs du travail ;
+
+- les agents mentionnés à l'article L. 514-13 du code de l'environnement.
+
+Ces agents disposent des pouvoirs prévus par les chapitres II à VI du titre Ier du livre II du présent code et leurs textes
+d'application sur les lieux énumérés à l'article L. 213-4 (alinéa premier).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°78-23 du 10 janvier 1978 - art. 25 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+_Modifié par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+_Cite_:
+
+  - Code de la consommation - art. L213-4 (M)
+  - Code de l'environnement - art. L514-13 (V)
+
+
+###### Article L115-32
+
+Les dispositions de la présente section sont applicables aux prestations de services.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°78-23 du 10 janvier 1978 - art. 26 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+_Modifié par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R111-20-4 (V)
+
+
+###### Article L115-33
+
+Les propriétaires de marques de commerce, de fabrique ou de service peuvent s'opposer à ce que des textes publicitaires
+concernant nommément leur marque soient diffusés lorsque l'utilisation de cette marque vise à tromper le consommateur ou
+qu'elle est faite de mauvaise foi.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°78-23 du 10 janvier 1978 - art. 30 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+_Modifié par_:
+
+  - Loi n°94-2 du 3 janvier 1994 - art. 3 () JORF 4 janvier 1994
+
+
+### Titre II : Pratiques commerciales<a id=17></a>
+
+#### Chapitre Ier : Pratiques commerciales réglementées<a id=18></a>
+
+##### Section 1 : Publicité.<a id=19></a>
 
 ###### Article L121-1
 
@@ -1990,7 +2589,7 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-##### Section 2 : Ventes à distance.<a id=18></a>
+##### Section 2 : Ventes à distance.<a id=20></a>
 
 ###### Article L121-16
 
@@ -2200,7 +2799,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L121-20-9 (VT)
 
 
-##### Section 3 : Démarchage<a id=19></a>
+##### Section 3 : Démarchage<a id=21></a>
 
 ###### Article L121-21
 
@@ -2705,7 +3304,7 @@ _Cite_:
   - Code de la consommation - art. L121-28 (M)
 
 
-##### Section 4 : Ventes directes<a id=20></a>
+##### Section 4 : Ventes directes<a id=22></a>
 
 ###### Article L121-34
 
@@ -2744,7 +3343,7 @@ _Cité par_:
   - Code de la consommation - art. R121-7 (Ab)
 
 
-##### Section 5 : Ventes ou prestations avec primes<a id=21></a>
+##### Section 5 : Ventes ou prestations avec primes<a id=23></a>
 
 ###### Article L121-35
 
@@ -2791,7 +3390,7 @@ _Cite_:
   - Code de la consommation - art. L113-2 (V)
 
 
-##### Section 6 : Loteries publicitaires<a id=22></a>
+##### Section 6 : Loteries publicitaires<a id=24></a>
 
 ###### Article L121-36
 
@@ -2974,9 +3573,9 @@ _Cite_:
   - Code pénal 51
 
 
-#### Chapitre II : Pratiques commerciales illicites<a id=23></a>
+#### Chapitre II : Pratiques commerciales illicites<a id=25></a>
 
-##### Section 1 : Refus et subordination de vente ou de prestation de services<a id=24></a>
+##### Section 1 : Refus et subordination de vente ou de prestation de services<a id=26></a>
 
 ###### Article L122-1
 
@@ -3018,7 +3617,7 @@ _Cite_:
   - Code de la consommation - art. L113-2 (V)
 
 
-##### Section 2 : Ventes sans commande préalable.<a id=25></a>
+##### Section 2 : Ventes sans commande préalable.<a id=27></a>
 
 ###### Article L122-2
 
@@ -3124,7 +3723,7 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-##### Section 3 : Ventes ou prestations "à la boule de neige"<a id=26></a>
+##### Section 3 : Ventes ou prestations "à la boule de neige"<a id=28></a>
 
 ###### Article L122-6
 
@@ -3189,7 +3788,7 @@ _Cite_:
   - Code pénal 405
 
 
-##### Section 4 : Abus de faiblesse<a id=27></a>
+##### Section 4 : Abus de faiblesse<a id=29></a>
 
 ###### Article L122-8
 
@@ -3329,9 +3928,9 @@ _Cite_:
   - Code de la consommation L450-1 à L450-3, L450-8
 
 
-### Titre III : Conditions générales des contrats<a id=28></a>
+### Titre III : Conditions générales des contrats<a id=30></a>
 
-#### Chapitre Ier : Arrhes et acompte<a id=29></a>
+#### Chapitre Ier : Arrhes et acompte<a id=31></a>
 
 ###### Article L131-1
 
@@ -3417,9 +4016,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L214-4 (V)
 
 
-#### Chapitre II : Clauses abusives<a id=30></a>
+#### Chapitre II : Clauses abusives<a id=32></a>
 
-##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=31></a>
+##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=33></a>
 
 ###### Article L132-1
 
@@ -3463,7 +4062,7 @@ _Cité par_:
   - Code de la consommation - art. R534-4 (Ab)
 
 
-##### Section 2 : La commission des clauses abusives.<a id=32></a>
+##### Section 2 : La commission des clauses abusives.<a id=34></a>
 
 ###### Article L132-2
 
@@ -3587,7 +4186,7 @@ _Abrogé par_:
   - Loi n°2010-737 du 1er juillet 2010 - art. 62
 
 
-#### Chapitre IV : Remise des contrats<a id=33></a>
+#### Chapitre IV : Remise des contrats<a id=35></a>
 
 ###### Article L134-1
 
@@ -3622,9 +4221,9 @@ _Cité par_:
   - Code de la consommation - art. L141-1 (M)
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=34></a>
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=36></a>
 
-#### Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=35></a>
+#### Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=37></a>
 
 ###### Article L141-1
 
@@ -3801,13 +4400,13 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-## Livre II : Conformité et sécurité des produits et des services<a id=36></a>
+## Livre II : Conformité et sécurité des produits et des services<a id=38></a>
 
-### Titre Ier : Conformité<a id=37></a>
+### Titre Ier : Conformité<a id=39></a>
 
-#### Chapitre Ier : Dispositions générales<a id=38></a>
+#### Chapitre Ier : Dispositions générales<a id=40></a>
 
-##### Section 1 : Garantie légale.<a id=39></a>
+##### Section 1 : Garantie légale.<a id=41></a>
 
 ###### Article L211-1
 
@@ -3870,7 +4469,7 @@ _Cite_:
   - Code civil 1641 à 1648
 
 
-##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=40></a>
+##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=42></a>
 
 ###### Article L211-2
 
@@ -3898,7 +4497,7 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-#### Chapitre II : Obligation générale de conformité<a id=41></a>
+#### Chapitre II : Obligation générale de conformité<a id=43></a>
 
 ###### Article L212-1
 
@@ -3943,9 +4542,9 @@ _Créé par_:
   - TXT_SOURCE: Arrêté du 3 juin 1999 - art. 4 (Ab)
 
 
-#### Chapitre III : Fraudes et falsifications<a id=42></a>
+#### Chapitre III : Fraudes et falsifications<a id=44></a>
 
-##### Section 1 : Tromperie<a id=43></a>
+##### Section 1 : Tromperie<a id=45></a>
 
 ###### Article L213-1
 
@@ -4113,7 +4712,7 @@ _Cite_:
   - Code de la consommation - art. L213-1 (V)
 
 
-##### Section 2 : Falsifications et délits connexes<a id=44></a>
+##### Section 2 : Falsifications et délits connexes<a id=46></a>
 
 ###### Article L213-3
 
@@ -4243,7 +4842,7 @@ _Cite_:
   - Code de la consommation 214-2
 
 
-##### Section 3 : Récidive légale<a id=45></a>
+##### Section 3 : Récidive légale<a id=47></a>
 
 ###### Article L213-5
 
@@ -4372,7 +4971,7 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-#### Chapitre IV : Mesures d'application<a id=46></a>
+#### Chapitre IV : Mesures d'application<a id=48></a>
 
 ###### Article L214-1
 
@@ -4844,9 +5443,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L412-2 (V)
 
 
-#### Chapitre V : Pouvoirs d'enquête<a id=47></a>
+#### Chapitre V : Pouvoirs d'enquête<a id=49></a>
 
-##### Section 1 : Autorités qualifiées<a id=48></a>
+##### Section 1 : Autorités qualifiées<a id=50></a>
 
 ###### Article L215-1
 
@@ -5061,7 +5660,7 @@ _Cite_:
   - Code rural 258, 259, 262
 
 
-##### Section 2 : Recherche et constatation<a id=49></a>
+##### Section 2 : Recherche et constatation<a id=51></a>
 
 ###### Article L215-3
 
@@ -5174,7 +5773,7 @@ _Anciens textes_:
   - Loi n°1905-08-01 art. 11 3° et 4°
 
 
-##### Section 3 : Mesures d'urgence<a id=50></a>
+##### Section 3 : Mesures d'urgence<a id=52></a>
 
 ###### Article L215-5
 
@@ -5362,7 +5961,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L512-37 (V)
 
 
-##### Section 4 : Expertises<a id=51></a>
+##### Section 4 : Expertises<a id=53></a>
 
 ###### Article L215-9
 
@@ -5646,7 +6245,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 157 (M)
 
 
-#### Chapitre VI : Dispositions communes<a id=52></a>
+#### Chapitre VI : Dispositions communes<a id=54></a>
 
 ###### Article L216-1
 
@@ -5948,7 +6547,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-#### Chapitre VII : Dispositions particulières<a id=53></a>
+#### Chapitre VII : Dispositions particulières<a id=55></a>
 
 ###### Article L217-1
 
@@ -6346,9 +6945,9 @@ _Cite_:
   - Code pénal 209
 
 
-### Titre II : Sécurité<a id=54></a>
+### Titre II : Sécurité<a id=56></a>
 
-#### Chapitre Ier : Prévention<a id=55></a>
+#### Chapitre Ier : Prévention<a id=57></a>
 
 ###### Article L221-1
 
@@ -6728,7 +7327,7 @@ _Cite_:
   - Code de la consommation - art. L221-2 (VT)
 
 
-#### Chapitre II : Habilitations et pouvoirs des agents.<a id=56></a>
+#### Chapitre II : Habilitations et pouvoirs des agents.<a id=58></a>
 
 ###### Article L222-1
 
@@ -6848,7 +7447,7 @@ _Abrogé par_:
   - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 
-#### Chapitre III : Sanctions.<a id=57></a>
+#### Chapitre III : Sanctions.<a id=59></a>
 
 ###### Article L223-1
 
@@ -6929,7 +7528,7 @@ _Abrogé par_:
   - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 
-#### Chapitre IV : La commission de la sécurité des consommateurs.<a id=58></a>
+#### Chapitre IV : La commission de la sécurité des consommateurs.<a id=60></a>
 
 ###### Article L224-1
 
@@ -7146,7 +7745,7 @@ _Cite_:
   - Code pénal 378 et 418
 
 
-#### Chapitre V : Dispositions diverses<a id=59></a>
+#### Chapitre V : Dispositions diverses<a id=61></a>
 
 ###### Article L225-1
 
@@ -7171,13 +7770,13 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-## Livre III : Endettement<a id=60></a>
+## Livre III : Endettement<a id=62></a>
 
-### Titre Ier : Crédit<a id=61></a>
+### Titre Ier : Crédit<a id=63></a>
 
-#### Chapitre Ier : Crédit à la consommation<a id=62></a>
+#### Chapitre Ier : Crédit à la consommation<a id=64></a>
 
-##### Section 1 : Champ d'application<a id=63></a>
+##### Section 1 : Champ d'application<a id=65></a>
 
 ###### Article L311-1
 
@@ -7317,7 +7916,7 @@ _Cite_:
   - Code de la consommation - art. L311-5 (M)
 
 
-##### Section 2 : Publicité<a id=64></a>
+##### Section 2 : Publicité<a id=66></a>
 
 ###### Article L311-4
 
@@ -7363,7 +7962,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la consommation L312-34 *sanctions pénales*
 
 
-##### Section 3 : Crédit gratuit.<a id=65></a>
+##### Section 3 : Crédit gratuit.<a id=67></a>
 
 ###### Article L311-5
 
@@ -7485,7 +8084,7 @@ _Cite_:
   - Code de la consommation L311-4 à L311-6
 
 
-##### Section 4 : Le contrat de crédit.<a id=66></a>
+##### Section 4 : Le contrat de crédit.<a id=68></a>
 
 ###### Article L311-8
 
@@ -7945,7 +8544,7 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-##### Section 5 : Les crédits affectés.<a id=67></a>
+##### Section 5 : Les crédits affectés.<a id=69></a>
 
 ###### Article L311-20
 
@@ -8265,9 +8864,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L311-40 (VD)
 
 
-##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur.<a id=68></a>
+##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur.<a id=70></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=69></a>
+##### Sous-section 1 : Remboursement anticipé<a id=71></a>
 
 ###### Article L311-29
 
@@ -8299,7 +8898,7 @@ _Cité par_:
   - Code de la consommation - art. L311-49 (VT)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=70></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=72></a>
 
 ###### Article L311-30
 
@@ -8417,7 +9016,7 @@ _Cite_:
   - Code de la consommation L311-29 à L311-31
 
 
-##### Section 7 : Sanctions.<a id=71></a>
+##### Section 7 : Sanctions.<a id=73></a>
 
 ###### Article L311-33
 
@@ -8573,7 +9172,7 @@ _Cité par_:
   - Code de la consommation - art. L311-37 (VT)
 
 
-##### Section 8 : Procédure.<a id=72></a>
+##### Section 8 : Procédure.<a id=74></a>
 
 ###### Article L311-28
 
@@ -8638,9 +9237,9 @@ _Cité par_:
   - Code de la consommation - art. L311-50 (VT)
 
 
-#### Chapitre II : Crédit immobilier<a id=73></a>
+#### Chapitre II : Crédit immobilier<a id=75></a>
 
-##### Section 1 : Champ d'application<a id=74></a>
+##### Section 1 : Champ d'application<a id=76></a>
 
 ###### Article L312-1
 
@@ -8785,7 +9384,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-2 (V)
 
 
-##### Section 2 : Publicité<a id=75></a>
+##### Section 2 : Publicité<a id=77></a>
 
 ###### Article L312-4
 
@@ -8901,7 +9500,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la consommation L312-32 *sanctions pénales*
 
 
-##### Section 3 : Le contrat de crédit<a id=76></a>
+##### Section 3 : Le contrat de crédit<a id=78></a>
 
 ###### Article L312-7
 
@@ -9246,7 +9845,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-38 (V)
 
 
-##### Section 4 : Le contrat principal<a id=77></a>
+##### Section 4 : Le contrat principal<a id=79></a>
 
 ###### Article L312-15
 
@@ -9460,9 +10059,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-45 (V)
 
 
-##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=78></a>
+##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=80></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=79></a>
+##### Sous-section 1 : Remboursement anticipé<a id=81></a>
 
 ###### Article L312-21
 
@@ -9499,7 +10098,7 @@ _Cite_:
   - Code civil - art. 1152 (M)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=80></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=82></a>
 
 ###### Article L312-22
 
@@ -9549,7 +10148,7 @@ _Cite_:
   - Code civil - art. 1231 (M)
 
 
-##### Sous-section 3 : Dispositions communes<a id=81></a>
+##### Sous-section 3 : Dispositions communes<a id=83></a>
 
 ###### Article L312-23
 
@@ -9598,7 +10197,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la consommation L312-35 *sanctions pénales*
 
 
-##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=82></a>
+##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=84></a>
 
 ###### Article L312-24
 
@@ -9938,7 +10537,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-63 (V)
 
 
-##### Section 7 : Sanctions<a id=83></a>
+##### Section 7 : Sanctions<a id=85></a>
 
 ###### Article L312-32
 
@@ -10070,7 +10669,7 @@ _Cite_:
   - Code de la consommation - art. L312-30 (V)
 
 
-##### Section 8 : Procédure<a id=84></a>
+##### Section 8 : Procédure<a id=86></a>
 
 ###### Article L312-36
 
@@ -10108,11 +10707,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. R313-33 (V)
 
 
-#### Chapitre III : Dispositions communes<a id=85></a>
+#### Chapitre III : Dispositions communes<a id=87></a>
 
-##### Section 1 : Le taux d'intérêt<a id=86></a>
+##### Section 1 : Le taux d'intérêt<a id=88></a>
 
-##### Sous-section 1 : Le taux effectif global.<a id=87></a>
+##### Sous-section 1 : Le taux effectif global.<a id=89></a>
 
 ###### Article L313-1
 
@@ -10221,7 +10820,7 @@ _Cite_:
   - Code de la consommation - art. L313-1 (M)
 
 
-##### Sous-section 2 : Le taux d'usure.<a id=88></a>
+##### Sous-section 2 : Le taux d'usure.<a id=90></a>
 
 ###### Article L313-4
 
@@ -10335,7 +10934,7 @@ _Cite_:
   - Code de la consommation - art. L313-3 (M)
 
 
-##### Section 2 : Les cautions.<a id=89></a>
+##### Section 2 : Les cautions.<a id=91></a>
 
 ###### Article L313-7
 
@@ -10450,7 +11049,7 @@ _Cité par_:
   - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
 
 
-##### Section 3 : Rémunération du vendeur.<a id=90></a>
+##### Section 3 : Rémunération du vendeur.<a id=92></a>
 
 ###### Article L313-11
 
@@ -10478,7 +11077,7 @@ _Cité par_:
   - Code de la consommation - art. R313-10 (Ab)
 
 
-##### Section 4 : Délais de grâce.<a id=91></a>
+##### Section 4 : Délais de grâce.<a id=93></a>
 
 ###### Article L313-12
 
@@ -10518,7 +11117,7 @@ _Cite_:
   - Code civil 1244-1 à 1244-3
 
 
-##### Section 5 : Lettres de change et billets à ordre.<a id=92></a>
+##### Section 5 : Lettres de change et billets à ordre.<a id=94></a>
 
 ###### Article L313-13
 
@@ -10553,7 +11152,7 @@ _Cité par_:
   - Code de la consommation - art. L311-10 (VD)
 
 
-##### Section 6 : Pouvoirs d'enquête.<a id=93></a>
+##### Section 6 : Pouvoirs d'enquête.<a id=95></a>
 
 ###### Article L313-14
 
@@ -10588,7 +11187,7 @@ _Cite_:
   - Code de commerce. - art. L450-3 (M)
 
 
-##### Section 7 : Textes d'application.<a id=94></a>
+##### Section 7 : Textes d'application.<a id=96></a>
 
 ###### Article L313-15
 
@@ -10634,7 +11233,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-16 (VD)
 
 
-##### Section 8 : Dispositions d'ordre public.<a id=95></a>
+##### Section 8 : Dispositions d'ordre public.<a id=97></a>
 
 ###### Article L313-16
 
@@ -10656,9 +11255,9 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-### Titre II : Activité d'intermédiaire pour le règlement des dettes<a id=96></a>
+### Titre II : Activité d'intermédiaire pour le règlement des dettes<a id=98></a>
 
-#### Chapitre Ier : Nullité des conventions.<a id=97></a>
+#### Chapitre Ier : Nullité des conventions.<a id=99></a>
 
 ###### Article L321-1
 
@@ -10695,7 +11294,7 @@ _Cité par_:
   - SPEC_APPLI: Code de la consommation L322-1 *sanctions pénales*
 
 
-#### Chapitre II : Dispositions diverses.<a id=98></a>
+#### Chapitre II : Dispositions diverses.<a id=100></a>
 
 ###### Article L322-1
 
@@ -10817,9 +11416,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L322-5 (V)
 
 
-### Titre III : Traitement des situations de surendettement<a id=99></a>
+### Titre III : Traitement des situations de surendettement<a id=101></a>
 
-#### Chapitre III : Dispositions communes<a id=100></a>
+#### Chapitre III : Dispositions communes<a id=102></a>
 
 ###### Article L333-1
 
@@ -11117,11 +11716,11 @@ _Cité par_:
   - Code de la consommation - art. L333-7 (Ab)
 
 
-### Titre III : Réglement des situations de surendettement<a id=101></a>
+### Titre III : Réglement des situations de surendettement<a id=103></a>
 
-#### Chapitre Ier : Règlement amiable<a id=102></a>
+#### Chapitre Ier : Règlement amiable<a id=104></a>
 
-##### Section 1 : La commission départementale d'examen des situations de surendettement des particuliers.<a id=103></a>
+##### Section 1 : La commission départementale d'examen des situations de surendettement des particuliers.<a id=105></a>
 
 ###### Article L331-1
 
@@ -11194,7 +11793,7 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*247-18 (M)
 
 
-##### Section 2 : La procédure.<a id=104></a>
+##### Section 2 : La procédure.<a id=106></a>
 
 ###### Article L331-2
 
@@ -11692,7 +12291,7 @@ _Cité par_:
   - Code de la consommation - art. L332-1 (M)
 
 
-#### Chapitre II : Redressement judiciaire civil.<a id=105></a>
+#### Chapitre II : Redressement judiciaire civil.<a id=107></a>
 
 ###### Article L332-1
 
@@ -12057,7 +12656,7 @@ _Cité par_:
   - Code de la consommation - art. R334-35 (Ab)
 
 
-#### Chapitre III : Dispositions communes.<a id=106></a>
+#### Chapitre III : Dispositions communes.<a id=108></a>
 
 ###### Article L333-2
 
@@ -12100,11 +12699,11 @@ _Cité par_:
   - Code de la consommation - art. R335-2 (Ab)
 
 
-## Livre IV : Les associations de consommateurs<a id=107></a>
+## Livre IV : Les associations de consommateurs<a id=109></a>
 
-### Titre Ier : Agrément des associations<a id=108></a>
+### Titre Ier : Agrément des associations<a id=110></a>
 
-#### Chapitre Ier : Les associations<a id=109></a>
+#### Chapitre Ier : Les associations<a id=111></a>
 
 ###### Article L411-1
 
@@ -12181,7 +12780,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L811-1 (V)
 
 
-#### Chapitre II : Les sociétés coopératives de consommation<a id=110></a>
+#### Chapitre II : Les sociétés coopératives de consommation<a id=112></a>
 
 ###### Article L412-1
 
@@ -12222,11 +12821,11 @@ _Cité par_:
   - Code de la consommation - art. R411-7 (Ab)
 
 
-### Titre II : Actions en justice des associations<a id=111></a>
+### Titre II : Actions en justice des associations<a id=113></a>
 
-#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=112></a>
+#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=114></a>
 
-##### Section 1 : Action civile<a id=113></a>
+##### Section 1 : Action civile<a id=115></a>
 
 ###### Article L421-1
 
@@ -12402,7 +13001,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L621-5 (V)
 
 
-##### Section 2 : Action en suppression de clauses abusives.<a id=114></a>
+##### Section 2 : Action en suppression de clauses abusives.<a id=116></a>
 
 ###### Article L421-6
 
@@ -12433,7 +13032,7 @@ _Cite_:
   - Code de la consommation - art. L421-1 (V)
 
 
-##### Section 3 : Interventions en justice<a id=115></a>
+##### Section 3 : Interventions en justice<a id=117></a>
 
 ###### Article L421-7
 
@@ -12461,7 +13060,7 @@ _Cite_:
   - Code de la consommation - art. L421-2 (V)
 
 
-##### Section 4 : Dispositions communes<a id=116></a>
+##### Section 4 : Dispositions communes<a id=118></a>
 
 ###### Article L421-8
 
@@ -12520,7 +13119,7 @@ _Cite_:
   - Code pénal 51
 
 
-#### Chapitre II : Action en représentation conjointe<a id=117></a>
+#### Chapitre II : Action en représentation conjointe<a id=119></a>
 
 ###### Article L422-1
 
@@ -12635,11 +13234,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. L622-4 (V)
 
 
-## Livre V : Les institutions<a id=118></a>
+## Livre V : Les institutions<a id=120></a>
 
-### Titre III : L'Institut national de la consommation<a id=119></a>
+### Titre III : L'Institut national de la consommation<a id=121></a>
 
-#### Chapitre Ier : Organisation administrative<a id=120></a>
+#### Chapitre Ier : Organisation administrative<a id=122></a>
 
 ###### Article L531-1
 
@@ -12664,9 +13263,9 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-### Titre VI : Le laboratoire d'essais<a id=121></a>
+### Titre VI : Le laboratoire d'essais<a id=123></a>
 
-#### Chapitre Ier : Missions<a id=122></a>
+#### Chapitre Ier : Missions<a id=124></a>
 
 ###### Article L561-1
 
@@ -12717,7 +13316,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-1 (V)
 
 
-#### Chapitre II : Fonctionnement<a id=123></a>
+#### Chapitre II : Fonctionnement<a id=125></a>
 
 ###### Article L562-1
 
