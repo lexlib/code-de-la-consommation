@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2002-07-01
+Version Consolidée au 2002-08-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -16192,15 +16192,17 @@ française et sans autres abréviations que celles prévues par la réglementati
 inscrites à un endroit apparent et de manière à être visibles, clairement lisibles et indélébiles. Elles ne doivent en aucune
 façon être dissimulées, voilées ou séparées par d'autres indications ou images.
 
+Les mentions d'étiquetage prévues par le présent chapitre peuvent figurer en outre dans une ou plusieurs autres langues.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Décret n°84-1147 du 7 décembre 1984 - art. 4 (Ab)
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°2002-1025 du 1 août 2002 - art. 1 () JORF 2 août 2002
 
 
 ###### Article R112-9
