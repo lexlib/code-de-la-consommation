@@ -1,12 +1,12 @@
 # Code de la consommation  
-Version Consolidée au 2004-03-27
+Version Consolidée au 2004-06-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
       - [Titre Ier : Information des consommateurs (art. L111-1 à L115-33)](#3)
         - [Chapitre Ier : Obligation générale d'information (art. L111-1 à L111-3)](#4)
         - [Chapitre II : Modes de présentation et inscriptions (art. L112-1 à L112-7)](#5)
-        - [Chapitre III : Prix et conditions de vente (art. L113-1 à L113-3)](#6)
+        - [Chapitre III : Prix et conditions de vente (art. L113-1 à L113-4)](#6)
         - [Chapitre IV : Information sur les délais de livraison (art. L114-1)](#7)
         - [Chapitre V : Valorisation des produits et des services (art. L115-1 à L115-33)](#8)
           - [Section 1 : Appellations d'origine (art. L115-1 à L115-20)](#9)
@@ -20,7 +20,7 @@ Version Consolidée au 2004-03-27
           - [Section 4 : Certification des services et des produits autres qu'alimentaires. (art. L115-27 à L115-33)](#17)
       - [Titre II : Pratiques commerciales (art. L121-1 à L122-11)](#18)
         - [Chapitre Ier : Pratiques commerciales réglementées (art. L121-1 à L121-82)](#19)
-          - [Section 1 : Publicité. (art. L121-1 à L121-15)](#20)
+          - [Section 1 : Publicité. (art. L121-1 à L121-15-3)](#20)
           - [Section 2 : Ventes de biens et fournitures de prestations de services à distance (art. L121-16 à L121-20-10)](#21)
           - [Section 3 : Démarchage (art. L121-21 à L121-33)](#22)
           - [Section 4 : Ventes directes (art. L121-34)](#23)
@@ -40,7 +40,7 @@ Version Consolidée au 2004-03-27
           - [Section 1 : Protection des consommateurs contre les clauses abusives (art. L132-1)](#37)
           - [Section 2 : La commission des clauses abusives. (art. L132-2 à L132-5)](#38)
         - [Chapitre III : Interprétation et forme des contrats (art. L133-1 à L133-2)](#39)
-        - [Chapitre IV : Remise des contrats (art. L134-1)](#40)
+        - [Chapitre IV : Remise des contrats (art. L134-1 à L134-2)](#40)
         - [Chapitre V : Du conflit des lois relatives aux clauses abusives (art. L135-1)](#41)
       - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L141-1)](#42)
         - [Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. L141-1)](#43)
@@ -769,6 +769,42 @@ _Cite_:
   - Code de la consommation - art. L113-2 (V)
   - Code monétaire et financier - art. L312-1-1 (M)
   - Code monétaire et financier - art. L518-1 (M)
+
+
+###### Article L113-4
+
+Tout opérateur de téléphonie vocale est tenu de proposer de manière équitable au consommateur, lors de la souscription d'un
+service de télécommunication, une offre dans laquelle les communications métropolitaines commutées sont facturées à la
+seconde, dès la première seconde, hors éventuellement un coût fixe de connexion.
+
+Les consommateurs ayant opté pour un mode de règlement prépayé bénéficient d'une facturation à la seconde, dès la première
+seconde, de leurs communications métropolitaines de téléphonie vocale commutées. Ces consommateurs peuvent bénéficier, sur
+demande, de tout autre mode de facturation proposé par l'opérateur.
+
+La comptabilisation des communications fait l'objet d'une information claire préalable à toute souscription de service, quel
+que soit le mode de règlement choisi.
+
+Les consommateurs doivent pouvoir bénéficier des offres susmentionnées lors de toute souscription nouvelle conclue à partir
+du premier jour du sixième mois suivant la promulgation de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
+l'économie numérique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Cite_:
+
+  - Loi n°2004-575 2004-06-21
+
+_Créé par_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 53 () JORF 22 juin 2004
+
+_Cité par_:
+
+  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V)
 
 
 #### Chapitre IV : Information sur les délais de livraison<a id=7></a>
@@ -3177,6 +3213,83 @@ _Cite_:
   - Code du travail - art. L221-17 (M)
 
 
+###### Article L121-15-1
+
+Les publicités, et notamment les offres promotionnelles, telles que les rabais, les primes ou les cadeaux, ainsi que les
+concours ou les jeux promotionnels, adressés par courrier électronique, doivent pouvoir être identifiés de manière claire et
+non équivoque dès leur réception par leur destinataire, ou en cas d'impossibilité technique, dans le corps du message.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 21 () JORF 22 juin 2004
+
+_Cité par_:
+
+  - Code de la consommation - art. L121-15-3 (V)
+  - Code du tourisme. - art. L211-1 (VD)
+
+
+###### Article L121-15-2
+
+Sans préjudice des dispositions réprimant la publicité trompeuse prévues à l'article L. 121-1, les conditions auxquelles sont
+soumises la possibilité de bénéficier d'offres promotionnelles ainsi que celle de participer à des concours ou à des jeux
+promotionnels, lorsque ces offres, concours ou jeux sont proposés par voie électronique, doivent être clairement précisées et
+aisément accessibles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 21 () JORF 22 juin 2004
+
+_Cite_:
+
+  - Code de la consommation - art. L121-1 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L121-15-3 (V)
+
+
+###### Article L121-15-3
+
+Les articles L. 121-15-1 et L. 121-15-2 sont également applicables aux publicités, offres, concours ou jeux à destination des
+professionnels.
+
+Les infractions aux dispositions des articles L. 121-15-1 et L. 121-15-2 sont passibles des peines prévues à l'article L.
+121-6. Elles sont recherchées et constatées dans les conditions prévues à l'article L. 121-2. Les articles L. 121-3 et L.
+121-4 sont également applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 21 () JORF 22 juin 2004
+
+_Cite_:
+
+  - Code de la consommation - art. L121-15-1 (V)
+  - Code de la consommation - art. L121-15-2 (V)
+  - Code de la consommation - art. L121-2 (M)
+  - Code de la consommation - art. L121-3 (M)
+  - Code de la consommation - art. L121-4 (V)
+  - Code de la consommation - art. L121-6 (M)
+
+
 ##### Section 2 : Ventes de biens et fournitures de prestations de services à distance<a id=21></a>
 
 ###### Article L121-16
@@ -3508,16 +3621,27 @@ fournir un bien ou un service d'une qualité et d'un prix équivalents. Le conso
 manière claire et compréhensible. Les frais de retour consécutifs à l'exercice du droit de rétractation sont, dans ce cas, à
 la charge du fournisseur et le consommateur doit en être informé.
 
+Le professionnel est responsable de plein droit à l'égard du consommateur de la bonne exécution des obligations résultant du
+contrat conclu à distance, que ces obligations soient à exécuter par le professionnel qui a conclu ce contrat ou par d'autres
+prestataires de services, sans préjudice de son droit de recours contre ceux-ci.
+
+Toutefois, il peut s'exonérer de tout ou partie de sa responsabilité en apportant la preuve que l'inexécution ou la mauvaise
+exécution du contrat est imputable, soit au consommateur, soit au fait, imprévisible et insurmontable, d'un tiers au contrat,
+soit à un cas de force majeure.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+**Liens**:
 
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+  - SPEC_APPLI: Loi n°2004-575 2004-06-21 art. 57, art. 58
+
+_Modifié par_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 15 (V) JORF 22 juin 2004
 
 _Cité par_:
 
@@ -3537,16 +3661,18 @@ distributeurs faisant des tournées fréquentes et régulières ;
 2° La prestation de services d'hébergement, de transport, de restauration, de loisirs qui doivent être fournis à une date ou
 selon une périodicité déterminée.
 
+Les dispositions des articles L. 121-18 et L. 121-19 sont toutefois applicables aux contrats conclus par voie électronique
+lorsqu'ils ont pour objet la prestation des services mentionnés au 2°.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+  - Loi n°2004-575 du 21 juin 2004 - art. 23 () JORF 22 juin 2004
 
 **Liens**:
 
@@ -3563,37 +3689,72 @@ _Cite_:
 
 ###### Article L121-20-5
 
-Est interdite la prospection directe par un professionnel, au moyen d'automates d'appel ou de télécopieurs, d'un consommateur
-qui n'a pas exprimé son consentement à recevoir de tels appels.
+Sont applicables les dispositions de l'article L. 33-4-1 du code des postes et télécommunications, ci-après reproduites :
 
-Lorsqu'elles permettent une communication individuelle, les techniques de communication à distance, autres que celles
-mentionnées à l'alinéa précédent, ne peuvent être utilisées que si le consommateur n'a pas manifesté son opposition.
+"Art. L. 33-4-1 - Est interdite la prospection directe au moyen d'un automate d'appel, d'un télécopieur ou d'un courrier
+électronique utilisant, sous quelque forme que ce soit, les coordonnées d'une personne physique qui n'a pas exprimé son
+consentement préalable à recevoir des prospections directes par ce moyen.
 
-Les conditions dans lesquelles le consommateur exprime son consentement à recevoir les appels mentionnés au premier alinéa,
-les informations que le professionnel doit fournir au consommateur sur la possibilité qui lui est offerte de manifester son
-opposition ainsi que les conditions dans lesquelles sont tenus les registres d'opposition sont fixées par décret en Conseil
-d'Etat.
+Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
+informée par laquelle une personne accepte que des données à caractère personnel la concernant soient utilisées à fin de
+prospection directe.
+
+Constitue une prospection directe l'envoi de tout message destiné à promouvoir, directement ou indirectement, des biens, des
+services ou l'image d'une personne vendant des biens ou fournissant des services.
+
+Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
+recueillies directement auprès de lui, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, à l'occasion d'une vente ou d'une prestation de services, si la prospection
+directe concerne des produits ou services analogues fournis par la même personne physique ou morale, et si le destinataire se
+voit offrir, de manière expresse et dénuée d'ambiguïté, la possibilité de s'opposer, sans frais, hormis ceux liés à la
+transmission du refus, et de manière simple, à l'utilisation de ses coordonnées lorsque celles-ci sont recueillies et chaque
+fois qu'un courrier électronique de prospection lui est adressé.
+
+Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen d'automates d'appel,
+télécopieurs et courriers électroniques, sans indiquer de coordonnées valables auxquelles le destinataire puisse utilement
+transmettre une demande tendant à obtenir que ces communications cessent sans frais autres que ceux liés à la transmission de
+celle-ci. Il est également interdit de dissimuler l'identité de la personne pour le compte de laquelle la communication est
+émise et de mentionner un objet sans rapport avec la prestation ou le service proposé.
+
+La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
+coordonnées d'une personne physique, au respect des dispositions du présent article en utilisant les compétences qui lui sont
+reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir, par tous moyens, les
+plaintes relatives aux infractions aux dispositions du présent article.
+
+Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
+premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-4, L. 450-7, L.
+450-8, L. 470-1 et L. 470-5 du code de commerce.
+
+Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu égard
+aux différentes technologies utilisées."
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 1978-01-06
+  - Code de commerce. - art. L450-2 (V)
+  - Code de commerce. - art. L450-3 (M)
+  - Code de commerce. - art. L450-4 (M)
+  - Code de commerce. - art. L450-7 (V)
+  - Code de commerce. - art. L450-8 (M)
+  - Code de commerce. - art. L470-1 (V)
+  - Code de commerce. - art. L470-5 (V)
+  - Code des postes et télécommunications L33-4-1
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 12 () JORF 25 août 2001
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 5 () JORF 25 août 2001
+  - Loi n°2004-575 du 21 juin 2004 - art. 22 (V) JORF 22 juin 2004
 
 _Cité par_:
 
   - Code de la consommation - art. L121-20-10 (M)
   - Code de la consommation - art. L121-20-14 (VT)
   - Code de la consommation - art. L121-20-17 (MMN)
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la consommation L121-20-10 *sanctions*
 
 
 ###### Article L121-20-6
@@ -4089,9 +4250,9 @@ _Cité par_:
 
 ###### Article L121-27
 
-A la suite d'un démarcharge par téléphone ou par tout moyen technique assimilable, le professionnel doit adresser au
+A la suite d'un démarchage par téléphone ou par tout moyen technique assimilable, le professionnel doit adresser au
 consommateur une confirmation de l'offre qu'il a faite. Le consommateur n'est engagé que par sa signature. Il bénéficie alors
-des dispositions prévues aux articles L. 121-16 et L. 121-19.
+des dispositions prévues aux articles L. 121-18, L. 121-19, L. 121-20, L. 121-20-1 et L. 121-20-3.
 
 **Liens relatifs à cet article**
 
@@ -4104,14 +4265,13 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2004-575 du 21 juin 2004 - art. 24 () JORF 22 juin 2004
 
 _Cite_:
 
-  - Code de la consommation - art. L121-16 (M)
-  - Code de la consommation - art. L121-19 (M)
+  - Code de la consommation - art. L121-18 (V)
 
 _Cité par_:
 
@@ -6107,6 +6267,38 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code de la consommation - art. L141-1 (M)
+
+
+###### Article L134-2
+
+Lorsque le contrat est conclu par voie électronique et qu'il porte sur une somme égale ou supérieure à un montant fixé par
+décret, le contractant professionnel assure la conservation de l'écrit qui le constate pendant un délai déterminé par ce même
+décret et en garantit à tout moment l'accès à son cocontractant si celui-ci en fait la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 27 () JORF 22 juin 2004
+
+_Cité par_:
+
+  - Décret n°2005-137 du 16 février 2005 - art. 1 (Ab)
+  - Décret n°2005-137 du 16 février 2005 - art. 2 (Ab)
+  - Décret n°2016-884 du 29 juin 2016 (V)
+  - Code du tourisme. - art. L211-1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L213-1 (V)
 
 
 #### Chapitre V : Du conflit des lois relatives aux clauses abusives<a id=41></a>
