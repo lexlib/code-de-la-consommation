@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 1996-04-13
+Version Consolidée au 1996-07-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -2548,10 +2548,10 @@ _Cité par_:
 
 Est, en outre, interdite toute publicité portant :
 
-1° Sur une opération commerciale soumise à autorisation au titre soit de la loi du 30 décembre 1906 sur les ventes au
-déballage, complétant la loi du 25 juin 1841, soit des articles 29, 32 et 39 de la loi n° 73-1193 du 27 décembre 1973
-d'orientation du commerce et de l'artisanat, soit de l'ordonnance n° 45-2088 du 11 septembre 1945 relative aux foires et
-salons, et qui n'a pas fait l'objet de cette autorisation ;
+1° Sur une opération commerciale soumise à autorisation au titre soit des articles 26, 27, 28, 29 et 30 de la loi n° 96-603
+du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat, soit des articles 29 et 32 de la
+loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat, soit de l'ordonnance n° 45-2088 du 11
+septembre 1945 relative aux foires et salons, et qui n'a pas fait l'objet de cette autorisation ;
 
 2° Sur une opération commerciale dont la réalisation nécessite l'emploi de personnel salarié requérant une autorisation au
 titre du chapitre Ier du titre II du livre II du code du travail et réalisée sans l'obtention préalable de cette
@@ -2571,12 +2571,14 @@ définies aux alinéas qui précèdent.
 
 _Cite_:
 
-  - Loi n°1841-06-25
-  - Loi n°1906-12-30
   - Ordonnance 45-2088 1945-09-11
-  - Loi n°73-1193 1973-12-27 art. 29, art. 32, art. 39
+  - Loi n°73-1193 1973-12-27 art. 29, art. 32
   - Loi n°73-1193 du 27 décembre 1973 - art. 32 (M)
-  - Loi n°73-1193 du 27 décembre 1973 - art. 39 (Ab)
+  - Loi n°96-603 du 5 juillet 1996 - art. 26 (Ab)
+  - Loi n°96-603 du 5 juillet 1996 - art. 27 (Ab)
+  - Loi n°96-603 du 5 juillet 1996 - art. 28 (Ab)
+  - Loi n°96-603 du 5 juillet 1996 - art. 29 (Ab)
+  - Loi n°96-603 du 5 juillet 1996 - art. 30 (Ab)
   - Code du travail - art. L221-17 (M)
   - Code du travail 41, 105 à 105, L221-17
 
@@ -2588,13 +2590,13 @@ _Anciens textes_:
 
   - Loi n°89-1008 du 31 décembre 1989 - art. 8 (Ab)
 
-_Modifié par_:
-
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
+
+_Modifié par_:
+
+  - Loi n°96-603 du 5 juillet 1996 - art. 33 (V) JORF 6 juillet 1996
 
 
 ##### Section 2 : Ventes à distance.<a id=20></a>
