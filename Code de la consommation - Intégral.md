@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2004-07-02
+Version Consolidée au 2004-07-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -19,7 +19,7 @@ Version Consolidée au 2004-07-02
           - [Section 3 : Appellations d'origine protégées, indications géographiques protégées et attestations de spécificité. (art. L115-26-1 à L115-26-4)](#16)
           - [Section 4 : Certification des services et des produits autres qu'alimentaires. (art. L115-27 à L115-33)](#17)
       - [Titre II : Pratiques commerciales (art. L121-1 à L122-11)](#18)
-        - [Chapitre Ier : Pratiques commerciales réglementées (art. L121-1 à L121-82)](#19)
+        - [Chapitre Ier : Pratiques commerciales réglementées (art. L121-1 à L121-85)](#19)
           - [Section 1 : Publicité. (art. L121-1 à L121-15-3)](#20)
           - [Section 2 : Ventes de biens et fournitures de prestations de services à distance (art. L121-16 à L121-20-10)](#21)
           - [Section 3 : Démarchage (art. L121-21 à L121-33)](#22)
@@ -29,48 +29,48 @@ Version Consolidée au 2004-07-02
           - [Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons (art. L121-50 à L121-53)](#26)
           - [Section 9 : Contrat de jouissance d'immeuble à temps partagé. (art. L121-60 à L121-76)](#27)
           - [Section 10 : Appellation de boulanger et enseigne de boulangerie (art. L121-80 à L121-82)](#28)
-        - [Chapitre II : Pratiques commerciales illicites (art. L122-1 à L122-11)](#29)
-          - [Section 1 : Refus et subordination de vente ou de prestation de services (art. L122-1)](#30)
-          - [Section 2 : Ventes sans commande préalable. (art. L122-2 à L122-5)](#31)
-          - [Section 3 : Ventes ou prestations "à la boule de neige" (art. L122-6 à L122-7)](#32)
-          - [Section 4 : Abus de faiblesse (art. L122-8 à L122-11)](#33)
-      - [Titre III : Conditions générales des contrats (art. L131-1 à L135-1)](#34)
-        - [Chapitre Ier : Arrhes et acompte (art. L131-1 à L131-3)](#35)
-        - [Chapitre II : Clauses abusives (art. L132-1 à L132-5)](#36)
-          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. L132-1)](#37)
-          - [Section 2 : La commission des clauses abusives. (art. L132-2 à L132-5)](#38)
-        - [Chapitre III : Interprétation et forme des contrats (art. L133-1 à L133-2)](#39)
-        - [Chapitre IV : Remise des contrats (art. L134-1 à L134-2)](#40)
-        - [Chapitre V : Du conflit des lois relatives aux clauses abusives (art. L135-1)](#41)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L141-1)](#42)
-        - [Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. L141-1)](#43)
-    - [Livre II : Conformité et sécurité des produits et des services (art. L211-1 à L225-1)](#44)
-      - [Titre Ier : Conformité (art. L211-1 à L218-7)](#45)
-        - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-2)](#46)
-          - [Section 1 : Garantie légale. (art. L211-1)](#47)
-          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. L211-2)](#48)
-        - [Chapitre II : Obligation générale de conformité (art. L212-1)](#49)
-        - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-6)](#50)
-          - [Section 1 : Tromperie (art. L213-1 à L213-2)](#51)
-          - [Section 2 : Falsifications et délits connexes (art. L213-3 à L213-4)](#52)
-          - [Section 3 : Récidive légale (art. L213-5 à L213-6)](#53)
-        - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#54)
-        - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-18)](#55)
-          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2)](#56)
-          - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#57)
-          - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#58)
-          - [Section 4 : Expertises (art. L215-9 à L215-17)](#59)
-          - [Section 5 : Dispositions relatives à la conformité et au marquage communautaires. (art. L215-18)](#60)
-        - [Chapitre VI : Dispositions communes (art. L216-1 à L216-9)](#61)
+          - [Section 11 : Contrats de services de communications électroniques (art. L121-83 à L121-85)](#29)
+        - [Chapitre II : Pratiques commerciales illicites (art. L122-1 à L122-11)](#30)
+          - [Section 1 : Refus et subordination de vente ou de prestation de services (art. L122-1)](#31)
+          - [Section 2 : Ventes sans commande préalable. (art. L122-2 à L122-5)](#32)
+          - [Section 3 : Ventes ou prestations "à la boule de neige" (art. L122-6 à L122-7)](#33)
+          - [Section 4 : Abus de faiblesse (art. L122-8 à L122-11)](#34)
+      - [Titre III : Conditions générales des contrats (art. L131-1 à L135-1)](#35)
+        - [Chapitre Ier : Arrhes et acompte (art. L131-1 à L131-3)](#36)
+        - [Chapitre II : Clauses abusives (art. L132-1 à L132-5)](#37)
+          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. L132-1)](#38)
+          - [Section 2 : La commission des clauses abusives. (art. L132-2 à L132-5)](#39)
+        - [Chapitre III : Interprétation et forme des contrats (art. L133-1 à L133-2)](#40)
+        - [Chapitre IV : Remise des contrats (art. L134-1 à L134-2)](#41)
+        - [Chapitre V : Du conflit des lois relatives aux clauses abusives (art. L135-1)](#42)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L141-1)](#43)
+        - [Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. L141-1)](#44)
+    - [Livre II : Conformité et sécurité des produits et des services (art. L211-1 à L225-1)](#45)
+      - [Titre Ier : Conformité (art. L211-1 à L218-7)](#46)
+        - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-2)](#47)
+          - [Section 1 : Garantie légale. (art. L211-1)](#48)
+          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. L211-2)](#49)
+        - [Chapitre II : Obligation générale de conformité (art. L212-1)](#50)
+        - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-6)](#51)
+          - [Section 1 : Tromperie (art. L213-1 à L213-2)](#52)
+          - [Section 2 : Falsifications et délits connexes (art. L213-3 à L213-4)](#53)
+          - [Section 3 : Récidive légale (art. L213-5 à L213-6)](#54)
+        - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#55)
+        - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-17)](#56)
+          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2)](#57)
+          - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#58)
+          - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#59)
+          - [Section 4 : Expertises (art. L215-9 à L215-17)](#60)
+        - [Chapitre VI : Dispositions communes (art. L216-1 à L216-10)](#61)
         - [Chapitre VII : Dispositions particulières (art. L217-1 à L217-10)](#62)
-        - [Chapitre VIII : Prévention en matière d'alimentation humaine et animale (art. L218-1 à L218-7)](#63)
-          - [Section 1 : Dispositions générales. (art. L218-1 à L218-5)](#64)
-          - [Section 2 : Etablissements traitant des produits par ionisation (art. L218-6)](#65)
-          - [Section 3 : Dispositions pénales. (art. L218-7)](#66)
-      - [Titre II : Sécurité (art. L221-1 à L225-1)](#67)
-        - [Chapitre Ier : Prévention (art. L221-1 à L221-10)](#68)
-        - [Chapitre II : Habilitations et pouvoirs des agents. (art. L222-1 à L222-3)](#69)
-        - [Chapitre III : Sanctions. (art. L223-1 à L223-2)](#70)
+        - [Chapitre VIII : Mesures de police administrative (art. L218-1 à L218-7)](#63)
+          - [Section 1 : Dispositions générales (art. L218-1 à L218-5)](#64)
+            - [Sous-section 1 : Recueil d'information. (art. L218-1)](#65)
+            - [Sous-section 2 : Mesures relatives aux établissements et aux produits. (art. L218-2 à L218-5)](#66)
+          - [Section 2 : Etablissements traitant des produits par ionisation (art. L218-6)](#67)
+          - [Section 3 : Dispositions pénales. (art. L218-7)](#68)
+      - [Titre II : Sécurité (art. L221-1 à L225-1)](#69)
+        - [Chapitre Ier : Prévention (art. L221-1 à L221-11)](#70)
         - [Chapitre IV : La commission de la sécurité des consommateurs. (art. L224-1 à L224-6)](#71)
         - [Chapitre V : Dispositions diverses (art. L225-1)](#72)
     - [Livre III : Endettement (art. L311-1 à L341-6)](#73)
@@ -774,8 +774,8 @@ _Cite_:
 ###### Article L113-4
 
 Tout opérateur de téléphonie vocale est tenu de proposer de manière équitable au consommateur, lors de la souscription d'un
-service de télécommunication, une offre dans laquelle les communications métropolitaines commutées sont facturées à la
-seconde, dès la première seconde, hors éventuellement un coût fixe de connexion.
+service de communications électroniques, une offre dans laquelle les communications métropolitaines commutées sont facturées
+à la seconde, dès la première seconde, hors éventuellement un coût fixe de connexion.
 
 Les consommateurs ayant opté pour un mode de règlement prépayé bénéficient d'une facturation à la seconde, dès la première
 seconde, de leurs communications métropolitaines de téléphonie vocale commutées. Ces consommateurs peuvent bénéficier, sur
@@ -798,9 +798,9 @@ _Cite_:
 
   - Loi n°2004-575 2004-06-21
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-575 du 21 juin 2004 - art. 53 () JORF 22 juin 2004
+  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
 
 _Cité par_:
 
@@ -3699,20 +3699,21 @@ _Cite_:
 
 ###### Article L121-20-5
 
-Sont applicables les dispositions de l'article L. 33-4-1 du code des postes et télécommunications, ci-après reproduites :
+Sont applicables les dispositions de l'article L. 34-5 du code des postes et communications électroniques, ci-après
+reproduites :
 
-"Art. L. 33-4-1 - Est interdite la prospection directe au moyen d'un automate d'appel, d'un télécopieur ou d'un courrier
+"Art. L. 34-5 - Est interdite la prospection directe au moyen d'un automate d'appel, d'un télécopieur ou d'un courrier
 électronique utilisant, sous quelque forme que ce soit, les coordonnées d'une personne physique qui n'a pas exprimé son
 consentement préalable à recevoir des prospections directes par ce moyen.
 
-Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
+"Pour l'application du présent article, on entend par consentement toute manifestation de volonté libre, spécifique et
 informée par laquelle une personne accepte que des données à caractère personnel la concernant soient utilisées à fin de
 prospection directe.
 
-Constitue une prospection directe l'envoi de tout message destiné à promouvoir, directement ou indirectement, des biens, des
+"Constitue une prospection directe l'envoi de tout message destiné à promouvoir, directement ou indirectement, des biens, des
 services ou l'image d'une personne vendant des biens ou fournissant des services.
 
-Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
+"Toutefois, la prospection directe par courrier électronique est autorisée si les coordonnées du destinataire ont été
 recueillies directement auprès de lui, dans le respect des dispositions de la loi n° 78-17 du 6 janvier 1978 relative à
 l'informatique, aux fichiers et aux libertés, à l'occasion d'une vente ou d'une prestation de services, si la prospection
 directe concerne des produits ou services analogues fournis par la même personne physique ou morale, et si le destinataire se
@@ -3720,23 +3721,23 @@ voit offrir, de manière expresse et dénuée d'ambiguïté, la possibilité de 
 transmission du refus, et de manière simple, à l'utilisation de ses coordonnées lorsque celles-ci sont recueillies et chaque
 fois qu'un courrier électronique de prospection lui est adressé.
 
-Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen d'automates d'appel,
+"Dans tous les cas, il est interdit d'émettre, à des fins de prospection directe, des messages au moyen d'automates d'appel,
 télécopieurs et courriers électroniques, sans indiquer de coordonnées valables auxquelles le destinataire puisse utilement
 transmettre une demande tendant à obtenir que ces communications cessent sans frais autres que ceux liés à la transmission de
 celle-ci. Il est également interdit de dissimuler l'identité de la personne pour le compte de laquelle la communication est
 émise et de mentionner un objet sans rapport avec la prestation ou le service proposé.
 
-La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
+"La Commission nationale de l'informatique et des libertés veille, pour ce qui concerne la prospection directe utilisant les
 coordonnées d'une personne physique, au respect des dispositions du présent article en utilisant les compétences qui lui sont
 reconnues par la loi n° 78-17 du 6 janvier 1978 précitée. A cette fin, elle peut notamment recevoir, par tous moyens, les
 plaintes relatives aux infractions aux dispositions du présent article.
 
-Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
+"Les infractions aux dispositions du présent article sont recherchées et constatées dans les conditions fixées par les
 premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles L. 450-2, L. 450-3, L. 450-4, L. 450-7, L.
 450-8, L. 470-1 et L. 470-5 du code de commerce.
 
-Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu égard
-aux différentes technologies utilisées."
+"Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article, notamment eu
+égard aux différentes technologies utilisées".
 
 **Liens relatifs à cet article**
 
@@ -3750,7 +3751,7 @@ _Cite_:
   - Code de commerce. - art. L450-8 (M)
   - Code de commerce. - art. L470-1 (V)
   - Code de commerce. - art. L470-5 (V)
-  - Code des postes et télécommunications L33-4-1
+  - Code des postes et des communications électronique - art. L34-5 (M)
 
 _Codifié par_:
 
@@ -3758,7 +3759,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-575 du 21 juin 2004 - art. 22 (V) JORF 22 juin 2004
+  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
 
 _Cité par_:
 
@@ -5519,9 +5520,115 @@ _Cite_:
   - Code de la consommation - art. L213-1 (V)
 
 
-#### Chapitre II : Pratiques commerciales illicites<a id=29></a>
+##### Section 11 : Contrats de services de communications électroniques<a id=29></a>
 
-##### Section 1 : Refus et subordination de vente ou de prestation de services<a id=30></a>
+###### Article L121-83
+
+Tout contrat souscrit par un consommateur avec un fournisseur de services de communications électroniques au sens du 6° de
+l'article L. 32 du code des postes et des communications électroniques doit comporter au moins les informations suivantes :
+
+a) L'identité et l'adresse du fournisseur ;
+
+b) Les services offerts, leur niveau de qualité et le délai nécessaire pour en assurer la prestation ;
+
+c) Le détail des tarifs pratiqués et les moyens par lesquels des informations actualisées sur l'ensemble des tarifs
+applicables et des frais de maintenance peuvent être obtenues ;
+
+d) Les compensations et formules de remboursement applicables si le niveau de qualité des services prévus dans le contrat
+n'est pas atteint ;
+
+e) La durée du contrat, les conditions de renouvellement et d'interruption des services et du contrat ;
+
+f) Les modes de règlement amiable des différends.
+
+Un arrêté conjoint du ministre chargé de la consommation et du ministre chargé des communications électroniques, pris après
+avis du Conseil national de la consommation, précise, en tant que de besoin, ces informations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2004-669 du 9 juillet 2004 - art. 114 () JORF 10 juillet 2004
+
+_Cité par_:
+
+  - Arrêté du 3 décembre 2013 - art. 6 (VD)
+  - Code de la consommation - art. L121-83-1 (VT)
+  - Code de la consommation - art. L121-85 (V)
+  - Code des postes et des communications électroni... - art. D98-12 (V)
+  - Code des postes et des communications électroni... - art. L33-1 (V)
+
+
+###### Article L121-84
+
+Tout projet de modification des conditions contractuelles de fourniture d'un service de communications électroniques est
+communiqué par le prestataire au consommateur au moins un mois avant son entrée en vigueur, assorti de l'information selon
+laquelle ce dernier peut, tant qu'il n'a pas expressément accepté les nouvelles conditions, résilier le contrat sans pénalité
+de résiliation et sans droit à dédommagement, jusque dans un délai de quatre mois après l'entrée en vigueur de la
+modification.
+
+Pour les contrats à durée déterminée ne comportant pas de clause déterminant précisément les hypothèses pouvant entraîner une
+modification contractuelle ou de clause portant sur la modification du prix, le consommateur peut exiger l'application des
+conditions initiales jusqu'au terme de la durée contractuelle.
+
+Toute offre de fourniture d'un service de communications électroniques s'accompagne d'une information explicite sur les
+dispositions relatives aux modifications ultérieures des conditions contractuelles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2004-669 du 9 juillet 2004 - art. 114 () JORF 10 juillet 2004
+
+_Cité par_:
+
+  - Arrêté du 31 octobre 2013 - art. (V)
+  - Code de la consommation - art. L121-85 (V)
+  - Code de la propriété intellectuelle - art. L335-7 (VD)
+  - Code des postes et des communications électroni... - art. R20-30-9 (V)
+
+
+###### Article L121-85
+
+Les infractions aux dispositions de l'article L. 121-83 et du premier alinéa de l'article L. 121-84 sont recherchées et
+constatées dans les conditions fixées par les premier, troisième et quatrième alinéas de l'article L. 450-1 et les articles
+L. 450-2, L. 450-3, L. 450-4, L. 450-7, L. 450-8, L. 470-1 et L. 470-5 du code de commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Loi n°2004-669 du 9 juillet 2004 - art. 114 () JORF 10 juillet 2004
+
+_Cite_:
+
+  - Code de commerce. - art. L450-2 (V)
+  - Code de commerce. - art. L450-3 (M)
+  - Code de commerce. - art. L450-4 (M)
+  - Code de commerce. - art. L450-7 (V)
+  - Code de commerce. - art. L450-8 (M)
+  - Code de commerce. - art. L470-1 (V)
+  - Code de commerce. - art. L470-5 (V)
+  - Code de la consommation - art. L121-83 (V)
+  - Code de la consommation - art. L121-84 (V)
+  - Code de la consommation L121-83, L121-84, L450-1
+
+
+#### Chapitre II : Pratiques commerciales illicites<a id=30></a>
+
+##### Section 1 : Refus et subordination de vente ou de prestation de services<a id=31></a>
 
 ###### Article L122-1
 
@@ -5567,7 +5674,7 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-##### Section 2 : Ventes sans commande préalable.<a id=31></a>
+##### Section 2 : Ventes sans commande préalable.<a id=32></a>
 
 ###### Article L122-2
 
@@ -5676,7 +5783,7 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-##### Section 3 : Ventes ou prestations "à la boule de neige"<a id=32></a>
+##### Section 3 : Ventes ou prestations "à la boule de neige"<a id=33></a>
 
 ###### Article L122-6
 
@@ -5751,7 +5858,7 @@ _Cite_:
   - Code pénal - art. 313-1 (M)
 
 
-##### Section 4 : Abus de faiblesse<a id=33></a>
+##### Section 4 : Abus de faiblesse<a id=34></a>
 
 ###### Article L122-8
 
@@ -5891,9 +5998,9 @@ _Cite_:
   - Code de la consommation L450-1 à L450-3, L450-8
 
 
-### Titre III : Conditions générales des contrats<a id=34></a>
+### Titre III : Conditions générales des contrats<a id=35></a>
 
-#### Chapitre Ier : Arrhes et acompte<a id=35></a>
+#### Chapitre Ier : Arrhes et acompte<a id=36></a>
 
 ###### Article L131-1
 
@@ -5979,9 +6086,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L214-4 (V)
 
 
-#### Chapitre II : Clauses abusives<a id=36></a>
+#### Chapitre II : Clauses abusives<a id=37></a>
 
-##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=37></a>
+##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=38></a>
 
 ###### Article L132-1
 
@@ -6041,7 +6148,7 @@ _Cité par_:
   - Code de la consommation - art. R534-4 (Ab)
 
 
-##### Section 2 : La commission des clauses abusives.<a id=38></a>
+##### Section 2 : La commission des clauses abusives.<a id=39></a>
 
 ###### Article L132-2
 
@@ -6165,7 +6272,7 @@ _Abrogé par_:
   - Loi n°2010-737 du 1er juillet 2010 - art. 62
 
 
-#### Chapitre III : Interprétation et forme des contrats<a id=39></a>
+#### Chapitre III : Interprétation et forme des contrats<a id=40></a>
 
 ###### Article L133-1
 
@@ -6239,7 +6346,7 @@ _Cite_:
   - Code de la consommation - art. L421-6
 
 
-#### Chapitre IV : Remise des contrats<a id=40></a>
+#### Chapitre IV : Remise des contrats<a id=41></a>
 
 ###### Article L134-1
 
@@ -6306,7 +6413,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L213-1 (V)
 
 
-#### Chapitre V : Du conflit des lois relatives aux clauses abusives<a id=41></a>
+#### Chapitre V : Du conflit des lois relatives aux clauses abusives<a id=42></a>
 
 ###### Article L135-1
 
@@ -6331,9 +6438,9 @@ _Cite_:
   - Code de la consommation - art. L132-1 (V)
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=42></a>
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=43></a>
 
-#### Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=43></a>
+#### Chapitre unique : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=44></a>
 
 ###### Article L141-1
 
@@ -6547,13 +6654,13 @@ _Modifié par_:
   - Ordonnance 2000-912 2000-09-18 art. 4 I JORF 21 septembre 2000
 
 
-## Livre II : Conformité et sécurité des produits et des services<a id=44></a>
+## Livre II : Conformité et sécurité des produits et des services<a id=45></a>
 
-### Titre Ier : Conformité<a id=45></a>
+### Titre Ier : Conformité<a id=46></a>
 
-#### Chapitre Ier : Dispositions générales<a id=46></a>
+#### Chapitre Ier : Dispositions générales<a id=47></a>
 
-##### Section 1 : Garantie légale.<a id=47></a>
+##### Section 1 : Garantie légale.<a id=48></a>
 
 ###### Article L211-1
 
@@ -6616,7 +6723,7 @@ _Cite_:
   - Code civil 1641 à 1648
 
 
-##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=48></a>
+##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=49></a>
 
 ###### Article L211-2
 
@@ -6644,7 +6751,7 @@ _Créé par_:
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 
-#### Chapitre II : Obligation générale de conformité<a id=49></a>
+#### Chapitre II : Obligation générale de conformité<a id=50></a>
 
 ###### Article L212-1
 
@@ -6654,8 +6761,8 @@ la santé des personnes, à la loyauté des transactions commerciales et à la p
 Le responsable de la première mise sur le marché d'un produit est donc tenu de vérifier que celui-ci est conforme aux
 prescriptions en vigueur.
 
-A la demande des agents habilités pour appliquer les chapitres II à VI, il est tenu de justifier les vérifications et
-contrôles effectués.
+A la demande des agents habilités pour appliquer le présent livre, il est tenu de justifier les vérifications et contrôles
+effectués.
 
 **Liens relatifs à cet article**
 
@@ -6668,15 +6775,11 @@ _Cité par_:
 
   - Arrêté du 23 juin 1993 - art. 4 (Ab)
   - Arrêté du 28 mai 1997 - art. 4 (Ab)
-  - Code de la consommation - art. L218-5-2 (V)
+  - Code de la consommation - art. L218-5-2 (VT)
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°93-949 du 26 juillet 1993
 
 **Liens**:
 
@@ -6688,10 +6791,22 @@ _Créé par_:
   - TXT_SOURCE: Arrêté du 3 juin 1999 - art. 3 (Ab)
   - TXT_SOURCE: Arrêté du 3 juin 1999 - art. 4 (Ab)
 
+_Modifié par_:
 
-#### Chapitre III : Fraudes et falsifications<a id=50></a>
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
 
-##### Section 1 : Tromperie<a id=51></a>
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L411-1 (V)
+
+
+#### Chapitre III : Fraudes et falsifications<a id=51></a>
+
+##### Section 1 : Tromperie<a id=52></a>
 
 ###### Article L213-1
 
@@ -6859,7 +6974,7 @@ _Cite_:
   - Code de la consommation - art. L213-1 (V)
 
 
-##### Section 2 : Falsifications et délits connexes<a id=52></a>
+##### Section 2 : Falsifications et délits connexes<a id=53></a>
 
 ###### Article L213-3
 
@@ -6987,7 +7102,7 @@ _Cite_:
   - Code de la consommation 214-2
 
 
-##### Section 3 : Récidive légale<a id=53></a>
+##### Section 3 : Récidive légale<a id=54></a>
 
 ###### Article L213-5
 
@@ -7152,7 +7267,7 @@ _Cite_:
   - Code pénal - art. 131-39 (MMN)
 
 
-#### Chapitre IV : Mesures d'application<a id=54></a>
+#### Chapitre IV : Mesures d'application<a id=55></a>
 
 ###### Article L214-1
 
@@ -7662,24 +7777,23 @@ _Nouveaux textes_:
   - Code de la consommation - art. L412-2 (V)
 
 
-#### Chapitre V : Pouvoirs d'enquête<a id=55></a>
+#### Chapitre V : Pouvoirs d'enquête<a id=56></a>
 
-##### Section 1 : Autorités qualifiées<a id=56></a>
+##### Section 1 : Autorités qualifiées<a id=57></a>
 
 ###### Article L215-1
 
-Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation des infractions aux
-chapitres II à VI :
+I.- - Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation des infractions au
+présent livre :
 
 1° Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes, de la direction
 générale des douanes et de la direction générale des impôts ;
 
-2° Les officiers de police judiciaire, dans les conditions fixées par l'article 16 du code de procédure pénale, et les agents
-de police judiciaire désignés à l'article 20 dudit code ;
+2° Les inspecteurs du travail ;
 
 3° Les vétérinaires inspecteurs, les ingénieurs des travaux agricoles, les techniciens spécialisés des services du ministère
 chargé de l'agriculture, les préposés sanitaires, les agents techniques sanitaires, les ingénieurs et techniciens chargés de
-la protection des végétaux;
+la protection des végétaux ;
 
 4° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de santé publique ;
 
@@ -7698,11 +7812,28 @@ la sécurité de la navigation maritime, les officiers du corps technique et adm
 contrôleurs des affaires maritimes, les syndics des gens de mer, les personnels embarqués d'assistance et de surveillance des
 affaires maritimes, les techniciens du contrôle des établissements de pêche maritime.
 
+10° Les agents mentionnés à l'article L. 1312-1 du code de la santé publique ;
+
+11° Les agents mentionnés à l'article L. 514-13 du code de l'environnement ;
+
+12° Les agents mentionnés à l'article L. 40 du code des postes et télécommunications.
+
+II. - En outre, les officiers et agents de police judiciaire, agissant dans le cadre des dispositions du code de procédure
+pénale, sont compétents pour rechercher et constater les infractions mentionnées au I.
+
 Il sera statué par des décrets en Conseil d'Etat sur les pouvoirs conférés aux autorités qualifiées pour rechercher et
-constater les infractions aux chapitres II à VI en vue de recueillir des éléments d'information auprès des diverses
+constater les infractions aux chapitre II et VI en vue de recueillir des éléments d'information auprès des diverses
 administrations publiques et des entreprises de transports.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des postes et télécommunications L40
+  - Décret-loi 1938-06-14 art. 3
+  - Loi n°1912-02-27 art. 65
+  - Code de la santé publique - art. L1312-1 (M)
+  - Code de l'environnement - art. L514-13 (V)
 
 _Cité par_:
 
@@ -7837,20 +7968,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-574 du 9 juillet 1999 - art. 101 () JORF 10 juillet 1999
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
 
 _Anciens textes_:
 
   - Décret n°1919-01-22 art. 4
   - Décret n°1919-01-22 du 22 janvier 1919 - art. 4 (Ab)
   - Loi n°1905-08-01 art. 11 5°
-
-_Cite_:
-
-  - Décret-loi 1938-06-14 art. 3
-  - Loi n°1912-02-27 art. 65
-  - CODE DE PROCEDURE PENALE - art. 16 (M)
-  - CODE DE PROCEDURE PENALE - art. 20 (M)
 
 
 ###### Article L215-1-1
@@ -7871,17 +7996,23 @@ _Créé par_:
 
 ###### Article L215-2
 
-Dans les lieux énumérés au premier alinéa de l'article L. 213-4 et sur la voie publique, les autorités qualifiées pour
-rechercher et constater les infractions aux chapitres II à VI le sont également pour les infractions aux dispositions
-réglementaires prises en application des articles 258, 259, 262, 275-1, 275-2 et 275-4 du code rural fixant les normes
-sanitaires et qualitatives des denrées animales et d'origine animale mises en vente.
+Dans les lieux mentionnés au premier alinéa de l'article L. 215-3 et sur la voie publique, les autorités qualifiées pour
+rechercher et constater les infractions au présent livre le sont également, dans les conditions prévues au présent livre,
+pour les infractions aux dispositions réglementaires prises en application des articles L. 231-1, L. 231-2, L. 231-5, L.
+236-1, L. 236-2 et L. 236-4 du code rural fixant les normes sanitaires et qualitatives des denrées animales et d'origine
+animale mises en vente.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Code de la consommation - art. L115-20 (MMN)
+  - Code rural et de la pêche maritime - art. L205-1 (VD)
+
 _Cite_:
 
-  - Code rural 258, 259, 262, 275-1, 275-2, 275-4
-  - Code de la consommation - art. L213-4 (M)
+  - Code de la consommation - art. L215-3 (M)
+  - Code rural L231-1, L231-2, L231-5, L236-1, L236-2, L236-4
 
 _Anciens textes_:
 
@@ -7894,27 +8025,26 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 11 () JORF 11 février 1994
-
-_Cité par_:
-
-  - Code de la consommation - art. L115-20 (MMN)
-  - Code rural et de la pêche maritime - art. L205-1 (VD)
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
 
 
-##### Section 2 : Recherche et constatation<a id=57></a>
+##### Section 2 : Recherche et constatation<a id=58></a>
 
 ###### Article L215-3
 
-Pour rechercher et constater les infractions aux chapitres II à VI, les agents peuvent pénétrer de jour dans les lieux et
-véhicules énumérés au premier alinéa de l'article L. 213-4.
+Pour rechercher et constater les infractions au présent livre, les agents peuvent opérer sur la voie publique, pénétrer entre
+8 heures et 20 heures dans les lieux utilisés à des fins professionnelles et dans les lieux d'exécution d'une prestation de
+service, ainsi que procéder au contrôle du chargement des véhicules utilisés aux mêmes fins et de ses conditions de
+conservation.
 
-Ils peuvent également pénétrer de nuit dans ces mêmes lieux lorsque ceux-ci sont ouverts au public ou lorsqu'à l'intérieur de
-ceux-ci sont en cours des activités de production, de fabrication, de transformation, de conditionnement, de transport ou de
-commercialisation.
+Ils peuvent également pénétrer en dehors de ces heures dans ces mêmes lieux lorsque ceux-ci sont ouverts au public ou
+lorsqu'à l'intérieur de ceux-ci sont en cours des activités de production, de fabrication, de transformation, de
+conditionnement, de transport ou de commercialisation.
 
-Lorsque ces lieux sont également à usage d'habitation, ces contrôles ne peuvent être effectués que de jour et avec
-l'autorisation du procureur de la République si l'occupant s'y oppose.
+Lorsque ces lieux sont également à usage d'habitation, ces contrôles ne peuvent être effectués qu'entre 8 heures et 20
+heures, et avec l'autorisation du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel
+sont situés ces lieux si l'occupant s'y oppose.
 
 Les agents peuvent exiger la communication ou procéder à la saisie des documents de toute nature, entre quelques mains qu'ils
 se trouvent, propres à faciliter l'accomplissement de leur mission et la mise à leur disposition des moyens indispensables
@@ -7950,24 +8080,48 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
+_Modifié par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
+
+
+###### Article L215-3-1
+
+Les agents mentionnés à l'article L. 215-1 peuvent se communiquer spontanément les informations et documents détenus ou
+recueillis dans l'exercice de leurs missions respectives en matière de conformité ou de sécurité des produits. 
+
+Sans préjudice des dispositions de l'article 50 du règlement (CE) du 28 janvier 2002 susvisé relatives au système d'alerte
+rapide, ces informations et documents peuvent être communiqués à la Commission des Communautés européennes ou aux autorités
+des autres Etats membres de l'Union européenne compétentes pour contrôler la conformité des produits à l'obligation générale
+de sécurité ou l'application de la réglementation dans le domaine des denrées alimentaires ou des aliments pour animaux, dans
+l'exercice de leurs missions de surveillance du marché.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
 _Créé par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 _Cite_:
 
-  - Code de la consommation - art. L213-4 (M)
+  - Code de la consommation - art. L215-1 (V)
+  - Règlement 178-2002 CE 2002-01-28 art. 50
 
 
 ###### Article L215-4
 
-Il sera statué par des décrets en Conseil d'Etat sur les mesures à prendre en ce qui concerne :
+Il sera statué par des décrets en Conseil d'Etat sur les mesures à prendre en ce qui concerne : 
 
-1° Les formalités prescrites pour opérer dans les lieux énumérés à l'article L. 213-4 des prélèvements d'échantillons et des
-saisies ainsi que pour procéder contradictoirement aux expertises sur les marchandises suspectes ;
+1° Les formalités prescrites pour opérer dans les lieux mentionnés au premier alinéa de l'article L. 215-3 des prélèvements
+d'échantillons et des saisies ainsi que pour procéder contradictoirement aux expertises sur les marchandises suspectes ; 
 
-2° Le choix des méthodes d'analyses destinées à établir la composition, les éléments constitutifs et la teneur en principes
-utiles des produits ou à reconnaître leur falsification.
+2° Le choix des méthodes d'analyses ou essais destinés à établir les propriétés la composition, les éléments constitutifs et
+la teneur en principes utiles des produits ou à reconnaître leur falsification.
 
 **Liens relatifs à cet article**
 
@@ -8000,39 +8154,61 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L213-4 (M)
+  - Code de la consommation - art. L215-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-23 (V)
+  - Code de la consommation - art. L512-39 (V)
+  - Code de la consommation - art. L512-50 (V)
 
 _Anciens textes_:
 
   - Loi n°1905-08-01 art. 11 3° et 4°
 
 
-##### Section 3 : Mesures d'urgence<a id=58></a>
+##### Section 3 : Mesures d'urgence<a id=59></a>
 
 ###### Article L215-5
 
-Sur la voie publique et dans les lieux énumérés au premier alinéa de l'article L. 213-4, les saisies ne pourront être
+Sur la voie publique et dans les lieux mentionnés au premier alinéa de l'article L. 215-3, les saisies ne pourront être
 effectuées sans autorisation judiciaire que dans le cas de flagrant délit de falsification ou lorsqu'elles portent sur :
 
 1° Les produits reconnus falsifiés, corrompus ou toxiques ;
 
-2° Les produits reconnus impropres à la consommation, à l'exception des denrées visées aux articles 258, 259 et 262 du code
-rural dont l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques anormaux ou de
-signes de pathologie lésionnelle ;
+2° Les produits reconnus impropres à la consommation, à l'exception des denrées visées aux articles L. 231-1, L. 231-2 et L.
+231-5 du code rural dont l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques
+anormaux ou de signes de pathologie lésionnelle ;
 
 3° Les produits, objets ou appareils propres à effectuer des falsifications dans les cas prévus aux articles L. 213-3 et L.
 213-4 ;
 
 4° Les produits, objets ou appareils reconnus non conformes aux lois et règlements en vigueur et présentant un danger pour la
 santé ou la sécurité des consommateurs.
+
+Les saisies peuvent être faites à la suite de constatations opérées sur place ou de l'analyse ou de l'essai d'un échantillon
+en laboratoire.
+
+Les agents dressent un procès-verbal de saisie. Les produits saisis sont laissés à la garde de leur détenteur ou, à défaut,
+déposés dans un local désigné par les agents. Ce procès-verbal est transmis dans les 24 heures au procureur de la République.
+
+L'agent peut procéder à la destruction, à la stérilisation ou à la dénaturation des produits mentionnés au 1°. Ces opérations
+sont relatées et justifiées dans le procès-verbal de saisie.
+
+Le non-respect de la mesure de saisie est puni d'un emprisonnement de trois ans et d'une amende de 375 000 euros ou de l'une
+de ces deux peines seulement. En outre, le tribunal pourra ordonner les mesures prévues à l'article L. 216-3.
 
 Il n'est en rien innové quant à la procédure suivie par des administrations fiscales pour la constatation et la poursuite de
 faits constituant à la fois une contravention fiscale et une infraction aux prescriptions des chapitres II à VI et de la loi
@@ -8049,15 +8225,17 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 _Cite_:
 
   - Code de la consommation - art. L213-3 (M)
   - Code de la consommation - art. L213-4 (M)
-  - Code rural 258, 259, 262
+  - Code de la consommation - art. L215-3 (M)
+  - Code de la consommation - art. L216-3 (M)
+  - Code rural L231-1, L231-2, L231-5
   - Loi n°1907-06-29
 
 _Cité par_:
@@ -8066,46 +8244,17 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L644-4 (Ab)
 
 
-###### Article L215-6
-
-Les saisies ne peuvent être faites, en dehors d'une ordonnance du juge d'instruction, que dans le cas de flagrant délit de
-falsification, ou dans le cas où les produits sont reconnus corrompus ou toxiques, à la suite des constations opérées sur
-place ou de l'analyse d'un échantillon en laboratoire. Dans le cas de produits reconnus corrompus ou toxiques, la saisie est
-obligatoire.
-
-Dans ce dernier cas, l'agent peut procéder à leur destruction, à leur stérilisation ou à leur dénaturation. Les opérations
-sont relatées et justifiées dans le procès-verbal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1919-01-22 art. 7 et art. 9 al. 2
-  - Décret n°1919-01-22 du 22 janvier 1919 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
-
-
 ###### Article L215-7
 
-Les autorités qualifiées pour rechercher et constater les infractions aux chapitres II à VI pourront, dans tous les lieux
-énumérés à l'article L. 213-4 et sur la voie publique, consigner, dans l'attente des résultats des contrôles nécessaires :
+Les autorités qualifiées pour rechercher et constater les infractions au présent livre pourront, dans tous les lieux
+mentionnés au premier alinéa de l'article L. 215-3 et sur la voie publique, consigner, dans l'attente des résultats des
+contrôles nécessaires :
 
 1° Les produits susceptibles d'être falsifiés, corrompus ou toxiques ;
 
-2° Les produits susceptibles d'être impropres à la consommation, à l'exception des denrées visées aux articles 258, 259 et
-262 du code rural dont l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques
-anormaux ou de signes de pathologie lésionnelle ;
+2° Les produits susceptibles d'être impropres à la consommation, à l'exception des denrées visées aux articles L. 231-1, L.
+231-2 et L. 231-5 du code rural dont l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères
+organoleptiques anormaux ou de signes de pathologie lésionnelle ;
 
 3° Les produits, objets ou appareils susceptibles d'être non conformes aux lois et règlements en vigueur et de présenter un
 danger pour la santé ou la sécurité des consommateurs.
@@ -8115,17 +8264,20 @@ Les produits, objets ou appareils consignés seront laissés à la garde de leur
 Les autorités habilitées dressent un procès-verbal mentionnant les produits, objets de la consignation. Ce procès-verbal est
 transmis dans les vingt-quatre heures au procureur de la République.
 
-La mesure de consignation ne peut excéder une durée de quinze jours que sur autorisation du procureur de la République.
+La mesure de consignation ne peut excéder une durée de un mois que sur autorisation du procureur de la République.
 
 Mainlevée de la mesure de consignation peut être ordonnée à tout moment par les autorités habilitées ou par le procureur de
 la République.
+
+Le non-respect de la mesure de consignation est puni des peines prévues à l'article L. 213-1.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Code rural 258, 259, 262
-  - Code de la consommation - art. L213-4 (M)
+  - Code de la consommation - art. L213-1 (M)
+  - Code de la consommation - art. L215-3 (M)
+  - Code rural L231-1, L231-2, L231-5
 
 _Anciens textes_:
 
@@ -8136,9 +8288,10 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
 
 
 ###### Article L215-8
@@ -8203,27 +8356,28 @@ _Nouveaux textes_:
   - Code de la consommation - art. L512-37 (V)
 
 
-##### Section 4 : Expertises<a id=59></a>
+##### Section 4 : Expertises<a id=60></a>
 
 ###### Article L215-9
 
-Toutes les expertises nécessitées par l'application des chapitres II à VI seront contradictoires et le prix des échantillons
-reconnus bons sera remboursé d'après leur valeur le jour du prélèvement.
+Les essais et analyses effectués dans le cadre de la recherche et de la constatation des infractions au présent livre sont
+contradictoires et le prix des échantillons dont la non-conformité à la réglementation n'a pas été établie est remboursé
+d'après leur valeur le jour du prélèvement.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°1905-08-01 art. 12
   - Loi n°1905-08-01 du 1 août 1905 - art. 12 (Ab)
+  - Loi n°1905-08-01 art. 12
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 _Cité par_:
 
@@ -8237,32 +8391,32 @@ _Cité par_:
 
 ###### Article L215-10
 
-Le procureur de la République, s'il estime, à la suite soit des procès-verbaux ou des rapports des agents visés aux premier à
-neuvième alinéas de l'article L. 215-1, soit du rapport du laboratoire et, au besoin, après enquête préalable, qu'une
-poursuite doit être engagée ou une information ouverte, saisit, suivant le cas, le tribunal ou le juge d'instruction.
+Le procureur de la République, s'il estime, à la suite soit des procès-verbaux ou des rapports des agents visés à l'article
+L. 215-1, soit du rapport du laboratoire et, au besoin, après enquête préalable, qu'une poursuite doit être engagée ou une
+information ouverte, saisit, suivant le cas, le tribunal ou le juge d'instruction. 
 
 S'il y a lieu à expertise, celle-ci est ordonnée et exécutée selon les prescriptions et dans les formes prévues aux articles
 156 à 169 du code de procédure pénale, sous les réserves ci-après.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1919-01-22 art. 24
-  - Décret n°1919-01-22 du 22 janvier 1919 - art. 24 (Ab)
-
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 _Cite_:
 
-  - Code de la consommation - art. L215-1 (M)
-  - Code de procédure pénale 156 à 169
+  - Code de la consommation - art. L215-1 (V)
+  - Code de procédure pénale - art. 156 (V)
+
+_Anciens textes_:
+
+  - Décret n°1919-01-22 du 22 janvier 1919 - art. 24 (Ab)
+  - Décret n°1919-01-22 art. 24
 
 
 ###### Article L215-11
@@ -8394,29 +8548,29 @@ _Cite_:
 
 Lorsqu'un produit est rapidement altérable ou lorsqu'il s'agit d'un objet ou d'une marchandise qui, en raison de sa valeur,
 de sa nature ou de la trop faible quantité du produit, ne peut, sans inconvénient, faire l'objet d'un prélèvement en trois
-échantillons, la juridiction commet immédiatement les experts, dont celui qui est indiqué par l'intéressé, et prend toutes
-mesures pour que les experts se réunissent d'urgence. L'examen commence à la diligence de l'expert le plus prompt et les
-experts concluent sur les constatations ainsi faites.
+échantillons, le procureur de la République ou la juridiction commet immédiatement les experts, dont celui qui est indiqué
+par l'intéressé, et prend toutes mesures pour que les experts se réunissent d'urgence. L'examen commence à la diligence de
+l'expert le plus prompt et les experts concluent sur les constatations ainsi faites.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1919-01-22 art. 29
-  - Décret n°1919-01-22 du 22 janvier 1919 - art. 29 (Ab)
 
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 _Cité par_:
 
   - Code de la consommation - art. R215-12 (Ab)
   - Code de la consommation - art. R215-13 (Ab)
+
+_Anciens textes_:
+
+  - Décret n°1919-01-22 art. 29
+  - Décret n°1919-01-22 du 22 janvier 1919 - art. 29 (Ab)
 
 
 ###### Article L215-16
@@ -8487,115 +8641,11 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 157 (M)
 
 
-##### Section 5 : Dispositions relatives à la conformité et au marquage communautaires.<a id=60></a>
-
-###### Article L215-18
-
-I. - Lors des contrôles effectués dans les limites de leur compétence et dans les lieux où ils exercent les contrôles que
-leur confie la loi, les agents mentionnés à l'article L. 215-1 ci-dessus et à l'article L. 40 du code des postes et
-télécommunications peuvent consigner et exiger la mise en conformité :
-
-1° Des marchandises soumises à une obligation communautaire de marquage C.E. et dépourvues de ce marquage ;
-
-2° Des marchandises qui, bien que portant le marquage C.E., sont cependant manifestement non conformes à la réglementation du
-marquage qui leur est applicable ;
-
-3° Des marchandises qui, bien que munies d'une déclaration C.E. de conformité ou d'aptitude à l'emploi présumant de leur
-conformité ou d'aptitude à l'emploi présumant de leur conformité aux exigences essentiellement en vertu de la réglementation
-les concernant, sont cependant non conformes à celles-ci.
-
-Le procureur de la République est informé sans délai par les agents de contrôle de la mesure de consignation.
-
-Ces opérations sont constatées par procès-verbal mentionnant les marchandises objet de la mesure de consignation. Ces procès-
-verbaux sont transmis au procureur de la République dans les vingt-quatre heures. Une copie est remise à l'intéressé dans les
-mêmes délais.
-
-Les marchandises consignées sont laissées à la garde de leur détenteur. La commercialisation des marchandises malgré la
-mesure de consignation sera punie des peines prévues aux articles 314-5 et 314-6 du code pénal [*sanctions*].
-
-Cette mesure est également applicable lorsque les documents justificatifs exigés par les textes relatifs au marquage C.E. ne
-peuvent pas être présentés aux agents à l'issue d'un délai de quinze jours après qu'ils en ont formulé la demande.
-
-II. - La mesure de consignation est levée de plein droit :
-
-a) Soit en cas de présentation aux agents des documents justificatifs exigés par les textes relatifs au marquage C.E. propres
-à justifier de la conformité annoncée ;
-
-b) Soit en cas de mise en conformité des marchandises au regard des textes relatifs au marquage C.E. ;
-
-c) Soit à défaut de saisine, par l'administration, par le responsable de la mise sur le marché ou par le propriétaire des
-marchandises consignées, dans les sept jours ouvrables de la date du procès-verbal de consignation, du président du tribunal
-de grande instance dans le ressort duquel sont situés les lieux de détention des marchandises consignées.
-
-III. - Le président du tribunal, ou le magistrat du siège qu'il délègue à cet effet, statuant en la forme des référés, peut
-soit prononcer la mainlevée de la mesure de consignation, soit en cantonner les effets, soit ordonner la consignation jusqu'à
-mise en conformité dans le délai qu'il fixe, soit, si les marchandises ne peuvent être mises en conformité, en interdire la
-mise sur le marché.
-
-En cas de difficultés particulières liées à la mise en conformité de la marchandise, le président du tribunal de grande
-instance, ou le magistrat du siège délégué à cet effet, peut renouveler la mesure par ordonnance motivée.
-
-Si la mise en conformité des marchandises n'est pas réalisée dans le délai fixé, le président du tribunal de grande instance,
-ou le magistrat du siège délégué à cet effet, peut en interdire la mise sur le marché.
-
-La commercialisation des marchandises malgré la mesure de consignation ou d'interdiction de mise sur le marché sera punie des
-peines prévues aux articles 314-5 et 314-6 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°89-662 du 12 septembre 1989 - art. 7 (VT)
-  - Décret n°91-330 du 27 mars 1991 - art. 6 (Ab)
-  - Décret n°95-1081 du 3 octobre 1995 - art. 10 (VT)
-  - Décret n°98-257 du 31 mars 1998 - art. 7 (Ab)
-  - Décret n°2000-810 du 24 août 2000 - art. 10 (Ab)
-  - Décret n°2000-810 du 24 août 2000 - art. 11 (Ab)
-  - Décret n°2001-1131 du 28 novembre 2001 - art. 6 (Ab)
-  - Code de l'environnement - art. R226-11 (M)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Modifié par_:
-
-  - Loi n°2001-43 du 16 janvier 2001 - art. 26 () JORF 17 janvier 2001
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
-
-_Cite_:
-
-  - Code de la consommation - art. L215-1 (M)
-  - Code des postes et télécommunications L40
-  - Code pénal - art. 314-5 (M)
-  - Code pénal - art. 314-6 (M)
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. L512-51 (V)
-  - Code de la consommation - art. L512-53 (V)
-  - Code de la consommation - art. L512-54 (V)
-  - Code de la consommation - art. L512-55 (V)
-  - Code de la consommation - art. L512-56 (V)
-  - Code de la consommation - art. L512-57 (V)
-  - Code de la consommation - art. L512-58 (V)
-  - Code de la consommation - art. L512-59 (V)
-  - Code de la consommation - art. L512-60 (V)
-  - Code de la consommation - art. L512-61 (V)
-  - Code de la consommation - art. L512-62 (V)
-  - Code de la consommation - art. L512-63 (V)
-  - Code de la consommation - art. L512-64 (V)
-  - Code de la consommation - art. L512-65 (V)
-
-
 #### Chapitre VI : Dispositions communes<a id=61></a>
 
 ###### Article L216-1
 
-Les chapitres II à VI sont applicables aux prestations de services.
+Le présent livre est applicable aux prestations de services.
 
 **Liens relatifs à cet article**
 
@@ -8608,13 +8658,17 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 _Cité par_:
 
   - Loi n°94-665 du 4 août 1994 - art. 16 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
 ###### Article L216-2
@@ -8756,13 +8810,11 @@ _Cite_:
 
 ###### Article L216-5
 
-Les condamnés auront à acquitter, en dehors des frais ordinaires au profit de l'Etat, des départements et des communes, les
-frais de procès-verbaux, de prélèvements et d'analyses engagés pour la recherche et la constatation des infractions.
+Les personnes reconnues coupables des infractions au présent livre et aux textes pris pour son application remboursent, à la
+demande de l'autorité administrative, les frais de prélèvements, de transport, d'analyses ou d'essais exposés pour la
+recherche et la constatation de ces infractions.
 
-Le chiffre des remboursements de frais ainsi prévus est fixé par décret en Conseil d'Etat.
-
-La détermination et le remboursement de ces frais s'opéreront à la demande de la direction générale de la concurrence, de la
-consommation et de la répression des fraudes, dans les conditions fixées par les décrets prévus à l'article L. 214-1.
+Les modalités d'application du présent article sont fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -8777,15 +8829,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 2 () JORF 10 juillet 2004
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la consommation - art. L214-1 (M)
+  - Loi n°2014-344 du 17 mars 2014 - art. 100
 
 
 ###### Article L216-6
@@ -8816,9 +8868,9 @@ _Abrogé par_:
 
 ###### Article L216-7
 
-La suspension de commercialisation des marchandises qui ont donné lieu à des poursuites pour infraction aux dispositions des
-chapitres II à VI et des textes pris pour leur application peut être ordonnée par le juge d'instruction ou le tribunal saisi
-des poursuites.
+La suspension de commercialisation des marchandises qui ont donné lieu à des poursuites pour infraction aux dispositions du
+présent livre et des textes pris pour leur application peut être ordonnée par le juge d'instruction ou le tribunal saisi des
+poursuites.
 
 La mesure est exécutoire nonobstant appel. Mainlevée peut en être donnée par la juridiction qui l'a ordonnée ou qui est
 saisie du dossier. La mesure cesse d'avoir effet en cas de décision de non-lieu ou de relaxe.
@@ -8845,7 +8897,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-516 du 15 juin 2000 - art. 83 () JORF 16 juin 2000
+  - Ordonnance 2004-670 2004-07-09 art. 6 4° JORF 10 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L455-1 (V)
 
 
 ###### Article L216-8
@@ -8939,6 +8999,35 @@ _Créé par_:
 _Abrogé par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+###### Article L216-10
+
+Les dispositions de l'article 11 du code de procédure pénale ou celles relatives au secret professionnel ne font pas obstacle
+à la divulgation d'informations en vue de prévenir un danger grave ou immédiat pour la santé ou la sécurité des
+consommateurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Créé par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 2 () JORF 10 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-22 (V)
+
+_Cite_:
+
+  - Code de procédure pénale - art. 11
 
 
 #### Chapitre VII : Dispositions particulières<a id=62></a>
@@ -9236,10 +9325,9 @@ _Abrogé par_:
 
 ###### Article L217-10
 
-Quiconque aura mis les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes
-dans l'impossibilité d'accomplir leurs fonctions, soit en leur refusant l'entrée de leurs locaux de fabrication, de dépôt ou
-de vente, soit de toute autre manière, sera passible des peines prévues par les articles L. 213-1, L. 213-5 et L. 216-3 du
-présent code, sans préjudice des peines prévues aux articles 433-6 à 433-10 du code pénal.
+Quiconque aura fait obstacle à l'exercice des fonctions des agents de la direction générale de la concurrence, de la
+consommation et de la répression des fraudes sera passible des peines prévues par les articles L. 213-1 et L. 216-3 du
+présent code, sans préjudice des peines prévues en cas de rébellion par les articles 433-6 à 433-10 du code pénal.
 
 Les dispositions de l'article L. 216-4 sont applicables aux infractions visées au présent article.
 
@@ -9273,31 +9361,36 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°93-949 du 26 juillet 1993 - art. 7 () JORF 27 juillet 1993 en vigueur le 1er mars 1994
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 3 () JORF 10 juillet 2004
 
 _Cite_:
 
   - Code de la consommation - art. L213-1 (M)
-  - Code de la consommation - art. L213-5 (M)
   - Code de la consommation - art. L216-3 (M)
   - Code de la consommation - art. L216-4 (V)
   - Code pénal 433-6 à 433-10
 
 
-#### Chapitre VIII : Prévention en matière d'alimentation humaine et animale<a id=63></a>
+#### Chapitre VIII : Mesures de police administrative<a id=63></a>
 
-##### Section 1 : Dispositions générales.<a id=64></a>
+##### Section 1 : Dispositions générales<a id=64></a>
+
+##### Sous-section 1 : Recueil d'information.<a id=65></a>
 
 ###### Article L218-1
 
-Le présent chapitre s'applique aux denrées destinées à l'alimentation humaine ou animale, ainsi qu'aux matières premières,
-ingrédients, auxiliaires technologiques et autres produits mis en oeuvre pour la préparation et la production des denrées,
-aux matériaux et objets destinés à entrer en contact avec les denrées, aux produits de nettoyage et d'entretien et aux
-pesticides.
+Les agents mentionnés à l'article L. 215-1 peuvent pénétrer dans les lieux utilisés à des fins professionnelles et dans les
+lieux d'exécution d'une prestation de service, en présence de l'occupant des lieux ou de son représentant, pour y prélever
+des échantillons et recueillir auprès du professionnel, qui est tenu de les fournir, tous les éléments d'information
+permettant de déterminer les caractéristiques des produits ou des services ou d'apprécier le caractère dangereux ou non d'un
+produit ou d'un service. 
 
-Les contrôles opérés au titre du présent chapitre par les agents mentionnés à l'article L. 215-1 ont pour but de prévenir les
-risques pour la santé publique, d'assurer la loyauté des transactions commerciales ou de protéger les intérêts des
-consommateurs.
+Les agents mentionnés au I de l'article L. 215-1 peuvent pénétrer dans ces lieux entre 8 heures et 20 heures et, en dehors de
+ces heures, lorsque sont en cours à l'intérieur des activités de production, de fabrication, de transformation, de
+conditionnement, de transport ou de commercialisation. 
+
+Lorsque ces lieux sont à la fois à usage professionnel et à usage d'habitation, ces contrôles ne peuvent être effectués que
+de 8 heures à 20 heures et avec l'autorisation du juge des libertés et de la détention si l'occupant s'y oppose.
 
 **Liens relatifs à cet article**
 
@@ -9305,13 +9398,13 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
 
 _Cite_:
 
-  - Code de la consommation - art. L215-1 (M)
+  - Code de la consommation - art. L215-1 (V)
 
 _Cité par_:
 
@@ -9321,22 +9414,12 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L230-5 (V)
 
 
+##### Sous-section 2 : Mesures relatives aux établissements et aux produits.<a id=66></a>
+
 ###### Article L218-2
 
-Les agents mentionnés à l'article L. 215-1 peuvent pénétrer dans les lieux énumérés au premier alinéa de l'article L. 213-4,
-en présence de l'occupant des lieux ou de son représentant, y prélever des échantillons et recueillir auprès du professionnel
-concerné, qui est tenu de les fournir, tous les éléments d'information permettant de déterminer les caractéristiques des
-produits.
-
-Ils peuvent pénétrer dans ces lieux entre 8 heures et 20 heures et, en dehors de ces heures, lorsque sont en cours à
-l'intérieur des activités de production, de fabrication, de transformation, de conditionnement, de transport ou de
-commercialisation.
-
-Lorsque ces lieux sont à usage mixte, la visite de la partie des locaux affectés à l'habitation ne peut être faite qu'entre 8
-heures et 20 heures et sur autorisation du président du tribunal de grande instance ou du magistrat qu'il délègue à cet
-effet, qui vérifie que la demande d'autorisation qui lui est soumise comporte tous les éléments d'information de nature à
-justifier la visite. Le juge peut se rendre sur les lieux pendant la visite dont il peut, à tout moment, décider la
-suppression ou l'arrêt.
+Les mesures prévues à la présente sous-section sont mises en oeuvre par les agents mentionnés à l'article L. 215-1 ou prises
+par le préfet ou, à Paris, le préfet de police dans les conditions prévues par les lois qui les habilitent.
 
 **Liens relatifs à cet article**
 
@@ -9344,25 +9427,24 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
 
 _Cite_:
 
-  - Code de la consommation - art. L215-1 (M)
-  - Code de la consommation L215-1, L213-4 al. 1
+  - Code de la consommation - art. L215-1 (V)
 
 
 ###### Article L218-3
 
-Lorsque du fait d'un manquement à la réglementation prise pour l'application de l'article L. 214-1 du présent code ou d'un
-règlement de la Communauté européenne contenant des dispositions entrant dans le champ d'application des chapitres II à VI,
-un établissement présente ou est susceptible de présenter une menace pour la santé publique, les agents mentionnés à
-l'article L. 215-1 peuvent ordonner la réalisation de travaux, d'opérations de nettoyage, d'action de formation du personnel
-et d'autres mesures correctives, ainsi que le renforcement des auto-contrôles. En cas de nécessité, l'autorité administrative
-peut prononcer, sur proposition de ces agents, la fermeture de tout ou partie de l'établissement ou l'arrêt de plusieurs de
-ses activités.
+Lorsque du fait d'un manquement à la réglementation prise pour l'application des dispositions du présent livre ou d'un
+règlement de la Communauté européenne, les conditions de fonctionnement d'un établissement sont telles que les produits
+fabriqués, détenus ou mis sur le marché présentent ou sont susceptibles de présenter un danger pour la santé publique ou la
+sécurité des consommateurs, les agents mentionnés à l'article L. 215-1 peuvent ordonner toutes mesures correctives, notamment
+le renforcement des auto-contrôles, des actions de formation du personnel, la réalisation de travaux ou d'opérations de
+nettoyage. En cas de nécessité, le préfet ou, à Paris, le préfet de police peut prononcer la fermeture de tout ou partie de
+l'établissement ou l'arrêt d'une ou de plusieurs de ses activités.
 
 **Liens relatifs à cet article**
 
@@ -9370,29 +9452,32 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
 
 _Cite_:
 
-  - Code de la consommation - art. L214-1 (M)
-  - Code de la consommation - art. L215-1 (M)
+  - Code de la consommation - art. L215-1 (V)
 
 
 ###### Article L218-4
 
-S'il est établi qu'après son départ de l'établissement d'origine un lot de produits présente ou est susceptible de présenter,
-compte tenu de ses conditions communes de production ou de commercialisation, un danger pour la santé publique, l'autorité
-administrative, sur proposition d'un des agents mentionnés à l'article L. 215-1, en ordonne la consignation ou le rappel en
-un ou plusieurs lieux pour en permettre le contrôle.
+S'il est établi qu'un lot de produits présente ou est susceptible de présenter, compte tenu de leurs conditions communes de
+production ou de commercialisation, un danger pour la santé publique ou la sécurité des consommateurs, le préfet ou, à Paris,
+le préfet de police peut ordonner une ou plusieurs des mesures suivantes : la suspension de la mise sur le marché, le
+retrait, le rappel et la destruction.
 
-Toute personne ayant acquis ou cédé un ou plusieurs éléments du lot et ayant connaissance de la décision de consignation ou
-de rappel est tenue d'en informer celui qui a fourni la marchandise et ceux à qui elle l'a cédée.
+Toutefois, l'opérateur peut apporter la preuve qu'une partie des produits du lot ne présente pas de danger pour la santé
+publique ou la sécurité des consommateurs et peut, dans ce cas, être remise sur le marché. Les frais y afférents restent à la
+charge de l'opérateur.
 
-Les frais résultant de la décision de consignation ou de rappel, notamment les frais de transport, de stockage, d'analyse et
-de destruction, sont à la charge de l'opérateur concerné sans préjudice de la mise en cause de la responsabilité du
-fournisseur.
+L'arrêté du préfet précise les conditions dans lesquelles les frais résultant des mesures prescrites, notamment les frais de
+transport, de stockage et de destruction sont mis à la charge de l'opérateur.
+
+Tout opérateur ayant acquis ou cédé un ou plusieurs éléments du lot et ayant connaissance de la décision de suspension de
+mise sur le marché, de retrait ou de rappel est tenu d'en informer celui qui a fourni les produits et ceux à qui il les a
+cédés.
 
 **Liens relatifs à cet article**
 
@@ -9400,27 +9485,19 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
-
-_Cite_:
-
-  - Code de la consommation - art. L215-1 (M)
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
 
 
 ###### Article L218-5
 
-Lorsqu'à l'occasion des contrôles pratiqués dans l'exercice de leurs missions, les agents mentionnés à l'article L. 215-1
-constatent qu'un lot n'est pas conforme à la réglementation en vigueur, ces agents peuvent en ordonner la mise en conformité,
-notamment la décontamination ou tout autre traitement dans un délai qu'ils fixent. Si la mise en conformité n'est pas
-possible, l'autorité administrative, sur proposition de ces agents, peut ordonner l'utilisation à d'autres fins, la
-réexpédition vers le pays d'origine ou la destruction des marchandises dans un délai qu'il fixe.
+Lorsque les agents mentionnés à l'article L. 215-1 constatent qu'un lot n'est pas conforme à la réglementation en vigueur,
+ces agents peuvent en ordonner la mise en conformité, dans un délai qu'ils fixent. Si la mise en conformité n'est pas
+possible, le préfet ou, à Paris, le préfet de police peut ordonner l'utilisation à d'autres fins, la réexpédition vers le
+pays d'origine ou la destruction des marchandises dans un délai qu'il fixe. 
 
-Ces opérations sont constatées par procès-verbal.
-
-Préalablement à l'exécution de ces mesures, l'intéressé est mis à même de présenter ses observations. Ces mesures sont à la
-charge du responsable de la mise sur le marché ou du distributeur.
+Les frais résultant de la mise en oeuvre de ces mesures sont à la charge de l'opérateur.
 
 **Liens relatifs à cet article**
 
@@ -9428,16 +9505,16 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
 
 _Cite_:
 
-  - Code de la consommation - art. L215-1 (M)
+  - Code de la consommation - art. L215-1 (V)
 
 
-##### Section 2 : Etablissements traitant des produits par ionisation<a id=65></a>
+##### Section 2 : Etablissements traitant des produits par ionisation<a id=67></a>
 
 ###### Article L218-6
 
@@ -9453,17 +9530,25 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
-
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
-
 _Cité par_:
 
   - Arrêté du 8 janvier 2002 - art. 1 (V)
-  - Code de la consommation - art. L218-7 (V)
+  - Code de la consommation - art. L218-7 (VT)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L414-1 (V)
 
 
-##### Section 3 : Dispositions pénales.<a id=66></a>
+##### Section 3 : Dispositions pénales.<a id=68></a>
 
 ###### Article L218-7
 
@@ -9484,9 +9569,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2001-741 du 23 août 2001 - art. 17 () JORF 25 août 2001
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
 
 _Cite_:
 
@@ -9496,9 +9581,9 @@ _Cite_:
   - Code pénal - art. 131-38 (M)
 
 
-### Titre II : Sécurité<a id=67></a>
+### Titre II : Sécurité<a id=69></a>
 
-#### Chapitre Ier : Prévention<a id=68></a>
+#### Chapitre Ier : Prévention<a id=70></a>
 
 ###### Article L221-1
 
@@ -9535,6 +9620,102 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+
+###### Article L221-1-1
+
+Les dispositions du présent chapitre ne s'appliquent pas aux antiquités et aux produits d'occasion nécessitant une réparation
+ou une remise en état préalablement à leur utilisation lorsque le fournisseur informe la personne à laquelle il fournit le
+produit de la nécessité de cette réparation ou de cette remise en état.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Créé par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L421-2 (V)
+
+
+###### Article L221-1-2
+
+I. - Le responsable de la mise sur le marché fournit au consommateur les informations utiles qui lui permettent d'évaluer les
+risques inhérents à un produit pendant sa durée d'utilisation normale ou raisonnablement prévisible et de s'en prémunir,
+lorsque ces risques ne sont pas immédiatement perceptibles par le consommateur sans un avertissement adéquat.
+
+II. - Le responsable de la mise sur le marché adopte les mesures qui, compte tenu des caractéristiques des produits qu'il
+fournit, lui permettent :
+
+a) De se tenir informé des risques que les produits qu'il commercialise peuvent présenter ;
+
+b) D'engager les actions nécessaires pour maîtriser ces risques, y compris le retrait du marché, la mise en garde adéquate et
+efficace des consommateurs ainsi que le rappel auprès des consommateurs des produits mis sur le marché.
+
+Ces mesures peuvent notamment consister en la réalisation d'essais par sondage ou en l'indication sur le produit ou son
+emballage d'un mode d'emploi, de l'identité et de l'adresse du responsable de la mise sur le marché, de la référence du
+produit ou du lot de produits auquel il appartient. Ces indications peuvent être rendues obligatoires par arrêté du ministre
+chargé de la consommation et du ou des ministres intéressés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+
+_Cité par_:
+
+  - Code de la consommation - art. L218-5-3 (VT)
+
+
+###### Article L221-1-3
+
+Lorsqu'un professionnel sait que des produits destinés aux consommateurs qu'il a mis sur le marché ne répondent pas aux
+exigences de l'article L. 221-1, il en informe immédiatement les autorités administratives compétentes, en indiquant les
+actions qu'il engage afin de prévenir les risques pour les consommateurs.
+
+Les modalités de cette information sont définies par arrêté du ministre chargé de la consommation et des ministres
+intéressés. Le professionnel ne peut s'exonérer de son obligation en soutenant n'avoir pas eu connaissance des risques qu'il
+ne pouvait raisonnablement ignorer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+
+_Cité par_:
+
+  - Décret n°2015-1083 du 27 août 2015 - art. 4 (VD)
+  - Décret n°2015-1083 du 27 août 2015 - art. 6 (VD)
+  - Décret n°2015-1083 du 27 août 2015 - art. 7 (VD)
+  - Décret n°2017-885 du 9 mai 2017 - art. 2
+  - Code de la consommation - art. L221-1-2 (VT)
+  - Code de la consommation - art. R223-6 (Ab)
+  - Code de la santé publique - art. L1323-2 (VT)
+  - Code de la santé publique - art. L513-10-8 (V)
+  - Code de la santé publique - art. L5131-9 (Ab)
+  - Code de la santé publique - art. R1323-4 (M)
+  - Code de la santé publique - art. R513-10-10 (V)
+  - Code de la santé publique - art. R513-10-8 (V)
+  - Code rural et de la pêche maritime - art. R231-1 (V)
 
 
 ###### Article L221-2
@@ -9585,7 +9766,7 @@ conditionnement, la circulation des produits ou le mode d'utilisation de ces pro
 2° Déterminent les conditions d'hygiène et de salubrité que doivent observer les personnes qui participent à la fabrication,
 à la transformation, au transport, à l'entreposage, à la vente des produits ou qui assurent des prestations de services ;
 
-3° Peuvent ordonner que ces produits soient retirés du marché ou repris en vue de leur modification, de leur remboursement
+3° Peuvent ordonner que ces produits soient retirés du marché ou rappelés en vue de leur modification, de leur remboursement
 total ou partiel ou de leur échange, et prévoir des obligations relatives à l'information des consommateurs. Ils peuvent
 également ordonner la destruction de ces produits lorsque celle-ci constitue le seul moyen de faire cesser le danger ;
 
@@ -9603,10 +9784,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
 
 _Cité par_:
 
@@ -9628,6 +9805,10 @@ _Cité par_:
   - TXT_SOURCE: Décret n°99-240 du 24 mars 1999 - art. 3 (V)
   - TXT_SOURCE: Décret n°99-240 du 24 mars 1999 - art. 4 (V)
   - TXT_SOURCE: Décret n°99-240 du 24 mars 1999 - art. 5 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
 
 _Cite_:
 
@@ -9670,7 +9851,7 @@ En cas de danger grave ou immédiat, le ministre chargé de la consommation et l
 par arrêté conjoint, pour une durée n'excédant pas un an, la fabrication, l'importation, l'exportation, la mise sur le marché
 à titre gratuit ou onéreux d'un produit et faire procéder à son retrait en tous lieux où il se trouve ou à sa destruction
 lorsque celle-ci constitue le seul moyen de faire cesser le danger. Ils ont également la possibilité d'ordonner la diffusion
-de mises en garde ou de précautions d'emploi ainsi que la reprise en vue d'un échange ou d'une modification ou d'un
+de mises en garde ou de précautions d'emploi ainsi que le rappel en vue d'un échange ou d'une modification ou d'un
 remboursement total ou partiel.
 
 Ils peuvent, dans les mêmes conditions, suspendre la prestation d'un service.
@@ -9680,12 +9861,14 @@ vigueur.
 
 Le ministre chargé de la consommation et, selon le cas, le ou les ministres intéressés entendent sans délai les
 professionnels concernés et au plus tard quinze jours après qu'une décision de suspension a été prise. Ils entendent
-également des représentants du comité d'hygiène, de sécurité et des conditions de travail, du comité d'entreprise ou, à
-défaut, les délégués du personnel de l'entreprise intéressée, ainsi que les associations nationales de consommateurs agréées.
+également les associations nationales de consommateurs agréées.
 
 Ces arrêtés préciseront les conditions selon lesquelles seront mis à la charge des fabricants, importateurs, distributeurs ou
 prestataires de services les frais afférents aux dispositions de sécurité à prendre en application des dispositions du
 présent article.
+
+Ces arrêtés peuvent être reconduits, selon la même procédure, pour des périodes supplémentaires dont chacune ne dépasse pas
+un an.
 
 **Liens relatifs à cet article**
 
@@ -9698,10 +9881,6 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 10 mai 1995
@@ -9710,16 +9889,28 @@ _Créé par_:
   - TXT_SOURCE: Arrêté du 10 mai 1995 - art. 3 (V)
   - TXT_SOURCE: Arrêté du 10 mai 1995 - art. 4 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
+
 _Cité par_:
 
   - Arrêté du 21 août 2008 (V)
   - Arrêté du 28 août 2009 (V)
   - Code de la consommation - art. L221-10 (VT)
-  - Code de la consommation - art. L221-11 (V)
+  - Code de la consommation - art. L221-11 (VT)
   - Code de la consommation - art. L221-8 (VT)
   - Code de la consommation - art. L224-2 (T)
   - Code de la consommation - art. R223-1 (Ab)
   - Code de la sécurité sociale. - art. R165-4-1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L521-17 (V)
 
 
 ###### Article L221-6
@@ -9731,14 +9922,11 @@ consommation avec son avis motivé.
 
 En cas de danger grave ou immédiat, le représentant de l'Etat dans le département prend les mesures d'urgence qui s'imposent.
 Il en réfère aussitôt au ministre intéressé et au ministre chargé de la consommation, qui se prononcent, par arrêté conjoint,
-dans un délai de quinze jours. Il peut, dans l'attente de la décision ministérielle, faire procéder à la consignation, dans
-tous les lieux énumérés à l'article L. 213-4, des produits susceptibles de présenter un danger pour la santé ou la sécurité
-des personnes. Les produits consignés sont laissés à la garde de leur détenteur après inventaire. Il peut, dans les mêmes
-conditions, suspendre la prestation d'un service.
+dans un délai de quinze jours. Il peut, dans l'attente de la décision ministérielle, suspendre la prestation d'un service.
 
-Pour les produits entrant dans le champ de compétence de l' Agence française de sécurité sanitaire des aliments, les
-résultats des investigations et les propositions mentionnées au premier alinéa sont transmis, dans les mêmes conditions, au
-directeur général de l'agence.
+Pour les produits entrant dans le champ de compétence de l'Agence française de sécurité sanitaire des aliments, les résultats
+des investigations et les propositions mentionnées au premier alinéa sont transmis, dans les mêmes conditions, au directeur
+général de l'agence.
 
 **Liens relatifs à cet article**
 
@@ -9752,15 +9940,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-535 1998-07-01 art. 11 3° JORF 2 juillet 1998 en vigueur au plus tard le 31 juillet 1998
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 29 al. 2 (mesures d'entrée en vigueur pour les dispositions concernant l'Agence française de sécurité sanitaire des produits de santé)
-
-_Cite_:
-
-  - Code de la consommation - art. L213-4 (M)
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
 
 _Cité par_:
 
@@ -9773,21 +9953,18 @@ _Cité par_:
 
 Le ministre chargé de la consommation ou le ou les ministres intéressés peuvent adresser aux fabricants, importateurs,
 distributeurs ou prestataires de services des mises en garde et leur demander de mettre les produits ou services qu'ils
-offrent au public en conformité avec les règles de sécurité.
+offrent au public en conformité avec les règles de sécurité et de les soumettre ensuite au contrôle, dans un délai déterminé
+et à leurs frais, d'un organisme présentant des garanties d'indépendance, de compétence et d'impartialité figurant sur une
+liste fixée par arrêté ministériel ou, à défaut, désigné par le ou les ministres intéressés.
 
-Ils peuvent prescrire aux professionnels concernés de soumettre au contrôle d'un organisme habilité, dans un délai déterminé
-et à leurs frais, leurs produits ou services offerts au public quand, pour un produit ou un service déjà commercialisé, il
-existe des indices suffisants d'un danger ou quand les caractéristiques d'un produit ou service nouveau justifient cette
-précaution.
-
-Un décret en Conseil d'Etat précisera les conditions de remboursement, le cas échéant, des sommes exposées par le
-professionnel à l'occasion de ces contrôles.
+Lorsque pour un produit ou un service déjà commercialisé, il existe des indices suffisants d'un danger ou quand les
+caractéristiques d'un produit ou service nouveau justifient cette précaution, ils peuvent prescrire aux professionnels
+concernés de soumettre, dans un délai déterminé et à leurs frais, les produits ou services qu'ils offrent au public au
+contrôle d'un organisme présentant des garanties d'indépendance, de compétence et d'impartialité désigné par le ou les
+ministres.
 
 Lorsqu'un produit ou service n'a pas été soumis au contrôle prescrit en application du présent article, il est réputé ne pas
 répondre aux exigences de l'article L. 221-1, sauf si la preuve contraire en est rapportée.
-
-La liste des organismes scientifiques ou techniques habilités à effectuer ces contrôles est fixée par décret. Elle est
-actualisée tous les deux ans.
 
 **Liens relatifs à cet article**
 
@@ -9800,9 +9977,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
 
 _Cité par_:
 
@@ -9810,10 +9987,6 @@ _Cité par_:
   - Code de la consommation - art. L224-2 (T)
   - Code de la consommation - art. L224-4 (Ab)
   - Code de la consommation - art. R*221-1 (Ab)
-
-_Cite_:
-
-  - Code de la consommation - art. L221-1 (V)
 
 
 ###### Article L221-8
@@ -9921,202 +10094,25 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R261-1 (Ab)
 
 
-#### Chapitre II : Habilitations et pouvoirs des agents.<a id=69></a>
+###### Article L221-11
 
-###### Article L222-1
-
-Sont qualifiés pour procéder au contrôle des produits et services dans les conditions prévues aux articles L. 221-6 et L.
-222-2 :
-
-1° Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes ;
-
-2° Les agents de la sous-direction de la métrologie au ministère chargé de l'industrie, ainsi que ceux des directions
-régionales de l'industrie, de la recherche et de l'environnement ;
-
-3° Les agents de la direction générale des douanes et des droits indirects ;
-
-4° Les agents de la direction générale de l'alimentation du ministère de l'agriculture (service de la qualité alimentaire et
-des actions vétérinaires et service des politiques industrielles agro-alimentaires) ;
-
-5° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de santé publique et les agents visés à
-l'article L. 48 du code de la santé publique ;
-
-6° Les inspecteurs du travail ;
-
-7° Les agents mentionnés à l'article 22 de la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la
-protection de l'environnement ;
-
-8° Les services de police et de gendarmerie.
+Les décisions de la Commission européenne qui contiennent des dispositions qui entrent dans le champ d'application du présent
+titre, prises en application de l'article 53 du règlement (CE) n° 178/2002 du 28 janvier 2002 modifié, sont assimilées quant
+à leurs effets à des mesures d'exécution de l'article L. 221-5.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 5 () JORF 10 juillet 2004
 
 _Cité par_:
 
-  - Décret n°81-1238 du 30 décembre 1981 - art. 6 (V)
-  - Décret n°96-333 du 10 avril 1996 - art. 3 (V)
-  - Décret n°96-495 du 4 juin 1996 - art. 4 (Ab)
-  - Décret n°96-495 du 4 juin 1996 - art. 7 (Ab)
-  - Décret n°96-1136 du 18 décembre 1996 - art. Annexe (V)
-  - Décret n°97-106 du 3 février 1997 - art. 8 (VT)
-  - Décret n°99-777 du 9 septembre 1999 - art. 4 (V)
-  - Décret n°2001-129 du 8 février 2001 - art. 7 (M)
-  - Code de la consommation - art. R224-4 (VT)
-
-_Anciens textes_:
-
-  - Loi n°83-660 1983-07-21 art. 4
-  - Loi n°83-660 du 21 juillet 1983 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Modifié par_:
-
-  - Loi n°98-535 du 1 juillet 1998 - art. 26 () JORF 2 juillet 1998
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
-
-
-###### Article L222-2
-
-Les agents mentionnés à l'article L. 222-1 peuvent pénétrer de jour dans les lieux désignés à l'article L. 213-4, y prélever
-des échantillons et recueillir auprès du professionnel concerné, qui est tenu de les fournir, tous les éléments d'information
-permettant d'apprécier le caractère dangereux ou non du produit ou du service. Ils ont les mêmes pouvoirs d'investigation sur
-la voie publique.
-
-Ils disposent également des pouvoirs institués par les alinéas 2 et 3 de l'article L. 215-3.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-660 du 21 juillet 1983 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
-
-_Cité par_:
-
-  - Code de la consommation - art. L222-1 (M)
-
-
-###### Article L222-3
-
-Les agents des services de police et de gendarmerie qui ont la qualité d'officier ou d'agent de police judiciaire, et les
-autres agents mentionnés à l'article L. 222-1, sont qualifiés pour procéder à la recherche et à la constatation des
-infractions aux textes pris en application des dispositions du présent titre. Ils disposent à cet égard des pouvoirs prévus
-par les chapitres II à VI du titre Ier du présent livre et leurs textes d'application.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-660 du 21 juillet 1983 - art. 12 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
-
-
-#### Chapitre III : Sanctions.<a id=70></a>
-
-###### Article L223-1
-
-Le tribunal qui prononce une condamnation pour une infraction aux textes pris en application des dispositions du présent
-titre peut ordonner aux frais du condamné :
-
-1° La publication de la décision de condamnation et la diffusion d'un ou plusieurs messages, dans les conditions et sous les
-peines prévues à l'article L. 121-4 informant le public de cette décision ;
-
-2° Le retrait ou la destruction des produits sur lesquels a porté l'infraction et, dans les mêmes conditions, l'interdiction
-de la prestation de services ;
-
-3° La confiscation de tout ou partie du produit de la vente des produits ou services sur lesquels a porté l'infraction.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-660 1983-07-21 art. 10
-  - Loi n°83-660 du 21 juillet 1983 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
-
-_Cite_:
-
-  - Code de la consommation - art. L121-4 (V)
-
-_Cité par_:
-
-  - Code de la consommation - art. L224-2 (T)
-  - Code de la santé publique - art. R1343-1 (V)
-
-
-###### Article L223-2
-
-Le juge d'instruction ou le tribunal peut, dès qu'il est saisi de poursuites pour infraction aux textes pris en application
-du présent titre, ordonner la suspension provisoire de la vente du produit ou de la prestation du service incriminé.
-
-Les mesures prévues dans le présent article sont exécutoires nonobstant appel. Mainlevée peut en être donnée par la
-juridiction qui les a ordonnées ou qui est saisie du dossier. Elles cessent d'avoir effet en cas de décision de non-lieu ou
-de relaxe.
-
-Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un recours devant la chambre d'accusation ou
-devant la cour d'appel, selon qu'elles ont été prononcées par un juge d'instruction ou par le tribunal saisi des poursuites.
-
-La chambre d'accusation ou la cour d'appel statue dans un délai d'un mois à compter de la date de la décision frappée
-d'appel.
-
-Si la chambre d'accusation ou la cour d'appel n'a pas statué dans ce délai, et au plus tard dans le délai de quarante jours
-du prononcé de la décision, les mesures ordonnées cesseront de plein droit.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-660 du 21 juillet 1983 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
-
-_Abrogé par_:
-
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+  - Code de la consommation - art. R223-2 (Ab)
 
 
 #### Chapitre IV : La commission de la sécurité des consommateurs.<a id=71></a>
