@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-01-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -19787,9 +19787,9 @@ fixées par les articles 847-1 et 847-2 du nouveau code de procédure civile rep
 être saisi par une déclaration faite, remise ou adressée au greffe, où elle est enregistrée.
 
 "La déclaration doit indiquer les nom, prénoms, profession et adresse des parties ou, pour les personnes morales, leur
-dénomination et leur siège social et préciser l'objet de la demande.
+dénomination et leur siège. Elle contient l'objet de la demande et un exposé sommaire de ces motifs.
 
-"La prescription et les délais pour agir sont interrompus par l'enregistrement de la déclaration.
+"La prescription et les délais pour agir sont interrompus par l'enregistrement de la déclaration".
 
 "Art. 847-2 :
 
@@ -19803,9 +19803,13 @@ la convocation".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+_Modifié par_:
+
+  - Décret n°2003-542 du 23 juin 2003 - art. 17 () JORF 25 juin 2003 en vigueur le 15 septembre 2003
 
 _Cite_:
 
