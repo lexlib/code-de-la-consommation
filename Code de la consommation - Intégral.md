@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2001-01-05
+Version Consolidée au 2001-01-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -60,7 +60,7 @@ Version Consolidée au 2001-01-05
           - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#57)
           - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#58)
           - [Section 4 : Expertises (art. L215-9 à L215-17)](#59)
-          - [Section 5 : Marquage communautaire de conformité. (art. L215-18)](#60)
+          - [Section 5 : Dispositions relatives à la conformité et au marquage communautaires. (art. L215-18)](#60)
         - [Chapitre VI : Dispositions communes (art. L216-1 à L216-9)](#61)
         - [Chapitre VII : Dispositions particulières (art. L217-1 à L217-10)](#62)
       - [Titre II : Sécurité (art. L221-1 à L225-1)](#63)
@@ -7698,7 +7698,7 @@ _Cite_:
   - CODE DE PROCEDURE PENALE - art. 157 (M)
 
 
-##### Section 5 : Marquage communautaire de conformité.<a id=60></a>
+##### Section 5 : Dispositions relatives à la conformité et au marquage communautaires.<a id=60></a>
 
 ###### Article L215-18
 
@@ -7709,7 +7709,11 @@ télécommunications peuvent consigner et exiger la mise en conformité :
 1° Des marchandises soumises à une obligation communautaire de marquage C.E. et dépourvues de ce marquage ;
 
 2° Des marchandises qui, bien que portant le marquage C.E., sont cependant manifestement non conformes à la réglementation du
-marquage qui leur est applicable.
+marquage qui leur est applicable ;
+
+3° Des marchandises qui, bien que munies d'une déclaration C.E. de conformité ou d'aptitude à l'emploi présumant de leur
+conformité ou d'aptitude à l'emploi présumant de leur conformité aux exigences essentiellement en vertu de la réglementation
+les concernant, sont cependant non conformes à celles-ci.
 
 Le procureur de la République est informé sans délai par les agents de contrôle de la mesure de consignation.
 
@@ -7718,7 +7722,7 @@ verbaux sont transmis au procureur de la République dans les vingt-quatre heure
 mêmes délais.
 
 Les marchandises consignées sont laissées à la garde de leur détenteur. La commercialisation des marchandises malgré la
-mesure de consignation sera punie des peines prévues aux articles 314-5 et 314-6 du code pénal.
+mesure de consignation sera punie des peines prévues aux articles 314-5 et 314-6 du code pénal [*sanctions*].
 
 Cette mesure est également applicable lorsque les documents justificatifs exigés par les textes relatifs au marquage C.E. ne
 peuvent pas être présentés aux agents à l'issue d'un délai de quinze jours après qu'ils en ont formulé la demande.
@@ -7765,9 +7769,13 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°95-96 du 1 février 1995 - art. 11 () JORF 2 février 1995
+  - Loi n°2001-43 du 16 janvier 2001 - art. 26 () JORF 17 janvier 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
 
 _Cite_:
 
@@ -7775,6 +7783,23 @@ _Cite_:
   - Code des postes et télécommunications L40
   - Code pénal - art. 314-5 (M)
   - Code pénal - art. 314-6 (M)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-51 (V)
+  - Code de la consommation - art. L512-53 (V)
+  - Code de la consommation - art. L512-54 (V)
+  - Code de la consommation - art. L512-55 (V)
+  - Code de la consommation - art. L512-56 (V)
+  - Code de la consommation - art. L512-57 (V)
+  - Code de la consommation - art. L512-58 (V)
+  - Code de la consommation - art. L512-59 (V)
+  - Code de la consommation - art. L512-60 (V)
+  - Code de la consommation - art. L512-61 (V)
+  - Code de la consommation - art. L512-62 (V)
+  - Code de la consommation - art. L512-63 (V)
+  - Code de la consommation - art. L512-64 (V)
+  - Code de la consommation - art. L512-65 (V)
 
 
 #### Chapitre VI : Dispositions communes<a id=61></a>
