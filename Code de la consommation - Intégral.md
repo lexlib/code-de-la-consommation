@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2003-08-05
+Version Consolidée au 2003-09-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -19101,8 +19101,8 @@ l'article 847-4 du présent code".
 
 "Art. 1425-2 :
 
-"La demande est portée au choix du demandeur, soit devant le tribunal d'instance du lieu où demeure le défenseur, soit devant
-le tribunal d'instance du lieu d'exécution de l'obligation.
+"La demande est portée au choix du demandeur, soit devant la juridiction du lieu où demeure le défendeur, soit devant la
+juridiction du lieu d'exécution de l'obligation".
 
 "Art. 1425-3 :
 
@@ -19171,9 +19171,9 @@ droit commun. La requête et les documents produits sont restitués au requéran
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°2003-542 du 23 juin 2003 - art. 24
 
 _Cite_:
 
