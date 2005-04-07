@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-03-18
+Version Consolidée au 2005-04-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -25954,16 +25954,16 @@ _Cité par_:
 ###### Article R333-1
 
 Les règles relatives aux effets de la saisine de la commission de surendettement sur les demandes de remise gracieuse ou de
-dispense de paiement que peuvent accorder les autorités chargées du recouvrement des impôts sont fixées par les articles R.
-247 A-1 et R. 247-10 A du livre des procédures fiscales ci-dessous reproduits :
+dispense de paiement que peuvent accorder les autorités chargées du recouvrement des impôts sont fixées par les articles R*.
+247 A-1 et R*. 247-18 du livre des procédures fiscales ci-dessous reproduits : 
 
-"Art. R. 247 A-1 - La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation
+" Art. R*. 247 A-1-La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation
 vaut demande de remise gracieuse d'impôts directs dès lors que cette saisine satisfait aux conditions prévues à l'article R.
-331-7-3 du même code".
+331-7-3 du même code ". 
 
-"Art. R. 247-10 A - La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation
-par des tiers tenus au paiement de l'impôt vaut demande de dispense de paiement au sens de l'article R. 247-10 du présent
-livre dès lors que cette saisine satisfait aux conditions prévues à l'article R. 331-7-3 du code de la consommation".
+" Art. R*. 247-18-La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation
+par des tiers tenus au paiement de l'impôt vaut demande de dispense de paiement au sens de l'article R. 247-10 dès lors que
+cette saisine satisfait aux conditions prévues à l'article R. 331-7-3 du code de la consommation ".
 
 **Liens relatifs à cet article**
 
@@ -25971,15 +25971,18 @@ _Anciens textes_:
 
   - Décret n°95-660 du 9 mai 1995 - art. 32 (Ab)
 
+_Codifié par_:
+
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
 _Modifié par_:
 
-  - Décret n°2004-180 du 24 février 2004 - art. 6 () JORF 25 février 2004
+  - Décret n°2005-331 du 6 avril 2005 - art. 2 () JORF 8 avril 2005
 
 _Cite_:
 
-  - Code de la consommation - art. L331-1 (M)
-  - Code de la consommation L331-1, R331-7-3
-  - Livre des procédures fiscales R247 A, R247-10 A
+  - Code de la consommation - art. L331-1 (V)
+  - Code de la consommation - art. R331-7-3 (V)
 
 
 ### Titre IV : Dispositions diverses.<a id=251></a>
