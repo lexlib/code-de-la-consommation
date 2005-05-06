@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-04-08
+Version Consolidée au 2005-05-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -4349,16 +4349,12 @@ _Modifié par_:
 
 ###### Article L121-29
 
-Les dispositions de la loi n° 47-1635 du 30 août 1947 relative à l'assainissement des professions commerciales et
-industrielles sont applicables aux personnes qui effectuent des opérations de vente à domicile.
+Les dispositions du chapitre VIII du titre II du livre 1er du code de commerce sont applicables aux personnes qui effectuent
+des opérations de vente à domicile.
 
 L'entreprise est civilement responsable des démarcheurs, même indépendants, qui agissent pour son compte.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°47-1635 1947-08-30
 
 _Anciens textes_:
 
@@ -4369,9 +4365,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2005-428 du 6 mai 2005 - art. 4 (V) JORF 7 mai 2005
 
 _Cité par_:
 
