@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-05-07
+Version Consolidée au 2005-05-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-1)](#2)
@@ -27534,7 +27534,7 @@ d'émissions télévisées, de publications spécialisées. Il assure un accès 
 Le cahier des charges annuel des prestations de l'appui technique aux organisations de consommateurs est élaboré par une
 commission créée à cet effet et qui veille à son exécution. Cette commission est composée d'un représentant de chacune des
 organisations de consommateurs agréées au plan national, ainsi que du directeur de l'établissement. Le commissaire du
-Gouvernement et le contrôleur d'Etat assistent de droit à ses travaux ;
+Gouvernement et le membre du corps du contrôle général économique et financier assistent de droit à ses travaux ;
 
 b) Fournit aux organisations de consommateurs des prestations dont la nature et le contenu sont définis par des conventions
 négociées entre l'établissement et une ou plusieurs organisations de consommateurs ;
@@ -27551,9 +27551,9 @@ b) Réalise tout produit, étude, essai comparatif ou service lié à ses missio
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Codifié par_:
 
-  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 _Cité par_:
 
@@ -27563,6 +27563,10 @@ _Cité par_:
 _Cite_:
 
   - Code de la consommation R531-2
+
+_Modifié par_:
+
+  - Décret n°2005-436 2005-05-05 art. 19 JORF 10 mai 2005
 
 
 ###### Article R531-4
@@ -27674,15 +27678,19 @@ président est prépondérante.
 
 Le conseil d'administration peut entendre des experts pour l'examen d'une question figurant à l'ordre du jour.
 
-Le directeur de l'Institut national de la consommation, le commissaire du Gouvernement, le contrôleur d'Etat et l'agent
-comptable assistent avec voix consultative aux séances du conseil d'administration. Le directeur peut se faire assister par
-tout collaborateur de son choix. Il peut se faire représenter en cas d'empêchement.
+Le directeur de l'Institut national de la consommation, le commissaire du Gouvernement, le membre du corps du contrôle
+général économique et fiancier et l'agent comptable assistent avec voix consultative aux séances du conseil d'administration.
+Le directeur peut se faire assister par tout collaborateur de son choix. Il peut se faire représenter en cas d'empêchement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+  - Décret n°2005-436 2005-05-05 art. 19 JORF 10 mai 2005
+
+_Codifié par_:
+
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 
 ###### Article R531-8
@@ -27702,8 +27710,8 @@ directeur ;
 5° L'état annuel des prévisions de recettes et de dépenses, ainsi que sur les états rectificatifs qui comportent soit une
 augmentation du montant global des dépenses, soit des virements de crédits entre la section des opérations en capital et la
 section de fonctionnement ou entre les chapitres de matériel et les chapitres de personnel. Les autres états rectificatifs
-sont pris par le directeur après avis conforme du contrôleur d'Etat. Il en rend compte au conseil d'administration à sa plus
-proche séance ;
+sont pris par le directeur après avis conforme du membre du corps du contrôle général économique et financier. Il en rend
+compte au conseil d'administration à sa plus proche séance ;
 
 6° Les conditions générales de fixation des prix de vente des produits et des prestations de l'établissement ;
 
@@ -27727,13 +27735,17 @@ Le conseil d'administration élabore son règlement intérieur.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Codifié par_:
 
-  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 _Cite_:
 
   - Code de la consommation R531-3
+
+_Modifié par_:
+
+  - Décret n°2005-436 2005-05-05 art. 19 JORF 10 mai 2005
 
 
 ###### Article R531-9
@@ -27807,13 +27819,18 @@ _Créé par_:
 ###### Article R532-1
 
 Le conseil d'administration peut créer auprès de lui des comités consultatifs. Le directeur est membre de droit de ces
-comités. Le commissaire du Gouvernement et le contrôleur d'Etat assistent de droit à leurs travaux.
+comités. Le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier assistent de droit
+à leurs travaux.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+  - Décret n°2005-436 2005-05-05 art. 19 JORF 10 mai 2005
+
+_Codifié par_:
+
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 
 #### Chapitre III : Dispositions financières et comptables.<a id=270></a>
@@ -27843,19 +27860,27 @@ _Abrogé par_:
 L'Institut national de la consommation est soumis au contrôle économique et financier de l'Etat prévu par le décret n° 53-707
 du 9 août 1953 relatif au contrôle de l'Etat dans les entreprises publiques nationales et certains organismes ayant un objet
 d'ordre économique et social et par le décret n° 55-733 du 26 mai 1955 relatif au contrôle économique et financier de l'Etat.
-Un contrôleur d'Etat, placé sous l'autorité du ministre chargé de l'économie et des finances, assure le contrôle de
-l'établissement, selon les modalités fixées par un arrêté de ce ministre.
+Un membre du corps du contrôle général économique et financier, placé sous l'autorité du ministre chargé de l'économie et des
+finances, assure le contrôle de l'établissement, selon les modalités fixées par un arrêté de ce ministre.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°53-707 1953-08-09
-  - Décret n°55-733 1955-05-26
-
 _Modifié par_:
 
-  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+  - Décret n°2005-436 2005-05-05 art. 19 JORF 10 mai 2005
+
+_Cite_:
+
+  - Décret n°53-707 du 9 août 1953
+  - Décret n°55-733 du 26 mai 1955
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997
+
+_Abrogé par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 26
 
 
 ###### Article R533-3
