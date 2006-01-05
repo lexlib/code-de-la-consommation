@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-3)](#2)
@@ -11406,6 +11406,9 @@ _Cité par_:
 Toute publicité relative aux opérations visées à l'article L. 311-2 proposant une période de franchise de paiement de loyers
 ou de remboursement des échéances du crédit supérieure à trois mois est interdite hors des lieux de vente.
 
+Ces dispositions ne sont pas applicables aux prêts aidés par l'Etat destinés au financement d'une formation à la conduite et
+à la sécurité routière.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -11419,7 +11422,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-67 du 28 janvier 2005 - art. 5 () JORF 1er février 2005
+  - Loi n°2006-10 du 5 janvier 2006 - art. 14 () JORF 6 janvier 2006
 
 _Cité par_:
 
@@ -11441,6 +11444,9 @@ Toute publicité comportant la mention "crédit gratuit" ou proposant un avantag
 l'escompte consenti en cas de paiement comptant et préciser qui prend en charge le coût du crédit consenti gratuitement au
 consommateur.
 
+Ces dispositions ne sont pas applicables aux prêts aidés par l'Etat destinés au financement d'une formation à la conduite et
+à la sécurité routière.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -11454,7 +11460,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-67 du 28 janvier 2005 - art. 5 () JORF 1er février 2005
+  - Loi n°2006-10 du 5 janvier 2006 - art. 14 () JORF 6 janvier 2006
 
 _Cité par_:
 
@@ -11481,6 +11487,9 @@ vente au détail, au cours des trente derniers jours précédant le début de la
 outre, proposer un prix pour paiement comptant inférieur à la somme proposée pour l'achat à crédit ou la location et calculé
 selon des modalités fixées par décret.
 
+Ces dispositions ne sont pas applicables aux prêts aidés par l'Etat destinés au financement d'une formation à la conduite et
+à la sécurité routière.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -11492,9 +11501,18 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2006-10 du 5 janvier 2006 - art. 14 () JORF 6 janvier 2006
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2010-737 du 1er juillet 2010 - art. 2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L311-28 (VD)
+  - Code de la consommation - art. L311-28 (VT)
 
 _Cité par_:
 
