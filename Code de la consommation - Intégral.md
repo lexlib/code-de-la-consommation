@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-03-24 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-3)](#2)
@@ -14899,18 +14899,16 @@ remboursement du prêt ; il peut cependant surseoir à statuer sur ces modalité
 
 _Anciens textes_:
 
-  - Loi n°78-22 du 10 janvier 1978 - art. 8 (M)
   - Loi n°78-22 du 10 janvier 1978 - art. 8 (Ab)
-  - Loi n°79-596 du 13 juillet 1979 - art. 14 (M)
   - Loi n°79-596 du 13 juillet 1979 - art. 14 (Ab)
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
@@ -14918,9 +14916,13 @@ _Cité par_:
   - Code de la consommation - art. L312-36 (VT)
   - Livre des procédures fiscales - art. L145 D (M)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L314-20 (M)
+
 _Cite_:
 
-  - Code civil 1244-1 à 1244-3
+  - Code civil
 
 
 ##### Section 5 : Lettres de change et billets à ordre<a id=112></a>
@@ -15506,20 +15508,26 @@ déjà réalisée, est fixée selon des modalités déterminées par décret en 
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Abrogé par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
+  - Code de la consommation - art. L314-11 (VT)
   - Code de la consommation - art. R*314-1 (Ab)
   - Code de la consommation - art. R*314-2 (Ab)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L315-16 (V)
+  - Code de la consommation - art. L315-17 (VT)
+
 _Cite_:
 
-  - Code civil - art. 1152 (M)
+  - Code civil - art. 1152
 
 
 ###### Article L314-11
