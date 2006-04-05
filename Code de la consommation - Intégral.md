@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-03-24 00:00:01 +0100
+Version Consolidée au 2006-04-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-3)](#2)
@@ -7458,15 +7458,11 @@ _Cite_:
 
 ###### Article L211-16
 
-Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie contractuelle qui lui a été consentie, une remise en
-état couverte par la garantie, toute période d'immobilisation d'au moins sept jours vient s'ajouter à la durée de la garantie
-qui restait à courir. Cette période court à compter de la demande d'intervention de l'acheteur ou de la mise à disposition
-pour réparation du bien en cause, si cette mise à disposition est postérieure à la demande d'intervention.
-
-**Nota:**
-
-Nota : Ordonnance 2005-136 2005-02-17 art. 5 : Les dispositions de la présente ordonnance s'appliquent aux contrats conclus
-postérieurement à son entrée en vigueur.
+Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie contractuelle qui lui a été consentie lors de
+l'acquisition ou de la réparation d'un bien meuble, une remise en état couverte par la garantie, toute période
+d'immobilisation d'au moins sept jours vient s'ajouter à la durée de la garantie qui restait à courir. Cette période court à
+compter de la demande d'intervention de l'acheteur ou de la mise à disposition pour réparation du bien en cause, si cette
+mise à disposition est postérieure à la demande d'intervention.
 
 **Liens relatifs à cet article**
 
@@ -7474,9 +7470,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-136 du 17 février 2005 - art. 1 () JORF 18 février 2005
+  - Loi n°2006-406 du 5 avril 2006 - art. 3 () JORF 6 avril 2006
 
 _Cité par_:
 
