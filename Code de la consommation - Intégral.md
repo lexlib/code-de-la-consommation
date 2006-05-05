@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-04-06
+Version Consolidée au 2006-05-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-3)](#2)
@@ -188,7 +188,7 @@ Version Consolidée au 2006-04-06
           - [Section 2 : Commission des clauses abusives (art. R132-3 à R132-6)](#185)
         - [Chapitre IV : Remise des contrats (art. R134-1)](#186)
       - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R141-1 à R142-2)](#187)
-        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-2)](#188)
+        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-3)](#188)
         - [Chapitre II : Procédures civiles simplifiées (art. R*142-1 à R142-2)](#189)
     - [Livre II : Qualité des produits et des services (art. R211-1 à D225-2)](#190)
       - [Titre Ier : Conformité (art. R211-1 à R218-1)](#191)
@@ -198,7 +198,7 @@ Version Consolidée au 2006-04-06
           - [Section 1 : Autorités qualifiées. (art. R215-1)](#195)
           - [Section 2 : Recherche et constatation. (art. R215-2 à R215-14)](#196)
           - [Section 4 : Expertises. (art. R215-18 à R215-23)](#197)
-        - [Chapitre VI : Dispositions communes. (art. R216-2)](#198)
+        - [Chapitre VI : Dispositions communes. (art. R216-2 à R216-3)](#198)
         - [Chapitre VIII : Mesures de police administrative (art. R218-1)](#199)
       - [Titre II : Sécurité (art. R223-1 à D225-2)](#200)
         - [Chapitre III : Sanctions (art. R223-1 à R223-5)](#201)
@@ -22074,6 +22074,50 @@ _Créé par_:
   - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
 
 
+###### Article R141-3
+
+I. - L'autorité administrative, au sens de l'article L. 141-2 du code de la consommation, est, au sein de la direction
+générale de la concurrence, de la consommation et de la répression des fraudes, le directeur régional ou le chef d'unité
+départementale territorialement compétents.
+
+II. - L'autorité administrative mentionnée au I transmet la proposition de transaction au procureur de la République dans un
+délai de trois mois à compter de la clôture du procès-verbal de constatation de l'infraction. Cette proposition précise la
+somme que l'auteur de l'infraction sera invité à payer au Trésor public, le délai imparti pour son paiement et, s'il y a
+lieu, les autres obligations résultant pour lui de l'acceptation de la transaction.
+
+III. - Lorsque le procureur de la République a donné son accord sur la proposition de transaction, le chef de service notifie
+cette dernière en double exemplaire à l'auteur de l'infraction. Cette notification comporte une mention précisant que si la
+personne ne paie pas, dans le délai imparti, la somme indiquée dans la proposition ou qu'elle ne satisfait pas aux autres
+obligations le cas échéant souscrites par elle, le procureur de la République décidera, sauf élément nouveau, d'engager les
+poursuites à son égard.
+
+L'auteur de l'infraction dispose d'un mois, à compter de cette notification, pour y répondre. En cas d'acceptation, l'auteur
+de l'infraction retourne à l'autorité administrative un exemplaire signé de la proposition.
+
+Dans l'hypothèse où, au terme du délai mentionné à l'alinéa ci-dessus, l'auteur de l'infraction a refusé la proposition ou
+n'y a pas répondu, l'autorité administrative en informe sans délai le procureur de la République. Ce dernier est également
+informé par l'autorité administrative du cas où l'auteur de l'infraction n'aurait pas acquitté la somme indiquée dans la
+proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres obligations le cas échéant souscrites par lui.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+_Créé par_:
+
+  - Décret n°2006-513 du 4 mai 2006 - art. 2 () JORF 6 mai 2006
+
+_Cite_:
+
+  - Code de la consommation - art. L141-2 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R143-1 (Ab)
+
+
 #### Chapitre II : Procédures civiles simplifiées<a id=189></a>
 
 ###### Article R*142-1
@@ -23152,6 +23196,50 @@ _Cite_:
 
   - Code de la consommation - art. L213-2
   - Code de la consommation - art. L213-4
+
+
+###### Article R216-3
+
+I. - L'autorité administrative, au sens de l'article L. 216-11 du code de la consommation, est, au sein de la direction
+générale de la concurrence, de la consommation et de la répression des fraudes, le directeur régional ou le chef d'unité
+départementale territorialement compétents.
+
+II. - L'autorité administrative mentionnnée au I transmet la proposition de transaction au procureur de la République dans un
+délai de trois mois à compter de la clôture du procès-verbal de constatation de l'infraction. Cette proposition précise la
+somme que l'auteur de l'infraction sera invité à payer au Trésor public, le délai imparti pour son paiement et, s'il y a
+lieu, les autres obligations résultant pour lui de l'acceptation de la transaction.
+
+III. - Lorsque le procureur de la République a donné son accord sur la proposition de transaction, le chef de service notifie
+cette dernière en double exemplaire à l'auteur de l'infraction. Cette notification comporte une mention précisant que si la
+personne ne paie pas, dans le délai imparti, la somme indiquée dans la proposition ou qu'elle ne satisfait pas aux autres
+obligations le cas échéant souscrites par elle, le procureur de la République décidera, sauf élément nouveau, d'engager les
+poursuites à son égard.
+
+L'auteur de l'infraction dispose d'un mois, à compter de cette notification, pour y répondre. En cas d'acceptation, l'auteur
+de l'infraction retourne à l'autorité administrative un exemplaire signé de la proposition.
+
+Dans l'hypothèse où, au terme du délai mentionné à l'alinéa ci-dessus, l'auteur de l'infraction a refusé la proposition ou
+n'y a pas répondu, l'autorité administrative en informe sans délai le procureur de la République. Ce dernier est également
+informé par l'autorité administrative du cas où l'auteur de l'infraction n'aurait pas acquitté la somme indiquée dans la
+proposition, au terme du délai imparti, ou n'aurait pas satisfait aux autres obligations le cas échéant souscrites par lui.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+_Créé par_:
+
+  - Décret n°2006-513 du 4 mai 2006 - art. 3 () JORF 6 mai 2006
+
+_Cite_:
+
+  - Code de la consommation - art. L216-11 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R219-3 (Ab)
 
 
 #### Chapitre VIII : Mesures de police administrative<a id=199></a>
