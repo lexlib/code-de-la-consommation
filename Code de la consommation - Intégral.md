@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-07-16
+Version Consolidée au 2006-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-3)](#2)
@@ -270,20 +270,19 @@ Version Consolidée au 2006-07-16
       - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#267)
         - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#268)
     - [Livre V : Les institutions (art. D511-1 à D541-7)](#269)
-      - [Titre Ier : Les organes de concertation. (art. D511-1 à R512-1)](#270)
+      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#270)
         - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#271)
           - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#272)
           - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#273)
           - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#274)
-        - [Chapitre II : Les comités départementaux de la consommation. (art. R512-1)](#275)
-      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#276)
-        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#277)
-        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#278)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-5)](#279)
-        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#280)
-        - [Chapitre II : Organes consultatifs. (art. R532-1)](#281)
-        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#282)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#283)
+      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#275)
+        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#276)
+        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#277)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-5)](#278)
+        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#279)
+        - [Chapitre II : Organes consultatifs. (art. R532-1)](#280)
+        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#281)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#282)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -23441,11 +23440,12 @@ _Cite_:
 La commission de la sécurité des consommateurs comprend, outre son président, quinze membres, nommés par arrêté du ministre
 chargé de la consommation après avis des ministres intéressés :
 
-1° Un membre du Conseil d'Etat, proposé par l'assemblée générale du Conseil d'Etat ;
+1° Un magistrat de l'ordre judiciaire, proposé par l'assemblée générale de la Cour de cassation ;
 
-2° Un magistrat de l'ordre judiciaire, proposé par l'assemblée générale de la Cour de cassation ;
+2° Un membre de la Cour des comptes, proposé par l'ensemble des magistrats qui la composent ;
 
-3° Un membre de la Cour des comptes, proposé par l'ensemble des magistrats qui la composent ;
+3° Une personnalité qualifiée dans le droit de la consommation issue du monde universitaire, nommée par le ministre chargé de
+la consommation ;
 
 4° Trois membres des organisations nationales de consommateurs, choisis sur une liste de neuf noms proposée par le collège
 des consommateurs du Conseil national de la consommation ;
@@ -23471,9 +23471,9 @@ _Codifié par_:
 
   - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°2006-665 du 7 juin 2006 - art. 55 () JORF 8 juin 2006 en vigueur le 1er août 2006
 
 
 ###### Article R224-2
@@ -23517,8 +23517,8 @@ mandat restant à courir.
 Si cette durée est inférieure à dix-huit mois, le mandat ainsi accompli par le successeur n'est pas pris en compte pour
 l'application de la règle selon laquelle les mandats ne sont renouvelables qu'une fois.
 
-En cas d'absence ou d'empêchement, le président est remplacé par le membre du Conseil d'Etat ou, à défaut, par le magistrat
-de l'ordre judiciaire ou, à défaut, par le membre de la Cour des comptes.
+En cas d'absence ou d'empêchement, le président est remplacé par le magistrat de l'ordre judiciaire ou, à défaut, par le
+membre de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
@@ -23530,13 +23530,17 @@ _Codifié par_:
 
   - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°2006-665 du 7 juin 2006 - art. 55 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+_Abrogé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 10
 
 _Cite_:
 
-  - Code de la consommation R224-1
+  - Code de la consommation
 
 
 ###### Article R224-4
@@ -26243,12 +26247,17 @@ _Cité par_:
 Pour chaque commission, le préfet nomme par arrêté, pour une durée d'un an renouvelable, une personnalité et son suppléant
 qu'il choisit sur une liste départementale, comprenant quatre noms, qui lui est transmise par l'Association française des
 établissements de crédit et des entreprises d'investissement, ainsi qu'une personnalité et son suppléant proposés, dans les
-mêmes conditions, par les associations familiales ou de consommateurs siégeant au comité départemental de la consommation
-défini à l'article R. 512-1.
+mêmes conditions, par les associations familiales ou de consommateurs qui, pour ces dernières, justifient d'un agrément au
+titre de l'article L. 411-1 du code de la consommation, soit par arrêté du préfet de département, soit par leur affiliation à
+une association nationale elle-même agréée.
 
 S'il constate l'absence de l'une de ces personnalités et de son suppléant à trois séances consécutives de la commission, le
 préfet peut mettre fin à leur mandat avant l'expiration de la période d'un an. Il nomme alors une autre personnalité et un
 suppléant choisis sur la même liste.
+
+**Nota:**
+
+Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
 
 **Liens relatifs à cet article**
 
@@ -26258,16 +26267,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
+
+_Cite_:
+
+  - Code de la consommation - art. L411-1 (V)
 
 _Cité par_:
 
   - Code de la consommation - art. R336-1 (Ab)
   - Code de la consommation - art. R336-4 (VD)
-
-_Cite_:
-
-  - Code de la consommation R512-1
 
 
 ###### Article R331-5
@@ -29506,43 +29515,9 @@ _Modifié par_:
   - Décret n°2005-249 du 14 mars 2005 - art. 7 () JORF 18 mars 2005
 
 
-#### Chapitre II : Les comités départementaux de la consommation.<a id=275></a>
+### Titre II : Les organes de coordination administrative.<a id=275></a>
 
-###### Article R512-1
-
-Dans chaque département un arrêté préfectoral crée un comité de la consommation qui comprend pour moitié des représentants
-des consommateurs et pour moitié des représentants des activités économiques. Il est présidé par le préfet ou son
-représentant. Un arrêté du ministre chargé de l'économie et des finances en fixe les règles de composition et de
-fonctionnement.
-
-Le comité peut émettre des avis et des voeux sur les questions de consommation, de concurrence et de formation des prix.
-
-**Nota:**
-
-NOTA : Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°86-1309 1986-12-29 art. 34
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-_Abrogé par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
-
-
-### Titre II : Les organes de coordination administrative.<a id=276></a>
-
-#### Chapitre Ier : Le comité interministériel de la consommation.<a id=277></a>
+#### Chapitre Ier : Le comité interministériel de la consommation.<a id=276></a>
 
 ###### Article D521-1
 
@@ -29603,7 +29578,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-#### Chapitre II : Le groupe interministériel de la consommation.<a id=278></a>
+#### Chapitre II : Le groupe interministériel de la consommation.<a id=277></a>
 
 ###### Article D522-1
 
@@ -29773,9 +29748,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. D825-4 (V)
 
 
-### Titre III : L'institut national de la consommation.<a id=279></a>
+### Titre III : L'institut national de la consommation.<a id=278></a>
 
-#### Chapitre Ier : Organisation et administration.<a id=280></a>
+#### Chapitre Ier : Organisation et administration.<a id=279></a>
 
 ###### Article R531-1
 
@@ -30124,7 +30099,7 @@ _Créé par_:
   - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
-#### Chapitre II : Organes consultatifs.<a id=281></a>
+#### Chapitre II : Organes consultatifs.<a id=280></a>
 
 ###### Article R532-1
 
@@ -30143,7 +30118,7 @@ _Codifié par_:
   - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 
-#### Chapitre III : Dispositions financières et comptables.<a id=282></a>
+#### Chapitre III : Dispositions financières et comptables.<a id=281></a>
 
 ###### Article R533-1
 
@@ -30268,7 +30243,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-16 (V)
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=283></a>
+### Titre IV : Le conseil national de l'alimentation.<a id=282></a>
 
 ###### Article D541-1
 
