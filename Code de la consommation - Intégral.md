@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-08-01
+Version Consolidée au 2006-10-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-3)](#2)
@@ -59,17 +59,17 @@ Version Consolidée au 2006-08-01
           - [Section 5 : Disposition applicable aux acheteurs résidant dans un Etat membre de la Communauté européenne (art. L211-18)](#56)
         - [Chapitre II : Obligation générale de conformité (art. L212-1)](#57)
         - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-6)](#58)
-          - [Section 1 : Tromperie (art. L213-1 à L213-2)](#59)
+          - [Section 1 : Tromperie (art. L213-1 à L213-2-1)](#59)
           - [Section 2 : Falsifications et délits connexes (art. L213-3 à L213-4)](#60)
           - [Section 3 : Récidive légale (art. L213-5 à L213-6)](#61)
         - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#62)
         - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-17)](#63)
-          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2)](#64)
+          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2-2)](#64)
           - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#65)
           - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#66)
           - [Section 4 : Expertises (art. L215-9 à L215-17)](#67)
-        - [Chapitre VI : Dispositions communes (art. L216-1 à L216-11)](#68)
-        - [Chapitre VII : Dispositions particulières (art. L217-1 à L217-10)](#69)
+        - [Chapitre VI : Dispositions communes (art. L216-1 à L216-12)](#68)
+        - [Chapitre VII : Dispositions particulières (art. L217-1 à L217-11)](#69)
         - [Chapitre VIII : Mesures de police administrative (art. L218-1 à L218-7)](#70)
           - [Section 1 : Dispositions générales (art. L218-1 à L218-5)](#71)
             - [Sous-section 1 : Recueil d'information. (art. L218-1)](#72)
@@ -7777,6 +7777,28 @@ _Cite_:
   - Code de la consommation - art. L213-1 (V)
 
 
+###### Article L213-2-1
+
+Est puni d'une peine de quatre ans d'emprisonnement et d'une amende de 75 000 Euros le fait d'exporter vers un pays tiers à
+la Communauté européenne une denrée alimentaire préjudiciable à la santé ou un aliment pour animaux qui est dangereux, en
+méconnaissance des dispositions de l'article 12 du règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28
+janvier 2002.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 52 () JORF 6 octobre 2006
+
+_Cite_:
+
+  - Règlement CE 178/2002 2002-01-28 art. 12 Parlement et Conseil
+
+
 ##### Section 2 : Falsifications et délits connexes<a id=60></a>
 
 ###### Article L213-3
@@ -8077,9 +8099,10 @@ _Cite_:
 Il sera statué par des décrets en Conseil d'Etat sur les mesures à prendre pour assurer l'exécution des chapitres II à VI du
 présent titre, notamment en ce qui concerne :
 
-1° La fabrication et l'importation des marchandises autres que celles visées aux articles L. 231-1, L. 231-2 et L. 231-5 du
-code rural ainsi que la vente, la mise en vente, l'exposition, la détention et la distribution à titre gratuit de toutes
-marchandises visées par les chapitres II à VI ;
+1° La fabrication et l'importation des marchandises autres que les produits d'origine animale et les denrées alimentaires en
+contenant, les aliments pour animaux d'origine animale et les aliments pour animaux contenant des produits d'origine animale
+ainsi que la vente, la mise en vente, l'exposition, la détention et la distribution à titre gratuit de toutes marchandises
+visées par les chapitres II à VI ;
 
 2° Les modes de présentation ou les inscriptions de toute nature sur les marchandises elles-mêmes, les emballages, les
 factures, les documents commerciaux ou documents de promotion, en ce qui concerne notamment : le mode de production, la
@@ -8092,20 +8115,32 @@ peuvent être l'objet, les caractéristiques qui les rendent impropres à la con
 
 4° La définition et les conditions d'emploi des termes et expressions publicitaires, dans le but d'éviter une confusion ;
 
-5° L'hygiène des établissements où sont préparées, conservées et mises en vente les denrées destinées à l'alimentation
-humaine ou animale autres que celles visées aux articles L. 231-1, L. 231-2 et L. 231-5 du code rural et les conditions
-d'hygiène et de santé des personnes travaillant dans ces locaux ;
+5° Les règles d'hygiène que doivent respecter les exploitants du secteur alimentaire et du secteur de l'alimentation animale
+à toutes les étapes de la production, de la transformation et de la distribution, y compris lors des importations et des
+exportations, de produits et denrées alimentaires autres que les produits d'origine animale et les denrées en contenant, et
+d'aliments pour animaux autres que ceux d'origine animale ou contenant des produits d'origine animale ;
 
-6° Les conditions dans lesquelles sont déterminées les caractéristiques microbiologiques et hygiéniques des marchandises
-destinées à l'alimentation humaine ou animale autres que celles visées aux articles L. 231-1, L. 231-2 et L. 231-5 du code
-rural ;
+6° La détermination des conditions dans lesquelles sont préparés, conservés, détenus en vue de la vente ou de la distribution
+à titre gratuit, mis en vente, vendus, servis et transportés les produits et denrées destinés à l'alimentation humaine ou
+animale autres que les produits d'origine animale, les denrées en contenant et les aliments pour animaux d'origine animale et
+aliments pour animaux contenant des produits d'origine animale, ainsi que la détermination des caractéristiques auxquelles
+doivent répondre les équipements nécessaires à leur préparation, leur conservation, leur détention en vue de leur vente ou en
+vue de leur distribution à titre gratuit, leur mise en vente, leur vente, leur distribution à titre gratuit et leur
+transport ;
 
-7° Les conditions matérielles dans lesquelles les indications, visées au dernier alinéa de l'article L. 213-4, devront être
-portées à la connaissance des acheteurs sur les étiquettes, annonces, réclames, papiers de commerce.
+7° Les conditions dans lesquelles sont déterminées les caractéristiques micro-biologiques et hygiéniques des marchandises
+destinées à l'alimentation humaine ou animale autres que les produits d'origine animale et les denrées alimentaires en
+contenant, les aliments pour animaux d'origine animale et les aliments pour animaux contenant des produits d'origine
+animale ;
+
+8° Les conditions matérielles dans lesquelles les indications, visées au dernier alinéa de l'article L. 213-4, devront être
+portées à la connaissance des acheteurs sur les étiquettes, annonces, réclames, papiers de commerce ;
 
 Les décrets prévus au présent article sont pris après avis de l'Agence française de sécurité sanitaire des aliments
 lorsqu'ils portent sur des produits entrant dans son champ de compétence ou qu'ils comportent des dispositions visant à
 prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.
+
+9° La traçabilité des marchandises.
 
 **Liens relatifs à cet article**
 
@@ -8390,54 +8425,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-806 du 9 août 2004 - art. 31 () JORF 11 août 2004
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 19 () JORF 6 octobre 2006
 
 _Cite_:
 
   - Code de la consommation - art. L213-4 (M)
-  - Code rural L231-1, L231-2, L231-5
-
-
-###### Article L214-1-1
-
-Un décret en Conseil d'Etat fixe la liste des produits ou denrées pour lesquels la traçabilité doit être assurée. Il précise
-les obligations des producteurs et des distributeurs qui sont tenus d'établir et de mettre à jour des procédures
-d'informations enregistrées et d'identification des produits ou des lots de produits. Ces procédures permettent de connaître
-l'origine de ces produits et de ces lots, ainsi que les conditions de leur production et de leur distribution.
-
-L'autorité administrative précise, pour chaque produit ou denrée, les étapes de production et de commercialisation pour
-lesquelles la traçabilité doit être assurée, ainsi que des moyens à mettre en oeuvre en fonction de la taille des
-entreprises.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°99-574 du 9 juillet 1999 - art. 100 () JORF 10 juillet 1999
-
-_Cité par_:
-
-  - Décret n°2004-1058 du 5 octobre 2004 - art. 2 (Ab)
-  - Code de la consommation - art. L214-2 (M)
-  - Code rural - art. L232-1 (M)
-  - Code rural - art. L232-1-1 (Ab)
-  - Code rural - art. L932-1 (T)
-  - Code rural ancien - art. 258-2 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 20 () JORF 6 octobre 2006
 
 
 ###### Article L214-2
 
-Les infractions aux décrets en Conseil d'Etat, pris en vertu des articles L. 214-1, L. 214-1-1, L. 215-1, dernier alinéa, et
-L. 215-4 qui ne se confondront avec aucun délit de fraude ou de falsification prévu par les articles L. 213-1 à L. 213-4 et
-L. 214-1 (7°), seront punies comme contraventions de 3e classe.
+Les infractions aux décrets en Conseil d'Etat, pris en vertu des articles L. 214-1, L. 215-1, dernier alinéa, et L. 215-4 qui
+ne se confondront avec aucun délit de fraude ou de falsification prévu par les articles L. 213-1 à L. 213-4 et L. 214-1 (7°),
+seront punies comme contraventions de 3e classe. 
 
 Sera puni des mêmes peines quiconque aura mis en vente ou vendu, sans attendre les résultats d'un contrôle officiel en cours,
 des marchandises quelconques qui seront reconnues définitivement fraudées ou falsifiées à l'issue de l'enquête judiciaire
@@ -8521,14 +8520,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°99-574 du 9 juillet 1999 - art. 100 () JORF 10 juillet 1999
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 21 () JORF 6 octobre 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L214-1 (M)
-  - Code de la consommation - art. L214-1-1 (Ab)
-  - Code de la consommation - art. L215-1 (M)
-  - Code de la consommation L214-1, L214-1-1, L215-1, L213-1 à L213-4
+  - Code de la consommation - art. L213-1
+  - Code de la consommation - art. L214-1
+  - Code de la consommation - art. L215-1
+  - Code de la consommation - art. L215-4
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R451-1 (V)
+  - Code de la consommation - art. R451-2 (V)
+  - Code de la consommation - art. R451-3 (V)
+  - Code de la consommation - art. R531-2 (V)
 
 
 ###### Article L214-3
@@ -8594,9 +8604,7 @@ générale des douanes et de la direction générale des impôts ;
 
 2° Les inspecteurs du travail ;
 
-3° Les vétérinaires inspecteurs, les ingénieurs des travaux agricoles, les techniciens spécialisés des services du ministère
-chargé de l'agriculture, les préposés sanitaires, les agents techniques sanitaires, les ingénieurs et techniciens chargés de
-la protection des végétaux ;
+3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et au I de l'article L. 251-18 du code rural ;
 
 4° Les médecins inspecteurs de santé publique et les pharmaciens inspecteurs de santé publique ;
 
@@ -8629,14 +8637,6 @@ constater les infractions aux chapitre II et VI en vue de recueillir des éléme
 administrations publiques et des entreprises de transports.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des postes et télécommunications L40
-  - Décret-loi 1938-06-14 art. 3
-  - Loi n°1912-02-27 art. 65
-  - Code de la santé publique - art. L1312-1 (M)
-  - Code de l'environnement - art. L514-13 (V)
 
 _Cité par_:
 
@@ -8771,8 +8771,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 22 () JORF 6 octobre 2006
+
+_Cite_:
+
+  - Code de la consommation L231-2
+  - Code des postes et télécommunications L40
+  - Code de la santé publique - art. L1312-1 (M)
+  - Code de l'environnement - art. L514-13 (V)
+  - Code rural L251-18
+  - Décret-loi 1938-06-14 art. 3
+  - Loi n°1912-02-27 art. 65
 
 _Anciens textes_:
 
@@ -8799,18 +8808,36 @@ _Créé par_:
 
 ###### Article L215-2
 
-Dans les lieux mentionnés au premier alinéa de l'article L. 215-3 et sur la voie publique, les autorités qualifiées pour
-rechercher et constater les infractions au présent livre le sont également, dans les conditions prévues au présent livre,
-pour les infractions aux dispositions réglementaires prises en application des articles L. 231-1, L. 231-2, L. 231-5, L.
-236-1, L. 236-2 et L. 236-4 du code rural fixant les normes sanitaires et qualitatives des denrées animales et d'origine
-animale mises en vente.
+Les agents mentionnés à l'article L. 215-1 sont également habilités à rechercher et à constater, dans les conditions prévues
+au présent livre, les infractions :
+
+1° Aux dispositions réglementaires prises en application du II de l'article L. 231-1, des articles L. 231-5, L. 231-6, L.
+236-1, L. 236-2 et L. 236-4 du code rural, à l'exception de celles relatives à la production primaire et de celles relatives
+aux abattoirs ;
+
+2° Aux dispositions des règlements ci-dessous et des règlements communautaires qui les modifieraient ou seraient pris pour
+leur application :
+
+- règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 modifié établissant les principes
+généraux et les prescriptions générales de la législation alimentaire, instituant l'Autorité européenne de sécurité des
+aliments et fixant des procédures relatives à la sécurité des denrées alimentaires ;
+
+- règlement (CE) n° 852/2004 du Parlement européen et du Conseil du 29 avril 2004 relatif à l'hygiène des denrées
+alimentaires, à l'exception des dispositions applicables à la production primaire et aux abattoirs ;
+
+- règlement (CE) n° 853/2004 du Parlement européen et du Conseil du 29 avril 2004 modifié fixant les règles spécifiques
+d'hygiène applicables aux denrées alimentaires d'origine animale, à l'exception des dispositions applicables à la production
+primaire et aux abattoirs ;
+
+- règlement (CE) n° 882/2004 du Parlement européen et du Conseil du 29 avril 2004 modifié relatif aux contrôles officiels
+effectués pour s'assurer de la conformité avec la législation sur les aliments pour animaux et les denrées alimentaires et
+avec les dispositions relatives à la santé animale et au bien-être des animaux à l'exception des dispositions applicables à
+la production primaire et aux abattoirs ;
+
+- règlement (CE) n° 183/2005 du Parlement européen et du Conseil du 12 janvier 2005 établissant des exigences en matière
+d'hygiène des aliments pour animaux à l'exception des dispositions applicables à la production primaire.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural L231-1, L231-2, L231-5, L236-1, L236-2, L236-4
-  - Code de la consommation - art. L215-3 (M)
 
 _Anciens textes_:
 
@@ -8822,13 +8849,71 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 23 () JORF 6 octobre 2006
 
 _Cité par_:
 
   - Code de la consommation - art. L115-20 (MMN)
   - Code rural et de la pêche maritime - art. L205-1 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-1 (M)
+  - Code de la consommation L215-1, L231-1
+  - Code rural L231-5, L231-6, L236-1, L236-2, L236-4
+  - Règlement CE 178/2002 2002-01-28 Parlement et Conseil
+  - Règlement CE 183/2005 2005-01-12 Parlement et Conseil
+  - Règlement CE 852/2004 2004-04-29 Parlement et Conseil
+  - Règlement CE 853/2004 2004-04-29 Parlement et Conseil
+  - Règlement CE 882/2004 2004-04-29 Parlement et Conseil
+
+
+###### Article L215-2-1
+
+En application de l'article 10 du règlement (CE) n° 882/2004 du Parlement européen et du Conseil du 29 avril 2004, les agents
+mentionnés à l'article L. 215-1 disposent des pouvoirs d'enquête prévus au présent livre pour contrôler la mise en oeuvre des
+bonnes pratiques d'hygiène et des systèmes d'analyse des dangers et des points critiques pour les maîtriser.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 24 () JORF 6 octobre 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-1
+  - Règlement CE 882/2004 2004-04-29 art. 10 Parlement et Conseil
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-12 (M)
+
+
+###### Article L215-2-2
+
+Les agents mentionnés à l'article L. 215-1 disposent des pouvoirs d'enquête prévus au présent livre pour procéder au contrôle
+des aliments pour animaux et des denrées alimentaires d'origine non animale à leur point d'entrée sur le territoire et
+lorsqu'elles sont placées sous l'un des régimes douaniers mentionnés aux points 2 et 3 de l'article 15 du règlement (CE) n°
+882/2004 du Parlement européen et du Conseil du 29 avril 2004.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 25 () JORF 6 octobre 2006
 
 
 ##### Section 2 : Recherche et constatation<a id=65></a>
@@ -8848,9 +8933,15 @@ Lorsque ces lieux sont également à usage d'habitation, ces contrôles ne peuve
 heures, et avec l'autorisation du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel
 sont situés ces lieux si l'occupant s'y oppose.
 
-Les agents peuvent exiger la communication ou procéder à la saisie des documents de toute nature, entre quelques mains qu'ils
-se trouvent, propres à faciliter l'accomplissement de leur mission et la mise à leur disposition des moyens indispensables
-pour effectuer leurs vérifications.
+Les agents peuvent exiger la communication et obtenir ou prendre copie par tout moyen et sur tout support ou procéder à la
+saisie des documents de toute nature, entre quelques mains qu'ils se trouvent, propres à faciliter l'accomplissement de leur
+mission et la mise à leur disposition des moyens indispensables pour effectuer leurs vérifications.
+
+Pour le contrôle des opérations faisant appel à l'informatique, ils ont accès aux logiciels et aux données stockées ainsi
+qu'à la restitution en clair des informations propres à faciliter l'accomplissement de leurs missions. Ils peuvent en
+demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du
+contrôle. Ils peuvent prélever des échantillons. Ils peuvent recueillir, sur place ou sur convocation, tout renseignement ou
+toute justification nécessaires aux contrôles.
 
 Ils peuvent également consulter tout document nécessaire à l'accomplissement de leur mission auprès des administrations
 publiques, des établissements et organismes placés sous le contrôle de l'Etat et des collectivités locales, ainsi que dans
@@ -8884,8 +8975,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 26 () JORF 6 octobre 2006
 
 
 ###### Article L215-3-1
@@ -8990,9 +9080,10 @@ effectuées sans autorisation judiciaire que dans le cas de flagrant délit de f
 
 1° Les produits reconnus falsifiés, corrompus ou toxiques ;
 
-2° Les produits reconnus impropres à la consommation, à l'exception des denrées visées aux articles L. 231-1, L. 231-2 et L.
-231-5 du code rural dont l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques
-anormaux ou de signes de pathologie lésionnelle ;
+2° Les produits reconnus impropres à la consommation, à l'exception des produits d'origine animale, des denrées alimentaires
+en contenant ainsi que des aliments pour animaux d'origine animale ou contenant des produits d'origine animale dont
+l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques anormaux ou de signes de
+pathologie lésionnelle ;
 
 3° Les produits, objets ou appareils propres à effectuer des falsifications dans les cas prévus aux articles L. 213-3 et L.
 213-4 ;
@@ -9029,7 +9120,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 27 () JORF 6 octobre 2006
 
 _Cite_:
 
@@ -9037,7 +9128,6 @@ _Cite_:
   - Code de la consommation - art. L213-4 (M)
   - Code de la consommation - art. L215-3 (M)
   - Code de la consommation - art. L216-3 (M)
-  - Code rural L231-1, L231-2, L231-5
   - Loi n°1907-06-29
 
 _Cité par_:
@@ -9054,9 +9144,10 @@ contrôles nécessaires :
 
 1° Les produits susceptibles d'être falsifiés, corrompus ou toxiques ;
 
-2° Les produits susceptibles d'être impropres à la consommation, à l'exception des denrées visées aux articles L. 231-1, L.
-231-2 et L. 231-5 du code rural dont l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères
-organoleptiques anormaux ou de signes de pathologie lésionnelle ;
+2° Les produits susceptibles d'être impropres à la consommation, à l'exception des produits d'origine animale, des denrées
+alimentaires en contenant ainsi que des aliments pour animaux d'origine animale ou contenant des produits d'origine animale
+dont l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques anormaux ou de signes
+de pathologie lésionnelle ;
 
 3° Les produits, objets ou appareils susceptibles d'être non conformes aux lois et règlements en vigueur et de présenter un
 danger pour la santé ou la sécurité des consommateurs.
@@ -9075,12 +9166,6 @@ Le non-respect de la mesure de consignation est puni des peines prévues à l'ar
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code de la consommation - art. L213-1 (M)
-  - Code de la consommation - art. L215-3 (M)
-  - Code rural L231-1, L231-2, L231-5
-
 _Anciens textes_:
 
   - Loi n°1905-08-01 art. 11-2
@@ -9092,8 +9177,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 6 () JORF 10 juillet 2004
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 27 () JORF 6 octobre 2006
+
+_Cite_:
+
+  - Code de la consommation - art. L213-1 (M)
+  - Code de la consommation - art. L215-3 (M)
 
 
 ###### Article L215-8
@@ -9340,6 +9429,26 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+
+_Cite_:
+
+  - CODE DE PROCEDURE PENALE - art. 163 (M)
+
+
+###### Article L215-14-1
+
+Lors des opérations de contrôle des teneurs en mycotoxines des denrées alimentaires, la juridiction remet aux experts les
+échantillons scellés, conservés par le laboratoire, selon les dispositions de l'article 163 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 28 () JORF 6 octobre 2006
 
 _Cite_:
 
@@ -9859,6 +9968,36 @@ _Cité par_:
   - Code de la consommation - art. R216-3 (Ab)
 
 
+###### Article L216-12
+
+Les modalités selon lesquelles, lors de la constatation d'un manquement à la réglementation relative à la sécurité
+alimentaire, les dépenses liées aux contrôles supplémentaires, définies à l'article 28 du règlement (CE) n° 882/2004 du
+Parlement européen et du Conseil du 29 avril 2004, sont laissées à la charge du propriétaire ou du détenteur des produits ou
+de l'exploitant responsable du manquement sont définies par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 35 () JORF 6 octobre 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L424-1 (V)
+
+_Cite_:
+
+  - Règlement CE 882/2004 2004-04-29 art. 28 Parlement et Conseil
+
+
 #### Chapitre VII : Dispositions particulières<a id=69></a>
 
 ###### Article L217-1
@@ -9911,6 +10050,36 @@ _Anciens textes_:
 
   - Loi n°1824-07-28 art. 1
   - Loi n°1824-07-28 du 28 juillet 1824 - art. 1 (Ab)
+
+
+###### Article L217-1-1
+
+Il est interdit de détenir en vue de la vente ou de la distribution à titre gratuit, de mettre en vente, de vendre, de
+distribuer à titre gratuit, les produits dont l'importation est prohibée par des décisions prises en application de l'article
+18 de la directive 91/496/CEE du Conseil du 15 juillet 1991 ou de l'article 22 de la directive 97/78/CE du Conseil du 18
+décembre 1997 ou qui ne sont pas conformes aux prescriptions qu'elles édictent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Directive 97/78/CE 1997-12-18 art. 22 Conseil
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 43 () JORF 6 octobre 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L422-3 (V)
 
 
 ###### Article L217-2
@@ -10198,6 +10367,30 @@ _Cite_:
   - Code de la consommation - art. L216-3 (M)
   - Code de la consommation - art. L216-4 (V)
   - Code pénal 433-6 à 433-10
+
+
+###### Article L217-11
+
+Est puni de quatre ans d'emprisonnement et de 75 000 Euros d'amende, le fait, pour un exploitant, de ne pas mettre en oeuvre
+les procédures de retrait ou de rappel prévues par les articles 19 ou 20 du règlement (CE) n° 178/2002 du Parlement européen
+et du Conseil du 28 janvier 2002, alors qu'il a connaissance qu'un produit ou une denrée alimentaire, autre qu'un produit
+d'origine animale ou une denrée en contenant, qu'il a importé, produit, transformé ou distribué est préjudiciable à la santé
+humaine ou qu'un aliment pour animaux autre qu'un aliment pour animaux d'origine animale ou contenant des produits d'origine
+animale qu'il a importé, produit, transformé ou distribué est dangereux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 1993-07-26
+
+_Créé par_:
+
+  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 53 () JORF 6 octobre 2006
+
+_Cite_:
+
+  - Règlement 178/2002 2002-01-28 art. 19, art. 20 Parlement et Conseil
 
 
 #### Chapitre VIII : Mesures de police administrative<a id=70></a>
