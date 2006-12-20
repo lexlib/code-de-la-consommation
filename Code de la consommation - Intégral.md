@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-12-08
+Version Consolidée au 2006-12-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-3)](#2)
@@ -188,7 +188,7 @@ Version Consolidée au 2006-12-08
           - [Section 2 : Commission des clauses abusives (art. R132-3 à R132-6)](#185)
         - [Chapitre IV : Remise des contrats (art. R134-1)](#186)
       - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R141-1 à R142-2)](#187)
-        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-3)](#188)
+        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-5)](#188)
         - [Chapitre II : Procédures civiles simplifiées (art. R*142-1 à R142-2)](#189)
     - [Livre II : Qualité des produits et des services (art. R211-1 à D225-2)](#190)
       - [Titre Ier : Conformité (art. R211-1 à R218-1)](#191)
@@ -22352,6 +22352,44 @@ _Cite_:
 _Cité par_:
 
   - Code de la consommation - art. R143-1 (Ab)
+
+
+###### Article R141-4
+
+L'autorité administrative chargée de la concurrence et de la consommation mentionnée au V de l'article L. 141-1 est au sein
+de la direction générale de la concurrence, de la consommation et de la répression des fraudes le directeur régional ou le
+chef d'unité départementale territorialement compétents. Ces derniers peuvent donner mandat à un agent de catégorie A pour
+déposer et développer des conclusions à l'audience.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+_Créé par_:
+
+  - Décret n°2006-1632 du 19 décembre 2006 - art. 1 () JORF 21 décembre 2006
+
+_Cité par_:
+
+  - Code de la propriété intellectuelle - art. R311-12 (VD)
+
+
+###### Article R141-5
+
+Lorsqu'elle agit en application du V de l'article L. 141-1, l'autorité administrative est dispensée de ministère d'avocat ou
+d'avoué.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+
+_Créé par_:
+
+  - Décret n°2006-1632 du 19 décembre 2006 - art. 1 () JORF 21 décembre 2006
 
 
 #### Chapitre II : Procédures civiles simplifiées<a id=189></a>
