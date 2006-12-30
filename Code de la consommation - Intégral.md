@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2006-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-3)](#2)
@@ -6671,13 +6671,7 @@ conditions prévues ci-dessus, les sommes dues sont productives d'intérêts au 
 Les dispositions du présent article s'appliquent sans préjudice de celles qui soumettent légalement certains contrats à des
 règles particulières en ce qui concerne l'information du consommateur.
 
-**Nota:**
-
-NOTA : Loi 2005-67 du 28 janvier 2005 art. 7 :
-
-I : Les présentes dispositions entrent en vigueur six mois à compter de la date de promulgation de la présente loi.
-
-II : les présentes dispositions s'appliquent aux contrats en cours et à leur reconduction à ladite date de promulgation.
+Les trois alinéas précédents ne sont pas applicables aux exploitants des services d'eau potable et d'assainissement.
 
 **Liens relatifs à cet article**
 
@@ -6689,9 +6683,9 @@ _Codifié par_:
 
   - Loi n°93-949 1993-07-26
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-67 du 28 janvier 2005 - art. 1 () JORF 1er février 2005 en vigueur le 28 juillet 2005
+  - Loi n°2006-1772 du 30 décembre 2006 - art. 66 () JORF 31 décembre 2006
 
 
 ### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=47></a>
