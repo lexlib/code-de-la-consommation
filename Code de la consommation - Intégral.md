@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2007-08-22
+Version Consolidée au 2007-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-3)](#2)
@@ -235,63 +235,65 @@ Version Consolidée au 2007-08-22
             - [Annexes au Chapitre II du Titre Ier du Livre Ier (art. Annexe I à Annexe IV)](#232)
             - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#233)
             - [Annexe : clauses visées au troisième alinéa de l'article L. 132-1 (art. Annexe à l'article L132-1)](#234)
-            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#235)
-        - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#236)
-      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R334-2)](#237)
-        - [Chapitre Ier : Commission de surendettement des particuliers (art. R331-1 à R331-21)](#238)
-          - [Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers (art. R331-1 à R331-6-1)](#239)
-          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-7 à R331-21)](#240)
-            - [Sous-section 1 : Dispositions générales (art. R331-7 à R331-7-2)](#241)
-            - [Sous-section 2 : Instruction de la demande de traitement d'une situation de surendettement (art. R331-7-3 à R331-10-3)](#242)
-              - [Paragraphe 1er : Saisine de la commission (art. R331-7-3)](#243)
-              - [Paragraphe 2 : Examen de la recevabilité (art. R331-8)](#244)
-              - [Paragraphe 3 : Etat du passif (art. R331-9 à R331-10)](#245)
-              - [Paragraphe 4 : Orientation des dossiers des débiteurs en situation irrémédiablement compromise (art. R331-10-1 à R331-10-3)](#246)
-            - [Sous-section 3 : Vérification des créances (art. R331-11 à R331-12)](#247)
-            - [Sous-section 4 : Suspension des procédures d'exécution et remise de l'adjudication (art. R331-14 à R331-15)](#248)
-            - [Sous-section 5 : Mesures de traitement du surendettement (art. R331-15-1 à R331-21)](#249)
-              - [Paragraphe 1er : Dispositions communes (art. R331-15-1)](#250)
-              - [Paragraphe 2 : Plan conventionnel de redressement (art. R331-16 à R331-17)](#251)
-              - [Paragraphe 3 : Mesures recommandées par la commission (art. R331-18 à R331-21)](#252)
-        - [Chapitre II : Procédure devant le juge de l'exécution (art. R332-1 à R332-37)](#253)
-          - [Section 1 : Dispositions générales (art. R332-1 à R332-1-4)](#254)
-          - [Section 2 : Du contrôle par le juge des mesures recommandées (art. R332-2 à R332-10)](#255)
-            - [Sous-section 1 : Acquisition de la force exécutoire. (art. R332-2 à R332-3)](#256)
-            - [Sous-section 2 : Contestation des mesures recommandées. (art. R332-6 à R332-10)](#257)
-          - [Section 3 : Procédure de rétablissement personnel (art. R332-11 à R332-37)](#258)
-            - [Sous-section 1 : Ouverture de la procédure (art. R332-11 à R332-15)](#259)
-            - [Sous-section 2 : Déclaration des créances (art. R332-16 à R332-18)](#260)
-            - [Sous-section 3 : Arrêté des créances (art. R332-19 à R332-20)](#261)
-            - [Sous-section 4 : Dispositions diverses. (art. R332-21 à R332-22)](#262)
-            - [Sous-section 5 : Liquidation des biens du débiteur (art. R332-23 à R332-31)](#263)
-              - [Paragraphe 1er : Dispositions générales. (art. R332-23 à R332-25)](#264)
-              - [Paragraphe 2 : Dispositions particulières à la vente forcée d'immeubles. (art. R332-26 à R332-31)](#265)
-            - [Sous-section 6 : Répartition du prix. (art. R332-32 à R332-34)](#266)
-            - [Sous-section 7 : La clôture après liquidation. (art. R332-35 à R332-37)](#267)
-        - [Chapitre III : Dispositions communes (art. R333-1)](#268)
-        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. R334-1 à R334-2)](#269)
-          - [Section 1 : Dispositions applicables à Mayotte. (art. R334-1)](#270)
-          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie. (art. R334-2)](#271)
-      - [Titre IV : Dispositions diverses. (art. R333-5)](#272)
-    - [Livre IV : Les associations de consommateurs (art. R411-1 à R422-10)](#273)
-      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#274)
-        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#275)
-      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#276)
-        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#277)
-    - [Livre V : Les institutions (art. D511-1 à D541-7)](#278)
-      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#279)
-        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#280)
-          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#281)
-          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#282)
-          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#283)
-      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#284)
-        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#285)
-        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#286)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-5)](#287)
-        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#288)
-        - [Chapitre II : Organes consultatifs. (art. R532-1)](#289)
-        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#290)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#291)
+            - [ANNEXE A L'ARTICLE R311-6 (art. Annexe Modèle type n° 1 à Annexe Modèle type n° 6)](#235)
+            - [ANNEXE A L'ARTICLE R311-7 (art. Annexe à l'article R311-7)](#236)
+            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#237)
+        - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#238)
+      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R334-2)](#239)
+        - [Chapitre Ier : Commission de surendettement des particuliers (art. R331-1 à R331-21)](#240)
+          - [Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers (art. R331-1 à R331-6-1)](#241)
+          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-7 à R331-21)](#242)
+            - [Sous-section 1 : Dispositions générales (art. R331-7 à R331-7-2)](#243)
+            - [Sous-section 2 : Instruction de la demande de traitement d'une situation de surendettement (art. R331-7-3 à R331-10-3)](#244)
+              - [Paragraphe 1er : Saisine de la commission (art. R331-7-3)](#245)
+              - [Paragraphe 2 : Examen de la recevabilité (art. R331-8)](#246)
+              - [Paragraphe 3 : Etat du passif (art. R331-9 à R331-10)](#247)
+              - [Paragraphe 4 : Orientation des dossiers des débiteurs en situation irrémédiablement compromise (art. R331-10-1 à R331-10-3)](#248)
+            - [Sous-section 3 : Vérification des créances (art. R331-11 à R331-12)](#249)
+            - [Sous-section 4 : Suspension des procédures d'exécution et remise de l'adjudication (art. R331-14 à R331-15)](#250)
+            - [Sous-section 5 : Mesures de traitement du surendettement (art. R331-15-1 à R331-21)](#251)
+              - [Paragraphe 1er : Dispositions communes (art. R331-15-1)](#252)
+              - [Paragraphe 2 : Plan conventionnel de redressement (art. R331-16 à R331-17)](#253)
+              - [Paragraphe 3 : Mesures recommandées par la commission (art. R331-18 à R331-21)](#254)
+        - [Chapitre II : Procédure devant le juge de l'exécution (art. R332-1 à R332-37)](#255)
+          - [Section 1 : Dispositions générales (art. R332-1 à R332-1-4)](#256)
+          - [Section 2 : Du contrôle par le juge des mesures recommandées (art. R332-2 à R332-10)](#257)
+            - [Sous-section 1 : Acquisition de la force exécutoire. (art. R332-2 à R332-3)](#258)
+            - [Sous-section 2 : Contestation des mesures recommandées. (art. R332-6 à R332-10)](#259)
+          - [Section 3 : Procédure de rétablissement personnel (art. R332-11 à R332-37)](#260)
+            - [Sous-section 1 : Ouverture de la procédure (art. R332-11 à R332-15)](#261)
+            - [Sous-section 2 : Déclaration des créances (art. R332-16 à R332-18)](#262)
+            - [Sous-section 3 : Arrêté des créances (art. R332-19 à R332-20)](#263)
+            - [Sous-section 4 : Dispositions diverses. (art. R332-21 à R332-22)](#264)
+            - [Sous-section 5 : Liquidation des biens du débiteur (art. R332-23 à R332-31)](#265)
+              - [Paragraphe 1er : Dispositions générales. (art. R332-23 à R332-25)](#266)
+              - [Paragraphe 2 : Dispositions particulières à la vente forcée d'immeubles. (art. R332-26 à R332-31)](#267)
+            - [Sous-section 6 : Répartition du prix. (art. R332-32 à R332-34)](#268)
+            - [Sous-section 7 : La clôture après liquidation. (art. R332-35 à R332-37)](#269)
+        - [Chapitre III : Dispositions communes (art. R333-1)](#270)
+        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. R334-1 à R334-2)](#271)
+          - [Section 1 : Dispositions applicables à Mayotte. (art. R334-1)](#272)
+          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie. (art. R334-2)](#273)
+      - [Titre IV : Dispositions diverses. (art. R333-5)](#274)
+    - [Livre IV : Les associations de consommateurs (art. R411-1 à R422-10)](#275)
+      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#276)
+        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#277)
+      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#278)
+        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#279)
+    - [Livre V : Les institutions (art. D511-1 à D541-7)](#280)
+      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#281)
+        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#282)
+          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#283)
+          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#284)
+          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#285)
+      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#286)
+        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#287)
+        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#288)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-5)](#289)
+        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#290)
+        - [Chapitre II : Organes consultatifs. (art. R532-1)](#291)
+        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#292)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#293)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -26603,7 +26605,1506 @@ _Modifié par_:
   - Loi n°2005-67 du 28 janvier 2005 - art. 6 () JORF 1er février 2005
 
 
-##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=235></a>
+##### ANNEXE A L'ARTICLE R311-6<a id=235></a>
+
+###### Article Annexe Modèle type n° 1
+
+OFFRE PRÉALABLE DE CRÉDIT ACCESSOIRE À UNE VENTE (1) (À DOMICILE) (2) 
+
+Nom ou dénomination sociale et adresse du prêteur (3) :... 
+
+Numéro du registre du commerce et des sociétés (2) :... 
+
+Le (date) :... Elle est valable quinze jours (4), 
+
+soit jusqu'au :... 
+
+Le prêteur se réserve toutefois le droit d'accorder ou de refuser le crédit dans un délai de sept jours à compter de votre
+acceptation (cf. § 4.3 a du point IV) (2). 
+
+La présente offre de crédit est faite : 
+
+A (nom, prénoms, date, lieu de naissance, adresse de l'emprunteur) :... 
+
+Et à (nom, prénoms, date, lieu de naissance, adresse du coemprunteur) (2) :... 
+
+Elle est destinée à financer les achats (1) suivants : 
+
+Description sommaire du (des) bien (s) ou de la (des) prestation (s) de services :... 
+
+Bon (s) de commande n° (2) :... 
+
+Indication du vendeur ou du prestataire de services (5) :... 
+
+Elle est faite aux conditions suivantes : 
+
+Prix au comptant :... € 
+
+Versement comptant :... € 
+
+Montant du crédit :... € Durée : n mois (*). 
+
+I.-Coût total du crédit 
+
+Taux effectif global annuel :... % 
+
+Composé de : 
+
+Intérêts du prêt (*) :... € 
+
+Frais de dossier (2) :... € 
+
+Coût total du crédit sans assurance :... € 
+
+Coût de l'assurance [facultative (2)/ obligatoire pour l'obtention du financement (2) proposée par le prêteur (2) (**)] :...
+€ 
+
+Coût total du crédit avec assurance :... € 
+
+Echéances (*) : 
+
+Nombre d'échéances :... € 
+
+Périodicité : 
+
+Montant par échéance :... €
+
+- sans assurance :... €
+
+- avec assurance (2) :... € 
+
+(*) Le montant des intérêts, le montant des échéances et la durée indiqués ci-dessus sont calculés pour le paiement de la
+première échéance x jours après la date de mise à disposition des fonds. 
+
+Si cette dernière date diffère de plus de n jours de la date prévue, en plus ou en moins, le montant des intérêts et le
+montant des échéances seront ajustés dans la limite de 10 % au maximum du montant total des intérêts. Cette modification sera
+notifiée au plus tard sept jours avant la date de la première échéance. 
+
+(**) Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix (6). 
+
+(**) Vous pouvez ne pas adhérer à l'assurance facultative (indiquer les modalités) (7). 
+
+II.-Modalités de remboursement du crédit par l'emprunteur 
+
+Débit du compte bancaire (2). 
+
+Prélèvement sur compte bancaire (2) conformément à l'autorisation ci-jointe. 
+
+Chèque bancaire (2). 
+
+Virement bancaire (2). 
+
+Mandat (2). 
+
+Autres formules (2). 
+
+Nota.-L'utilisation de lettres de change ou de billets à ordre est interdite (art. L. 313-13 du code de la consommation). 
+
+III.-Caution (2) 
+
+Identité de la caution (nom, prénoms, adresse) :... 
+
+La personne qui accepte de se porter caution de votre obligation à l'égard du prêteur sera tenue d'y satisfaire à votre place
+en cas de défaillance de votre part. 
+
+IV.-Cette offre peut devenir votre contrat 
+
+de crédit dans les conditions suivantes 
+
+4.1. Acceptation de l'offre 
+
+Si cette offre vous convient, vous devez faire connaître au prêteur que vous l'acceptez en lui renvoyant un exemplaire de
+cette offre dûment rempli après avoir apposé votre signature. 
+
+4.2. Rétractation de l'acceptation 
+
+a) Après avoir accepté, vous pouvez revenir sur votre engagement, dans un délai de sept jours à compter de votre acceptation,
+en renvoyant le bordereau détachable joint après l'avoir signé. 
+
+b) Toutefois, si par écrit rédigé, daté et signé de votre main, vous avez expressément demandé à votre vendeur ou prestataire
+de services (5) de recevoir livraison immédiatement, ce délai de sept jours est ramené à la date de livraison du bien (ou du
+commencement d'exécution de la prestation de services) sans pouvoir jamais excéder sept jours ni être inférieur à trois jours
+(8). 
+
+c) En aucun cas l'exercice de ce droit de rétractation ne donne lieu à enregistrement sur un fichier. 
+
+4.3. Conclusion du contrat de prêt 
+
+a) Votre contrat devient définitif sept jours après votre acceptation [si le prêteur vous fait connaître sa décision de vous
+accorder le crédit (2)]. 
+
+Au cas où le prêteur vous informe de sa décision de vous accorder le crédit après l'expiration de ce délai de sept jours,
+vous aurez encore la possibilité de conclure le contrat de prêt si vous le souhaitez (2). 
+
+b) Nota.-Jusqu'à ce que le contrat de prêt devienne définitif, vous n'avez rien à payer au prêteur. 
+
+4.4. Rapports entre le contrat de prêt 
+
+et le contrat de vente (1) 
+
+a) Jusqu'à votre acceptation de l'offre de crédit, vous n'êtes tenu à aucun engagement à l'égard de votre vendeur ou
+prestataire de services (5). Celui-ci ne doit recevoir aucun paiement ni aucun dépôt en sus de la partie du prix que vous
+avez accepté de payer comptant. La validité et la prise d'effet de toute autorisation de prélèvement sont subordonnées à
+celles du contrat de vente. 
+
+b) Tant que le contrat de prêt n'est pas devenu définitif, votre vendeur ou prestataire de services (5) n'est pas obligé de
+faire la livraison ou la fourniture. Si, toutefois, celle-ci est faite avant la conclusion définitive du contrat de prêt, le
+vendeur ou prestataire de services en supporte les frais et risques. 
+
+c) Tant que le prêt demandé ne vous a pas été accordé ou, s'il l'a été, tant que le délai de rétractation de sept jours dont
+vous disposez ne s'est pas écoulé, vous n'avez rien à payer au vendeur ou prestataire de services (5), à l'exception, le cas
+échéant, de la partie du prix payable comptant (8). 
+
+d) Si vous avez renoncé à votre crédit ou si vous ne l'avez pas obtenu, la vente (1) est résolue, sauf si vous décidez de
+payer comptant. Le vendeur ou prestataire de services (5) doit alors vous rembourser, sur simple demande, l'intégralité des
+sommes que vous lui auriez versées à l'avance (8). Si celles-ci ne vous ont pas été restituées huit jours après votre demande
+de remboursement, elles produiront des intérêts au taux légal majoré de moitié (8). 
+
+e) Vos obligations à l'égard du prêteur ne prennent effet qu'à compter de la livraison du bien (ou de la fourniture de la
+prestation de services). 
+
+f) Si l'exécution de la vente (1) est échelonnée dans le temps, votre obligation de remboursement prend effet au début de
+cette exécution et cesse en cas d'interruption de celle-ci. 
+
+g) Nota.-Vous n'avez pas à prendre, vis-à-vis du vendeur ou prestataire de services, un engagement préalable de payer
+comptant pour le cas où votre prêt serait refusé. Un tel engagement serait nul de droit. 
+
+h) Le contrat de vente (1) mentionné ci-dessus doit préciser que le paiement du prix sera acquitté à l'aide d'un crédit, sous
+peine pour le vendeur (ou prestataire de services) des sanctions prévues à l'article L. 311-34 du code de la consommation. 
+
+V.-Exécution du contrat 
+
+5.1. Remboursement par anticipation. 
+
+Vous pouvez toujours, à votre initiative, rembourser par anticipation sans indemnité, en partie ou en totalité, le crédit qui
+vous a été consenti. 
+
+Toutefois, le prêteur peut refuser un remboursement partiel anticipé inférieur au montant fixé par décret, soit actuellement
+trois fois le montant contractuel de la première échéance non échue (selon l'art. D. 311-10 du code de la consommation). 
+
+5.2. En cas de défaillance de votre part dans les remboursements, le prêteur pourra exiger le remboursement immédiat du
+capital restant dû, majoré des intérêts échus mais non payés. Jusqu'à la date du règlement effectif, les sommes restant dues
+produisent les intérêts de retard à un taux égal à celui du prêt. En outre, le prêteur pourra vous demander une indemnité
+égale à 8 % du capital dû. Si le prêteur n'exige pas le remboursement immédiat du capital restant dû, il pourra exiger, outre
+le paiement des échéances échues impayées, une indemnité égale à 8 % desdites échéances. Cependant, dans le cas où il
+accepterait des reports d'échéances à venir, le taux de l'indemnité serait ramené à 4 % des échéances reportées. 
+
+5.3. Les indemnités ci-dessus peuvent être soumises, le cas échéant, au pouvoir d'appréciation du tribunal. 
+
+5.4. Aucune somme autre que celles mentionnées dans les deux cas ci-dessus ne pourra vous être réclamée par le prêteur, à
+l'exception cependant, en cas de défaillance, des frais taxables entraînés par cette défaillance. 
+
+5.5. En cas d'incident de paiement caractérisé, des informations vous concernant sont susceptibles d'être inscrites dans le
+fichier tenu à la Banque de France (FICP) accessible à l'ensemble des établissements de crédit. 
+
+VI.-Contentieux 
+
+6.1. Le tribunal d'instance connaît des litiges nés de l'application du chapitre Ier du titre Ier du livre III du code de la
+consommation. Les actions en paiement engagées devant lui à l'occasion de la défaillance de l'emprunteur doivent être formées
+dans les deux ans de l'événement qui leur a donné naissance à peine de forclusion. 
+
+Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un réaménagement ou d'un rééchelonnement, le
+point de départ du délai de forclusion est le premier incident non régularisé intervenu après le premier aménagement ou
+rééchelonnement conclu entre les intéressés ou après adoption du plan conventionnel de redressement prévu à l'article L.
+331-6 ou après décision du juge de l'exécution sur les mesures mentionnées à l'article L. 331-7. 
+
+Elles sont portées soit devant le tribunal du lieu où demeure le défendeur en justice, soit devant celui du lieu de livraison
+effective de la chose (ou du lieu de l'exécution de la prestation de services). 
+
+6.2. En cas de contestation sur l'exécution du contrat de vente (1) le tribunal pourra, jusqu'à la solution du litige,
+suspendre votre obligation de remboursement à l'égard du prêteur. Si la vente (1) est annulée ou résolue par le tribunal,
+votre contrat de crédit l'est automatiquement. Ces dispositions ne seront applicables que si le prêteur, dans le cas où il
+s'agit d'un établissement de crédit, est intervenu à l'instance ou s'il a été mis en cause par le vendeur ou le prestataire
+de services (5) ou par vous-même. 
+
+Signature du prêteur 
+
+VII.-Acceptation de l'offre préalable 
+
+Je soussigné,..., déclare accepter la présente offre préalable : 
+
+Sans assurance ; 
+
+Avec assurance (9). 
+
+Après avoir pris connaissance des conditions particulières et générales de l'offre et de la notice comportant les extraits
+des conditions générales de l'assurance (9), je reconnais rester en possession d'un exemplaire de cette offre doté d'un
+formulaire détachable de rétractation. 
+
+Date :... 
+
+Signature de l'emprunteur 
+
+Signature du coemprunteur (2) 
+
+(1) Ou prestation de services. 
+
+(2) Le cas échéant. 
+
+(3) Etablissement de crédit ou vendeur ou prestataire de services. 
+
+(4) Ou durée supérieure, le cas échéant, à l'initiative du prêteur. 
+
+(5) Si le vendeur ou le prestataire de service n'est pas le prêteur. 
+
+(6) A insérer si l'assurance est obligatoire pour l'obtention du financement. 
+
+(7) A insérer si l'assurance est facultative. 
+
+(8) Ces dispositions ne s'appliquent pas en cas de vente à domicile. 
+
+(9) En cas d'assurance, une notice doit être remise lors de la signature de l'offre préalable de crédit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997 - art. 1 (V)
+
+_Modifié par_:
+
+  - Arrêté du 19 décembre 2006 - art. Annexe, v. init.
+  - Arrêté du 14 mai 2007 - art. Annexe, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. D311-10 (Ab)
+  - Code de la consommation - art. L311-34 (V)
+  - Code de la consommation - art. L331-6 (VT)
+  - Code de la consommation - art. L331-7 (VT)
+
+
+###### Article Annexe Modèle type n° 2
+
+OFFRE PRÉALABLE DE PRÊT PERSONNEL 
+
+Nom (ou dénomination sociale) et adresse du prêteur :... 
+
+Numéro du registre du commerce et des sociétés :... 
+
+Le (date) :... 
+
+Elle est valable quinze jours (1), soit jusqu'au :... 
+
+Le prêteur se réserve toutefois le droit d'accorder ou de refuser le crédit dans un délai de sept jours à compter de votre
+acceptation (cf. § 4.3 a du point VI) (2). 
+
+La présente offre de crédit est faite : 
+
+A (nom, prénoms, date, lieu de naissance, adresse de l'emprunteur) :... 
+
+Et à (nom, prénoms, date, lieu de naissance, adresse du co-emprunteur) (2) :... 
+
+Elle est faite aux conditions suivantes : 
+
+Montant du crédit :... € 
+
+Durée : (n) mois (*) :.... 
+
+I.-Coût total du crédit 
+
+Taux effectif global annuel :... % 
+
+Composé de : 
+
+Intérêts du prêt (*) :... € 
+
+Frais de dossier (2) :... € 
+
+Coût total du crédit sans assurance :... € 
+
+Coût de l'assurance [facultative (2)/ obligatoire pour l'obtention du financement (2) proposée par le prêteur (2) (**)] :...
+€ 
+
+Coût total du crédit avec assurance :... € 
+
+Echéances (*) : 
+
+Nombre d'échéances :... 
+
+Périodicité :... 
+
+Montant par échéance :
+
+- sans assurance :... €
+
+- avec assurance (2) :... € 
+
+(*) Le montant des intérêts, le montant des échéances et la durée indiqués ci-dessus sont calculés pour le paiement de la
+première échéance x jours après la date de mise à disposition des fonds. 
+
+Si cette dernière date diffère de plus de n jours de la date prévue, en plus ou en moins, le montant des intérêts et le
+montant des échéances seront ajustés dans la limite de 10 % au maximum du montant total des intérêts. Cette modification sera
+notifiée au plus tard sept jours avant la date de la première échéance. 
+
+(**) Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix (3). 
+
+(**) Vous pouvez ne pas adhérer à l'assurance facultative (indiquer les modalités) (4). 
+
+II.-Modalités de remboursement du crédit 
+
+Débit du compte bancaire (2). 
+
+Prélèvement sur compte bancaire (2), conformément à l'autorisation ci-jointe. 
+
+Chèque bancaire (2). 
+
+Virement bancaire (2). 
+
+Mandat (2). 
+
+Autres formules (2). 
+
+Nota.-L'utilisation de lettres de change ou de billets à ordre est interdite (art. L. 313-13 du code de la consommation). 
+
+III.-Caution (2) 
+
+Identité de la caution (nom, prénoms, adresse) :... 
+
+La personne qui accepte de se porter caution de votre obligation à l'égard du prêteur sera tenue d'y satisfaire à votre place
+en cas de défaillance de votre part. 
+
+IV.-Cette offre peut devenir votre contrat 
+
+de crédit dans les conditions suivantes 
+
+4.1. Acceptation de l'offre 
+
+Si cette offre vous convient, vous devez faire connaître au prêteur que vous l'acceptez en lui renvoyant un exemplaire de
+cette offre dûment remplie après avoir apposé votre signature. 
+
+4.2. Rétractation de l'acceptation 
+
+a) Après avoir accepté, vous pouvez revenir sur votre engagement, dans un délai de sept jours à compter de votre acceptation,
+en renvoyant le bordereau détachable joint après l'avoir signé. 
+
+b) En aucun cas, l'exercice de ce droit de rétractation ne donne lieu à enregistrement sur un fichier. 
+
+4.3. Conclusion du contrat de prêt 
+
+a) Votre contrat devient définitif sept jours après votre acceptation (si le prêteur vous a fait connaître sa décision de
+vous accorder le crédit (2)). 
+
+Au cas où le prêteur vous informe de sa décision de vous accorder le crédit après l'expiration de ce délai de sept jours,
+vous aurez encore la possibilité de conclure le contrat de prêt si vous le souhaitez (2). 
+
+b) Nota.-Jusqu'à ce que le contrat de prêt devienne définitif, vous n'avez rien à payer au prêteur. 
+
+V.-Exécution du contrat 
+
+5.1. Remboursement par anticipation : 
+
+Vous pouvez toujours, à votre initiative, rembourser par anticipation sans indemnité, en partie ou en totalité, le crédit qui
+vous a été consenti. 
+
+Toutefois, le prêteur peut refuser un remboursement partiel anticipé inférieur au montant fixé par décret, soit actuellement
+trois fois le montant contractuel de la première échéance non échue (selon l'article D. 311-10 du code de la consommation). 
+
+5.2. En cas de défaillance de votre part dans les remboursements, le prêteur pourra exiger le remboursement immédiat du
+capital restant dû, majoré des intérêts échus mais non payés. Jusqu'à la date du règlement effectif, les sommes restant dues
+produisent les intérêts de retard à un taux égal à celui du prêt. En outre, le prêteur pourra vous demander une indemnité
+égale à 8 % du capital dû. Si le prêteur n'exige pas le remboursement immédiat du capital restant dû, il pourra exiger, outre
+le paiement des échéances échues impayées, une indemnité égale à 8 % desdites échéances. Cependant, dans le cas où il
+accepterait des reports d'échéances à venir, le taux de l'indemnité serait ramené à 4 % des échéances reportées. 
+
+5.3. Les indemnités ci-dessus peuvent être soumises, le cas échéant, au pouvoir d'appréciation du tribunal. 
+
+5.4. Aucune somme autre que celles mentionnées dans les deux cas ci-dessus ne pourra vous être réclamée par le prêteur, à
+l'exception cependant, en cas de défaillance, des frais taxables entraînés par cette défaillance. 
+
+5.5. En cas d'incident de paiement caractérisé, des informations vous concernant sont susceptibles d'être inscrites dans le
+fichier tenu à la Banque de France (FICP) accessible à l'ensemble des établissements de crédit. 
+
+VI.-Contentieux 
+
+6.1. Le tribunal d'instance connaît des litiges nés de l'application du chapitre Ier du titre Ier du livre III du code de la
+consommation. Les actions en paiement engagées devant lui à l'occasion de la défaillance de l'emprunteur doivent être formées
+dans les deux ans de l'événement qui leur a donné naissance à peine de forclusion. 
+
+Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un réaménagement ou d'un rééchelonnement, le
+point de départ du délai de forclusion est le premier incident non régularisé intervenu après le premier aménagement ou
+rééchelonnement conclu entre les intéressés ou après adoption du plan conventionnel de redressement prévu à l'article L.
+331-6 ou après décision du juge de l'exécution sur les mesures mentionnées à l'article L. 331-7. 
+
+Elles sont portées soit devant le tribunal du lieu où demeure le défendeur en justice, soit devant celui du lieu de livraison
+effective de la chose (ou du lieu de l'exécution de la prestation de services). 
+
+Signature du prêteur 
+
+VII.-Acceptation de l'offre préalable 
+
+Je soussigné,..., déclare accepter la présente 
+
+offre préalable : 
+
+Sans assurance. 
+
+Avec assurance (5). 
+
+Après avoir pris connaissance des conditions particulières et générales de l'offre et de la notice comportant les extraits
+des conditions générales de l'assurance (5), je reconnais rester en possession d'un exemplaire de cette offre doté d'un
+formulaire détachable de rétractation. 
+
+Date :... 
+
+Signature du co-emprunteur (2) Signature de l'emprunteur 
+
+(1) Ou durée supérieure, le cas échéant, à l'initiative du prêteur. 
+
+(2) Le cas échéant. 
+
+(3) A insérer si l'assurance est obligatoire pour l'obtention du financement. 
+
+(4) A insérer si l'assurance est facultative. 
+
+(5) En cas d'assurance, une notice doit être remise lors de la signature de l'offre préalable de crédit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997 - art. 1 (V)
+
+_Modifié par_:
+
+  - Arrêté du 19 décembre 2006 - art. Annexe, v. init.
+  - Arrêté du 14 mai 2007 - art. Annexe, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. D311-10 (Ab)
+  - Code de la consommation - art. L313-13 (V)
+  - Code de la consommation - art. L331-6 (VT)
+  - Code de la consommation - art. L331-7 (VT)
+
+
+###### Article Annexe Modèle type n° 3
+
+OFFRE PRÉALABLE D'OUVERTURE DE CRÉDIT 
+
+SOUS FORME DE DÉCOUVERT EN COMPTE DE DÉPÔT 
+
+Nom (ou dénomination sociale) et adresse du prêteur :... 
+
+Numéro du registre du commerce et des sociétés :... 
+
+Le (date) :... 
+
+Elle est valable quinze jours (1), 
+
+soit jusqu'au :... 
+
+Le prêteur se réserve toutefois le droit d'accorder ou de refuser le crédit dans un délai de sept jours à compter de votre
+acceptation (cf. §. 3 a du point IV) (2). 
+
+La présente offre de crédit est faite : 
+
+A (nom, prénoms, date, lieu de naissance, adresse de l'emprunteur) :... 
+
+Et à (nom, prénoms, date, lieu de naissance, adresse du co-emprunteur) :... 
+
+Modalités de l'ouverture de crédit : 
+
+Le prêteur vous autorise à tirer sur le compte désigné ci-dessous dans la limite du montant du découvert maximum autorisé. 
+
+Vous pouvez résilier le contrat à tout moment sans indemnité, à condition de rembourser immédiatement le découvert existant
+sur le compte :... 
+
+Elle est faite aux conditions suivantes : 
+
+Désignation du compte :... 
+
+Durée (3) :... 
+
+Montant maximum du découvert autorisé :... € 
+
+I.-Coût total du crédit 
+
+Taux effectif global annuel :... % 
+
+Dont frais de dossier (2) :... € 
+
+Les intérêts sont calculés au taux nominal de :... % 
+
+Ce taux est révisable. Il suivra les variations en plus ou en moins du taux de base que le prêteur applique aux opérations de
+même nature ou du taux qui figure dans les barèmes qu'il diffuse auprès du public (2). 
+
+En cas de révision du taux, vous en serez préalablement informé par écrit avant la date effective d'application du nouveau
+taux. 
+
+Vous pouvez, dans un délai de trente jours après réception de cette information, sur demande écrite adressée au prêteur,
+refuser cette révision. Dans ce cas, votre droit à crédit prend fin et le remboursement du crédit déjà utilisé s'effectuera
+de manière échelonnée, sauf avis contraire de votre part, aux conditions applicables avant la modification que vous avez
+refusée. 
+
+Nota.-Le coût total du crédit dépend de son utilisation. Il varie suivant le montant et la durée du découvert effectif de
+votre compte. 
+
+Assurance :... € par an (ou mois) (2).... 
+
+Si l'assurance est obligatoire pour le financement, vous pouvez souscrire une assurance équivalente auprès de l'assureur de
+votre choix. 
+
+Si l'assurance est facultative, vous pouvez ne pas y adhérer selon les modalités suivantes. 
+
+II.-Modalités de remboursement du crédit 
+
+Remboursements échelonnés (2) : 
+
+Le découvert devra être remboursé selon les modalités suivantes : 
+
+EUR... le... 
+
+EUR... le... 
+
+EUR... le... 
+
+Le découvert sera totalement remboursé au plus tard le... 
+
+Remboursement en une seule fois (2) :... 
+
+Le découvert sera remboursable en une seule fois. Il devra être totalement remboursé au plus tard le... 
+
+Autres modalités (2) :... 
+
+III.-Caution (2) 
+
+Identité de la caution (nom, prénoms, adresse) :... 
+
+La personne qui accepte de se porter caution de votre obligation à l'égard du prêteur sera tenue d'y satisfaire à votre place
+en cas de défaillance de votre part. 
+
+IV.-Cette offre peut devenir votre contrat de crédit 
+
+dans les conditions suivantes 
+
+4.1. Acceptation de l'offre 
+
+Si cette offre vous convient, vous devez faire connaître au prêteur que vous l'acceptez en lui renvoyant un exemplaire de
+cette offre après avoir apposé votre signature au bas de la formule d'acceptation dûment remplie. 
+
+4.2. Rétractation de l'acceptation 
+
+a) Après avoir accepté, vous pouvez revenir sur votre engagement, dans un délai de sept jours à compter de votre acceptation,
+en renvoyant le bordereau détachable joint après l'avoir signé. 
+
+b) En aucun cas l'exercice de ce droit de rétractation ne donne lieu à enregistrement sur un fichier 
+
+4.3. Conclusion du contrat de prêt 
+
+a) Votre contrat devient définitif sept jours après votre acceptation (si le prêteur vous a fait connaître sa décision de
+vous accorder le crédit (2)). 
+
+Au cas où le prêteur vous informe de sa décision de vous accorder le crédit après l'expiration de ce délai de sept jours,
+vous aurez encore la possibilité de conclure le contrat de prêt si vous le souhaitez. 
+
+b) Nota.-Jusqu'à ce que le contrat de prêt devienne définitif, vous n'avez rien à payer au prêteur. 
+
+V.-Exécution du contrat 
+
+5.1. En cas de défaillance de votre part dans les remboursements, le prêteur pourra exiger le remboursement immédiat du
+capital restant dû, majoré des intérêts échus mais non payés. Jusqu'à la date du règlement effectif, les sommes restant dues
+produisent les intérêts de retard à un taux égal à celui du prêt. En outre, le prêteur pourra vous demander une indemnité
+égale à 8 % du capital dû. Si le prêteur n'exige pas le remboursement immédiat du capital restant dû, il pourra exiger, outre
+le paiement des échéances échues impayées, une indemnité égale à 8 % desdites échéances. Cependant, dans le cas où il
+accepterait des reports d'échéances à venir, le taux de l'indemnité serait ramené à 4 % des échéances reportées. 
+
+5.2. Les indemnités ci-dessus peuvent être soumises, le cas échéant, au pouvoir d'appréciation du tribunal. 
+
+5.3. Aucune somme autre que celles mentionnées dans les deux cas ci-dessus ne pourra vous être réclamée par le prêteur, à
+l'exception cependant, en cas de défaillance, des frais taxables entraînés par cette défaillance. 
+
+5.4. En cas d'incident de paiement caractérisé, des informations vous concernant sont susceptibles d'être inscrites dans le
+fichier tenu à la Banque de France (FICP) accessible à l'ensemble des établissements de crédit. 
+
+VI.-Contentieux 
+
+6.1. Le tribunal d'instance connaît des litiges nés de l'application du chapitre Ier du titre Ier du livre III du code de la
+consommation. Les actions en paiement engagées devant lui à l'occasion de la défaillance de l'emprunteur doivent être formées
+dans les deux ans de l'événement qui leur a donné naissance à peine de forclusion. 
+
+Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un réaménagement ou d'un rééchelonnement, le
+point de départ du délai de forclusion est le premier incident non régularisé intervenu après le premier aménagement ou
+rééchelonnement conclu entre les intéressés ou après adoption du plan conventionnel de redressement prévu à l'article L.
+331-6 ou après décision du juge de l'exécution sur les mesures mentionnées à l'article L. 331-7. 
+
+Elles sont portées soit devant le tribunal du lieu où demeure le défendeur en justice, soit devant celui du lieu de livraison
+effective de la chose (ou du lieu de l'exécution de la prestation de services). 
+
+Signature du prêteur 
+
+VII.-Acceptation de l'offre préalable 
+
+Je soussigné,..., déclare accepter la présente offre préalable : 
+
+Sans assurance. 
+
+Avec assurance (4). 
+
+Après avoir pris connaissance des conditions particulières et générales de l'offre et de la notice comportant les extraits
+des conditions générales de l'assurance (4), je reconnais rester en possession d'un exemplaire de cette offre doté d'un
+formulaire détachable de rétractation. 
+
+Date :... 
+
+Signature de l'emprunteur 
+
+Signature du co-emprunteur (2) 
+
+(1) Ou durée supérieure, le cas échéant, à l'initiative du prêteur. 
+
+(2) Le cas échéant. 
+
+(3) Conclue en accord avec l'emprunteur. 
+
+(4) En cas d'assurance, une notice doit être remise lors de la signature de l'offre préalable de crédit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997 - art. 1 (V)
+
+_Modifié par_:
+
+  - Arrêté du 19 décembre 2006 - art. Annexe, v. init.
+  - Arrêté du 14 mai 2007 - art. Annexe, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-6 (VT)
+  - Code de la consommation - art. L331-7 (VT)
+
+
+###### Article Annexe Modèle type n° 4
+
+OFFRE PRÉALABLE D'OUVERTURE DE CRÉDIT RENOUVELABLE SUR UN COMPTE SPÉCIALEMENT OUVERT À CET EFFET, UTILISABLE PAR FRACTIONS ET
+ASSORTIE DE MOYENS D'UTILISATION DU COMPTE (*) 
+
+(*) Préciser le ou les moyen (s) d'utilisation du compte :... 
+
+Nom (ou dénomination sociale) et adresse du prêteur :... 
+
+Numéro de registre du commerce et des sociétés :... 
+
+Le (date) :... 
+
+Elle est valable quinze jours (1), soit jusqu'au :... 
+
+Le prêteur se réserve toutefois le droit d'accorder ou de refuser le crédit dans un délai de sept jours à compter de votre
+acceptation (cf. § 4.3 a du point IV) (2). 
+
+La présente offre de crédit est faite : 
+
+A (nom, prénoms, date, lieu de naissance, adresse de l'emprunteur) :... 
+
+Et à (nom, prénoms, date, lieu de naissance, adresse du co-emprunteur) (2)... 
+
+Elle est destinée à :
+
+- financer, chez les commerçants acceptant la carte associée à l'utilisation de ce type de crédit, le paiement intégral des
+biens achetés ou des services rendus (2) ;
+
+- effectuer des retraits d'argent liquide (2) ;
+
+- effectuer des virements à partir de ce compte de crédit (2) ;
+
+- autres fonctions, précisez (2) :... 
+
+Modalités de fonctionnement : 
+
+Elle est faite aux conditions suivantes : 
+
+Le prêteur vous consent un crédit dans la limite d'un montant maximum autorisé de... € 
+
+Fractions périodiquement disponibles (2)... € 
+
+Dans la limite du montant maximum autorisé, le prêteur vous autorise à disposer de votre crédit en compte, de façon
+fractionnée, aux dates de votre choix. 
+
+Vous pouvez demander à tout moment la réduction du crédit, la suspension de votre droit à l'utiliser ou la résiliation du
+contrat. Dans ce dernier cas, vous êtes tenu de rembourser, aux conditions du contrat, le montant du crédit déjà utilisé. 
+
+La durée du contrat est d'un an éventuellement renouvelable. S'il consent au renouvellement, le prêteur vous indiquera, trois
+mois avant l'échéance annuelle de votre contrat, les conditions de reconduction. En cas de non-reconduction du contrat, vous
+êtes tenu de rembourser, aux conditions du contrat, le montant du crédit déjà utilisé. 
+
+Vous pouvez vous opposer aux modifications proposées, lors de la reconduction du contrat, jusqu'au moins vingt jours avant la
+date où celles-ci deviennent effectives, en utilisant le bordereau-réponse annexé aux informations écrites communiquées par
+le prêteur. 
+
+En cas de refus des nouvelles conditions de taux ou de remboursement proposés lors de la reconduction du contrat,
+l'emprunteur est tenu de rembourser, aux conditions précédant les modifications proposées, le montant de la réserve d'argent
+déjà utilisé, sans pouvoir, toutefois, procéder à une nouvelle utilisation de l'ouverture de crédit. 
+
+I.-Coût total du crédit 
+
+Taux effectif global annuel :... % 
+
+Dont frais de dossier (2) :... € 
+
+Les intérêts sont calculés au taux nominal de :... % 
+
+Ce taux est révisable. Il suivra les variations en plus ou en moins du taux de base que le prêteur applique aux opérations de
+même nature ou du taux qui figure dans les barèmes qu'il diffuse auprès du public (2). 
+
+En cas de révision du taux, vous en serez préalablement informé par écrit (par courrier) avant la date effective
+d'application du nouveau taux. 
+
+Vous pouvez, dans un délai de trente jours après réception de cette information, sur demande écrite adressée au prêteur,
+refuser cette révision. Dans ce cas, votre droit à crédit prend fin et le remboursement du crédit déjà utilisé s'effectuera
+de manière échelonnée, sauf avis contraire de votre part, aux conditions applicables avant la modification que vous avez
+refusée. 
+
+Coût total du crédit : il dépend de son utilisation. Il varie suivant le montant et la durée du crédit effectivement utilisé
+et remboursé. 
+
+Coût de l'assurance facultative (2)/ obligatoire pour l'obtention du financement (2) proposée par le prêteur (2) (**) :... 
+
+(*) Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix (3). 
+
+(**) Vous pouvez ne pas adhérer à l'assurance facultative (indiquer les modalités) (4). 
+
+II.-Conditions et modalités de remboursement du crédit 
+
+2.1. Conditions de remboursement 
+
+En cas d'utilisation de l'ouverture de crédit, vous êtes tenu de régler au prêteur un montant minimum, dans la limite des
+sommes dues, de :.... (montant 
+
+ou modalités de détermination, périodicité) (2). 
+
+Vous pouvez, à tout moment, rembourser sans indemnité, en partie ou en totalité, le crédit que vous avez utilisé. 
+
+2.2. Modalités de remboursement 
+
+Prélèvement sur compte bancaire (2), conformément à l'autorisation ci-jointe. 
+
+Chèque bancaire (2). 
+
+Virement bancaire (2). 
+
+Mandat (2). 
+
+Autres formules (2). 
+
+Nota.-L'utilisation de lettres de change ou de billets à ordre est interdite (art. L. 313-13 du code de la consommation). 
+
+III.-Caution (2) 
+
+Identité de la caution (nom, prénoms, adresse) :... 
+
+La personne qui accepte de se porter caution de votre obligation à l'égard du prêteur sera tenue d'y satisfaire à votre place
+en cas de défaillance de votre part. 
+
+IV.-Cette offre peut devenir votre contrat 
+
+de crédit dans les conditions suivantes 
+
+4.1. Acceptation de l'offre 
+
+Si cette offre vous convient, vous devez faire connaître au prêteur que vous l'acceptez en lui renvoyant un exemplaire de
+cette offre dûment remplie après avoir apposé votre signature. 
+
+4.2. Rétractation de l'acceptation 
+
+a) Après avoir accepté, vous pouvez revenir sur votre engagement, dans un délai de sept jours à compter de votre acceptation,
+en renvoyant le bordereau détachable joint après l'avoir daté et signé. 
+
+b) En aucun cas l'exercice de ce droit de rétractation ne donne lieu à enregistrement sur un fichier. 
+
+4.3. Conclusion du contrat de crédit 
+
+a) Votre contrat devient définitif sept jours après votre acceptation (si le prêteur vous a fait connaître sa décision de
+vous accorder le crédit) (2). 
+
+Au cas où le prêteur vous informe de sa décision de vous accorder le crédit après l'expiration de ce délai de sept jours,
+vous aurez encore la possibilité de conclure le contrat de prêt si vous le souhaitez (2). 
+
+b) Nota.-Jusqu'à ce que le contrat de prêt devienne définitif, vous n'avez rien à payer au prêteur. 
+
+V.-Exécution du contrat 
+
+5.1. En cas de défaillance de votre part dans les remboursements, le prêteur pourra exiger le remboursement immédiat du
+capital restant dû, majoré des intérêts échus mais non payés. Jusqu'à la date du règlement effectif, les sommes restant dues
+produisent les intérêts de retard à un taux égal à celui du prêt. En outre, le prêteur pourra vous demander une indemnité
+égale à 8 % du capital dû. Si le prêteur n'exige pas le remboursement immédiat du capital restant dû, il pourra exiger, outre
+le paiement des échéances échues impayées, une indemnité égale à 8 % desdites échéances. Cependant, dans le cas où il
+accepterait des reports d'échéances à venir, le taux de l'indemnité serait ramené à 4 % des échéances reportées. 
+
+5.2. Les indemnités ci-dessus peuvent être soumises, le cas échéant, au pouvoir d'appréciation du tribunal. 
+
+5.3. Aucune somme autre que celles mentionnées dans les deux cas ci-dessus ne pourra vous être réclamée par le prêteur, à
+l'exception cependant, en cas de défaillance, des frais taxables entraînés par cette défaillance. 
+
+5.4. En cas d'incident de paiement caractérisé, des informations vous concernant sont susceptibles d'être inscrites dans le
+fichier tenu à la Banque de France (FICP) accessible à l'ensemble des établissements de crédit. 
+
+VI.-Contentieux 
+
+6.1. Le tribunal d'instance connaît des litiges nés de l'application du chapitre Ier du titre Ier du livre III du code de la
+consommation. Les actions en paiement engagées devant lui à l'occasion de la défaillance de l'emprunteur doivent être formées
+dans les deux ans de l'événement qui leur a donné naissance à peine de forclusion. 
+
+Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un réaménagement ou d'un rééchelonnement, le
+point de départ du délai de forclusion est le premier incident non régularisé intervenu après le premier aménagement ou
+rééchelonnement conclu entre les intéressés ou après adoption du plan conventionnel de redressement prévu à l'article L.
+331-6 ou après décision du juge de l'exécution sur les mesures mentionnées à l'article L. 331-7. 
+
+Elles sont portées soit devant le tribunal du lieu où demeure le défendeur en justice, soit devant celui du lieu de livraison
+effective de la chose (ou du lieu de l'exécution de la prestation de services). 
+
+Signature du prêteur 
+
+VII.-Acceptation de l'offre préalable 
+
+Je soussigné,..., déclare accepter 
+
+la présente offre préalable : 
+
+Sans assurance. 
+
+Avec assurance (5). 
+
+Après avoir pris connaissance des conditions particulières et générales de l'offre et de la notice comportant les extraits
+des conditions générales de l'assurance (5), je reconnais rester en possession d'un exemplaire de cette offre doté d'un
+formulaire détachable de rétractation. 
+
+Date :... 
+
+Signature du co-emprunteur (2) 
+
+Signature de l'emprunteur 
+
+(1) Ou durée supérieure, le cas échéant, à l'initiative du prêteur. 
+
+(2) Le cas échéant. 
+
+(3) A insérer si l'assurance est obligatoire. 
+
+(4) A insérer si l'assurance est facultative. 
+
+(5) En cas d'assurance, une notice doit être remise lors de la signature de l'offre préalable de crédit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997 - art. 1 (V)
+
+_Modifié par_:
+
+  - Arrêté du 19 décembre 2006 - art. Annexe, v. init.
+  - Arrêté du 14 mai 2007 - art. Annexe, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L313-13 (V)
+  - Code de la consommation - art. L331-6 (VT)
+  - Code de la consommation - art. L331-7 (VT)
+
+
+###### Article Annexe Modèle type n° 5
+
+OFFRE PRÉALABLE DE LOCATION AVEC OPTION D'ACHAT 
+
+Nom ou dénomination sociale et adresse du bailleur :... 
+
+Numéro du registre de commerce et des sociétés :... 
+
+Le (date) :... Elle est valable quinze jours (1), soit jusqu'au :... 
+
+Le bailleur se réserve toutefois le droit d'accorder ou de refuser la location dans un délai de sept jours à compter de votre
+acceptation (cf. § 4.3 a du point IV) (2). 
+
+La présente offre de location est faite : 
+
+A (nom, prénoms, date, lieu de naissance, adresse du locataire) :... 
+
+Et à (nom, prénoms, date, lieu de naissance, adresse du co-locataire) (2) :... 
+
+Elle est destinée à louer : 
+
+Description ou désignation du bien loué :... 
+
+Indication du vendeur (3) :... 
+
+Prix au comptant (4) :... 
+
+Elle est faite aux conditions suivantes : 
+
+Durée :... 
+
+Option d'achat au terme de la location ou prix de vente final au terme de la location :... % du prix d'achat TTC du bien loué
+et/ ou montant en euros. 
+
+Option d'achat en cours de location (5) :... % du prix d'achat TTC du bien loué et/ ou montant en euros. 
+
+I.-Coût de la location 
+
+Périodicité des loyers : 
+
+Montant des loyers en euros et/ ou en pourcentage pour chacune des années :... 
+
+Total des loyers TTC (avec ou sans assurance) :... en euros et/ ou en % du prix d'achat TTC du bien loué. 
+
+Coût de l'assurance [facultative (2)/ obligatoire pour l'obtention du financement proposée par le bailleur (2)] :... 
+
+Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix (6). 
+
+Vous pouvez ne pas adhérer à l'assurance facultative (indiquer les modalités) (6). 
+
+Si le bien est acheté en fin de location, ajouter au total des loyers ci-dessus le prix de vente final, soit... euros 
+
+et/ ou... % du prix d'achat TTC du bien loué. 
+
+Soit coût total : euros et/ ou % du prix d'achat TTC 
+
+du bien loué. 
+
+Dépôt de garantie :... euros et/ ou... % du prix d'achat du bien loué. 
+
+Il sera restitué au terme de la location ou imputé sur le prix de vente en cas d'achat ou d'interruption de la location. 
+
+Il ne porte pas intérêt (ou il produit des intérêts au taux de %) (2). 
+
+Nota.-Pour comparer le coût de la présente offre avec d'autres, il est nécessaire que ces dernières soient identiques : même
+durée, même périodicité et mêmes montants de loyer, même prix de vente final et éventuellement même dépôt de garantie. 
+
+II.-Modalités de paiement des loyers 
+
+Débit du compte bancaire (2). 
+
+Prélèvement sur compte bancaire (2) conformément à l'autorisation ci-jointe. 
+
+Chèque bancaire (2). 
+
+Virement bancaire (2). 
+
+Mandat (2). 
+
+Autres formules (2). 
+
+Nota.-L'utilisation de lettres de change ou de billets à ordre est interdite (art. L. 313-13 du code de la consommation). 
+
+III.-Caution (2) 
+
+Identité de la caution (nom, prénoms, adresse) :... 
+
+La personne qui accepte de se porter caution de votre obligation à l'égard du bailleur sera tenue d'y satisfaire à votre
+place en cas de défaillance de votre part. 
+
+IV.-Cette offre peut devenir votre contrat 
+
+de location dans les conditions suivantes 
+
+4.1. Acceptation de l'offre 
+
+Si cette offre vous convient, vous devez faire connaître au bailleur que vous l'acceptez en lui renvoyant un exemplaire de
+cette offre dûment remplie après avoir apposé votre signature. 
+
+4.2. Rétractation de l'acceptation 
+
+a) Après avoir accepté, vous pouvez revenir sur votre engagement, dans un délai de sept jours à compter de votre acceptation,
+en renvoyant le formulaire détachable joint après l'avoir signé. 
+
+b) Toutefois, si par écrit rédigé, daté et signé de votre main vous avez expressément demandé au vendeur de recevoir
+livraison immédiatement, ce délai de sept jours est ramené à la date de livraison du bien, sans pouvoir excéder sept jours ni
+être inférieur à trois jours (7). 
+
+c) En aucun cas l'exercice de ce droit de rétractation ne donne lieu à enregistrement sur un fichier. 
+
+4.3. Conclusion du contrat de location 
+
+a) Le contrat devient définitif sept jours après votre acceptation [si le bailleur vous a fait connaître son accord (2)]. 
+
+Au cas où le bailleur vous informerait de son accord après l'expiration de ce délai de sept jours, vous aurez encore la
+possibilité de conclure le contrat de location si vous le souhaitez (2). 
+
+b) Nota.-Jusqu'à ce que le contrat de location devienne définitif, vous n'avez rien à payer au bailleur. 
+
+4.4. Rapports entre le contrat de location 
+
+et le contrat de vente 
+
+a) Jusqu'à votre acceptation de l'offre de location, vous n'êtes tenu à aucun engagement à l'égard du vendeur et vous ne
+devez rien lui payer. La validité et la prise d'effet de toute autorisation de prélèvement sont subordonnées à celles du
+contrat de vente. 
+
+b) Tant que le contrat de location n'est pas devenu définitif, le vendeur n'est pas obligé de faire la livraison de la
+fourniture. Si, toutefois, celle-ci est faite avant la conclusion définitive du contrat de location, le vendeur en supporte
+les frais et risques. 
+
+c) Si vous avez renoncé à votre location après l'avoir acceptée (ou si vous ne l'avez pas obtenue) (2), la vente est annulée,
+sauf paiement comptant de votre part. Le vendeur doit alors vous rembourser, sur simple demande, l'intégralité des sommes que
+vous lui auriez versées à l'avance (7). Si celles-ci ne vous ont pas été restituées huit jours après votre demande de
+remboursement, elles produiront des intérêts au taux légal majoré de moitié (7). 
+
+d) Vos obligations à l'égard du bailleur ne prennent effet qu'à compter de la livraison du bien. 
+
+e) Nota.-Vous n'avez pas à prendre, vis-à-vis du vendeur, d'engagement préalable de payer comptant pour le cas où votre
+location serait refusée. Un tel engagement serait nul de droit. 
+
+f) Le contrat de vente mentionné ci-dessus doit préciser que le bien sera acquis sous forme de location assortie d'une option
+d'achat, sous peine pour le vendeur des sanctions prévues à l'article L. 311-34 du code de la consommation. 
+
+V.-Exécution du contrat 
+
+5.1. En cas de défaillance de votre part (non-paiement des loyers ou non-respect d'une obligation essentielle du contrat), le
+bailleur pourra exiger une indemnité égale à la différence entre :
+
+- d'une part, la valeur résiduelle hors taxes du bien stipulée au contrat, augmentée de la valeur actualisée, à la date de
+résiliation du contrat, de la somme hors taxes des loyers non encore échus ; et
+
+- d'autre part, la valeur vénale hors taxes du bien restitué. 
+
+La valeur actualisée des loyers non encore échus est calculée selon la méthode des intérêts composés en prenant comme taux
+annuel de référence le taux moyen de rendement des obligations émises au cours du semestre civil précédant la date de
+conclusion du contrat majoré de la moitié. 
+
+La valeur vénale est celle obtenue par le bailleur s'il vend le bien restitué ou repris. 
+
+Toutefois, lorsque le bailleur a l'intention de vendre le bien, il doit vous aviser que vous disposez d'un délai de trente
+jours à compter de la résiliation du contrat pour présenter un acquéreur faisant une offre écrite d'achat. 
+
+Si le bailleur accepte l'offre, la valeur vénale du bien est le prix convenu entre l'acquéreur et lui. 
+
+Si le bailleur n'accepte pas cette offre et s'il vend ultérieurement à un prix inférieur, la valeur à déduire devra être
+celle de l'offre refusée par lui. 
+
+A défaut de vente ou sur votre demande, il peut y avoir évaluation de la valeur vénale à dire d'expert. 
+
+Lorsque le bailleur n'exige pas la résiliation du contrat, il peut demander une indemnité égale à 8 % des échéances échues
+impayées. Cependant, dans le cas où il accepte des reports d'échéances à venir, le montant de l'indemnité est ramené à 4 %
+des échéances reportées. 
+
+Le montant de l'indemnité est majoré des taxes fiscales applicables. 
+
+5.2. Les indemnités ci-dessus peuvent être soumises, le cas échéant, au pouvoir d'appréciation du tribunal. 
+
+5.3. Aucune somme autre que celles qui sont mentionnées dans les deux cas ci-dessus ne pourra vous être réclamée, à
+l'exception cependant, en cas de défaillance de votre part, des frais taxables entraînés par cette défaillance. 
+
+5.4. En cas d'incident de paiement caractérisé, des informations vous concernant sont susceptibles d'être inscrites dans le
+fichier tenu à la Banque de France (FICP) accessible à l'ensemble des établissements de crédit. 
+
+VI.-Contentieux 
+
+6.1. Le tribunal d'instance connaît des litiges nés de l'application du chapitre Ier du Titre Ier du livre III du code de la
+consommation. Les actions en paiement engagées devant lui à l'occasion de la défaillance du locataire doivent être formées
+dans les deux ans de l'événement qui leur a donné naissance à peine de forclusion. 
+
+Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un réaménagement ou d'un rééchelonnement, le
+point de départ du délai de forclusion est le premier incident non régularisé intervenu après le premier aménagement ou
+rééchelonnement conclu entre les intéressés ou après adoption du plan conventionnel de redressement prévu à l'article L.
+331-6 ou après décision du juge de l'exécution sur les mesures mentionnées à l'article L. 331-7. 
+
+Elles sont portées soit devant le tribunal du lieu où demeure le défendeur en justice, soit devant celui du lieu de livraison
+effective de la chose. 
+
+6.2. En cas de contestation sur l'exécution du contrat de vente du bien loué, le tribunal pourra, jusqu'à la solution du
+litige, suspendre votre obligation de paiement des loyers. Si la vente est annulée par le tribunal, votre contrat de location
+l'est automatiquement (à condition toutefois que le bailleur soit intervenu à l'instance ou qu'il ait été mis en cause par
+vous-même ou le vendeur) (2). 
+
+Si l'annulation du contrat de vente survient du fait du vendeur, celui-ci pourra, à la demande du bailleur, être condamné par
+le tribunal à garantir le paiement des loyers sans préjudice de dommages-intérêts. 
+
+Signature du bailleur 
+
+VII.-Acceptation de l'offre préalable 
+
+Je soussigné,..., déclare accepter la présidente offre préalable : 
+
+Sans assurance ; 
+
+Avec assurance (8), 
+
+après avoir pris connaissance des conditions particulières et générales de l'offre et de la notice comportant les extraits
+des conditions générales de l'assurance (8), je reconnais rester en possession d'un exemplaire de cette offre doté d'un
+formulaire détachable de rétractation. 
+
+Date :... 
+
+Signature du locataire 
+
+Signature du colocataire (2) 
+
+(1) Ou durée supérieure, le cas échéant, à l'initiative du bailleur. 
+
+(2) Le cas échéant. 
+
+(3) Si le bien loué est acheté par le bailleur à un autre vendeur. 
+
+(4) Prix approximatif si le prix de vente exact du bien n'est connu au moment de l'établissement de l'offre. 
+
+(5) Mention facultative. 
+
+(6) L'offre doit comporter celle de ces deux phrases qui correspond à l'assurance proposée. 
+
+(7) Mention à supprimer en cas de vente à domicile. 
+
+(8) En cas d'assurance, une notice doit être remise lors de la signature de l'offre préalable de crédit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997 - art. 1 (V)
+
+_Modifié par_:
+
+  - Arrêté du 19 décembre 2006 - art. Annexe, v. init.
+  - Arrêté du 14 mai 2007 - art. Annexe, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-6 (VT)
+  - Code de la consommation - art. L331-7 (VT)
+
+
+###### Article Annexe Modèle type n° 6
+
+OFFRE PRÉALABLE DE LOCATION-VENTE 
+
+Nom ou dénomination sociale et adresse du bailleur :... 
+
+Numéro du registre de commerce et des sociétés :... 
+
+Le (date) :... Elle est valable quinze jours (1), 
+
+soit jusqu'au :... 
+
+Le bailleur se réserve toutefois le droit d'accorder ou de refuser la location-vente dans un délai de sept jours à compter de
+votre acceptation (cf. § 3 a du point IV) (4). 
+
+La présente offre de location-vente est faite : 
+
+A (nom, prénoms, date, lieu de naissance, adresse du locataire) :... 
+
+Et à (nom, prénoms, date, lieu de naissance, adresse du colocataire) :... 
+
+Elle est destinée à financer :... 
+
+Description ou désignation du bien loué :... 
+
+Indication du vendeur (2) :... 
+
+Prix au comptant (3)... 
+
+Elle est faite aux conditions suivantes : 
+
+Durée :... 
+
+Prix de vente final au terme de la location :.......... % du prix d'achat TTC du bien loué et/ ou montant en euros. 
+
+Prix de vente en cours de location :.......... % du prix d'achat TTC du bien loué et/ ou montant en euros (4). 
+
+I.-Coût de la location 
+
+Périodicité des loyers : 
+
+Montant des loyers en euros et/ ou en pourcentage pour chacune des années :... 
+
+Total des loyers TTC (avec ou sans assurance) :... en euros et/ ou en % du prix d'achat TTC du bien loué. 
+
+Coût de l'assurance [facultative (4)/ obligatoire pour l'obtention du financement (4) proposée par le prêteur] :... 
+
+Vous pouvez souscrire une assurance équivalente auprès de l'assureur de votre choix (6). 
+
+Vous pouvez ne pas adhérer à l'assurance facultative (indiquer les modalités) (6). 
+
+Si le bien est acheté en fin de location, ajouter au total des loyers ci-dessus le prix de vente final, soit... euros et/
+ou... % 
+
+du prix d'achat TTC du bien loué. 
+
+Soit coût total :... euros et/ ou... % du prix d'achat TTC du bien loué. 
+
+Dépôt de garantie :... euros et/ ou... % du prix d'achat du bien loué. 
+
+Il sera restitué au terme de la location ou imputé sur le prix de vente lors de l'achat ou d'interruption de la location. 
+
+Il ne porte pas intérêt (ou il produit des intérêts au taux de........... %) (4). 
+
+Nota.-Pour comparer le coût de la présente offre avec d'autres, il est nécessaire que ces dernières soient identiques : même
+durée, même périodicité et mêmes montants de loyer, même prix de vente final et éventuellement même dépôt de garantie. 
+
+II.-Modalités de paiement des loyers 
+
+Débit du compte bancaire (4). 
+
+Prélèvement sur compte bancaire ou postal (4), conformément à l'autorisation ci-jointe. 
+
+Chèque bancaire (4). 
+
+Virement bancaire (4). 
+
+Mandat (4). 
+
+Autres formules (4). 
+
+Nota.-L'utilisation de lettres de change ou de billets à ordre est interdite (art. L. 313-13 du code de la consommation). 
+
+III.-Caution (4) 
+
+Identité de la caution (nom, prénoms, adresse) :... 
+
+La personne qui accepte de se porter caution de votre obligation à l'égard du bailleur sera tenue d'y satisfaire à votre
+place en cas de défaillance de votre part. 
+
+IV.-Cette offre peut devenir votre contrat de location 
+
+dans les conditions suivantes 
+
+4.1. Acceptation de l'offre 
+
+Si cette offre vous convient, vous devez faire connaître au bailleur que vous l'acceptez en lui renvoyant un exemplaire de
+cette offre après avoir apposé votre signature au bas de la formule d'acceptation dûment remplie. 
+
+4.2. Rétractation de l'acceptation 
+
+a) Après avoir accepté, vous pouvez revenir sur votre engagement dans un délai de sept jours à compter de votre acceptation,
+en renvoyant le formulaire détachable joint après l'avoir signé. 
+
+b) Toutefois, si par écrit rédigé, daté et signé de votre main vous avez expressément demandé au vendeur de recevoir
+livraison immédiatement, ce délai de sept jours est ramené à la date de livraison du bien, sans pouvoir excéder sept jours ni
+être inférieur à trois jours (7). 
+
+c) En aucun cas l'exercice de ce droit de rétractation ne donne lieu à enregistrement sur un fichier. 
+
+4.3. Conclusion du contrat de location 
+
+a) Le contrat devient définitif sept jours après votre acceptation [si le bailleur vous a fait connaître son accord (4)]. 
+
+Au cas où le bailleur vous informe de sa décision de vous accorder la location après l'expiration de ce délai de sept jours,
+vous aurez encore la possibilité de conclure le contrat de location si vous le souhaitez (4). 
+
+b) Nota.-Jusqu'à ce que le contrat de location devienne définitif, vous n'avez rien à payer au bailleur. 
+
+4.4. Rapports entre le contrat de location 
+
+et le contrat de vente 
+
+a) Jusqu'à votre acceptation de l'offre de location, nous n'êtes tenu à aucun engagement à l'égard de votre vendeur et vous
+ne devez rien lui payer. La validité et la prise d'effet de toute autorisation de prélèevment sont subordonnées à celles du
+contrat de vente. 
+
+b) Tant que le contrat de location n'est pas devenu définitif, le vendeur n'est pas obligé de faire la livraison de la
+fourniture. Si, toutefois, celle-ci est faite avant la conclusion définitive du contrat de location, le vendeur en supporte
+les frais et risques. 
+
+c) Si vous avez renoncé à votre location après l'avoir acceptée (ou si vous ne l'avez pas obtenue) (4), la vente est annulée,
+sauf paiement comptant de votre part. Le vendeur doit alors vous rembourser, sur simple demande, l'intégralité des sommes que
+vous lui auriez versées à l'avance (7). Si celles-ci ne vous ont pas été restituées huit jours après votre demande de
+remboursement, elles produiront des intérêts au taux légal majoré de moitié (7). 
+
+d) Vos obligations à l'égard du bailleur ne prennent effet qu'à compter de la livraison du bien. 
+
+e) Vous n'avez pas à prendre, vis-à-vis du vendeur, d'engagement préalable de payer comptant pour le cas où votre location
+serait refusée. Un tel engagement serait nul de droit. 
+
+f) Le contrat de vente mentionné ci-dessus doit préciser que le bien sera acquis sous forme de location-vente, sous peine
+pour le vendeur des sanctions prévues à l'article L. 311-34 du code de la consommation. 
+
+V.-Exécution du contrat 
+
+5.1. En cas de défaillance de votre part (non-paiement des loyers ou non-respect d'une obligation essentielle du contrat), le
+bailleur pourra exiger une indemnité égale à la différence entre :
+
+- d'une part, la valeur résiduelle hors taxes du bien stipulée au contrat, augmentée de la valeur actualisée, à la date de
+résiliation du contrat, de la somme hors taxes des loyers non encore échus ;
+
+- et, d'autre part, la valeur vénale hors taxes du bien restitué. 
+
+La valeur actualisée des loyers non encore échus est calculée selon la méthode des intérêts composés en prenant comme taux
+annuel de référence le taux moyen de rendement des obligations émises au cours du semestre civil précédant la date de
+conclusion du contrat majoré de la moitié. 
+
+La valeur vénale est celle obtenue par le bailleur s'il vend le bien restitué ou repris. 
+
+Toutefois, lorsque le bailleur a l'intention de vendre le bien, il doit vous aviser que vous disposez d'un délai de trente
+jours à compter de la résiliation du contrat pour présenter un acquéreur faisant une offre écrite d'achat. 
+
+Si le bailleur accepte l'offre, la valeur vénale du bien est le prix convenu entre l'acquéreur et lui. 
+
+Si le bailleur n'accepte pas cette offre et s'il vend ultérieurement à un prix inférieur, la valeur à déduire devra être
+celle de l'offre refusée par lui. 
+
+A défaut de vente ou sur votre demande, il peut y avoir évaluation de la valeur vénale à dire d'expert. 
+
+Lorsque le bailleur n'exige pas la résiliation du contrat, il peut demander une indemnité égale à 8 % des échéances échues
+impayées. Cependant, dans le cas où il accepte des reports d'échéances à venir, le montant de l'indemnité est ramené à 4 %
+des échéances reportées. 
+
+Le montant de l'indemnité est majoré des taxes fiscales applicables. 
+
+5.2. Les indemnités ci-dessus peuvent être soumises, le cas échéant, au pouvoir d'appréciation du tribunal. 
+
+5.3. Aucune somme autre que celles qui sont mentionnées dans les deux cas ci-dessus ne pourra vous être réclamée, à
+l'exception cependant, en cas de défaillance de votre part, des frais taxables entraînés par cette défaillance. 
+
+5.4. En cas d'incident de paiement caractérisé, des informations vous concernant sont susceptibles d'être inscrites dans le
+fichier tenu à la Banque de France (FICP) accessible à l'ensemble des établissements de crédit. 
+
+VI.-Contentieux 
+
+6.1. Le tribunal d'instance connaît des litiges nés de l'application du chapitre Ier du titre Ier du livre III du code de la
+consommation. Les actions en paiement engagées devant lui à l'occasion de la défaillance du locataire doivent être formées
+dans les deux ans de l'événement qui leur a donné naissance, à peine de forclusion. 
+
+Lorsque les modalités de règlement des échéances impayées ont fait l'objet d'un réaménagement ou d'un rééchelonnement, le
+point de départ du délai de forclusion est le premier incident non régularisé intervenu après le premier aménagement ou
+rééchelonnement conclu entre les intéressés ou après adoption du plan conventionnel de redressement prévu à l'article L.
+331-6 ou après décision du juge de l'exécution sur les mesures mentionnées à l'article L. 331-7. 
+
+Elles sont portées soit devant le tribunal du lieu où demeure le défendeur en justice, soit devant celui du lieu de livraison
+effective de la chose. 
+
+6.2. En cas de contestation sur l'exécution du contrat de vente du bien loué, le tribunal pourra, jusqu'à la solution du
+litige, suspendre votre obligation de paiement des loyers. Si la vente est annulée par le tribunal, votre contrat de location
+l'est automatiquement (à condition toutefois que le bailleur soit intervenu à l'instance ou qu'il ait été mis en cause par
+vous-même ou le vendeur) (2). 
+
+Si l'annulation du contrat de vente survient du fait du vendeur, celui-ci pourra, à la demande du bailleur, être condamné par
+le tribunal à garantir le paiement des loyers sans préjudice de dommages-intérêt. 
+
+Signature du bailleur 
+
+VII.-Acceptation de l'offre préalable 
+
+Je soussigné,..., déclare 
+
+accepter la présente offre préalable : 
+
+Sans assurance. 
+
+Avec assurance (8). 
+
+Après avoir pris connaissance des conditions particulières et générales de l'offre et de la notice comportant les extraits
+des conditions générales de l'assurance (8), je reconnais rester en possession d'un exemplaire de cette offre doté d'un
+formulaire détachable de rétractation. 
+
+Date :... 
+
+Signature du colocataire (4) 
+
+Signature du locataire 
+
+(1) Ou durée supérieure, le cas échéant, à l'initiative du bailleur. 
+
+(2) Si le bien loué est acheté par le bailleur à un autre vendeur. 
+
+(3) Prix approximatif si le prix de vente exact du bien n'est pas connu au moment de l'établissement de l'offre. 
+
+(4) Le cas échéant. 
+
+(5) Mention facultative. 
+
+(6) L'offre doit comporter celle de ces deux phrases qui correspond à l'assurance proposée. 
+
+(7) Mention à supprimer en cas de vente à domicile. 
+
+(8) En cas d'assurance, une notice doit être remise lors de la signature de l'offre préalable de crédit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997 - art. 1 (V)
+
+_Modifié par_:
+
+  - Arrêté du 19 décembre 2006 - art. Annexe, v. init.
+  - Arrêté du 14 mai 2007 - art. Annexe, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L311-34 (V)
+  - Code de la consommation - art. L331-6 (VT)
+  - Code de la consommation - art. L331-7 (VT)
+
+
+##### ANNEXE A L'ARTICLE R311-7<a id=236></a>
+
+###### Article Annexe à l'article R311-7
+
+MODÈLE TYPE DE BORDEREAU DÉTACHABLE
+
+BORDEREAU DE RÉTRACTATION
+
+A renvoyer au plus tard 7 jours après la date de votre signature de l'offre (en cas de livraison ou de fourniture immédiate
+du bien ou de la prestation de service à la demande expresse du consommateur, le délai de rétractation expire à la date à
+laquelle le bien est livré ou le service fourni, sans pouvoir excéder 7 jours, ni être inférieur à 3 jours) (1).
+
+Si ce délai expire un samedi, dimanche ou un jour férié ou chômé, il sera prorogé jusqu'au premier jour ouvrable suivant.
+
+Le délai commence à courir à partir du jour suivant votre signature de l'offre.
+
+Cette rétractation n'est valable que si elle est adressée, lisiblement et parfaitement remplie, avant l'expiration des délais
+rappelés ci-dessus, par lettre recommandée avec accusé de réception (2), à (identité et adresse du prêteur).
+
+Je soussigné (*), ... ,
+
+déclare renoncer à l'offre de crédit de  (*) ...... euros
+
+de ...... (identité du prêteur ou du bailleur en cas de location avec option d'achat ou de location vente) que j'avais signée
+le (*) ....
+
+pour l'acquisition de (*) .... (précisez le bien acheté
+
+ou le service fourni) chez (*) ...
+
+(vendeur ou prestataire de service, nom et ville).
+
+Date et signature de l'emprunteur (et du co-emprunteur)
+
+(*) Mention de la main de l'emprunteur. 
+
+(1) Dans le cas où l'offre préalable mentionne le bien ou la prestation de service financé. 
+
+(2) Mention facultative.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 19 décembre 2006 - art. Annexe, v. init.
+
+_Modifié par_:
+
+  - Arrêté du 14 mai 2007 - art. Annexe, v. init.
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+
+##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=237></a>
 
 ###### Article Annexe à l'article R313-1
 
@@ -26662,7 +28163,7 @@ _Créé par_:
   - Décret n°2002-927 2002-06-10 annexe JORF 11 juin 2002 en vigueur le 1er juillet 2002
 
 
-#### Chapitre IV : Prêt viager hypothécaire<a id=236></a>
+#### Chapitre IV : Prêt viager hypothécaire<a id=238></a>
 
 ###### Article R*314-1
 
@@ -26742,11 +28243,11 @@ _Cite_:
   - Code de la consommation - art. L314-10
 
 
-### Titre III : Traitement des situations de surendettement<a id=237></a>
+### Titre III : Traitement des situations de surendettement<a id=239></a>
 
-#### Chapitre Ier : Commission de surendettement des particuliers<a id=238></a>
+#### Chapitre Ier : Commission de surendettement des particuliers<a id=240></a>
 
-##### Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers<a id=239></a>
+##### Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers<a id=241></a>
 
 ###### Article R331-1
 
@@ -26962,9 +28463,9 @@ _Cite_:
   - Code de la consommation - art. L331-1
 
 
-##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=240></a>
+##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=242></a>
 
-##### Sous-section 1 : Dispositions générales<a id=241></a>
+##### Sous-section 1 : Dispositions générales<a id=243></a>
 
 ###### Article R331-7
 
@@ -27057,9 +28558,9 @@ _Cité par_:
   - Code de la consommation - art. R336-8 (Ab)
 
 
-##### Sous-section 2 : Instruction de la demande de traitement d'une situation de surendettement<a id=242></a>
+##### Sous-section 2 : Instruction de la demande de traitement d'une situation de surendettement<a id=244></a>
 
-##### Paragraphe 1er : Saisine de la commission<a id=243></a>
+##### Paragraphe 1er : Saisine de la commission<a id=245></a>
 
 ###### Article R331-7-3
 
@@ -27104,7 +28605,7 @@ _Anciens textes_:
   - Code de la consommation R331-7
 
 
-##### Paragraphe 2 : Examen de la recevabilité<a id=244></a>
+##### Paragraphe 2 : Examen de la recevabilité<a id=246></a>
 
 ###### Article R331-8
 
@@ -27132,7 +28633,7 @@ _Modifié par_:
   - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
 
 
-##### Paragraphe 3 : Etat du passif<a id=245></a>
+##### Paragraphe 3 : Etat du passif<a id=247></a>
 
 ###### Article R331-9
 
@@ -27202,7 +28703,7 @@ _Anciens textes_:
   - Code de la consommation R331-10-1
 
 
-##### Paragraphe 4 : Orientation des dossiers des débiteurs en situation irrémédiablement compromise<a id=246></a>
+##### Paragraphe 4 : Orientation des dossiers des débiteurs en situation irrémédiablement compromise<a id=248></a>
 
 ###### Article R331-10-1
 
@@ -27290,7 +28791,7 @@ _Cite_:
   - Code de la consommation - art. L332-5
 
 
-##### Sous-section 3 : Vérification des créances<a id=247></a>
+##### Sous-section 3 : Vérification des créances<a id=249></a>
 
 ###### Article R331-11
 
@@ -27347,7 +28848,7 @@ _Cité par_:
   - Code de la consommation - art. R333-3 (Ab)
 
 
-##### Sous-section 4 : Suspension des procédures d'exécution et remise de l'adjudication<a id=248></a>
+##### Sous-section 4 : Suspension des procédures d'exécution et remise de l'adjudication<a id=250></a>
 
 ###### Article R331-14
 
@@ -27429,9 +28930,9 @@ _Abrogé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 3
 
 
-##### Sous-section 5 : Mesures de traitement du surendettement<a id=249></a>
+##### Sous-section 5 : Mesures de traitement du surendettement<a id=251></a>
 
-##### Paragraphe 1er : Dispositions communes<a id=250></a>
+##### Paragraphe 1er : Dispositions communes<a id=252></a>
 
 ###### Article R331-15-1
 
@@ -27465,7 +28966,7 @@ _Anciens textes_:
   - Code de la consommation R331-10-2
 
 
-##### Paragraphe 2 : Plan conventionnel de redressement<a id=251></a>
+##### Paragraphe 2 : Plan conventionnel de redressement<a id=253></a>
 
 ###### Article R331-16
 
@@ -27521,7 +29022,7 @@ _Cite_:
   - Code de la consommation
 
 
-##### Paragraphe 3 : Mesures recommandées par la commission<a id=252></a>
+##### Paragraphe 3 : Mesures recommandées par la commission<a id=254></a>
 
 ###### Article R331-18
 
@@ -27689,9 +29190,9 @@ _Anciens textes_:
   - Code de la consommation R332-1
 
 
-#### Chapitre II : Procédure devant le juge de l'exécution<a id=253></a>
+#### Chapitre II : Procédure devant le juge de l'exécution<a id=255></a>
 
-##### Section 1 : Dispositions générales<a id=254></a>
+##### Section 1 : Dispositions générales<a id=256></a>
 
 ###### Article R332-1
 
@@ -27825,9 +29326,9 @@ _Abrogé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 4
 
 
-##### Section 2 : Du contrôle par le juge des mesures recommandées<a id=255></a>
+##### Section 2 : Du contrôle par le juge des mesures recommandées<a id=257></a>
 
-##### Sous-section 1 : Acquisition de la force exécutoire.<a id=256></a>
+##### Sous-section 1 : Acquisition de la force exécutoire.<a id=258></a>
 
 ###### Article R332-2
 
@@ -27891,7 +29392,7 @@ _Cite_:
   - Code de la consommation L331-7-1, L332-2, R331-20
 
 
-##### Sous-section 2 : Contestation des mesures recommandées.<a id=257></a>
+##### Sous-section 2 : Contestation des mesures recommandées.<a id=259></a>
 
 ###### Article R332-6
 
@@ -28049,9 +29550,9 @@ _Cite_:
   - Code de la consommation - art. L332-4
 
 
-##### Section 3 : Procédure de rétablissement personnel<a id=258></a>
+##### Section 3 : Procédure de rétablissement personnel<a id=260></a>
 
-##### Sous-section 1 : Ouverture de la procédure<a id=259></a>
+##### Sous-section 1 : Ouverture de la procédure<a id=261></a>
 
 ###### Article R332-11
 
@@ -28224,7 +29725,7 @@ _Abrogé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 4
 
 
-##### Sous-section 2 : Déclaration des créances<a id=260></a>
+##### Sous-section 2 : Déclaration des créances<a id=262></a>
 
 ###### Article R332-16
 
@@ -28306,7 +29807,7 @@ _Cite_:
   - Code de la consommation
 
 
-##### Sous-section 3 : Arrêté des créances<a id=261></a>
+##### Sous-section 3 : Arrêté des créances<a id=263></a>
 
 ###### Article R332-19
 
@@ -28377,7 +29878,7 @@ _Cite_:
   - Code de la consommation - art. L332-10
 
 
-##### Sous-section 4 : Dispositions diverses.<a id=262></a>
+##### Sous-section 4 : Dispositions diverses.<a id=264></a>
 
 ###### Article R332-21
 
@@ -28427,9 +29928,9 @@ _Cite_:
   - Code de la consommation - art. L332-12
 
 
-##### Sous-section 5 : Liquidation des biens du débiteur<a id=263></a>
+##### Sous-section 5 : Liquidation des biens du débiteur<a id=265></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=264></a>
+##### Paragraphe 1er : Dispositions générales.<a id=266></a>
 
 ###### Article R332-23
 
@@ -28510,7 +30011,7 @@ _Cite_:
   - Code de la consommation - art. L332-8
 
 
-##### Paragraphe 2 : Dispositions particulières à la vente forcée d'immeubles.<a id=265></a>
+##### Paragraphe 2 : Dispositions particulières à la vente forcée d'immeubles.<a id=267></a>
 
 ###### Article R332-26
 
@@ -28691,7 +30192,7 @@ _Cite_:
   - Code de procédure civile (1807) - art. 688
 
 
-##### Sous-section 6 : Répartition du prix.<a id=266></a>
+##### Sous-section 6 : Répartition du prix.<a id=268></a>
 
 ###### Article R332-32
 
@@ -28782,7 +30283,7 @@ _Abrogé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 4
 
 
-##### Sous-section 7 : La clôture après liquidation.<a id=267></a>
+##### Sous-section 7 : La clôture après liquidation.<a id=269></a>
 
 ###### Article R332-35
 
@@ -28851,7 +30352,7 @@ _Cité par_:
   - Code de la consommation - art. R334-1 (V)
 
 
-#### Chapitre III : Dispositions communes<a id=268></a>
+#### Chapitre III : Dispositions communes<a id=270></a>
 
 ###### Article R333-1
 
@@ -28887,9 +30388,9 @@ _Cite_:
   - Code de la consommation - art. R331-7-3 (V)
 
 
-#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=269></a>
+#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=271></a>
 
-##### Section 1 : Dispositions applicables à Mayotte.<a id=270></a>
+##### Section 1 : Dispositions applicables à Mayotte.<a id=272></a>
 
 ###### Article R334-1
 
@@ -28964,7 +30465,7 @@ _Cite_:
   - Code de la consommation R331-2, R331-3 à R331-5, R331-6-1, R331-7 à R332-37, R332-26, R332-27, R332-29, R333-5, R331-3, R331-4, R331-9, R331-15-1, R332-15, R332-30
 
 
-##### Section 2 : Dispositions applicables en Nouvelle-Calédonie.<a id=271></a>
+##### Section 2 : Dispositions applicables en Nouvelle-Calédonie.<a id=273></a>
 
 ###### Article R334-2
 
@@ -29064,7 +30565,7 @@ _Créé par_:
   - Décret n°2007-43 du 10 janvier 2007 - art. 1 () JORF 12 janvier 2007 en vigueur le 1er avril 2007
 
 
-### Titre IV : Dispositions diverses.<a id=272></a>
+### Titre IV : Dispositions diverses.<a id=274></a>
 
 ###### Article R333-5
 
@@ -29103,11 +30604,11 @@ _Cité par_:
   - Code de la consommation - art. R334-1 (V)
 
 
-## Livre IV : Les associations de consommateurs<a id=273></a>
+## Livre IV : Les associations de consommateurs<a id=275></a>
 
-### Titre Ier : Agrément des associations.<a id=274></a>
+### Titre Ier : Agrément des associations.<a id=276></a>
 
-#### Chapitre Ier : Les associations.<a id=275></a>
+#### Chapitre Ier : Les associations.<a id=277></a>
 
 ###### Article R411-1
 
@@ -29371,9 +30872,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : Action en justice des associations.<a id=276></a>
+### Titre II : Action en justice des associations.<a id=278></a>
 
-#### Chapitre II : Action en représentation conjointe.<a id=277></a>
+#### Chapitre II : Action en représentation conjointe.<a id=279></a>
 
 ###### Article R422-1
 
@@ -29700,13 +31201,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R622-10 (V)
 
 
-## Livre V : Les institutions<a id=278></a>
+## Livre V : Les institutions<a id=280></a>
 
-### Titre Ier : Les organes de concertation.<a id=279></a>
+### Titre Ier : Les organes de concertation.<a id=281></a>
 
-#### Chapitre Ier : Le Conseil national de la consommation.<a id=280></a>
+#### Chapitre Ier : Le Conseil national de la consommation.<a id=282></a>
 
-##### Section 1 : Missions et attributions.<a id=281></a>
+##### Section 1 : Missions et attributions.<a id=283></a>
 
 ###### Article D511-1
 
@@ -29848,7 +31349,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. D821-4 (V)
 
 
-##### Section 2 : Composition et organisation.<a id=282></a>
+##### Section 2 : Composition et organisation.<a id=284></a>
 
 ###### Article D511-5
 
@@ -30098,7 +31599,7 @@ _Cité par_:
   - Code de la consommation - art. D511-9 (Ab)
 
 
-##### Section 3 : Fonctionnement.<a id=283></a>
+##### Section 3 : Fonctionnement.<a id=285></a>
 
 ###### Article D511-12
 
@@ -30303,9 +31804,9 @@ _Modifié par_:
   - Décret n°2005-249 du 14 mars 2005 - art. 7 () JORF 18 mars 2005
 
 
-### Titre II : Les organes de coordination administrative.<a id=284></a>
+### Titre II : Les organes de coordination administrative.<a id=286></a>
 
-#### Chapitre Ier : Le comité interministériel de la consommation.<a id=285></a>
+#### Chapitre Ier : Le comité interministériel de la consommation.<a id=287></a>
 
 ###### Article D521-1
 
@@ -30366,7 +31867,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-#### Chapitre II : Le groupe interministériel de la consommation.<a id=286></a>
+#### Chapitre II : Le groupe interministériel de la consommation.<a id=288></a>
 
 ###### Article D522-1
 
@@ -30536,9 +32037,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. D825-4 (Ab)
 
 
-### Titre III : L'institut national de la consommation.<a id=287></a>
+### Titre III : L'institut national de la consommation.<a id=289></a>
 
-#### Chapitre Ier : Organisation et administration.<a id=288></a>
+#### Chapitre Ier : Organisation et administration.<a id=290></a>
 
 ###### Article R531-1
 
@@ -30883,7 +32384,7 @@ _Créé par_:
   - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
-#### Chapitre II : Organes consultatifs.<a id=289></a>
+#### Chapitre II : Organes consultatifs.<a id=291></a>
 
 ###### Article R532-1
 
@@ -30902,7 +32403,7 @@ _Codifié par_:
   - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 
-#### Chapitre III : Dispositions financières et comptables.<a id=290></a>
+#### Chapitre III : Dispositions financières et comptables.<a id=292></a>
 
 ###### Article R533-1
 
@@ -31027,7 +32528,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-16 (V)
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=291></a>
+### Titre IV : Le conseil national de l'alimentation.<a id=293></a>
 
 ###### Article D541-1
 
