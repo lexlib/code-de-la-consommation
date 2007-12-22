@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2007-12-22
+Version Consolidée au 2007-12-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-3)](#2)
@@ -26091,15 +26091,15 @@ Graines de sésame et produits à base de graines de sésame.
 
 Anhydride sulfureux et sulfites en concentrations supérieures à 10 mg/kg ou 10 mg/litre exprimées en SO2.
 
+Lupin et produits à base de lupin. 
+
+Mollusques et produits à base de mollusques.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°2005-944 du 2 août 2005 - art. 26 () JORF 6 août 2005 en vigueur le 25 novembre 2005
+  - Décret n°2007-1802 du 21 décembre 2007 - art. 1
 
 
 ##### ANNEXE A L'ARTICLE R211-2<a id=234></a>
