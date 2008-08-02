@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2008-08-01
+Version Consolidée au 2008-08-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-4)](#2)
@@ -23294,20 +23294,20 @@ _Cité par_:
 
 ###### Article R141-4
 
-L'autorité administrative chargée de la concurrence et de la consommation mentionnée au V de l'article L. 141-1 est au sein
+L'autorité administrative chargée de la concurrence et de la consommation mentionnée au VI de l'article L. 141-1 est au sein
 de la direction générale de la concurrence, de la consommation et de la répression des fraudes le directeur régional ou le
 chef d'unité départementale territorialement compétents. Ces derniers peuvent donner mandat à un agent de catégorie A pour
 déposer et développer des conclusions à l'audience.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°2008-763 du 30 juillet 2008 - art. 1
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2006-1632 du 19 décembre 2006 - art. 1 () JORF 21 décembre 2006
+  - Code de la consommation - art. L141-1
 
 _Cité par_:
 
@@ -23316,18 +23316,18 @@ _Cité par_:
 
 ###### Article R141-5
 
-Lorsqu'elle agit en application du V de l'article L. 141-1, l'autorité administrative est dispensée de ministère d'avocat ou
+Lorsqu'elle agit en application du VI de l'article L. 141-1, l'autorité administrative est dispensée de ministère d'avocat ou
 d'avoué.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°2008-763 du 30 juillet 2008 - art. 1
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2006-1632 du 19 décembre 2006 - art. 1 () JORF 21 décembre 2006
+  - Code de la consommation - art. L141-1
 
 
 #### Chapitre II : Procédures civiles simplifiées<a id=200></a>
