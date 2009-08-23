@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2009-06-20
+Version Consolidée au 2009-08-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-5)](#2)
@@ -20765,6 +20765,27 @@ _Cité par_:
 
   - Code de la santé publique - art. R1321-90 (V)
   - Code de la santé publique - art. R1321-93 (V)
+
+
+###### Article R112-7-1
+
+En application du 
+2° de l'article L. 214-1 du code de la consommation
+, l'étiquetage d'un produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou
+de spécialité traditionnelle garantie doit être conforme aux 
+dispositions des articles R. 641-12 et R. 641-21-1 du code rural
+.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-996 du 20 août 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+  - Code rural - art. R641-12
 
 
 ###### Article R112-8
