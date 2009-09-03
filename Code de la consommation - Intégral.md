@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2009-08-24
+Version Consolidée au 2009-09-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-5)](#2)
@@ -202,102 +202,124 @@ Version Consolidée au 2009-08-24
       - [Titre Ier : Conformité (art. R211-1 à R218-1)](#199)
         - [Chapitre Ier : Dispositions générales. (art. R211-1 à R211-5)](#200)
           - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. R211-1 à R211-5)](#201)
-        - [Chapitre V : Pouvoirs d'enquête (art. R215-1 à R215-23)](#202)
-          - [Section 1 : Autorités qualifiées. (art. R215-1)](#203)
-          - [Section 2 : Recherche et constatation. (art. D215-16 à R215-15)](#204)
-          - [Section 4 : Expertises. (art. R215-18 à R215-23)](#205)
-        - [Chapitre VI : Dispositions communes. (art. R216-2 à R216-3)](#206)
-        - [Chapitre VII : Dispositions particulières. (art. R217-1)](#207)
-        - [Chapitre VIII : Mesures de police administrative (art. R218-1)](#208)
-      - [Titre II : Sécurité (art. R223-1 à D225-2)](#209)
-        - [Chapitre III : Sanctions (art. R223-1 à R223-5)](#210)
-        - [Chapitre IV : La commission de la sécurité des consommateurs (art. R224-1 à R224-12)](#211)
-        - [Chapitre V : Dispositions diverses (art. D225-2)](#212)
-    - [Livre III : Endettement (art. D311-1 à R333-5)](#213)
-      - [Titre Ier : Crédit (art. D311-1 à R*314-2)](#214)
-        - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#215)
-          - [Section 1 : Champ d'application (art. D311-1 à D311-3)](#216)
-          - [Section 3 : Crédit gratuit (art. R311-4 à R311-5)](#217)
-          - [Section 4 : Le contrat de crédit (art. R311-6 à R311-7)](#218)
-          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. D311-10 à D311-13)](#219)
-            - [Sous-section 1 : Remboursement anticipé (art. D311-10)](#220)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. D311-11 à D311-13)](#221)
-          - [Section 5 : Les crédits affectés (art. R311-8 à R311-9)](#222)
-        - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#223)
-          - [Section 3 : Le contrat de crédit (art. R312-1)](#224)
-          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#225)
-            - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#226)
-            - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#227)
-          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#228)
-        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article R313-1-1)](#229)
-          - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-9)](#230)
-            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#231)
-            - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-9)](#232)
-          - [Section 3 : Rémunération du vendeur (art. R313-10)](#233)
-          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article R313-1-1)](#234)
-            - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#235)
-            - [Annexes au Chapitre II du Titre Ier du Livre Ier (art. Annexe I à Annexe IV)](#236)
-            - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#237)
-            - [ANNEXE A L'ARTICLE R311-6 (art. Annexe Modèle type n° 1 à Annexe Modèle type n° 6)](#238)
-            - [ANNEXE A L'ARTICLE R311-7 (art. Annexe à l'article R311-7)](#239)
-            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#240)
-            - [ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1-1)](#241)
-        - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#242)
-      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R334-2)](#243)
-        - [Chapitre Ier : Commission de surendettement des particuliers (art. R331-1 à R331-21)](#244)
-          - [Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers (art. R331-1 à R331-6-1)](#245)
-          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-7 à R331-21)](#246)
-            - [Sous-section 1 : Dispositions générales (art. R331-7 à R331-7-2)](#247)
-            - [Sous-section 2 : Instruction de la demande de traitement d'une situation de surendettement (art. R331-7-3 à R331-10-3)](#248)
-              - [Paragraphe 1er : Saisine de la commission (art. R331-7-3)](#249)
-              - [Paragraphe 2 : Examen de la recevabilité (art. R331-8)](#250)
-              - [Paragraphe 3 : Etat du passif (art. R331-9 à R331-10)](#251)
-              - [Paragraphe 4 : Orientation des dossiers des débiteurs en situation irrémédiablement compromise (art. R331-10-1 à R331-10-3)](#252)
-            - [Sous-section 3 : Vérification des créances (art. R331-11 à R331-12)](#253)
-            - [Sous-section 4 : Suspension des procédures d'exécution et remise de l'adjudication (art. R331-14 à R331-15)](#254)
-            - [Sous-section 5 : Mesures de traitement du surendettement (art. R331-15-1 à R331-21)](#255)
-              - [Paragraphe 1er : Dispositions communes (art. R331-15-1)](#256)
-              - [Paragraphe 2 : Plan conventionnel de redressement (art. R331-16 à R331-17)](#257)
-              - [Paragraphe 3 : Mesures recommandées par la commission (art. R331-18 à R331-21)](#258)
-        - [Chapitre II : Procédure devant le juge de l'exécution (art. R332-1 à R332-37)](#259)
-          - [Section 1 : Dispositions générales (art. R332-1 à R332-1-4)](#260)
-          - [Section 2 : Du contrôle par le juge des mesures recommandées (art. R332-2 à R332-10)](#261)
-            - [Sous-section 1 : Acquisition de la force exécutoire. (art. R332-2 à R332-3)](#262)
-            - [Sous-section 2 : Contestation des mesures recommandées. (art. R332-6 à R332-10)](#263)
-          - [Section 3 : Procédure de rétablissement personnel (art. R332-11 à R332-37)](#264)
-            - [Sous-section 1 : Ouverture de la procédure (art. R332-11 à R332-15)](#265)
-            - [Sous-section 2 : Déclaration des créances (art. R332-16 à R332-18)](#266)
-            - [Sous-section 3 : Arrêté des créances (art. R332-19 à R332-20)](#267)
-            - [Sous-section 4 : Dispositions diverses. (art. R332-21 à R332-22)](#268)
-            - [Sous-section 5 : Liquidation des biens du débiteur (art. R332-23 à R332-31)](#269)
-              - [Paragraphe 1er : Dispositions générales. (art. R332-23 à R332-25)](#270)
-              - [Paragraphe 2 : Dispositions particulières à la vente forcée d'immeubles. (art. R332-26 à R332-31)](#271)
-            - [Sous-section 6 : Répartition du prix. (art. R332-32 à R332-34)](#272)
-            - [Sous-section 7 : La clôture après liquidation. (art. R332-35 à R332-37)](#273)
-        - [Chapitre III : Dispositions communes (art. R333-1)](#274)
-        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. R334-1 à R334-2)](#275)
-          - [Section 1 : Dispositions applicables à Mayotte. (art. R334-1)](#276)
-          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie. (art. R334-2)](#277)
-      - [Titre IV : Dispositions diverses. (art. R333-5)](#278)
-    - [Livre IV : Les associations de consommateurs (art. R411-1 à R422-10)](#279)
-      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#280)
-        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#281)
-      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#282)
-        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#283)
-    - [Livre V : Les institutions (art. D511-1 à D541-7)](#284)
-      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#285)
-        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#286)
-          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#287)
-          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#288)
-          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#289)
-      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#290)
-        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#291)
-        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#292)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-5)](#293)
-        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#294)
-        - [Chapitre II : Organes consultatifs. (art. R532-1)](#295)
-        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#296)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#297)
+        - [Chapitre IV : Mesures d'application. (art. R214-1 à R214-20)](#202)
+          - [Section 1 : Dispositions générales (art. R214-1)](#203)
+          - [Section 2 : Etiquetage des denrées alimentaires (art. R214-2)](#204)
+          - [Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R214-3)](#205)
+          - [Section 4 : Organismes génétiquement modifiés (art. R214-4)](#206)
+          - [Section 5 : Boissons alcoolisées (art. R214-5)](#207)
+          - [Section 6 :  Arômes (art. R214-6)](#208)
+          - [Section 7 : Adjonction de vitamines, de minéraux 
+et de certaines autres substances aux denrées alimentaires (art. R214-7)](#209)
+          - [Section 8 : Contaminants (art. R214-8)](#210)
+          - [Section 9 : Fruits et légumes (art. R214-9)](#211)
+          - [Section 10 : Huile d'olive et olives de table (art. R214-10)](#212)
+          - [Section 11 : Œufs et viande de volaille (art. R214-11)](#213)
+          - [Section 12 : Produits laitiers et matières grasses laitières ou non (art. R214-12)](#214)
+          - [Section 13 : Produits de la pêche (art. R214-13)](#215)
+          - [Section 14 : Viandes bovine, ovine et porcine (art. R214-14)](#216)
+          - [Section 15 : Modes de valorisation (art. R214-15)](#217)
+          - [Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale (art. R214-16)](#218)
+          - [Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R214-17)](#219)
+          - [Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R214-18)](#220)
+          - [Section 19 : Engrais (art. R214-19)](#221)
+          - [Section 20 : Détergents (art. R214-20)](#222)
+        - [Chapitre V : Pouvoirs d'enquête (art. R215-1 à R215-23)](#223)
+          - [Section 1 : Autorités qualifiées. (art. R215-1)](#224)
+          - [Section 2 : Recherche et constatation. (art. D215-16 à R215-15)](#225)
+          - [Section 4 : Expertises. (art. R215-18 à R215-23)](#226)
+        - [Chapitre VI : Dispositions communes. (art. R216-2 à R216-3)](#227)
+        - [Chapitre VII : Dispositions particulières. (art. R217-1)](#228)
+        - [Chapitre VIII : Mesures de police administrative (art. R218-1)](#229)
+      - [Titre II : Sécurité (art. R223-1 à D225-2)](#230)
+        - [Chapitre III : Sanctions (art. R223-1 à R223-5)](#231)
+        - [Chapitre IV : La commission de la sécurité des consommateurs (art. R224-1 à R224-12)](#232)
+        - [Chapitre V : Dispositions diverses (art. D225-2)](#233)
+    - [Livre III : Endettement (art. D311-1 à R333-5)](#234)
+      - [Titre Ier : Crédit (art. D311-1 à R*314-2)](#235)
+        - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#236)
+          - [Section 1 : Champ d'application (art. D311-1 à D311-3)](#237)
+          - [Section 3 : Crédit gratuit (art. R311-4 à R311-5)](#238)
+          - [Section 4 : Le contrat de crédit (art. R311-6 à R311-7)](#239)
+          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. D311-10 à D311-13)](#240)
+            - [Sous-section 1 : Remboursement anticipé (art. D311-10)](#241)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. D311-11 à D311-13)](#242)
+          - [Section 5 : Les crédits affectés (art. R311-8 à R311-9)](#243)
+        - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#244)
+          - [Section 3 : Le contrat de crédit (art. R312-1)](#245)
+          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#246)
+            - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#247)
+            - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#248)
+          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#249)
+        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article R313-1-1)](#250)
+          - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-9)](#251)
+            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#252)
+            - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-9)](#253)
+          - [Section 3 : Rémunération du vendeur (art. R313-10)](#254)
+          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article R313-1-1)](#255)
+            - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#256)
+            - [Annexes au Chapitre II du Titre Ier du Livre Ier (art. Annexe I à Annexe IV)](#257)
+            - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#258)
+            - [ANNEXE A L'ARTICLE R311-6 (art. Annexe Modèle type n° 1 à Annexe Modèle type n° 6)](#259)
+            - [ANNEXE A L'ARTICLE R311-7 (art. Annexe à l'article R311-7)](#260)
+            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#261)
+            - [ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1-1)](#262)
+        - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#263)
+      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R334-2)](#264)
+        - [Chapitre Ier : Commission de surendettement des particuliers (art. R331-1 à R331-21)](#265)
+          - [Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers (art. R331-1 à R331-6-1)](#266)
+          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-7 à R331-21)](#267)
+            - [Sous-section 1 : Dispositions générales (art. R331-7 à R331-7-2)](#268)
+            - [Sous-section 2 : Instruction de la demande de traitement d'une situation de surendettement (art. R331-7-3 à R331-10-3)](#269)
+              - [Paragraphe 1er : Saisine de la commission (art. R331-7-3)](#270)
+              - [Paragraphe 2 : Examen de la recevabilité (art. R331-8)](#271)
+              - [Paragraphe 3 : Etat du passif (art. R331-9 à R331-10)](#272)
+              - [Paragraphe 4 : Orientation des dossiers des débiteurs en situation irrémédiablement compromise (art. R331-10-1 à R331-10-3)](#273)
+            - [Sous-section 3 : Vérification des créances (art. R331-11 à R331-12)](#274)
+            - [Sous-section 4 : Suspension des procédures d'exécution et remise de l'adjudication (art. R331-14 à R331-15)](#275)
+            - [Sous-section 5 : Mesures de traitement du surendettement (art. R331-15-1 à R331-21)](#276)
+              - [Paragraphe 1er : Dispositions communes (art. R331-15-1)](#277)
+              - [Paragraphe 2 : Plan conventionnel de redressement (art. R331-16 à R331-17)](#278)
+              - [Paragraphe 3 : Mesures recommandées par la commission (art. R331-18 à R331-21)](#279)
+        - [Chapitre II : Procédure devant le juge de l'exécution (art. R332-1 à R332-37)](#280)
+          - [Section 1 : Dispositions générales (art. R332-1 à R332-1-4)](#281)
+          - [Section 2 : Du contrôle par le juge des mesures recommandées (art. R332-2 à R332-10)](#282)
+            - [Sous-section 1 : Acquisition de la force exécutoire. (art. R332-2 à R332-3)](#283)
+            - [Sous-section 2 : Contestation des mesures recommandées. (art. R332-6 à R332-10)](#284)
+          - [Section 3 : Procédure de rétablissement personnel (art. R332-11 à R332-37)](#285)
+            - [Sous-section 1 : Ouverture de la procédure (art. R332-11 à R332-15)](#286)
+            - [Sous-section 2 : Déclaration des créances (art. R332-16 à R332-18)](#287)
+            - [Sous-section 3 : Arrêté des créances (art. R332-19 à R332-20)](#288)
+            - [Sous-section 4 : Dispositions diverses. (art. R332-21 à R332-22)](#289)
+            - [Sous-section 5 : Liquidation des biens du débiteur (art. R332-23 à R332-31)](#290)
+              - [Paragraphe 1er : Dispositions générales. (art. R332-23 à R332-25)](#291)
+              - [Paragraphe 2 : Dispositions particulières à la vente forcée d'immeubles. (art. R332-26 à R332-31)](#292)
+            - [Sous-section 6 : Répartition du prix. (art. R332-32 à R332-34)](#293)
+            - [Sous-section 7 : La clôture après liquidation. (art. R332-35 à R332-37)](#294)
+        - [Chapitre III : Dispositions communes (art. R333-1)](#295)
+        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. R334-1 à R334-2)](#296)
+          - [Section 1 : Dispositions applicables à Mayotte. (art. R334-1)](#297)
+          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie. (art. R334-2)](#298)
+      - [Titre IV : Dispositions diverses. (art. R333-5)](#299)
+    - [Livre IV : Les associations de consommateurs (art. R411-1 à R422-10)](#300)
+      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#301)
+        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#302)
+      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#303)
+        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#304)
+    - [Livre V : Les institutions (art. D511-1 à D541-7)](#305)
+      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#306)
+        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#307)
+          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#308)
+          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#309)
+          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#310)
+      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#311)
+        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#312)
+        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#313)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-5)](#314)
+        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#315)
+        - [Chapitre II : Organes consultatifs. (art. R532-1)](#316)
+        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#317)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#318)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -24017,9 +24039,633 @@ _Cite_:
   - Code de la consommation
 
 
-#### Chapitre V : Pouvoirs d'enquête<a id=202></a>
+#### Chapitre IV : Mesures d'application.<a id=202></a>
 
-##### Section 1 : Autorités qualifiées.<a id=203></a>
+##### Section 1 : Dispositions générales<a id=203></a>
+
+###### Article R214-1
+
+I. ― Les dispositions des règlements communautaires mentionnés au présent chapitre, ainsi que celles des règlements
+communautaires, ayant le même objet, qui les modifieraient ou seraient pris pour leur application, dans la mesure où elles
+entrent dans les prévisions de l'article L. 214-1, constituent les mesures d'exécution prévues à cet article. 
+
+II. ― Des arrêtés conjoints du ministre chargé de la consommation et des ministres intéressés définissent, en tant que de
+besoin, les modalités d'application autorisées par ces règlements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 2 février 2015 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 2 : Etiquetage des denrées alimentaires<a id=204></a>
+
+###### Article R214-2
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions des articles 1er et 2 du règlement (CE) n° 608-2004 de la Commission du 31 mars 2004 concernant
+l'étiquetage des aliments et ingrédients alimentaires avec adjonction de phytostérols, esters de phytostérol, phytostanols ou
+esters de phytostanol ; 
+
+2° Les dispositions des paragraphes 2 et 3 de l'article 1er, des articles 2 à 7, du paragraphe 1 de l'article 8, de l'article
+9, des paragraphes 1 à 3 de l'article 10, de l'article 12 et du paragraphe 1 de l'article 13 du règlement (CE) n° 1924 / 2006
+du Parlement européen et du Conseil du 20 décembre 2006 concernant les allégations nutritionnelles portant sur les denrées
+alimentaires et son annexe, modifié par le règlement (CE) n° 107 / 2008 et par le règlement (CE) n° 109 / 2008 du 15 janvier
+2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+
+##### Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=205></a>
+
+###### Article R214-3
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 1es dispositions des paragraphes 1 et 2 de l'article 1er,
+des paragraphes 1 et 2 de l'article 2, de l'article 3, des paragraphes 1 et 2 de l'article 4 et du paragraphe 1 de l'article
+8 du règlement (CE) n° 258 / 97 du Parlement européen et du Conseil de l'Union européenne du 27 janvier 1997 relatif aux
+nouveaux aliments et aux nouveaux ingrédients alimentaires, modifié par les règlements (CE) n° 1829 / 2003 du 22 septembre
+2003, (CE) n° 1182 / 2003 du 29 septembre 2003 et le règlement (CE) n° 1332 / 2008 du 16 décembre 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 4 : Organismes génétiquement modifiés<a id=206></a>
+
+###### Article R214-4
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions des articles 2 et 3, des paragraphes 1 et 2 de l'article 4, des paragraphes 1 et 3 de l'article 9, des
+paragraphes 1 à 3 de l'article 12, des articles 13 et 15, des paragraphes 1 et 2 de l'article 16, des paragraphes 1 et 3 de
+l'article 21, des paragraphes 1 à 3 de l'article 24 et de l'article 25 du règlement (CE) n° 1829 / 2003 du Parlement européen
+et du Conseil du 22 septembre 2003 concernant les denrées alimentaires et les aliments pour animaux génétiquement modifiés,
+modifié par le règlement (CE) n° 1981 / 2006 du 22 décembre 2006 et le règlement (CE) n° 298 / 2008 du 11 mars 2008 ; 
+
+2° Les dispositions des paragraphes 1 à 4 et 6 à 8 de l'article 4, des paragraphes 1, 2 et 4 de l'article 5 et de l'article 6
+du règlement (CE) n° 1830 / 2003 du Parlement européen et du Conseil du 22 septembre 2003 concernant la traçabilité et
+l'étiquetage des organismes génétiquement modifiés et la traçabilité des produits destinés à l'alimentation humaine ou
+animale produits à partir d'organismes génétiquement modifiés et modifiant la directive 2001 / 18 / CE, modifié par le
+règlement (CE) n° 1137 / 2008 du 22 octobre 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 5 : Boissons alcoolisées<a id=207></a>
+
+###### Article R214-5
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions des articles 1er à 5 de l'article 7, de l'article 8, de l'article 9, des paragraphes 1 et 2 de l'article
+10, des paragraphes 1, 2, 4 et 5 de l'article 11 et des articles 12 à 16 du règlement (CE) n° 110 / 2008 du Parlement
+européen et du Conseil du 15 janvier 2008 concernant la définition, la présentation, l'étiquetage et la protection des
+indications géographiques des boissons spiritueuses et abrogeant le règlement (CEE) n° 1576 / 89 et ses annexes, modifié par
+le règlement (CE) n° 1334-2008 du 16 décembre 2008 ; 
+
+2° Les dispositions des articles 1er, 2 et 3 des paragraphes 1 à 3 de l'article 4, du paragraphe 1 de l'article 5, des
+paragraphes 1 à 3 de l'article 6, de l'article 7, des paragraphes 1 à 8 de l'article 8, de l'article 11 du règlement (CEE) n°
+1601 / 91 du Conseil des Communautés européennes du 10 juin 1991 établissant les règles générales relatives à la définition,
+à la désignation et à la présentation des vins aromatisés, des boissons aromatisées à base de vin et des cocktails aromatisés
+à base de produits vitivinicoles et ses annexes, modifié par le règlement (CE) n° 3279 / 92 du 9 septembre 1992, le règlement
+(CE) n° 3378 / 94 du 22 décembre 1994, le règlement (CE) n° 2061 / 96 du 8 octobre 1996, le règlement (CE) n° 1882 / 2003 du
+29 septembre 2003 et le règlement (CE) n° 1334 / 2008 du 16 décembre 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 6 :  Arômes<a id=208></a>
+
+###### Article R214-6
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions des articles 2, 3, 4, 5 et 13 du règlement
+(CE) n° 2065 / 2003 du Parlement européen et du Conseil du 10 novembre 2003 relatif aux arômes de fumée utilisés ou destinés
+à être utilisés dans ou sur les denrées alimentaires et ses annexes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 7 : Adjonction de vitamines, de minéraux 
+et de certaines autres substances aux denrées alimentaires<a id=209></a>
+
+###### Article R214-7
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions des paragraphes 2 et 3 de l'article 1er, du
+2 de l'article 2, des paragraphes 1 et 2 de l'article 3, de l'article 4, des paragraphes 2 et 3 de l'articles 5, des
+paragraphes 1 et 6 de l'article 6, des paragraphes 1 à 5 de l'article 7 du règlement (CE) n° 1925 / 2006 du Parlement
+européen et du Conseil du 20 décembre 2006 concernant l'adjonction de vitamines, de minéraux et de certaines autres
+substances aux denrées alimentaires et ses annexes, modifié par le règlement (CE) n° 108 / 2008 du 15 janvier 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 8 : Contaminants<a id=210></a>
+
+###### Article R214-8
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions des articles 1er et 2 du règlement (CEE) n°
+315 / 93 du Conseil des Communautés européennes du 8 février 1993 portant établissement des procédures communautaires
+relatives aux contaminants dans les denrées alimentaires, modifié par le règlement (CE) n° 1882 / 2003 du 29 septembre 2003,
+ainsi que les dispositions des articles 1er à 6 du règlement (CE) n° 1881 / 2006 du 19 décembre 2006 et son annexe, modifié
+par le règlement (CE) n° 1126 / 2007 du 28 septembre 2007, le règlement (CE) n° 565 / 2008 du 18 juin 2008 et le règlement
+(CE) n° 629 / 2008 du 2 juillet 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 9 : Fruits et légumes<a id=211></a>
+
+###### Article R214-9
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions des articles 113 et 113 bis du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 portant
+organisation commune des marchés dans le secteur agricole et dispositions spécifiques en ce qui concerne certains produits de
+ce secteur (règlement " OCM unique ”) et ses annexes, modifié par le règlement (CE) n° 247 / 2008 du 17 mars 2008, le
+règlement (CE) n° 248 / 2008 du 17 mars 2008, le règlement (CE) n° 361 / 2008 du 14 avril 2008, le règlement (CE) n° 470 /
+2008 du 26 mai 2008, le règlement (CE) n° 510 / 2008 du 6 juin 2008, le règlement (CE) n° 13 / 2009 du 18 décembre 2008, le
+règlement (CE) n° 72 / 2009 du 19 janvier 2009 et le règlement (CE) n° 183 / 2009 du 6 mars 2009 ; 
+
+2° Les dispositions des articles 3 à 6 et du paragraphe 4 de l'article 10 du règlement (CE) n° 1580 / 2007 de la Commission
+du 21 décembre 2007 portant modalités d'application des règlements (CE) n° 2200 / 96, (CE) n° 2201 / 96 et (CE) n° 1182 /
+2007 du Conseil dans le secteur des fruits et légumes et ses annexes, modifié par règlement (CE) n° 292 / 2008 du 1er avril
+2008, le règlement (CE) n° 352 / 2008 du 18 avril 2008, le règlement (CE) n° 514 / 2008 du 9 juin 2008, le règlement (CE) n°
+590 / 2008 du 23 juin 2008, le règlement (CE) n° 853-2008 du 18 août 2008, le règlement (CE) n° 1050 / 2008 du 24 octobre
+2008, le règlement (CE) n° 1221 / 2008 du 5 décembre 2008, le règlement (CE) n° 1327 / 2008 du 19 décembre 2008 et le
+règlement (CE) n° 313 / 2009 du 16 avril 2009 ; 
+
+3° Les dispositions de l'article 1er et des annexes du règlement (CE) n° 2257 / 94 de la Commission du 16 septembre 1994
+fixant des normes de qualité pour les bananes, modifié par le règlement (CE) n° 228 / 2006 du 9 février 2006, ainsi que
+celles de l'article 5 et du paragraphe 1 de l'article 7 du règlement (CE) n° 2898 / 95 de la Commission du 15 décembre 1995
+portant dispositions relatives au contrôle du respect des normes de qualité dans le secteur de la banane et ses annexes,
+modifié par le règlement (CE) n° 465 / 96 du 14 mars 1996, le règlement (CE) n° 1135 / 96 du 24 juin 1996 et le règlement
+(CE) n° 386 / 97 du 28 février 1997.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 10 : Huile d'olive et olives de table<a id=212></a>
+
+###### Article R214-10
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions des articles 1er à 7 du règlement (CE) n° 1019 / 2002 de la Commission du 13 juin 2002 relatif aux normes
+de commercialisation de l'huile d'olive, modifié par le règlement (CE) n° 1964 / 2002 du 4 novembre 2002, le règlement (CE)
+n° 1176 / 2003 du 1er juillet 2003, le règlement (CE) n° 406 / 2004 du 4 mars 2004, le règlement (CE) n° 1750 / 2004 du 8
+octobre 2004, le règlement (CE) n° 1044 / 2006 du 7 juillet 2006, le règlement (CE) n° 632 / 2008 du 2 juillet 2008, le
+règlement (CE) n° 1183 / 2008 du 28 novembre 2008 et le règlement (CE) n° 182 / 2009 du 6 mars 2009 ; 
+
+2° Les dispositions de l'article 118 et de l'annexe XVI " descriptions et définitions des huiles d'olive et des huiles de
+grignon d'olive visées à l'article 118 ” du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 pour les produits
+définis à la partie VII de l'annexe I de ce règlement (règlement " OCM unique ”), modifié par le règlement (CE) n° 247 / 2008
+du 17 mars 2008, le règlement (CE) n° 248 / 2008 du 17 mars 2008, le règlement (CE) n° 361 / 2008 du 14 avril 2008, le
+règlement (CE) n° 470 / 2008 du 26 mai 2008, le règlement (CE) n° 510 / 2008 du 6 juin 2008, le règlement (CE) n° 13 / 2009
+du 18 décembre 2008, le règlement (CE) n° 72 / 2009 du 19 janvier 2009 et le règlement (CE) n° 183 / 2009 du 6 mars 2009 ; 
+
+3° Les dispositions des articles 1er et 7 du règlement (CEE) n° 2568 / 91 de la Commission du 11 juillet 1991 relatif aux
+caractéristiques des huiles d'olive et des huiles de grignons d'olive ainsi qu'aux méthodes d'analyse y afférentes et de ses
+annexes, modifié par le règlement (CEE) n° 3682 / 91 du 17 décembre 1991, le règlement (CEE) n° 1429 / 92 du 26 mai 1992, le
+règlement (CEE) n° 1683 / 92 du 29 juin 1992, le règlement (CEE) n° 1996 / 92 15 juillet 1992, le règlement (CEE) n° 3288 /
+92 du 12 novembre 1992, le règlement (CEE) n° 183 / 93 du 29 janvier 1993, le règlement (CEE) n° 826 / 93 du 6 avril 1993, le
+règlement (CEE) n° 620 / 93 du 17 mars 1993, le règlement (CE) n° 177 / 94 du 28 janvier 1994, le règlement (CE) n° 2632 / 94
+du 28 octobre 1994, le règlement (CE) n° 656 / 95 du 28 mars 1995, le règlement (CE) n° 2527 / 95 du 27 octobre 1995, le
+règlement (CE) n° 2472 / 97 du 11 décembre 1997, le règlement (CE) n° 282 / 98 de la Commission du 3 février 1998, le
+règlement (CE) n° 2248 / 98 du 19 octobre 1998, le règlement (CE) n° 379 / 1999 du 19 février 1999, le règlement (CE) n°
+455 / 2001 du 6 mars 2001, le règlement (CE) n° 2042 / 2001 du 18 octobre 2001, le règlement (CE) n° 796 / 2002 du 6 mai
+2002, le règlement (CE) n° 1989 / 2003 du 6 novembre 2003, le règlement (CE) n° 702 / 2007 du 21 juin 2007 et le règlement
+(CE) n° 640 / 2008 du 4 juillet 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 11 : Œufs et viande de volaille<a id=213></a>
+
+###### Article R214-11
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions de l'article 116 et de l'annexe XIV " normes de commercialisation des produits des secteurs des œufs et
+de la viande de volaille visées à l'article 116 ” du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 pour les
+produits définis aux parties XIX et XX de l'annexe I de ce règlement (règlement " OCM unique ”), modifié par le règlement
+(CE) n° 247 / 2008 du 17 mars 2008, le règlement (CE) n° 248 / 2008 du 17 mars 2008, le règlement (CE) n° 361 / 2008 du 14
+avril 2008, le règlement (CE) n° 470 / 2008 du 26 mai 2008, le règlement (CE) n° 510 / 2008 du 6 juin 2008, le règlement (CE)
+n° 13 / 2009 du 18 décembre 2008, le règlement (CE) n° 72 / 2009 du 19 janvier 2009 et le règlement (CE) n° 183 / 2009 du 6
+mars 2009 ; 
+
+2° Les dispositions des articles 1er à 4, des paragraphes 1 et 3 de l'article 5, des articles 6 et 7, des paragraphes 1 et 5
+de l'article 8, des articles 9 à 23 et 26 à 30 et de l'article 33 du règlement (CE) n° 589 / 2008 de la Commission du 23 juin
+2008 portant modalités d'application du règlement (CE) n° 1234 / 2007 du Conseil en ce qui concerne les normes de
+commercialisation applicables aux œufs et de ses annexes, modifié par le règlement (CE) n° 598 / 2008 du 24 juin 2008 ; 
+
+3° Les dispositions des articles 1er et 3 à 7 du règlement (CE) n° 617 / 2008 de la Commission du 27 juin 2008 portant
+modalités d'application du règlement (CE) n° 1234 / 2007 du Conseil en ce qui concerne les normes de commercialisation pour
+les œufs à couver et les poussins de volailles de basse-cour ; 
+
+4° Les dispositions des articles 1er à 7, des paragraphes 3 et 5 de l'article 8, paragraphes 1 à 12 de l'article 9, de
+l'article 10, des paragraphes 1 à 3 de l'article 11, du paragraphe 6 de l'article 16 et de l'article 20 du règlement (CE) n°
+543 / 2008 de la Commission du 16 juin 2008 portant modalités d'application du règlement (CE) n° 1234 / 2007 du Conseil en ce
+qui concerne les normes de commercialisation pour la viande de volaille et ses annexes, modifié par le règlement (CE) n°
+936 / 2008 de la Commission du 24 septembre 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 12 : Produits laitiers et matières grasses laitières ou non<a id=214></a>
+
+###### Article R214-12
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions de l'article 114 et de l'annexe XII " définitions et dénominations relatives au lait et aux produits
+laitiers visées à l'article 114, au paragraphe 1 ” et XIII " commercialisation du lait destiné à la consommation humaine visé
+à l'article 114, paragraphe 2 ” du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 pour les produits définis à la
+partie XVI de l'annexe I de ce règlement (règlement " OCM unique ”), modifié par le règlement (CE) n° 247 / 2008 du 17 mars
+2008, le règlement (CE) n° 248 / 2008 du 17 mars 2008, le règlement (CE) n° 361 / 2008 du 14 avril 2008, le règlement (CE) n°
+470 / 2008 du 26 mai 2008, le règlement (CE) n° 510 / 2008 du 6 juin 2008, le règlement (CE) n° 13 / 2009 du 18 décembre
+2008, le règlement (CE) n° 72 / 2009 du 19 janvier 2009 et le règlement (CE) n° 183 / 2009 du 6 mars 2009 ; 
+
+2° Les dispositions de l'article 115 et de l'annexe XV " normes de commercialisation applicables aux matières grasses
+tartinables visées à l'article 115 ” du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 (règlement " OCM unique
+”), modifié par le règlement (CE) n° 247 / 2008 du 17 mars 2008, le règlement (CE) n° 248 / 2008 du 17 mars 2008, le
+règlement (CE) n° 361 / 2008 du 14 avril 2008, le règlement (CE) n° 470 / 2008 du 26 mai 2008, le règlement (CE) n° 510 /
+2008 du 6 juin 2008, le règlement (CE) n° 13 / 2009 du 18 décembre 2008, le règlement (CE) n° 72 / 2009 du 19 janvier 2009 et
+le règlement (CE) n° 183 / 2009 du 6 mars 2009 ; 
+
+3° Les dispositions des articles 1er à 3 du règlement (CE) n° 445 / 2007 de la Commission du 23 avril 2007 portant certaines
+modalités d'application du règlement (CE) n° 2991 / 94 du Conseil établissant des normes pour les matières grasses
+tartinables et de ses annexes ; 
+
+4° Les dispositions de l'article 119 du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007 relatives à l'utilisation
+des caséines et des caséinates dans la fabrication du fromage (règlement " OCM unique ”), modifié par le règlement (CE) n°
+247 / 2008 du 17 mars 2008, le règlement (CE) n° 248 / 2008 du 17 mars 2008, le règlement (CE) n° 361 / 2008 du 14 avril
+2008, le règlement (CE) n° 470 / 2008 du 26 mai 2008, le règlement (CE) n° 510 / 2008 du 6 juin 2008, le règlement (CE) n°
+13 / 2009 du 18 décembre 2008, le règlement (CE) n° 72 / 2009 du 19 janvier 2009 et le règlement (CE) n° 183 / 2009 du 6 mars
+2009, ainsi que celles du paragraphe 1 de l'article 2 et de l'article 3 du règlement (CE) n° 760 / 2008 de la Commission du
+31 juillet 2008 portant modalités d'application du règlement (CE) n° 1234 / 2007 du Conseil en ce qui concerne les
+autorisations pour l'utilisation de caséines et caséinates dans la fabrication de fromages.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 13 : Produits de la pêche<a id=215></a>
+
+###### Article R214-13
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions des articles 1er à 7 bis du règlement (CEE) n° 2136 / 89 du Conseil des Communautés européennes du 21
+juin 1989 portant fixation de normes communes de commercialisation pour les conserves de sardines modifié par le règlement n°
+1181-2003 du 2 juillet 2003 et par le règlement (CE) n° 1345-2008 du 23 janvier 2008 ; 
+
+2° Les dispositions des articles 2 à 6 du règlement (CE) n° 1536 / 92 du Conseil du 9 juin 1992 portant fixation de normes
+communes de commercialisation pour les conserves de thon et de bonite ; 
+
+3° Les dispositions de l'article 1er, des paragraphes 1 et 2 de l'article 2, des articles 3 à 5, des points 2 à 5 de
+l'article 6, du point 1 de l'article 7, des paragraphes 1 à 3 de l'article 8 et celles de l'article 11 du règlement (CE) n°
+2406 / 96 du Conseil du 26 novembre 1996 fixant des normes communes de commercialisation pour certains produits de la pêche,
+modifié par le règlement (CE) n° 323 / 97 du 21 février 1997, le règlement (CE) n° 2578 / 2000 du 17 novembre 2000, le
+règlement (CE) n° 2495 / 2001 du 19 décembre 2001 et le règlement (CE) n° 790 / 2005 du 25 mai 2005 ; 
+
+4° Les dispositions de l'article 1er, du paragraphe 2 de l'article 2 et du paragraphe 1 de l'article 4 du règlement (CE) n°
+104 / 2000 du Conseil du 17 décembre 1999 portant organisation commune des marchés dans le secteur des produits de la pêche
+et de l'aquaculture, modifié par le règlement (CE) n° 1759 / 2006 du 28 novembre 2006 ; 
+
+5° Les dispositions de l'article 1er, des articles 3 à 6 et de l'article 8 du règlement (CE) n° 2065 / 2001 de la Commission
+du 22 octobre 2001 établissant les modalités d'application du règlement (CE) n° 104 / 2000 du Conseil en ce qui concerne
+l'information du consommateur dans le secteur des produits de la pêche et de l'aquaculture et de son annexe, modifié par le
+règlement (CE) n° 1792 / 2006 du 23 octobre 2006. 
+
+Les dispositions du 4° ne s'appliquent pas aux produits de la pêche ou de l'aquaculture, provenant de la propre exploitation
+du vendeur, écoulés directement aux consommateurs, lorsque la valeur par achat n'excède pas 1 euro, en application des
+dispositions de l'article 7 de ce règlement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 14 : Viandes bovine, ovine et porcine<a id=216></a>
+
+###### Article R214-14
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions des articles 11 et 12, des paragraphes 1, 2 et 5 de l'article 13, de l'article 14, de l'article 15,
+paragraphes 1 et 4 de l'article 16 et du paragraphe 1 de l'article 17 du règlement (CE) n° 1760 / 2000 du Parlement européen
+et du Conseil du 17 juillet 2000 établissant un système d'identification et d'enregistrement des bovins et concernant
+l'étiquetage de la viande bovine et des produits à base de viande bovine et abrogeant le règlement (CE) n° 820 / 97 du
+Conseil du 17 juillet 2000, modifié par le règlement (CE) n° 1791 / 2006 du Conseil du 20 novembre 2006 ; 
+
+2° Les dispositions des articles 1er à 5 quater et du paragraphe 3 de l'article 6 du règlement (CE) n° 1825 / 2000 de la
+Commission du 25 août 2000 portant modalités d'application du règlement (CE) n° 1760 / 2000 du Parlement européen et du
+Conseil en ce qui concerne l'étiquetage de la viande bovine et des produits à base de viande bovine, modifié par le règlement
+(CE) n° 275 / 2007 de la Commission du 15 mars 2007 ; 
+
+3° Les dispositions de l'article 113 ter et de l'annexe XI bis " commercialisation des viandes issues de bovins âgés de douze
+mois au plus conformément aux dispositions de l'article 113 ter ” du règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre
+2007 (règlement " OCM unique ”), modifié par le règlement (CE) n° 247 / 2008 du 17 mars 2008, le règlement (CE) n° 248 / 2008
+du 17 mars 2008, le règlement (CE) n° 361 / 2008 du 14 avril 2008, le règlement (CE) n° 470 / 2008 du 26 mai 2008, le
+règlement (CE) n° 510 / 2008 du 6 juin 2008, le règlement (CE) n° 13 / 2009 du 18 décembre 2008, le règlement (CE) n° 72 /
+2009 du 19 janvier 2009 et le règlement (CE) n° 183 / 2009 du 6 mars 2009, ainsi que celles des articles 1er à 3, des
+paragraphes 1 et 2 de l'article 4, de l'article 5 et des paragraphes 1 et 3 de l'article 7 du règlement (CE) n° 566 / 2008 de
+la Commission du 18 juin 2008 portant modalités d'application du règlement (CE) n° 1234 / 2007 du Conseil en ce qui concerne
+la commercialisation des viandes issues de bovins âgés de douze mois au plus ; 
+
+4° Les dispositions du paragraphe 1 de l'article 42 et de l'annexe V " grilles communautaires de classement des carcasses
+visées à l'article 42 ” à l'exception des paragraphes IV du A, III du B et IV du C du règlement (CE) n° 1234 / 2007 du
+Conseil du 22 octobre 2007 (règlement OCM unique) modifié par le règlement (CE) n° 247 / 2008 du 17 mars 2008, le règlement
+(CE) n° 248 / 2008 du 17 mars 2008, le règlement (CE) n° 361 / 2008 du 14 avril 2008, le règlement (CE) n° 470 / 2008 du 26
+mai 2008, le règlement (CE) n° 510 / 2008 du 6 juin 2008, le règlement (CE) n° 13 / 2009 du 18 décembre 2008, le règlement
+(CE) n° 72 / 2009 du 19 janvier 2009 et le règlement (CE) n° 183 / 2009 du 6 mars 2009, ainsi que celles des articles 1er,
+des paragraphes 1, 3 et 4 de l'article 2, des articles 3, 6 et 10, des paragraphes 1 et 2 de l'article 7, de l'article 10, du
+paragraphe 1 de l'article 20, des paragraphes 1, 3 et 5 de l'article 21, des paragraphes 1 et 2 de l'article 22, des
+paragraphes 1, 2, 3 et 5 de l'article 23 des articles 28 et 29 et des paragraphes 1 à 3 de l'article 30 du règlement (CE) n°
+1249 / 2008 de la Commission du 10 décembre 2008 portant modalités d'application des grilles communautaires de classement des
+carcasses de bovins, de porcins et d'ovins et de la communication des prix y afférents.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 15 : Modes de valorisation<a id=217></a>
+
+###### Article R214-15
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions des articles 1er, 2, 8 et des paragraphes 1 et 4 de l'article 13 du règlement (CE) n° 510 / 2006 du
+Conseil du 20 mars 2006 relatif à la protection des indications géographiques et des appellations d'origine des produits
+agricoles et des denrées alimentaires et ses annexes, modifié par le règlement (CE) n° 1791 / 2006 du 20 novembre 2006 et le
+règlement (CE) n° 417 / 2008 du 8 mai 2008, ainsi que celles de l'article 14 du règlement (CE) n° 1898 / 2006 de la
+Commission du 14 décembre 2006 portant modalités d'application du règlement (CE) n° 510 / 2006 du Conseil relatif à la
+protection des indications géographiques et des appellations d'origine des produits agricoles et des denrées alimentaires et
+de ses annexes ; 
+
+2° Les dispositions des articles 1er et 2, des paragraphes 1 et 2 de l'article 13, de l'article 12 et du paragraphe 2 de
+l'article 17 du règlement (CE) n° 509 / 2006 du Conseil du 20 mars 2006 relatif aux spécialités traditionnelles garanties des
+produits agricoles et des denrées alimentaires ainsi que celles de l'article 9 du règlement (CE) n° 1216 / 2007 de la
+Commission du 18 octobre 2007 établissant les modalités d'application du règlement (CE) n° 509 / 2006 du Conseil relatif aux
+spécialités traditionnelles garanties des produits agricoles et des denrées alimentaires et de ses annexes ; 
+
+3° Les dispositions du paragraphe 1 de l'article 2 et du paragraphe 2 de l'article 9 du règlement (CE) n° 1980 / 2000 du
+Parlement européen et du Conseil du 17 juillet 2000 établissant un système communautaire révisé d'attribution de label
+écologique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale<a id=218></a>
+
+###### Article R214-16
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions des articles 2 à 5 et 18 à 20 du règlement
+(CE) n° 396 / 2005 du Parlement européen et du Conseil du 23 février 2005 relatives aux limites maximales applicables aux
+résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et
+animale et ses annexes, modifié par le règlement (CE) n° 178 / 2006 du 1er février 2006, le règlement (CE) n° 149 / 2008 du
+29 janvier 2008, le règlement (CE) n° 260 / 2008 du 18 mars 2008, le règlement (CE) n° 299 / 2008 du 11 mars 2008, le
+règlement (CE) n° 839-2008 du 31 juillet 2008 et le règlement n° 256-2009 du 23 mars 2009.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=219></a>
+
+###### Article R214-17
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions des articles 1er à 3 du règlement (CE) n°
+37 / 2005 de la Commission du 12 janvier 2005 relatif au contrôle des températures dans les moyens de transport et les locaux
+d'entreposage et de stockage des aliments surgelés destinés à l'alimentation humaine. 
+
+Toutefois, par dérogation aux dispositions de l'article 2 du même règlement, pour les installations frigorifiques de moins de
+10 mètres cubes destinées à la conservation de stocks dans les magasins de détail, la température de l'air peut être mesurée
+au moyen d'un thermomètre visible.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R412-35 (V)
+
+
+##### Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=220></a>
+
+###### Article R214-18
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 : 
+
+1° Les dispositions des articles 1er à 5 et 15 à 17 du règlement (CE) n° 1935 / 2004 du Parlement européen et du Conseil du
+27 octobre 2004 concernant les matériaux et objets destinés à entrer en contact avec des denrées alimentaires et abrogeant
+les directives 80 / 590 / CEE et 89 / 109 / CEE ; 
+
+2° Les dispositions des articles 1er à 5 du règlement (CE) n° 1895 / 2005 de la Commission du 18 novembre 2005 concernant la
+limitation de l'utilisation de certains dérivés époxydiques dans les matériaux et objets destinés à entrer en contact avec
+des denrées alimentaires ; 
+
+3° Les dispositions des articles 1er à 7 du règlement (CE) n° 2023 / 2006 de la Commission du 22 décembre 2006 relatif aux
+bonnes pratiques de fabrication des matériaux et objets destinés à entrer en contact avec des denrées alimentaires et de son
+annexe, modifié par le règlement (CE) n° 282 / 2008 de la Commission du 27 mars 2008 ; 
+
+4° Les dispositions des articles 2 et 3 du règlement (CE) n° 282 / 2008 de la Commission du 27 mars 2008 relatif aux
+matériaux et aux objets en matière plastique recyclée destinés à entrer en contact avec des denrées alimentaires et modifiant
+le règlement (CE) n° 2023 / 2006 ; 
+
+5° Les dispositions des articles 4, 5 et 11 à 13 du règlement (CE) n° 450 / 2009 de la Commission du 29 mai 2009 concernant
+les matériaux et aux objets actifs et intelligents destinés à entrer en contact avec des denrées alimentaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 19 : Engrais<a id=221></a>
+
+###### Article R214-19
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions des articles 1er, 2, 3, 6 à 13, 16 à 28 du
+règlement (CE) n° 2003 / 2003 du Parlement européen et du Conseil du 13 octobre 2003 relatif aux engrais et ses annexes,
+modifié par le règlement (CE) n° 885 / 2004 du 26 avril 2004, le règlement (CE) n° 2076 / 2004 du 3 décembre 2004, le
+règlement (CE) n° 1791 / 2006 du 20 novembre 2006 et le règlement (CE) n° 162 / 2007 du 19 février 2007 et le règlement (CE)
+n° 1107 / 2008 du 7 novembre 2008 modifié par le règlement (CE) n° 1107-2008 du 7 novembre 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+##### Section 20 : Détergents<a id=222></a>
+
+###### Article R214-20
+
+Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions de l'article 2, du paragraphe 1 de
+l'article 3 et des paragraphes 2 à 5 de l'article 11 du règlement (CE) n° 648 / 2004 du Parlement européen et du Conseil 31
+mars 2004 relatif aux détergents, modifié par le règlement (CE) n° 907 / 2006 de la Commission du 20 juin 2006 et le
+règlement (CE) n° 1336 / 2008 du 16 décembre 2008.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
+
+_Cité par_:
+
+  - Décret n°2013-396 du 13 mai 2013 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L214-1
+
+
+#### Chapitre V : Pouvoirs d'enquête<a id=223></a>
+
+##### Section 1 : Autorités qualifiées.<a id=224></a>
 
 ###### Article R215-1
 
@@ -24051,7 +24697,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 1
 
 
-##### Section 2 : Recherche et constatation.<a id=204></a>
+##### Section 2 : Recherche et constatation.<a id=225></a>
 
 ###### Article D215-16
 
@@ -24599,7 +25245,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 du 22 janvier 1919 - art. 36 (Ab)
 
 
-##### Section 4 : Expertises.<a id=205></a>
+##### Section 4 : Expertises.<a id=226></a>
 
 ###### Article R215-18
 
@@ -24872,7 +25518,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 23 bis
 
 
-#### Chapitre VI : Dispositions communes.<a id=206></a>
+#### Chapitre VI : Dispositions communes.<a id=227></a>
 
 ###### Article R216-2
 
@@ -24954,7 +25600,7 @@ _Cité par_:
   - Code de la consommation - art. R219-3 (Ab)
 
 
-#### Chapitre VII : Dispositions particulières.<a id=207></a>
+#### Chapitre VII : Dispositions particulières.<a id=228></a>
 
 ###### Article R217-1
 
@@ -24996,7 +25642,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-#### Chapitre VIII : Mesures de police administrative<a id=208></a>
+#### Chapitre VIII : Mesures de police administrative<a id=229></a>
 
 ###### Article R218-1
 
@@ -25037,9 +25683,9 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 35
 
 
-### Titre II : Sécurité<a id=209></a>
+### Titre II : Sécurité<a id=230></a>
 
-#### Chapitre III : Sanctions<a id=210></a>
+#### Chapitre III : Sanctions<a id=231></a>
 
 ###### Article R223-1
 
@@ -25218,7 +25864,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-#### Chapitre IV : La commission de la sécurité des consommateurs<a id=211></a>
+#### Chapitre IV : La commission de la sécurité des consommateurs<a id=232></a>
 
 ###### Article R224-1
 
@@ -25611,7 +26257,7 @@ _Abrogé par_:
   - Décret n°2010-1221 du 18 octobre 2010 - art. 14
 
 
-#### Chapitre V : Dispositions diverses<a id=212></a>
+#### Chapitre V : Dispositions diverses<a id=233></a>
 
 ###### Article D225-2
 
@@ -25641,13 +26287,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. D521-4 (V)
 
 
-## Livre III : Endettement<a id=213></a>
+## Livre III : Endettement<a id=234></a>
 
-### Titre Ier : Crédit<a id=214></a>
+### Titre Ier : Crédit<a id=235></a>
 
-#### Chapitre Ier : Crédit à la consommation<a id=215></a>
+#### Chapitre Ier : Crédit à la consommation<a id=236></a>
 
-##### Section 1 : Champ d'application<a id=216></a>
+##### Section 1 : Champ d'application<a id=237></a>
 
 ###### Article D311-1
 
@@ -25733,7 +26379,7 @@ _Cite_:
   - Code de la consommation - art. D311-2 (M)
 
 
-##### Section 3 : Crédit gratuit<a id=217></a>
+##### Section 3 : Crédit gratuit<a id=238></a>
 
 ###### Article R311-4
 
@@ -25786,7 +26432,7 @@ _Modifié par_:
   - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
-##### Section 4 : Le contrat de crédit<a id=218></a>
+##### Section 4 : Le contrat de crédit<a id=239></a>
 
 ###### Article R311-6
 
@@ -25856,9 +26502,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R311-4 (VD)
 
 
-##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=219></a>
+##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=240></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=220></a>
+##### Sous-section 1 : Remboursement anticipé<a id=241></a>
 
 ###### Article D311-10
 
@@ -25889,7 +26535,7 @@ _Cité par_:
   - Code de la consommation - art. Annexe Modèle type n°2 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=221></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=242></a>
 
 ###### Article D311-11
 
@@ -26006,7 +26652,7 @@ _Cite_:
   - Code de la consommation - art. L311-31 (V)
 
 
-##### Section 5 : Les crédits affectés<a id=222></a>
+##### Section 5 : Les crédits affectés<a id=243></a>
 
 ###### Article R311-8
 
@@ -26077,9 +26723,9 @@ _Cite_:
   - Code de la consommation R311-8
 
 
-#### Chapitre II : Crédit immobilier<a id=223></a>
+#### Chapitre II : Crédit immobilier<a id=244></a>
 
-##### Section 3 : Le contrat de crédit<a id=224></a>
+##### Section 3 : Le contrat de crédit<a id=245></a>
 
 ###### Article R312-1
 
@@ -26109,9 +26755,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R312-1-1 (VD)
 
 
-##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=225></a>
+##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=246></a>
 
-##### Sous-section 1 : Remboursement anticipé.<a id=226></a>
+##### Sous-section 1 : Remboursement anticipé.<a id=247></a>
 
 ###### Article R312-2
 
@@ -26142,7 +26788,7 @@ _Cite_:
   - Code de la consommation - art. L312-21 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur.<a id=227></a>
+##### Sous-section 2 : Défaillance de l'emprunteur.<a id=248></a>
 
 ###### Article R312-3
 
@@ -26177,7 +26823,7 @@ _Cité par_:
   - Code de la consommation - art. R315-2 (VT)
 
 
-##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=228></a>
+##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=249></a>
 
 ###### Article R312-4
 
@@ -26212,11 +26858,11 @@ _Cite_:
   - Code de la consommation - art. L312-29
 
 
-#### Chapitre III : Dispositions communes<a id=229></a>
+#### Chapitre III : Dispositions communes<a id=250></a>
 
-##### Section 1 : Le taux d'intérêt<a id=230></a>
+##### Section 1 : Le taux d'intérêt<a id=251></a>
 
-##### Sous-section 1 : Le taux effectif global<a id=231></a>
+##### Sous-section 1 : Le taux effectif global<a id=252></a>
 
 ###### Article R313-1
 
@@ -26437,7 +27083,7 @@ _Nouveaux textes_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. R313-1 (V)
 
 
-##### Sous-section 2 : Le taux d'usure<a id=232></a>
+##### Sous-section 2 : Le taux d'usure<a id=253></a>
 
 ###### Article D313-6
 
@@ -26598,7 +27244,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. D711-14 (Ab)
 
 
-##### Section 3 : Rémunération du vendeur<a id=233></a>
+##### Section 3 : Rémunération du vendeur<a id=254></a>
 
 ###### Article R313-10
 
@@ -26642,9 +27288,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R341-25 (V)
 
 
-##### Annexes<a id=234></a>
+##### Annexes<a id=255></a>
 
-##### ANNEXE A L'ARTICLE R113-1<a id=235></a>
+##### ANNEXE A L'ARTICLE R113-1<a id=256></a>
 
 ###### Article Annexe à l'article R113-1
 
@@ -26679,7 +27325,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### Annexes au Chapitre II du Titre Ier du Livre Ier<a id=236></a>
+##### Annexes au Chapitre II du Titre Ier du Livre Ier<a id=257></a>
 
 ###### Article Annexe I
 
@@ -27234,7 +27880,7 @@ _Abrogé par_:
   - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
-##### ANNEXE A L'ARTICLE R211-2<a id=237></a>
+##### ANNEXE A L'ARTICLE R211-2<a id=258></a>
 
 ###### Article Annexe à l'article R211-2
 
@@ -27847,7 +28493,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE A L'ARTICLE R311-6<a id=238></a>
+##### ANNEXE A L'ARTICLE R311-6<a id=259></a>
 
 ###### Article Annexe Modèle type n° 1
 
@@ -29291,7 +29937,7 @@ _Cite_:
   - Code de la consommation - art. L331-7 (VT)
 
 
-##### ANNEXE A L'ARTICLE R311-7<a id=239></a>
+##### ANNEXE A L'ARTICLE R311-7<a id=260></a>
 
 ###### Article Annexe à l'article R311-7
 
@@ -29346,7 +29992,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=240></a>
+##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=261></a>
 
 ###### Article Annexe à l'article R313-1
 
@@ -29405,7 +30051,7 @@ _Créé par_:
   - Décret n°2002-927 2002-06-10 annexe JORF 11 juin 2002 en vigueur le 1er juillet 2002
 
 
-##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION<a id=241></a>
+##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION<a id=262></a>
 
 ###### Article Annexe à l'article R313-1-1
 
@@ -29476,7 +30122,7 @@ _Cite_:
   - Code de la consommation - art. R313-1-1
 
 
-#### Chapitre IV : Prêt viager hypothécaire<a id=242></a>
+#### Chapitre IV : Prêt viager hypothécaire<a id=263></a>
 
 ###### Article R*314-1
 
@@ -29556,11 +30202,11 @@ _Cite_:
   - Code de la consommation - art. L314-10
 
 
-### Titre III : Traitement des situations de surendettement<a id=243></a>
+### Titre III : Traitement des situations de surendettement<a id=264></a>
 
-#### Chapitre Ier : Commission de surendettement des particuliers<a id=244></a>
+#### Chapitre Ier : Commission de surendettement des particuliers<a id=265></a>
 
-##### Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers<a id=245></a>
+##### Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers<a id=266></a>
 
 ###### Article R331-1
 
@@ -29776,9 +30422,9 @@ _Cite_:
   - Code de la consommation - art. L331-1
 
 
-##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=246></a>
+##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=267></a>
 
-##### Sous-section 1 : Dispositions générales<a id=247></a>
+##### Sous-section 1 : Dispositions générales<a id=268></a>
 
 ###### Article R331-7
 
@@ -29871,9 +30517,9 @@ _Cité par_:
   - Code de la consommation - art. R336-8 (Ab)
 
 
-##### Sous-section 2 : Instruction de la demande de traitement d'une situation de surendettement<a id=248></a>
+##### Sous-section 2 : Instruction de la demande de traitement d'une situation de surendettement<a id=269></a>
 
-##### Paragraphe 1er : Saisine de la commission<a id=249></a>
+##### Paragraphe 1er : Saisine de la commission<a id=270></a>
 
 ###### Article R331-7-3
 
@@ -29918,7 +30564,7 @@ _Anciens textes_:
   - Code de la consommation R331-7
 
 
-##### Paragraphe 2 : Examen de la recevabilité<a id=250></a>
+##### Paragraphe 2 : Examen de la recevabilité<a id=271></a>
 
 ###### Article R331-8
 
@@ -29946,7 +30592,7 @@ _Modifié par_:
   - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
 
 
-##### Paragraphe 3 : Etat du passif<a id=251></a>
+##### Paragraphe 3 : Etat du passif<a id=272></a>
 
 ###### Article R331-9
 
@@ -30016,7 +30662,7 @@ _Anciens textes_:
   - Code de la consommation R331-10-1
 
 
-##### Paragraphe 4 : Orientation des dossiers des débiteurs en situation irrémédiablement compromise<a id=252></a>
+##### Paragraphe 4 : Orientation des dossiers des débiteurs en situation irrémédiablement compromise<a id=273></a>
 
 ###### Article R331-10-1
 
@@ -30104,7 +30750,7 @@ _Cite_:
   - Code de la consommation - art. L332-5
 
 
-##### Sous-section 3 : Vérification des créances<a id=253></a>
+##### Sous-section 3 : Vérification des créances<a id=274></a>
 
 ###### Article R331-11
 
@@ -30161,7 +30807,7 @@ _Cité par_:
   - Code de la consommation - art. R333-3 (Ab)
 
 
-##### Sous-section 4 : Suspension des procédures d'exécution et remise de l'adjudication<a id=254></a>
+##### Sous-section 4 : Suspension des procédures d'exécution et remise de l'adjudication<a id=275></a>
 
 ###### Article R331-14
 
@@ -30243,9 +30889,9 @@ _Abrogé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 3
 
 
-##### Sous-section 5 : Mesures de traitement du surendettement<a id=255></a>
+##### Sous-section 5 : Mesures de traitement du surendettement<a id=276></a>
 
-##### Paragraphe 1er : Dispositions communes<a id=256></a>
+##### Paragraphe 1er : Dispositions communes<a id=277></a>
 
 ###### Article R331-15-1
 
@@ -30273,7 +30919,7 @@ _Cite_:
   - Code du travail - art. R3252-2
 
 
-##### Paragraphe 2 : Plan conventionnel de redressement<a id=257></a>
+##### Paragraphe 2 : Plan conventionnel de redressement<a id=278></a>
 
 ###### Article R331-16
 
@@ -30329,7 +30975,7 @@ _Cite_:
   - Code de la consommation
 
 
-##### Paragraphe 3 : Mesures recommandées par la commission<a id=258></a>
+##### Paragraphe 3 : Mesures recommandées par la commission<a id=279></a>
 
 ###### Article R331-18
 
@@ -30497,9 +31143,9 @@ _Anciens textes_:
   - Code de la consommation R332-1
 
 
-#### Chapitre II : Procédure devant le juge de l'exécution<a id=259></a>
+#### Chapitre II : Procédure devant le juge de l'exécution<a id=280></a>
 
-##### Section 1 : Dispositions générales<a id=260></a>
+##### Section 1 : Dispositions générales<a id=281></a>
 
 ###### Article R332-1
 
@@ -30637,9 +31283,9 @@ _Abrogé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 4
 
 
-##### Section 2 : Du contrôle par le juge des mesures recommandées<a id=261></a>
+##### Section 2 : Du contrôle par le juge des mesures recommandées<a id=282></a>
 
-##### Sous-section 1 : Acquisition de la force exécutoire.<a id=262></a>
+##### Sous-section 1 : Acquisition de la force exécutoire.<a id=283></a>
 
 ###### Article R332-2
 
@@ -30703,7 +31349,7 @@ _Cite_:
   - Code de la consommation L331-7-1, L332-2, R331-20
 
 
-##### Sous-section 2 : Contestation des mesures recommandées.<a id=263></a>
+##### Sous-section 2 : Contestation des mesures recommandées.<a id=284></a>
 
 ###### Article R332-6
 
@@ -30861,9 +31507,9 @@ _Cite_:
   - Code de la consommation - art. L332-4
 
 
-##### Section 3 : Procédure de rétablissement personnel<a id=264></a>
+##### Section 3 : Procédure de rétablissement personnel<a id=285></a>
 
-##### Sous-section 1 : Ouverture de la procédure<a id=265></a>
+##### Sous-section 1 : Ouverture de la procédure<a id=286></a>
 
 ###### Article R332-11
 
@@ -31036,7 +31682,7 @@ _Abrogé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 4
 
 
-##### Sous-section 2 : Déclaration des créances<a id=266></a>
+##### Sous-section 2 : Déclaration des créances<a id=287></a>
 
 ###### Article R332-16
 
@@ -31118,7 +31764,7 @@ _Cite_:
   - Code de la consommation
 
 
-##### Sous-section 3 : Arrêté des créances<a id=267></a>
+##### Sous-section 3 : Arrêté des créances<a id=288></a>
 
 ###### Article R332-19
 
@@ -31189,7 +31835,7 @@ _Cite_:
   - Code de la consommation - art. L332-10
 
 
-##### Sous-section 4 : Dispositions diverses.<a id=268></a>
+##### Sous-section 4 : Dispositions diverses.<a id=289></a>
 
 ###### Article R332-21
 
@@ -31239,9 +31885,9 @@ _Cite_:
   - Code de la consommation - art. L332-12
 
 
-##### Sous-section 5 : Liquidation des biens du débiteur<a id=269></a>
+##### Sous-section 5 : Liquidation des biens du débiteur<a id=290></a>
 
-##### Paragraphe 1er : Dispositions générales.<a id=270></a>
+##### Paragraphe 1er : Dispositions générales.<a id=291></a>
 
 ###### Article R332-23
 
@@ -31322,7 +31968,7 @@ _Cite_:
   - Code de la consommation - art. L332-8
 
 
-##### Paragraphe 2 : Dispositions particulières à la vente forcée d'immeubles.<a id=271></a>
+##### Paragraphe 2 : Dispositions particulières à la vente forcée d'immeubles.<a id=292></a>
 
 ###### Article R332-26
 
@@ -31503,7 +32149,7 @@ _Cite_:
   - Code de procédure civile (1807) - art. 688
 
 
-##### Sous-section 6 : Répartition du prix.<a id=272></a>
+##### Sous-section 6 : Répartition du prix.<a id=293></a>
 
 ###### Article R332-32
 
@@ -31594,7 +32240,7 @@ _Abrogé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 4
 
 
-##### Sous-section 7 : La clôture après liquidation.<a id=273></a>
+##### Sous-section 7 : La clôture après liquidation.<a id=294></a>
 
 ###### Article R332-35
 
@@ -31663,7 +32309,7 @@ _Cité par_:
   - Code de la consommation - art. R334-1 (V)
 
 
-#### Chapitre III : Dispositions communes<a id=274></a>
+#### Chapitre III : Dispositions communes<a id=295></a>
 
 ###### Article R333-1
 
@@ -31699,9 +32345,9 @@ _Cite_:
   - Code de la consommation - art. R331-7-3 (V)
 
 
-#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=275></a>
+#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=296></a>
 
-##### Section 1 : Dispositions applicables à Mayotte.<a id=276></a>
+##### Section 1 : Dispositions applicables à Mayotte.<a id=297></a>
 
 ###### Article R334-1
 
@@ -31777,7 +32423,7 @@ _Cité par_:
   - Code de la consommation - art. R336-4 (VD)
 
 
-##### Section 2 : Dispositions applicables en Nouvelle-Calédonie.<a id=277></a>
+##### Section 2 : Dispositions applicables en Nouvelle-Calédonie.<a id=298></a>
 
 ###### Article R334-2
 
@@ -31871,7 +32517,7 @@ _Modifié par_:
   - Décret n°2009-716 du 18 juin 2009 - art. 6
 
 
-### Titre IV : Dispositions diverses.<a id=278></a>
+### Titre IV : Dispositions diverses.<a id=299></a>
 
 ###### Article R333-5
 
@@ -31910,11 +32556,11 @@ _Cité par_:
   - Code de la consommation - art. R334-1 (V)
 
 
-## Livre IV : Les associations de consommateurs<a id=279></a>
+## Livre IV : Les associations de consommateurs<a id=300></a>
 
-### Titre Ier : Agrément des associations.<a id=280></a>
+### Titre Ier : Agrément des associations.<a id=301></a>
 
-#### Chapitre Ier : Les associations.<a id=281></a>
+#### Chapitre Ier : Les associations.<a id=302></a>
 
 ###### Article R411-1
 
@@ -32178,9 +32824,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : Action en justice des associations.<a id=282></a>
+### Titre II : Action en justice des associations.<a id=303></a>
 
-#### Chapitre II : Action en représentation conjointe.<a id=283></a>
+#### Chapitre II : Action en représentation conjointe.<a id=304></a>
 
 ###### Article R422-1
 
@@ -32507,13 +33153,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R622-10 (V)
 
 
-## Livre V : Les institutions<a id=284></a>
+## Livre V : Les institutions<a id=305></a>
 
-### Titre Ier : Les organes de concertation.<a id=285></a>
+### Titre Ier : Les organes de concertation.<a id=306></a>
 
-#### Chapitre Ier : Le Conseil national de la consommation.<a id=286></a>
+#### Chapitre Ier : Le Conseil national de la consommation.<a id=307></a>
 
-##### Section 1 : Missions et attributions.<a id=287></a>
+##### Section 1 : Missions et attributions.<a id=308></a>
 
 ###### Article D511-1
 
@@ -32655,7 +33301,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. D821-4 (V)
 
 
-##### Section 2 : Composition et organisation.<a id=288></a>
+##### Section 2 : Composition et organisation.<a id=309></a>
 
 ###### Article D511-5
 
@@ -32905,7 +33551,7 @@ _Cité par_:
   - Code de la consommation - art. D511-9 (Ab)
 
 
-##### Section 3 : Fonctionnement.<a id=289></a>
+##### Section 3 : Fonctionnement.<a id=310></a>
 
 ###### Article D511-12
 
@@ -33110,9 +33756,9 @@ _Modifié par_:
   - Décret n°2005-249 du 14 mars 2005 - art. 7 () JORF 18 mars 2005
 
 
-### Titre II : Les organes de coordination administrative.<a id=290></a>
+### Titre II : Les organes de coordination administrative.<a id=311></a>
 
-#### Chapitre Ier : Le comité interministériel de la consommation.<a id=291></a>
+#### Chapitre Ier : Le comité interministériel de la consommation.<a id=312></a>
 
 ###### Article D521-1
 
@@ -33173,7 +33819,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-#### Chapitre II : Le groupe interministériel de la consommation.<a id=292></a>
+#### Chapitre II : Le groupe interministériel de la consommation.<a id=313></a>
 
 ###### Article D522-1
 
@@ -33343,9 +33989,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. D825-4 (Ab)
 
 
-### Titre III : L'institut national de la consommation.<a id=293></a>
+### Titre III : L'institut national de la consommation.<a id=314></a>
 
-#### Chapitre Ier : Organisation et administration.<a id=294></a>
+#### Chapitre Ier : Organisation et administration.<a id=315></a>
 
 ###### Article R531-1
 
@@ -33690,7 +34336,7 @@ _Créé par_:
   - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
 
 
-#### Chapitre II : Organes consultatifs.<a id=295></a>
+#### Chapitre II : Organes consultatifs.<a id=316></a>
 
 ###### Article R532-1
 
@@ -33709,7 +34355,7 @@ _Codifié par_:
   - Décret n°97-298 1997-03-27 JORF 3 avril 1997
 
 
-#### Chapitre III : Dispositions financières et comptables.<a id=296></a>
+#### Chapitre III : Dispositions financières et comptables.<a id=317></a>
 
 ###### Article R533-1
 
@@ -33834,7 +34480,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-16 (V)
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=297></a>
+### Titre IV : Le conseil national de l'alimentation.<a id=318></a>
 
 ###### Article D541-1
 
