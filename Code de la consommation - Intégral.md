@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2009-09-04
+Version Consolidée au 2009-10-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-5)](#2)
@@ -20852,23 +20852,23 @@ _Cité par_:
 
 ###### Article R112-7-1
 
-En application du 
-2° de l'article L. 214-1 du code de la consommation
-, l'étiquetage d'un produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou
-de spécialité traditionnelle garantie doit être conforme aux 
-dispositions des articles R. 641-12 et R. 641-21-1 du code rural
-.
+En application du 2° de l'article L. 214-1 du code de la consommation, l'étiquetage d'un produit bénéficiant d'une
+reconnaissance d'appellation d'origine, d'indication géographique protégée ou spécialité traditionnelle garantie doit être
+conforme aux dispositions des articles R. 641-12 et R. 641-21-1 du code rural et, s'agissant des vins bénéficiant d'une
+indication géographique protégée, en outre, à celles de l'article R. 641-25-1 du même code.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-996 du 20 août 2009 - art. 1
+  - Décret n°2009-1195 du 7 octobre 2009 - art. 5
 
 _Cite_:
 
   - Code de la consommation - art. L214-1
   - Code rural - art. R641-12
+  - Code rural - art. R641-21-1
+  - Code rural - art. R641-25-1
 
 
 ###### Article R112-8
