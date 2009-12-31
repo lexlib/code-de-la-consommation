@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2009-12-10
+Version Consolidée au 2010-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-5)](#2)
@@ -36,7 +36,7 @@ Version Consolidée au 2009-12-10
           - [Section 5 : Ventes ou prestations avec primes (art. L121-35)](#33)
           - [Section 6 : Loteries publicitaires (art. L121-36 à L121-41)](#34)
           - [Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons (art. L121-50 à L121-53)](#35)
-          - [Section 9 : Contrat de jouissance d'immeuble à temps partagé. (art. L121-60 à L121-76)](#36)
+          - [Section 9 : Contrats d'utilisation de biens à temps partagé, contrats de produit de vacances à long terme, contrats de revente et contrats d'échange (art. L121-60 à L121-79-5)](#36)
           - [Section 10 : Appellation de boulanger et enseigne de boulangerie (art. L121-80 à L121-82)](#37)
           - [Section 11 : Contrats de services de communications électroniques (art. L121-83 à L121-85)](#38)
           - [Section 12 : Contrats de fourniture d'électricité ou de gaz naturel (art. L121-86 à L121-94)](#39)
@@ -5068,15 +5068,15 @@ _Nouveaux textes_:
   - Code de la consommation - art. L122-16 (V)
 
 
-##### Section 9 : Contrat de jouissance d'immeuble à temps partagé.<a id=36></a>
+##### Section 9 : Contrats d'utilisation de biens à temps partagé, contrats de produit de vacances à long terme, contrats de revente et contrats d'échange<a id=36></a>
 
 ###### Article L121-60
 
-Est soumis aux dispositions de la présente section tout contrat ou groupe de contrats, conclu à titre onéreux, par lequel un
-professionnel confère à un consommateur, directement ou indirectement, la jouissance d'un ou plusieurs biens immobiliers à
-usage d'habitation, par périodes déterminées ou déterminables, pour au moins trois années ou pour une durée indéterminée.
+Est soumis à la présente section tout contrat ou groupe de contrats, conclu à titre onéreux, par lequel un professionnel
+confère à un consommateur, directement ou indirectement, un droit ou un service d'utilisation de biens à temps partagé, ou
+concernant des produits de vacances à long terme, ou de revente ou d'échange de tels droits ou services. 
 
-Est soumis aux dispositions de la présente section le contrat de souscription ou de cession de parts ou actions de sociétés
+Est également soumis à la présente section le contrat de souscription ou de cession de parts ou actions de sociétés
 d'attribution d'immeubles en jouissance à temps partagé régi par la loi n° 86-18 du 6 janvier 1986 relative aux sociétés
 d'attribution d'immeubles en jouissance à temps partagé.
 
@@ -5091,6 +5091,7 @@ _Cité par_:
   - Code de la consommation - art. L121-20-12 (T)
   - Code de la consommation - art. L121-29 (VT)
   - Code de la consommation - art. L121-61 (VT)
+  - Code de la consommation - art. L121-63 (VT)
   - Code de la consommation - art. L121-65 (VT)
   - Code de la consommation - art. L121-69 (VT)
   - Code de la consommation - art. L121-70 (VT)
@@ -5103,73 +5104,57 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°86-18 du 6 janvier 1986 (V)
+  - Loi n°86-18 du 6 janvier 1986
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-69 (V)
 
 
 ###### Article L121-61
 
-L'offre de contracter est établie par écrit et indique :
+Les contrats mentionnés au premier alinéa de l'article L. 121-60 sont ainsi définis : 
 
-1° L'identité et le domicile du professionnel ou, s'il s'agit d'une personne morale, sa dénomination, sa forme juridique et
-son siège ; s'il y a lieu, ceux du propriétaire des locaux et de l'intermédiaire, ainsi que le lien juridique existant entre
-eux ;
+1° Le contrat d'utilisation de biens à temps partagé est un contrat d'une durée de plus d'un an par lequel un consommateur
+acquiert, à titre onéreux, la jouissance d'un ou plusieurs biens immobiliers ou mobiliers, à usage d'habitation, pour des
+périodes déterminées ou déterminables ; 
 
-2° La désignation et le descriptif précis du ou des locaux et de leur environnement ou les éléments permettant de les
-déterminer et, si l'immeuble est en construction, les indications essentielles relatives aux délais d'exécution des travaux,
-au raccordement aux divers réseaux, aux garanties d'achèvement ou de remboursement en cas de non-achèvement et au permis de
-construire ;
+2° Le contrat de produit de vacances à long terme est un contrat d'une durée de plus d'un an par lequel un consommateur
+acquiert, à titre onéreux, un droit à hébergement pour une période déterminée ou déterminable assorti de réductions ou
+d'autres avantages ou services ; 
 
-3° Les indications essentielles relatives à l'administration de l'immeuble ;
+3° Le contrat de revente est un contrat de service par lequel un professionnel, à titre onéreux, assiste un consommateur en
+vue de la vente, de la revente ou de l'achat d'un droit d'utilisation de biens à temps partagé ou d'un produit de vacances à
+long terme ; 
 
-4° L'objet du contrat, la nature juridique du droit au titre duquel le consommateur jouira des locaux, la durée de ce droit,
-sa date de prise d'effet et les principales conditions légales de son exercice avec l'indication éventuelle de celles qui
-restent à remplir ;
+4° Le contrat d'échange est un contrat à titre onéreux par lequel un consommateur accède à un système d'échange qui lui
+permet, en contrepartie de son contrat d'utilisation de biens à temps partagé ou de son contrat de produit de vacances à long
+terme, d'accéder à la jouissance d'un autre bien ou à un autre hébergement ou à d'autres services. 
 
-5° La date limite et les conditions de réalisation de l'acte définitif si l'offre tend à la formation d'un avant-contrat ;
-
-6° La durée et la fréquence de la période unitaire de jouissance ;
-
-7° Les dates d'occupation ou, le cas échéant, leurs modalités de fixation ainsi que les modalités de détermination des locaux
-occupés ;
-
-8° Les installations et équipements communs mis à la disposition du consommateur et les services fournis, à titre accessoire,
-ainsi que leur prestataire, les conditions d'accès à ces équipements et installations et une estimation du coût de cet accès
-pour le consommateur ;
-
-9° Le prix initial, les frais ainsi que le montant détaillé de toutes les sommes dues périodiquement ou leurs éléments de
-détermination ; le taux d'évolution annuel desdites sommes au cours de la période triennale précédant l'offre ou, si cette
-information n'est pas disponible, une mention avertissant du risque d'augmentation ; le montant ou les éléments de
-détermination des impôts, taxes et redevances obligatoires, à la date de l'offre ;
-
-10° Le mode de paiement du prix et, le cas échéant, le recours à un crédit quelle qu'en soit la forme ;
-
-11° L'affiliation ou la non-affiliation du professionnel à une bourse d'échanges et la possibilité offerte au consommateur
-d'y adhérer, ainsi que les conditions, en particulier financières, et effets essentiels de cette affiliation et de cette
-adhésion ;
-
-12° La mention du caractère limitatif de l'énumération des frais, charges ou obligations de nature contractuelle.
-
-L'offre est signée par le professionnel. Elle indique sa date et son lieu d'émission.
-
-Les mentions devant figurer dans l'offre sont précisées par un arrêté.
+Pour les contrats visés aux 1° et 2°, la détermination de la durée minimale tient compte de toute clause contractuelle de
+reconduction ou de prorogation tacite les portant à une durée supérieure à un an.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-60
 
 _Cité par_:
 
@@ -5177,51 +5162,104 @@ _Cité par_:
   - Code de la consommation - art. L121-75 (VT)
   - Code de la consommation - art. L121-76 (VT)
   - Code de la consommation - art. L121-79-1 (VT)
-  - Code de la consommation - art. L121-79-2 (VD)
+  - Code de la consommation - art. L121-79-2 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-70 (V)
 
 
 ###### Article L121-62
 
-L'offre reproduit en caractères très apparents les dispositions des articles L. 121-63 à L. 121-68.
+Toute publicité relative à tout contrat ou groupe de contrats d'utilisation de biens à temps partagé, de produit de vacances
+à long terme ou de revente ou d'échange indique la possibilité d'obtenir les informations mentionnées aux articles L. 121-63
+et L. 121-64. Toute invitation à une manifestation ayant pour objet la vente ou la promotion d'un des produits ou services
+ci-dessus mentionnés doit indiquer clairement le but commercial et la nature de cette manifestation. Pendant la durée de
+celle-ci, le professionnel doit mettre à la disposition du consommateur les informations mentionnées aux articles L. 121-63
+et L. 121-64. 
+
+Les biens à temps partagé et produits de vacances à long terme proposés ne peuvent être présentés ni être vendus comme un
+investissement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-63 (VT)
+  - Code de la consommation - art. L121-63
 
 _Cité par_:
 
-  - Code de la consommation - art. L121-79-2 (VD)
+  - Code de la consommation - art. L121-79-2 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-71 (V)
+  - Code de la consommation - art. L224-72 (V)
 
 
 ###### Article L121-63
 
-L'offre, complétée par la mention de l'identité et du domicile du consommateur, est remise ou envoyée à ce dernier en deux
-exemplaires, dont l'un, qui lui est réservé, comporte un coupon détachable destiné à faciliter l'exercice de la faculté de
-rétractation prévue à l'article L. 121-64. Ce coupon rappelle la mention de l'identité et du domicile ou du siège du
-professionnel.
+En temps utile et avant tout engagement de sa part, le consommateur doit recevoir du professionnel de manière claire et
+compréhensible, par écrit ou sur un support durable aisément accessible, les informations exactes et suffisantes relatives
+aux biens ou services pour lesquels il envisage de contracter. 
 
-L'offre est maintenue pendant un délai de sept jours au moins à compter de sa réception par le consommateur. La preuve de la
-date de réception incombe au professionnel.
+Pour l'ensemble des contrats visés et définis aux articles L. 121-60 et L. 121-61, l'offre indique, conformément aux modèles
+de formulaire d'information correspondants : 
+
+1° L'identité et le domicile du ou des professionnels, ou s'il s'agit d'une personne morale, sa dénomination, sa forme
+juridique et son siège ; 
+
+2° La désignation et la description du ou des biens ou services ainsi que de leur situation ; 
+
+3° L'objet du contrat ainsi que la nature juridique du ou des droits conférés au consommateur ; 
+
+4° La période précise pendant laquelle les droits seront exercés ; 
+
+5° La durée du contrat et sa date de prise d'effet ; 
+
+6° Le prix principal à payer pour l'exercice du ou des droits conférés par le contrat et l'indication des frais accessoires
+obligatoires éventuels ; 
+
+7° Les services et installations mis à la disposition du consommateur et leur coût ; 
+
+8° La durée du droit de rétractation, ses modalités d'exercice et ses effets ; 
+
+9° Les informations relatives à la résiliation du contrat, le cas échéant à la résiliation du contrat accessoire, et à leurs
+effets ; 
+
+10° L'interdiction de tout paiement d'avances ; 
+
+11° Le fait que le contrat peut être régi par une loi autre que celle de l'Etat membre de l'Union européenne dans lequel le
+consommateur a sa résidence ou son domicile habituel ; 
+
+12° L'indication de la ou des langues utilisées entre le consommateur et le professionnel concernant toute question relative
+au contrat ; 
+
+13° Le cas échéant, les modalités de résolution extrajudiciaire des litiges ; 
+
+14° L'existence, le cas échéant, d'un code de bonne conduite.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-60 (VT)
 
 _Cité par_:
 
@@ -5233,26 +5271,42 @@ _Cité par_:
   - Code de la consommation - art. L121-70 (VT)
   - Code de la consommation - art. L121-76 (VT)
   - Code de la consommation - art. L121-79-2 (VT)
+  - Code de la consommation - art. L121-79-5 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-73 (V)
 
 
 ###### Article L121-64
 
-L'acceptation de l'offre résulte de sa signature par le consommateur, précédée de la mention manuscrite de la date et du
-lieu, suivie de son envoi au professionnel par lettre recommandée avec demande d'avis de réception ou, à défaut, par tout
-autre moyen présentant des garanties équivalentes pour la détermination de la date d'envoi.
+I.-Pour les contrats de jouissance à temps partagé, l'offre visée à l'article L. 121-63 indique en outre : 
 
-Dans les mêmes formes, le consommateur peut se rétracter dans un délai de dix jours à compter de l'envoi au professionnel de
-l'offre acceptée, sans indemnité ni frais, à l'exception éventuelle des frais tarifés nécessairement engagés.
+1° L'existence ou non de la possibilité de participer à un système d'échange et, dans l'affirmative, l'indication du nom de
+ce système d'échange et de son coût ; 
+
+2° Si l'immeuble est en construction, les indications essentielles relatives au permis de construire, à l'état et aux délais
+d'achèvement du logement et de ses services, au raccordement aux divers réseaux, et aux garanties d'achèvement ou de
+remboursement en cas de non achèvement. 
+
+II.-Pour les contrats de produit de vacances à long terme, l'offre visée à l'article L. 121-63 indique en outre : 
+
+1° Les modalités relatives au calendrier de paiement échelonné du prix ; 
+
+2° Les indications relatives à l'éventuelle augmentation du coût des annuités. 
+
+III.-Pour les contrats de revente, l'offre visée à l'article L. 121-63 indique en outre le prix à payer par le consommateur
+pour bénéficier des services du professionnel et l'indication des frais complémentaires obligatoires.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
@@ -5261,41 +5315,59 @@ _Cité par_:
   - Code de la consommation - art. L121-67 (VT)
   - Code de la consommation - art. L121-71 (VT)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-74 (V)
+
 
 ###### Article L121-65
 
-Les délais prévus par les articles L. 121-63 et L. 121-64 qui expireraient un samedi, un dimanche ou un jour férié ou chômé
-sont prorogés jusqu'au premier jour ouvrable suivant.
+Le professionnel fournit gratuitement au consommateur les informations visées aux articles L. 121-63 et L. 121-64, au moyen
+de formulaires propres à chacun des contrats cités aux articles L. 121-60 et L. 121-61, et dont les modèles sont déterminés
+par arrêté conjoint du ministre chargé de la consommation et du ministre de la justice. 
+
+Les informations visées aux articles L. 121-63, L. 121-64 et au présent article sont rédigées au choix du consommateur dans
+la langue ou dans l'une des langues de l'Etat membre dans lequel il réside ou dont il a la nationalité, à la condition qu'il
+s'agisse d'une langue officielle de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
 _Cité par_:
 
   - Arrêté du 15 juin 2010 - art. 1 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 _Cite_:
 
-  - Code de la consommation - art. L121-63 (VT)
+  - Code de la consommation - art. L121-60
+  - Code de la consommation - art. L121-63
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-75 (V)
 
 
 ###### Article L121-66
 
-Avant l'expiration du délai de rétractation prévu à l'article L. 121-64, nul ne peut exiger ou recevoir du consommateur,
-directement ou indirectement, aucun versement ou engagement de versement à quelque titre ou sous quelque forme que ce soit.
+Le professionnel remet au consommateur un contrat écrit sur support papier ou sur tout autre support durable. Il est rédigé
+au choix du consommateur, dans la langue ou dans une des langues de l'Etat membre dans lequel il réside ou dont il a la
+nationalité, à condition qu'il s'agisse d'une langue officielle de la Communauté européenne. 
+
+En tout état de cause, le contrat est rédigé en langue française dès lors que le consommateur réside en France ou que le
+professionnel exerce son activité de vente sur le territoire français. 
+
+Dans le cas d'un contrat d'utilisation de biens à temps partagé concernant un bien immobilier précis situé sur le territoire
+d'un Etat membre, le professionnel remet au consommateur une traduction certifiée conforme du contrat dans la langue ou l'une
+des langues de cet Etat membre.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
 
 _Cité par_:
 
@@ -5303,88 +5375,124 @@ _Cité par_:
   - Code du tourisme. - art. R211-49 (V)
   - Code du tourisme. - art. R212-11 (T)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L121-64 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-76 (V)
 
 
 ###### Article L121-67
 
-Lorsqu'il est financé par un crédit porté à la connaissance du professionnel, le contrat est formé sous la condition
-suspensive de l'obtention de ce crédit.
+Les informations visées aux articles L. 121-63 et L. 121-64 font partie intégrante du contrat. Le professionnel ne peut
+modifier tout ou partie des informations fournies qu'en cas de force majeure ou d'accord formel intervenu entre les parties. 
 
-L'exercice par le consommateur de la faculté de rétractation prévue à l'article L. 121-64 emporte résiliation de plein droit
-du contrat de crédit affecté au financement du contrat de jouissance d'immeuble à temps partagé, sans frais ni indemnité, à
-l'exception éventuelle des frais tarifés nécessairement engagés.
+Toute modification doit faire l'objet d'une communication au consommateur avant la conclusion du contrat, par écrit, sur
+support papier ou sur tout autre support durable et figurer expressément dans ledit contrat. 
+
+Avant la signature du contrat, le professionnel attire l'attention du consommateur sur l'existence du droit de rétractation
+et sa durée, ainsi que sur l'interdiction d'un paiement d'avances pendant le délai de rétractation.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-64 (VT)
+  - Code de la consommation - art. L121-63
+
+_Cité par_:
+
+  - Code de la consommation - art. L121-68 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-77 (V)
 
 
 ###### Article L121-68
 
-Lorsque le consommateur réside en France ou lorsque le bien ou l'un des biens est situé sur le territoire français, l'offre
-est rédigée en langue française.
+Le contrat comprend : 
 
-L'offre est en outre rédigée, au choix du consommateur, dans la langue ou l'une des langues de l'Etat membre dans lequel il
-réside ou dont il est ressortissant, parmi les langues officielles de la Communauté européenne.
+1° Les informations visées aux articles L. 121-63 et L. 121-64 ; 
 
-Lorsqu'en application des alinéas qui précèdent l'offre est rédigée en deux langues le consommateur signe, à son choix, l'une
-ou l'autre version.
+2° Le cas échéant, les modifications intervenues sur ces mêmes informations conformément à l'article L. 121-67 ; 
 
-Lorsque le bien ou l'un des biens est situé dans un autre Etat membre de la Communauté européenne que la France et que le
-contrat n'est pas rédigé dans la langue de cet Etat en application du présent article, une traduction conforme dans cette
-langue est remise au consommateur.
+3° L'indication de l'identité et du lieu de résidence des parties ; 
+
+4° La date et le lieu de sa conclusion, ainsi que la signature des parties ; 
+
+5° Un formulaire de rétractation distinct du contrat, conforme à un modèle déterminé par arrêté conjoint du ministre chargé
+de la consommation et du ministre de la justice. 
+
+La ou les pages du contrat relatives à l'existence d'un droit de rétractation et à ses modalités d'exercice ainsi qu'à
+l'interdiction de paiement d'avance doivent être signées par le consommateur. 
+
+Une ou plusieurs copies de l'ensemble du contrat sont remises au consommateur au moment de sa conclusion.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-63
+  - Code de la consommation - art. L121-67 (VT)
 
 _Cité par_:
 
   - Code de la consommation - art. L121-70 (VT)
+  - Code de la consommation - art. L121-73 (VT)
   - Code de la consommation - art. L121-76 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-78 (V)
 
 
 ###### Article L121-69
 
-Toute publicité relative à tout contrat ou groupe de contrats visé à l'article L. 121-60 indique la possibilité d'obtenir le
-texte des offres proposées ainsi que l'adresse du lieu où il peut être retiré.
+Le consommateur dispose d'un délai de quatorze jours francs pour se rétracter d'un des contrats visés aux articles L. 121-60
+et L. 121-61, sans avoir à indiquer de motif. 
+
+Il dispose de ce droit à compter du jour de la conclusion du contrat ou du jour de sa réception, si cette réception est
+postérieure au jour de la conclusion dudit contrat, sans indemnité ni frais.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-60 (VT)
+  - Code de la consommation - art. L121-60
 
 _Cité par_:
 
@@ -5392,191 +5500,409 @@ _Cité par_:
   - Code de la consommation - art. L121-72 (VT)
   - Code de la consommation - art. L121-73 (VT)
   - Code de la consommation - art. L121-75 (VT)
-  - Code de la consommation - art. L121-79-3 (VD)
+  - Code de la consommation - art. L121-79-3 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-79 (V)
 
 
 ###### Article L121-70
 
-Est puni de 15 000 euros d'amende le fait : 
+Dans le cas où le professionnel n'a pas rempli et fourni au consommateur sur support papier ou sur tout autre support durable
+le formulaire de rétractation prévu au 5° de l'article L. 121-68, le consommateur dispose d'un délai de rétractation d'un an
+et quatorze jours à compter du jour de la conclusion du contrat ou du jour de sa réception. 
 
-1° Pour tout professionnel, de soumettre à un consommateur une offre tendant à la conclusion de tout contrat ou groupe de
-contrats visé à l'article L. 121-60 sans que cette offre soit établie par écrit, contienne les mentions énumérées à l'article
-L. 121-61 et reproduise en caractères très apparents les dispositions des articles L. 121-63 à L. 121-68 ; 
+Si le formulaire de rétractation est remis au consommateur sur support papier ou sur tout autre support durable dans l'année
+suivant le jour de la conclusion du contrat ou de sa réception, le délai de rétractation de quatorze jours commence à courir
+à compter du jour de la réception ou de la remise dudit formulaire. 
 
-2° Pour tout annonceur, de diffuser ou de faire diffuser pour son compte une publicité non conforme aux dispositions de
-l'article L. 121-69.
+Dans le cas où le professionnel n'a pas fourni au consommateur, par écrit, sur support papier ou sur tout autre support
+durable, les informations figurant aux articles L. 121-63 et L. 121-64, ainsi que le formulaire d'information correspondant,
+le consommateur dispose d'un délai de rétractation de trois mois et quatorze jours à compter du jour de la conclusion du
+contrat ou du jour de sa réception. 
+
+Si ces informations sont remises au consommateur dans les trois mois suivant le jour de la conclusion du contrat ou de sa
+réception, le délai de quatorze jours commence à courir à compter du jour de la réception ou de la remise desdites
+informations et du formulaire standard d'information.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-60 (VT)
-  - Code de la consommation - art. L121-61 (VT)
-  - Code de la consommation - art. L121-63 (VT)
-  - Code de la consommation - art. L121-69 (VT)
+  - Code de la consommation - art. L121-63
+  - Code de la consommation - art. L121-68
 
 _Cité par_:
 
   - Code de la consommation - art. L121-72 (VT)
   - Code de la consommation - art. L141-1 (M)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-80 (V)
+
 
 ###### Article L121-71
 
-Est puni de 30 000 euros d'amende le fait, pour tout professionnel, d'exiger ou de recevoir du consommateur, directement ou
-indirectement, tout versement ou engagement de versement, à quelque titre et sous quelque forme que ce soit, avant
-l'expiration du délai de rétractation prévu à l'article L. 121-64.
+Si le consommateur souscrit simultanément un contrat d'utilisation de biens à temps partagé et un contrat d'échange, un seul
+délai de rétractation s'applique aux deux contrats.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la consommation - art. L121-64 (VT)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Code de la consommation - art. L121-72 (V)
   - Code de la consommation - art. L141-1 (M)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-81 (V)
+
 
 ###### Article L121-72
 
-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
-infractions définies aux articles L. 121-70 et L. 121-71 encourent, outre l'amende suivant les modalités prévues par
-l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
+Les délais prévus par les articles L. 121-69, L. 121-70 et L. 121-71 qui expireraient un samedi, un dimanche ou un jour férié
+ou chômé sont prorogés jusqu'au premier jour ouvrable suivant.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 125
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-70 (VT)
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (V)
+  - Code de la consommation - art. L121-69
 
 _Cité par_:
 
   - Code de la consommation - art. L141-1 (M)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-82 (V)
+
 
 ###### Article L121-73
 
-Est réputée non écrite toute clause qui attribue compétence à une juridiction d'un Etat non partie à la convention de
-Bruxelles du 27 septembre 1968 et à la convention de Lugano du 16 septembre 1988 concernant la compétence judiciaire et
-l'exécution des décisions en matière civile et commerciale, lorsque le consommateur a son domicile ou sa résidence habituelle
-en France ou lorsque le bien ou l'un des biens est situé sur le territoire d'un Etat partie à ces conventions.
+Le consommateur qui entend exercer son droit de rétractation notifie sa décision au professionnel avant l'expiration des
+délais définis aux articles L. 121-69, L. 121-70 et L. 121-71, par lettre recommandée avec demande d'avis de réception ou, à
+défaut, par tout autre moyen présentant des garanties équivalentes permettant de prouver cet envoi. 
+
+Le consommateur peut utiliser, suivant les mêmes formalités de transmission, le formulaire standard de rétractation visé à
+l'article L. 121-68.
+
+L'exercice de son droit de rétractation par le consommateur met fin à l'obligation des parties d'exécuter le contrat.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 _Cite_:
 
-  - Convention 1968-09-27, signée à Bruxelles
-  - Convention 1988-09-16, signée à Lugano
+  - Code de la consommation - art. L121-68 (VT)
+  - Code de la consommation - art. L121-69
 
-_Codifié par_:
+_Nouveaux textes_:
 
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Code de la consommation - art. L224-83 (V)
 
 
 ###### Article L121-74
 
-Lorsque le bien ou l'un des biens est situé sur le territoire d'un Etat membre de la Communauté européenne, et lorsque la loi
-qui régit le contrat ne comporte pas des règles conformes à la directive 94/47/CE du Parlement européen et du Conseil, du 26
-octobre 1994, concernant la protection des acquéreurs pour certains aspects des contrats portant sur l'acquisition d'un droit
-d'utilisation à temps partiel de biens immobiliers, il sera fait impérativement application des dispositions mises en
-vigueur, pour respecter ladite directive, par l'Etat sur le territoire duquel est situé ce bien, ou, à défaut, des
-dispositions de la présente section.
+Le professionnel ne peut, directement ou indirectement, faire supporter au consommateur qui exerce son droit de rétractation
+aucun coût, y compris ceux afférents à d'éventuels services fournis avant l'exercice de son droit de rétractation.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-84 (V)
 
 _Cite_:
 
   - Directive CEE 94-97 1994-10-26 Conseil
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
 
 
 ###### Article L121-75
 
-Lorsque le bien ou l'un des biens n'est pas situé sur le territoire d'un Etat membre de la Communauté européenne, le
-consommateur qui a sa résidence habituelle dans un Etat membre de la Communauté européenne ne peut être privé, quelle que
-soit la loi applicable, de la protection que lui assurent les dispositions impératives prises par cet Etat en application de
-la directive 94/47/CE du Parlement européen et du Conseil, du 26 octobre 1994, précitée :
+Le professionnel ne peut demander et recevoir du consommateur, sous quelque forme que ce soit, le paiement d'avance, une
+constitution de garanties, une reconnaissance de dettes, une réserve d'argent sur des comptes, pour les prestations objets
+des contrats visés aux articles L. 121-60 et L. 121-61, ou toute autre rémunération pour lui-même ou pour un tiers, avant
+l'expiration des délais de rétractation définis aux articles L. 121-69, L. 121-70 et L. 121-71 et la conclusion effective
+desdits contrats. 
 
-- si le contrat a été conclu dans l'Etat du lieu de résidence habituelle du consommateur ;
-
-- si le contrat a été précédé dans cet Etat d'une offre spécialement faite ou d'une publicité et des actes accomplis par le
-consommateur nécessaires à la conclusion dudit contrat ;
-
-- si le contrat a été conclu dans un Etat où le consommateur s'est rendu à la suite d'une proposition de voyage ou de séjour
-faite, directement ou indirectement, par le professionnel pour l'inciter à contracter.
+Ces interdictions valent également lorsqu'il est mis fin, par tout moyen, au contrat de revente.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
 _Cite_:
 
-  - Directive CEE 94-97 1994-10-26 Conseil
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Code de la consommation - art. L121-60
+  - Code de la consommation - art. L121-69
 
 
 ###### Article L121-76
 
-Les dispositions de la présente section sont d'ordre public. Le non-respect des dispositions prévues aux articles L. 121-61,
-L. 121-62, au premier alinéa de l'article L. 121-63 et aux articles L. 121-64 et L. 121-68 est sanctionné par la nullité du
-contrat.
+En ce qui concerne les contrats de produit de vacances à long terme visés à l'article L. 121-61, le paiement se fait selon un
+calendrier de paiements échelonnés auquel il est interdit de déroger. Les paiements, y compris toute cotisation, sont divisés
+en annuités, chacune étant d'égale valeur. Le professionnel envoie une demande de paiement par écrit, sur support papier ou
+sur tout autre support durable, au moins quatorze jours avant chaque date d'échéance.
+
+A partir de la deuxième annuité, le consommateur peut mettre fin au contrat sans encourir de pénalités, en donnant un préavis
+au professionnel dans un délai de quatorze jours suivant la réception de la demande de paiement pour chaque annuité.
+
+A partir de la deuxième annuité, le professionnel et le consommateur peuvent convenir de l'indexation du prix sur la base
+d'un indice en lien avec l'objet du contrat.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°98-566 du 8 juillet 1998 - art. 1 () JORF 9 juillet 1998
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-61 (VT)
+  - Code de la consommation - art. L121-61
+
+_Cité par_:
+
+  - Code de la consommation - art. L121-79-5 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-86 (V)
+
+
+###### Article L121-77
+
+Lorsque le consommateur exerce son droit de rétractation du contrat d'utilisation de biens à temps partagé ou de produit de
+vacances à long terme, tout contrat accessoire, y compris le contrat d'échange, est résilié de plein droit sans frais ni
+indemnité. 
+
+Le contrat accessoire s'entend d'un contrat par lequel le consommateur acquiert des services liés à un contrat d'utilisation
+de biens à temps partagé ou un contrat de produit de vacances à long terme, ces services étant fournis par le professionnel
+ou un tiers sur la base d'un accord entre ce tiers et le professionnel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-87 (V)
+
+
+###### Article L121-78
+
+Lorsque le paiement du prix est acquitté en tout ou partie à l'aide d'un crédit accordé au consommateur par le professionnel
+ou par l'intermédiaire d'un tiers, l'exercice par le consommateur de son droit de rétractation du contrat d'utilisation de
+biens à temps partagé, du contrat de produit de vacances à long terme, de revente ou d'échange emporte la résiliation de
+plein droit, sans frais ni indemnité, du contrat de crédit.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-88 (V)
+
+
+###### Article L121-79
+
+Lorsque la loi applicable au contrat est la loi d'un Etat membre de l'Union européenne, est réputée non écrite toute clause
+par laquelle le consommateur renonce aux droits qui lui sont conférés par la présente section.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-89 (V)
+  - Code de la consommation - art. L232-5 (V)
+
+
+###### Article L121-79-1
+
+Lorsque la loi applicable est celle d'un pays tiers, est réputée non écrite toute clause qui prive le consommateur des droits
+qui lui sont conférés par la présente section, dès lors : 
+
+― pour les contrats définis par l'article L. 121-61 et portant sur la jouissance de tout ou partie d'un bien immobilier, que
+ce bien immobilier est situé sur le territoire d'un Etat membre de l'Union européenne ; 
+
+― pour les autres contrats définis à l'article L. 121-61, que le professionnel exerce une activité commerciale ou
+professionnelle dans un Etat membre ou que le professionnel dirige de quelque manière que ce soit son activité vers un Etat
+membre et que le contrat rentre dans le cadre de cette activité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-61
+
+_Cité par_:
+
+  - Code de la consommation - art. L121-79-4 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L232-6 (V)
+
+
+###### Article L121-79-2
+
+Est puni de 15 000 € d'amende le fait : 
+
+1° Pour tout professionnel, de soumettre à un consommateur une offre tendant à la conclusion de tout contrat ou groupe de
+contrats visés aux articles L. 121-60 et L. 121-61, non conforme aux articles L. 121-63 à L. 121-65 ; 
+
+2° Pour tout annonceur, de diffuser ou de faire diffuser pour son compte une publicité non conforme à l'article L. 121-62.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-61
+  - Code de la consommation - art. L121-62
+  - Code de la consommation - art. L121-63
+
+
+###### Article L121-79-3
+
+Est puni de 30 000 € d'amende le fait, pour tout professionnel, d'exiger ou de recevoir du consommateur, directement ou
+indirectement, tout versement ou engagement de versement, à quelque titre et sous quelque forme que ce soit, avant
+l'expiration des délais de rétractation prévus aux articles L. 121-69, L. 121-70 et L. 121-71. 
+
+Est puni d'une peine d'amende identique le fait pour tout professionnel, directement ou indirectement, de faire supporter au
+consommateur qui exerce son droit de rétractation des coûts, y compris ceux afférents à d'éventuels services fournis avant
+l'exercice du droit de rétractation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-69 (VT)
+
+
+###### Article L121-79-4
+
+Les personnes morales coupables de l'une des infractions prévues par les articles L. 121-79-1 et L. 121-79-2 encourent
+également les peines complémentaires mentionnées à l'article 131-39 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-79-1 (V)
+  - Code pénal - art. 131-39 (MMN)
+
+
+###### Article L121-79-5
+
+La présente section est d'ordre public. Le non-respect des dispositions prévues aux articles L. 121-63, L. 121-64, L. 121-65,
+L. 121-66, L. 121-67, L. 121-68 et L. 121-76 est sanctionné par la nullité du contrat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
   - Code de la consommation - art. L121-63 (VT)
-  - Code de la consommation - art. L121-68 (VT)
+  - Code de la consommation - art. L121-76 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L242-26 (V)
 
 
 ##### Section 10 : Appellation de boulanger et enseigne de boulangerie<a id=37></a>
