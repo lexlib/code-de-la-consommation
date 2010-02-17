@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-02-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-5)](#2)
@@ -30610,28 +30610,24 @@ _Cité par_:
 ###### Article R331-2
 
 Le préfet, le trésorier-payeur général et le directeur des services fiscaux ne peuvent se faire représenter respectivement
-dans chaque commission que par un seul délégué.
+dans chaque commission que par un seul délégué. 
 
-Le préfet choisit son délégué parmi les membres du corps préfectoral, les chefs des services déconcentrés de l'Etat ou les
-directeurs de préfecture.
+Le préfet choisit son délégué parmi les membres du corps préfectoral,        les chefs des services déconcentrés de l'Etat ou
+leurs adjoints, ou les directeurs de préfecture. 
 
 Le trésorier-payeur général choisit son délégué parmi les fonctionnaires de la trésorerie générale ayant au moins le grade
-d'inspecteur ou les receveurs des finances.
+d'inspecteur ou les receveurs des finances. 
 
 Le directeur des services fiscaux choisit son délégué parmi l es fonctionnaires de la direction ayant au moins le grade
-d'inspecteur.
+d'inspecteur. 
 
 Le délégué du préfet ne préside la commission qu'en l'absence du trésorier-payeur général.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
 _Modifié par_:
 
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+  - Décret n°2010-146 du 16 février 2010 - art. 50 (V)
 
 _Cité par_:
 
