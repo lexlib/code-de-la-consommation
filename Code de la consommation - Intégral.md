@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-09-02
+Version Consolidée au 2010-10-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-5)](#2)
@@ -321,11 +321,13 @@ et de certaines autres substances aux denrées alimentaires (art. R214-7)](#212)
       - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#317)
         - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#318)
         - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#319)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R533-5)](#320)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R534-12)](#320)
         - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#321)
         - [Chapitre II : Organes consultatifs. (art. R532-1)](#322)
         - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#323)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#324)
+        - [Chapitre IV : Dispositions diverses. (art. R534-11 à R534-12)](#324)
+          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#325)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#326)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -35424,7 +35426,86 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-16 (V)
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=324></a>
+#### Chapitre IV : Dispositions diverses.<a id=324></a>
+
+##### Section 3 : La commission de la médiation de la consommation<a id=325></a>
+
+###### Article R534-11
+
+La commission de la médiation de la consommation instituée à l'article L. 534-7 comprend, outre son président, douze membres
+répartis de la manière suivante : 
+
+1° Cinq représentants des consommateurs ; 
+
+2° Cinq représentants des professionnels ; 
+
+3° Deux personnalités qualifiées ayant une expérience en matière de médiation ou issues du monde universitaire. 
+
+Le président et les membres de la commission sont nommés par arrêté du ministre chargé de la consommation pour un mandat de
+trois ans renouvelable une fois. 
+
+Un vice-président est désigné sur proposition de la commission. 
+
+La commission ne peut régulièrement délibérer qu'en présence de son président ou de son remplaçant et d'au moins six autres
+de ses membres. 
+
+Lorsque la commission évalue les pratiques de médiation, tout membre de la commission qui participe ou a participé à ces
+pratiques en tant que médiateur ou collaborateur permanent d'un médiateur s'abstient de participer aux délibérations. 
+
+Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
+commission de la médiation de la consommation. Il ne prend pas part aux votes sur les avis et recommandations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 16
+
+_Abrogé par_:
+
+  - Décret n°2015-1382 du 30 octobre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la consommation - art. L534-7
+
+
+###### Article R534-12
+
+La commission peut être saisie : 
+
+1° Par le ministre chargé de la consommation ; 
+
+2° Par toute association de défense des consommateurs disposant de l'agrément prévu à l'article L. 411-1 ; 
+
+3° Par tout membre du collège des professionnels du Conseil national de la consommation. 
+
+La commission peut se saisir d'office. 
+
+La commission ne peut examiner aucun litige relatif à la consommation. 
+
+Lorsqu'elle décide de ne pas donner suite à une saisine, la commission en informe son auteur. 
+
+Le président peut désigner un rapporteur parmi les membres de la commission pour l'instruction d'une affaire. Le rapporteur
+peut également être désigné dans les conditions prévues au II de l'article R. 534-17.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 16
+
+_Abrogé par_:
+
+  - Décret n°2015-1382 du 30 octobre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la consommation - art. L411-1
+  - Code de la consommation - art. R534-17
+
+
+### Titre IV : Le conseil national de l'alimentation.<a id=326></a>
 
 ###### Article D541-1
 
