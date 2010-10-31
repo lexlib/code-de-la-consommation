@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-10-31
+Version Consolidée au 2010-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-5)](#2)
@@ -142,180 +142,204 @@ Version Consolidée au 2010-10-31
           - [Section 1 : Nullité des conventions (art. L321-1)](#139)
           - [Section 2 : Publicité (art. L321-2)](#140)
         - [Chapitre II : Dispositions diverses (art. L322-1 à L322-5)](#141)
-      - [Titre III : Traitement des situations de surendettement (art. L330-1 à L334-10)](#142)
-        - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. L331-1 à L331-11)](#143)
-        - [Chapitre II : Des compétences du juge de l'exécution en matière de traitement des situations de surendettement (art. L332-1 à L332-12)](#144)
-          - [Section 1 : Du contrôle par le juge des mesures recommandées par la commission de surendettement (art. L332-1 à L332-4)](#145)
-          - [Section 2 : De la procédure de rétablissement personnel (art. L332-5 à L332-12)](#146)
-        - [Chapitre III : Dispositions communes (art. L333-1 à L333-8)](#147)
-        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. L334-1 à L334-10)](#148)
-          - [Section 1 : Dispositions applicables à Mayotte (art. L334-1 à L334-3)](#149)
-          - [Section 2 : Dispositions applicables à la Nouvelle-Calédonie (art. L334-4 à L334-6)](#150)
-          - [Section 3 : Dispositions applicables à la Polynésie française (art. L334-7)](#151)
-          - [Section 4 : Dispositions applicables aux îles Wallis et Futuna (art. L334-8 à L334-10)](#152)
-      - [Titre IV : Cautionnement (art. L341-1 à L341-6)](#153)
-    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#154)
-      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#155)
-        - [Chapitre Ier : Les associations (art. L411-1)](#156)
-        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#157)
-      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#158)
-        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#159)
-          - [Section 1 : Action civile (art. L421-1 à L421-5)](#160)
-          - [Section 2 : Action en cessation d'agissements illicites (art. L421-6)](#161)
-          - [Section 3 : Interventions en justice (art. L421-7)](#162)
-          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#163)
-        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#164)
-    - [Livre V : Les institutions (art. L531-1 à L562-1)](#165)
-      - [Titre III : L'Institut national de la consommation (art. L531-1 à L534-10)](#166)
-        - [Chapitre Ier : Organisation administrative (art. L531-1 à L531-4)](#167)
-        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. L534-1 à L534-10)](#168)
-      - [Titre IV : Le Conseil national de l'alimentation (art. L541-1)](#169)
-        - [Chapitre Ier (art. L541-1)](#170)
-      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#171)
-        - [Chapitre Ier : Missions (art. L561-1)](#172)
-        - [Chapitre II : Fonctionnement (art. L562-1)](#173)
-  - [Partie réglementaire (art. R112-1 à D541-7)](#174)
-    - [Livre Ier : Information des consommateurs et formation des contrats (art. R112-1 à R142-2)](#175)
-      - [Titre Ier : Information des consommateurs (art. R112-1 à R115-3)](#176)
-        - [Chapitre II : Modes de présentation et inscriptions (art. R112-1 à R112-31)](#177)
-        - [Chapitre III : Prix et conditions de vente (art. R113-1)](#178)
-        - [Chapitre IV : Information sur les délais de livraison (art. R114-1)](#179)
-        - [Chapitre V : Valorisation des produits et des services (art. R115-1 à R115-3)](#180)
-          - [Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer (art. R115-1 à R115-3)](#181)
-      - [Titre II : Pratiques commerciales (art. R121-1 à R122-1)](#182)
-        - [Chapitre Ier : Pratiques commerciales réglementées (art. R121-1 à R121-21)](#183)
-          - [Section 2 : Ventes de biens et fournitures de prestations de services à distance (art. R121-1 à R121-2-5)](#184)
-            - [Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers. (art. R121-1 à R121-2)](#185)
-            - [Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers (art. R121-2-1 à R121-2-5)](#186)
-          - [Section 3 : Démarchage (art. R121-3 à R121-6)](#187)
-          - [Section 5 : Ventes ou prestations avec primes (art. R121-8 à R121-10)](#188)
-          - [Section 6 : Loteries publicitaires (art. R121-11 à R121-13)](#189)
-          - [Section 12 : Contrats de fourniture d'électricité ou de gaz naturel (art. R121-14 à R121-21)](#190)
-        - [Chapitre II : Pratiques commerciales illicites (art. R122-1)](#191)
-          - [Section 2 : Ventes sans commande préalable. (art. R122-1)](#192)
-      - [Titre III : Conditions générales des contrats (art. R132-1 à R134-1)](#193)
-        - [Chapitre II : Clauses abusives (art. R132-1 à R132-6)](#194)
-          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. R132-1 à R132-2-1)](#195)
-          - [Section 2 : Commission des clauses abusives (art. R132-3 à R132-6)](#196)
-        - [Chapitre IV : Remise des contrats (art. R134-1)](#197)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R141-1 à R142-2)](#198)
-        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-5)](#199)
-        - [Chapitre II : Procédures civiles simplifiées (art. R142-1 à R142-2)](#200)
-    - [Livre II : Qualité des produits et des services (art. R211-1 à D225-2)](#201)
-      - [Titre Ier : Conformité (art. R211-1 à R218-1)](#202)
-        - [Chapitre Ier : Dispositions générales. (art. R211-1 à R211-5)](#203)
-          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. R211-1 à R211-5)](#204)
-        - [Chapitre IV : Mesures d'application. (art. R214-1 à R214-20)](#205)
-          - [Section 1 : Dispositions générales (art. R214-1)](#206)
-          - [Section 2 : Etiquetage des denrées alimentaires (art. R214-2)](#207)
-          - [Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R214-3)](#208)
-          - [Section 4 : Organismes génétiquement modifiés (art. R214-4)](#209)
-          - [Section 5 : Boissons alcoolisées (art. R214-5)](#210)
-          - [Section 6 :  Arômes (art. R214-6)](#211)
+      - [Titre III : Traitement des situations de surendettement (art. L330-1 à L334-12)](#142)
+        - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. L331-1 à L331-12)](#143)
+        - [Chapitre II : Des compétences du juge de l'exécution en matière de traitement des situations de surendettement (art.  à L332-12)](#144)
+          - [Section 1 : Du contrôle par le juge des mesures recommandées par la commission de surendettement (art.  à L331-12)](#145)
+          - [Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement (art. L332-1 à L332-4)](#146)
+          - [Section 2 : De la procédure de rétablissement personnel (art. L332-5 à L332-12)](#147)
+        - [Chapitre III : Dispositions communes (art. L333-1 à L333-8)](#148)
+        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. L334-1 à L334-12)](#149)
+          - [Section 1 : Dispositions applicables à Mayotte (art. L334-1 à L334-3)](#150)
+          - [Section 2 : Dispositions applicables à la Nouvelle-Calédonie (art. L334-4 à L334-6)](#151)
+          - [Section 3 : Dispositions applicables à la Polynésie française (art. L334-7)](#152)
+          - [Section 4 : Dispositions applicables aux îles Wallis et Futuna (art. L334-8 à L334-10)](#153)
+          - [Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. L334-11)](#154)
+          - [Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon (art. L334-12)](#155)
+      - [Titre IV : Cautionnement (art. L341-1 à L341-6)](#156)
+    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#157)
+      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#158)
+        - [Chapitre Ier : Les associations (art. L411-1)](#159)
+        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#160)
+      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#161)
+        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#162)
+          - [Section 1 : Action civile (art. L421-1 à L421-5)](#163)
+          - [Section 2 : Action en cessation d'agissements illicites (art. L421-6)](#164)
+          - [Section 3 : Interventions en justice (art. L421-7)](#165)
+          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#166)
+        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#167)
+    - [Livre V : Les institutions (art. L531-1 à L562-1)](#168)
+      - [Titre III : L'Institut national de la consommation (art. L531-1 à L534-10)](#169)
+        - [Chapitre Ier : Organisation administrative (art. L531-1 à L531-4)](#170)
+        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. L534-1 à L534-10)](#171)
+      - [Titre IV : Le Conseil national de l'alimentation (art. L541-1)](#172)
+        - [Chapitre Ier (art. L541-1)](#173)
+      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#174)
+        - [Chapitre Ier : Missions (art. L561-1)](#175)
+        - [Chapitre II : Fonctionnement (art. L562-1)](#176)
+  - [Partie réglementaire (art. R112-1 à D541-7)](#177)
+    - [Livre Ier : Information des consommateurs et formation des contrats (art. R112-1 à R142-2)](#178)
+      - [Titre Ier : Information des consommateurs (art. R112-1 à R115-3)](#179)
+        - [Chapitre II : Modes de présentation et inscriptions (art. R112-1 à R112-31)](#180)
+        - [Chapitre III : Prix et conditions de vente (art. R113-1)](#181)
+        - [Chapitre IV : Information sur les délais de livraison (art. R114-1)](#182)
+        - [Chapitre V : Valorisation des produits et des services (art. R115-1 à R115-3)](#183)
+          - [Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer (art. R115-1 à R115-3)](#184)
+      - [Titre II : Pratiques commerciales (art. R121-1 à R122-1)](#185)
+        - [Chapitre Ier : Pratiques commerciales réglementées (art. R121-1 à R121-21)](#186)
+          - [Section 2 : Ventes de biens et fournitures de prestations de services à distance (art. R121-1 à R121-2-5)](#187)
+            - [Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers. (art. R121-1 à R121-2)](#188)
+            - [Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers (art. R121-2-1 à R121-2-5)](#189)
+          - [Section 3 : Démarchage (art. R121-3 à R121-6)](#190)
+          - [Section 5 : Ventes ou prestations avec primes (art. R121-8 à R121-10)](#191)
+          - [Section 6 : Loteries publicitaires (art. R121-11 à R121-13)](#192)
+          - [Section 12 : Contrats de fourniture d'électricité ou de gaz naturel (art. R121-14 à R121-21)](#193)
+        - [Chapitre II : Pratiques commerciales illicites (art. R122-1)](#194)
+          - [Section 2 : Ventes sans commande préalable. (art. R122-1)](#195)
+      - [Titre III : Conditions générales des contrats (art. R132-1 à R134-1)](#196)
+        - [Chapitre II : Clauses abusives (art. R132-1 à R132-6)](#197)
+          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. R132-1 à R132-2-1)](#198)
+          - [Section 2 : Commission des clauses abusives (art. R132-3 à R132-6)](#199)
+        - [Chapitre IV : Remise des contrats (art. R134-1)](#200)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R141-1 à R142-2)](#201)
+        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-5)](#202)
+        - [Chapitre II : Procédures civiles simplifiées (art. R142-1 à R142-2)](#203)
+    - [Livre II : Qualité des produits et des services (art. R211-1 à D225-2)](#204)
+      - [Titre Ier : Conformité (art. R211-1 à R218-1)](#205)
+        - [Chapitre Ier : Dispositions générales. (art. R211-1 à R211-5)](#206)
+          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. R211-1 à R211-5)](#207)
+        - [Chapitre IV : Mesures d'application. (art. R214-1 à R214-20)](#208)
+          - [Section 1 : Dispositions générales (art. R214-1)](#209)
+          - [Section 2 : Etiquetage des denrées alimentaires (art. R214-2)](#210)
+          - [Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R214-3)](#211)
+          - [Section 4 : Organismes génétiquement modifiés (art. R214-4)](#212)
+          - [Section 5 : Boissons alcoolisées (art. R214-5)](#213)
+          - [Section 6 :  Arômes (art. R214-6)](#214)
           - [Section 7 : Adjonction de vitamines, de minéraux 
-et de certaines autres substances aux denrées alimentaires (art. R214-7)](#212)
-          - [Section 8 : Contaminants (art. R214-8)](#213)
-          - [Section 9 : Fruits et légumes (art. R214-9)](#214)
-          - [Section 10 : Huile d'olive et olives de table (art. R214-10)](#215)
-          - [Section 11 : Œufs et viande de volaille (art. R214-11)](#216)
-          - [Section 12 : Produits laitiers et matières grasses laitières ou non (art. R214-12)](#217)
-          - [Section 13 : Produits de la pêche (art. R214-13)](#218)
-          - [Section 14 : Viandes bovine, ovine et porcine (art. R214-14)](#219)
-          - [Section 15 : Modes de valorisation (art. R214-15)](#220)
-          - [Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale (art. R214-16)](#221)
-          - [Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R214-17)](#222)
-          - [Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R214-18)](#223)
-          - [Section 19 : Engrais (art. R214-19)](#224)
-          - [Section 20 : Détergents (art. R214-20)](#225)
-        - [Chapitre V : Pouvoirs d'enquête (art. R215-1 à R215-23)](#226)
-          - [Section 1 : Autorités qualifiées. (art. R215-1)](#227)
-          - [Section 2 : Recherche et constatation. (art. D215-16 à R215-15)](#228)
-          - [Section 4 : Expertises. (art. R215-18 à R215-23)](#229)
-        - [Chapitre VI : Dispositions communes. (art. R216-2 à R216-3)](#230)
-        - [Chapitre VII : Dispositions particulières. (art. R217-1)](#231)
-        - [Chapitre VIII : Mesures de police administrative (art. R218-1)](#232)
-      - [Titre II : Sécurité (art. R223-1 à D225-2)](#233)
-        - [Chapitre III : Sanctions (art. R223-1 à R223-5)](#234)
-        - [Chapitre IV : La commission de la sécurité des consommateurs (art. R224-1 à R224-12)](#235)
-        - [Chapitre V : Dispositions diverses (art. D225-2)](#236)
-    - [Livre III : Endettement (art. D311-1 à R333-5)](#237)
-      - [Titre Ier : Crédit (art. D311-1 à R*314-2)](#238)
-        - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#239)
-          - [Section 1 : Champ d'application (art. D311-1 à D311-3)](#240)
-          - [Section 2 : Publicité (art. D311-3-1)](#241)
-          - [Section 3 : Crédit gratuit (art. R311-4 à R311-5)](#242)
-          - [Section 4 : Le contrat de crédit (art. R311-6 à R311-7)](#243)
-          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. D311-10 à D311-13)](#244)
-            - [Sous-section 1 : Remboursement anticipé (art. D311-10)](#245)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. D311-11 à D311-13)](#246)
-          - [Section 5 : Les crédits affectés (art. R311-8 à R311-9)](#247)
-        - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#248)
-          - [Section 3 : Le contrat de crédit (art. R312-1)](#249)
-          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#250)
-            - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#251)
-            - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#252)
-          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#253)
-        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article R313-1-1)](#254)
-          - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-9)](#255)
-            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#256)
-            - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-9)](#257)
-          - [Section 3 : Rémunération du vendeur (art. R313-10)](#258)
-          - [Section 7 :  Regroupement de crédits (art. R313-11)](#259)
-          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article R313-1-1)](#260)
-            - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#261)
-            - [Annexes au Chapitre II du Titre Ier du Livre Ier (art. Annexe I à Annexe IV)](#262)
-            - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#263)
-            - [ANNEXE A L'ARTICLE R311-6 (art. Annexe Modèle type n° 1 à Annexe Modèle type n° 6)](#264)
-            - [ANNEXE A L'ARTICLE R311-7 (art. Annexe à l'article R311-7)](#265)
-            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#266)
-            - [ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1-1)](#267)
-        - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#268)
-      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R334-2)](#269)
-        - [Chapitre Ier : Commission de surendettement des particuliers (art. R331-1 à R331-21)](#270)
-          - [Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers (art. R331-1 à R331-6-1)](#271)
-          - [Section 2 : Procédure devant la commission de surendettement des particuliers (art. R331-7 à R331-21)](#272)
-            - [Sous-section 1 : Dispositions générales (art. R331-7 à R331-7-2)](#273)
-            - [Sous-section 2 : Instruction de la demande de traitement d'une situation de surendettement (art. R331-7-3 à R331-10-3)](#274)
-              - [Paragraphe 1er : Saisine de la commission (art. R331-7-3)](#275)
-              - [Paragraphe 2 : Examen de la recevabilité (art. R331-8)](#276)
-              - [Paragraphe 3 : Etat du passif (art. R331-9 à R331-10)](#277)
-              - [Paragraphe 4 : Orientation des dossiers des débiteurs en situation irrémédiablement compromise (art. R331-10-1 à R331-10-3)](#278)
-            - [Sous-section 3 : Vérification des créances (art. R331-11 à R331-12)](#279)
-            - [Sous-section 5 : Mesures de traitement du surendettement (art. R331-15-1 à R331-21)](#280)
-              - [Paragraphe 1er : Dispositions communes (art. R331-15-1)](#281)
-              - [Paragraphe 2 : Plan conventionnel de redressement (art. R331-16 à R331-17)](#282)
-              - [Paragraphe 3 : Mesures recommandées par la commission (art. R331-18 à R331-21)](#283)
-        - [Chapitre II : Procédure devant le juge de l'exécution (art. R332-1 à R332-3)](#284)
-          - [Section 1 : Dispositions générales (art. R332-1 à R332-1-4)](#285)
-          - [Section 2 : Du contrôle par le juge des mesures recommandées (art. R332-2 à R332-3)](#286)
-            - [Sous-section 1 : Acquisition de la force exécutoire. (art. R332-2 à R332-3)](#287)
-        - [Chapitre III : Dispositions communes (art. R333-1)](#288)
-        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. R334-1 à R334-2)](#289)
-          - [Section 1 : Dispositions applicables à Mayotte. (art. R334-1)](#290)
-          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie. (art. R334-2)](#291)
-      - [Titre IV : Dispositions diverses. (art. R333-5)](#292)
-    - [Livre IV : Les associations de consommateurs (art. R411-1 à R431-3)](#293)
-      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#294)
-        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#295)
-      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#296)
-        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#297)
-      - [Titre III : Reconnaissance spécifique des associations (art. R431-1 à R431-3)](#298)
-    - [Livre V : Les institutions (art. D511-1 à D541-7)](#299)
-      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#300)
-        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#301)
-          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#302)
-          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11-1)](#303)
-          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#304)
-      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#305)
-        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#306)
-        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#307)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R534-12)](#308)
-        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#309)
-        - [Chapitre II : Organes consultatifs. (art. R532-1)](#310)
-        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#311)
-        - [Chapitre IV : Dispositions diverses. (art. R534-11 à R534-12)](#312)
-          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#313)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#314)
+et de certaines autres substances aux denrées alimentaires (art. R214-7)](#215)
+          - [Section 8 : Contaminants (art. R214-8)](#216)
+          - [Section 9 : Fruits et légumes (art. R214-9)](#217)
+          - [Section 10 : Huile d'olive et olives de table (art. R214-10)](#218)
+          - [Section 11 : Œufs et viande de volaille (art. R214-11)](#219)
+          - [Section 12 : Produits laitiers et matières grasses laitières ou non (art. R214-12)](#220)
+          - [Section 13 : Produits de la pêche (art. R214-13)](#221)
+          - [Section 14 : Viandes bovine, ovine et porcine (art. R214-14)](#222)
+          - [Section 15 : Modes de valorisation (art. R214-15)](#223)
+          - [Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale (art. R214-16)](#224)
+          - [Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R214-17)](#225)
+          - [Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R214-18)](#226)
+          - [Section 19 : Engrais (art. R214-19)](#227)
+          - [Section 20 : Détergents (art. R214-20)](#228)
+        - [Chapitre V : Pouvoirs d'enquête (art. R215-1 à R215-23)](#229)
+          - [Section 1 : Autorités qualifiées. (art. R215-1)](#230)
+          - [Section 2 : Recherche et constatation. (art. D215-16 à R215-15)](#231)
+          - [Section 4 : Expertises. (art. R215-18 à R215-23)](#232)
+        - [Chapitre VI : Dispositions communes. (art. R216-2 à R216-3)](#233)
+        - [Chapitre VII : Dispositions particulières. (art. R217-1)](#234)
+        - [Chapitre VIII : Mesures de police administrative (art. R218-1)](#235)
+      - [Titre II : Sécurité (art. R223-1 à D225-2)](#236)
+        - [Chapitre III : Sanctions (art. R223-1 à R223-5)](#237)
+        - [Chapitre IV : La commission de la sécurité des consommateurs (art. R224-1 à R224-12)](#238)
+        - [Chapitre V : Dispositions diverses (art. D225-2)](#239)
+    - [Livre III : Endettement (art. D311-1 à R333-5)](#240)
+      - [Titre Ier : Crédit (art. D311-1 à R*314-2)](#241)
+        - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#242)
+          - [Section 1 : Champ d'application (art. D311-1 à D311-3)](#243)
+          - [Section 2 : Publicité (art. D311-3-1)](#244)
+          - [Section 3 : Crédit gratuit (art. R311-4 à R311-5)](#245)
+          - [Section 4 : Le contrat de crédit (art. R311-6 à R311-7)](#246)
+          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. D311-10 à D311-13)](#247)
+            - [Sous-section 1 : Remboursement anticipé (art. D311-10)](#248)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. D311-11 à D311-13)](#249)
+          - [Section 5 : Les crédits affectés (art. R311-8 à R311-9)](#250)
+        - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#251)
+          - [Section 3 : Le contrat de crédit (art. R312-1)](#252)
+          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#253)
+            - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#254)
+            - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#255)
+          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#256)
+        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article R313-1-1)](#257)
+          - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-9)](#258)
+            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#259)
+            - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-9)](#260)
+          - [Section 3 : Rémunération du vendeur (art. R313-10)](#261)
+          - [Section 7 :  Regroupement de crédits (art. R313-11)](#262)
+          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article R313-1-1)](#263)
+            - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#264)
+            - [Annexes au Chapitre II du Titre Ier du Livre Ier (art. Annexe I à Annexe IV)](#265)
+            - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#266)
+            - [ANNEXE A L'ARTICLE R311-6 (art. Annexe Modèle type n° 1 à Annexe Modèle type n° 6)](#267)
+            - [ANNEXE A L'ARTICLE R311-7 (art. Annexe à l'article R311-7)](#268)
+            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#269)
+            - [ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1-1)](#270)
+        - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#271)
+      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R336-8)](#272)
+        - [Chapitre préliminaire : Les organes de la procédure de surendettement (art. R331-1 à R331-9-4)](#273)
+          - [Section 1 : La commission de surendettement des particuliers (art. R331-1 à R331-8-4)](#274)
+            - [Paragraphe 1 : Répartition des commissions sur le territoire (art. R331-1)](#275)
+            - [Paragraphe 2 : Composition des commissions (art. R331-2 à R331-6)](#276)
+            - [Paragraphe 3 : Fonctionnement des commissions (art. R331-7 à R331-7-2)](#277)
+            - [Paragraphe 4 : Procédure devant les commissions (art. R331-8 à R331-8-4)](#278)
+          - [Section 2 : Le juge de l'exécution (art. R331-9 à R331-9-4)](#279)
+        - [Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement (art. R331-10 à R331-12)](#280)
+          - [Section 1 :  Examen de la recevabilité de la demande (art. R331-10)](#281)
+          - [Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R331-11 à R331-11-3)](#282)
+          - [Section 3 : Suspension des mesures d'expulsion (art. R331-12)](#283)
+        - [Chapitre II : L'état du passif (art. R332-1 à R332-5)](#284)
+          - [Section 1 :  L'état du passif dressé par la commission (art. R332-1 à R332-2)](#285)
+          - [Section 2 : La vérification des créances (art. R332-3 à R332-4)](#286)
+          - [Section 3 : L'état du passif définitivement arrêté (art. R332-5)](#287)
+        - [Chapitre III :  L'orientation du dossier (art. R333-1 à R333-3)](#288)
+        - [Chapitre IV : Les mesures de traitement (art. R334-1 à R334-77)](#289)
+          - [Section 1 : Dispositions communes (art. R334-1)](#290)
+          - [Section 2 : Le plan conventionnel (art. R334-2 à R334-3)](#291)
+          - [Section 3 : Les mesures de traitement ordinaires (art. R334-4 à R334-18)](#292)
+            - [Paragraphe 1 : Les mesures imposées ou recommandées (art. R334-4 à R334-13)](#293)
+            - [Paragraphe 2 : La contestation des mesures de traitement ordinaires (art. R334-14 à R334-18)](#294)
+          - [Section 4 : Les procédures de rétablissement personnel (art. R334-19 à R334-77)](#295)
+            - [Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-27)](#296)
+              - [Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-23)](#297)
+              - [Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire (art. R334-24 à R334-27)](#298)
+            - [Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire (art. R334-28 à R334-75)](#299)
+              - [Paragraphe 1 : L'ouverture de la procédure (art. R334-28 à R334-35)](#300)
+              - [Paragraphe 2 :  La déclaration et l'arrêté des créances (art. R334-36 à R334-40)](#301)
+              - [Paragraphe 3 : La liquidation des biens du débiteur (art. R334-41 à R334-71)](#302)
+                - [Sous-paragraphe 1 : Dispositions générales (art. R334-41 à R334-47)](#303)
+                - [Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R334-48 à R334-60)](#304)
+                - [Sous-paragraphe 3 : Répartition du produit des actifs (art. R334-61 à R334-71)](#305)
+              - [Paragraphe 4 : La clôture de la procédure (art. R334-72 à R334-73)](#306)
+              - [Paragraphe 5 : Le plan (art. R334-74 à R334-75)](#307)
+            - [Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire (art. R334-76 à R334-77)](#308)
+        - [Chapitre V : Dispositions communes (art. R335-1 à R335-4)](#309)
+        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#310)
+          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#311)
+          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#312)
+          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#313)
+          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#314)
+          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#315)
+      - [Titre IV : Dispositions diverses. (art. R333-5)](#316)
+    - [Livre IV : Les associations de consommateurs (art. R411-1 à R431-3)](#317)
+      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#318)
+        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#319)
+      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#320)
+        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#321)
+      - [Titre III : Reconnaissance spécifique des associations (art. R431-1 à R431-3)](#322)
+    - [Livre V : Les institutions (art. D511-1 à D541-7)](#323)
+      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#324)
+        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#325)
+          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#326)
+          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11-1)](#327)
+          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#328)
+      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#329)
+        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#330)
+        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#331)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R534-12)](#332)
+        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#333)
+        - [Chapitre II : Organes consultatifs. (art. R532-1)](#334)
+        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#335)
+        - [Chapitre IV : Dispositions diverses. (art. R534-11 à R534-12)](#336)
+          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#337)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#338)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -17933,15 +17957,29 @@ _Anciens textes_:
 La situation de surendettement des personnes physiques est caractérisée par l'impossibilité manifeste pour le débiteur de
 bonne foi de faire face à l'ensemble de ses dettes non professionnelles exigibles et à échoir.L'impossibilité manifeste pour
 une personne physique de bonne foi de faire face à l'engagement qu'elle a donné de cautionner ou d'acquitter solidairement la
-dette d'un entrepreneur individuel ou d'une société caractérise également une situation de surendettement. 
+dette d'un entrepreneur individuel ou d'une société caractérise également une situation de surendettement. Le seul fait
+d'être propriétaire de sa résidence principale ne peut être tenu comme empêchant que la situation de surendettement soit
+caractérisée.
 
 Lorsque les ressources ou l'actif réalisable du débiteur le permettent, des mesures de traitement peuvent être prescrites
-devant la commission de surendettement des particuliers dans les conditions prévues aux articles L. 331-6, L. 331-7 et L.
-331-7-1.
+devant la commission de surendettement des particuliers dans les conditions prévues aux articles L. 331-6, L. 331-7 , L.
+331-7-1 et L. 331-7-2.
 
 Lorsque le débiteur se trouve dans une situation irrémédiablement compromise caractérisée par l'impossibilité manifeste de
-mettre en oeuvre des mesures de traitement visées au deuxième alinéa, il peut solliciter l'ouverture d'une procédure de
-rétablissement personnel dans les conditions prévues au présent titre. 
+mettre en œuvre des mesures de traitement visées à l'alinéa précédent, la commission de surendettement peut, dans les
+conditions du présent titre :
+
+1° Soit recommander un rétablissement personnel sans liquidation judiciaire si elle constate que le débiteur ne possède que
+des biens meublants nécessaires à la vie courante et des biens non professionnels indispensables à l'exercice de son activité
+professionnelle, ou que l'actif n'est constitué que de biens dépourvus de valeur marchande ou dont les frais de vente
+seraient manifestement disproportionnés au regard de leur valeur vénale ;
+
+2° Soit saisir, avec l'accord du débiteur, le juge de l'exécution aux fins d'ouverture d'une procédure de rétablissement
+personnel avec liquidation judiciaire, si elle constate que le débiteur n'est pas dans la situation mentionnée au 1°.
+
+A l'occasion des recours exercés devant le juge de l'exécution pour contester les décisions de la commission en matière
+d'orientation du dossier ou en application des articles L. 331-4, L. 331-7 et L. 332-2, le juge de l'exécution peut, avec
+l'accord du débiteur, décider l'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire. 
 
 Le juge de l'exécution connaît de la procédure de traitement des situations de surendettement devant la commission de
 surendettement des particuliers et de la procédure de rétablissement personnel.
@@ -17950,7 +17988,7 @@ surendettement des particuliers et de la procédure de rétablissement personnel
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 14
+  - Loi n°2010-737 du 1er juillet 2010 - art. 44
 
 _Cité par_:
 
@@ -17979,30 +18017,29 @@ _Cité par_:
 
 ###### Article L331-1
 
-Il est institué, dans chaque département, au moins une commission de surendettement des particuliers.
+Il est institué, dans chaque département, au moins une commission de surendettement des particuliers. 
 
-Elle comprend le représentant de l'Etat dans le département, président, le trésorier-payeur général, vice-président, le
-directeur des services fiscaux. Chacune de ces personnes peut se faire représenter, par un seul et même délégué, dans des
-conditions fixées par décret. La commission comprend également le représentant local de la Banque de France, qui en assure le
-secrétariat, ainsi que deux personnalités choisies par le représentant de l'Etat dans le département, la première sur
-proposition de l'Association française des établissements de crédit et des entreprises d'investissement, la seconde sur
-proposition des associations familiales ou de consommateurs.
+Elle comprend le représentant de l'Etat dans le département, président, et le responsable départemental de la direction
+générale des finances publiques chargé de la gestion publique, vice-président. Chacune de ces personnes peut se faire
+représenter par un délégué selon des modalités fixées par décret. 
 
-Un suppléant de chacune de ces personnalités est désigné dans les mêmes conditions. 
+La commission comprend également : 
 
-Une personne justifiant d'une expérience dans le domaine de l'économie sociale et familiale ainsi qu'une personne justifiant
-d'un diplôme et d'une expérience dans le domaine juridique sont associées à l'instruction du dossier et assistent aux
-réunions de la commission de surendettement avec voix consultative.
+1° Le représentant local de la Banque de France, qui en assure le secrétariat ; 
+
+2° Deux personnes, désignées par le représentant de l'Etat dans le département, la première sur proposition de l'Association
+française des établissements de crédit et des entreprises d'investissement, la seconde sur proposition des associations
+familiales ou de consommateurs ; 
+
+3° Deux personnes, désignées par le représentant de l'Etat dans le département, justifiant pour l'une d'une expérience dans
+le domaine de l'économie sociale et familiale, pour l'autre d'un diplôme et d'une expérience dans le domaine juridique. 
+
+Les membres de la commission mentionnés aux 1°, 2° et 3° peuvent se faire représenter par un suppléant selon des modalités
+fixées par décret. 
+
+La commission adopte un règlement intérieur rendu public.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Modifié par_:
-
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -18043,22 +18080,26 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*247-10 A (T)
   - Livre des procédures fiscales - art. R*247-18 (M)
 
+_Modifié par_:
+
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 37
+
 
 ###### Article L331-2
 
 La commission a pour mission de traiter, dans les conditions prévues par le présent chapitre, la situation de surendettement
-des personnes physiques définie au premier alinéa de l'article L. 330-1. 
+des personnes physiques définies au premier alinéa de l'article L. 330-1. 
 
-Le montant des remboursements résultant de l'application des articles L. 331-6 ou L. 331-7 est fixé, dans des conditions
-précisées par décret, par référence à la quotité saisissable du salaire telle qu'elle résulte des articles L. 3252-2 et L.
-3252-3 du code du travail, de manière à ce qu'une partie des ressources nécessaire aux dépenses courantes du ménage lui soit
-réservée par priorité. Cette part de ressources, qui ne peut être inférieure à un montant égal au revenu minimum garanti
-mentionné à l'article L. 262-2 du code de l'action sociale et des familles dont disposerait le ménage, intègre le montant des
-dépenses de logement, d'électricité, de gaz, de chauffage, d'eau, de nourriture et de scolarité, dans la limite d'un plafond,
-selon des modalités définies par décret. Elle est fixée par la commission après avis de la personne justifiant d'une
-expérience dans le domaine de l'économie sociale et familiale visée au dernier alinéa de l'article L. 331-1, et mentionnée
-dans le plan conventionnel de redressement prévu à l'article L. 331-6 ou dans les recommandations prévues aux articles L.
-331-7 et L. 331-7-1.
+Le montant des remboursements résultant de l'application des articles L. 331-6, L. 331-7 ou L. 331-7-1 est fixé, dans des
+conditions précisées par décret, par référence à la quotité saisissable du salaire telle qu'elle résulte des articles L.
+3252-2 et L. 3252-3 du code du travail, de manière à ce qu'une partie des ressources nécessaire aux dépenses courantes du
+ménage lui soit réservée par priorité. Cette part de ressources ne peut être inférieure, pour le ménage en cause, au montant
+forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles. Elle intègre le montant des
+dépenses de logement, d'électricité, de gaz, de chauffage, d'eau, de nourriture et de scolarité, de garde et de déplacements
+professionnels ainsi que les frais de santé. Les conditions de prise en compte et d'appréciation de ces dépenses par le
+règlement intérieur de chaque commission sont précisées par voie réglementaire. La part des ressources nécessaire aux
+dépenses courantes est fixée par la commission et mentionnée dans le plan conventionnel de redressement prévu à l'article L.
+331-6, dans les mesures prévues à l'article L. 331-7 ou les recommandations prévues à l'article L. 331-7-1.
 
 **Liens relatifs à cet article**
 
@@ -18088,62 +18129,74 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1249 du 1er décembre 2008 - art. 14
+  - Loi n°2010-737 du 1er juillet 2010 - art. 40
 
 _Cite_:
 
   - Code de la consommation - art. L330-1
-  - Code de la consommation - art. L331-1
   - Code de la consommation - art. L331-6
-  - Code de la consommation - art. L331-7
-  - Code du travail - art. L3252-2 (V)
-  - Code de l'action sociale et des familles - art. L262-2 (VT)
+  - Code du travail - art. L3252-2
+  - Code de l'action sociale et des familles - art. L262-2
 
 
 ###### Article L331-3
 
-La procédure est engagée devant la commission à la demande du débiteur. Celle-ci dispose d'un délai de six mois à compter du
-dépôt du dossier pour procéder à son instruction et décider de son orientation. 
+I.-La procédure est engagée devant la commission à la demande du débiteur, qui lui déclare les éléments actifs et passifs de
+son patrimoine. 
 
-La commission vérifie que le demandeur se trouve dans la situation définie à l'article L. 331-2. En cas de rejet d'un avis de
-prélèvement postérieur à la notification de la décision de recevabilité, les créanciers ne peuvent percevoir des frais ou
+La commission dispose d'un délai de trois mois à compter du dépôt du dossier pour examiner la recevabilité de la demande en
+vérifiant que le demandeur se trouve dans la situation définie au premier alinéa de l'article L. 330-1, notifier au demandeur
+la décision d'irrecevabilité du dossier ou notifier au demandeur, aux créanciers, aux établissements de paiement et aux
+établissements de crédit teneurs de comptes du déposant la décision de recevabilité du dossier, procéder à son instruction et
+décider de son orientation. Si, au terme de ce délai, la commission n'a pas décidé de l'orientation du dossier, le taux
+d'intérêt applicable à tous les emprunts en cours contractés par le débiteur est, au cours des trois mois suivants, le taux
+de l'intérêt légal, sauf décision contraire de la commission ou du juge intervenant au cours de cette période. 
+
+En cas de rejet d'un avis de prélèvement postérieur à la notification de la décision de recevabilité, l'établissement de
+crédit ou l'établissement de paiement qui tient le compte du déposant et les créanciers ne peuvent percevoir des frais ou
 commissions y afférents. 
 
-La commission dresse l'état d'endettement du débiteur. Celui-ci est tenu de lui déclarer les éléments actifs et passifs de
-son patrimoine. Lorsque la commission constate que le remboursement d'une ou plusieurs dettes du débiteur principal est
-garanti par un cautionnement, elle informe la caution de l'ouverture de la procédure. La caution peut faire connaître par
-écrit à la commission ses observations. 
+II.-La commission dresse l'état d'endettement du débiteur après avoir, le cas échéant, fait publier un appel aux créanciers. 
 
 Le débiteur, informé de cette faculté par la notification de la décision de recevabilité, est entendu à sa demande par la
 commission. Celle-ci peut également entendre toute personne dont l'audition lui paraît utile, sous réserve que celle-ci
 intervienne à titre gratuit. 
 
-La commission peut faire publier un appel aux créanciers. 
-
 Après avoir été informés par la commission de l'état du passif déclaré par le débiteur, les créanciers disposent d'un délai
 de trente jours pour fournir, en cas de désaccord sur cet état, les justifications de leurs créances en principal, intérêts
-et accessoires.A défaut, la créance est prise en compte par la commission au vu des seuls éléments fournis par le
-débiteur.L'information des établissements de crédit, des établissements de paiement et des comptables publics compétents peut
-être effectuée par télécopie ou par courrier électronique dans des conditions fixées par décret. 
+et accessoires.A défaut, la créance est prise en compte par la commission au vu des seuls éléments fournis par le débiteur.
+L'information des créanciers peut être effectuée par télécopie ou par courrier électronique dans des conditions fixées par
+décret. Les créanciers indiquent également si les créances en cause ont donné lieu à une caution et si celle-ci a été
+actionnée. 
 
-Les créanciers doivent alors indiquer si les créances en cause ont donné lieu à une caution et si celle-ci a été actionnée. 
+Lorsque la commission constate que le remboursement d'une ou plusieurs dettes du débiteur principal est garanti par un
+cautionnement, elle informe la caution de l'ouverture de la procédure. La caution peut faire connaître par écrit à la
+commission ses observations. 
 
 Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des administrations publiques, des
-établissements de crédit, des établissements de paiement, des organismes de sécurité et de prévoyance sociale ainsi que des
-services chargés de centraliser les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui
-donner une exacte information sur la situation du débiteur, l'évolution possible de celle-ci et les procédures de
-conciliation amiables en cours. 
+établissements de crédit, des établissements de paiement, des organismes mentionnés au 5 de l'article L. 511-6 du code
+monétaire et financier, des organismes de sécurité et de prévoyance sociale ainsi que des services chargés de centraliser les
+risques bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une exacte information sur la
+situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables en cours. 
 
-Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales. 
+Les collectivités territoriales et les organismes de sécurité sociale procèdent, à sa demande, à des enquêtes sociales.
 
-Si l'instruction de la demande fait apparaître que le débiteur est dans la situation irrémédiablement compromise définie au
-troisième alinéa de l'article L. 330-1 , la commission, après avoir convoqué le débiteur et obtenu son accord, saisit le juge
-de l'exécution aux fins d'ouverture d'une procédure de rétablissement personnel.L'absence de réponse du débiteur aux
-convocations vaut refus de cette saisine. En cas de refus du débiteur, la commission reprend sa mission dans les termes des
-articles L. 331-6, L. 331-7 et L. 331-7-1. 
+A tout moment de la procédure, si la situation du débiteur l'exige, la commission l'invite à solliciter une mesure d'aide ou
+d'action sociale qui peut comprendre un programme d'éducation budgétaire, et notamment une mesure d'accompagnement social
+personnalisé, dans les conditions prévues par le livre II du code de l'action sociale et des familles. 
 
-Le juge de l'exécution est compétent pour connaître des recours dirigés contre les décisions rendues par la commission en
-matière de recevabilité et d'orientation du dossier.
+Le règlement intérieur de la commission détermine les documents qui doivent être transmis aux membres de la commission,
+préalablement à la réunion de celle-ci. 
+
+III.-Si l'instruction de la demande fait apparaître que le débiteur est dans la situation irrémédiablement compromise définie
+au troisième alinéa de l'article L. 330-1 et dispose de biens autres que ceux mentionnés au 1° du même article, la
+commission, après avoir convoqué le débiteur et obtenu son accord, saisit le juge de l'exécution aux fins d'ouverture d'une
+procédure de rétablissement personnel avec liquidation judiciaire. L'absence de réponse du débiteur aux convocations vaut
+refus de cette saisine. En cas de refus du débiteur, la commission reprend sa mission dans les termes des articles L. 331-6,
+L. 331-7, L. 331-7-1 et L. 331-7-2. 
+
+IV.-Les décisions rendues par la commission en matière de recevabilité et d'orientation du dossier sont susceptibles de
+recours devant le juge de l'exécution.
 
 **Liens relatifs à cet article**
 
@@ -18183,25 +18236,43 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 103
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 38
 
 _Cite_:
 
   - Code de la consommation - art. L330-1
-  - Code de la consommation - art. L331-2
   - Code de la consommation - art. L331-6
+  - Code monétaire et financier - art. L511-6
 
 
 ###### Article L331-3-1
 
-La saisine du juge aux fins de rétablissement personnel emporte suspension des voies d'exécution, y compris des mesures
-d'expulsion du logement du débiteur, jusqu'au jugement d'ouverture.
+La décision déclarant la recevabilité de la demande emporte suspension et interdiction des procédures d'exécution diligentées
+à l'encontre des biens du débiteur ainsi que des cessions de rémunération consenties par celui-ci et portant sur les dettes
+autres qu'alimentaires. Les procédures et les cessions de rémunération sont suspendues ou interdites, selon les cas, jusqu'à
+l'approbation du plan conventionnel de redressement prévu à l'article L. 331-6, jusqu'à la décision imposant les mesures
+prévues par l'article L. 331-7, jusqu'à l'homologation par le juge des mesures recommandées en application des articles L.
+331-7-1, L. 331-7-2 et L. 332-5 ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec liquidation
+judiciaire. Cette suspension et cette interdiction ne peuvent excéder un an. Toutefois, lorsqu'en cas de saisie immobilière
+la vente forcée a été ordonnée, le report de la date d'adjudication ne peut résulter que d'une décision du juge chargé de la
+saisie immobilière, saisi à cette fin par la commission, pour causes graves et dûment justifiées. 
+
+Cette suspension et cette interdiction emportent interdiction pour le débiteur de faire tout acte qui aggraverait son
+insolvabilité, de payer, en tout ou partie, une créance autre qu'alimentaire, y compris les découverts mentionnés aux 10° et
+11° de l'article L. 311-1, née antérieurement à la suspension ou à l'interdiction, de désintéresser les cautions qui
+acquitteraient des créances nées antérieurement à la suspension ou à l'interdiction, de faire un acte de disposition étranger
+à la gestion normale du patrimoine ; elles emportent aussi interdiction de prendre toute garantie ou sûreté. 
+
+Le débiteur peut toutefois saisir le juge de l'exécution afin qu'il l'autorise à accomplir l'un des actes mentionnés à
+l'alinéa précédent. 
+
+La décision déclarant la recevabilité de la demande emporte rétablissement des droits à l'aide personnalisée au logement. Le
+déblocage des aides s'effectue au profit du bailleur.
+
+Nonobstant toute disposition légale ou toute clause contractuelle, aucune indivisibilité, résiliation ou résolution d'un
+contrat en cours ne peut résulter du seul fait de la décision déclarant la recevabilité de la demande.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
 
 _Cité par_:
 
@@ -18224,32 +18295,64 @@ _Cité par_:
   - Code monétaire et financier - art. R312-4-3 (V)
   - Code monétaire et financier - art. R753-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 40
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 39
+
+_Cite_:
+
+  - Code de la consommation - art. L311-1
+  - Code de la consommation - art. L331-6
+  - Code de la consommation - art. L331-7
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L332-5
+
+
+###### Article L331-3-2
+
+Si la commission déclare le dossier du débiteur recevable, elle peut saisir le juge de l'exécution aux fins de suspension des
+mesures d'expulsion du logement du débiteur. En cas d'urgence, la saisine du juge peut intervenir à l'initiative du président
+de la commission, du délégué de ce dernier, du représentant local de la Banque de France ou du débiteur. La commission est
+informée de cette saisine. Si la situation du débiteur l'exige, le juge prononce la suspension provisoire des mesures
+d'expulsion de son logement, à l'exception de celles fondées sur un jugement d'adjudication rendu en matière de saisie
+immobilière et de celles ordonnées sur le fondement du troisième alinéa de l'article 2198 du code civil. Cette suspension est
+acquise, pour une période maximale d'un an et, selon les cas, jusqu'à l'approbation du plan conventionnel de redressement
+prévu à l'article L. 331-6, jusqu'à la décision imposant les mesures prévues par l'article L. 331-7, jusqu'à l'homologation
+par le juge des mesures recommandées en application des articles L. 331-7-1, L. 331-7-2 et L. 332-5 ou jusqu'au jugement
+d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Loi n°2007-290 du 5 mars 2007 - art. 71 () JORF 6 mars 2007
+  - Loi n°2010-737 du 1er juillet 2010 - art. 40
+
+_Cite_:
+
+  - Code de la consommation - art. L331-6
+  - Code de la consommation - art. L331-7
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L332-5
+  - Code civil - art. 2198
+
+_Cité par_:
+
+  - Code de la consommation - art. R331-12 (Ab)
 
 
 ###### Article L331-4
 
 La commission informe le débiteur de l'état du passif qu'elle a dressé. Le débiteur qui conteste cet état dispose d'un délai
 de vingt jours pour demander à la commission la saisine du juge de l'exécution, aux fins de vérification de la validité des
-titres de créance et du montant des sommes réclamées, en indiquant les créances contestées et les motifs qui justifient sa
-demande. La commission est tenue de faire droit à cette demande. Passé le délai de vingt jours, le débiteur ne peut plus
-formuler une telle demande. La commission informe le débiteur de ce délai.
+créances, des titres qui les constatent et du montant des sommes réclamées, en indiquant les créances contestées et les
+motifs qui justifient sa demande. La commission est tenue de faire droit à cette demande. Passé le délai de vingt jours, le
+débiteur ne peut plus formuler une telle demande. La commission informe le débiteur de ce délai.
 
 Même en l'absence de demande du débiteur, la commission peut, en cas de difficultés, saisir le juge de l'exécution aux mêmes
 fins.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 (champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie)
-  - SPEC_APPLI: Loi n°98-657 1998-07-29 art. 99 (modalités d'application)
 
 _Cité par_:
 
@@ -18266,47 +18369,28 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 90 () JORF 31 juillet 1998
+  - Loi n°2010-737 du 1er juillet 2010 - art. 40
 
 
 ###### Article L331-5
 
-La commission peut saisir le juge de l'exécution aux fins de suspension des procédures d'exécution diligentées contre le
-débiteur et portant sur les dettes autres qu'alimentaires. En cas d'urgence, la saisine du juge peut intervenir à
-l'initiative du président de la commission, du délégué de ce dernier, du représentant local de la Banque de France ou du
-débiteur. La commission est ensuite informée de cette saisine.
+A la demande du débiteur, la commission peut saisir, avant la décision de recevabilité visée à l'article L. 331-3, le juge de
+l'exécution aux fins de suspension des procédures d'exécution diligentées à l'encontre des biens du débiteur ainsi que des
+cessions de rémunération consenties par celui-ci et portant sur les dettes autres qu'alimentaires. En cas d'urgence, la
+saisine du juge peut intervenir à l'initiative du président de la commission, du délégué de ce dernier ou du représentant
+local de la Banque de France. La commission est ensuite informée de cette saisine. Lorsqu'elle est prononcée, la suspension
+s'applique dans les mêmes conditions et selon les mêmes modalités que celles prévues aux trois premiers alinéas de l'article
+L. 331-3-1.
 
-Si la situation du débiteur l'exige, le juge prononce la suspension provisoire des procédures d'exécution. Celle-ci est
-acquise, sans pouvoir excéder un an, jusqu'à l'approbation du plan conventionnel de redressement prévu à l'article L. 331-6
-ou, en cas d'échec de la conciliation, jusqu'à l'expiration du délai fixé par le décret en Conseil d'Etat prévu à l'article
-L. 333-8 dont dispose le débiteur pour demander à la commission de formuler des recommandations en application des articles
-L. 331-7 et L. 331-7-1 (1er alinéa). En cas de demande formulée dans ce délai, elle est acquise jusqu'à ce que le juge ait
-conféré force exécutoire aux mesures recommandées, en application de l'article L. 332-1, ou, s'il a été saisi en application
-de l'article L. 332-2, jusqu'à ce qu'il ait statué.
-
-Lorsqu'en cas de saisie immobilière la date d'adjudication a été fixée, la commission peut, pour causes graves et dûment
-justifiées, saisir le juge aux fins de remise de l'adjudication, dans les conditions prévues par décret en Conseil d'Etat.
-
-Sauf autorisation du juge, la décision qui prononce la suspension provisoire des procédures d'exécution interdit au débiteur
-de faire tout acte qui aggraverait son insolvabilité, de payer, en tout ou partie, une créance autre qu'alimentaire née
-antérieurement à cette décision, de désintéresser les cautions qui acquitteraient des créances nées antérieurement, de faire
-un acte de disposition étranger à la gestion normale du patrimoine ; elle interdit aussi la prise de toute garantie ou
-sûreté.
-
-**Nota:**
-
-Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du décret
-en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+Lorsqu'en cas de saisie immobilière la vente forcée a été ordonnée, le report de la date d'adjudication ne peut résulter que
+d'une décision du juge chargé de la saisie immobilière, saisi à cette fin par la commission, pour causes graves et dûment
+justifiées.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°89-1010 du 31 décembre 1989 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
 
 _Cité par_:
 
@@ -18321,17 +18405,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 13 () JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
-  - Ordonnance n°2006-461 du 21 avril 2006 - art. 22 (VT) JORF 22 avril 2006 en vigueur au plus tard le 1er janvier 2007
+  - Loi n°2010-737 du 1er juillet 2010 - art. 40
 
 _Cite_:
 
-  - Code de la consommation - art. L331-6 (M)
-  - Code de la consommation - art. L331-7 (M)
-  - Code de la consommation - art. L331-7-1 (M)
-  - Code de la consommation - art. L332-1 (M)
-  - Code de la consommation - art. L332-2 (M)
-  - Code de la consommation - art. L333-8 (V)
+  - Code de la consommation - art. L331-3
+  - Code de la consommation - art. L331-3-1
 
 
 ###### Article L331-6
@@ -18347,23 +18426,18 @@ paiement de la dette. Il peut également les subordonner à l'abstention par le 
 insolvabilité.
 
 Le plan prévoit les modalités de son exécution. Sa durée totale, y compris lorsqu'il fait l'objet d'une révision ou d'un
-renouvellement, ne peut excéder dix années. Les mesures du plan peuvent excéder ces délais lorsqu'elles concernent le
+renouvellement, ne peut excéder huit années. Les mesures du plan peuvent excéder ces délais lorsqu'elles concernent le
 remboursement de prêts contractés pour l'achat d'un bien immobilier constituant la résidence principale et dont le plan
 permet d'éviter la cession par le débiteur.
+
+Les créances figurant dans l'état du passif définitivement arrêté par la commission ou le juge ne peuvent produire d'intérêts
+ou générer de pénalités de retard jusqu'à la mise en œuvre du plan.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°89-1010 1989-12-31 art. 4 al. 1 et 2
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Modifié par_:
-
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -18397,58 +18471,63 @@ _Cité par_:
   - Code de la consommation - art. R334-5-1 (Ab)
   - Code de la construction et de l'habitation. - art. L353-15-2 (M)
 
+_Modifié par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 42
+
 
 ###### Article L331-7
 
 En cas d'échec de sa mission de conciliation, la commission peut, à la demande du débiteur et après avoir mis les parties en
-mesure de fournir leurs observations, recommander tout ou partie des mesures suivantes :
+mesure de fournir leurs observations, imposer tout ou partie des mesures suivantes : 
 
 1° Rééchelonner le paiement des dettes de toute nature, y compris, le cas échéant, en différant le paiement d'une partie
-d'entre elles, sans que le délai de report ou de rééchelonnement puisse excéder dix ans ou la moitié de la durée de
+d'entre elles, sans que le délai de report ou de rééchelonnement puisse excéder huit ans ou la moitié de la durée de
 remboursement restant à courir des emprunts en cours ; en cas de déchéance du terme, le délai de report ou de rééchelonnement
-peut atteindre la moitié de la durée qui restait à courir avant la déchéance ;
+peut atteindre la moitié de la durée qui restait à courir avant la déchéance ; 
 
-2° Imputer les paiements, d'abord sur le capital ;
+2° Imputer les paiements, d'abord sur le capital ; 
 
 3° Prescrire que les sommes correspondant aux échéances reportées ou rééchelonnées porteront intérêt à un taux réduit qui
-peut être inférieur au taux d'intérêt légal sur proposition spéciale et motivée et si la situation du débiteur l'exige.
-Quelle que soit la durée du plan de redressement, le taux ne peut être supérieur au taux légal.
+peut être inférieur au taux de l'intérêt légal sur décision spéciale et motivée et si la situation du débiteur l'exige.
+Quelle que soit la durée du plan de redressement, le taux ne peut être supérieur au taux légal. 
 
-4° En cas de vente forcée du logement principal du débiteur, grevé d'une inscription bénéficiant à un établissement de crédit
-ayant fourni les sommes nécessaires à son acquisition, réduire, par proposition spéciale et motivée, le montant de la
-fraction des prêts immobiliers restant due aux établissements de crédit après la vente, après imputation du prix de vente sur
-le capital restant dû, dans des proportions telles que son paiement, assorti d'un rééchelonnement calculé comme il est dit
-ci-dessus, soit compatible avec les ressources et les charges du débiteur. La même disposition est applicable en cas de vente
-amiable dont le principe, destiné à éviter une saisie immobilière, et les modalités ont été arrêtés d'un commun accord entre
-le débiteur et l'établissement de crédit. En toute hypothèse, le bénéfice des présentes dispositions ne peut être invoqué
-plus de deux mois après sommation faite d'avoir à payer le montant de la fraction des prêts immobiliers restant due, à moins
-que, dans ce délai, la commission n'ait été saisie. A peine de nullité, la sommation de payer reproduit les termes du présent
-alinéa.
+4° Suspendre l'exigibilité des créances autres qu'alimentaires pour une durée qui ne peut excéder deux ans. Sauf décision
+contraire de la commission, la suspension de la créance entraîne la suspension du paiement des intérêts dus à ce titre.
+Durant cette période, seules les sommes dues au titre du capital peuvent être productives d'intérêts dont le taux n'excède
+pas le taux de l'intérêt légal. 
 
-La commission peut recommander que ces mesures soient subordonnées à l'accomplissement par le débiteur d'actes propres à
-faciliter ou à garantir le paiement de la dette. Elle peut également recommander qu'elles soient subordonnées à l'abstention
-par le débiteur, d'actes qui aggraveraient son insolvabilité.
+La commission réexamine, à l'issue de la période de suspension, la situation du débiteur. En fonction de celle-ci, la
+commission peut imposer ou recommander tout ou partie des mesures prévues au présent article et par les articles L. 331-7-1
+et L. 331-7-2, à l'exception d'une nouvelle suspension. Elle peut, le cas échéant, recommander un rétablissement personnel
+sans liquidation judiciaire ou saisir le juge aux fins d'ouverture d'une procédure de rétablissement personnel avec
+liquidation judiciaire. 
 
 Pour l'application du présent article, la commission prend en compte la connaissance que pouvait avoir chacun des créanciers,
 lors de la conclusion des différents contrats, de la situation d'endettement du débiteur. Elle peut également vérifier que le
-contrat a été consenti avec le sérieux qu'imposent les usages professionnels.
+contrat a été consenti avec le sérieux qu'imposent les usages professionnels. 
 
-La durée totale des recommandations ne peut excéder dix années. Elles peuvent cependant excéder ce délai lorsqu'elles
-concernent le remboursement de prêts contractés lors d'achat d'un bien immobilier constituant la résidence principale et dont
-les recommandations de la commission permettent d'éviter la cession. Les dettes fiscales font l'objet d'un rééchelonnement
-dans les mêmes conditions que les autres dettes.
+La durée totale des mesures ne peut excéder huit années. Elles peuvent cependant excéder ce délai lorsqu'elles concernent le
+remboursement de prêts contractés lors d'achat d'un bien immobilier constituant la résidence principale et dont les mesures
+de la commission permettent d'éviter la cession. Les dettes fiscales font l'objet d'un rééchelonnement dans les mêmes
+conditions que les autres dettes. 
 
-La demande du débiteur formée en application du premier alinéa interrompt la prescription et les délais pour agir.
+La demande du débiteur formée en application du premier alinéa interrompt la prescription et les délais pour agir. 
+
+En l'absence de contestation par l'une des parties dans les conditions prévues à l'article L. 332-2, les mesures mentionnées
+au présent article s'imposent aux parties, à l'exception des créanciers dont l'existence n'aurait pas été signalée par le
+débiteur et qui n'en auraient pas été avisés par la commission. Lorsque les mesures prévues par le présent article sont
+combinées avec tout ou partie de celles prévues par les articles L. 331-7-1 et L. 331-7-2, l'ensemble de ces mesures n'est
+exécutoire qu'à compter de l'homologation de ces dernières par le juge. 
+
+Les créances figurant dans l'état du passif définitivement arrêté par la commission ou le juge ne peuvent produire d'intérêts
+ou générer de pénalités de retard jusqu'à ce que les mesures prévues au présent article soient opposables au créancier.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°89-1010 1989-12-31 art. 4 al. 3 à 5
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
 
 _Cité par_:
 
@@ -18507,38 +18586,41 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+  - Loi n°2010-737 du 1er juillet 2010 - art. 42
 
 
 ###### Article L331-7-1
 
-Lorsque la commission constate, sans retenir son caractère irrémédiable, l'insolvabilité du débiteur caractérisée par
-l'absence de ressources ou de biens saisissables de nature à permettre d'apurer tout ou partie de ses dettes et rendant
-inapplicables les mesures prévues à l'article L. 331-7, elle peut soit recommander la suspension de l'exigibilité des
-créances autres qu'alimentaires pour une durée qui ne peut excéder deux ans soit, par une proposition spéciale et motivée,
-recommander l'effacement partiel des créances. En ce cas, les mesures prévues à l'article L. 331-7 peuvent être mises en
-oeuvre dès lors que l'effacement partiel des créances les rend possibles. Sauf proposition contraire de la commission, la
-suspension de la créance entraîne la suspension du paiement des intérêts dus à ce titre. Durant cette période, seules les
-sommes dues au titre du capital peuvent être de plein droit productives d'intérêts dont le taux n'excède pas le taux légal.
+La commission peut recommander, par proposition spéciale et motivée, les mesures suivantes : 
 
-Dans le cas où la commission recommande la suspension de l'exigibilité des créances autres qu'alimentaires, elle réexamine, à
-l'issue de la période de suspension, la situation du débiteur. Si cette situation le permet, elle recommande tout ou partie
-des mesures prévues à l'article L. 331-7. Si le débiteur demeure insolvable, elle recommande, par une proposition spéciale et
-motivée, l'effacement partiel des créances éventuellement combiné avec les mesures de l'article L. 331-7. Celles dont le prix
-a été payé au lieu et place du débiteur par la caution ou le coobligé ne peuvent faire l'objet d'un effacement. Les dettes
-fiscales font l'objet de remises totales ou partielles dans les mêmes conditions que les autres dettes. Aucun nouvel
-effacement ne peut intervenir, dans une période de huit ans, pour des dettes similaires à celles qui ont donné lieu à un
-effacement.
+1° En cas de vente forcée du logement principal du débiteur, grevé d'une inscription bénéficiant à un établissement de crédit
+ayant fourni les sommes nécessaires à son acquisition, la réduction du montant de la fraction des prêts immobiliers restant
+due aux établissements de crédit après la vente, après imputation du prix de vente sur le capital restant dû, dans des
+proportions telles que son paiement, assorti d'un rééchelonnement calculé conformément au 1° de l'article L. 331-7, soit
+compatible avec les ressources et les charges du débiteur. 
+
+La même mesure est applicable en cas de vente amiable dont le principe, destiné à éviter une saisie immobilière, et les
+modalités ont été arrêtés d'un commun accord entre le débiteur et l'établissement de crédit. 
+
+Le bénéfice de ces dispositions ne peut être invoqué plus de deux mois après sommation faite au débiteur d'avoir à payer le
+montant de la fraction des prêts immobiliers restant due, à moins que, dans ce délai, la commission n'ait été saisie par ce
+même débiteur.A peine de nullité, la sommation de payer reproduit les dispositions du présent alinéa. 
+
+Ces mesures peuvent se combiner avec celles prévues à l'article L. 331-7 ; 
+
+2° L'effacement partiel des créances combiné avec les mesures mentionnées à l'article L. 331-7. Celles de ces créances dont
+le prix a été payé au lieu et place du débiteur par la caution ou le coobligé, personnes physiques, ne peuvent faire l'objet
+d'un effacement. Les dettes fiscales font l'objet de remises totales ou partielles dans les mêmes conditions que les autres
+dettes. 
+
+Les créances figurant dans l'état du passif définitivement arrêté par la commission ou le juge ne peuvent produire d'intérêts
+ou générer de pénalités de retard jusqu'à ce que les mesures prévues au présent article soient opposables au créancier.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
 _Modifié par_:
 
-  - Loi n°2007-290 du 5 mars 2007 - art. 72 () JORF 6 mars 2007
+  - Loi n°2010-737 du 1er juillet 2010 - art. 42
 
 _Cité par_:
 
@@ -18584,41 +18666,73 @@ _Cité par_:
 
 ###### Article L331-7-2
 
-Si, en cours d'exécution d'un plan conventionnel ou de recommandations, il apparaît que la situation du débiteur devient
-irrémédiablement compromise dans les conditions prévues au troisième alinéa de l'article L. 330-1, le débiteur peut saisir la
-commission afin de bénéficier d'une procédure de rétablissement personnel. Après avoir constaté la bonne foi du débiteur, la
-commission saisit le juge de l'exécution aux fins d'ouverture de la procédure. Le plan ou les recommandations dont
-l'exécution a été interrompue sont caducs.
+La commission peut recommander que les mesures prévues aux articles L. 331-7 et L. 331-7-1 soient subordonnées à
+l'accomplissement par le débiteur d'actes propres à faciliter ou à garantir le paiement de la dette.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2010-737 du 1er juillet 2010 - art. 42
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L330-1 (V)
+  - Code de la consommation - art. L331-7 (VT)
 
 _Cité par_:
 
   - Code de la consommation - art. L332-1 (VT)
-  - Code de la consommation - art. L332-2 (VD)
+  - Code de la consommation - art. L332-2 (VT)
   - Code de la consommation - art. R331-10-2 (Ab)
   - Code de la consommation - art. R334-10 (Ab)
   - Code de la consommation - art. R334-11 (Ab)
   - Code de la consommation - art. R334-13 (Ab)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L733-8 (V)
+
+
+###### Article L331-7-3
+
+Si, en cours d'exécution d'un plan conventionnel, de mesures imposées ou recommandées par la commission, il apparaît que la
+situation du débiteur devient irrémédiablement compromise dans les conditions prévues au troisième alinéa de l'article L.
+330-1, le débiteur peut saisir la commission afin de bénéficier d'une procédure de rétablissement personnel avec ou sans
+liquidation judiciaire. Après avoir constaté la bonne foi du débiteur, la commission recommande un rétablissement personnel
+sans liquidation judiciaire dans les conditions prévues à l'article L. 332-5 ou saisit le juge de l'exécution aux fins
+d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire. Cette recommandation ou cette saisine
+emportent suspension et interdiction des procédures d'exécution diligentées à l'encontre des biens du débiteur ainsi que des
+cessions de rémunération consenties par celui-ci et portant sur les dettes autres qu'alimentaires. La commission peut
+également demander au juge de suspendre les mesures d'expulsion du logement du débiteur. La suspension et l'interdiction sont
+acquises jusqu'à l'homologation par le juge de la recommandation en application de l'article L. 332-5 ou jusqu'au jugement
+d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire. Cette suspension et cette interdiction
+ne peuvent excéder un an.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 42
+
+_Cite_:
+
+  - Code de la consommation - art. L330-1
+  - Code de la consommation - art. L332-5
+
+_Cité par_:
+
+  - Code de la consommation - art. R333-3 (Ab)
+
 
 ###### Article L331-8
 
-Les mesures recommandées en application de l'article L. 331-7 ou de l'article L. 331-7-1 et rendues exécutoires par
-l'application de l'article L. 332-1 ou de l'article L. 332-2 ne sont pas opposables aux créanciers dont l'existence n'aurait
-pas été signalée par le débiteur et qui n'en auraient pas été avisés par la commission.
+Les mesures recommandées en application des articles L. 331-7-1 et L. 331-7-2 et rendues exécutoires par l'application de
+l'article L. 332-1 ou de l'article L. 332-2 ne sont pas opposables aux créanciers dont l'existence n'aurait pas été signalée
+par le débiteur et qui n'en auraient pas été avisés par la commission.
 
 **Liens relatifs à cet article**
 
@@ -18626,31 +18740,31 @@ _Anciens textes_:
 
   - Loi n°89-1010 du 31 décembre 1989 - art. 5 (Ab)
 
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
+  - Loi n°2010-737 du 1er juillet 2010 - art. 42
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L331-7 (M)
-  - Code de la consommation - art. L331-7-1 (M)
-  - Code de la consommation - art. L332-1 (M)
-  - Code de la consommation - art. L332-2 (M)
+  - Code de la consommation - art. L331-7-1 (VT)
+  - Code de la consommation - art. L332-1
+  - Code de la consommation - art. L332-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L733-16 (V)
 
 
 ###### Article L331-9
 
-Les créanciers auxquels les mesures recommandées en application de l'article L. 331-7 ou du premier alinéa de l'article L.
-331-7-1 et rendues exécutoires par application de l'article L. 332-1 ou de l'article L. 332-2 sont opposables ne peuvent
-exercer des procédures d'exécution à l'encontre des biens du débiteur pendant la durée d'exécution de ces mesures.
+Les créanciers auxquels les mesures imposées par la commission en application de l'article L. 331-7 ou les mesures
+recommandées en application des articles L. 331-7-1 et L. 331-7-2 et rendues exécutoires par application de l'article L.
+332-1 ou de l'article L. 332-2 sont opposables ne peuvent exercer des procédures d'exécution à l'encontre des biens du
+débiteur pendant la durée d'exécution de ces mesures.
 
 **Liens relatifs à cet article**
 
@@ -18658,24 +18772,24 @@ _Anciens textes_:
 
   - Loi n°89-1010 du 31 décembre 1989 - art. 6 (Ab)
 
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 93 () JORF 31 juillet 1998
+  - Loi n°2010-737 du 1er juillet 2010 - art. 42
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L331-7 (M)
-  - Code de la consommation - art. L332-1 (M)
-  - Code de la consommation - art. L332-2 (M)
-  - Code de la consommation L331-7, L332-1, L332-2, L331-7-1 al. 1
+  - Code de la consommation - art. L331-7
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L332-1
+  - Code de la consommation - art. L332-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L733-17 (V)
 
 
 ###### Article L331-10
@@ -18714,7 +18828,13 @@ _Nouveaux textes_:
 
 Les membres de la commission, ainsi que toute personne qui participe à ses travaux ou est appelée au traitement de la
 situation de surendettement, sont tenus de ne pas divulguer à des tiers les informations dont ils ont eu connaissance dans le
-cadre de la procédure instituée par le présent chapitre, à peine des sanctions prévues à l'article 226-13 du code pénal.
+cadre de la procédure instituée par le présent chapitre, à peine des sanctions prévues à l'article 226-13 du code pénal. 
+
+Les renseignements relatifs au dépôt d'un dossier de surendettement et à la situation du débiteur ne peuvent être communiqués
+aux créanciers, aux établissements de paiement et aux établissements de crédit qui tiennent les comptes de dépôt du débiteur,
+antérieurement à la décision de recevabilité du dossier, sous peine des sanctions prévues à l'article 226-13 du même code.
+Ces dispositions ne font toutefois pas obstacle à l'application des règles prévues à l'article L. 333-4 du présent code, dans
+les limites fixées à cet article.
 
 **Liens relatifs à cet article**
 
@@ -18722,18 +18842,9 @@ _Anciens textes_:
 
   - Loi n°89-1010 du 31 décembre 1989 - art. 8 (Ab)
 
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
 _Modifié par_:
 
-  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995 en vigueur le 1er août 1995
+  - Loi n°2010-737 du 1er juillet 2010 - art. 42
 
 _Cité par_:
 
@@ -18741,19 +18852,54 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
+  - Code de la consommation - art. L333-4
+  - Code pénal - art. 226-13
+
+
+###### Article L331-12
+
+Chaque commission de surendettement des particuliers établit un rapport d'activité annuel. Ce rapport fait état de données
+statistiques sur le nombre des dossiers traités ainsi que les mesures prises ou recommandées par la commission. Il précise la
+typologie de l'endettement présentée dans ces dossiers et les difficultés de toute nature rencontrées dans leur traitement. 
+
+Les rapports d'activité des commissions sont transmis à la Banque de France qui en présente la synthèse dans le rapport
+mentionné à l'article L. 143-1 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 46
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-12 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L143-1
 
 
 #### Chapitre II : Des compétences du juge de l'exécution en matière de traitement des situations de surendettement<a id=144></a>
 
 ##### Section 1 : Du contrôle par le juge des mesures recommandées par la commission de surendettement<a id=145></a>
 
+##### Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement<a id=146></a>
+
 ###### Article L332-1
 
 S'il n'a pas été saisi de la contestation prévue à l'article L. 332-2, le juge de l'exécution confère force exécutoire aux
-mesures recommandées par la commission en application de l'article L. 331-7 et du premier alinéa de l'article L. 331-7-1
-après en avoir vérifié la régularité, et aux mesures recommandées par la commission en application du troisième alinéa de
-l'article L. 331-7-1 après en avoir vérifié la régularité et le bien-fondé.
+mesures recommandées par la commission en application du 1° de l'article L. 331-7-1 et de l'article L. 331-7-2, après en
+avoir vérifié la régularité, ainsi qu'aux mesures recommandées par la commission en application du 2° de l'article L.
+331-7-1, après en avoir vérifié la régularité et le bien-fondé. 
+
+Si la situation du débiteur l'exige, le juge de l'exécution l'invite à solliciter une mesure d'aide ou d'action sociale qui
+peut comprendre un programme d'éducation budgétaire, notamment une mesure d'accompagnement social personnalisé, dans les
+conditions prévues par le livre II du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
@@ -18761,13 +18907,9 @@ _Anciens textes_:
 
   - Loi n°89-1010 du 31 décembre 1989 - art. 10 (Ab)
 
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
 _Modifié par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+  - Loi n°2010-737 du 1er juillet 2010 - art. 43
 
 _Cité par_:
 
@@ -18782,25 +18924,29 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L332-2 (M)
-  - Code de la consommation L332-2, L331-7 et L331-7-1
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L331-7-2
+  - Code de la consommation - art. L332-2
 
 
 ###### Article L332-2
 
-Une partie peut contester devant le juge de l'exécution les mesures recommandées par la commission en application de
-l'article L. 331-7 ou de l'article L. 331-7-1, dans les quinze jours de la notification qui lui en est faite.
+Une partie peut contester devant le juge de l'exécution les mesures imposées par la commission en application de l'article L.
+331-7 ainsi que les mesures recommandées par la commission en application de l'article L. 331-7-1 ou de l'article L. 331-7-2,
+dans les quinze jours de la notification qui lui en est faite. Lorsque les mesures prévues par les articles L. 331-7-1 et L.
+331-7-2 sont combinées avec tout ou partie de celles prévues par l'article L. 331-7, le juge saisi d'une contestation doit
+statuer sur l'ensemble des mesures dans les conditions prévues au présent article et à l'article L. 332-3. 
 
 Avant de statuer, le juge peut, à la demande d'une partie, ordonner par provision l'exécution d'une ou plusieurs des mesures
-visées au premier alinéa.
+visées au premier alinéa. 
 
-Il peut faire publier un appel aux créanciers.
+Il peut faire publier un appel aux créanciers. 
 
-Il peut vérifier, même d'office, la validité et le montant des titres de créance et s'assurer que le débiteur se trouve bien
-dans la situation définie à l'article L. 331-2.
+Il peut vérifier, même d'office, la validité des créances, des titres qui les constatent ainsi que le montant des sommes
+réclamées et s'assurer que le débiteur se trouve bien dans la situation définie à l'article L. 331-2. 
 
 Il peut également prescrire toute mesure d'instruction qu'il estime utile. Les frais relatifs à celle-ci sont mis à la charge
-de l'Etat.
+de l'Etat. 
 
 Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement lui permettant d'apprécier
 la situation du débiteur et l'évolution possible de celle-ci.
@@ -18810,10 +18956,6 @@ la situation du débiteur et l'évolution possible de celle-ci.
 _Anciens textes_:
 
   - Loi n°89-1010 du 31 décembre 1989 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
 
 _Cité par_:
 
@@ -18851,12 +18993,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+  - Loi n°2010-737 du 1er juillet 2010 - art. 43
 
 _Cite_:
 
-  - Code de la consommation - art. L331-2 (M)
-  - Code de la consommation - art. L331-7-1 (M)
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L331-7-2
 
 **Liens**:
 
@@ -18865,8 +19007,8 @@ _Cite_:
 
 ###### Article L332-3
 
-Le juge saisi de la contestation prévue à l'article L. 332-2 prend tout ou partie des mesures définies à l'article L. 331-7
-ou à l'article L. 331-7-1. Dans tous les cas, la part des ressources nécessaires aux dépenses courantes du ménage est
+Le juge saisi de la contestation prévue à l'article L. 332-2 prend tout ou partie des mesures définies aux articles L. 331-7,
+L. 331-7-1 et L. 331-7-2. Dans tous les cas, la part des ressources nécessaires aux dépenses courantes du ménage est
 déterminée comme il est dit au deuxième alinéa de l'article L. 331-2. Elle est mentionnée dans la décision.
 
 **Liens relatifs à cet article**
@@ -18874,10 +19016,6 @@ déterminée comme il est dit au deuxième alinéa de l'article L. 331-2. Elle e
 _Anciens textes_:
 
   - Loi n°89-1010 du 31 décembre 1989 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
 
 _Cité par_:
 
@@ -18888,14 +19026,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+  - Loi n°2010-737 du 1er juillet 2010 - art. 43
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L331-2 (M)
-  - Code de la consommation - art. L331-7 (M)
-  - Code de la consommation - art. L331-7-1 (M)
-  - Code de la consommation - art. L332-2 (M)
+  - Code de la consommation - art. L331-2
+  - Code de la consommation - art. L331-7
+  - Code de la consommation - art. L332-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L733-15 (V)
 
 
 ###### Article L332-4
@@ -18940,19 +19085,24 @@ _Nouveaux textes_:
   - Code de la consommation - art. L733-18 (V)
 
 
-##### Section 2 : De la procédure de rétablissement personnel<a id=146></a>
+##### Section 2 : De la procédure de rétablissement personnel<a id=147></a>
 
 ###### Article L332-5
 
-A l'occasion des recours exercés devant le juge de l'exécution pour contester les décisions de la commission en matière
-d'orientation du dossier ou en application des articles L. 331-4 et L. 332-2, celui-ci peut, avec l'accord du débiteur,
-décider l'ouverture d'une procédure de rétablissement personnel.
+Lorsque la commission recommande un rétablissement personnel sans liquidation judiciaire et en l'absence de contestation, le
+juge de l'exécution confère force exécutoire à la recommandation, après en avoir vérifié la régularité et le bien-fondé.
 
-Si, au terme d'un délai de neuf mois à compter du dépôt du dossier, la commission n'a pas décidé de son orientation, le
-débiteur peut saisir le juge aux fins d'ouverture d'une procédure de rétablissement personnel. Au cours des trois mois
-suivant la date d'expiration du délai visé au premier alinéa de l'article L. 331-3, le taux d'intérêt applicable à tous les
-emprunts en cours contractés par le débiteur est le taux d'intérêt légal, sauf décision contraire de la commission
-intervenant au cours de cette période ou décision contraire du juge intervenant à son issue.
+Le rétablissement personnel sans liquidation judiciaire rendu exécutoire par le juge de l'exécution entraîne l'effacement de
+toutes les dettes non professionnelles du débiteur à l'exception des dettes visées à l'article L. 333-1, de celles
+mentionnées à l'article L. 333-1-2 et des dettes dont le prix a été payé au lieu et place du débiteur par la caution ou le
+coobligé, personnes physiques. Le rétablissement personnel sans liquidation judiciaire entraîne aussi l'effacement de la
+dette résultant de l'engagement que le débiteur a donné de cautionner ou d'acquitter solidairement la dette d'un entrepreneur
+individuel ou d'une société.
+
+Le greffe procède à des mesures de publicité pour permettre aux créanciers qui n'auraient pas été avisés de la recommandation
+de la commission de former tierce opposition à l'encontre de la décision du juge lui conférant force exécutoire. Les créances
+dont les titulaires n'auraient pas formé tierce opposition dans un délai de deux mois à compter de cette publicité sont
+éteintes.
 
 **Liens relatifs à cet article**
 
@@ -18960,13 +19110,9 @@ _Anciens textes_:
 
   - Loi n°89-1010 du 31 décembre 1989 - art. 12 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+  - Loi n°2010-737 du 1er juillet 2010 - art. 45
 
 _Cité par_:
 
@@ -18995,32 +19141,70 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L331-3 (M)
-  - Code de la consommation - art. L331-4 (M)
-  - Code de la consommation - art. L332-2 (M)
+  - Code de la consommation - art. L331-3
+  - Code de la consommation - art. L331-4
+  - Code de la consommation - art. L332-2
+
+
+###### Article L332-5-1
+
+Une partie peut contester devant le juge de l'exécution le rétablissement personnel sans liquidation judiciaire recommandé
+par la commission dans les quinze jours de la notification qui lui en est faite.
+
+Avant de statuer, le juge peut faire publier un appel aux créanciers. Il peut vérifier, même d'office, la validité des
+créances, des titres qui les constatent ainsi que le montant des sommes réclamées, et s'assurer que le débiteur se trouve
+bien dans la situation définie à l'article L. 331-2. Il peut également prescrire toute mesure d'instruction qu'il estime
+utile. Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement lui permettant
+d'apprécier la situation du débiteur et l'évolution possible de celle-ci.
+
+S'il constate que le débiteur se trouve dans la situation visée au 1° de l'article L. 330-1, le juge prononce un
+rétablissement personnel sans liquidation judiciaire qui emporte les mêmes effets que ceux visés à l'article L. 332-5. Le
+greffe procède à des mesures de publicité pour permettre aux créanciers qui n'auraient pas été avisés de former tierce
+opposition à l'encontre de ce jugement. Les créances dont les titulaires n'auraient pas formé tierce opposition dans un délai
+de deux mois à compter de cette publicité sont éteintes.
+
+S'il constate que le débiteur se trouve dans la situation visée au 2° de l'article L. 330-1, le juge ouvre, avec l'accord du
+débiteur, une procédure de rétablissement personnel avec liquidation judiciaire.
+
+S'il constate que la situation du débiteur n'est pas irrémédiablement compromise, il renvoie le dossier à la commission.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 45
+
+_Cité par_:
+
+  - Code de la consommation - art. L333-4 (MMN)
+  - Code de la consommation - art. R334-19 (Ab)
+  - Code de la consommation - art. R334-22 (Ab)
+  - Code de la consommation - art. R334-24 (Ab)
+  - Code de la consommation - art. R334-29 (Ab)
 
 
 ###### Article L332-6
 
-Le juge de l'exécution, dans le délai d'un mois, convoque le débiteur et les créanciers connus à une audience d'ouverture de
-la procédure de rétablissement personnel. Il peut inviter un travailleur social à assister à cette audience. Le juge, après
-avoir entendu le débiteur s'il se présente et apprécié le caractère irrémédiablement compromis de sa situation ainsi que sa
-bonne foi, rend un jugement prononçant l'ouverture de la procédure.
+Lorsque le juge est saisi aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire, il
+convoque le débiteur et les créanciers connus à l'audience. Le juge, après avoir entendu le débiteur s'il se présente et
+apprécié le caractère irrémédiablement compromis de sa situation ainsi que sa bonne foi, rend un jugement prononçant
+l'ouverture de la procédure.
 
-Le jugement entraîne la suspension des procédures d'exécution diligentées contre le débiteur et portant sur les dettes autres
-qu'alimentaires. La suspension est acquise jusqu'au jugement de clôture.
+Le jugement d'ouverture entraîne, jusqu'au jugement de clôture, la suspension et l'interdiction des procédures d'exécution
+diligentées à l'encontre des biens du débiteur ainsi que des cessions de rémunération consenties par celui-ci et portant sur
+les dettes autres qu'alimentaires. Il entraîne également la suspension des mesures d'expulsion du logement du débiteur, à
+l'exception de celles fondées sur un jugement d'adjudication rendu en matière de saisie immobilière ainsi que de celles
+ordonnées sur le fondement du troisième alinéa de l'article 2198 du code civil.
 
 Le juge de l'exécution peut désigner un mandataire figurant sur une liste établie dans des conditions fixées par décret en
-Conseil d'Etat, faire procéder à une enquête sociale et ordonner un suivi social du débiteur.
+Conseil d'Etat et faire procéder à une enquête sociale. Si la situation du débiteur l'exige, il l'invite à solliciter une
+mesure d'aide ou d'action sociale, notamment une mesure d'accompagnement social personnalisé, dans les conditions prévues par
+le  livre II du code de l'action sociale et des familles. 
 
 Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement lui permettant d'apprécier
 la situation du débiteur et l'évolution possible de celle-ci.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
 
 _Cité par_:
 
@@ -19038,14 +19222,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-290 du 5 mars 2007 - art. 73 () JORF 6 mars 2007
+  - Loi n°2010-737 du 1er juillet 2010 - art. 45
 
 
 ###### Article L332-6-1
 
-S'il constate lors de l'audience d'ouverture de la procédure de rétablissement personnel que le débiteur se trouve
-manifestement dans la situation définie à la seconde phrase du premier alinéa de l'article L. 332-9, le juge peut ouvrir et
-clôturer la procédure de rétablissement personnel pour insuffisance d'actif par un même jugement. 
+S'il constate lors de l'audience d'ouverture de la procédure de rétablissement personnel avec liquidation judiciaire que le
+débiteur se trouve manifestement dans la situation définie à la seconde phrase du premier alinéa de l'article L. 332-9, le
+juge peut ouvrir et clôturer la procédure de rétablissement personnel avec liquidation judiciaire pour insuffisance d'actif
+par un même jugement. 
 
 Le greffe procède à des mesures de publicité pour permettre aux créanciers qui n'auraient pas été convoqués à l'audience
 d'ouverture de former tierce opposition à l'encontre du jugement ; les créances dont les titulaires n'auraient pas formé
@@ -19053,15 +19238,15 @@ tierce opposition dans un délai de deux mois à compter de cette publicité son
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2007-1787 du 20 décembre 2007 - art. 6
-
 _Cité par_:
 
   - Arrêté du 27 mars 2008 (Ab)
   - Code de la consommation - art. L333-1-2 (VD)
   - Code de la consommation - art. R334-72 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 45
 
 _Cite_:
 
@@ -19178,17 +19363,19 @@ seraient manifestement disproportionnés au regard de leur valeur vénale, le ju
 d'actif.
 
 La clôture entraîne l'effacement de toutes les dettes non professionnelles du débiteur, à l'exception de celles dont le prix
-a été payé au lieu et place du débiteur par la caution ou le coobligé. La clôture entraîne aussi l'effacement de la dette
-résultant de l'engagement que le débiteur a donné de cautionner ou d'acquitter solidairement la dette d'un entrepreneur
-individuel ou d'une société. 
+a été payé au lieu et place du débiteur par la caution ou le coobligé, personnes physiques. La clôture entraîne aussi
+l'effacement de la dette résultant de l'engagement que le débiteur a donné de cautionner ou d'acquitter solidairement la
+dette d'un entrepreneur individuel ou d'une société. 
 
-Le juge peut ordonner des mesures de suivi social du débiteur.
+Si la situation du débiteur l'exige, le juge l'invite à solliciter une mesure d'aide ou d'action sociale qui peut comprendre
+un programme d'éducation budgétaire, notamment une mesure d'accompagnement social personnalisé, dans les conditions prévues
+par le livre II du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 14
+  - Loi n°2010-737 du 1er juillet 2010 - art. 45
 
 _Cité par_:
 
@@ -19202,20 +19389,12 @@ _Cité par_:
 ###### Article L332-10
 
 A titre exceptionnel, s'il estime que la liquidation judiciaire peut être évitée, le juge établit, le cas échéant sur
-proposition du mandataire, un plan comportant les mesures visées à l'article L. 331-7.
+proposition du mandataire, un plan comportant les mesures visées aux articles L. 331-7, L. 331-7-1 et L. 331-7-2.
 
-Le jugement qui arrête le plan le rend opposable à tous. La durée du plan est fixée par le juge. Elle ne peut excéder dix
+Le jugement qui arrête le plan le rend opposable à tous. La durée du plan est fixée par le juge. Elle ne peut excéder huit
 ans. En cas d'inexécution du plan, le juge en prononce la résolution.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -19227,29 +19406,32 @@ _Cité par_:
   - Code de la consommation - art. R334-74 (Ab)
   - Code de la consommation - art. R334-75 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 45
+  - Loi n°2014-344 du 17 mars 2014 - art. 43 (M)
+
 _Cite_:
 
-  - Code de la consommation - art. L331-7 (M)
+  - Code de la consommation - art. L331-7 (VT)
 
 
 ###### Article L332-11
 
-Les personnes ayant bénéficié de la procédure de rétablissement personnel font l'objet, à ce titre, d'une inscription au
-fichier prévu à l'article L. 333-4, pour une période de huit ans.
+Les dettes effacées en application des articles L. 332-5 et L. 332-9 du présent code valent régularisation des incidents au
+sens de l'article L. 131-73 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+  - Loi n°2010-737 du 1er juillet 2010 - art. 45
 
 _Cite_:
 
-  - Code de la consommation - art. L333-4 (M)
+  - Code de la consommation - art. L332-5 (V)
+  - Code de la consommation - art. L332-9 (V)
+  - Code monétaire et financier - art. L131-73
 
 _Cité par_:
 
@@ -19286,7 +19468,7 @@ _Cité par_:
   - Code de la consommation - art. R334-77 (Ab)
 
 
-#### Chapitre III : Dispositions communes<a id=147></a>
+#### Chapitre III : Dispositions communes<a id=148></a>
 
 ###### Article L333-1
 
@@ -19345,18 +19527,47 @@ _Cité par_:
   - Code de la consommation - art. L331-6 (VT)
 
 
+###### Article L333-1-2
+
+Les dettes issues de prêts sur gage souscrits auprès des caisses de crédit municipal en application de l'article L. 514-1 du
+code monétaire et financier ne peuvent être effacées par application des mesures prévues au 2° de l'article L. 331-7-1 et aux
+articles L. 332-5, L. 332-6-1 et L. 332-9 du présent code. La réalisation des gages par les caisses de crédit municipal ne
+peut être empêchée ou différée au-delà de la date déterminée dans le contrat de prêt.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 41
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L332-6-1
+  - Code de la consommation - art. L332-9
+  - Code monétaire et financier - art. L514-1
+
+_Cité par_:
+
+  - Code de la consommation - art. L332-5 (VT)
+
+
 ###### Article L333-2
 
-Est déchue du bénéfice des dispositions du présent titre :
+Est déchue du bénéfice des dispositions du présent titre : 
 
-1° Toute personne qui aura sciemment fait de fausses déclarations ou remis des documents inexacts ;
+1° Toute personne qui aura sciemment fait de fausses déclarations ou remis des documents inexacts ; 
 
-2° Toute personne qui aura détourné ou dissimulé, ou tenté de détourner ou de dissimuler, tout ou partie de ses biens ;
+2° Toute personne qui aura détourné ou dissimulé, ou tenté de détourner ou de dissimuler, tout ou partie de ses biens ; 
 
 3° Toute personne qui, sans l'accord de ses créanciers, de la commission ou du juge, aura aggravé son endettement en
 souscrivant de nouveaux emprunts ou aura procédé à des actes de disposition de son patrimoine pendant le déroulement de la
 procédure de traitement de la situation de surendettement ou de rétablissement personnel ou pendant l'exécution du plan ou
-des mesures de l'article L. 331-7 ou de l'article L. 331-7-1.
+des mesures de l'article L. 331-7 ou de l'article L. 331-7-1. 
+
+La déchéance du bénéfice de la procédure de traitement du surendettement est prononcée à l'encontre du débiteur par la
+commission, par une décision susceptible de recours, ou par le juge de l'exécution à l'occasion des recours exercés devant
+lui ainsi que dans le cadre de la procédure de rétablissement personnel avec liquidation judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -19364,13 +19575,9 @@ _Anciens textes_:
 
   - Loi n°89-1010 du 31 décembre 1989 - art. 16 (Ab)
 
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
 _Modifié par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 35 () JORF 2 août 2003
+  - Loi n°2010-737 du 1er juillet 2010 - art. 41
 
 _Cité par_:
 
@@ -19381,39 +19588,64 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L331-7 (M)
-  - Code de la consommation - art. L331-7-1 (M)
+  - Code de la consommation - art. L331-7
+  - Code de la consommation - art. L331-7-1
+
+
+###### Article L333-2-1
+
+Tout acte ou tout paiement effectué en violation des articles L. 331-3, L. 331-3-1, L. 331-6, L. 331-7, L. 331-7-1 et L.
+331-7-3 peut être annulé par le juge de l'exécution, à la demande de la commission, présentée pendant le délai d'un an à
+compter de l'acte ou du paiement de la créance.
+
+L'établissement de crédit qui tient le compte du déposant, conformément à ses devoirs de non-immixtion et de diligence, ne
+peut, en raison de cette seule qualité de teneur de compte, voir sa responsabilité engagée du fait des paiements effectués
+par le débiteur non dessaisi, en violation de l'interdiction mentionnée au deuxième alinéa de l'article L. 331-3-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 41
+
+_Cite_:
+
+  - Code de la consommation - art. L331-3
+  - Code de la consommation - art. L332-6
+
+_Cité par_:
+
+  - Code de la consommation - art. R335-3 (Ab)
 
 
 ###### Article L333-3
 
-Les dispositions du présent titre ne s'appliquent pas lorsque le débiteur relève des procédures instituées par les lois n°
-84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises, n° 88-1202 du 30
-décembre 1988 relative à l'adaptation de l'exploitation agricole à son environnement économique et social et n° 85-98 du 25
-janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises.
+Les dispositions du présent titre ne s'appliquent pas lorsque le débiteur relève des procédures instituées par le livre VI du
+code de commerce. 
 
-Ces mêmes dispositions ne font pas obstacle à l'application des articles 22, 23, 24 de la loi du 1er juin 1924 portant
-introduction des lois commerciales françaises dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle.
+Ces mêmes dispositions ne font pas obstacle à l'application de l'article L. 670-1 du même code.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°1924-06-01 art. 22, art. 23, art. 24
-  - Loi n°84-148 1984-03-01
-
 _Anciens textes_:
 
-  - Loi n°89-1010 1989-12-31 art. 17
   - Loi n°89-1010 du 31 décembre 1989 - art. 17 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2010-737 du 1er juillet 2010 - art. 41
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de commerce - art. L670-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L711-3 (V)
 
 
 ###### Article L333-3-1
@@ -19461,56 +19693,92 @@ _Nouveaux textes_:
 
 ###### Article L333-4
 
-Il est institué un fichier national recensant les informations sur les incidents de paiement caractérisés liés aux crédits
-accordés aux personnes physiques pour des besoins non professionnels. Ce fichier est géré par la Banque de France. Il est
-soumis aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
+I.-Il est institué un fichier national recensant les informations sur les incidents de paiement caractérisés liés aux crédits
+accordés aux personnes physiques pour des besoins non professionnels. Ce fichier est géré par la Banque de France, laquelle
+est seule habilitée à centraliser ces informations. Il est soumis à la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés. 
 
-Les établissements de crédit mentionnés à l'article L. 511-1 du code monétaire et financier, les établissements de paiement
-mentionnés au titre II du livre V du même code et les organismes mentionnés au 5 de l'article L. 511-6 du même code sont
-tenus de déclarer à la Banque de France les incidents visés à l'alinéa précédent. Les frais afférents à cette déclaration ne
-peuvent être facturés aux personnes physiques concernées. 
+Ce fichier a pour finalité de fournir aux établissements de crédit mentionnés au titre Ier du livre V du code monétaire et
+financier, aux établissements de paiement mentionnés au titre II du même livre V et aux organismes mentionnés au 5 de
+l'article L. 511-6 du même code un élément d'appréciation de la solvabilité des personnes qui sollicitent un crédit.
+Toutefois, l'inscription d'une personne physique au sein du fichier n'emporte pas interdiction de délivrer un crédit. 
 
-Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur en application du premier alinéa de l'article
-L. 331-3, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa du présent
-article. La même obligation pèse sur le greffe du juge de l'exécution lorsque, sur recours de l'intéressé en application du
-deuxième alinéa de l'article L. 331-3, la situation visée à l'article L. 331-2 est reconnue par ce juge ou lorsque le
-débiteur a bénéficié de l'effacement des dettes résultant de la procédure de rétablissement personnel en application de
-l'article L. 332-9. 
+Le fichier peut fournir un élément d'appréciation à l'usage des établissements de crédit et des établissements de paiement
+dans leurs décisions d'attribution des moyens de paiement. 
+
+Les informations qu'il contient peuvent également être prises en compte par les mêmes établissements et organismes mentionnés
+au deuxième alinéa pour la gestion des risques liés aux crédits souscrits par leurs clients. 
+
+II.-Les établissements et les organismes visés au deuxième alinéa du I sont tenus de déclarer à la Banque de France, dans des
+conditions précisées par arrêté, les incidents de paiement caractérisés définis par l'arrêté mentionné à l'article L. 333-5.
+Dès la réception de cette déclaration, la Banque de France inscrit immédiatement les incidents de paiement caractérisés au
+fichier et, dans le même temps, met cette information à la disposition de l'ensemble des établissements et des organismes
+ayant accès au fichier. Les frais afférents à cette déclaration ne peuvent être facturés aux personnes physiques concernées. 
+
+Les informations relatives à ces incidents sont radiées immédiatement à la réception de la déclaration de paiement intégral
+des sommes dues effectuée par l'établissement ou organisme à l'origine de l'inscription au fichier. Elles ne peuvent en tout
+état de cause être conservées dans le fichier pendant plus de cinq ans à compter de la date d'enregistrement par la Banque de
+France de l'incident ayant entraîné la déclaration. 
+
+III.-Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur, elle en informe la Banque de France aux
+fins d'inscription au fichier. La même obligation pèse sur le greffe du juge de l'exécution lorsque, sur recours de
+l'intéressé en application du IV de l'article L. 331-3, la situation visée à l'article L. 331-2 est reconnue par ce juge ou
+lorsque le débiteur a bénéficié de l'effacement des dettes résultant de la procédure de rétablissement personnel en
+application des articles L. 332-9 ou L. 332-5. 
 
 Le fichier recense les mesures du plan conventionnel de redressement mentionnées à l'article L. 331-6. Ces mesures sont
 communiquées à la Banque de France par la commission.L'inscription est conservée pendant toute la durée de l'exécution du
-plan conventionnel, sans pouvoir excéder dix ans. 
+plan conventionnel, sans pouvoir excéder huit ans. 
 
-Le fichier recense également les mesures prises en vertu des articles L. 331-7 et L. 331-7-1 qui sont communiquées à la
-Banque de France par le greffe du juge de l'exécution.S'agissant des mesures définies à l'article L. 331-7 et au premier
-alinéa de l'article L. 331-7-1, l'inscription est conservée pendant toute la durée d'exécution de ces mesures, sans pouvoir
-excéder dix ans.S'agissant des mesures définies au troisième alinéa de l'article L. 331-7-1, la durée d'inscription est fixée
-à dix ans. 
+Le fichier recense également les mesures prises en vertu des articles L. 331-7, L. 331-7-1 et L. 331-7-2 qui sont
+communiquées à la Banque de France par la commission ou le greffe du juge de l'exécution lorsqu'elles sont soumises à son
+homologation.L'inscription est conservée pendant toute la durée d'exécution de ces mesures, sans pouvoir excéder huit ans. 
 
-La Banque de France est seule habilitée à centraliser les informations visées à l'alinéa précédent. 
+Lorsque les mesures du plan conventionnel mentionnées à l'article L. 331-6 et celles prises en application des articles L.
+331-7, L. 331-7-1 et L. 331-7-2 sont exécutées sans incident, les informations relatives aux mentions qui ont entraîné leur
+déclaration sont radiées à l'expiration d'une période de cinq ans à compter de la signature du plan conventionnel ou de la
+date de la décision de la commission qui impose des mesures ou lorsque les mesures recommandées par la commission ont acquis
+force exécutoire. Lorsque, pour une même personne, sont prescrits successivement un plan conventionnel mentionné à l'article
+L. 331-6 et des mesures prises en application des articles L. 331-7, L. 331-7-1 et L. 331-7-2, l'inscription est maintenue
+pendant la durée globale d'exécution du plan et des mesures sans pouvoir excéder huit ans. 
 
-Les organismes professionnels ou organes centraux représentant les établissements et les organismes visés au deuxième alinéa
-sont seuls autorisés à tenir des fichiers recensant des incidents de paiement. 
+Pour les personnes ayant bénéficié de la procédure de rétablissement personnel, les informations relatives aux mentions
+correspondantes sont radiées à l'expiration d'une période de cinq ans à compter de la date d'homologation ou de clôture de la
+procédure. La même durée de cinq ans est applicable aux personnes physiques ayant fait l'objet d'une liquidation judiciaire
+en application de l'article L. 670-6 du code de commerce. 
 
-La Banque de France est déliée du secret professionnel pour la diffusion, aux établissements de crédit, aux établissements de
-paiement et aux organismes mentionnés au 5 de l'article L. 511-6 du code monétaire et financier, des informations nominatives
-contenues dans le fichier. 
+IV.-La Banque de France est déliée du secret professionnel pour la diffusion, aux établissements et aux organismes visés au
+deuxième alinéa du I, des informations nominatives contenues dans le fichier. 
 
-Il est interdit à la Banque de France et aux établissements de crédit, aux établissements de paiement et aux organismes
-mentionnés au 5 de l'article L. 511-6 du code monétaire et financier de remettre à quiconque copie, sous quelque forme que ce
-soit, des informations contenues dans le fichier, même à l'intéressé lorsqu'il exerce son droit d'accès conformément à
-l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée, sous peine des sanctions prévues aux articles 226-22 et 226-21 du
-code pénal.
+Les conditions dans lesquelles la Banque de France, les établissements et les organismes visés au deuxième alinéa du I
+informent les personnes de leur inscription et de leur radiation du fichier ainsi que de leurs droits sont précisées par
+arrêté, pris après avis de la Commission nationale de l'informatique et des libertés. 
+
+Il est interdit à la Banque de France, aux établissements et aux organismes visés au deuxième alinéa du I de remettre à
+quiconque copie des informations contenues dans le fichier, sous peine des sanctions prévues aux articles 226-21 et 226-22 du
+code pénal. Cette interdiction ne s'applique pas aux intéressés, lesquels exercent leur droit d'accès aux informations les
+concernant contenues dans le fichier conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 précitée. 
+
+La collecte des informations contenues dans le fichier par des personnes autres que la Banque de France, les établissements
+et les organismes visés au deuxième alinéa du I du présent article est punie des peines prévues à l'article 226-18 du code
+pénal.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978
+  - Loi n°78-17 du 6 janvier 1978 - art. 39
+  - Code de commerce - art. L670-6
   - Code de la consommation - art. L331-1
+  - Code de la consommation - art. L331-2
+  - Code de la consommation - art. L331-3
+  - Code de la consommation - art. L331-6
   - Code de la consommation - art. L331-7
+  - Code de la consommation - art. L332-5
   - Code de la consommation - art. L332-9
-  - Code pénal - art. 226-22
+  - Code pénal - art. 226-18
+  - Code pénal - art. 226-21
 
 _Anciens textes_:
 
@@ -19528,7 +19796,6 @@ _Cité par_:
   - Arrêté du 26 octobre 2010 - art. 17 (V)
   - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
   - Code de commerce. - art. L628-6 (M)
-  - Code de commerce. - art. L670-6 (V)
   - Code de l'organisation judiciaire - art. R221-39-1 (V)
   - Code de la consommation - art. L311-16 (VT)
   - Code de la consommation - art. L311-9 (VT)
@@ -19543,7 +19810,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 16
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 40
 
 **Liens**:
 
@@ -19558,23 +19825,21 @@ _Nouveaux textes_:
 
 Un arrêté du ministre, pris après avis de la Commission nationale de l'informatique et des libertés et du comité consultatif
 du secteur financier, fixe notamment les modalités de collecte, d'enregistrement, de conservation et de consultation de ces
-informations.
+informations. 
+
+Cet arrêté détermine également les modalités selon lesquelles les établissements et organismes mentionnés au deuxième alinéa
+du I de l'article L. 333-4 peuvent justifier qu'ils ont consulté le fichier, notamment en application de l'article L. 311-9.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°83-660 du 21 juillet 1983 - art. 23 (Ab)
-  - Loi n°89-1010 1989-12-31 art. 23 al. 8
   - Loi n°89-1010 du 31 décembre 1989 - art. 23 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Loi n°2010-737 du 1er juillet 2010 - art. 51
 
 _Cité par_:
 
@@ -19586,24 +19851,25 @@ _Cité par_:
   - Code monétaire et financier - art. L313-6 (VD)
   - Code monétaire et financier - art. L511-6 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L751-6 (V)
+  - Code monétaire et financier - art. L313-6 (V)
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code monétaire et financier - art. L313-6 (MMN)
 
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L313-6 (V)
-
 
 ###### Article L333-6
 
-Dans les départements d'outre-mer, l'institut d'émission des départements d'outre-mer exerce, en liaison avec la Banque de
-France, les attributions dévolues à celle-ci par le présent chapitre.
-
-**Nota:**
-
-Article relevant de l'ordre public économique de protection sociale par avis de la Cour de cassation n° 09420028P du 16
-décembre 1994.
+Dans les départements d'outre-mer à Saint-Barthélemy, à Saint-Martin, à Mayotte et à Saint-Pierre-et-Miquelon, l'Institut
+d'émission des départements d'outre-mer exerce, en liaison avec la Banque de France, les attributions dévolues à celle-ci par
+le présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -19612,62 +19878,17 @@ _Anciens textes_:
   - Loi n°83-660 du 21 juillet 1983 - art. 23 (Ab)
   - Loi n°89-1010 du 31 décembre 1989 - art. 23 (Ab)
 
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 97 () JORF 31 juillet 1998
+  - Loi n°2010-737 du 1er juillet 2010 - art. 54
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Code de la consommation - art. L334-2 (VD)
-
-
-###### Article L333-7
-
-Les dispositions des articles L. 333-1, L. 333-3 à L. 333-6 et L. 333-8 sont applicables aux contrats en cours au 2 janvier
-1990. 
-
-Les autres dispositions du présent titre sont immédiatement applicables aux procédures en cours à la date d'entrée en vigueur
-desdites dispositions telle qu'elle est définie au II de l'article 33 de la loi n° 95-125 du 8 février 1995 relative à
-l'organisation des juridictions et à la procédure civile, pénale et administrative.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°89-1010 du 31 décembre 1989 - art. 18 (Ab)
-
-_Codifié par_:
-
-  - Loi n°93-949 1993-07-26
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-125 1995-02-08 art. 82 *champ d'application de la loi étendu à Mayotte, à la Polynésie française et à la Nouvelle-Calédonie*
-
-_Modifié par_:
-
-  - Loi n°95-125 du 8 février 1995 - art. 29 () JORF 9 février 1995 en vigueur le 1er août 1995
-  - Loi n°95-125 du 8 février 1995 - art. 33 (V) JORF 9 février 1995 en vigueur le 1er août 1995
-
-_Cite_:
-
-  - Loi n°95-125 du 8 février 1995 - art. 33
-  - Code de la consommation
-  - Code de la consommation - art. L333-1
-  - Code de la consommation - art. L333-8
-
-_Abrogé par_:
-
-  - Loi n°2010-737 du 1er juillet 2010 - art. 50
-
-_Cité par_:
-
-  - Code de la consommation - art. L334-5 (VT)
-  - Code de la consommation - art. L334-9 (V)
 
 
 ###### Article L333-8
@@ -19704,9 +19925,9 @@ _Cité par_:
   - Code de la consommation - art. L333-7 (Ab)
 
 
-#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=148></a>
+#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=149></a>
 
-##### Section 1 : Dispositions applicables à Mayotte<a id=149></a>
+##### Section 1 : Dispositions applicables à Mayotte<a id=150></a>
 
 ###### Article L334-1
 
@@ -19721,15 +19942,21 @@ raison de sa compétence en matière de consommation ou d'action familiale.
 
 Un suppléant de chacune de ces personnalités est désigné dans les mêmes conditions.
 
-Une personne justifiant d'un diplôme et d'une expérience dans le domaine juridique et une personne justifiant d'une
-expérience dans le domaine de l'économie sociale et familiale sont associées à l'instruction du dossier et assistent aux
-réunions de la commission de surendettement avec voix consultative.
+La commission comprend également deux personnes, désignées par le représentant de l'Etat à Mayotte, justifiant pour l'une
+d'une expérience dans le domaine de l'économie sociale et familiale, pour l'autre d'un diplôme et d'une expérience dans le
+domaine juridique.
+
+La commission adopte un règlement intérieur rendu public.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 103
+  - Loi n°2010-737 du 1er juillet 2010 - art. 55
 
 _Cité par_:
 
@@ -19741,35 +19968,45 @@ _Cité par_:
 
 ###### Article L334-2
 
-Les articles L. 330-1 et L. 331-2 à L. 333-6, à l'exclusion de l'avant-dernière phrase des articles L. 331-7 et L. 331-7-1,
-sont applicables à Mayotte, sous les réserves suivantes : 
+I. - Pour l'application du présent titre à Mayotte :
 
-a) A l'article L. 331-2, la référence au revenu minimum garanti mentionné à l'article L. 262-2 du code de l'action sociale et
-des familles est remplacée par la référence à un montant fixé par le préfet ; 
+1° En l'absence d'adaptation, les références faites par des dispositions de ce titre applicables à Mayotte à des dispositions
+qui ne sont pas applicables à Mayotte, notamment à des dispositions du code du travail, du code de procédure civile ou du
+code de l'action sociale et des familles, sont remplacées par des références ayant le même objet applicables localement ;
 
-b) A l'article L. 333-6, les mots : " Dans les départements d'outre-mer " sont remplacés par les mots : " A Mayotte ". 
+2° Les mots : "juge de l'exécution" sont remplacés partout où ils figurent par les mots : "président du tribunal de première
+instance ou le juge délégué par lui" ;
 
-Pour l'application de ces dispositions : 
+3° A l'article L. 331-2, la référence au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action
+sociale et des familles est remplacée par la référence à un montant fixé par le représentant de l'Etat.
 
-a) Les références aux dispositions législatives du code du travail et au code de procédure civile sont remplacées par les
-références aux dispositions applicables localement ayant le même objet ; 
+II. - La troisième phrase du huitième alinéa de l'article L. 331-7 et la troisième phrase du 2° de l'article L. 331-7-1 ne
+sont pas applicables à Mayotte.
 
-b) Les mots : " juge de l'exécution " sont remplacés par les mots : " président du tribunal de première instance ou les juges
-délégués par lui ".
+**Nota:**
+
+Conformément à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016, la partie législative du code de la consommation
+demeure en vigueur, dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance, en tant qu'elle
+s'applique à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en
+vigueur de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée.
+
+Ordonnance n° 2017-269 du 2 mars 2017 article 9 : La présente ordonnance entre en vigueur à la date d'entrée en vigueur du
+décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-1249 du 1er décembre 2008 - art. 14
+  - Loi n°2010-737 du 1er juillet 2010 - art. 55
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L330-1
-  - Code de la consommation - art. L331-2
-  - Code de la consommation - art. L331-7
-  - Code de la consommation - art. L333-6
-  - Code de l'action sociale et des familles - art. L262-2
+  - Code du travail
 
 
 ###### Article L334-3
@@ -19802,7 +20039,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 2 : Dispositions applicables à la Nouvelle-Calédonie<a id=150></a>
+##### Section 2 : Dispositions applicables à la Nouvelle-Calédonie<a id=151></a>
 
 ###### Article L334-4
 
@@ -19817,32 +20054,51 @@ désignée en raison de sa compétence en matière de consommation ou d'action f
 
 Un suppléant de ces personnalités est désigné dans les mêmes conditions.
 
-Une personne justifiant d'un diplôme et d'une expérience dans le domaine juridique et une personne justifiant d'une
-expérience dans le domaine de l'économie sociale et familiale sont associées à l'instruction du dossier et assistent aux
-réunions de la commission de surendettement avec voix consultative.
+La commission comprend également deux personnes, désignées par le haut-commissaire de la République, justifiant pour l'une
+d'une expérience dans le domaine de l'économie sociale et familiale, pour l'autre d'un diplôme et d'une expérience dans le
+domaine juridique.
+
+La commission adopte un règlement intérieur rendu public.
+
+**Nota:**
+
+Conformément à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016, la partie législative du code de la consommation
+demeure en vigueur, dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance, en tant qu'elle
+s'applique à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en
+vigueur de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée.
+
+Ordonnance n° 2017-269 du 2 mars 2017 article 9 : La présente ordonnance entre en vigueur à la date d'entrée en vigueur du
+décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-420  du 27 avril 2010 - art. 103
+  - Loi n°2010-737 du 1er juillet 2010 - art. 56
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
 ###### Article L334-5
 
-Les articles L. 330-1 et L. 331-2 à L. 333-5, à l'exclusion de l'avant-dernière phrase des articles L. 331-7 et L. 331-7-1 et
-de la dernière phrase de l'article L. 332-9, sont applicables en Nouvelle-Calédonie, sous les réserves suivantes : 
+Les articles L. 330-1 et L. 331-2 à L. 333-5, à l'exclusion de la troisième phrase du huitième alinéa de l'article L. 331-7
+et de la troisième phrase du 2° de l'article L. 331-7-1 et de la dernière phrase de l'article L. 332-9, sont applicables en
+Nouvelle-Calédonie, sous les réserves suivantes : 
 
-a) A l'article L. 331-2, la référence au revenu minimum garanti mentionné à l'article L. 262-2 du code de l'action sociale et
-des familles est remplacée par la référence à un montant fixé par le représentant de l'Etat ; 
+a) A l'article L. 331-2, la référence au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action
+sociale et des familles est remplacée par la référence à un montant fixé par le représentant de l'Etat ; 
 
 b) Les huitième et neuvième alinéas de l'article L. 331-3 sont remplacés par les dispositions suivantes : 
 
-Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des administrations publiques et des
-établissements de crédit ainsi que des services chargés de centraliser les risques bancaires et les incidents de paiement, de
-tout renseignement de nature à lui donner une exacte information sur la situation du débiteur, l'évolution possible de celle-
-ci et les procédures de conciliation amiables en cours. Elle peut obtenir communication de ces mêmes renseignements auprès
-des organismes de sécurité et de prévoyance sociale, sous réserve de leur accord. 
+Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des administrations publiques, des
+établissements de crédit et des établissements de paiement ainsi que des services chargés de centraliser les risques
+bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une exacte information sur la situation
+du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables en cours. Elle peut obtenir
+communication de ces mêmes renseignements auprès des organismes de sécurité et de prévoyance sociale, sous réserve de leur
+accord. 
 
 Les collectivités territoriales et les organismes de sécurité sociale peuvent procéder, à sa demande, à des enquêtes
 sociales ; 
@@ -19851,9 +20107,40 @@ c) Les délais prévus au sixième alinéa de l'article L. 331-3, aux articles L
 locales compétentes ; 
 
 d) Dans l'avant-dernier alinéa de l'article L. 332-6, les mots : " figurant sur une liste établie dans des conditions fixées
-par décret en Conseil d'Etat " sont supprimés. 
+par décret en Conseil d'Etat " sont supprimés .
 
-Pour l'application de ces dispositions : 
+e) Pour son application en Nouvelle-Calédonie, l'article L. 332-8 est ainsi rédigé :
+
+Art. L. 332-8. - I. - Sont exclus de la procédure de liquidation judiciaire du patrimoine du débiteur les biens
+insaisissables suivants :
+
+1° Les biens que la loi déclare insaisissables ;
+
+2° Les provisions, sommes et pensions à caractère alimentaire, sauf pour le paiement des aliments déjà fournis par le
+saisissant à la partie saisie ;
+
+3° Les biens disponibles déclarés insaisissables par le testateur ou le donateur, si ce n'est, avec la permission du juge et
+pour la portion qu'il détermine, par les titulaires de créances postérieures à l'acte de donation ou à l'ouverture du legs ;
+
+4° Les biens mobiliers nécessaires à la vie et au travail du saisi et de sa famille, si ce n'est pour paiement de leur prix,
+dans les limites fixées par décret en Conseil d'Etat et sous réserve des dispositions du septième alinéa du présent I ; ils
+demeurent cependant saisissables s'ils se trouvent dans un lieu autre que celui où le saisi demeure ou travaille
+habituellement, s'ils sont des biens de valeur, en raison notamment de leur importance, de leur matière, de leur rareté, de
+leur ancienneté ou de leur caractère luxueux, s'ils perdent leur caractère de nécessité en raison de leur quantité ou s'ils
+constituent des éléments corporels d'un fonds de commerce ;
+
+5° Les objets indispensables aux personnes handicapées ou destinés aux soins des personnes malades.
+
+Les biens visés au 4° ne peuvent être saisis, même pour paiement de leur prix, lorsqu'ils sont la propriété des bénéficiaires
+de l'aide sociale à l'enfance prévue aux articles 150 à 155 du code de la famille et de l'aide sociale.
+
+Les immeubles par destination ne peuvent être saisis indépendamment de l'immeuble, sauf pour paiement de leur prix.
+
+II. - Sont également exclus de la procédure de liquidation judiciaire du patrimoine du débiteur les biens dont les frais de
+vente seraient manifestement disproportionnés au regard de leur valeur vénale et les biens non professionnels indispensables
+à l'exercice de l'activité professionnelle du débiteur. 
+
+Pour l'application des dispositions du présent titre : 
 
 a) Les références aux dispositions législatives du code du travail et du code de procédure civile sont remplacées par les
 références aux dispositions applicables localement ayant le même objet ; 
@@ -19865,7 +20152,7 @@ première instance ou les juges délégués par lui ".
 
 _Modifié par_:
 
-  - Loi n°2008-1249 du 1er décembre 2008 - art. 14
+  - Loi n°2010-737 du 1er juillet 2010 - art. 56
 
 _Cite_:
 
@@ -19909,57 +20196,69 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 3 : Dispositions applicables à la Polynésie française<a id=151></a>
+##### Section 3 : Dispositions applicables à la Polynésie française<a id=152></a>
 
 ###### Article L334-7
 
-I. - En Polynésie française, les établissements de crédit, les services et institutions mentionnés à l'article L. 518-1 du
-code monétaire et financier déclarent à la Banque de France les incidents de paiement liés aux crédits accordés aux personnes
-physiques pour des besoins non professionnels. Ces déclarations alimentent le fichier national des incidents de remboursement
-des crédits aux particuliers prévu à l'article L. 333-4.
+I. - En Polynésie française, les établissements mentionnés au titre Ier du livre V du code monétaire et financier, les
+établissements de paiement, et les organismes mentionnés au 5 de l'article L. 511-6 du même code déclarent à la Banque de
+France les incidents de paiement liés aux crédits accordés aux personnes physiques pour des besoins non professionnels. Ces
+déclarations sont portées, dès leur réception, sur le fichier national des incidents de remboursement des crédits aux
+particuliers prévu à l'article L. 333-4. Elles sont mises à la disposition de l'ensemble des établissements et des organismes
+ayant accès au fichier.
 
-La Banque de France est seule habilitée à centraliser ces incidents de paiement.
+Les frais afférents à ces déclarations ne peuvent être facturés aux personnes physiques concernées. La Banque de France est
+seule habilitée à centraliser ces incidents de paiement. Les informations relatives à ces incidents sont radiées
+immédiatement dès réception de la déclaration de paiement intégral des sommes dues effectuée par l'établissement ou organisme
+à l'origine de l'inscription au fichier. Elles ne peuvent en tout état de cause être conservées dans le fichier pendant plus
+de cinq ans à compter de la date d'enregistrement par la Banque de France de l'incident ayant entraîné la déclaration.
 
-Les organismes professionnels ou organes centraux représentant les établissements mentionnés au premier alinéa du présent
-article sont seuls autorisés à tenir des fichiers recensant des incidents de paiement.
+Le fichier a pour finalité de fournir aux établissements et aux organismes visés au premier alinéa un élément d'appréciation
+de la solvabilité des personnes qui sollicitent un crédit.
 
-La Banque de France est déliée du secret professionnel pour la diffusion aux établissements de crédit et aux services et
-institutions mentionnés à l'article L. 518-1 du code monétaire et financier des informations contenues dans le fichier des
-incidents de paiement.
+Il peut constituer un élément d'appréciation à l'usage des établissements de crédit et des établissements de paiement  dans
+leurs décisions d'attribution des moyens de paiement.
 
-II. - Il est interdit à la Banque de France, aux établissements de crédit et aux services et institutions mentionnés à
-l'article L. 518-1 du code monétaire et financier de remettre à quiconque copie, sous quelque forme que ce soit, des
-informations contenues dans le fichier mentionné au premier alinéa du I du présent article, même à l'intéressé lorsqu'il
-exerce son droit d'accès conformément à l'article 35 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés, sous peine des sanctions prévues aux articles 43 et 44 de cette même loi.
+Les informations qu'il contient peuvent également être prises en compte par les mêmes établissements et organismes pour la
+gestion des risques liés aux crédits souscrits par leurs clients.
 
-III. - Les dispositions de l'article L. 333-5 sont applicables en Polynésie française.
+II. - La Banque de France est déliée du secret professionnel pour la diffusion, aux établissements et organismes visés au
+premier alinéa du I, des informations nominatives contenues dans ce fichier.
+
+Les conditions dans lesquelles la Banque de France, les établissements et les organismes visés au premier alinéa du I
+informent les personnes de leur inscription et de leur radiation du fichier ainsi que de leurs droits sont précisées par
+arrêté, pris après avis de la Commission nationale de l'informatique et des libertés.
+
+Il est interdit à la Banque de France et aux établissements et aux organismes visés au premier alinéa du I de remettre à
+quiconque copie des informations contenues dans le fichier, sous peine des sanctions prévues aux articles 226-21 et 226-22 du
+code pénal. Cette interdiction ne s'applique pas aux intéressés, lesquels exercent leur droit d'accès aux informations les
+concernant contenues dans le fichier conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés.
+
+La collecte des informations contenues dans le fichier par des personnes autres que la Banque de France et les établissements
+et les organismes visés au premier alinéa du I est punie des peines prévues à l'article 226-18 du code pénal.
+
+III. - L'article L. 333-5 est applicable en Polynésie française.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 35 (M)
-  - Loi n°78-17 du 6 janvier 1978 - art. 43 (M)
-  - Loi n°78-17 du 6 janvier 1978 - art. 44 (Ab)
-  - Code de la consommation - art. L333-4 (M)
-  - Code de la consommation - art. L333-5 (M)
-  - Code monétaire et financier - art. L518-1 (M)
+  - Loi n°78-17 du 6 janvier 1978 - art. 39
+  - Code pénal - art. 226-18
+  - Code pénal - art. 226-21
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
-
-_Créé par_:
-
-  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+  - Loi n°2010-737 du 1er juillet 2010 - art. 57
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 85 (V)
 
 _Cité par_:
 
   - Arrêté du 26 octobre 2010 - art. 17 (V)
 
 
-##### Section 4 : Dispositions applicables aux îles Wallis et Futuna<a id=152></a>
+##### Section 4 : Dispositions applicables aux îles Wallis et Futuna<a id=153></a>
 
 ###### Article L334-8
 
@@ -19972,20 +20271,34 @@ deux personnalités choisies par l'administrateur supérieur, la première sur p
 établissements de crédit et des entreprises d'investissement et la seconde sur proposition des associations familiales ou de
 consommateurs ou, à défaut, désignée en raison de sa compétence en matière de consommation ou d'action familiale.
 
-Un suppléant de ces personnalités est désigné dans les mêmes conditions. Une personne justifiant d'un diplôme et d'une
-expérience dans le domaine juridique et une personne justifiant d'une expérience dans le domaine de l'économie sociale et
-familiale sont associées à l'instruction du dossier et assistent aux réunions de la commission de surendettement avec voix
-consultative.
+Un suppléant de ces personnalités est désigné dans les mêmes conditions.
+
+La commission comprend également deux personnes, désignées par l'administrateur supérieur, justifiant pour l'une d'une
+expérience dans le domaine de l'économie sociale et familiale, pour l'autre d'un diplôme et d'une expérience dans le domaine
+juridique.
+
+La commission adopte un règlement intérieur rendu public.
+
+**Nota:**
+
+Conformément à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016, la partie législative du code de la consommation
+demeure en vigueur, dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance, en tant qu'elle
+s'applique à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en
+vigueur de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée.
+
+Ordonnance n° 2017-269 du 2 mars 2017 article 9 : La présente ordonnance entre en vigueur à la date d'entrée en vigueur du
+décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°2010-737 du 1er juillet 2010 - art. 55
 
-_Créé par_:
+_Abrogé par_:
 
-  - Ordonnance n°2004-824 du 19 août 2004 - art. 1 () JORF 21 août 2004
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
@@ -19994,10 +20307,10 @@ _Cité par_:
 
 ###### Article L334-9
 
-Les articles L. 330-1 et L. 331-2 à L. 333-5, à l'exclusion de l'avant-dernière phrase des articles L. 331-7 et L. 331-7-1,
-sont applicables aux îles Wallis et Futuna, sous réserve de remplacer à l'article L. 331-2 la référence au revenu minimum
-garanti mentionné à l'article L. 262-2 du code de l'action sociale et des familles par la référence à un montant fixé par
-l'administrateur supérieur. 
+Les articles L. 330-1 et L. 331-2 à L. 333-5, à l'exclusion de la troisième phrase du huitième alinéa de l'article L. 331-7
+et de la troisième phrase du 2° de l'article L. 331-7-1, sont applicables aux îles Wallis et Futuna, sous réserve de
+remplacer à l'article L. 331-2 la référence au montant forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action
+sociale et des familles par la référence à un montant fixé par l'administrateur supérieur. 
 
 Pour l'application de ces dispositions : 
 
@@ -20011,7 +20324,7 @@ instance ou les juges délégués par lui.
 
 _Modifié par_:
 
-  - Loi n°2008-1249 du 1er décembre 2008 - art. 14
+  - Loi n°2010-737 du 1er juillet 2010 - art. 55
 
 _Cite_:
 
@@ -20051,7 +20364,70 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-### Titre IV : Cautionnement<a id=153></a>
+##### Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=154></a>
+
+###### Article L334-11
+
+I. - Les débiteurs domiciliés à Saint-Barthélemy et à Saint-Martin relèvent de la commission de surendettement de Guadeloupe.
+
+II. - La troisième phrase du huitième alinéa de l'article L. 331-7 et la troisième phrase du 2° de l'article L. 331-7-1 ne
+sont pas applicables à Saint-Barthélemy et à Saint-Martin.
+
+**Nota:**
+
+Conformément à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016, la partie législative du code de la consommation
+demeure en vigueur, dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance, en tant qu'elle
+s'applique à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en
+vigueur de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée.
+
+Ordonnance n° 2017-269 du 2 mars 2017 article 9 : La présente ordonnance entre en vigueur à la date d'entrée en vigueur du
+décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 55
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+##### Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=155></a>
+
+###### Article L334-12
+
+I. - Une commission de surendettement des particuliers siège à Saint-Pierre-et-Miquelon. Le directeur d'agence de l'Institut
+d'émission des départements d'outre-mer est membre de la commission en lieu et place du représentant de la Banque de France.
+
+II. - La troisième phrase du huitième alinéa de l'article L. 331-7 et la troisième phrase du 2° de l'article L. 331-7-1 ne
+sont pas applicables à Saint-Pierre-et-Miquelon.
+
+**Nota:**
+
+Conformément à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016, la partie législative du code de la consommation
+demeure en vigueur, dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance, en tant qu'elle
+s'applique à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en
+vigueur de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée.
+
+Ordonnance n° 2017-269 du 2 mars 2017 article 9 : La présente ordonnance entre en vigueur à la date d'entrée en vigueur du
+décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-737 du 1er juillet 2010 - art. 55
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+### Titre IV : Cautionnement<a id=156></a>
 
 ###### Article L341-1
 
@@ -20225,11 +20601,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. L343-6 (V)
 
 
-## Livre IV : Les associations de consommateurs<a id=154></a>
+## Livre IV : Les associations de consommateurs<a id=157></a>
 
-### Titre Ier : Agrément des associations<a id=155></a>
+### Titre Ier : Agrément des associations<a id=158></a>
 
-#### Chapitre Ier : Les associations<a id=156></a>
+#### Chapitre Ier : Les associations<a id=159></a>
 
 ###### Article L411-1
 
@@ -20306,7 +20682,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L811-1 (V)
 
 
-#### Chapitre II : Les sociétés coopératives de consommation<a id=157></a>
+#### Chapitre II : Les sociétés coopératives de consommation<a id=160></a>
 
 ###### Article L412-1
 
@@ -20347,11 +20723,11 @@ _Cité par_:
   - Code de la consommation - art. R411-7 (Ab)
 
 
-### Titre II : Actions en justice des associations<a id=158></a>
+### Titre II : Actions en justice des associations<a id=161></a>
 
-#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=159></a>
+#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=162></a>
 
-##### Section 1 : Action civile<a id=160></a>
+##### Section 1 : Action civile<a id=163></a>
 
 ###### Article L421-1
 
@@ -20532,7 +20908,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L621-5 (V)
 
 
-##### Section 2 : Action en cessation d'agissements illicites<a id=161></a>
+##### Section 2 : Action en cessation d'agissements illicites<a id=164></a>
 
 ###### Article L421-6
 
@@ -20569,7 +20945,7 @@ _Cite_:
   - Code de la consommation - art. L421-1 (V)
 
 
-##### Section 3 : Interventions en justice<a id=162></a>
+##### Section 3 : Interventions en justice<a id=165></a>
 
 ###### Article L421-7
 
@@ -20597,7 +20973,7 @@ _Cite_:
   - Code de la consommation - art. L421-2 (V)
 
 
-##### Section 4 : Dispositions communes<a id=163></a>
+##### Section 4 : Dispositions communes<a id=166></a>
 
 ###### Article L421-8
 
@@ -20663,7 +21039,7 @@ _Cite_:
   - Code pénal - art. 131-35
 
 
-#### Chapitre II : Action en représentation conjointe<a id=164></a>
+#### Chapitre II : Action en représentation conjointe<a id=167></a>
 
 ###### Article L422-1
 
@@ -20778,11 +21154,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. L622-4 (V)
 
 
-## Livre V : Les institutions<a id=165></a>
+## Livre V : Les institutions<a id=168></a>
 
-### Titre III : L'Institut national de la consommation<a id=166></a>
+### Titre III : L'Institut national de la consommation<a id=169></a>
 
-#### Chapitre Ier : Organisation administrative<a id=167></a>
+#### Chapitre Ier : Organisation administrative<a id=170></a>
 
 ###### Article L531-1
 
@@ -20874,7 +21250,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L822-3 (V)
 
 
-#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=168></a>
+#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=171></a>
 
 ###### Article L534-1
 
@@ -21144,9 +21520,9 @@ _Cité par_:
   - Code de la consommation - art. R534-5 (Ab)
 
 
-### Titre IV : Le Conseil national de l'alimentation<a id=169></a>
+### Titre IV : Le Conseil national de l'alimentation<a id=172></a>
 
-#### Chapitre Ier<a id=170></a>
+#### Chapitre Ier<a id=173></a>
 
 ###### Article L541-1
 
@@ -21166,9 +21542,9 @@ _Cite_:
   - Code de la santé publique - art. L3231-1
 
 
-### Titre VI : Le laboratoire d'essais<a id=171></a>
+### Titre VI : Le laboratoire d'essais<a id=174></a>
 
-#### Chapitre Ier : Missions<a id=172></a>
+#### Chapitre Ier : Missions<a id=175></a>
 
 ###### Article L561-1
 
@@ -21219,7 +21595,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-1 (V)
 
 
-#### Chapitre II : Fonctionnement<a id=173></a>
+#### Chapitre II : Fonctionnement<a id=176></a>
 
 ###### Article L562-1
 
@@ -21249,13 +21625,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-2 (V)
 
 
-# Partie réglementaire<a id=174></a>
+# Partie réglementaire<a id=177></a>
 
-## Livre Ier : Information des consommateurs et formation des contrats<a id=175></a>
+## Livre Ier : Information des consommateurs et formation des contrats<a id=178></a>
 
-### Titre Ier : Information des consommateurs<a id=176></a>
+### Titre Ier : Information des consommateurs<a id=179></a>
 
-#### Chapitre II : Modes de présentation et inscriptions<a id=177></a>
+#### Chapitre II : Modes de présentation et inscriptions<a id=180></a>
 
 ###### Article R112-1
 
@@ -22782,7 +23158,7 @@ _Cite_:
   - Code de la consommation
 
 
-#### Chapitre III : Prix et conditions de vente<a id=178></a>
+#### Chapitre III : Prix et conditions de vente<a id=181></a>
 
 ###### Article R113-1
 
@@ -22827,7 +23203,7 @@ _Cité par_:
   - Code du tourisme. - art. R231-1-4 (V)
 
 
-#### Chapitre IV : Information sur les délais de livraison<a id=179></a>
+#### Chapitre IV : Information sur les délais de livraison<a id=182></a>
 
 ###### Article R114-1
 
@@ -22854,9 +23230,9 @@ _Cite_:
   - Code de la consommation - art. L114-1
 
 
-#### Chapitre V : Valorisation des produits et des services<a id=180></a>
+#### Chapitre V : Valorisation des produits et des services<a id=183></a>
 
-##### Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer<a id=181></a>
+##### Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer<a id=184></a>
 
 ###### Article R115-1
 
@@ -22946,13 +23322,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R453-1 (V)
 
 
-### Titre II : Pratiques commerciales<a id=182></a>
+### Titre II : Pratiques commerciales<a id=185></a>
 
-#### Chapitre Ier : Pratiques commerciales réglementées<a id=183></a>
+#### Chapitre Ier : Pratiques commerciales réglementées<a id=186></a>
 
-##### Section 2 : Ventes de biens et fournitures de prestations de services à distance<a id=184></a>
+##### Section 2 : Ventes de biens et fournitures de prestations de services à distance<a id=187></a>
 
-##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers.<a id=185></a>
+##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers.<a id=188></a>
 
 ###### Article R121-1
 
@@ -23041,7 +23417,7 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers<a id=186></a>
+##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers<a id=189></a>
 
 ###### Article R121-2-1
 
@@ -23272,7 +23648,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R121-6-1 (Ab)
 
 
-##### Section 3 : Démarchage<a id=187></a>
+##### Section 3 : Démarchage<a id=190></a>
 
 ###### Article R121-3
 
@@ -23418,7 +23794,7 @@ _Cite_:
   - Code de la consommation R121-4, R121-5
 
 
-##### Section 5 : Ventes ou prestations avec primes<a id=188></a>
+##### Section 5 : Ventes ou prestations avec primes<a id=191></a>
 
 ###### Article R121-8
 
@@ -23511,7 +23887,7 @@ _Cite_:
   - Code de la consommation
 
 
-##### Section 6 : Loteries publicitaires<a id=189></a>
+##### Section 6 : Loteries publicitaires<a id=192></a>
 
 ###### Article R121-11
 
@@ -23607,7 +23983,7 @@ _Cite_:
   - Code de la consommation L121-35, L122-1, R121-8, R121-10
 
 
-##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel<a id=190></a>
+##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel<a id=193></a>
 
 ###### Article R121-14
 
@@ -23859,9 +24235,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R242-15 (V)
 
 
-#### Chapitre II : Pratiques commerciales illicites<a id=191></a>
+#### Chapitre II : Pratiques commerciales illicites<a id=194></a>
 
-##### Section 2 : Ventes sans commande préalable.<a id=192></a>
+##### Section 2 : Ventes sans commande préalable.<a id=195></a>
 
 ###### Article R122-1
 
@@ -23922,11 +24298,11 @@ _Cite_:
   - PILOTE_SUIVEUR: Code pénal - art. R635-2
 
 
-### Titre III : Conditions générales des contrats<a id=193></a>
+### Titre III : Conditions générales des contrats<a id=196></a>
 
-#### Chapitre II : Clauses abusives<a id=194></a>
+#### Chapitre II : Clauses abusives<a id=197></a>
 
-##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=195></a>
+##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=198></a>
 
 ###### Article R132-1
 
@@ -24108,7 +24484,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R212-4 (V)
 
 
-##### Section 2 : Commission des clauses abusives<a id=196></a>
+##### Section 2 : Commission des clauses abusives<a id=199></a>
 
 ###### Article R132-3
 
@@ -24273,7 +24649,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R534-4 (VD)
 
 
-#### Chapitre IV : Remise des contrats<a id=197></a>
+#### Chapitre IV : Remise des contrats<a id=200></a>
 
 ###### Article R134-1
 
@@ -24306,9 +24682,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R131-1 (V)
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=198></a>
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=201></a>
 
-#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=199></a>
+#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=202></a>
 
 ###### Article R141-1
 
@@ -24445,7 +24821,7 @@ _Cite_:
   - Code de la consommation - art. L141-1
 
 
-#### Chapitre II : Procédures civiles simplifiées<a id=200></a>
+#### Chapitre II : Procédures civiles simplifiées<a id=203></a>
 
 ###### Article R142-1
 
@@ -24591,13 +24967,13 @@ _Cite_:
   - Code de procédure civile - art. 97 (V)
 
 
-## Livre II : Qualité des produits et des services<a id=201></a>
+## Livre II : Qualité des produits et des services<a id=204></a>
 
-### Titre Ier : Conformité<a id=202></a>
+### Titre Ier : Conformité<a id=205></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=203></a>
+#### Chapitre Ier : Dispositions générales.<a id=206></a>
 
-##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=204></a>
+##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=207></a>
 
 ###### Article R211-1
 
@@ -24736,9 +25112,9 @@ _Cite_:
   - Code de la consommation
 
 
-#### Chapitre IV : Mesures d'application.<a id=205></a>
+#### Chapitre IV : Mesures d'application.<a id=208></a>
 
-##### Section 1 : Dispositions générales<a id=206></a>
+##### Section 1 : Dispositions générales<a id=209></a>
 
 ###### Article R214-1
 
@@ -24764,7 +25140,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 2 : Etiquetage des denrées alimentaires<a id=207></a>
+##### Section 2 : Etiquetage des denrées alimentaires<a id=210></a>
 
 ###### Article R214-2
 
@@ -24787,7 +25163,7 @@ _Créé par_:
   - Décret n°2009-1083 du 1er septembre 2009 - art. 1
 
 
-##### Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=208></a>
+##### Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=211></a>
 
 ###### Article R214-3
 
@@ -24808,7 +25184,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 4 : Organismes génétiquement modifiés<a id=209></a>
+##### Section 4 : Organismes génétiquement modifiés<a id=212></a>
 
 ###### Article R214-4
 
@@ -24837,7 +25213,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 5 : Boissons alcoolisées<a id=210></a>
+##### Section 5 : Boissons alcoolisées<a id=213></a>
 
 ###### Article R214-5
 
@@ -24868,7 +25244,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 6 :  Arômes<a id=211></a>
+##### Section 6 :  Arômes<a id=214></a>
 
 ###### Article R214-6
 
@@ -24888,7 +25264,7 @@ _Cite_:
 
 
 ##### Section 7 : Adjonction de vitamines, de minéraux 
-et de certaines autres substances aux denrées alimentaires<a id=212></a>
+et de certaines autres substances aux denrées alimentaires<a id=215></a>
 
 ###### Article R214-7
 
@@ -24909,7 +25285,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 8 : Contaminants<a id=213></a>
+##### Section 8 : Contaminants<a id=216></a>
 
 ###### Article R214-8
 
@@ -24931,7 +25307,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 9 : Fruits et légumes<a id=214></a>
+##### Section 9 : Fruits et légumes<a id=217></a>
 
 ###### Article R214-9
 
@@ -24970,7 +25346,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 10 : Huile d'olive et olives de table<a id=215></a>
+##### Section 10 : Huile d'olive et olives de table<a id=218></a>
 
 ###### Article R214-10
 
@@ -25013,7 +25389,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 11 : Œufs et viande de volaille<a id=216></a>
+##### Section 11 : Œufs et viande de volaille<a id=219></a>
 
 ###### Article R214-11
 
@@ -25053,7 +25429,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 12 : Produits laitiers et matières grasses laitières ou non<a id=217></a>
+##### Section 12 : Produits laitiers et matières grasses laitières ou non<a id=220></a>
 
 ###### Article R214-12
 
@@ -25098,7 +25474,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 13 : Produits de la pêche<a id=218></a>
+##### Section 13 : Produits de la pêche<a id=221></a>
 
 ###### Article R214-13
 
@@ -25141,7 +25517,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 14 : Viandes bovine, ovine et porcine<a id=219></a>
+##### Section 14 : Viandes bovine, ovine et porcine<a id=222></a>
 
 ###### Article R214-14
 
@@ -25191,7 +25567,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 15 : Modes de valorisation<a id=220></a>
+##### Section 15 : Modes de valorisation<a id=223></a>
 
 ###### Article R214-15
 
@@ -25226,7 +25602,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale<a id=221></a>
+##### Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale<a id=224></a>
 
 ###### Article R214-16
 
@@ -25248,7 +25624,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=222></a>
+##### Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=225></a>
 
 ###### Article R214-17
 
@@ -25279,7 +25655,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-35 (V)
 
 
-##### Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=223></a>
+##### Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=226></a>
 
 ###### Article R214-18
 
@@ -25315,7 +25691,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 19 : Engrais<a id=224></a>
+##### Section 19 : Engrais<a id=227></a>
 
 ###### Article R214-19
 
@@ -25336,7 +25712,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 20 : Détergents<a id=225></a>
+##### Section 20 : Détergents<a id=228></a>
 
 ###### Article R214-20
 
@@ -25360,9 +25736,9 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-#### Chapitre V : Pouvoirs d'enquête<a id=226></a>
+#### Chapitre V : Pouvoirs d'enquête<a id=229></a>
 
-##### Section 1 : Autorités qualifiées.<a id=227></a>
+##### Section 1 : Autorités qualifiées.<a id=230></a>
 
 ###### Article R215-1
 
@@ -25394,7 +25770,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 1
 
 
-##### Section 2 : Recherche et constatation.<a id=228></a>
+##### Section 2 : Recherche et constatation.<a id=231></a>
 
 ###### Article D215-16
 
@@ -25942,7 +26318,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 du 22 janvier 1919 - art. 36 (Ab)
 
 
-##### Section 4 : Expertises.<a id=229></a>
+##### Section 4 : Expertises.<a id=232></a>
 
 ###### Article R215-18
 
@@ -26215,7 +26591,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 23 bis
 
 
-#### Chapitre VI : Dispositions communes.<a id=230></a>
+#### Chapitre VI : Dispositions communes.<a id=233></a>
 
 ###### Article R216-2
 
@@ -26294,7 +26670,7 @@ _Cité par_:
   - Code de la consommation - art. R219-3 (Ab)
 
 
-#### Chapitre VII : Dispositions particulières.<a id=231></a>
+#### Chapitre VII : Dispositions particulières.<a id=234></a>
 
 ###### Article R217-1
 
@@ -26336,7 +26712,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-#### Chapitre VIII : Mesures de police administrative<a id=232></a>
+#### Chapitre VIII : Mesures de police administrative<a id=235></a>
 
 ###### Article R218-1
 
@@ -26377,9 +26753,9 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 35
 
 
-### Titre II : Sécurité<a id=233></a>
+### Titre II : Sécurité<a id=236></a>
 
-#### Chapitre III : Sanctions<a id=234></a>
+#### Chapitre III : Sanctions<a id=237></a>
 
 ###### Article R223-1
 
@@ -26559,7 +26935,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R452-4 (V)
 
 
-#### Chapitre IV : La commission de la sécurité des consommateurs<a id=235></a>
+#### Chapitre IV : La commission de la sécurité des consommateurs<a id=238></a>
 
 ###### Article R224-1
 
@@ -26951,7 +27327,7 @@ _Abrogé par_:
   - Décret n°2010-1221 du 18 octobre 2010 - art. 14
 
 
-#### Chapitre V : Dispositions diverses<a id=236></a>
+#### Chapitre V : Dispositions diverses<a id=239></a>
 
 ###### Article D225-2
 
@@ -26981,13 +27357,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. D521-4 (V)
 
 
-## Livre III : Endettement<a id=237></a>
+## Livre III : Endettement<a id=240></a>
 
-### Titre Ier : Crédit<a id=238></a>
+### Titre Ier : Crédit<a id=241></a>
 
-#### Chapitre Ier : Crédit à la consommation<a id=239></a>
+#### Chapitre Ier : Crédit à la consommation<a id=242></a>
 
-##### Section 1 : Champ d'application<a id=240></a>
+##### Section 1 : Champ d'application<a id=243></a>
 
 ###### Article D311-1
 
@@ -27073,7 +27449,7 @@ _Cite_:
   - Code de la consommation - art. D311-2 (M)
 
 
-##### Section 2 : Publicité<a id=241></a>
+##### Section 2 : Publicité<a id=244></a>
 
 ###### Article D311-3-1
 
@@ -27132,7 +27508,7 @@ _Cite_:
   - Code de la consommation - art. L311-5
 
 
-##### Section 3 : Crédit gratuit<a id=242></a>
+##### Section 3 : Crédit gratuit<a id=245></a>
 
 ###### Article R311-4
 
@@ -27185,7 +27561,7 @@ _Modifié par_:
   - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
-##### Section 4 : Le contrat de crédit<a id=243></a>
+##### Section 4 : Le contrat de crédit<a id=246></a>
 
 ###### Article R311-6
 
@@ -27255,9 +27631,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R311-4 (VD)
 
 
-##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=244></a>
+##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=247></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=245></a>
+##### Sous-section 1 : Remboursement anticipé<a id=248></a>
 
 ###### Article D311-10
 
@@ -27288,7 +27664,7 @@ _Cité par_:
   - Code de la consommation - art. Annexe Modèle type n°2 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=246></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=249></a>
 
 ###### Article D311-11
 
@@ -27405,7 +27781,7 @@ _Cite_:
   - Code de la consommation - art. L311-31 (V)
 
 
-##### Section 5 : Les crédits affectés<a id=247></a>
+##### Section 5 : Les crédits affectés<a id=250></a>
 
 ###### Article R311-8
 
@@ -27476,9 +27852,9 @@ _Cite_:
   - Code de la consommation R311-8
 
 
-#### Chapitre II : Crédit immobilier<a id=248></a>
+#### Chapitre II : Crédit immobilier<a id=251></a>
 
-##### Section 3 : Le contrat de crédit<a id=249></a>
+##### Section 3 : Le contrat de crédit<a id=252></a>
 
 ###### Article R312-1
 
@@ -27508,9 +27884,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R312-1-1 (VD)
 
 
-##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=250></a>
+##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=253></a>
 
-##### Sous-section 1 : Remboursement anticipé.<a id=251></a>
+##### Sous-section 1 : Remboursement anticipé.<a id=254></a>
 
 ###### Article R312-2
 
@@ -27541,7 +27917,7 @@ _Cite_:
   - Code de la consommation - art. L312-21 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur.<a id=252></a>
+##### Sous-section 2 : Défaillance de l'emprunteur.<a id=255></a>
 
 ###### Article R312-3
 
@@ -27576,7 +27952,7 @@ _Cité par_:
   - Code de la consommation - art. R315-2 (VT)
 
 
-##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=253></a>
+##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=256></a>
 
 ###### Article R312-4
 
@@ -27611,11 +27987,11 @@ _Cite_:
   - Code de la consommation - art. L312-29
 
 
-#### Chapitre III : Dispositions communes<a id=254></a>
+#### Chapitre III : Dispositions communes<a id=257></a>
 
-##### Section 1 : Le taux d'intérêt<a id=255></a>
+##### Section 1 : Le taux d'intérêt<a id=258></a>
 
-##### Sous-section 1 : Le taux effectif global<a id=256></a>
+##### Sous-section 1 : Le taux effectif global<a id=259></a>
 
 ###### Article R313-1
 
@@ -27836,7 +28212,7 @@ _Nouveaux textes_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. R313-1 (V)
 
 
-##### Sous-section 2 : Le taux d'usure<a id=257></a>
+##### Sous-section 2 : Le taux d'usure<a id=260></a>
 
 ###### Article D313-6
 
@@ -27997,7 +28373,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. D711-14 (Ab)
 
 
-##### Section 3 : Rémunération du vendeur<a id=258></a>
+##### Section 3 : Rémunération du vendeur<a id=261></a>
 
 ###### Article R313-10
 
@@ -28041,7 +28417,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R341-25 (V)
 
 
-##### Section 7 :  Regroupement de crédits<a id=259></a>
+##### Section 7 :  Regroupement de crédits<a id=262></a>
 
 ###### Article R313-11
 
@@ -28076,9 +28452,9 @@ _Cité par_:
   - Code de la consommation - art. R315-1 (Ab)
 
 
-##### Annexes<a id=260></a>
+##### Annexes<a id=263></a>
 
-##### ANNEXE A L'ARTICLE R113-1<a id=261></a>
+##### ANNEXE A L'ARTICLE R113-1<a id=264></a>
 
 ###### Article Annexe à l'article R113-1
 
@@ -28113,7 +28489,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### Annexes au Chapitre II du Titre Ier du Livre Ier<a id=262></a>
+##### Annexes au Chapitre II du Titre Ier du Livre Ier<a id=265></a>
 
 ###### Article Annexe I
 
@@ -28668,7 +29044,7 @@ _Abrogé par_:
   - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
-##### ANNEXE A L'ARTICLE R211-2<a id=263></a>
+##### ANNEXE A L'ARTICLE R211-2<a id=266></a>
 
 ###### Article Annexe à l'article R211-2
 
@@ -29281,7 +29657,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE A L'ARTICLE R311-6<a id=264></a>
+##### ANNEXE A L'ARTICLE R311-6<a id=267></a>
 
 ###### Article Annexe Modèle type n° 1
 
@@ -30725,7 +31101,7 @@ _Cite_:
   - Code de la consommation - art. L331-7 (VT)
 
 
-##### ANNEXE A L'ARTICLE R311-7<a id=265></a>
+##### ANNEXE A L'ARTICLE R311-7<a id=268></a>
 
 ###### Article Annexe à l'article R311-7
 
@@ -30780,7 +31156,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=266></a>
+##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=269></a>
 
 ###### Article Annexe à l'article R313-1
 
@@ -30839,7 +31215,7 @@ _Créé par_:
   - Décret n°2002-927 2002-06-10 annexe JORF 11 juin 2002 en vigueur le 1er juillet 2002
 
 
-##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION<a id=267></a>
+##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION<a id=270></a>
 
 ###### Article Annexe à l'article R313-1-1
 
@@ -30910,7 +31286,7 @@ _Cite_:
   - Code de la consommation - art. R313-1-1
 
 
-#### Chapitre IV : Prêt viager hypothécaire<a id=268></a>
+#### Chapitre IV : Prêt viager hypothécaire<a id=271></a>
 
 ###### Article R*314-1
 
@@ -30990,62 +31366,66 @@ _Cite_:
   - Code de la consommation - art. L314-10
 
 
-### Titre III : Traitement des situations de surendettement<a id=269></a>
+### Titre III : Traitement des situations de surendettement<a id=272></a>
 
-#### Chapitre Ier : Commission de surendettement des particuliers<a id=270></a>
+#### Chapitre préliminaire : Les organes de la procédure de surendettement<a id=273></a>
 
-##### Section 1 : Organisation et fonctionnement de la commission de surendettement des particuliers<a id=271></a>
+##### Section 1 : La commission de surendettement des particuliers<a id=274></a>
+
+##### Paragraphe 1 : Répartition des commissions sur le territoire<a id=275></a>
 
 ###### Article R331-1
 
-Il peut être créé par arrêté préfectoral plus d'une commission de surendettement des particuliers par département lorsque la
-situation économique, sociale, géographique ou démographique du département l'exige. Cet arrêté fixe la compétence
-territoriale de la commission et son siège.
+Les commissions de surendettement des particuliers sont créées par arrêtés préfectoraux. Ces arrêtés fixent la compétence
+territoriale des commissions et leur siège. 
 
-Le secrétariat est situé dans les locaux que la Banque de France désigne.
+Les secrétariats des commissions sont situés dans les locaux désignés par la Banque de France.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°95-660 du 9 mai 1995 - art. 1 (Ab)
-
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 _Cité par_:
 
   - Code de la consommation - art. R336-1 (Ab)
   - Code de la consommation - art. R336-4 (Ab)
   - Code de la consommation - art. R336-5 (Ab)
+  - Code de la consommation - art. R336-7 (Ab)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-1 (V)
+
+
+##### Paragraphe 2 : Composition des commissions<a id=276></a>
 
 ###### Article R331-2
 
-Le préfet, le trésorier-payeur général et le directeur des services fiscaux ne peuvent se faire représenter respectivement
-dans chaque commission que par un seul délégué. 
+Le préfet et le responsable départemental de la direction générale des finances publiques chargé de la gestion publique ne
+peuvent se faire représenter respectivement dans chaque commission que par un seul délégué. 
 
-Le préfet choisit son délégué parmi les membres du corps préfectoral,        les chefs des services déconcentrés de l'Etat ou
-leurs adjoints, ou les directeurs de préfecture. 
+Le préfet choisit son délégué parmi les membres du corps préfectoral, les chefs des services déconcentrés de l'Etat ou leurs
+adjoints, ou les directeurs de préfecture. 
 
-Le trésorier-payeur général choisit son délégué parmi les fonctionnaires de la trésorerie générale ayant au moins le grade
-d'inspecteur ou les receveurs des finances. 
-
-Le directeur des services fiscaux choisit son délégué parmi l es fonctionnaires de la direction ayant au moins le grade
-d'inspecteur. 
-
-Le délégué du préfet ne préside la commission qu'en l'absence du trésorier-payeur général.
+Le responsable départemental de la direction générale des finances publiques chargé de la gestion publique choisit son
+délégué parmi les fonctionnaires de catégorie A de la direction départementale des finances publiques placés sous son
+autorité.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-146 du 16 février 2010 - art. 50 (V)
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
 
 _Cité par_:
 
@@ -31055,22 +31435,26 @@ _Cité par_:
 
 ###### Article R331-3
 
-Le gouverneur de la Banque de France désigne les représentants locaux de cet établissement auprès de ces commissions ainsi
-que les personnes habilitées à les représenter.
+Pour l'application du 1° de l'article L. 331-1, le gouverneur de la Banque de France désigne les représentants locaux de cet
+établissement auprès de ces commissions ainsi que les personnes habilitées à les représenter.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°95-660 du 9 mai 1995 - art. 3 (Ab)
-
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-1
 
 _Cité par_:
 
@@ -31078,114 +31462,25 @@ _Cité par_:
   - Code de la consommation - art. R336-1 (Ab)
   - Code de la consommation - art. R336-4 (Ab)
   - Code de la consommation - art. R336-5 (Ab)
+  - Code de la consommation - art. R336-7 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-4 (V)
 
 
 ###### Article R331-4
 
-Pour chaque commission, le préfet nomme par arrêté, pour une durée d'un an renouvelable, une personnalité et son suppléant
-qu'il choisit sur une liste départementale, comprenant quatre noms, qui lui est transmise par l'Association française des
-établissements de crédit et des entreprises d'investissement, ainsi qu'une personnalité et son suppléant proposés, dans les
-mêmes conditions, par les associations familiales ou de consommateurs qui, pour ces dernières, justifient d'un agrément au
-titre de l'article L. 411-1 du code de la consommation, soit par arrêté du préfet de département, soit par leur affiliation à
-une association nationale elle-même agréée.
+Pour l'application du 2° de l'article L. 331-1, le préfet nomme par arrêté, pour une durée de deux ans renouvelable, une
+personne et son suppléant qu'il choisit sur une liste départementale, comprenant quatre noms, qui lui est transmise par
+l'Association française des établissements de crédit et des entreprises d'investissement, ainsi qu'une personne et son
+suppléant proposés, dans les mêmes conditions, par les associations familiales ou de consommateurs qui, pour ces dernières,
+justifient d'un agrément au titre de l'article L. 411-1 accordé par arrêté du préfet du département de leur siège social ou
+qui sont affiliées à une association nationale elle-même agréée. 
 
-S'il constate l'absence de l'une de ces personnalités et de son suppléant à trois séances consécutives de la commission, le
-préfet peut mettre fin à leur mandat avant l'expiration de la période d'un an. Il nomme alors une autre personnalité et un
-suppléant choisis sur la même liste.
-
-**Nota:**
-
-Décret 2006-665 2006-06-07 art. 61 : Spécificité d'application.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 62 () JORF 8 juin 2006 en vigueur le 1er août 2006
-
-_Cite_:
-
-  - Code de la consommation - art. L411-1 (V)
-
-_Cité par_:
-
-  - Code de la consommation - art. R336-1 (Ab)
-  - Code de la consommation - art. R336-4 (VD)
-
-
-###### Article R331-5
-
-La commission ne peut valablement se réunir que si au moins quatre de ses six membres sont présents ou représentés. En cas de
-partage égal des voix, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Cité par_:
-
-  - Code de la consommation - art. R336-1 (Ab)
-  - Code de la consommation - art. R336-4 (Ab)
-
-
-###### Article R331-6
-
-Dans les départements d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon, le directeur d'agence de
-l'institut d'émission des départements d'outre-mer est membre de la commission aux lieu et place du représentant de la Banque
-de France. Le directeur d'agence peut se faire représenter par l'un de ses adjoints. Ses services assurent le secrétariat de
-la commission.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-660 du 9 mai 1995 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Cité par_:
-
-  - Code de la consommation - art. R336-1 (Ab)
-  - Code de la consommation - art. R336-4 (Ab)
-  - Code de la consommation - art. R336-6 (Ab)
-
-
-###### Article R331-6-1
-
-Pour l'application du dernier alinéa de l'article L. 331-1, la personne justifiant d'une expérience dans le domaine de
-l'économie sociale et familiale est nommée par le préfet parmi les personnes justifiant d'une expérience d'au moins trois
-ans. Elle peut être choisie notamment parmi les agents du département, de la caisse d'allocations familiales ou de la caisse
-de mutualité sociale agricole.
-
-La personne justifiant d'un diplôme et d'une expérience dans le domaine juridique est nommée par le préfet sur proposition du
-premier président de la cour d'appel. Elle doit être titulaire d'une licence en droit et justifier d'une expérience juridique
-d'au moins trois ans.
-
-Ces personnes participent à l'instruction des dossiers sous l'autorité du président de la commission.
-
-Sont tenus à leur disposition, préalablement à chacune de ses séances, les documents destinés à être examinés par la
-commission. Elles peuvent prendre connaissance des autres pièces des dossiers sur place auprès du secrétariat de la
-commission, dans des conditions fixées en concertation avec celui-ci et approuvées par la commission. Elles peuvent être
-appelées à participer à l'audition du débiteur par le secrétariat de la commission.
-
-Elles interviennent à titre gracieux. Elles peuvent être remboursées de leurs frais de déplacement dans les conditions
-prévues pour les agents de l'Etat.
+Si le préfet constate l'absence de l'une de ces personnes et de son suppléant sans motif légitime à trois séances
+consécutives de la commission, il peut mettre fin à leur mandat avant l'expiration de la période de deux ans. Il nomme alors
+une autre personne et un suppléant choisis sur la même liste.
 
 **Liens relatifs à cet article**
 
@@ -31193,24 +31488,197 @@ _Codifié par_:
 
   - Décret n°97-298 du 27 mars 1997
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
 
 _Abrogé par_:
 
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-1
+  - Code de la consommation - art. L411-1
+
+_Cité par_:
+
+  - Code de la consommation - art. R336-1 (Ab)
+  - Code de la consommation - art. R336-4 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-5 (V)
+
+
+###### Article R331-5
+
+Pour l'application du 3° de l'article L. 331-1, le préfet nomme par arrêté, pour une durée de deux ans renouvelable, la
+personne justifiant d'une expérience dans le domaine de l'économie sociale et familiale et son suppléant parmi les personnes
+justifiant d'une expérience d'au moins trois ans. Ils peuvent être choisis notamment parmi les agents du département, de la
+caisse d'allocations familiales ou de la caisse de mutualité sociale agricole. 
+
+Le préfet nomme par arrêté, pour une durée de deux ans renouvelable, la personne justifiant d'un diplôme et d'une expérience
+dans le domaine juridique et son suppléant sur proposition du premier président de la cour d'appel dans le ressort de
+laquelle siège la commission. Ils doivent être titulaires d'une licence en droit ou d'un diplôme équivalent et justifier
+d'une expérience dans le domaine juridique d'au moins trois ans. 
+
+Si le préfet constate l'absence de l'une de ces personnes et de son suppléant sans motif légitime à trois séances
+consécutives de la commission, il peut mettre fin à leur mandat avant l'expiration de la période de deux ans. Il nomme alors
+une autre personne et un suppléant dans les mêmes conditions que celles prévues aux deux alinéas précédents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997
+
+_Modifié par_:
+
   - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 _Cite_:
 
   - Code de la consommation - art. L331-1
 
+_Cité par_:
 
-##### Section 2 : Procédure devant la commission de surendettement des particuliers<a id=272></a>
+  - Code de la consommation - art. R336-1 (Ab)
+  - Code de la consommation - art. R336-4 (Ab)
+  - Code de la consommation - art. R336-8 (Ab)
 
-##### Sous-section 1 : Dispositions générales<a id=273></a>
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-6 (V)
+
+
+###### Article R331-6
+
+La liste des membres de la commission est affichée dans les locaux du secrétariat de la commission et est accessible sur le
+site internet de la Banque de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997
+
+_Modifié par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R336-1 (Ab)
+  - Code de la consommation - art. R336-4 (Ab)
+  - Code de la consommation - art. R336-6 (Ab)
+  - Code de la consommation - art. R336-8 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-7 (V)
+
+
+##### Paragraphe 3 : Fonctionnement des commissions<a id=277></a>
 
 ###### Article R331-7
+
+La commission ne peut valablement se réunir que si au moins quatre de ses sept membres sont présents ou représentés. En cas
+de partage égal des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997
+
+_Modifié par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L333-3-1
+
+_Cité par_:
+
+  - Code de la consommation - art. R336-1 (Ab)
+  - Code de la consommation - art. R336-4 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-8 (V)
+
+
+###### Article R331-7-1
+
+En l'absence du préfet et du responsable départemental de la direction générale des finances publiques chargé de la gestion
+publique, la commission est présidée par le délégué du préfet. En l'absence de ce dernier, elle est présidée par le délégué
+du responsable départemental de la direction générale des finances publiques chargé de la gestion publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997
+
+_Modifié par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+_Cite_:
+
+  - Code de la consommation - art. L331-3
+
+
+###### Article R331-7-2
+
+Les autres règles applicables au fonctionnement de la commission sont fixées par son règlement intérieur. 
+
+Le règlement intérieur est affiché dans les locaux du secrétariat de la commission et est accessible sur le site internet de
+la Banque de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997
+
+_Modifié par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R336-1 (Ab)
+  - Code de la consommation - art. R336-4 (Ab)
+  - Code de la consommation - art. R336-8 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-10 (V)
+  - Code de la consommation - art. R712-11 (V)
+
+
+##### Paragraphe 4 : Procédure devant les commissions<a id=278></a>
+
+###### Article R331-8
 
 Hormis le cas prévu à l'article L. 333-3-1, la commission compétente est celle du domicile du débiteur.
 
@@ -31218,420 +31686,332 @@ Hormis le cas prévu à l'article L. 333-3-1, la commission compétente est cell
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, V JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Cite_:
-
-  - Code de la consommation - art. L333-3-1 (V)
-
-_Cité par_:
-
-  - Code de la consommation - art. R336-1 (Ab)
-  - Code de la consommation - art. R336-4 (VD)
-
-_Anciens textes_:
-
-  - Code de la consommation R333-2
-
-
-###### Article R331-7-1
-
-Les personnes que la commission entend ou décide de faire entendre par l'un de ses membres sont convoquées quinze jours au
-moins avant la date de la réunion par lettre simple.
-
-La convocation adressée au débiteur et aux créanciers leur indique qu'ils peuvent être assistés par la personne de leur
-choix. Le débiteur qui souhaite être entendu par la commission en application de l'article L. 331-3 adresse sa demande par
-lettre simple.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 III, VI JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Cite_:
-
-  - Code de la consommation - art. L331-3 (M)
-
-_Anciens textes_:
-
-  - Code de la consommation R331-10
-
-
-###### Article R331-7-2
-
-I. - Lorsqu'il est prévu au présent chapitre que la commission de surendettement envoie un courrier par lettre simple, celle-
-ci peut également le transmettre par télécopie ou par voie électronique. Dans ce cas, le procédé technique utilisé doit
-assurer l'authentification de l'émetteur ainsi que l'intégrité du message.
-
-II. - Lorsqu'il est prévu que la commission de surendettement envoie un courrier par lettre recommandée avec accusé de
-réception, celle-ci peut également le transmettre par télécopie ou par voie électronique. Dans ce cas, le procédé technique
-utilisé doit assurer l'authentification de l'émetteur ainsi que l'intégrité du message et permettre de vérifier la réception
-du message par son destinataire à une date certaine.
-
-III. - L'usage de la transmission par télécopie ou par voie électronique est ouvert de plein droit à la commission pour ses
-envois aux établissements de crédit, à La Poste pour ses activités identiques à celles des établissements de crédit, ou à des
-comptables du Trésor. Il est subordonné à l'accord préalable écrit de ses autres correspondants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 III, VII JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Cité par_:
-
-  - Code de la consommation - art. R336-1 (Ab)
-  - Code de la consommation - art. R336-4 (VD)
-  - Code de la consommation - art. R336-8 (Ab)
-
-
-##### Sous-section 2 : Instruction de la demande de traitement d'une situation de surendettement<a id=274></a>
-
-##### Paragraphe 1er : Saisine de la commission<a id=275></a>
-
-###### Article R331-7-3
-
-La commission est saisie d'une demande du débiteur tendant au traitement de sa situation de surendettement remise ou adressée
-à son secrétariat. A peine d'irrecevabilité, la demande doit être signée par le débiteur, préciser ses nom et adresse,
-mentionner sa situation familiale, fournir un état détaillé de ses revenus et des éléments actifs et passifs de son
-patrimoine et indiquer le nom et l'adresse des créanciers. La commission informe le débiteur et les créanciers de sa saisine
-par lettre simple.
-
-Lorsque le débiteur est suivi par un travailleur social, la demande indique le nom, le prénom et les coordonnées de ce
-dernier.
-
-Les délais de six et neuf mois mentionnés respectivement aux articles L. 331-3 et L. 332-5 courent à compter de la date à
-laquelle le dossier est complet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 III, IV, IX, IV JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
 
 _Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L333-3-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-13 (V)
+
+
+###### Article R331-8-1
+
+La commission est saisie d'une demande du débiteur tendant au traitement de sa situation de surendettement remise ou adressée
+à son secrétariat.A peine d'irrecevabilité, la demande doit être signée par le débiteur, préciser ses nom et adresse,
+mentionner sa situation familiale, fournir un état détaillé de ses revenus et des éléments actifs et passifs de son
+patrimoine et indiquer le nom et l'adresse des créanciers. 
+
+Le débiteur mentionne les procédures d'exécution en cours à l'encontre de ses biens ainsi que les cessions de rémunération
+qu'il a consenties à ses créanciers. Il précise également s'il fait l'objet d'une mesure d'expulsion de son logement. 
+
+Lorsqu'il bénéficie d'une mesure d'aide ou d'action sociale, il indique le nom et les coordonnées du service chargé de cette
+mesure. 
+
+Une attestation de dépôt du dossier est remise au débiteur ou lui est adressée par lettre simple. Elle mentionne la date de
+dépôt du dossier. 
+
+Le délai de trois mois mentionné à l'article L. 331-3 pour examiner la recevabilité de la demande, la notifier, procéder à
+l'instruction du dossier et décider de son orientation court à compter de la date de dépôt du dossier. Le secrétariat de la
+commission informe le débiteur de ce délai dans l'attestation de dépôt du dossier et du fait que si la commission n'a pas
+décidé de l'orientation du dossier dans le délai de trois mois, le taux d'intérêt applicable à tous les emprunts en cours
+contractés par le débiteur est, au cours des trois mois suivants, le taux de l'intérêt légal, sauf décision contraire de la
+commission ou du juge intervenant au cours de cette période.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-3
+
+_Cité par_:
+
+  - Code de la consommation - art. R333-2 (Ab)
+  - Code de la consommation - art. R334-38 (Ab)
+  - Code de la consommation - art. R334-6 (Ab)
+  - Livre des procédures fiscales - art. R*247 A-1 (M)
+  - Livre des procédures fiscales - art. R*247-18 (M)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-15 (V)
+  - Code de la consommation - art. R721-1 (V)
+  - Code de la consommation - art. R721-2 (V)
+  - Code de la consommation - art. R721-3 (V)
+  - Code de la consommation - art. R721-4 (V)
+  - Code de la consommation - art. R761-1 (V)
+
+
+###### Article R331-8-2
+
+Le débiteur qui souhaite être entendu par la commission en application de l'article L. 331-3 adresse sa demande par lettre
+simple ou la remet au secrétariat de la commission. 
+
+Les personnes que la commission entend ou décide de faire entendre par l'un de ses membres sont convoquées quinze jours au
+moins avant la date de la réunion par lettre simple. 
+
+La convocation adressée au débiteur et aux créanciers leur indique qu'ils peuvent être assistés par la personne de leur
+choix.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-17 (V)
+
+
+###### Article R331-8-3
+
+Les notifications effectuées par le secrétariat de la commission au débiteur et aux créanciers par lettre recommandée avec
+demande d'avis de réception sont régulièrement faites à l'adresse préalablement indiquée par le destinataire. Dans ce cas, la
+date de la notification est celle de la signature de l'avis de réception. Lorsque l'avis de réception n'a pas été signé par
+son destinataire ou par une personne munie d'un pouvoir à cet effet, la date de la notification est celle de la présentation
+de la lettre recommandée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R712-18 (V)
+
+
+###### Article R331-8-4
+
+I. - Lorsqu'il est prévu que la commission de surendettement envoie un courrier par lettre simple, celle-ci peut également le
+transmettre par télécopie ou par voie électronique. Dans ce cas, le procédé technique utilisé doit assurer l'authentification
+de l'émetteur ainsi que l'intégrité du message. 
+
+II. - Lorsqu'il est prévu que la commission de surendettement envoie un courrier par lettre recommandée avec demande d'avis
+de réception, celle-ci peut également le transmettre par télécopie ou par voie électronique. Dans ce cas, le procédé
+technique utilisé doit assurer l'authentification de l'émetteur ainsi que l'intégrité du message et permettre de vérifier la
+réception du message par son destinataire à une date certaine. 
+
+III. - L'usage de la transmission par télécopie ou par voie électronique est ouvert de plein droit à la commission pour ses
+envois aux établissements de crédit ou aux comptables publics de l'Etat. Il est subordonné à l'accord préalable écrit de ses
+autres correspondants.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+
+##### Section 2 : Le juge de l'exécution<a id=279></a>
+
+###### Article R331-9
+
+Le juge de l'exécution compétent est celui du lieu où demeure le débiteur, y compris pour l'application des articles R.
+331-11-1 et R. 331-12. Toutefois, dans le cas prévu à l'article L. 333-3-1, le juge compétent est celui dans le ressort
+duquel siège la commission saisie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997
+
+_Modifié par_:
 
   - Décret n°2010-1304 du 29 octobre 2010 - art. 2
 
 _Cite_:
 
-  - Code de la consommation - art. L331-3
-  - Code de la consommation - art. L332-5
-
-_Cité par_:
-
-  - Code de la consommation - art. R333-1 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation R331-7
+  - Code de la consommation - art. L333-3-1
 
 
-##### Paragraphe 2 : Examen de la recevabilité<a id=276></a>
+###### Article R331-9-1
 
-###### Article R331-8
+Le juge de l'exécution est saisi par la commission par lettre simple signée de son président. 
 
-La commission examine la recevabilité de la demande. Elle se prononce par une décision motivée qui est notifiée au débiteur
-et aux créanciers par lettre recommandée avec demande d'avis de réception. La lettre indique que la décision peut faire
-l'objet d'un recours, dans un délai de quinze jours à compter de sa notification, par déclaration remise ou adressée par
-lettre recommandée avec demande d'avis de réception au secrétariat de la commission.
-
-Cette déclaration, signée de son auteur, indique ses nom, prénoms, profession et adresse ainsi que la décision attaquée. Le
-secrétariat de la commission adresse copie de la déclaration au juge de l'exécution et lui transmet le dossier.
+Lorsque la saisine directe du juge par une partie est prévue, elle s'effectue par déclaration remise ou adressée au greffe du
+juge de l'exécution. La déclaration indique les nom, prénoms et adresse du déclarant ; elle est signée par lui. Le greffe en
+informe la commission et l'invite, le cas échéant, à lui transmettre le dossier.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Créé par_:
 
-  - Décret n°95-660 du 9 mai 1995 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, IX, X JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
 
 
-##### Paragraphe 3 : Etat du passif<a id=277></a>
+###### Article R331-9-2
 
-###### Article R331-9
+I.-Le juge de l'exécution statue par jugement ou, en vertu d'une disposition spéciale, par ordonnance. 
 
-L'appel aux créanciers prévu au cinquième alinéa de l'article L. 331-3 est publié à la diligence du secrétariat de la
-commission dans un journal habilité à recevoir les annonces légales dans le département où siège la commission saisie.
-L'appel précise dans quel délai les créanciers doivent, par lettre simple adressée au secrétariat de la commission, déclarer
-leurs créances.
+II.-Dans les cas où il statue par jugement, le juge convoque les parties intéressées ou les invite à produire leurs
+observations, par lettre recommandée avec demande d'avis de réception. Les convocations et demandes d'observations sont
+régulièrement faites à l'adresse préalablement indiquée par le destinataire. Dans ce cas, en cas de retour au secrétariat de
+la juridiction de ces notifications dont l'avis de réception n'a pas été signé par son destinataire ou par une personne munie
+d'un pouvoir à cet effet, la date de notification est celle de présentation et la notification est réputée faite à domicile
+ou à résidence. Le cas échéant, une copie du recours ou de la contestation formé est jointe aux convocations ou demandes
+d'observations. Si le juge convoque les parties, la procédure suivie est celle prévue aux 
+articles 11 à 14 du décret n° 92-755 du 31 juillet 1992 
+instituant de nouvelles règles relatives aux procédures civiles d'exécution pour l'application de la 
+loi n° 91-650 du 9 juillet 1991
+portant réforme des procédures civiles d'exécution. 
 
-A défaut d'accord entre les parties, la commission saisit le juge de l'exécution à l'effet de désigner, par ordonnance, la ou
-les parties qui supporteront les frais de l'appel aux créanciers.
+Les jugements sont rendus en dernier ressort, sauf dispositions contraires. 
+
+III.-Les ordonnances sont rendues en dernier ressort. 
+
+Elles peuvent faire l'objet, dans le délai de quinze jours, d'un recours en rétractation remis ou adressé au greffe du juge
+de l'exécution par toute partie intéressée qui n'a pas été mise en mesure de s'opposer à la demande. 
+
+Copie de l'ordonnance est jointe à la demande de rétractation. 
+
+Il est statué sur le recours en rétractation par jugement, sauf disposition contraire. 
+
+IV.-Les décisions du juge de l'exécution sont immédiatement exécutoires.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-660 du 9 mai 1995 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, IX, XI JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
 
 _Cite_:
 
-  - Code de la consommation - art. L331-3 (M)
+  - Loi n°91-650 du 9 juillet 1991
+  - Décret n°92-755 du 31 juillet 1992 - art. 11
 
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+
+###### Article R331-9-3
+
+Lorsque le jugement est susceptible d'appel, celui-ci est formé, instruit et jugé selon les règles de la procédure sans
+représentation obligatoire prévue aux 
+articles 931 à 949 du code de procédure civile
+. Un sursis à exécution peut être demandé au premier président de la cour d'appel dans les conditions prévues à l'
+article 31 du décret n° 92-755 du 31 juillet 1992 instituant de nouvelles règles relatives aux procédures civiles d'exécution
+pour l'application de la 
+loi n° 91-650 du 9 juillet 1991
+portant réforme des procédures civiles d'exécution.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°91-650 du 9 juillet 1991
+  - Décret n°92-755 du 31 juillet 1992 - art. 31
+  - Code de procédure civile - art. 931
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+
+###### Article R331-9-4
+
+S'il n'en est disposé autrement, les jugements et ordonnances sont notifiés au débiteur et aux créanciers intéressés par
+lettre recommandée avec demande d'avis de réception par le greffe du juge de l'exécution. Ces notifications sont
+régulièrement faites à l'adresse préalablement indiquée par le destinataire. Dans ce cas, la date de notification est celle
+de la signature de l'avis de réception. Lorsque l'avis de réception n'a pas été signé par son destinataire ou par une
+personne munie d'un pouvoir à cet effet, la date de notification est celle de la présentation de la lettre recommandée. La
+notification mentionne les voies et délais de recours. 
+
+La commission est informée par lettre simple.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 2
+
+
+#### Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement<a id=280></a>
+
+##### Section 1 :  Examen de la recevabilité de la demande<a id=281></a>
 
 ###### Article R331-10
 
-La commission informe par lettre recommandée avec demande d'avis de réception les créanciers de l'état du passif déclaré par
-le débiteur. Cette lettre reproduit les dispositions des sixième et septième alinéas de l'article L. 331-3 du code de la
-consommation.
+La commission examine la recevabilité de la demande et se prononce par une décision motivée. La décision de recevabilité est
+notifiée au débiteur, aux créanciers, aux établissements de paiement et aux établissements de crédit teneurs de comptes du
+déposant par lettre recommandée avec demande d'avis de réception. La décision d'irrecevabilité est notifiée au seul débiteur
+par lettre recommandée avec demande d'avis de réception. La lettre de notification indique que la décision peut faire l'objet
+d'un recours, dans un délai de quinze jours à compter de sa notification, par déclaration remise ou adressée par lettre
+recommandée avec demande d'avis de réception au secrétariat de la commission. Elle précise que cette déclaration indique les
+nom, prénoms et adresse de son auteur, la décision attaquée ainsi que les motifs du recours, et est signée par ce dernier.
+Elle indique qu'il incombe aux parties d'informer le secrétariat de la commission de tout changement d'adresse en cours de
+procédure. La lettre de notification d'une décision de recevabilité indique également que le débiteur peut, à sa demande,
+être entendu par la commission conformément au cinquième alinéa de l'article L. 331-3. 
 
-Lorsque la commission est informée par le débiteur ou les créanciers que des personnes ont cautionné le remboursement d'une
-ou de plusieurs dettes, ces personnes sont avisées par lettre recommandée avec demande d'avis de réception de la saisine par
-le débiteur de la commission et invitées à justifier dans un délai de trente jours du montant des sommes le cas échéant déjà
-acquittées en exécution de leur engagement de caution et à fournir dans ce même délai toutes informations complémentaires
-utiles.
+La décision de recevabilité est également notifiée à la caisse d'allocations familiales dont relève le débiteur. 
 
-Au vu de l'ensemble des éléments produits par les parties, la commission dresse l'état du passif et le notifie au débiteur
-par lettre recommandée avec demande d'avis de réception. Le courrier reproduit les dispositions du premier alinéa de
-l'article L. 331-4 du code de la consommation et précise que la contestation du débiteur est formée par déclaration motivée
-remise ou adressée par lettre recommandée avec demande d'avis de réception au secrétariat de la commission.
+Lorsque la commission est destinataire d'un recours, son secrétariat le transmet, avec le dossier, au greffe du juge de
+l'exécution.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, IX JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Cite_:
-
-  - Code de la consommation - art. L331-3 (M)
-  - Code de la consommation - art. L331-4 (M)
-
-_Anciens textes_:
-
-  - Code de la consommation R331-10-1
-
-
-##### Paragraphe 4 : Orientation des dossiers des débiteurs en situation irrémédiablement compromise<a id=278></a>
-
-###### Article R331-10-1
-
-L'accord du débiteur mentionné à l'avant-dernier alinéa de l'article L. 331-3 est donné par écrit sur un formulaire remis à
-l'intéressé par le secrétariat de la commission.
-
-Ce formulaire informe le débiteur que la procédure de rétablissement personnel est susceptible d'entraîner une décision de
-liquidation et porte à sa connaissance les dispositions de l'article L. 332-8.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 III, IX, XII JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Abrogé par_:
 
   - Décret n°2010-1304 du 29 octobre 2010 - art. 3
 
 _Cite_:
 
   - Code de la consommation - art. L331-3
-  - Code de la consommation - art. L332-8
 
 
-###### Article R331-10-2
-
-La demande formée par le débiteur en application de l'article L. 331-7-2 est examinée dans les conditions et selon les
-modalités prévues à l'article R. 331-8.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 III, IX, XII JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
-
-_Cite_:
-
-  - Code de la consommation
-  - Code de la consommation - art. L331-7-2
-
-
-###### Article R331-10-3
-
-Conformément aux dispositions de l'article L. 332-5, la décision par laquelle la commission décide de ne pas réduire au taux
-légal le taux d'intérêt des emprunts en cours contractés par le débiteur vaut pour toute la période s'étendant du début du
-septième mois à la fin du neuvième mois, le déclenchement du délai de six mois mentionné à cet article étant déterminé dans
-les conditions prévues au dernier alinéa de l'article R. 331-7-3.
-
-La contestation présentée au juge en application de l'article L. 332-5 n'est recevable que si elle est formée à l'occasion
-d'un recours dirigé contre l'une des décisions prises par la commission en application du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Créé par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 III, IX, XII JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
-
-_Cite_:
-
-  - Code de la consommation
-  - Code de la consommation - art. L332-5
-
-
-##### Sous-section 3 : Vérification des créances<a id=279></a>
+##### Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=282></a>
 
 ###### Article R331-11
 
-Lorsqu'il y a lieu de procéder, en application de l'article L. 331-4, à la vérification d'une ou plusieurs créances, la
-lettre de transmission de la commission au juge précise les nom, prénoms, profession et adresse du débiteur et ceux des
-créanciers en cause ou, pour les personnes morales, leur dénomination et leur siège social ; elle contient l'exposé de
-l'objet et les motifs de la saisine et indique, le cas échéant, que celle-ci est présentée à la demande du débiteur. Y sont
-annexés les documents nécessaires à la vérification des créances.
+La lettre notifiant la décision de recevabilité indique que celle-ci emporte suspension et interdiction des procédures
+d'exécution diligentées à l'encontre des biens du débiteur ainsi que des cessions de rémunération qu'il a consenties et
+portant sur les dettes autres qu'alimentaires. Elle précise que la suspension ou l'interdiction produit effet, selon les cas,
+jusqu'à l'approbation du plan conventionnel de redressement prévu à l'article L. 331-6, jusqu'à la décision imposant les
+mesures prévues par l'article L. 331-7, jusqu'à l'homologation des mesures recommandées en application des articles L.
+331-7-1, L. 331-7-2 et L. 332-5 ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec liquidation
+judiciaire, sans pouvoir excéder un an. Elle reproduit les dispositions des deuxième et troisième alinéas de l'article L.
+331-3-1. 
 
-La commission informe les créanciers concernés et le débiteur de la saisine du juge.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, XIII JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Cite_:
-
-  - Code de la consommation - art. L331-4 (M)
-
-
-###### Article R331-12
-
-La vérification de la validité et du montant de la créance est opérée pour les besoins de la procédure et afin de permettre à
-la commission de poursuivre sa mission. Elle porte sur le caractère liquide et certain de la créance ainsi que sur le montant
-des sommes réclamées en principal, intérêts et accessoires.
-
-La créance dont la validité n'est pas reconnue est écartée de la procédure.
+La commission ou le greffe du juge de l'exécution, selon le cas, notifie la décision de recevabilité par lettre recommandée
+avec demande d'avis de réception, ou remise contre récépissé, aux agents chargés de l'exécution et, le cas échéant, au
+greffier en chef du tribunal d'instance en charge de la procédure de saisie des rémunérations ou de la cession des
+rémunérations, qui en informe le tiers saisi ou le cessionnaire.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-660 du 9 mai 1995 - art. 14 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 I, III JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Cité par_:
-
-  - Code de la consommation - art. R331-9 (Ab)
-  - Code de la consommation - art. R333-3 (Ab)
-
-
-##### Sous-section 5 : Mesures de traitement du surendettement<a id=280></a>
-
-##### Paragraphe 1er : Dispositions communes<a id=281></a>
-
-###### Article R331-15-1
-
-Pour l'application des articles L. 331-6, L. 331-7 et L. 331-7-1, la part des ressources mensuelles du débiteur à affecter à
-l'apurement de ses dettes est calculée, dans les conditions prévues à l'article L. 331-2, par référence au barème prévu à
-l'article R. 3252-2 du code du travail. Toutefois, la somme résultant de ce calcul est plafonnée à la différence entre le
-montant des ressources mensuelles réelles de l'intéressé et le montant     forfaitaire du revenu de solidarité active
-mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des familles applicable à un foyer composé d'une seule
-personne, majoré de 50 % dans le cas d'un ménage.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-404 du 15 avril 2009 - art. 10
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
-
-_Cite_:
-
-  - Code de la consommation - art. L331-2
-  - Code de la consommation - art. L331-6
-  - Code du travail - art. R3252-2
-
-
-##### Paragraphe 2 : Plan conventionnel de redressement<a id=282></a>
-
-###### Article R331-16
-
-Le plan conventionnel de redressement est signé et daté par les parties ; une copie leur en est adressée.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-660 du 9 mai 1995 - art. 18 (Ab)
 
 _Codifié par_:
 
@@ -31639,237 +32019,176 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, XX JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
-
-
-###### Article R331-17
-
-Le plan conventionnel de redressement mentionne qu'il est de plein droit caduc quinze jours après une mise en demeure restée
-infructueuse, adressée au débiteur d'avoir à exécuter ses obligations, sans préjudice de l'exercice des facultés prévues aux
-articles R. 331-7-3 et R. 331-14.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-660 du 9 mai 1995 - art. 19 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, XVII, XX JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Abrogé par_:
-
   - Décret n°2010-1304 du 29 octobre 2010 - art. 3
 
 _Cite_:
 
-  - Code de la consommation
+  - Code de la consommation - art. L331-6
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L332-5
 
 
-##### Paragraphe 3 : Mesures recommandées par la commission<a id=283></a>
+###### Article R331-11-1
 
-###### Article R331-18
+La lettre par laquelle la commission saisit le juge en application du premier alinéa de l'article L. 331-5 indique les nom,
+prénoms et adresse du débiteur ainsi que ceux des créanciers poursuivants ou, pour les personnes morales, leur dénomination
+et leur siège social.Y sont annexés un état des revenus du débiteur, un relevé des éléments actifs et passifs de son
+patrimoine et la liste des procédures d'exécution diligentées à l'encontre de ses biens, des cessions de rémunération qu'il a
+consenties et des mesures d'expulsion de son logement, établis au moyen des documents dont dispose la commission.Y est
+également jointe la copie de l'acte de poursuite fondant la demande.
 
-Lorsque la commission constate qu'il lui est impossible de recueillir l'accord des intéressés sur un plan conventionnel, elle
-le notifie au débiteur par lettre recommandée avec demande d'avis de réception et aux créanciers par lettre simple.
+L'ordonnance qui suspend une ou plusieurs procédures d'exécution ou cessions de rémunération est notifiée par le greffe du
+juge de l'exécution par lettre recommandée avec demande d'avis de réception, ou remise contre récépissé, aux créanciers
+poursuivants et aux agents chargés de l'exécution ou au greffier en chef du tribunal d'instance en charge de la procédure de
+saisie des rémunérations ou de la cession des rémunérations, qui en informe le tiers saisi ou le cessionnaire. 
 
-Ces lettres mentionnent que le débiteur peut, dans un délai de quinze jours à compter de la notification visée à l'alinéa
-précédent, saisir la commission aux fins de voir recommander les mesures prévues à l'article L. 331-7 ou au premier alinéa de
-l'article L. 331-7-1 dont elles reproduisent intégralement les dispositions.
+Une copie de l'ordonnance par laquelle le juge se prononce sur la demande de suspension et de celle qui statue sur la demande
+en rétractation est adressée par le greffe par lettre simple à la commission, qui en informe le débiteur. 
 
-Lorsque, en application de l'article L. 331-5, le juge de l'exécution a prononcé la suspension d'une ou plusieurs des
-procédures d'exécution diligentées contre le débiteur, ces lettres mentionnent également que la suspension se poursuit soit
-jusqu'à l'expiration du délai mentionné à l'alinéa précédent, soit, si le débiteur use de la faculté prévue à l'article L.
-331-7, jusqu'à ce que le juge ait conféré force exécutoire aux recommandations de la commission ou ait statué sur la
-contestation émise à leur encontre.
+Le greffe notifie au créancier requérant et aux agents chargés de l'exécution ou au greffier en chef du service chargé des
+saisies des rémunérations l'ordonnance qui rétracte la décision de suspension par lettre simple et l'ordonnance qui rejette
+la demande en rétractation par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Cité par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°2006-936 du 27 juillet 2006 - art. 50 (Ab)
+  - Code de la consommation - art. R331-9 (Ab)
+  - Code des procédures civiles d'exécution - art. R322-16 (M)
 
-_Modifié par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, XX JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Abrogé par_:
+_Créé par_:
 
   - Décret n°2010-1304 du 29 octobre 2010 - art. 3
 
 _Cite_:
 
   - Code de la consommation - art. L331-5
-  - Code de la consommation - art. L331-7
-  - Code de la consommation - art. L331-7-1
 
 
-###### Article R331-19
+###### Article R331-11-2
 
-La demande du débiteur, formée en application de l'alinéa premier de l'article L. 331-7, est faite par une déclaration signée
-par lui et remise ou adressée au secrétariat de la commission où elle est enregistrée.
+Dans le cas où la vente forcée d'un bien immobilier du débiteur a été ordonnée et lorsque la commission saisit le juge chargé
+de la saisie immobilière en application du premier alinéa de l'article L. 331-3-1 ou du premier alinéa de l'article L. 331-5,
+elle transmet la demande par lettre recommandée avec demande d'avis de réception ou remise contre émargement au greffe,
+quinze jours au moins avant la date prévue par la vente. 
 
-La commission avertit les créanciers de la demande par lettre recommandée avec demande d'avis de réception.
+Cette demande indique les nom, prénoms et adresse du débiteur ainsi que ceux des créanciers poursuivants ou, pour les
+personnes morales, leur dénomination et leur siège social. Elle précise les causes graves et dûment justifiées invoquées à
+l'appui de la demande.Y sont annexés un état des revenus du débiteur, un relevé des éléments actifs et passifs de son
+patrimoine et la liste des procédures d'exécution diligentées à l'encontre de ses biens, des cessions de rémunération qu'il a
+consenties et des mesures d'expulsion de son logement, établis au moyen des documents dont dispose la commission. 
 
-**Liens relatifs à cet article**
+Le jugement statuant sur le report de la date d'adjudication est notifié par lettre recommandée avec demande d'avis de
+réception par le greffe du juge chargé de la saisie immobilière à la commission, au débiteur ainsi qu'au créancier
+poursuivant et aux créanciers inscrits. 
 
-_Anciens textes_:
-
-  - Décret n°95-660 du 9 mai 1995 - art. 21 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Modifié par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, XX JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
-
-_Cite_:
-
-  - Code de la consommation - art. L331-7
-
-
-###### Article R331-19-1
-
-Trente jours avant le terme du moratoire prévu au premier alinéa de l'article L. 331-7-1, la commission avertit les
-créanciers et le débiteur par lettre recommandée avec demande d'avis de réception du réexamen de la situation de ce dernier à
-l'issue du moratoire.
-
-Cette lettre reproduit les dispositions des articles L. 331-7 et L. 331-7-1 et précise que le débiteur dispose d'un délai de
-trente jours pour informer la commission de l'état de son patrimoine et de toute évolution de sa situation personnelle. La
-lettre précise, en outre, qu'à défaut d'accomplir cette diligence dans le délai imparti, la commission rend son avis en
-l'état des informations dont elle dispose.
+La notification indique que ce jugement n'est susceptible ni d'appel, ni d'opposition.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, XX JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
-
-_Cite_:
-
-  - Code de la consommation - art. L331-7
-  - Code de la consommation - art. L331-7-1
-
-
-###### Article R331-20
-
-La commission rend son avis dans les deux mois, selon le cas, de sa saisine ou de l'expiration du délai prévu à l'article R.
-331-19-1, après avoir recueilli ou demandé les observations des parties.
-
-En cas d'application des 3° et 4° de l'article L. 331-7 ou du premier ou du deuxième alinéa de l'article L. 331-7-1, elle
-s'en explique par une motivation spéciale.
-
-L'avis de la commission est communiqué aux parties par lettre recommandée avec demande d'avis de réception. Cette lettre
-mentionne les dispositions du premier alinéa de l'article L. 332-2.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Modifié par_:
-
-  - Décret n°2004-180 2004-02-24 art. 1 I, III, XVIII, XX JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
-
-_Cite_:
-
-  - Code de la consommation
-  - Code de la consommation - art. L331-7
-  - Code de la consommation - art. L331-7-1
-  - Code de la consommation - art. L332-2
-
-
-###### Article R331-21
-
-Dans un délai de quinze jours après avoir rendu son avis, la commission transmet au juge de l'exécution, les mesures qu'elle
-recommande afin qu'il leur soit conféré force exécutoire.
-
-La lettre comporte en annexe les recommandations de la commission, les courriers mentionnés aux articles R. 331-18, R. 331-19
-et R. 331-19-1, ainsi que la déclaration prévue au premier alinéa de l'article R. 331-19.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
 
 _Créé par_:
 
-  - Décret n°2004-180 2004-02-24 art. 1 III, XIX, XX JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 1 () JORF 25 février 2004
-
-_Abrogé par_:
-
   - Décret n°2010-1304 du 29 octobre 2010 - art. 3
 
 _Cite_:
 
-  - Code de la consommation
-
-_Anciens textes_:
-
-  - Code de la consommation R332-1
+  - Code de la consommation - art. L331-3-1
 
 
-#### Chapitre II : Procédure devant le juge de l'exécution<a id=284></a>
+###### Article R331-11-3
 
-##### Section 1 : Dispositions générales<a id=285></a>
+Le juge saisi par le débiteur en application du troisième alinéa de l'article L. 331-3-1 statue par ordonnance.
 
-###### Article R332-1
+**Liens relatifs à cet article**
 
-Le juge de l'exécution compétent est celui du lieu où demeure le débiteur, y compris pour l'application de l'article R.
-331-14. Toutefois, dans le cas prévu à l'article L. 333-3-1, le juge compétent est celui du ressort dans lequel siège la
-commission saisie.
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-3-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R722-8 (V)
+
+
+##### Section 3 : Suspension des mesures d'expulsion<a id=283></a>
+
+###### Article R331-12
+
+La lettre par laquelle la commission saisit le juge en application de l'article L. 331-3-2 indique les nom, prénoms et
+adresse du débiteur ainsi que ceux des créanciers poursuivants ou, pour les personnes morales, leur dénomination et leur
+siège social.Y sont annexés un état des revenus du débiteur, un relevé des éléments actifs et passifs de son patrimoine et la
+liste des procédures d'exécution diligentées à l'encontre de ses biens, des cessions de rémunération qu'il a consenties et
+des mesures d'expulsion de son logement, établis au moyen des documents dont dispose la commission.Y est également jointe la
+copie du commandement de quitter les lieux ou la copie de la décision ordonnant l'expulsion. 
+
+Le jugement statuant sur la demande de suspension d'une mesure d'expulsion est susceptible d'appel.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2004-180 2004-02-24 art. 2 I, II JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 2 () JORF 25 février 2004
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L333-3-1 (V)
-  - Code de la consommation R331-14, L333-3-1
+  - Code de la consommation - art. L331-3-2
+
+_Cité par_:
+
+  - Code de la consommation - art. R331-9 (Ab)
+  - Code de la consommation - art. R333-3 (Ab)
+  - Code de la consommation - art. R334-3 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R722-10 (V)
+  - Code de la consommation - art. R722-9 (V)
+
+
+#### Chapitre II : L'état du passif<a id=284></a>
+
+##### Section 1 :  L'état du passif dressé par la commission<a id=285></a>
+
+###### Article R332-1
+
+L'appel aux créanciers prévu au quatrième alinéa de l'article L. 331-3 est publié à la diligence du secrétariat de la
+commission dans un journal d'annonces légales diffusé dans le département où siège la commission.L'appel précise le délai
+dans lequel les créanciers doivent, par lettre recommandé avec demande d'avis de réception adressée au secrétariat de la
+commission, déclarer leurs créances.
+
+A défaut d'accord entre les parties, la commission saisit le juge de l'exécution à l'effet de désigner, par ordonnance, la ou
+les parties qui supporteront les frais de l'appel aux créanciers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°97-298 du 27 mars 1997
+
+_Modifié par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 4
+
+_Cite_:
+
+  - Code de la consommation - art. L331-3
 
 _Cité par_:
 
@@ -31879,285 +32198,284 @@ _Cité par_:
   - Code de la consommation - art. R336-4 (Ab)
 
 
-###### Article R332-1-1
-
-Le juge de l'exécution est saisi par la commission par lettre simple signée de son président.
-
-Lorsque la saisine directe du juge par une partie est prévue, elle s'effectue par déclaration remise ou adressée au greffe du
-juge de l'exécution. La déclaration indique les nom, prénoms, profession et adresse du déclarant ; elle est signée par lui.
-Le greffe en informe la commission et l'invite, le cas échéant, à lui transmettre le dossier.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°2004-180 du 24 février 2004 - art. 2 () JORF 25 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 4
-
-
-###### Article R332-1-2
-
-I.- Le juge de l' exécution statue par jugement ou, en vertu d' une disposition spéciale, par ordonnance. 
-
-II.- Dans les cas où il statue par jugement, le juge convoque les parties intéressées ou les invite à produire leurs
-observations, par lettre recommandée avec demande d' avis de réception. La procédure suivie est celle prévue aux articles 11
-à 14 du décret n° 92- 755 du 31 juillet 1992. 
-
-Les jugements sont rendus en dernier ressort sauf dispositions contraires. 
-
-III.- Les ordonnances peuvent faire l' objet d' un recours en rétractation remis ou adressé au greffe du juge de l' exécution
-par toute partie intéressée qui n' a pas été mise en mesure de s' opposer à l' objet de la demande. 
-
-Copie de l' ordonnance est jointe à la demande de rétractation. 
-
-IV.- L' appel est formé, instruit et jugé selon les règles de la procédure sans représentation obligatoire prévue aux
-articles 931 à 949 du code de procédure civile.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-755 du 31 juillet 1992 - art. 11
-  - Code de procédure civile - art. 931
-
-_Modifié par_:
-
-  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 4
-
-
-###### Article R332-1-3
-
-Les décisions du juge de l'exécution sont immédiatement exécutoires.
-
-Lorsque la décision est susceptible d'appel, un sursis à exécution peut être demandé au premier président de la cour d'appel
-dans les conditions prévues aux quatre premiers alinéas de l'article 31 du décret n° 92-755 du 31 juillet 1992.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-755 du 31 juillet 1992
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°2004-180 du 24 février 2004 - art. 2 () JORF 25 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 4
-
-
-###### Article R332-1-4
-
-S'il n'en est disposé autrement, les jugements et ordonnances sont notifiés au débiteur et aux créanciers intéressés par
-lettre recommandée avec demande d'avis de réception par le greffe de la juridiction. La notification mentionne les voies et
-délais de recours.
-
-La commission est informée par lettre simple.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°2004-180 du 24 février 2004 - art. 2 () JORF 25 février 2004
-
-_Abrogé par_:
-
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 4
-
-
-##### Section 2 : Du contrôle par le juge des mesures recommandées<a id=286></a>
-
-##### Sous-section 1 : Acquisition de la force exécutoire.<a id=287></a>
-
 ###### Article R332-2
 
-Le juge de l'exécution vérifie, au vu des pièces transmises par la commission, que les recommandations de celle-ci sont
-conformes aux dispositions des articles L. 331-7 et L. 331-7-1 et qu'elles ont été formulées dans le respect de la procédure
-prévue aux articles R. 331-18 à R. 331-20. Il s'assure en outre du bien-fondé des mesures recommandées en application du
-deuxième alinéa de l'article L. 331-7-1.
+La commission informe par lettre recommandée avec demande d'avis de réception les créanciers de l'état du passif déclaré par
+le débiteur. Cette lettre reproduit les dispositions de la première, de la deuxième et de la dernière phrases du sixième
+alinéa de l'article L. 331-3. 
 
-Il ne peut ni les compléter ni les modifier.
+Lorsque la commission est informée par le débiteur ou les créanciers que des personnes ont cautionné le remboursement d'une
+ou de plusieurs dettes, ces personnes sont avisées par lettre recommandée avec demande d'avis de réception de la saisine par
+le débiteur de la commission et invitées à justifier dans un délai de trente jours du montant des sommes le cas échéant déjà
+acquittées en exécution de leur engagement de caution et à fournir dans ce même délai toutes informations complémentaires
+utiles. 
+
+Au vu de l'ensemble des éléments produits par les parties, la commission dresse l'état du passif et le notifie au débiteur
+par lettre recommandée avec demande d'avis de réception. La lettre reproduit les dispositions du premier alinéa de l'article
+L. 331-4, à l'exception de la première et de la dernière phrase, et indique que la contestation du débiteur est formée par
+déclaration remise ou adressée par lettre recommandée avec demande d'avis de réception au secrétariat de la commission. Elle
+précise que cette déclaration indique les nom, prénoms et adresse de son auteur, les créances contestées ainsi que les motifs
+de la contestation, et est signée par ce dernier.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2004-180 2004-02-24 art. 2 I, III, IV JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 2 () JORF 25 février 2004
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L331-7 (M)
-  - Code de la consommation - art. L331-7-1 (M)
-  - Code de la consommation L331-7, L331-7-1, R331-18 à R331-20
+  - Code de la consommation - art. L331-3
+  - Code de la consommation - art. L331-4
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R723-1 (V)
+  - Code de la consommation - art. R723-4 (V)
+  - Code de la consommation - art. R723-5 (V)
+
+
+##### Section 2 : La vérification des créances<a id=286></a>
 
 ###### Article R332-3
 
-A défaut de contestation formée dans le délai prévu au premier alinéa de l'article L. 332-2, le juge se prononce par
-ordonnance.
+Lorsqu'il y a lieu de procéder, en application de l'article L. 331-4, à la vérification d'une ou plusieurs créances, la
+lettre de transmission de la commission au juge précise les nom, prénoms et adresse du débiteur et ceux des créanciers en
+cause ou, pour les personnes morales, leur dénomination et leur siège social ; elle contient l'exposé de l'objet et les
+motifs de la saisine et indique, le cas échéant, que celle-ci est présentée à la demande du débiteur. Y sont annexés les
+documents nécessaires à la vérification des créances. 
 
-Lorsqu'il confère force exécutoire aux recommandations, celles-ci sont annexées à la décision.
-
-Le greffe établit autant de copies exécutoires de l'ordonnance qu'il y a de parties et les envoie à la commission avec les
-pièces transmises. La commission adresse à chacune des parties une copie exécutoire de l'ordonnance par lettre recommandée
-avec demande d'avis de réception.
-
-En cas d'illégalité des recommandations ou d'irrégularité de la procédure ou lorsque les mesures recommandées en application
-du deuxième alinéa de l'article L. 331-7-1 sont infondées, le juge adresse copie de son ordonnance à la commission et lui
-renvoie les pièces en l'invitant à se conformer aux dispositions de l'article R. 331-20 ; le greffe en informe les parties
-par lettre simple.
+La commission informe les créanciers concernés et le débiteur de la saisine du juge.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2004-180 2004-02-24 art. 2 I, III, V, VI, art. 4 JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 2 () JORF 25 février 2004
-  - Décret n°2004-180 du 24 février 2004 - art. 4 () JORF 25 février 2004
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L331-7-1 (M)
-  - Code de la consommation - art. L332-2 (M)
-  - Code de la consommation L331-7-1, L332-2, R331-20
+  - Code de la consommation - art. L331-4
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R723-6 (V)
 
 
-#### Chapitre III : Dispositions communes<a id=288></a>
+###### Article R332-4
+
+La vérification de la validité des créances, des titres qui les constatent et de leur montant est opérée pour les besoins de
+la procédure et afin de permettre à la commission de poursuivre sa mission. Elle porte sur le caractère liquide et certain
+des créances ainsi que sur le montant des sommes réclamées en principal, intérêts et accessoires. 
+
+Les créances dont la validité ou celle des titres qui les constatent n'est pas reconnue sont écartées de la procédure.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R723-7 (V)
+
+
+##### Section 3 : L'état du passif définitivement arrêté<a id=287></a>
+
+###### Article R332-5
+
+La commission informe par lettre le débiteur et les créanciers de la date à laquelle l'état du passif a été définitivement
+arrêté. Cette lettre reproduit les dispositions du dernier alinéa des articles L. 331-6, L. 331-7 et L. 331-7-1.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2014-190 du 21 février 2014 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L331-6
+
+
+#### Chapitre III :  L'orientation du dossier<a id=288></a>
 
 ###### Article R333-1
 
-Les règles relatives aux effets de la saisine de la commission de surendettement sur les demandes de remise gracieuse ou de
-dispense de paiement que peuvent accorder les autorités chargées du recouvrement des impôts sont fixées par les articles R*.
-247 A-1 et R*. 247-18 du livre des procédures fiscales ci-dessous reproduits : 
+La commission se prononce sur l'orientation du dossier par une décision motivée qui indique si le débiteur peut bénéficier
+des mesures de traitement prévues au deuxième alinéa de l'article L. 330-1 ou s'il se trouve dans la situation définie au
+troisième alinéa du même article. 
 
-" Art. R*. 247 A-1-La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation
-vaut demande de remise gracieuse d'impôts directs dès lors que cette saisine satisfait aux conditions prévues à l'article R.
-331-7-3 du même code ". 
+Cette décision est notifiée au débiteur et aux créanciers par lettre recommandée avec demande d'avis de réception. La lettre
+indique que la décision peut faire l'objet d'un recours, dans un délai de quinze jours à compter de sa notification, par
+déclaration remise ou adressée par lettre recommandée avec demande d'avis de réception au secrétariat de la commission. Elle
+précise que cette déclaration indique les nom, prénoms et adresse de son auteur, la décision attaquée ainsi que les motifs du
+recours, et est signée par ce dernier. 
 
-" Art. R*. 247-18-La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation
-par des tiers tenus au paiement de l'impôt vaut demande de dispense de paiement au sens de l'article R. 247-10 dès lors que
-cette saisine satisfait aux conditions prévues à l'article R. 331-7-3 du code de la consommation ".
+Lorsque la commission est destinataire d'un recours, son secrétariat le transmet, avec le dossier, au greffe du juge de
+l'exécution.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°95-660 du 9 mai 1995 - art. 32 (Ab)
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2005-331 du 6 avril 2005 - art. 2 () JORF 8 avril 2005
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 5
 
 _Cite_:
 
-  - Code de la consommation - art. L331-1 (V)
-  - Code de la consommation - art. R331-7-3 (V)
+  - Code de la consommation - art. L330-1
 
 
-#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=289></a>
+###### Article R333-2
 
-##### Section 1 : Dispositions applicables à Mayotte.<a id=290></a>
+Si au terme du délai de trois mois prévu au deuxième alinéa de l'article L. 331-3 la commission n'a pas décidé de
+l'orientation du dossier, son secrétariat délivre au débiteur, par lettre simple, un document en attestant et précisant la
+date à compter de laquelle le taux d'intérêt des emprunts en cours contractés par le débiteur est réduit au taux de l'intérêt
+légal, sauf si la commission ou le juge en décide autrement. 
+
+Dans ce dernier cas, cette décision vaut pour toute la période s'étendant du premier jour du quatrième mois au dernier jour
+du sixième mois, le point de départ du délai de trois mois mentionné à cet article étant déterminé dans les conditions
+prévues au dernier alinéa de l'article R. 331-8-1. Elle est adressée au débiteur par lettre simple.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 5
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-3
+  - Code de la consommation - art. R331-8-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R724-2 (V)
+
+
+###### Article R333-3
+
+Le débiteur saisit la commission en application de l'article L. 331-7-3 par lettre simple signée par lui et remise ou
+adressée au secrétariat de la commission. Cette lettre indique ses nom, prénoms et adresse, mentionne sa situation familiale,
+comporte un état détaillé de ses revenus et des éléments actifs et passifs de son patrimoine. Elle expose les circonstances
+dans lesquelles la situation du débiteur est devenue irrémédiablement compromise. 
+
+La commission se prononce sur la demande du débiteur par une décision motivée qui indique si celui-ci est de bonne foi et en
+situation irrémédiablement compromise. Sa décision est notifiée au débiteur et aux créanciers par lettre recommandée avec
+demande d'avis de réception. Cette lettre indique que la décision peut faire l'objet d'un recours, dans un délai de quinze
+jours à compter de sa notification, par déclaration remise ou adressée par lettre recommandée avec demande d'avis de
+réception au secrétariat de la commission. Elle précise que cette déclaration indique les nom, prénoms et adresse de son
+auteur, la décision attaquée ainsi que les motifs du recours, et est signée par ce dernier. 
+
+Si la commission fait droit à la demande du débiteur, cette lettre indique que la recommandation aux fins de rétablissement
+personnel sans liquidation judiciaire ou la saisine du juge de l'exécution aux fins d'ouverture d'une procédure de
+rétablissement personnel avec liquidation judiciaire emportent suspension et interdiction des procédures d'exécution
+diligentées à l'encontre des biens du débiteur ainsi que des cessions de rémunération qu'il a consenties et portant sur les
+dettes autres qu'alimentaires. Elle précise que cette suspension et cette interdiction sont acquises jusqu'à l'homologation
+par le juge de la recommandation ou jusqu'au jugement d'ouverture de la procédure de rétablissement personnel avec
+liquidation judiciaire, sans pouvoir excéder un an. La recommandation aux fins de rétablissement personnel sans liquidation
+judiciaire ou la saisine du juge de l'exécution aux fins d'ouverture d'une procédure de rétablissement personnel avec
+liquidation judiciaire est notifiée par lettre recommandée avec demande d'avis de réception, ou remise contre récépissé, aux
+agents chargés de l'exécution et, le cas échéant, au greffier en chef du tribunal d'instance en charge de la procédure de
+saisie des rémunérations ou de la cession des rémunérations, qui en informe le tiers saisi ou le cessionnaire. 
+
+Si la commission recommande un rétablissement personnel sans liquidation judiciaire, l'article R. 334-19 est applicable. 
+
+Si la commission décide de saisir le juge aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation
+judiciaire, l'article R. 334-30 est applicable. 
+
+La suspension des mesures d'expulsion du logement du débiteur est demandée par la commission au juge de l'exécution et
+traitée dans les conditions prévues par l'article R. 331-12. 
+
+Si la commission ne fait pas droit à la demande, elle informe le débiteur que le plan conventionnel ou les mesures imposées
+ou recommandées en cours se poursuivent.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 5
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7-3
+
+
+#### Chapitre IV : Les mesures de traitement<a id=289></a>
+
+##### Section 1 : Dispositions communes<a id=290></a>
 
 ###### Article R334-1
 
-I.-L'article R. 331-2, à l'exclusion de la quatrième phrase, les articles R. 331-3 à R. 331-5, R. 331-6-1, R. 331-7 à R.
-332-37, à l'exclusion de la seconde phrase de l'article R. 332-26, de la dernière phrase de l'article R. 332-27, de la
-dernière phrase de l'article R. 332-29, et l'article R. 333-5 sont applicables à Mayotte, sous réserve des adaptations
-prévues au II. 
+Pour l'application des articles L. 331-6, L. 331-7 et L. 331-7-1, la part des ressources mensuelles du débiteur à affecter à
+l'apurement de ses dettes est calculée, dans les conditions prévues à l'article L. 331-2, par référence au barème prévu à
+l'article R. 3252-2 du code du travail. Toutefois, cette somme ne peut excéder la différence entre le montant des ressources
+mensuelles réelles de l'intéressé et le montant forfaitaire du revenu de solidarité active mentionné au 2° de l'article L.
+262-2 du code de l'action sociale et des familles applicable au foyer du débiteur. 
 
-II.-1° A l'article R. 331-2, les mots : " dans chaque commission " sont supprimés. 
+La part de ressources réservée par priorité au débiteur est déterminée au regard de l'ensemble des dépenses courantes du
+ménage, qui intègre les dépenses mentionnées à l'article L. 331-2. 
 
-2° A l'article R. 331-3, les mots : " ces commissions " sont remplacés par les mots : " cette commission ". 
+Le montant des dépenses courantes du ménage est apprécié par la commission soit pour leur montant réel sur la base des
+éléments déclarés par le débiteur, soit en fonction du barème fixé par son règlement intérieur et prenant en compte la
+composition de la famille. Le règlement intérieur précise à quelles conditions et selon quelles modalités les dépenses sont
+prises en compte pour leur montant réel ou selon le barème. 
 
-3° A l'article R. 331-4 : 
-
-a) Les mots : " pour chaque commission " sont supprimés ; 
-
-b) Après le mot : " liste ", le mot : " départemental " est supprimé ; 
-
-c) Les mots : " siégeant au comité départemental de la consommation défini à l'article R. 512-1 " sont remplacés par les
-mots : " locales ou, à défaut, désignés en raison de leur compétence en matière de consommation ou d'action familiale ". 
-
-4° A l'article R. 331-6-1 : 
-
-a) La référence à l'article : " L. 331-1 " est remplacée par une référence à l'article : " L. 334-1 " ; 
-
-b) Les mots : " du département " sont remplacés par les mots : " de Mayotte ou " ; 
-
-c) Les mots : " ou de la caisse de mutualité sociale agricole " sont supprimés. 
-
-5° A l'article R. 331-9, les mots : " dans le département où siège la commission saisie " sont remplacés par les mots : " à
-Mayotte ". 
-
-6° A l'article R. 331-15-1, les mots : " forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et des
-familles fixé pour un foyer composé d'une seule personne " sont remplacés par les mots : " fixé par le préfet ". 
-
-7° A l'article R. 332-15, les mots : " le numéro du département de " sont remplacés par les mots : " la collectivité où il
-réside ". 
-
-8° A l'article R. 332-30, les mots : " ou de l'ordonnance d'exécution forcée inscrite au livre foncier dans les départements
-du Bas-Rhin, du Haut-Rhin et de la Moselle " sont supprimés. 
-
-9° a) Les références aux dispositions du code du travail sont remplacées par les références aux dispositions applicables
-localement ayant le même objet. 
-
-b) Les mots : " juge de l'exécution " sont remplacés par les mots : 
-
-" président du tribunal de première instance ou les juges délégués par lui ". 
-
-c) Les mots : " cour d'appel " sont remplacés par les mots : 
-
-" tribunal supérieur d'appel ". 
-
-d) Les mots : " procureur de la République " sont remplacés par les mots : " procureur de la République près le tribunal de
-première instance ".
+Lorsque la commission prend en compte des dépenses courantes du ménage pour leur montant réel, elle peut demander au débiteur
+d'en fournir des justificatifs. Si le débiteur ne les fournit pas, les dépenses concernées sont appréciées selon le barème
+susvisé
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2009-716 du 18 juin 2009 - art. 6
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
 
 _Cite_:
 
-  - Code de la consommation - art. R331-3 (V)
-  - Code de la consommation - art. R332-27 (V)
-  - Code de la consommation - art. R332-29 (V)
-  - Code de la consommation - art. R332-37 (V)
-  - Code de la consommation - art. R333-5 (V)
+  - Code de la consommation - art. L331-2 (V)
+  - Code de la consommation - art. L331-7 (V)
+  - Code de la consommation - art. L331-7-1 (V)
+  - Code du travail - art. R3252-2 (V)
+  - Code de l'action sociale et des familles - art. L262-2 (V)
+  - Code de l'action sociale et des familles - art. L331-6
 
 _Cité par_:
 
@@ -32165,85 +32483,14 @@ _Cité par_:
   - Code de la consommation - art. R336-4 (VD)
 
 
-##### Section 2 : Dispositions applicables en Nouvelle-Calédonie.<a id=291></a>
+##### Section 2 : Le plan conventionnel<a id=291></a>
 
 ###### Article R334-2
 
-I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, l'article R. 331-2, à l'exclusion de
-la quatrième phrase, les articles R. 331-4 à R. 331-12, R. 331-15-1 à R. 331-21, R. 332-2, R. 332-3, à l'exclusion du premier
-alinéa, le premier alinéa de l'article R. 332-7, le premier alinéa de l'article R. 332-2-8-1, l'article R. 332-10, le
-deuxième alinéa de l'article R. 332-12, les articles R. 332-13 à R. 332-17, l'article R. 332-18, à l'exclusion du dernier
-alinéa, le I, à l'exclusion de la dernière phrase, et le II de l'article R. 332-19, l'article R. 332-20 à l'exclusion du
-dernier alinéa, les articles R. 332-23 à R. 332-25, R. 332-32 à R. 332-36, à l'exclusion de la dernière phrase de l'article
-R. 332-25. 
+Le plan conventionnel de redressement est signé et daté par les parties ; une copie leur en est adressée par lettre simple. 
 
-II.-1° A l'article R. 331-2, les mots : " dans chaque commission " sont supprimés. 
-
-2° A l'article R. 331-4 : 
-
-a) Les mots : " pour chaque commission " sont supprimés ; 
-
-b) Après le mot : " liste ", le mot : " départementale " est supprimé ; 
-
-c) Les mots : " siégeant au comité départemental de la consommation défini à l'article R. 512-1 " sont remplacés par les
-mots : " locales ou, à défaut, désignés en raison de leur compétence en matière de consommation ou d'action familiale ". 
-
-3° A l'article R. 331-6-1 : 
-
-a) La référence à l'article : " L. 331-1 " est remplacée par une référence à l'article : " L. 334-4 " ; 
-
-b) Les mots : " du département, de la caisse d'allocations familiales ou de la caisse de mutualité sociale agricole " sont
-remplacés par les mots : " de Nouvelle-Calédonie ou de la caisse de compensation des prestations familiales, des accidents du
-travail et de prévoyance des travailleurs de Nouvelle-Calédonie ". 
-
-4° Au III de l'article R. 331-7-2, les mots : " la Poste " sont remplacés par les mots : " l'office des postes et
-télécommunications de Nouvelle-Calédonie ". 
-
-5° A l'article R. 331-9 : 
-
-a) Les mots : " dans le département où siège la commission saisie " sont remplacés par les mots : " en Nouvelle-Calédonie
-" ; 
-
-b) Les mots : " par ordonnance " sont supprimés. 
-
-6° A l'article R. 331-15-1, les mots : "     forfaitaire mentionné au 2° de l'article L. 262-2 du code de l'action sociale et
-des familles fixé pour un foyer composé d'une seule personne " sont remplacés par les mots : " fixé par le représentant de
-l'Etat ". 
-
-7° A l'article R. 332-12, les mots : " par lettre simple " sont supprimés. 
-
-8° A l'article R. 332-13 : 
-
-a) Au II, les mots : " par lettre simple " sont supprimés ; 
-
-b) Au III, les mots : " ordonnance du " sont remplacés par les mots : " par le ". 
-
-9° A l'article R. 332-15, les mots : " le numéro du département de " sont remplacés par les mots : " la collectivité où il
-réside ". 
-
-10° A l'article R. 332-23, les mots : " parmi les personnes figurant sur la liste établie par le procureur de la République
-en application du I de l'article R. 332-13 " sont supprimés. 
-
-11° A l'article R. 332-23 : 
-
-a) Au I, les mots : " ordonnance du " sont remplacés par le mot : 
-
-" le " ; 
-
-b) Au III, les mots : " par lettre simple " sont supprimés. 
-
-12° Les délais prévus aux articles R. 331-7-1, R. 331-8, R. 331-10 et R. 331-19-1 sont fixés par les autorités locales
-compétentes. 
-
-13° a) Les références au code du travail, au code de procédure civile, à l'article L. 621-32 du code de commerce, au décret
-n° 85-1388 du 27 décembre 1985 et au décret n° 92-755 du 31 juillet 1992 sont remplacées par les références aux dispositions
-applicables localement ayant le même objet. 
-
-b) Les mots : " juge de l'exécution " sont remplacés par les mots : 
-
-" président du tribunal de première instance ou les juges délégués par lui ". 
-
-c) Le mot : " préfet " est remplacé par les mots : " représentant de l'Etat ".
+Il entre en application à la date fixée par la commission ou au plus tard le dernier jour du mois suivant la date du courrier
+par lequel la commission informe les parties de l'approbation de ce plan.
 
 **Liens relatifs à cet article**
 
@@ -32256,10 +32503,2687 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2009-716 du 18 juin 2009 - art. 6
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R732-1 (V)
 
 
-### Titre IV : Dispositions diverses.<a id=292></a>
+###### Article R334-3
+
+Le plan conventionnel de redressement mentionne qu'il est de plein droit caduc quinze jours après une mise en demeure restée
+infructueuse, adressée au débiteur d'avoir à exécuter ses obligations, sans préjudice de l'exercice des facultés prévues aux
+articles R. 331-10, R. 331-11-1, R. 331-11-2 et R. 331-12.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. R331-10 (Ab)
+  - Code de la consommation - art. R331-11-1 (Ab)
+  - Code de la consommation - art. R331-12 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R732-2 (M)
+
+
+##### Section 3 : Les mesures de traitement ordinaires<a id=292></a>
+
+##### Paragraphe 1 : Les mesures imposées ou recommandées<a id=293></a>
+
+###### Article R334-4
+
+Lorsque la commission constate qu'il est impossible de recueillir l'accord des intéressés sur un plan conventionnel, elle le
+notifie au débiteur par lettre recommandée avec demande d'avis de réception et aux créanciers par lettre simple. 
+
+Ces lettres mentionnent que le débiteur peut, dans un délai de quinze jours à compter de la notification visée à l'alinéa
+précédent, saisir la commission aux fins de voir imposer les mesures prévues à l'article L. 331-7 ou recommander les mesures
+prévues aux articles L. 331-7-1 et L. 331-7-2 dont elles reproduisent les dispositions. 
+
+Ces lettres rappellent que la suspension et l'interdiction des procédures d'exécution diligentées à l'encontre des biens du
+débiteur et des cessions de rémunération qu'il a consenties et portant sur des dettes autres qu'alimentaires, ainsi que la
+suspension des mesures d'expulsion se poursuivent soit jusqu'à l'expiration du délai mentionné à l'alinéa précédent, soit, si
+le débiteur use de la faculté prévue à ce même alinéa, jusqu'à la décision imposant les mesures prévues par l'article L.
+331-7 ou jusqu'à l'homologation par le juge des mesures recommandées en application des articles L. 331-7-1 et L. 331-7-2,
+sans pouvoir excéder un an.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-10 (Ab)
+
+
+###### Article R334-5
+
+La demande du débiteur est faite par une déclaration signée par lui et remise ou adressée par lettre simple au secrétariat de
+la commission, où elle est enregistrée. 
+
+La commission avertit les créanciers de la demande par lettre recommandée avec demande d'avis de réception en leur indiquant
+qu'ils bénéficient d'un délai de quinze jours pour présenter leurs observations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-10 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R733-2 (V)
+  - Code de la consommation - art. R733-3 (V)
+
+
+###### Article R334-6
+
+Trente jours avant le terme du moratoire prévu au 4° de l'article L. 331-7, la commission avertit les créanciers et le
+débiteur par lettre recommandée avec demande d'avis de réception du réexamen de la situation de ce dernier à l'issue du
+moratoire. 
+
+Cette lettre reproduit les dispositions des articles L. 331-7, L. 331-7-1 et L. 331-7-2 et précise que le débiteur dispose
+d'un délai de trente jours pour informer la commission de l'état de son patrimoine et de toute évolution de sa situation
+personnelle. La lettre précise, en outre, qu'à défaut d'accomplir cette diligence dans le délai imparti la commission rendra
+son avis en l'état des informations dont elle disposera.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7
+
+
+###### Article R334-7
+
+Dans les deux mois, selon le cas, de sa saisine ou de l'expiration du délai prévu à l'article R. 334-6, la commission
+notifie, par lettre recommandée avec demande d'avis de réception, au débiteur et aux créanciers les mesures qu'elle entend
+imposer en application de l'article L. 331-7 ou qu'elle recommande en application des articles L. 331-7-1 et L. 331-7-2. 
+
+En cas d'application du 3° de l'article L. 331-7 ou de l'article L. 331-7-1, cette lettre énonce les éléments qui motivent
+spécialement sa décision. 
+
+Elle mentionne également les dispositions du dixième alinéa de l'article L. 331-7, du premier alinéa de l'article L. 332-1
+ainsi que celles du premier alinéa de l'article L. 332-2 ; elle indique, selon les cas, que la contestation à l'encontre des
+mesures que la commission entend imposer est formée par déclaration remise ou adressée par lettre recommandée avec demande
+d'avis de réception à son secrétariat et que la contestation à l'encontre des mesures recommandées est formée par déclaration
+remise ou adressée par lettre recommandée avec demande d'avis de réception au greffe du juge de l'exécution ; elle précise
+que ces déclarations indiquent les nom, prénoms et adresse de leur auteur, les mesures contestées ainsi que les motifs de la
+contestation, et sont signées par ce dernier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7
+  - Code de la consommation - art. L332-1
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-6 (Ab)
+
+
+###### Article R334-8
+
+A défaut de contestation formée dans le délai prévu au premier alinéa de l'article L. 332-2, la commission informe par lettre
+simple le débiteur et les créanciers que les mesures prévues à l'article L. 331-7 s'imposent. Lorsque les mesures prévues à
+l'article L. 331-7 sont combinées avec tout ou partie de celles prévues par les articles L. 331-7-1 et L. 331-7-2, la
+commission précise que l'ensemble de ces mesures n'est exécutoire qu'à compter de l'homologation de ces dernières par le
+juge.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L332-2
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-6 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R733-8 (V)
+
+
+###### Article R334-9
+
+Lorsque la commission est destinataire d'une contestation des mesures prévues à l'article L. 331-7, son secrétariat la
+transmet, avec le dossier, au greffe du juge de l'exécution.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7
+
+
+###### Article R334-10
+
+Lorsque la situation de surendettement du débiteur est traitée en tout ou partie au moyen des mesures prévues aux articles L.
+331-7-1 et L. 331-7-2, la commission transmet au juge de l'exécution les mesures qu'elle recommande afin qu'il leur soit
+conféré force exécutoire. Cette transmission est accompagnée des courriers mentionnés aux articles R. 334-4, R. 334-5 et R.
+334-6 et de la déclaration prévue au premier alinéa de l'article R. 334-5.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. R334-4
+
+
+###### Article R334-11
+
+S'il n'a pas été saisi d'une contestation dans le délai prévu au premier alinéa de l'article L. 332-2, le juge se prononce
+par ordonnance. 
+
+Il vérifie, au vu des pièces transmises par la commission, que les mesures recommandées sont conformes aux dispositions des
+articles L. 331-7-1 et L. 331-7-2 et qu'elles ont été formulées dans le respect de la procédure prévue aux articles R. 334-4
+à R. 334-7. Il s'assure en outre du bien-fondé des mesures recommandées en application du 2° de l'article L. 331-7-1. 
+
+Il ne peut ni les compléter ni les modifier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L331-7-2
+  - Code de la consommation - art. L332-2
+  - Code de la consommation - art. R334-4 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R733-11 (VT)
+
+
+###### Article R334-12
+
+Lorsque le juge de l'exécution confère force exécutoire aux mesures recommandées, celles-ci sont annexées à la décision. 
+
+Le greffe établit autant de copies exécutoires de l'ordonnance qui homologue les mesures recommandées qu'il y a de parties et
+les envoie à la commission avec les pièces transmises. La commission adresse à chacune des parties une copie exécutoire de
+l'ordonnance par lettre recommandée avec demande d'avis de réception. 
+
+En cas d'illégalité des mesures recommandées ou d'irrégularité de la procédure ou lorsque les mesures recommandées en
+application du 2° de l'article L. 331-7-1 sont infondées, le greffe adresse copie de l'ordonnance du juge à la commission et
+lui renvoie les pièces ; il en informe les parties par lettre simple.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7-1
+
+
+###### Article R334-13
+
+S'il a été saisi d'une contestation des mesures prévues aux articles L. 331-7-1 ou L. 331-7-2, le greffe du juge de
+l'exécution en informe la commission, qui lui transmet le dossier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7-1
+
+
+##### Paragraphe 2 : La contestation des mesures de traitement ordinaires<a id=294></a>
+
+###### Article R334-14
+
+Le jugement qui, en application du deuxième alinéa de l'article L. 332-2, ordonne par provision l'exécution d'une ou
+plusieurs des mesures prévues aux articles L. 331-7, L. 331-7-1 et L. 331-7-2 n'est pas susceptible d'appel indépendamment du
+jugement statuant sur la contestation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7
+  - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L332-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R733-14 (V)
+
+
+###### Article R334-15
+
+L'appel aux créanciers prévu au troisième alinéa de l'article L. 332-2 est publié par le greffe du juge de l'exécution selon
+les formes prévues à l'article R. 332-1.
+
+A défaut d'accord entre les parties, le juge de l'exécution désigne, par une ordonnance, la ou les parties qui en
+supporteront les frais.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L332-2
+
+
+###### Article R334-16
+
+Le greffe convoque chacune des parties par lettre recommandée avec demande d'avis de réception quinze jours au moins avant la
+date de l'audience de contestation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R733-16 (V)
+
+
+###### Article R334-17
+
+Le jugement par lequel le juge se prononce sur la contestation est susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-18 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R733-17 (V)
+
+
+###### Article R334-18
+
+En cas d'effacement d'une créance correspondant au montant d'un chèque impayé et valant régularisation de l'incident de
+paiement en application de l'article L. 332-4, l'établissement teneur de compte avise la Banque de France de cette
+régularisation au plus tard le deuxième jour ouvré suivant la remise par le débiteur d'une attestation précisant que
+l'incident de paiement est régularisé par suite de l'effacement total de la créance correspondante. 
+
+Lorsque la mesure d'effacement a été prise en application de l'article L. 332-1, l'attestation est établie par la commission,
+qui l'adresse au débiteur lors de l'envoi de la copie exécutoire de l'ordonnance prévu au troisième alinéa de l'article R.
+334-12. 
+
+Lorsque cette mesure a été prise en application de l'article L. 332-2, l'attestation est établie et adressée au débiteur par
+le greffe lors de l'envoi du jugement prévu à l'article R. 334-17.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-1
+  - Code de la consommation - art. L332-2
+  - Code de la consommation - art. L332-4
+  - Code de la consommation - art. R334-12 (Ab)
+  - Code de la consommation - art. R334-17 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R733-18 (V)
+
+_Cité par_:
+
+  - Code monétaire et financier - art. R131-21-1 (M)
+
+
+##### Section 4 : Les procédures de rétablissement personnel<a id=295></a>
+
+##### Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire<a id=296></a>
+
+##### Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire<a id=297></a>
+
+###### Article R334-19
+
+La recommandation de la commission aux fins de rétablissement personnel sans liquidation judiciaire est notifiée aux parties
+par lettre recommandée avec demande d'avis de réception. Cette lettre mentionne les dispositions du premier alinéa de
+l'article L. 332-5-1 ; elle indique que la recommandation peut être contestée par déclaration remise ou adressée par lettre
+recommandée avec demande d'avis de réception au greffe du juge de l'exécution ; elle précise que cette déclaration indique
+les nom, prénoms et adresse de son auteur, la recommandation contestée ainsi que les motifs de la contestation, et est signée
+par ce dernier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L332-5-1
+
+_Cité par_:
+
+  - Code de la consommation - art. R333-3 (Ab)
+
+
+###### Article R334-20
+
+La commission transmet la recommandation, accompagnée du dossier, au juge de l'exécution afin qu'il lui soit conféré force
+exécutoire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-21
+
+Le juge de l'exécution vérifie que la recommandation a été formulée dans le respect de la procédure. Il s'assure en outre de
+son bien-fondé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-22
+
+S'il n'a pas été saisi d'une contestation dans le délai prévu au premier alinéa de l'article L. 332-5-1, le juge se prononce
+par ordonnance. 
+
+Lorsqu'il confère force exécutoire à la recommandation, celle-ci est annexée à la décision, laquelle rappelle les
+dispositions du deuxième alinéa de l'article L. 332-5. 
+
+Le greffe établit autant de copies exécutoires de l'ordonnance qu'il y a de parties et les envoie à la commission avec les
+pièces transmises. La commission adresse à chacune des parties une copie exécutoire de l'ordonnance par lettre recommandée
+avec demande d'avis de réception. 
+
+En cas d'irrégularité de la procédure ou lorsque la recommandation est infondée, le greffe adresse copie de l'ordonnance du
+juge à la commission et lui renvoie le dossier ; il en informe les parties par lettre simple.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-5
+  - Code de la consommation - art. L332-5-1
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-76 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R741-5 (V)
+  - Code de la consommation - art. R741-6 (VT)
+  - Code de la consommation - art. R741-7 (VT)
+  - Code de la consommation - art. R741-8 (VT)
+
+
+###### Article R334-23
+
+Sans préjudice de la notification de l'ordonnance conférant force exécutoire à la recommandation, un avis de celle-ci est
+adressé pour publication au Bulletin officiel des annonces civiles et commerciales par le greffe du juge de l'exécution.
+Cette publication comporte les nom et prénoms du débiteur, sa date de naissance, le numéro du département de sa résidence, la
+date de l'ordonnance et l'indication du tribunal qui l'a rendue. Elle est effectuée dans un délai de quinze jours à compter
+de la date de l'ordonnance. 
+
+Ces avis adressés au Bulletin officiel des annonces civiles et commerciales sont établis conformément à un modèle fixé par
+arrêté du garde des sceaux, ministre de la justice. 
+
+Les avis d'ordonnance portant homologation d'une recommandation aux fins de rétablissement personnel sans liquidation
+judiciaire sont accessibles sous forme numérique sur le réseau internet au moyen d'un supplément du Bulletin officiel des
+annonces civiles et commerciales accessible sur ce réseau. 
+
+Cette diffusion numérique est soumise à la 
+loi n° 78-17 du 6 janvier 1978
+relative à l'informatique, aux fichiers et aux libertés. 
+
+Les frais de publicité sont avancés par l'Etat au titre des frais de justice, sans préjudice de la possibilité pour le juge
+de les mettre à la charge du débiteur au moyen d'une contribution dont il fixe le montant et les modalités de versement en
+tenant compte des ressources de l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-27 (Ab)
+  - Code de la consommation - art. R334-27-3 (Ab)
+  - Code de la consommation - art. R334-72 (Ab)
+  - Code de la consommation - art. R336-1 (Ab)
+  - Code de la consommation - art. R336-4 (Ab)
+  - Code de la consommation - art. R336-6 (Ab)
+
+
+##### Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire<a id=298></a>
+
+###### Article R334-24
+
+L'appel aux créanciers prévu au deuxième alinéa de l'article L. 332-5-1 est publié par le greffe du juge de l'exécution selon
+les formes prévues à l'article R. 332-1.
+
+A défaut d'accord entre les parties, le juge de l'exécution désigne, par ordonnance, la ou les parties qui en supporteront
+les frais.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L332-5-1
+  - Code de la consommation - art. R332-1
+
+
+###### Article R334-25
+
+Le greffe convoque chacune des parties par lettre recommandée avec demande d'avis de réception quinze jours au moins avant la
+date de l'audience de contestation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R741-11 (V)
+
+
+###### Article R334-26
+
+Le jugement par lequel le juge se prononce sur la contestation est susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-76 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R741-12 (V)
+
+
+###### Article R334-27
+
+Lorsque le juge prononce un rétablissement personnel sans liquidation judiciaire, sans préjudice de la notification du
+jugement aux parties, un avis de celui-ci est adressé pour publication au Bulletin officiel des annonces civiles et
+commerciales par le greffe. Cette publication est effectuée selon les mêmes modalités que celles prévues à l'article R.
+334-23.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. R334-23
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R741-13 (V)
+
+
+##### Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire<a id=299></a>
+
+##### Paragraphe 1 : L'ouverture de la procédure<a id=300></a>
+
+###### Article R334-28
+
+L'accord du débiteur mentionné au III de l'article L. 331-3 est donné par écrit sur un formulaire remis à l'intéressé par le
+secrétariat de la commission. 
+
+Ce formulaire informe le débiteur que la procédure de rétablissement personnel est susceptible d'entraîner une décision de
+liquidation et porte à sa connaissance les dispositions de l'article L. 332-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-3
+  - Code de la consommation - art. L332-8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-1 (V)
+
+
+###### Article R334-29
+
+Dans les cas prévus au sixième alinéa de l'article L. 330-1 et au quatrième alinéa de l'article L. 332-5-1, l'accord du
+débiteur peut être donné verbalement. Il en est pris note par le greffe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L330-1
+  - Code de la consommation - art. L332-5-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-2 (V)
+
+
+###### Article R334-30
+
+La commission informe les parties de la saisine du juge aux fins d'ouverture de la procédure de rétablissement personnel avec
+liquidation judiciaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R333-3 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-3 (V)
+
+
+###### Article R334-31
+
+Le débiteur et les créanciers sont convoqués à l'audience d'ouverture de la procédure de rétablissement personnel avec
+liquidation judiciaire par lettre recommandée avec demande d'avis de réception doublée d'une lettre simple au débiteur, un
+mois au moins avant la date de l'audience. 
+
+S'il l'estime nécessaire, le juge peut inviter à se présenter à l'audience le service chargé d'une mesure d'aide ou d'action
+sociale mentionné par le débiteur dans son dossier de dépôt ou, à défaut, un travailleur social choisi sur une liste établie
+par le préfet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-4 (V)
+
+
+###### Article R334-32
+
+I.-La liste prévue au troisième alinéa de l'article L. 332-6 est établie par le procureur de la République. 
+
+Elle comprend des mandataires judiciaires, des huissiers de justice, des personnes morales mandataires judiciaires à la
+protection des majeurs, des associations familiales ou de consommateurs. 
+
+Ne peuvent être désignés comme mandataires les huissiers de justice ayant antérieurement procédé à des poursuites à
+l'encontre du débiteur. 
+
+II.-Lorsqu'un mandataire a été désigné, une copie du jugement lui est adressée par le greffe par lettre simple. 
+
+III.-Si le mandataire refuse la mission ou s'il existe un empêchement légitime, il est pourvu à son remplacement par
+ordonnance du juge de l'exécution. Le juge peut également, à la demande des parties ou d'office, remplacer, par ordonnance,
+le mandataire qui manquerait à ses devoirs, après avoir provoqué ses explications. 
+
+IV.-Le mandataire est rémunéré selon un tarif fixé par arrêté du garde des sceaux, ministre de la justice. 
+
+Lorsque existe un actif réalisable, la rémunération du mandataire, déterminée selon l'arrêté prévu à l'alinéa précédent, est
+prélevée sur le produit de la vente de cet actif. 
+
+En cas d'insuffisance du produit de la vente, le paiement de cette rémunération peut être mis à la charge du débiteur au
+moyen d'une contribution dont le juge fixe le montant et les modalités de versement en tenant compte des ressources de
+l'intéressé.
+
+A défaut d'actif réalisable ou de ressources du débiteur, la rémunération du mandataire incombe au Trésor. 
+
+Le coût du bilan économique et social de la situation du débiteur, fixé par cet arrêté, est avancé par l'Etat au titre des
+frais de justice.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L332-6
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-41 (V)
+
+
+###### Article R334-33
+
+Le dispositif du jugement d'ouverture indique l'adresse à laquelle doit être présentée la déclaration de créances et le délai
+dans lequel cette déclaration doit être réalisée. 
+
+Il constate, le cas échéant d'office, que les demandes antérieurement formulées devant le juge de l'exécution et concernant
+le même débiteur ont perdu leur objet. 
+
+Il rappelle les dispositions du deuxième alinéa de l'article L. 332-6.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L332-6
+
+
+###### Article R334-34
+
+Sans préjudice de la notification du jugement d'ouverture aux parties, un avis de ce jugement est adressé, pour publication
+au Bulletin officiel des annonces civiles et commerciales, par le mandataire ou, à défaut de mandataire, par le greffe. Cette
+publication est effectuée selon les mêmes modalités que celles prévues à l'article R. 334-23. Elle s'effectue dans un délai
+de quinze jours à compter de la réception du jugement par le mandataire ou, en l'absence de mandataire, à compter du
+jugement. 
+
+Les frais de publicité sont avancés par l'Etat au titre des frais de justice. Ils peuvent être récupérés sur le produit de la
+vente dans les conditions prévues à l'article R. 334-61 et, à défaut de vente ou en cas d'insuffisance de son produit, au
+moyen de la contribution mentionnée au dernier alinéa de l'article R. 334-23.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. R334-23 (Ab)
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-36 (Ab)
+  - Code de la consommation - art. R334-38 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-9 (V)
+
+
+###### Article R334-35
+
+Le juge saisi par le débiteur d'une demande tendant à l'autoriser à aliéner ses biens en application de l'article L. 332-7
+statue par ordonnance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-7
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-10 (V)
+
+
+##### Paragraphe 2 :  La déclaration et l'arrêté des créances<a id=301></a>
+
+###### Article R334-36
+
+Dans un délai de deux mois à compter de la publicité du jugement d'ouverture faite dans les conditions prévues à l'article R.
+334-34, les créanciers déclarent leurs créances au mandataire ou, à défaut de mandataire, au greffe du juge de l'exécution,
+par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. R334-34
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-38 (V)
+
+
+###### Article R334-37
+
+A peine d'irrecevabilité, la déclaration de créances doit comporter le montant en principal, intérêts, accessoires et frais
+de la créance au jour de sa déclaration, l'origine de la créance, la nature du privilège ou de la sûreté dont elle est
+éventuellement assortie. 
+
+La déclaration mentionne également les procédures d'exécution en cours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-38 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-12 (V)
+  - Code de la consommation - art. R761-1 (V)
+
+
+###### Article R334-38
+
+A défaut de déclaration dans le délai mentionné à l'article R. 334-36, les créanciers peuvent saisir le juge de l'exécution
+d'une demande de relevé de forclusion dans le délai de six mois à compter de la publicité du jugement d'ouverture faite dans
+les conditions prévues à l'article R. 334-34. La lettre de saisine comporte les mentions prévues à l'article R. 334-37. 
+
+La lettre de saisine indique également les circonstances de fait extérieures à la volonté du créancier de nature à justifier
+son défaut de déclaration. Le juge se prononce sur la demande de relevé de forclusion au vu de ces circonstances. Toutefois,
+s'il apparaît que la créance avait été omise par le débiteur lors du dépôt de la demande mentionnée à l'article R. 331-8-1 ou
+que le créancier, pourtant connu, n'avait pas été convoqué à l'audience d'ouverture, le relevé de forclusion est de droit. 
+
+Dans tous les cas, le juge statue par ordonnance, dont copie est adressée au mandataire par lettre simple.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. R331-8-1
+  - Code de la consommation - art. R334-36
+
+
+###### Article R334-39
+
+I.-Lorsque les créances ont été déclarées entre les mains du mandataire, celui-ci dresse, dans le délai de six mois à compter
+de la publicité du jugement d'ouverture, le bilan économique et social du débiteur. 
+
+Ce bilan comprend un état des créances et, le cas échéant, une proposition de plan comportant les mesures mentionnées aux
+articles L. 331-7, L. 331-7-1 et L. 331-7-2. 
+
+Il est adressé au débiteur et aux créanciers par lettre recommandée avec demande d'avis de réception et adressé par lettre
+simple ou remis au greffe du juge de l'exécution.A sa réception, le greffe convoque le débiteur et les créanciers pour qu'il
+soit statué selon les modalités prévues à l'article R. 334-40. 
+
+II.-Lorsque les créances ont été déclarées au greffe du juge de l'exécution, le greffe dresse un état des créances ainsi
+déclarées. Il notifie cet état au débiteur et aux créanciers et leur adresse dans le même temps la convocation pour qu'il
+soit statué selon les modalités prévues à l'article R. 334-40. 
+
+III.-A peine d'irrecevabilité, le débiteur et les créanciers adressent au greffe, par lettre recommandée avec demande d'avis
+de réception, quinze jours avant l'audience, leurs éventuelles contestations portant sur l'état des créances dont ils ont été
+destinataires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L331-7
+
+
+###### Article R334-40
+
+Le juge arrête les créances en se prononçant sur les éventuelles contestations dont il a été saisi en application du III de
+l'article R. 334-39. Il prononce la liquidation ou la clôture pour insuffisance d'actif. Il peut établir le plan prévu à
+l'article L. 332-10. 
+
+Le jugement est susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-10
+  - Code de la consommation - art. R334-39 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-17 (V)
+
+
+##### Paragraphe 3 : La liquidation des biens du débiteur<a id=302></a>
+
+##### Sous-paragraphe 1 : Dispositions générales<a id=303></a>
+
+###### Article R334-41
+
+I.-Le jugement qui prononce la liquidation désigne un liquidateur parmi les personnes figurant sur la liste établie par le
+procureur de la République en application du I de l'article R. 334-32. 
+
+Si le liquidateur refuse la mission ou s'il existe un empêchement légitime, il est pourvu à son remplacement par ordonnance
+du juge de l'exécution. Le juge peut également, à la demande des parties ou d'office, remplacer par ordonnance le liquidateur
+qui manquerait à ses devoirs, après avoir provoqué ses explications. 
+
+II.-Le liquidateur ne peut, ni en son nom personnel ni par personne interposée, se porter acquéreur des biens du débiteur. Il
+accomplit sa mission avec diligence et dans le respect des intérêts des parties. 
+
+III.-Lorsqu'un liquidateur a été désigné, une copie du jugement lui est adressée par le greffe par lettre simple. 
+
+IV.-Le liquidateur est rémunéré, sous réserve du respect des prescriptions de l'article R. 334-71, sur l'actif réalisable
+selon un tarif fixé par l'arrêté prévu à l'article R. 334-32.
+
+V.-Le liquidateur consigne à la Caisse des dépôts et consignations les sommes issues des ventes auxquelles il est procédé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. R334-32
+
+
+###### Article R334-42
+
+Les biens du débiteur rendus indisponibles par une procédure d'exécution peuvent être vendus de gré à gré par le liquidateur,
+sur autorisation du juge de l'exécution, statuant par ordonnance, qui justifie que cette vente peut être conclue dans des
+conditions satisfaisantes. 
+
+L'ordonnance autorisant la vente de gré à gré d'un immeuble est publiée en marge du commandement publié au service chargé de
+la publicité foncière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-43
+
+Lorsque le liquidateur envisage de vendre un bien de gré à gré, il en informe le débiteur et les créanciers par lettre simple
+en précisant le prix de vente envisagé et le cas échéant les conditions particulières de cette vente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-22 (V)
+
+
+###### Article R334-44
+
+En cas de vente de gré à gré d'un bien immobilier grevé d'une hypothèque ou d'un privilège, le juge de l'exécution détermine
+le montant minimum du prix de vente. 
+
+Le paiement du prix conforme à ce montant, des frais de la vente et des droits de mutation purge l'immeuble de toute
+hypothèque et de tout privilège pris du chef du débiteur. 
+
+Sur requête de l'acquéreur, le juge constate la purge des hypothèques et privilèges pris sur l'immeuble et ordonne la
+radiation des inscriptions correspondantes au service chargé de la publicité foncière. Il statue par ordonnance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-45
+
+Lorsqu'un bien immobilier est vendu de gré à gré, le notaire chargé de la vente remet le prix, dès sa perception, au
+liquidateur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-24 (V)
+
+
+###### Article R334-46
+
+Pour l'application du troisième alinéa de l'article L. 332-8, le liquidateur effectue les actes qui incombent au créancier
+poursuivant en application des dispositions relatives aux procédures civiles d'exécution.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-25 (V)
+
+
+###### Article R334-47
+
+Si le liquidateur n'a pas réalisé la vente des biens du débiteur dans les conditions prévues à l'article L. 332-8, il peut
+demander au juge de l'exécution une prolongation du délai de vente. Le juge statue sur cette demande par ordonnance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L332-8
+
+
+##### Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=304></a>
+
+###### Article R334-48
+
+La vente par adjudication d'un bien immobilier est soumise aux dispositions du titre Ier du décret n° 2006-936 du 27 juillet
+2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble, à l'exception des sections 2 et 4
+du chapitre III et des chapitres IV et V, dans la mesure où il n'y est pas dérogé par les dispositions du présent sous-
+paragraphe. 
+
+Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la vente par adjudication d'un bien immobilier est soumise,
+sous la même réserve, aux dispositions du chapitre Ier du titre V de la loi du 1er juin 1924 mettant en vigueur la
+législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-936 du 27 juillet 2006
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cité par_:
+
+  - Code de la consommation - art. R336-4 (VD)
+
+
+###### Article R334-49
+
+Le juge de l'exécution, à la demande du liquidateur, détermine la mise à prix du bien à vendre, les conditions essentielles
+de la vente et les modalités de visite.A la demande du liquidateur ou de l'une des parties, il peut aménager, restreindre ou
+compléter les mesures de publicité de la vente dans les conditions des articles 70 et 71 du décret n° 2006-936 du 27 juillet
+2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble. 
+
+Il précise qu'à défaut d'enchères la vente pourra se faire sur une mise à prix inférieure, dont il fixe le montant. Il peut,
+si la valeur et la consistance des biens le justifient, faire procéder à leur estimation totale ou partielle. 
+
+Le jugement comporte, outre les indications mentionnées au premier alinéa, les énonciations exigées aux 1°, 5° et 10° de
+l'article 15 du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix
+d'un immeuble. 
+
+Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, ce jugement comporte, outre les indications mentionnées au
+premier alinéa, les énonciations figurant à l'article 144 de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-936 du 27 juillet 2006
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-53 (Ab)
+  - Code de la consommation - art. R334-54 (Ab)
+  - Code de la consommation - art. R334-55 (Ab)
+
+
+###### Article R334-50
+
+Une copie du jugement est adressée au liquidateur par le greffe par lettre simple.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-29 (V)
+
+
+###### Article R334-51
+
+Le jugement produit les effets du commandement prévu à l'article 13 du décret n° 2006-936 du 27 juillet 2006 relatif aux
+procédures de saisie immobilière et de distribution du prix d'un immeuble ; il est publié à la diligence du liquidateur, au
+service chargé de la publicité foncière du lieu de situation des biens, dans les conditions prévues pour ledit commandement. 
+
+Le chef du service chargé de la publicité foncière procède à la formalité de publicité du jugement même si des commandements
+ont été antérieurement publiés. Ces commandements cessent de produire effet à compter de la publication du jugement. 
+
+Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la publicité du jugement est effectuée au Livre foncier du
+lieu de situation de l'immeuble.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-936 du 27 juillet 2006 - art. 13 (Ab)
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-52
+
+Lorsqu'une procédure de saisie immobilière, suspendue par l'effet du jugement d'ouverture, est reprise par le liquidateur, le
+juge de l'exécution, à la demande du liquidateur, fixe ou modifie, s'il y a lieu, la mise à prix, les conditions essentielles
+de la vente, les modalités de visite et statue, à la demande du liquidateur ou d'une des parties, sur les mesures de
+publicité de la vente dans les conditions des 
+articles 70 et 71 du décret n° 2006-936 du 27 juillet 2006
+relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble. 
+
+Le juge qui fixe ou modifie la mise à prix précise qu'à défaut d'enchères la vente pourra se faire à une mise à prix
+inférieure, qu'il détermine. Il peut, si la valeur et la consistance des biens le justifient, faire procéder à leur
+estimation totale ou partielle. 
+
+Une copie du jugement est adressée au liquidateur par le greffe par lettre simple.
+
+A la requête du liquidateur, le jugement est mentionné en marge de la copie du commandement publié au service chargé de la
+publicité foncière ou de l'ordonnance d'exécution forcée inscrite au Livre foncier dans les départements du Bas-Rhin, du
+Haut-Rhin et de la Moselle. 
+
+Le créancier qui avait engagé la procédure de saisie immobilière remet contre récépissé au liquidateur, sur sa demande, les
+pièces de la poursuite. Ses frais de procédure lui sont restitués dans la distribution.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-936 du 27 juillet 2006
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-53 (Ab)
+  - Code de la consommation - art. R334-54 (Ab)
+  - Code de la consommation - art. R334-55 (Ab)
+
+
+###### Article R334-53
+
+Dans un délai de quinze jours à compter de la publication du jugement prononcé en application de l'article R. 334-49 ou, s'il
+y a lieu, de la mention du jugement pris en application de l'article R. 334-52 en marge de la copie du commandement publié au
+service chargé de la publicité foncière, le liquidateur commet un huissier de justice aux fins d'établir un procès-verbal de
+description des lieux mis en vente dans les conditions des articles 35 à 37 du décret n° 2006-936 du 27 juillet 2006 relatif
+aux procédures de saisie immobilière et de distribution du prix d'un immeuble.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-936 du 27 juillet 2006 - art. 35 (Ab)
+  - Code de la consommation - art. R334-49 (V)
+  - Code de la consommation - art. R334-52 (V)
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-54
+
+I.-Dans un délai de deux mois à compter de la publication du jugement prononcé en application de l'article R. 334-49 ou de la
+mention du jugement pris en application de l'article R. 334-52 en marge de la copie du commandement publié au service chargé
+de la publicité foncière, le liquidateur établit un cahier des conditions de vente et le dépose au greffe du juge chargé des
+saisies immobilières du tribunal de grande instance compétent. 
+
+II.-Par exception à l'article 44 du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de
+distribution du prix d'un immeuble, le cahier des conditions de ventes contient : 
+
+1° L'énonciation du jugement prononcé en application de l'article R. 334-49 avec la mention de sa publication ou, lorsque la
+saisie immobilière a été suspendue, l'énonciation du commandement de payer avec la mention de sa publication ainsi que, s'il
+y a lieu, celle du jugement prononcé en application de l'article R. 334-52 ; 
+
+2° La désignation de l'immeuble à vendre, l'origine de propriété, les servitudes grevant l'immeuble, les baux consentis sur
+celui-ci et le procès-verbal de description ; 
+
+3° La mention de la mise à prix, des conditions de la vente et des modalités de paiement du prix selon les règles prévues à
+l'article R. 334-57. 
+
+III.-Au plus tard le cinquième jour ouvrable suivant le dépôt du cahier des conditions de vente, le liquidateur avise, par
+acte d'huissier de justice, les parties de la date de l'audience d'adjudication. La date est fixée, à sa diligence, dans un
+délai compris entre deux et quatre mois suivant celle de l'avis. 
+
+IV.-Outre les mentions prescrites pour les actes d'huissier de justice, l'avis contient, à peine de nullité : 
+
+1° L'indication des lieu, jour et heure de l'audience d'adjudication du juge chargé des saisies immobilières ; 
+
+2° La sommation de prendre connaissance du cahier des conditions de vente et l'indication du greffe du juge chargé des
+saisies immobilières ainsi que l'adresse du liquidateur où celui-ci peut être consulté ; 
+
+3° L'indication, en caractère très apparents, qu'à peine d'irrecevabilité, seules les contestations relatives à un acte de
+procédure postérieur au jugement prononcé en application de l'article R. 334-49 ou de l'article R. 334-52 peuvent être
+soulevées, dans les quinze jours de l'acte ou, le cas échéant, de sa notification, par conclusions d'avocat déposées au
+greffe du juge chargé des saisies immobilières. 
+
+Aux fins du 3°, l'avis vaut notification du cahier des conditions de vente. 
+
+V.-En cas de contestation formée en application du 3° du IV, les parties sont convoquées à une audience par le greffe du juge
+chargé des saisies immobilières, conformément au troisième alinéa de l'article 7 du décret n° 2006-936 du 27 juillet 2006
+relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-936 du 27 juillet 2006 - art. 44 (Ab)
+  - Décret n°2006-936 du 27 juillet 2006 - art. 7 (Ab)
+  - Code de la consommation - art. R334-49 (V)
+  - Code de la consommation - art. R334-52 (V)
+  - Code de la consommation - art. R334-57 (V)
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-55
+
+Sous réserve de la modification des conditions de publicité de la vente prévues par le jugement prononcé en application de
+l'article R. 334-49 ou de l'article R. 334-52, la vente forcée est annoncée dans les conditions des articles 64 à 69 du
+décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-936 du 27 juillet 2006 - art. 64 (Ab)
+  - Code de la consommation - art. R334-49 (V)
+  - Code de la consommation - art. R334-52 (V)
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-56
+
+A l'audience d'adjudication, il est procédé comme il est dit à la section 2 du chapitre VI du décret n° 2006-936 du 27
+juillet 2006 relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble, à l'exception de
+l'article 80.
+
+L'article 86 du même décret est applicable au paiement des frais taxés et des droits de mutation. 
+
+Outre les mentions prescrites pour tout jugement, le jugement d'adjudication vise le jugement prononcé en application de
+l'article R. 334-49 ou de l'article R. 334-52, les jugements tranchant les contestations et le cahier des conditions de
+vente. Il indique le nom du liquidateur. Il mentionne les formalités de publicité et leur date, la désignation de l'immeuble
+adjugé, les dates et lieu de l'adjudication, l'identité de l'adjudicataire, le prix d'adjudication et le montant des frais
+taxés. Il comporte, le cas échéant, les contestations qu'il tranche. 
+
+Le liquidateur avise le débiteur, les créanciers et l'adjudicataire du jugement d'adjudication et, le cas échéant, le fait
+signifier à toute personne ayant élevé une contestation tranchée par cette décision. 
+
+Seul le jugement d'adjudication qui statue sur une contestation est susceptible d'appel, de ce chef, dans un délai de quinze
+jours à compter de sa notification. 
+
+Les dispositions des articles 89 à 91 du décret susvisé sont applicables au titre de vente. 
+
+La vente produit les effets prévus par l'article 92 du même décret. 
+
+La surenchère est régie par les articles 94 à 99 du même décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-936 du 27 juillet 2006
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-57
+
+Dans un délai de deux mois à compter de la date d'adjudication définitive, l'adjudicataire consigne à la Caisse des dépôts et
+consignations la totalité du prix de l'adjudication y compris les intérêts au taux légal courant à compter du jour où la
+vente est devenue définitive jusqu'au jour du paiement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-54 (Ab)
+  - Code de la consommation - art. R334-58 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-38 (V)
+
+
+###### Article R334-58
+
+La réitération des enchères est régie par les articles 100 à 106 du même décret, sous les réserves qui suivent. 
+
+En cas de défaut de consignation du prix de vente ou de justification du paiement des frais taxés et des droits de mutation
+dans le délai prévu à l'article R. 334-57, le liquidateur enjoint l'adjudicataire, par lettre recommandée avec demande d'avis
+de réception, d'acquitter les sommes restant dues, dans un délai de huit jours, à peine de réitération des enchères. 
+
+L'adjudicataire peut contester l'injonction qui lui est faite dans les conditions prévues par l'article 102, devant le juge
+chargé des saisies immobilières.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-59
+
+Sur requête de l'adjudicataire, le juge chargé des saisies immobilières constate la purge des hypothèques et privilèges pris
+sur l'immeuble et ordonne la radiation des inscriptions correspondantes au service chargé de la publicité foncière. Il statue
+par ordonnance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-40 (V)
+
+
+###### Article R334-60
+
+L'avis de mutation prévu par l'article 20 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des
+immeubles bâtis est donné au syndic par le liquidateur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-41 (V)
+
+
+##### Sous-paragraphe 3 : Répartition du produit des actifs<a id=305></a>
+
+###### Article R334-61
+
+Le produit des ventes est réparti entre les créanciers, distraction faite d'une provision correspondant à la rémunération du
+liquidateur et des frais afférents à la procédure de rétablissement personnel, compris, s'il y a lieu, les frais de la
+procédure d'adjudication ainsi que de la procédure de distribution.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-42 (V)
+
+
+###### Article R334-62
+
+En cas de vente d'un immeuble, le liquidateur requiert du chef du service chargé de la publicité foncière l'état des
+inscriptions conformément à l'article 2449 du code civil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-43 (V)
+
+_Cite_:
+
+  - Code civil - art. 2449
+
+
+###### Article R334-63
+
+Afin de répartir le produit des ventes, le liquidateur élabore un projet de distribution.A cette fin, il peut convoquer les
+créanciers. 
+
+Le projet de distribution est notifié aux créanciers et au débiteur par lettre recommandée avec demande d'avis de réception. 
+
+Cette lettre indique : 
+
+1° Qu'une contestation peut être formée, pièces justificatives à l'appui, auprès du liquidateur par lettre recommandée avec
+demande d'avis de réception dans un délai de quinze jours à compter de sa notification ; 
+
+2° Qu'à défaut de contestation dans ce délai le projet est réputé accepté et sera soumis au juge de l'exécution pour
+homologation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-64
+
+En l'absence de contestation dans le délai prévu à l'article précédent, le liquidateur transmet le projet de distribution,
+accompagné des justificatifs de réception de ce projet par les créanciers et le débiteur, au juge de l'exécution aux fins
+d'homologation. En cas de vente d'un immeuble, il y joint un état hypothécaire postérieur à la publication de la vente et, le
+cas échéant, les autorisations de mainlevée des inscriptions et radiation du commandement de payer valant saisie immobilière.
+En cas de vente forcée d'un immeuble, il y joint, en outre, le jugement d'adjudication. 
+
+Le juge de l'exécution confère force exécutoire au projet de distribution, par ordonnance, après avoir vérifié que les
+créanciers et le débiteur ont pu faire valoir leurs contestations dans le délai prévu à l'article R. 334-63. 
+
+Une copie de l'ordonnance est adressée au liquidateur par le greffe par lettre simple.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-65
+
+Lorsque le projet de distribution fait l'objet d'une contestation, le liquidateur convoque les créanciers et le débiteur. 
+
+Si les créanciers et le débiteur parviennent à un accord sur la distribution et, le cas échéant, sur la mainlevée des
+inscriptions et publications, il en est dressé un procès-verbal signé des créanciers et du débiteur. Une copie leur en est
+remise ou adressée. 
+
+Le liquidateur transmet ce procès-verbal d'accord au juge de l'exécution aux fins d'homologation. En cas de vente d'un
+immeuble, il y joint les documents visés à la deuxième et troisième phrase du premier alinéa de l'article R. 334-64. 
+
+Le juge de l'exécution confère force exécutoire au procès-verbal, par ordonnance, après en avoir vérifié la régularité. 
+
+Une copie de l'ordonnance est adressée au liquidateur par le greffe par lettre simple.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-66
+
+A défaut d'accord sur la distribution constaté dans les conditions prévues par l'article R. 334-65, le liquidateur transmet
+au juge de l'exécution le projet de distribution, un procès-verbal exposant les difficultés rencontrées ainsi que tous
+documents utiles. 
+
+Si la difficulté porte, en tout ou partie, sur la répartition du prix d'un immeuble, le liquidateur saisit le juge chargé des
+saisies immobilières par voie d'assignation des créanciers participant à la distribution.L'assignation expose les difficultés
+rencontrées ; elle est accompagnée de tous documents utiles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+
+###### Article R334-67
+
+Le juge de l'exécution ou, le cas échéant, le juge chargé des saisies immobilières établit l'état de répartition et statue
+sur les frais de distribution. Le cas échéant, il ordonne la radiation des inscriptions des hypothèques et privilèges sur
+l'immeuble. 
+
+L'appel contre le jugement établissant l'état de répartition a un effet suspensif. 
+
+Une copie du jugement est adressée au liquidateur par le greffe par lettre simple.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cité par_:
+
+  - Code de la consommation - art. R336-1 (Ab)
+  - Code de la consommation - art. R336-4 (VD)
+
+
+###### Article R334-68
+
+La Caisse des dépôts et consignations procède, à la demande du liquidateur, au paiement des créanciers et, le cas échéant, du
+débiteur, dans le mois de la notification qui lui est faite par le liquidateur, selon le cas, du projet de distribution
+homologué ou du procès-verbal revêtu de la formule exécutoire ou d'une copie revêtue de la formule exécutoire de la décision
+arrêtant l'état de répartition.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-49 (V)
+
+
+###### Article R334-69
+
+En cas de retour au liquidateur d'une lettre de notification qui n'a pu être remise à son destinataire, le liquidateur
+procède par voie de signification.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-50 (V)
+
+
+###### Article R334-70
+
+Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la répartition du prix d'un immeuble vendu par adjudication
+est soumise aux dispositions du chapitre IV du titre V de la loi du 1er juin 1924 mettant en vigueur la législation civile
+française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, à l'exception des dispositions faisant référence
+à la production des créances.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi du 1 juin 1924
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-51 (V)
+
+
+###### Article R334-71
+
+Dans un délai de trois mois suivant la liquidation des biens du débiteur, le liquidateur dépose au greffe un rapport dans
+lequel il détaille les opérations de réalisation des actifs et de répartition du prix.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-41 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-52 (V)
+
+
+##### Paragraphe 4 : La clôture de la procédure<a id=306></a>
+
+###### Article R334-72
+
+Lorsque le juge fait application de l'article L. 332-6-1, sans préjudice de la notification du jugement aux parties, un avis
+de celui-ci est adressé pour publication au Bulletin officiel des annonces civiles et commerciales par le greffe. Cette
+publication est effectuée selon les mêmes modalités que celles prévues à l'article R. 334-23.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-6-1
+  - Code de la consommation - art. R334-23
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-76 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-53 (V)
+
+
+###### Article R334-73
+
+Le jugement de clôture est susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R334-76 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-55 (V)
+
+
+##### Paragraphe 5 : Le plan<a id=307></a>
+
+###### Article R334-74
+
+Le jugement rendu en application du premier alinéa de l'article L. 332-10 est susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-10
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-56 (V)
+
+
+###### Article R334-75
+
+Lorsque le juge prononce d'office, à la demande du débiteur ou des créanciers la résolution d'un plan en application du
+second alinéa de l'article L. 332-10, il statue par jugement susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-10
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R742-57 (V)
+
+
+##### Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire<a id=308></a>
+
+###### Article R334-76
+
+En cas d'effacement total d'une créance correspondant au montant d'un chèque impayé et valant régularisation de l'incident de
+paiement en application de l'article L. 332-11, l'établissement teneur de compte avise la Banque de France de cette
+régularisation au plus tard le deuxième jour ouvré suivant la remise par le débiteur d'une attestation précisant que
+l'incident de paiement est régularisé par suite de l'effacement total de la créance correspondante.
+
+L'attestation est établie et adressée au débiteur par le greffe lors de l'envoi de l'ordonnance prévue au premier alinéa de
+l'article R. 334-22 ou du jugement prévu aux articles R. 334-26, R. 334-72 et R. 334-73.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L332-11
+  - Code de la consommation - art. R334-22
+  - Code de la consommation - art. R334-72
+
+_Cité par_:
+
+  - Code monétaire et financier - art. R131-21-1 (M)
+
+
+###### Article R334-77
+
+Lorsque le juge renvoie le dossier à la commission en application de l'article L. 332-12, il statue par ordonnance. Le
+mandataire et, le cas échéant, le liquidateur sont dessaisis des missions qui leur ont été confiées. Copie de l'ordonnance
+leur est adressée par lettre simple.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-12
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R743-2 (V)
+
+
+#### Chapitre V : Dispositions communes<a id=309></a>
+
+###### Article R335-1
+
+La commission se prononce sur la déchéance du bénéfice de la procédure de traitement du surendettement en application de
+l'article L. 333-2 par une décision motivée qui est notifiée au débiteur et aux créanciers par lettre recommandée avec
+demande d'avis de réception. La lettre indique que la décision peut faire l'objet d'un recours, dans un délai de quinze jours
+à compter de sa notification, par déclaration remise ou adressée par lettre recommandée avec demande d'avis de réception au
+secrétariat de la commission. Elle précise que cette déclaration indique les nom, prénoms et adresse de son auteur, la
+décision attaquée ainsi que les motifs du recours, et est signée par ce dernier. 
+
+Lorsque la commission est destinataire d'un recours, son secrétariat le transmet, avec le dossier, au greffe du juge de
+l'exécution.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 7
+
+_Cite_:
+
+  - Code de la consommation - art. L333-2
+
+
+###### Article R335-2
+
+Le jugement rendu en application de l'article L. 333-2 est susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 7
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L333-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R713-6 (V)
+
+
+###### Article R335-3
+
+Le jugement rendu en application de l'article L. 333-2-1 est susceptible d'appel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 7
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L333-2-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R713-6 (V)
+
+
+###### Article R335-4
+
+Les règles relatives aux effets de la saisine de la commission de surendettement sur les demandes de remise gracieuse ou de
+dispense de paiement que peuvent accorder les autorités chargées du recouvrement des impôts sont fixées par les articles R. *
+247 A-1 et R. * 247-18 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 7
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. R336-1 (Ab)
+  - Code de la consommation - art. R336-4 (Ab)
+  - Code de la consommation - art. R336-5 (Ab)
+  - Code de la consommation - art. R336-7 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R711-1 (V)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. R*247 A-1
+  - Livre des procédures fiscales - art. R*247-18
+
+
+#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=310></a>
+
+##### Section 1 : Dispositions particulières à Mayotte<a id=311></a>
+
+###### Article R336-1
+
+I. - Les articles R. 331-1, R. 331-3 et R. 335-4 ne sont pas applicables à Mayotte. 
+
+II. - Pour l'application du présent titre à Mayotte : 
+
+1° Le représentant local de la Banque de France à la commission est le directeur de l'agence locale de l'Institut d'émission
+des départements d'outre-mer. Il peut se faire représenter par l'un de ses adjoints ; 
+
+2° Les références au responsable départemental de la direction générale des finances publiques chargé de la gestion publique
+sont remplacées par les références au trésorier-payeur général de Mayotte ; 
+
+3° Les références au tribunal d'instance sont remplacées par les références au tribunal de première instance ; 
+
+4° Les références au " juge de l'exécution  "  sont remplacées par les références au " président du tribunal de première
+instance ou le juge délégué par lui " , les références au " juge " sont remplacées par les références au " président du
+tribunal de première instance ou le juge délégué par lui " et les références au " premier président de la cour d'appel " sont
+remplacées par les références au " président du tribunal supérieur d'appel "  ; 
+
+5° Les mots : " Bulletin officiel des annonces civiles et commerciales " sont remplacés par les mots : " Bulletin officiel de
+Mayotte " ; 
+
+6° La référence au service chargé de la publicité foncière est remplacée par la référence au service de la conservation de la
+propriété immobilière et, à compter du 1er janvier 2013, au service chargé de la publicité foncière. 
+
+7° Les références aux dispositions du code du travail sont remplacées par les références aux dispositions applicables
+localement ayant le même objet ; 
+
+8° En l'absence d'adaptation, les références faites par des dispositions du présent code applicables à Mayotte, à des
+dispositions qui n'y sont pas applicables, sont remplacées par les références aux dispositions ayant le même objet
+applicables localement. 
+
+III.-Pour leur application à Mayotte, les articles ci-après sont adaptés comme suit : 
+
+1° A l'article R. 331-2 : 
+
+a) Les mots : " dans chaque commission " sont supprimés ; 
+
+b) Les mots : " de la direction départementale des finances publiques placés sous son autorité ayant au moins le grade
+d'inspecteur des finances publiques " sont remplacés par les mots : " de la trésorerie générale ayant au moins le grade
+d'inspecteur ". 
+
+2° A l'article R. 331-4 : 
+
+a) Les mots : " du 2° de l'article L. 331-1 " sont remplacés par les mots : " de l'article L. 334-1 " ; 
+
+b) Le mot : " personne " est remplacé quatre fois par le mot : " personnalité " ou " personnalités " ; 
+
+c) Après le mot : " liste ", le mot : " départemental " est supprimé ; 
+
+d) Après les mots : " elle-même agréée " sont ajoutés les mots : ", ou, à défaut, désignés en raison de leur compétence en
+matière de consommation ou d'action familiale ". 
+
+3° Au premier alinéa de l'article R. 331-5 : 
+
+a) Les mots : " du 3° de l'article L. 331-1 " sont remplacés par les mots : " de l'article L. 334-1 ; 
+
+b) Les mots : " et son suppléant " sont supprimés ; 
+
+c) Les mots : " Ils peuvent être choisies " sont remplacés par les mots : " Elle peut être choisie " ; 
+
+d) Les mots : " du département " sont remplacés par les mots : " de Mayotte ou " ; 
+
+e) Les mots : " ou de la caisse de mutualité sociale agricole " sont supprimés. 
+
+4° Au deuxième alinéa de l'article R. 331-5 : 
+
+a) Les mots : " et son suppléant " sont supprimés ; 
+
+b) Les mots : " Ils doivent être titulaires " sont remplacés par les mots : " Elle doit être titulaire ". 
+
+5° Au troisième alinéa de l'article R. 331-5 : 
+
+a) Les mots : " et de son suppléant " sont supprimés ; 
+
+b) Le mot : " leur " est remplacé par le mot : " son " ; 
+
+c) Les mots : " et un suppléant " sont supprimés. 
+
+6° A l'article R. 331-6, les mots : " la Banque de France " sont remplacés par les mots : " l'Institut d'émission des
+départements d'outre-mer ". 
+
+7° A l'article R. 331-7 : 
+
+a) Le mot " quatre " est remplacé par le mot : " cinq " ; 
+
+b) Le mot " sept " est remplacé par le mot : " huit " ; 
+
+c) Après les mots : " membres " sont ajoutés les mots : " ayant voix délibérative ". 
+
+8° A l'article R. 331-7-2, les mots : " la Banque de France " sont remplacés par les mots : " l'Institut d'émission des
+départements d'outre-mer ". 
+
+9° A l'article R. 332-1, les mots : " dans le département où siège la commission " sont remplacés par les mots : " à Mayotte
+". 
+
+10° A l'article R. 334-1, les mots : " forfaitaire du revenu de solidarité active mentionné au 2° de l'article L. 262-2 du
+code de l'action sociale et des familles applicable au foyer du débiteur " sont remplacés par les mots : " fixé par le préfet
+". 
+
+11° A l'article R. 334-23, les mots : " le numéro du département de sa résidence " sont remplacés par les mots : " la
+collectivité où il réside ". 
+
+12° A l'article R. 334-67, les mots : " ou, le cas échéant, le juge chargé des saisies immobilières " sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 8
+
+
+##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=312></a>
+
+###### Article R336-2
+
+I. - Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux II et III, l'article R. 331-2,
+l'article R. 331-4, les articles R. 331-5 à R. 331-8-4, l'article R. 331-10, l'article R. 331-11, le premier alinéa de
+l'article R. 331-11-1, le premier et le deuxième alinéa de l'article R. 331-11-2, le premier alinéa de l'article R. 331-12,
+les articles R. 332-1 à R. 333-3, les articles R. 334-1 à R. 334-13, à l'exception de l'article R. 334-11 et de l'article R.
+334-12, l'article R. 334-15, l'article R. 334-18, les articles R. 334-19 à R. 334-24, à l'exception de l'article R. 334-22,
+l'article R. 334-27, l'article R. 334-28, l'article R. 334-30, les articles R. 334-32 à R. 334-34, les articles R. 334-36 à
+R. 334-38, à l'exception du dernier alinéa de l'article R. 334-38, le I, à l'exception de la dernière phrase, et le II de
+l'article R. 334-39, l'article R. 334-40, à l'exception du dernier alinéa, l'article R. 334-41, les articles R. 334-43 à R.
+334-47, à l'exception de la dernière phrase de l'article R. 334-44 et de la dernière phrase de l'article R. 334-47, l'article
+R. 334-61, l'article R. 334-68, l'article R. 334-71, l'article R. 334-72, l'article R. 334-76 et l'article R. 335-1. 
+
+II. - Pour l'application du présent titre en Nouvelle-Calédonie : 
+
+1° Le représentant de l'Institut d'émission d'outre-mer à la commission est le directeur de l'agence locale de l'institut. Il
+peut se faire représenter par l'un de ses adjoints ; 
+
+2° Les références au préfet sont remplacées par les références au haut-commissaire de la République ; 
+
+3° Les références au responsable départemental de la direction générale des finances publiques chargé de la gestion publique
+sont remplacées par les références au trésorier-payeur général de la Nouvelle-Calédonie ; 
+
+4° Les références au tribunal d'instance sont remplacées par les références au tribunal de première instance ; 
+
+5° Les mots : " Bulletin officiel des annonces civiles et commerciales " sont remplacés par les mots : " Journal officiel de
+la Nouvelle-Calédonie " ; 
+
+6° Les références aux dispositions du code du travail sont remplacées par les références aux dispositions applicables
+localement ayant le même objet ; 
+
+7° Les références au " juge de l'exécution " ou au " juge " sont remplacées par les références au " président du tribunal de
+première instance, ou les juges délégués par lui, " ou par les références au " président du tribunal de première instance, ou
+des juges délégués par lui, " ; 
+
+8° La référence au service chargé de la publicité foncière est remplacée par la référence au service de la conservation des
+hypothèques ; 
+
+9° En l'absence d'adaptation, les références faites par des dispositions du présent code applicables en Nouvelle-Calédonie, à
+des dispositions qui n'y sont pas applicables, sont remplacées par les références aux dispositions ayant le même objet
+applicables localement. 
+
+III. - Pour leur application en Nouvelle-Calédonie : 
+
+1° A l'article R. 331-2 : 
+
+a) Les mots : " dans chaque commission " sont supprimés ; 
+
+b) Les mots : " de la direction départementale des finances publiques placés sous son autorité ayant au moins le grade
+d'inspecteur des finances publiques " sont remplacés par les mots : " de la trésorerie générale ayant au moins le grade
+d'inspecteur direction locale des finances publiques ". 
+
+2° A l'article R. 331-4 : 
+
+a) Les mots : " du 2° de l article L. 331-1 " sont remplacés par les mots : " de l'article L. 334-4 " ; 
+
+b) Le mot : " personne " est remplacé quatre fois par le mot : " personnalité " ou " personnalités " ; 
+
+c) Après le mot : " liste ", le mot : " départementale " est supprimé ; 
+
+d) Les mots : " accordée par arrêté du préfet du département de leur siège social " sont supprimés ; 
+
+e) Après les mots : " elle-même agréée " sont ajoutés les mots : ", ou, à défaut, désignés en raison de leur compétence en
+matière de consommation ou d'action familiale ". 
+
+3° Au premier alinéa de l'article R. 331-5 : 
+
+a) Les mots : " du 3° de l'article L. 331-1 " sont remplacés par les mots : " de l'article L. 334-4 " ; 
+
+b) Les mots : " et son suppléant " sont supprimés ; 
+
+c) Les mots : " Ils peuvent être choisies " sont remplacés par les mots : " Elle peut être choisie " ; 
+
+d) Les mots : " du département, de la caisse d'allocations familiales ou de la caisse de mutualité sociale agricole " sont
+remplacés par les mots : " de Nouvelle-Calédonie ou de la caisse de compensation des prestations familiales, des accidents du
+travail et de prévoyance des travailleurs de Nouvelle-Calédonie ". 
+
+4° Au deuxième alinéa de l'article R. 331-5 : 
+
+a) Les mots : " et son suppléant " sont supprimés ; 
+
+b) Les mots : " Ils doivent être titulaires " sont remplacés par les mots : " Elle doit être titulaire " ; 
+
+5° Au troisième alinéa de l'article R. 331-5 : 
+
+a) Les mots : " et de son suppléant " sont supprimés ; 
+
+b) Le mot " leur " est remplacé par le mot : " son " ; 
+
+c) Les mots : " et un suppléant " sont supprimés. 
+
+6° L'article R. 331-5 est complété par l'alinéa suivant : 
+
+" Ces personnes participent à l'instruction du dossier sous l'autorité du président de la commission. Sont tenus à leur
+disposition, préalablement à chacune des séances, les documents destinés à être examinés par la commission. Elles peuvent
+prendre connaissance des autres pièces des dossiers sur place auprès du secrétariat de la commission, dans les conditions
+fixées en concertation avec celui-ci et approuvées par la commission. Elles peuvent être appelées à participer à l'audition
+du débiteur par le secrétariat de la commission. " 
+
+7° A l'article R. 331-6, les mots : " la Banque de France " sont remplacés par les mots : " l'Institut d'émission d'outre-mer
+". 
+
+8° A l'article R. 331-7 : 
+
+a) Le mot " quatre " est remplacé par le mot : " trois " ; 
+
+b) le mot : " sept " est remplacé par le mot : " six " ; 
+
+c) Après les mots : " membres " sont ajoutés les mots : " ayant voix délibérative ". 
+
+9° A l'article R. 331-7-2, les mots : " la Banque de France " sont remplacés par les mots : " l'Institut d'émission d'outre-
+mer ". 
+
+10° A l'article R. 332-1 : 
+
+a) Les mots : " dans le département où siège la commission " sont remplacés par les mots : " en Nouvelle-Calédonie " ; 
+
+b) Les mots : " par ordonnance " sont supprimés. 
+
+11° A l'article R. 334-1 : 
+
+a) Les mots : " forfaitaire du revenu de solidarité active mentionné au 2° de l'article L. 262-2 du code de l'action sociale
+et des familles applicable au foyer du débiteur " sont remplacés par les mots : " fixé par le représentant de l'Etat " ; 
+
+b) Les mots : " du barème fixé par son règlement intérieur " sont remplacés par les mots : " d'un barème établi par la
+commission " ; 
+
+c) Les mots : " Le règlement intérieur précise " sont remplacés par les mots : " La commission indique dans un document ". 
+
+12° A l'article R. 334-15, les mots : ", par une ordonnance, " sont supprimés. 
+
+13° A l'article R. 334-18, les mots : " de l'ordonnance " sont remplacés par les mots : " de la décision ". 
+
+14° A l'article R. 334-23 : 
+
+a) Les mots : " l'ordonnance " sont remplacés trois fois par les mots : " la décision " ; 
+
+b) Les mots : " le numéro du département de sa résidence " sont remplacés par les mots : " la collectivité où il réside " ; 
+
+c) Les mots : " d'ordonnance " sont remplacés par les mots : " de décision ". 
+
+15° A l'article R. 334-24, les mots : ", par ordonnance, " sont supprimés. 
+
+16° A l'article R. 334-32 : 
+
+a) Au II, les mots : " par lettre simple " sont supprimés ; 
+
+b) Au III, les mots : " ordonnance du " sont remplacés par le mot : " le " ; 
+
+c) Au III, les mots : ", par ordonnance, " sont supprimés. 
+
+17° A l'article R. 334-41 : 
+
+a) Les mots : " parmi les personnes figurant sur la liste établie par le procureur de la République en application du I de
+l'article R. 334-32 " sont supprimés ; 
+
+b) Les mots : " ordonnance du " sont remplacés par le mot : " le " ; 
+
+c) Après le mot : " remplacer ", les mots : " par ordonnance " sont supprimés ; 
+
+d) Au III, les mots : " par lettre simple " sont supprimés. 
+
+18° A l'article R. 334-76, les mots : " de l'ordonnance " sont remplacés par les mots : " de la décision " et les mots : " du
+jugement prévu " sont remplacés par les mots : " de la décision prévue ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 8
+
+
+###### Article R336-3
+
+Pour l'application du premier alinéa de l'article L. 332-8 applicable en Nouvelle-Calédonie, sont insaisissables comme étant
+nécessaires à la vie et au travail du débiteur saisi et de sa famille : 
+
+Les vêtements ; 
+
+La literie ; 
+
+Le linge de maison ; 
+
+Les objets et produits nécessaires aux soins corporels et à l'entretien des lieux ; 
+
+Les denrées alimentaires ; 
+
+Les objets de ménage nécessaires à la conservation, à la préparation et à la consommation des aliments ; 
+
+Les appareils nécessaires au chauffage ou la climatisation ; 
+
+La table et les chaises permettant de prendre les repas en commun ; 
+
+Un meuble pour abriter le linge et les vêtements et un meuble pour ranger les objets ménagers ; 
+
+Une machine à laver le linge ; 
+
+Les livres et autres objets nécessaires à la poursuite des études ou à la formation professionnelle ; 
+
+Les objets d'enfants ; 
+
+Les souvenirs à caractère personnel ou familial ; 
+
+Les animaux d'appartement ou de garde ; 
+
+Les animaux destinés à la subsistance du saisi, ainsi que les denrées nécessaires à leur élevage ; 
+
+Les instruments de travail nécessaires à l'exercice personnel de l'activité professionnelle ; 
+
+Un poste téléphonique permettant l'accès au service téléphonique fixe.
+
+**Nota:**
+
+Aux termes de l'article 10 du décret n° 2016-884 du 29 juin 2016, la partie réglementaire du code de la consommation demeure
+en vigueur, dans sa rédaction antérieure à la        date d'entrée en vigueur du présent  décret, en tant qu'elle s'applique
+à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en Polynésie
+française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en vigueur du
+décret pris en application de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée. 
+
+Le décret n° 2017-1166 du 12 juillet 2017 portant dispositions relatives à l'outre-mer du code de la consommation est entré
+en vigueur le 15 juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 8
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L332-8
+
+
+##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=313></a>
+
+###### Article R336-4
+
+I. - Les dispositions du chapitre préliminaire et des chapitres Ier à V du présent titre, à l'exception des articles R.
+331-1, R. 331-3, R. 334-48 à R. 334-60 et R. 335-4, sont applicables aux îles Wallis et Futuna sous réserve des adaptations
+prévues au II. 
+
+II. - Pour l'application du présent titre dans les îles Wallis et Futuna : 
+
+1° Le représentant de l'Institut d'émission d'outre-mer à la commission est le directeur de l'agence locale de l'institut. Il
+peut se faire représenter par l'un de ses adjoints ; 
+
+2° Les références au préfet sont remplacées par les références à l'administrateur supérieur des îles Wallis et Futuna ; 
+
+3° Les références au responsable départemental de la direction générale des finances publiques chargé de la gestion publique
+sont remplacées par les références au payeur des îles Wallis et Futuna ; 
+
+4° Les références au tribunal d'instance sont remplacées par les références au tribunal de première instance ; 
+
+5° Les mots : " Bulletin officiel des annonces civiles et commerciales " sont remplacés par les mots : " Journal officiel du
+territoire des îles Wallis et Futuna " ; 
+
+6° Les références aux dispositions du code du travail sont remplacées par les références aux dispositions applicables
+localement ayant le même objet ; 
+
+7° Les références au " juge de l'exécution " ou au " juge " sont remplacées par les références au " président du tribunal de
+première instance, ou les juges délégués par lui, " ou au " président du tribunal de première instance, ou des juges délégués
+par lui, " ; 
+
+8° La référence au service chargé de la publicité foncière est remplacée par la référence au greffe du tribunal de première
+instance ; 
+
+9° En l'absence d'adaptation, les références faites par des dispositions du présent code applicables dans les îles Wallis et
+Futuna, à des dispositions qui n'y sont pas applicables, sont remplacées par les références aux dispositions ayant le même
+objet applicables localement. 
+
+III. - Pour leur application dans les îles Wallis et Futuna, les articles ci-après sont adaptés comme suit : 
+
+1° A l'article R. 331-2 : 
+
+a) Les mots : " dans chaque commission " sont supprimés ; 
+
+b) Les mots : " de la direction départementale des finances publiques placés sous son autorité ayant au moins le grade
+d'inspecteur des finances publiques " sont remplacés par les mots : " de la paierie ayant au moins le grade de contrôleur ". 
+
+2° A l'article R. 331-4 : 
+
+a) Les mots : " du 2° de l'article L. 331-1 " sont remplacés par les mots : " de l'article L. 334-8 " ; 
+
+b) Le mot : " personne " est remplacé quatre fois par le mot : " personnalité " ou " personnalités " ; 
+
+c) Après le mot : " liste ", le mot : " départementale " est supprimé ; 
+
+d) Les mots : " accordée par arrêté du préfet du département de leur siège social " sont supprimés ; 
+
+e) Après les mots : " elle-même agréée " sont ajoutés les mots : ", ou, à défaut, désignés en raison de leur compétence en
+matière de consommation ou d'action familiale ". 
+
+3° Au premier alinéa de l'article R. 331-5 : 
+
+a) Les mots : " du 3° de l'article L. 331-1 " sont remplacés par les mots : " de l'article L. 334-8 " ; 
+
+b) Les mots : " et son suppléant " sont supprimés ; 
+
+c) Les mots : " Ils peuvent être choisies " sont remplacés par les mots : " Elle peut être choisie " ; 
+
+d) Les mots : " du département, de la caisse d'allocations familiales ou de la caisse de mutualité sociale agricole " sont
+remplacés par les mots : " des îles Wallis et Futuna ou de la caisse de compensation des prestations familiales ". 
+
+4° Au deuxième alinéa de l'article R. 331-5 : 
+
+a) Les mots : " et son suppléant " sont supprimés ; 
+
+b) Les mots : " Ils doivent être titulaires " sont remplacés par les mots : " Elle doit être titulaire ". 
+
+5° Au troisième alinéa de l'article R. 331-5 : 
+
+a) Les mots : " et de son suppléant " sont supprimés ; 
+
+b) Le mot : " leur " est remplacé par le mot : " son " ; 
+
+c) Les mots : " et un suppléant " sont supprimés. 
+
+6° A l'article R. 331-6, les mots : " la Banque de France " sont remplacés par les mots : " l'Institut d'émission d'outre-mer
+". 
+
+7° A l'article R. 331-7 : 
+
+a) Le mot : " quatre " est remplacé par le mot : " cinq " ; 
+
+b) Le mot : " sept " est remplacé par le mot : " huit " ; 
+
+c) Après les mots : " membres " sont ajoutés les mots : " ayant voix délibérative ". 
+
+8° A l'article R. 331-7-2, les mots : " la Banque de France " sont remplacés par les mots : " l'Institut d'émission d'outre-
+mer ". 
+
+9° A l'article R. 332-1, les mots : " dans le département où siège la commission " sont remplacés par les mots : " dans les
+îles Wallis et Futuna ". 
+
+10° A l'article R. 334-1, les mots : " forfaitaire du revenu de solidarité active mentionné au 2° de l'article L. 262-2 du
+code de l'action sociale et des familles applicable au foyer du débiteur " sont remplacés par les mots : " fixé par
+l'administrateur supérieur des îles Wallis et Futuna ". 
+
+11° A l'article R. 334-23, les mots : " le numéro du département de sa résidence " sont remplacés par les mots : " la
+collectivité où il réside ". 
+
+12° A l'article R. 334-67, les mots : " ou, le cas échéant, le juge chargé des saisies immobilières " sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 8
+
+
+##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=314></a>
+
+###### Article R336-5
+
+Les articles R. 331-1, R. 331-3 et R. 335-4 ne sont pas applicables à Saint-Barthélemy et à Saint-Martin.
+
+**Nota:**
+
+Aux termes de l'article 10 du décret n° 2016-884 du 29 juin 2016, la partie réglementaire du code de la consommation demeure
+en vigueur, dans sa rédaction antérieure à la        date d'entrée en vigueur du présent  décret, en tant qu'elle s'applique
+à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en Polynésie
+française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en vigueur du
+décret pris en application de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée. 
+
+Le décret n° 2017-1166 du 12 juillet 2017 portant dispositions relatives à l'outre-mer du code de la consommation est entré
+en vigueur le 15 juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 8
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. R331-1
+  - Code de la consommation - art. R331-3
+  - Code de la consommation - art. R335-4
+
+
+###### Article R336-6
+
+I.-Pour l'application du présent titre à Saint-Barthélemy et à Saint-Martin : 
+
+1° Le directeur d'agence de l'Institut d'émission des départements d'outre-mer en Guadeloupe est membre de la commission au
+lieu et place du représentant de la Banque de France. Il peut se faire représenter par l'un de ses adjoints. Ses services
+assurent le secrétariat de la commission ; 
+
+2° Les références au responsable départemental de la direction générale des finances publiques chargé de la gestion publique
+sont remplacées par les références au payeur de la collectivité ; 
+
+3° Les mots : " Bulletin officiel des annonces civiles et commerciales " sont remplacés par les mots : " Journal officiel de
+Saint-Barthélemy " ou " Journal officiel de Saint-Martin " selon le territoire dans lequel les dispositions s'appliquent ; 
+
+4° Les références au département sont remplacées par les références à la collectivité concernée ; 
+
+5° En l'absence d'adaptation, les références faites par des dispositions du présent code applicables à Saint-Barthélemy et à
+Saint-Martin, à des dispositions qui n'y sont pas applicables, sont remplacées par les références aux dispositions ayant le
+même objet applicables localement. 
+
+II.-Pour leur application à Saint-Barthélemy et à Saint-Martin, les articles ci-après sont adaptés comme suit : 
+
+1° A l'article R. 331-6, les mots : " la Banque de France " sont remplacés par les mots : " l'Institut d'émission des
+départements d'outre-mer " ; 
+
+2° A l'article R. 334-23, les mots : " le numéro du département de sa résidence " sont remplacés par les mots : " la
+collectivité où il réside ".
+
+**Nota:**
+
+Aux termes de l'article 10 du décret n° 2016-884 du 29 juin 2016, la partie réglementaire du code de la consommation demeure
+en vigueur, dans sa rédaction antérieure à la        date d'entrée en vigueur du présent  décret, en tant qu'elle s'applique
+à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en Polynésie
+française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en vigueur du
+décret pris en application de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée. 
+
+Le décret n° 2017-1166 du 12 juillet 2017 portant dispositions relatives à l'outre-mer du code de la consommation est entré
+en vigueur le 15 juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 8
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. R331-6
+  - Code de la consommation - art. R334-23
+
+
+##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=315></a>
+
+###### Article R336-7
+
+Les articles R. 331-1, R. 331-3 et R. 335-4 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+**Nota:**
+
+Aux termes de l'article 10 du décret n° 2016-884 du 29 juin 2016, la partie réglementaire du code de la consommation demeure
+en vigueur, dans sa rédaction antérieure à la        date d'entrée en vigueur du présent  décret, en tant qu'elle s'applique
+à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en Polynésie
+française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en vigueur du
+décret pris en application de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée. 
+
+Le décret n° 2017-1166 du 12 juillet 2017 portant dispositions relatives à l'outre-mer du code de la consommation est entré
+en vigueur le 15 juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 8
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. R331-1 (Ab)
+  - Code de la consommation - art. R331-3 (Ab)
+  - Code de la consommation - art. R335-4 (Ab)
+
+
+###### Article R336-8
+
+I. - Pour l'application du présent titre à Saint-Pierre-et-Miquelon : 
+
+1° Le directeur d'agence de l'Institut d'émission des départements d'outre-mer est membre de la commission au lieu et place
+du représentant de la Banque de France. Il peut se faire représenter par l'un de ses adjoints. Ses services assurent le
+secrétariat de la commission ; 
+
+2° Les références au responsable départemental de la direction générale des finances publiques chargé de la gestion publique
+sont remplacées par les références au trésorier-payeur général de la collectivité ; 
+
+3° Les références au tribunal d'instance sont remplacées par les références au tribunal de première instance ; 
+
+4° Les mots : " Bulletin officiel des annonces civiles et commerciales " sont remplacés par les mots : " Journal officiel de
+Saint-Pierre-et-Miquelon " ; 
+
+5° Les mots : " juge de l'exécution " sont remplacés par les mots : " président du tribunal de première instance ou le juge
+délégué par lui ", le mot : " juge " est remplacé par les mots : " président du tribunal de première instance ou le juge
+délégué par lui " et les mots : " premier président de la cour d'appel " sont remplacés par les mots : " président du
+tribunal supérieur d'appel " ; 
+
+6° Les références au département sont remplacées par les références à la collectivité ; 
+
+7° En l'absence d'adaptation, les références faites par des dispositions du présent code applicables à Saint-Pierre-et-
+Miquelon, à des dispositions qui n'y sont pas applicables, sont remplacées par les références aux dispositions ayant le même
+objet applicables localement. 
+
+II. - Pour leur application à Saint-Pierre-et-Miquelon : 
+
+1°  A l'article R. 331-5, les  mots : " de la caisse d'allocations familiales ou de la caisse de mutualité agricole " sont
+remplacés par les mots : " de la caisse de prévoyance sociale " ; 
+
+2°  A l'article R. 331-6, les  mots : " la Banque de France " sont remplacés par les mots : " l'Institut d'émission des
+départements d'outre-mer " ; 
+
+3°  A l'article R. 331-7-2, les  mots : " la Banque de France " sont remplacés par les mots : " l'Institut d'émission des
+départements d'outre-mer ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1304 du 29 octobre 2010 - art. 8
+
+
+### Titre IV : Dispositions diverses.<a id=316></a>
 
 ###### Article R333-5
 
@@ -32298,11 +35222,11 @@ _Cité par_:
   - Code de la consommation - art. R334-1 (V)
 
 
-## Livre IV : Les associations de consommateurs<a id=293></a>
+## Livre IV : Les associations de consommateurs<a id=317></a>
 
-### Titre Ier : Agrément des associations.<a id=294></a>
+### Titre Ier : Agrément des associations.<a id=318></a>
 
-#### Chapitre Ier : Les associations.<a id=295></a>
+#### Chapitre Ier : Les associations.<a id=319></a>
 
 ###### Article R411-1
 
@@ -32566,9 +35490,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : Action en justice des associations.<a id=296></a>
+### Titre II : Action en justice des associations.<a id=320></a>
 
-#### Chapitre II : Action en représentation conjointe.<a id=297></a>
+#### Chapitre II : Action en représentation conjointe.<a id=321></a>
 
 ###### Article R422-1
 
@@ -32895,7 +35819,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R622-10 (V)
 
 
-### Titre III : Reconnaissance spécifique des associations<a id=298></a>
+### Titre III : Reconnaissance spécifique des associations<a id=322></a>
 
 ###### Article R431-1
 
@@ -33007,13 +35931,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R812-3 (V)
 
 
-## Livre V : Les institutions<a id=299></a>
+## Livre V : Les institutions<a id=323></a>
 
-### Titre Ier : Les organes de concertation.<a id=300></a>
+### Titre Ier : Les organes de concertation.<a id=324></a>
 
-#### Chapitre Ier : Le Conseil national de la consommation.<a id=301></a>
+#### Chapitre Ier : Le Conseil national de la consommation.<a id=325></a>
 
-##### Section 1 : Missions et attributions.<a id=302></a>
+##### Section 1 : Missions et attributions.<a id=326></a>
 
 ###### Article D511-1
 
@@ -33161,7 +36085,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. D821-4 (V)
 
 
-##### Section 2 : Composition et organisation.<a id=303></a>
+##### Section 2 : Composition et organisation.<a id=327></a>
 
 ###### Article D511-5
 
@@ -33432,7 +36356,7 @@ _Cite_:
   - Code de la consommation - art. D511-7
 
 
-##### Section 3 : Fonctionnement.<a id=304></a>
+##### Section 3 : Fonctionnement.<a id=328></a>
 
 ###### Article D511-12
 
@@ -33651,9 +36575,9 @@ _Modifié par_:
   - Décret n°2005-249 du 14 mars 2005 - art. 7 () JORF 18 mars 2005
 
 
-### Titre II : Les organes de coordination administrative.<a id=305></a>
+### Titre II : Les organes de coordination administrative.<a id=329></a>
 
-#### Chapitre Ier : Le comité interministériel de la consommation.<a id=306></a>
+#### Chapitre Ier : Le comité interministériel de la consommation.<a id=330></a>
 
 ###### Article D521-1
 
@@ -33714,7 +36638,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-#### Chapitre II : Le groupe interministériel de la consommation.<a id=307></a>
+#### Chapitre II : Le groupe interministériel de la consommation.<a id=331></a>
 
 ###### Article D522-1
 
@@ -33884,9 +36808,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. D825-4 (Ab)
 
 
-### Titre III : L'institut national de la consommation.<a id=308></a>
+### Titre III : L'institut national de la consommation.<a id=332></a>
 
-#### Chapitre Ier : Organisation et administration.<a id=309></a>
+#### Chapitre Ier : Organisation et administration.<a id=333></a>
 
 ###### Article R531-1
 
@@ -34230,7 +37154,7 @@ _Modifié par_:
   - Décret n°2010-801 du 13 juillet 2010 - art. 10
 
 
-#### Chapitre II : Organes consultatifs.<a id=310></a>
+#### Chapitre II : Organes consultatifs.<a id=334></a>
 
 ###### Article R532-1
 
@@ -34245,7 +37169,7 @@ _Modifié par_:
   - Décret n°2010-801 du 13 juillet 2010 - art. 10
 
 
-#### Chapitre III : Dispositions financières et comptables.<a id=311></a>
+#### Chapitre III : Dispositions financières et comptables.<a id=335></a>
 
 ###### Article R533-1
 
@@ -34374,9 +37298,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-16 (V)
 
 
-#### Chapitre IV : Dispositions diverses.<a id=312></a>
+#### Chapitre IV : Dispositions diverses.<a id=336></a>
 
-##### Section 3 : La commission de la médiation de la consommation<a id=313></a>
+##### Section 3 : La commission de la médiation de la consommation<a id=337></a>
 
 ###### Article R534-11
 
@@ -34453,7 +37377,7 @@ _Cite_:
   - Code de la consommation - art. R534-17
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=314></a>
+### Titre IV : Le conseil national de l'alimentation.<a id=338></a>
 
 ###### Article D541-1
 
