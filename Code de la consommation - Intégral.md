@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2010-12-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-5)](#2)
@@ -6713,22 +6713,31 @@ _Nouveaux textes_:
 ###### Article L121-86
 
 Les dispositions de la présente section s'appliquent aux contrats souscrits par un consommateur avec un fournisseur
-d'électricité ou de gaz naturel.
+d'électricité ou de gaz naturel, ainsi qu'aux contrats souscrits par un non-professionnel pour une puissance électrique égale
+ou inférieure à 36 kilovoltampères ou pour une consommation de gaz naturel inférieure à 30 000 kilowattheures par an.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+  - Loi n°2010-1488 du 7 décembre 2010 - art. 18 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Code de l'énergie - art. L332-1 (VD)
   - Code de l'énergie - art. L442-1 (VD)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-1 (M)
 
 
 ###### Article L121-87
