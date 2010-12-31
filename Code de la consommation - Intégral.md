@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2010-12-24
+Version Consolidée au 2011-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-6)](#2)
@@ -144,204 +144,204 @@ Version Consolidée au 2010-12-24
         - [Chapitre II : Dispositions diverses (art. L322-1 à L322-5)](#141)
       - [Titre III : Traitement des situations de surendettement (art. L330-1 à L334-12)](#142)
         - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. L331-1 à L331-12)](#143)
-        - [Chapitre II : Des compétences du juge de l'exécution en matière de traitement des situations de surendettement (art. L332-1 à L332-12)](#144)
+        - [Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement (art. L332-1 à L332-12)](#144)
           - [Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement (art. L332-1 à L332-4)](#145)
           - [Section 2 : De la procédure de rétablissement personnel (art. L332-5 à L332-12)](#146)
-        - [Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement (art.  à L332-12)](#147)
-          - [Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement (art.  à L332-12)](#148)
-          - [Section 2 : De la procédure de rétablissement personnel (art.  à L332-12)](#149)
-        - [Chapitre III : Dispositions communes (art. L333-1 à L333-6)](#150)
-        - [Chapitre III bis : Dispositions particulières au traitement de la situation de surendettement d'un entrepreneur individuel à responsabilité limitée (art. L333-7)](#151)
-        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. L334-1 à L334-12)](#152)
-          - [Section 1 : Dispositions applicables à Mayotte (art. L334-1 à L334-3)](#153)
-          - [Section 2 : Dispositions applicables à la Nouvelle-Calédonie (art. L334-4 à L334-6)](#154)
-          - [Section 3 : Dispositions applicables à la Polynésie française (art. L334-7)](#155)
-          - [Section 4 : Dispositions applicables aux îles Wallis et Futuna (art. L334-8 à L334-10)](#156)
-          - [Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. L334-11)](#157)
-          - [Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon (art. L334-12)](#158)
-      - [Titre IV : Cautionnement (art. L341-1 à L341-6)](#159)
-    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#160)
-      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#161)
-        - [Chapitre Ier : Les associations (art. L411-1)](#162)
-        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#163)
-      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#164)
-        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#165)
-          - [Section 1 : Action civile (art. L421-1 à L421-5)](#166)
-          - [Section 2 : Action en cessation d'agissements illicites (art. L421-6)](#167)
-          - [Section 3 : Interventions en justice (art. L421-7)](#168)
-          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#169)
-        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#170)
-    - [Livre V : Les institutions (art. L531-1 à L562-1)](#171)
-      - [Titre III : L'Institut national de la consommation (art. L531-1 à L534-10)](#172)
-        - [Chapitre Ier : Organisation administrative (art. L531-1 à L531-4)](#173)
-        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. L534-1 à L534-10)](#174)
-      - [Titre IV : Le Conseil national de l'alimentation (art. L541-1)](#175)
-        - [Chapitre Ier (art. L541-1)](#176)
-      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#177)
-        - [Chapitre Ier : Missions (art. L561-1)](#178)
-        - [Chapitre II : Fonctionnement (art. L562-1)](#179)
-  - [Partie réglementaire (art. R112-1 à D541-7)](#180)
-    - [Livre Ier : Information des consommateurs et formation des contrats (art. R112-1 à R142-2)](#181)
-      - [Titre Ier : Information des consommateurs (art. R112-1 à R115-3)](#182)
-        - [Chapitre II : Modes de présentation et inscriptions (art. R112-1 à R112-31)](#183)
-        - [Chapitre III : Prix et conditions de vente (art. R113-1)](#184)
-        - [Chapitre IV : Information sur les délais de livraison (art. R114-1)](#185)
-        - [Chapitre V : Valorisation des produits et des services (art. R115-1 à R115-3)](#186)
-          - [Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer (art. R115-1 à R115-3)](#187)
-      - [Titre II : Pratiques commerciales (art. R121-1 à R122-1)](#188)
-        - [Chapitre Ier : Pratiques commerciales réglementées (art. R121-1 à R121-21)](#189)
-          - [Section 2 : Ventes de biens et fournitures de prestations de services à distance (art. R121-1 à R121-2-5)](#190)
-            - [Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers. (art. R121-1 à R121-2)](#191)
-            - [Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers (art. R121-2-1 à R121-2-5)](#192)
-          - [Section 3 : Démarchage (art. R121-3 à R121-6)](#193)
-          - [Section 5 : Ventes ou prestations avec primes (art. R121-8 à R121-10)](#194)
-          - [Section 6 : Loteries publicitaires (art. R121-11 à R121-13)](#195)
-          - [Section 12 : Contrats de fourniture d'électricité ou de gaz naturel (art. R121-14 à R121-21)](#196)
-        - [Chapitre II : Pratiques commerciales illicites (art. R122-1)](#197)
-          - [Section 2 : Ventes sans commande préalable. (art. R122-1)](#198)
-      - [Titre III : Conditions générales des contrats (art. R132-1 à R134-1)](#199)
-        - [Chapitre II : Clauses abusives (art. R132-1 à R132-6)](#200)
-          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. R132-1 à R132-2-1)](#201)
-          - [Section 2 : Commission des clauses abusives (art. R132-3 à R132-6)](#202)
-        - [Chapitre IV : Remise des contrats (art. R134-1)](#203)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R141-1 à R142-2)](#204)
-        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-5)](#205)
-        - [Chapitre II : Procédures civiles simplifiées (art. R142-1 à R142-2)](#206)
-    - [Livre II : Qualité des produits et des services (art. R211-1 à D225-2)](#207)
-      - [Titre Ier : Conformité (art. R211-1 à R218-1)](#208)
-        - [Chapitre Ier : Dispositions générales. (art. R211-1 à R211-5)](#209)
-          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. R211-1 à R211-5)](#210)
-        - [Chapitre IV : Mesures d'application. (art. R214-1 à R214-20)](#211)
-          - [Section 1 : Dispositions générales (art. R214-1)](#212)
-          - [Section 2 : Etiquetage des denrées alimentaires (art. R214-2)](#213)
-          - [Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R214-3)](#214)
-          - [Section 4 : Organismes génétiquement modifiés (art. R214-4)](#215)
-          - [Section 5 : Boissons alcoolisées (art. R214-5)](#216)
-          - [Section 6 :  Arômes (art. R214-6)](#217)
+        - [Chapitre III : Dispositions communes (art. L333-1 à L333-6)](#147)
+        - [Chapitre III bis : Dispositions particulières au traitement de la situation de surendettement d'un entrepreneur individuel à responsabilité limitée (art. L333-7)](#148)
+        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. L334-1 à L334-12)](#149)
+          - [Section 1 : Dispositions applicables à Mayotte (art. L334-1 à L334-3)](#150)
+          - [Section 2 : Dispositions applicables à la Nouvelle-Calédonie (art. L334-4 à L334-6)](#151)
+          - [Section 3 : Dispositions applicables à la Polynésie française (art. L334-7)](#152)
+          - [Section 4 : Dispositions applicables aux îles Wallis et Futuna (art. L334-8 à L334-10)](#153)
+          - [Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. L334-11)](#154)
+          - [Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon (art. L334-12)](#155)
+      - [Titre IV : Cautionnement (art. L341-1 à L341-6)](#156)
+    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#157)
+      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#158)
+        - [Chapitre Ier : Les associations (art. L411-1)](#159)
+        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#160)
+      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#161)
+        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#162)
+          - [Section 1 : Action civile (art. L421-1 à L421-5)](#163)
+          - [Section 2 : Action en cessation d'agissements illicites (art. L421-6)](#164)
+          - [Section 3 : Interventions en justice (art. L421-7)](#165)
+          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#166)
+        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#167)
+    - [Livre V : Les institutions (art. L531-1 à L562-1)](#168)
+      - [Titre III : L'Institut national de la consommation (art. L531-1 à L534-10)](#169)
+        - [Chapitre Ier : Organisation administrative (art. L531-1 à L531-4)](#170)
+        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. L534-1 à L534-10)](#171)
+      - [Titre IV : Le Conseil national de l'alimentation (art. L541-1)](#172)
+        - [Chapitre Ier (art. L541-1)](#173)
+      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#174)
+        - [Chapitre Ier : Missions (art. L561-1)](#175)
+        - [Chapitre II : Fonctionnement (art. L562-1)](#176)
+  - [Partie réglementaire (art. R112-1 à D541-7)](#177)
+    - [Livre Ier : Information des consommateurs et formation des contrats (art. R112-1 à R142-2)](#178)
+      - [Titre Ier : Information des consommateurs (art. R112-1 à R115-3)](#179)
+        - [Chapitre II : Modes de présentation et inscriptions (art. R112-1 à R112-31)](#180)
+        - [Chapitre III : Prix et conditions de vente (art. R113-1)](#181)
+        - [Chapitre IV : Information sur les délais de livraison (art. R114-1)](#182)
+        - [Chapitre V : Valorisation des produits et des services (art. R115-1 à R115-3)](#183)
+          - [Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer (art. R115-1 à R115-3)](#184)
+      - [Titre II : Pratiques commerciales (art. R121-1 à R122-1)](#185)
+        - [Chapitre Ier : Pratiques commerciales réglementées (art. R121-1 à R121-21)](#186)
+          - [Section 2 : Ventes de biens et fournitures de prestations de services à distance (art. R121-1 à R121-2-5)](#187)
+            - [Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers. (art. R121-1 à R121-2)](#188)
+            - [Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers (art. R121-2-1 à R121-2-5)](#189)
+          - [Section 3 : Démarchage (art. R121-3 à R121-6)](#190)
+          - [Section 5 : Ventes ou prestations avec primes (art. R121-8 à R121-10)](#191)
+          - [Section 6 : Loteries publicitaires (art. R121-11 à R121-13)](#192)
+          - [Section 12 : Contrats de fourniture d'électricité ou de gaz naturel (art. R121-14 à R121-21)](#193)
+        - [Chapitre II : Pratiques commerciales illicites (art. R122-1)](#194)
+          - [Section 2 : Ventes sans commande préalable. (art. R122-1)](#195)
+      - [Titre III : Conditions générales des contrats (art. R132-1 à R134-1)](#196)
+        - [Chapitre II : Clauses abusives (art. R132-1 à R132-2-1)](#197)
+          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. R132-1 à R132-2-1)](#198)
+        - [Chapitre IV : Remise des contrats (art. R134-1)](#199)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R141-1 à R142-2)](#200)
+        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-5)](#201)
+        - [Chapitre II : Procédures civiles simplifiées (art. R142-1 à R142-2)](#202)
+    - [Livre II : Qualité des produits et des services (art. R211-1 à D225-2)](#203)
+      - [Titre Ier : Conformité (art. R211-1 à R218-1)](#204)
+        - [Chapitre Ier : Dispositions générales. (art. R211-1 à R211-5)](#205)
+          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. R211-1 à R211-5)](#206)
+        - [Chapitre IV : Mesures d'application. (art. R214-1 à R214-20)](#207)
+          - [Section 1 : Dispositions générales (art. R214-1)](#208)
+          - [Section 2 : Etiquetage des denrées alimentaires (art. R214-2)](#209)
+          - [Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R214-3)](#210)
+          - [Section 4 : Organismes génétiquement modifiés (art. R214-4)](#211)
+          - [Section 5 : Boissons alcoolisées (art. R214-5)](#212)
+          - [Section 6 :  Arômes (art. R214-6)](#213)
           - [Section 7 : Adjonction de vitamines, de minéraux 
-et de certaines autres substances aux denrées alimentaires (art. R214-7)](#218)
-          - [Section 8 : Contaminants (art. R214-8)](#219)
-          - [Section 9 : Fruits et légumes (art. R214-9)](#220)
-          - [Section 10 : Huile d'olive et olives de table (art. R214-10)](#221)
-          - [Section 11 : Œufs et viande de volaille (art. R214-11)](#222)
-          - [Section 12 : Produits laitiers et matières grasses laitières ou non (art. R214-12)](#223)
-          - [Section 13 : Produits de la pêche (art. R214-13)](#224)
-          - [Section 14 : Viandes bovine, ovine et porcine (art. R214-14)](#225)
-          - [Section 15 : Modes de valorisation (art. R214-15)](#226)
-          - [Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale (art. R214-16)](#227)
-          - [Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R214-17)](#228)
-          - [Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R214-18)](#229)
-          - [Section 19 : Engrais (art. R214-19)](#230)
-          - [Section 20 : Détergents (art. R214-20)](#231)
-        - [Chapitre V : Pouvoirs d'enquête (art. R215-1 à R215-23)](#232)
-          - [Section 1 : Autorités qualifiées. (art. R215-1)](#233)
-          - [Section 2 : Recherche et constatation. (art. D215-16 à R215-15)](#234)
-          - [Section 4 : Expertises. (art. R215-18 à R215-23)](#235)
-        - [Chapitre VI : Dispositions communes. (art. R216-2 à R216-3)](#236)
-        - [Chapitre VII : Dispositions particulières. (art. R217-1)](#237)
-        - [Chapitre VIII : Mesures de police administrative (art. R218-1)](#238)
-      - [Titre II : Sécurité (art. R223-1 à D225-2)](#239)
-        - [Chapitre III : Sanctions (art. R223-1 à R223-5)](#240)
-        - [Chapitre IV : La commission de la sécurité des consommateurs (art. R224-1 à R224-12)](#241)
-        - [Chapitre V : Dispositions diverses (art. D225-2)](#242)
-    - [Livre III : Endettement (art. D311-1 à R333-5)](#243)
-      - [Titre Ier : Crédit (art. D311-1 à R*314-2)](#244)
-        - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#245)
-          - [Section 1 : Champ d'application (art. D311-1 à D311-3)](#246)
-          - [Section 2 : Publicité (art. D311-3-1)](#247)
-          - [Section 3 : Crédit gratuit (art. R311-4 à R311-5)](#248)
-          - [Section 4 : Le contrat de crédit (art. R311-6 à R311-7)](#249)
-          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. D311-10 à D311-13)](#250)
-            - [Sous-section 1 : Remboursement anticipé (art. D311-10)](#251)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. D311-11 à D311-13)](#252)
-          - [Section 5 : Les crédits affectés (art. R311-8 à R311-9)](#253)
-        - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#254)
-          - [Section 3 : Le contrat de crédit (art. R312-1)](#255)
-          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#256)
-            - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#257)
-            - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#258)
-          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#259)
-        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article R313-1-1)](#260)
-          - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-9)](#261)
-            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#262)
-            - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-9)](#263)
-          - [Section 3 : Rémunération du vendeur (art. R313-10)](#264)
-          - [Section 7 :  Regroupement de crédits (art. R313-11)](#265)
-          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article R313-1-1)](#266)
-            - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#267)
-            - [Annexes au Chapitre II du Titre Ier du Livre Ier (art. Annexe I à Annexe IV)](#268)
-            - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#269)
-            - [ANNEXE A L'ARTICLE R311-6 (art. Annexe Modèle type n° 1 à Annexe Modèle type n° 6)](#270)
-            - [ANNEXE A L'ARTICLE R311-7 (art. Annexe à l'article R311-7)](#271)
-            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#272)
-            - [ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1-1)](#273)
-        - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#274)
-      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R336-8)](#275)
-        - [Chapitre préliminaire : Les organes de la procédure de surendettement (art. R331-1 à R331-9-4)](#276)
-          - [Section 1 : La commission de surendettement des particuliers (art. R331-1 à R331-8-4)](#277)
-            - [Paragraphe 1 : Répartition des commissions sur le territoire (art. R331-1)](#278)
-            - [Paragraphe 2 : Composition des commissions (art. R331-2 à R331-6)](#279)
-            - [Paragraphe 3 : Fonctionnement des commissions (art. R331-7 à R331-7-2)](#280)
-            - [Paragraphe 4 : Procédure devant les commissions (art. R331-8 à R331-8-4)](#281)
-          - [Section 2 : Le juge de l'exécution (art. R331-9 à R331-9-4)](#282)
-        - [Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement (art. R331-10 à R331-12)](#283)
-          - [Section 1 :  Examen de la recevabilité de la demande (art. R331-10)](#284)
-          - [Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R331-11 à R331-11-3)](#285)
-          - [Section 3 : Suspension des mesures d'expulsion (art. R331-12)](#286)
-        - [Chapitre II : L'état du passif (art. R332-1 à R332-5)](#287)
-          - [Section 1 :  L'état du passif dressé par la commission (art. R332-1 à R332-2)](#288)
-          - [Section 2 : La vérification des créances (art. R332-3 à R332-4)](#289)
-          - [Section 3 : L'état du passif définitivement arrêté (art. R332-5)](#290)
-        - [Chapitre III :  L'orientation du dossier (art. R333-1 à R333-3)](#291)
-        - [Chapitre IV : Les mesures de traitement (art. R334-1 à R334-77)](#292)
-          - [Section 1 : Dispositions communes (art. R334-1)](#293)
-          - [Section 2 : Le plan conventionnel (art. R334-2 à R334-3)](#294)
-          - [Section 3 : Les mesures de traitement ordinaires (art. R334-4 à R334-18)](#295)
-            - [Paragraphe 1 : Les mesures imposées ou recommandées (art. R334-4 à R334-13)](#296)
-            - [Paragraphe 2 : La contestation des mesures de traitement ordinaires (art. R334-14 à R334-18)](#297)
-          - [Section 4 : Les procédures de rétablissement personnel (art. R334-19 à R334-77)](#298)
-            - [Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-27)](#299)
-              - [Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-23)](#300)
-              - [Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire (art. R334-24 à R334-27)](#301)
-            - [Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire (art. R334-28 à R334-75)](#302)
-              - [Paragraphe 1 : L'ouverture de la procédure (art. R334-28 à R334-35)](#303)
-              - [Paragraphe 2 :  La déclaration et l'arrêté des créances (art. R334-36 à R334-40)](#304)
-              - [Paragraphe 3 : La liquidation des biens du débiteur (art. R334-41 à R334-71)](#305)
-                - [Sous-paragraphe 1 : Dispositions générales (art. R334-41 à R334-47)](#306)
-                - [Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R334-48 à R334-60)](#307)
-                - [Sous-paragraphe 3 : Répartition du produit des actifs (art. R334-61 à R334-71)](#308)
-              - [Paragraphe 4 : La clôture de la procédure (art. R334-72 à R334-73)](#309)
-              - [Paragraphe 5 : Le plan (art. R334-74 à R334-75)](#310)
-            - [Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire (art. R334-76 à R334-77)](#311)
-        - [Chapitre V : Dispositions communes (art. R335-1 à R335-4)](#312)
-        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#313)
-          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#314)
-          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#315)
-          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#316)
-          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#317)
-          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#318)
-      - [Titre IV : Dispositions diverses. (art. R333-5)](#319)
-    - [Livre IV : Les associations de consommateurs (art. R411-1 à R431-3)](#320)
-      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#321)
-        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#322)
-      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#323)
-        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#324)
-      - [Titre III : Reconnaissance spécifique des associations (art. R431-1 à R431-3)](#325)
-    - [Livre V : Les institutions (art. D511-1 à D541-7)](#326)
-      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#327)
-        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#328)
-          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#329)
-          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11-1)](#330)
-          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#331)
-      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#332)
-        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#333)
-        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#334)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R534-12)](#335)
-        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#336)
-        - [Chapitre II : Organes consultatifs. (art. R532-1)](#337)
-        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-5)](#338)
-        - [Chapitre IV : Dispositions diverses. (art. R534-11 à R534-12)](#339)
-          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#340)
+et de certaines autres substances aux denrées alimentaires (art. R214-7)](#214)
+          - [Section 8 : Contaminants (art. R214-8)](#215)
+          - [Section 9 : Fruits et légumes (art. R214-9)](#216)
+          - [Section 10 : Huile d'olive et olives de table (art. R214-10)](#217)
+          - [Section 11 : Œufs et viande de volaille (art. R214-11)](#218)
+          - [Section 12 : Produits laitiers et matières grasses laitières ou non (art. R214-12)](#219)
+          - [Section 13 : Produits de la pêche (art. R214-13)](#220)
+          - [Section 14 : Viandes bovine, ovine et porcine (art. R214-14)](#221)
+          - [Section 15 : Modes de valorisation (art. R214-15)](#222)
+          - [Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale (art. R214-16)](#223)
+          - [Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R214-17)](#224)
+          - [Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R214-18)](#225)
+          - [Section 19 : Engrais (art. R214-19)](#226)
+          - [Section 20 : Détergents (art. R214-20)](#227)
+        - [Chapitre V : Pouvoirs d'enquête (art. R215-1 à R215-23)](#228)
+          - [Section 1 : Autorités qualifiées. (art. R215-1)](#229)
+          - [Section 2 : Recherche et constatation. (art. D215-16 à R215-15)](#230)
+          - [Section 4 : Expertises. (art. R215-18 à R215-23)](#231)
+        - [Chapitre VI : Dispositions communes. (art. R216-2 à R216-3)](#232)
+        - [Chapitre VII : Dispositions particulières. (art. R217-1)](#233)
+        - [Chapitre VIII : Mesures de police administrative (art. R218-1)](#234)
+      - [Titre II : Sécurité (art. R223-1 à D225-2)](#235)
+        - [Chapitre III : Sanctions (art. R223-1 à R223-5)](#236)
+        - [Chapitre V : Dispositions diverses (art. D225-2)](#237)
+    - [Livre III : Endettement (art. D311-1 à R333-5)](#238)
+      - [Titre Ier : Crédit (art. D311-1 à R*314-2)](#239)
+        - [Chapitre Ier : Crédit à la consommation (art. D311-1 à R311-9)](#240)
+          - [Section 1 : Champ d'application (art. D311-1 à D311-3)](#241)
+          - [Section 2 : Publicité (art. D311-3-1)](#242)
+          - [Section 3 : Crédit gratuit (art. R311-4 à R311-5)](#243)
+          - [Section 4 : Le contrat de crédit (art. R311-6 à R311-7)](#244)
+          - [Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. D311-10 à D311-13)](#245)
+            - [Sous-section 1 : Remboursement anticipé (art. D311-10)](#246)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. D311-11 à D311-13)](#247)
+          - [Section 5 : Les crédits affectés (art. R311-8 à R311-9)](#248)
+        - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#249)
+          - [Section 3 : Le contrat de crédit (art. R312-1)](#250)
+          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#251)
+            - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#252)
+            - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#253)
+          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#254)
+        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article R313-1-1)](#255)
+          - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-9)](#256)
+            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#257)
+            - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-9)](#258)
+          - [Section 3 : Rémunération du vendeur (art. R313-10)](#259)
+          - [Section 7 :  Regroupement de crédits (art. R313-11)](#260)
+          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article R313-1-1)](#261)
+            - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#262)
+            - [Annexes au Chapitre II du Titre Ier du Livre Ier (art. Annexe I à Annexe IV)](#263)
+            - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#264)
+            - [ANNEXE A L'ARTICLE R311-6 (art. Annexe Modèle type n° 1 à Annexe Modèle type n° 6)](#265)
+            - [ANNEXE A L'ARTICLE R311-7 (art. Annexe à l'article R311-7)](#266)
+            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#267)
+            - [ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1-1)](#268)
+        - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#269)
+      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R336-8)](#270)
+        - [Chapitre préliminaire : Les organes de la procédure de surendettement (art. R331-1 à R331-9-4)](#271)
+          - [Section 1 : La commission de surendettement des particuliers (art. R331-1 à R331-8-4)](#272)
+            - [Paragraphe 1 : Répartition des commissions sur le territoire (art. R331-1)](#273)
+            - [Paragraphe 2 : Composition des commissions (art. R331-2 à R331-6)](#274)
+            - [Paragraphe 3 : Fonctionnement des commissions (art. R331-7 à R331-7-2)](#275)
+            - [Paragraphe 4 : Procédure devant les commissions (art. R331-8 à R331-8-4)](#276)
+          - [Section 2 : Le juge de l'exécution (art. R331-9 à R331-9-4)](#277)
+        - [Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement (art. R331-10 à R331-12)](#278)
+          - [Section 1 :  Examen de la recevabilité de la demande (art. R331-10)](#279)
+          - [Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R331-11 à R331-11-3)](#280)
+          - [Section 3 : Suspension des mesures d'expulsion (art. R331-12)](#281)
+        - [Chapitre II : L'état du passif (art. R332-1 à R332-5)](#282)
+          - [Section 1 :  L'état du passif dressé par la commission (art. R332-1 à R332-2)](#283)
+          - [Section 2 : La vérification des créances (art. R332-3 à R332-4)](#284)
+          - [Section 3 : L'état du passif définitivement arrêté (art. R332-5)](#285)
+        - [Chapitre III :  L'orientation du dossier (art. R333-1 à R333-3)](#286)
+        - [Chapitre IV : Les mesures de traitement (art. R334-1 à R334-77)](#287)
+          - [Section 1 : Dispositions communes (art. R334-1)](#288)
+          - [Section 2 : Le plan conventionnel (art. R334-2 à R334-3)](#289)
+          - [Section 3 : Les mesures de traitement ordinaires (art. R334-4 à R334-18)](#290)
+            - [Paragraphe 1 : Les mesures imposées ou recommandées (art. R334-4 à R334-13)](#291)
+            - [Paragraphe 2 : La contestation des mesures de traitement ordinaires (art. R334-14 à R334-18)](#292)
+          - [Section 4 : Les procédures de rétablissement personnel (art. R334-19 à R334-77)](#293)
+            - [Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-27)](#294)
+              - [Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-23)](#295)
+              - [Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire (art. R334-24 à R334-27)](#296)
+            - [Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire (art. R334-28 à R334-75)](#297)
+              - [Paragraphe 1 : L'ouverture de la procédure (art. R334-28 à R334-35)](#298)
+              - [Paragraphe 2 :  La déclaration et l'arrêté des créances (art. R334-36 à R334-40)](#299)
+              - [Paragraphe 3 : La liquidation des biens du débiteur (art. R334-41 à R334-71)](#300)
+                - [Sous-paragraphe 1 : Dispositions générales (art. R334-41 à R334-47)](#301)
+                - [Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R334-48 à R334-60)](#302)
+                - [Sous-paragraphe 3 : Répartition du produit des actifs (art. R334-61 à R334-71)](#303)
+              - [Paragraphe 4 : La clôture de la procédure (art. R334-72 à R334-73)](#304)
+              - [Paragraphe 5 : Le plan (art. R334-74 à R334-75)](#305)
+            - [Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire (art. R334-76 à R334-77)](#306)
+        - [Chapitre V : Dispositions communes (art. R335-1 à R335-4)](#307)
+        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#308)
+          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#309)
+          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#310)
+          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#311)
+          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#312)
+          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#313)
+      - [Titre IV : Dispositions diverses. (art. R333-5)](#314)
+    - [Livre IV : Les associations de consommateurs (art. R411-1 à R431-3)](#315)
+      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#316)
+        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#317)
+      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#318)
+        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#319)
+      - [Titre III : Reconnaissance spécifique des associations (art. R431-1 à R431-3)](#320)
+    - [Livre V : Les institutions (art. D511-1 à D541-7)](#321)
+      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#322)
+        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#323)
+          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#324)
+          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11-1)](#325)
+          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#326)
+      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#327)
+        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#328)
+        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#329)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R534-17)](#330)
+        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#331)
+        - [Chapitre II : Organes consultatifs. (art. R532-1)](#332)
+        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-6)](#333)
+        - [Chapitre IV : Dispositions diverses. (art. R534-11 à R534-12)](#334)
+          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#335)
+        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. R534-1 à R534-17)](#336)
+          - [Section 1 : La commission des clauses abusives (art. R534-1 à R534-4)](#337)
+          - [Section 2 : La commission de la sécurité des consommateurs (art. R534-5 à R534-10)](#338)
+          - [Section 3 : La commission de la médiation de la consommation (art.  à R534-10)](#339)
+          - [Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation (art. R534-13 à R534-17)](#340)
       - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#341)
 # Partie législative<a id=1></a>
 
@@ -18940,7 +18940,7 @@ _Cite_:
   - Code monétaire et financier - art. L143-1
 
 
-#### Chapitre II : Des compétences du juge de l'exécution en matière de traitement des situations de surendettement<a id=144></a>
+#### Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement<a id=144></a>
 
 ##### Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement<a id=145></a>
 
@@ -19532,13 +19532,7 @@ _Cité par_:
   - Code de la consommation - art. R334-77 (Ab)
 
 
-#### Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement<a id=147></a>
-
-##### Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement<a id=148></a>
-
-##### Section 2 : De la procédure de rétablissement personnel<a id=149></a>
-
-#### Chapitre III : Dispositions communes<a id=150></a>
+#### Chapitre III : Dispositions communes<a id=147></a>
 
 ###### Article L333-1
 
@@ -19963,7 +19957,7 @@ _Cité par_:
   - Code de la consommation - art. L334-2 (VD)
 
 
-#### Chapitre III bis : Dispositions particulières au traitement de la situation de surendettement d'un entrepreneur individuel à responsabilité limitée<a id=151></a>
+#### Chapitre III bis : Dispositions particulières au traitement de la situation de surendettement d'un entrepreneur individuel à responsabilité limitée<a id=148></a>
 
 ###### Article L333-7
 
@@ -20010,9 +20004,9 @@ _Cité par_:
   - Code de la consommation - art. L334-9 (V)
 
 
-#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=152></a>
+#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=149></a>
 
-##### Section 1 : Dispositions applicables à Mayotte<a id=153></a>
+##### Section 1 : Dispositions applicables à Mayotte<a id=150></a>
 
 ###### Article L334-1
 
@@ -20124,7 +20118,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 2 : Dispositions applicables à la Nouvelle-Calédonie<a id=154></a>
+##### Section 2 : Dispositions applicables à la Nouvelle-Calédonie<a id=151></a>
 
 ###### Article L334-4
 
@@ -20281,7 +20275,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 3 : Dispositions applicables à la Polynésie française<a id=155></a>
+##### Section 3 : Dispositions applicables à la Polynésie française<a id=152></a>
 
 ###### Article L334-7
 
@@ -20343,7 +20337,7 @@ _Cité par_:
   - Arrêté du 26 octobre 2010 - art. 17 (VD)
 
 
-##### Section 4 : Dispositions applicables aux îles Wallis et Futuna<a id=156></a>
+##### Section 4 : Dispositions applicables aux îles Wallis et Futuna<a id=153></a>
 
 ###### Article L334-8
 
@@ -20449,7 +20443,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=157></a>
+##### Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=154></a>
 
 ###### Article L334-11
 
@@ -20480,7 +20474,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=158></a>
+##### Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=155></a>
 
 ###### Article L334-12
 
@@ -20512,7 +20506,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-### Titre IV : Cautionnement<a id=159></a>
+### Titre IV : Cautionnement<a id=156></a>
 
 ###### Article L341-1
 
@@ -20686,11 +20680,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. L343-6 (V)
 
 
-## Livre IV : Les associations de consommateurs<a id=160></a>
+## Livre IV : Les associations de consommateurs<a id=157></a>
 
-### Titre Ier : Agrément des associations<a id=161></a>
+### Titre Ier : Agrément des associations<a id=158></a>
 
-#### Chapitre Ier : Les associations<a id=162></a>
+#### Chapitre Ier : Les associations<a id=159></a>
 
 ###### Article L411-1
 
@@ -20767,7 +20761,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L811-1 (V)
 
 
-#### Chapitre II : Les sociétés coopératives de consommation<a id=163></a>
+#### Chapitre II : Les sociétés coopératives de consommation<a id=160></a>
 
 ###### Article L412-1
 
@@ -20808,11 +20802,11 @@ _Cité par_:
   - Code de la consommation - art. R411-7 (Ab)
 
 
-### Titre II : Actions en justice des associations<a id=164></a>
+### Titre II : Actions en justice des associations<a id=161></a>
 
-#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=165></a>
+#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=162></a>
 
-##### Section 1 : Action civile<a id=166></a>
+##### Section 1 : Action civile<a id=163></a>
 
 ###### Article L421-1
 
@@ -20992,7 +20986,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L621-5 (V)
 
 
-##### Section 2 : Action en cessation d'agissements illicites<a id=167></a>
+##### Section 2 : Action en cessation d'agissements illicites<a id=164></a>
 
 ###### Article L421-6
 
@@ -21029,7 +21023,7 @@ _Cite_:
   - Code de la consommation - art. L421-1 (V)
 
 
-##### Section 3 : Interventions en justice<a id=168></a>
+##### Section 3 : Interventions en justice<a id=165></a>
 
 ###### Article L421-7
 
@@ -21057,7 +21051,7 @@ _Cite_:
   - Code de la consommation - art. L421-2 (V)
 
 
-##### Section 4 : Dispositions communes<a id=169></a>
+##### Section 4 : Dispositions communes<a id=166></a>
 
 ###### Article L421-8
 
@@ -21123,7 +21117,7 @@ _Cite_:
   - Code pénal - art. 131-35
 
 
-#### Chapitre II : Action en représentation conjointe<a id=170></a>
+#### Chapitre II : Action en représentation conjointe<a id=167></a>
 
 ###### Article L422-1
 
@@ -21238,11 +21232,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. L622-4 (V)
 
 
-## Livre V : Les institutions<a id=171></a>
+## Livre V : Les institutions<a id=168></a>
 
-### Titre III : L'Institut national de la consommation<a id=172></a>
+### Titre III : L'Institut national de la consommation<a id=169></a>
 
-#### Chapitre Ier : Organisation administrative<a id=173></a>
+#### Chapitre Ier : Organisation administrative<a id=170></a>
 
 ###### Article L531-1
 
@@ -21334,7 +21328,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L822-3 (V)
 
 
-#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=174></a>
+#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=171></a>
 
 ###### Article L534-1
 
@@ -21604,9 +21598,9 @@ _Cité par_:
   - Code de la consommation - art. R534-5 (Ab)
 
 
-### Titre IV : Le Conseil national de l'alimentation<a id=175></a>
+### Titre IV : Le Conseil national de l'alimentation<a id=172></a>
 
-#### Chapitre Ier<a id=176></a>
+#### Chapitre Ier<a id=173></a>
 
 ###### Article L541-1
 
@@ -21626,9 +21620,9 @@ _Cite_:
   - Code de la santé publique - art. L3231-1
 
 
-### Titre VI : Le laboratoire d'essais<a id=177></a>
+### Titre VI : Le laboratoire d'essais<a id=174></a>
 
-#### Chapitre Ier : Missions<a id=178></a>
+#### Chapitre Ier : Missions<a id=175></a>
 
 ###### Article L561-1
 
@@ -21679,7 +21673,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-1 (V)
 
 
-#### Chapitre II : Fonctionnement<a id=179></a>
+#### Chapitre II : Fonctionnement<a id=176></a>
 
 ###### Article L562-1
 
@@ -21709,13 +21703,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-2 (V)
 
 
-# Partie réglementaire<a id=180></a>
+# Partie réglementaire<a id=177></a>
 
-## Livre Ier : Information des consommateurs et formation des contrats<a id=181></a>
+## Livre Ier : Information des consommateurs et formation des contrats<a id=178></a>
 
-### Titre Ier : Information des consommateurs<a id=182></a>
+### Titre Ier : Information des consommateurs<a id=179></a>
 
-#### Chapitre II : Modes de présentation et inscriptions<a id=183></a>
+#### Chapitre II : Modes de présentation et inscriptions<a id=180></a>
 
 ###### Article R112-1
 
@@ -23242,7 +23236,7 @@ _Cite_:
   - Code de la consommation
 
 
-#### Chapitre III : Prix et conditions de vente<a id=184></a>
+#### Chapitre III : Prix et conditions de vente<a id=181></a>
 
 ###### Article R113-1
 
@@ -23287,7 +23281,7 @@ _Cité par_:
   - Code du tourisme. - art. R231-1-4 (V)
 
 
-#### Chapitre IV : Information sur les délais de livraison<a id=185></a>
+#### Chapitre IV : Information sur les délais de livraison<a id=182></a>
 
 ###### Article R114-1
 
@@ -23314,9 +23308,9 @@ _Cite_:
   - Code de la consommation - art. L114-1
 
 
-#### Chapitre V : Valorisation des produits et des services<a id=186></a>
+#### Chapitre V : Valorisation des produits et des services<a id=183></a>
 
-##### Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer<a id=187></a>
+##### Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer<a id=184></a>
 
 ###### Article R115-1
 
@@ -23406,13 +23400,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R453-1 (V)
 
 
-### Titre II : Pratiques commerciales<a id=188></a>
+### Titre II : Pratiques commerciales<a id=185></a>
 
-#### Chapitre Ier : Pratiques commerciales réglementées<a id=189></a>
+#### Chapitre Ier : Pratiques commerciales réglementées<a id=186></a>
 
-##### Section 2 : Ventes de biens et fournitures de prestations de services à distance<a id=190></a>
+##### Section 2 : Ventes de biens et fournitures de prestations de services à distance<a id=187></a>
 
-##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers.<a id=191></a>
+##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers.<a id=188></a>
 
 ###### Article R121-1
 
@@ -23501,7 +23495,7 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers<a id=192></a>
+##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers<a id=189></a>
 
 ###### Article R121-2-1
 
@@ -23732,7 +23726,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R121-6-1 (Ab)
 
 
-##### Section 3 : Démarchage<a id=193></a>
+##### Section 3 : Démarchage<a id=190></a>
 
 ###### Article R121-3
 
@@ -23878,7 +23872,7 @@ _Cite_:
   - Code de la consommation R121-4, R121-5
 
 
-##### Section 5 : Ventes ou prestations avec primes<a id=194></a>
+##### Section 5 : Ventes ou prestations avec primes<a id=191></a>
 
 ###### Article R121-8
 
@@ -23971,7 +23965,7 @@ _Cite_:
   - Code de la consommation
 
 
-##### Section 6 : Loteries publicitaires<a id=195></a>
+##### Section 6 : Loteries publicitaires<a id=192></a>
 
 ###### Article R121-11
 
@@ -24067,7 +24061,7 @@ _Cite_:
   - Code de la consommation L121-35, L122-1, R121-8, R121-10
 
 
-##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel<a id=196></a>
+##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel<a id=193></a>
 
 ###### Article R121-14
 
@@ -24319,9 +24313,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R242-15 (V)
 
 
-#### Chapitre II : Pratiques commerciales illicites<a id=197></a>
+#### Chapitre II : Pratiques commerciales illicites<a id=194></a>
 
-##### Section 2 : Ventes sans commande préalable.<a id=198></a>
+##### Section 2 : Ventes sans commande préalable.<a id=195></a>
 
 ###### Article R122-1
 
@@ -24382,11 +24376,11 @@ _Cite_:
   - PILOTE_SUIVEUR: Code pénal - art. R635-2
 
 
-### Titre III : Conditions générales des contrats<a id=199></a>
+### Titre III : Conditions générales des contrats<a id=196></a>
 
-#### Chapitre II : Clauses abusives<a id=200></a>
+#### Chapitre II : Clauses abusives<a id=197></a>
 
-##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=201></a>
+##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=198></a>
 
 ###### Article R132-1
 
@@ -24568,172 +24562,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R212-4 (V)
 
 
-##### Section 2 : Commission des clauses abusives<a id=202></a>
-
-###### Article R132-3
-
-La commission des clauses abusives, instituée par l'article L. 132-2, comprend treize membres répartis de la manière
-suivante :
-
-1° Un magistrat de l'ordre judiciaire, président ;
-
-2° Deux magistrats de l'ordre judiciaire ou administratif ou membres du Conseil d'Etat ;
-
-3° Deux personnalités qualifiées en matière de droit ou de technique des contrats, choisies après avis du Conseil national de
-la consommation ;
-
-4° Quatre représentants des professionnels ;
-
-5° Quatre représentants des consommateurs.
-
-Un vice-président, nommé au titre du 2°, est désigné.
-
-Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
-Commission des clauses abusives. Il ne prend pas part aux votes sur les recommandations et avis.
-
-La fonction de commissaire du Gouvernement est exercée par le directeur général de la concurrence, de la consommation et de
-la répression des fraudes ou son représentant.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2010-801 du 13 juillet 2010 - art. 12
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 3
-
-_Cite_:
-
-  - Code de la consommation - art. L132-2
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. R534-1 (VD)
-
-
-###### Article R132-4
-
-Le président et les membres de la commission sont nommés par arrêté du ministre chargé de la consommation pour un mandat,
-renouvelable, de trois ans. Cet arrêté désigne un suppléant pour chaque membre titulaire à l'exception du président. La
-nomination des magistrats est faite sur proposition du garde des sceaux, ministre de la justice.
-
-Tout membre de la commission ne peut délibérer dans une affaire lorsqu'il a un intérêt direct et personnel ou s'il représente
-ou a représenté une des parties intéressées.
-
-La commission est assistée d'un secrétaire général et d'un ou plusieurs rapporteurs permanents mis à disposition par le
-ministre chargé de la consommation. En outre, des rapporteurs particuliers peuvent être désignés par le président à raison de
-leurs compétences.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-314 1993-03-10 art. 2
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 4
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. R534-2 (VD)
-
-
-###### Article R132-5
-
-La commission siège en formation plénière ou en une ou plusieurs formations restreintes composées du président ou du vice-
-président et des membres de la commission désignés à cet effet par le président.
-
-Le président répartit les affaires qu'il n'entend pas réserver à la formation plénière entre les formations restreintes. Il
-répartit avec le secrétaire général les affaires entre les rapporteurs.
-
-Les membres de la commission et les rapporteurs peuvent entendre toute personne susceptible d'apporter des informations sur
-les affaires dont ils ont la charge et se faire communiquer tout document nécessaire à l'accomplissement de leur mission.
-
-Les séances ne sont pas publiques. Les parties intéressées peuvent demander à être entendues avant le délibéré sauf lorsque
-est examinée une saisine judiciaire. En cas de partage égal des voix, celle du président est prépondérante.
-
-Tout membre titulaire qui n'assiste pas, sans motif légitime, à trois réunions consécutives est déclaré démissionnaire.
-
-La commission établit son règlement intérieur qui définit notamment les modalités matérielles de recevabilité des saisines
-autres que d'origine judiciaire. Ce règlement est publié au Bulletin officiel de la concurrence, de la consommation et de la
-répression des fraudes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-314 1993-03-10 art. 3
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 5
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. R534-3 (VD)
-
-
-###### Article R132-6
-
-La commission peut être saisie pour avis lorsque à l'occasion d'une instance le caractère abusif d'une clause contractuelle
-est soulevé.
-
-Le juge compétent demande à la commission, par décision non susceptible de recours, son avis sur le caractère abusif de cette
-clause tel que défini à l'article L. 132-1. L'avis ne lie pas le juge.
-
-La commission fait connaître son avis dans un délai maximum de trois mois à compter de sa saisine.
-
-Il est sursis à toute décision sur le fond de l'affaire jusqu'à réception de l'avis de la commission ou, à défaut, jusqu'à
-l'expiration du délai de trois mois susmentionné. Toutefois, les mesures urgentes ou conservatoires nécessaires peuvent être
-prises.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°93-314 1993-03-10 art. 4
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 6
-
-_Cite_:
-
-  - Code de la consommation - art. L132-1
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. R534-4 (VD)
-
-
-#### Chapitre IV : Remise des contrats<a id=203></a>
+#### Chapitre IV : Remise des contrats<a id=199></a>
 
 ###### Article R134-1
 
@@ -24766,9 +24595,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R131-1 (V)
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=204></a>
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=200></a>
 
-#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=205></a>
+#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=201></a>
 
 ###### Article R141-1
 
@@ -24905,7 +24734,7 @@ _Cite_:
   - Code de la consommation - art. L141-1
 
 
-#### Chapitre II : Procédures civiles simplifiées<a id=206></a>
+#### Chapitre II : Procédures civiles simplifiées<a id=202></a>
 
 ###### Article R142-1
 
@@ -25067,13 +24896,13 @@ _Cite_:
   - Code de procédure civile - art. 97 (V)
 
 
-## Livre II : Qualité des produits et des services<a id=207></a>
+## Livre II : Qualité des produits et des services<a id=203></a>
 
-### Titre Ier : Conformité<a id=208></a>
+### Titre Ier : Conformité<a id=204></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=209></a>
+#### Chapitre Ier : Dispositions générales.<a id=205></a>
 
-##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=210></a>
+##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=206></a>
 
 ###### Article R211-1
 
@@ -25212,9 +25041,9 @@ _Cite_:
   - Code de la consommation
 
 
-#### Chapitre IV : Mesures d'application.<a id=211></a>
+#### Chapitre IV : Mesures d'application.<a id=207></a>
 
-##### Section 1 : Dispositions générales<a id=212></a>
+##### Section 1 : Dispositions générales<a id=208></a>
 
 ###### Article R214-1
 
@@ -25240,7 +25069,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 2 : Etiquetage des denrées alimentaires<a id=213></a>
+##### Section 2 : Etiquetage des denrées alimentaires<a id=209></a>
 
 ###### Article R214-2
 
@@ -25263,7 +25092,7 @@ _Créé par_:
   - Décret n°2009-1083 du 1er septembre 2009 - art. 1
 
 
-##### Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=214></a>
+##### Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=210></a>
 
 ###### Article R214-3
 
@@ -25284,7 +25113,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 4 : Organismes génétiquement modifiés<a id=215></a>
+##### Section 4 : Organismes génétiquement modifiés<a id=211></a>
 
 ###### Article R214-4
 
@@ -25313,7 +25142,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 5 : Boissons alcoolisées<a id=216></a>
+##### Section 5 : Boissons alcoolisées<a id=212></a>
 
 ###### Article R214-5
 
@@ -25344,7 +25173,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 6 :  Arômes<a id=217></a>
+##### Section 6 :  Arômes<a id=213></a>
 
 ###### Article R214-6
 
@@ -25364,7 +25193,7 @@ _Cite_:
 
 
 ##### Section 7 : Adjonction de vitamines, de minéraux 
-et de certaines autres substances aux denrées alimentaires<a id=218></a>
+et de certaines autres substances aux denrées alimentaires<a id=214></a>
 
 ###### Article R214-7
 
@@ -25385,7 +25214,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 8 : Contaminants<a id=219></a>
+##### Section 8 : Contaminants<a id=215></a>
 
 ###### Article R214-8
 
@@ -25407,7 +25236,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 9 : Fruits et légumes<a id=220></a>
+##### Section 9 : Fruits et légumes<a id=216></a>
 
 ###### Article R214-9
 
@@ -25446,7 +25275,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 10 : Huile d'olive et olives de table<a id=221></a>
+##### Section 10 : Huile d'olive et olives de table<a id=217></a>
 
 ###### Article R214-10
 
@@ -25489,7 +25318,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 11 : Œufs et viande de volaille<a id=222></a>
+##### Section 11 : Œufs et viande de volaille<a id=218></a>
 
 ###### Article R214-11
 
@@ -25529,7 +25358,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 12 : Produits laitiers et matières grasses laitières ou non<a id=223></a>
+##### Section 12 : Produits laitiers et matières grasses laitières ou non<a id=219></a>
 
 ###### Article R214-12
 
@@ -25574,7 +25403,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 13 : Produits de la pêche<a id=224></a>
+##### Section 13 : Produits de la pêche<a id=220></a>
 
 ###### Article R214-13
 
@@ -25617,7 +25446,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 14 : Viandes bovine, ovine et porcine<a id=225></a>
+##### Section 14 : Viandes bovine, ovine et porcine<a id=221></a>
 
 ###### Article R214-14
 
@@ -25667,7 +25496,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 15 : Modes de valorisation<a id=226></a>
+##### Section 15 : Modes de valorisation<a id=222></a>
 
 ###### Article R214-15
 
@@ -25702,7 +25531,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale<a id=227></a>
+##### Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale<a id=223></a>
 
 ###### Article R214-16
 
@@ -25724,7 +25553,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=228></a>
+##### Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=224></a>
 
 ###### Article R214-17
 
@@ -25755,7 +25584,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-35 (V)
 
 
-##### Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=229></a>
+##### Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=225></a>
 
 ###### Article R214-18
 
@@ -25791,7 +25620,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 19 : Engrais<a id=230></a>
+##### Section 19 : Engrais<a id=226></a>
 
 ###### Article R214-19
 
@@ -25812,7 +25641,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 20 : Détergents<a id=231></a>
+##### Section 20 : Détergents<a id=227></a>
 
 ###### Article R214-20
 
@@ -25836,9 +25665,9 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-#### Chapitre V : Pouvoirs d'enquête<a id=232></a>
+#### Chapitre V : Pouvoirs d'enquête<a id=228></a>
 
-##### Section 1 : Autorités qualifiées.<a id=233></a>
+##### Section 1 : Autorités qualifiées.<a id=229></a>
 
 ###### Article R215-1
 
@@ -25870,7 +25699,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 1
 
 
-##### Section 2 : Recherche et constatation.<a id=234></a>
+##### Section 2 : Recherche et constatation.<a id=230></a>
 
 ###### Article D215-16
 
@@ -26418,7 +26247,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 du 22 janvier 1919 - art. 36 (Ab)
 
 
-##### Section 4 : Expertises.<a id=235></a>
+##### Section 4 : Expertises.<a id=231></a>
 
 ###### Article R215-18
 
@@ -26691,7 +26520,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 23 bis
 
 
-#### Chapitre VI : Dispositions communes.<a id=236></a>
+#### Chapitre VI : Dispositions communes.<a id=232></a>
 
 ###### Article R216-2
 
@@ -26770,7 +26599,7 @@ _Cité par_:
   - Code de la consommation - art. R219-3 (Ab)
 
 
-#### Chapitre VII : Dispositions particulières.<a id=237></a>
+#### Chapitre VII : Dispositions particulières.<a id=233></a>
 
 ###### Article R217-1
 
@@ -26812,7 +26641,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-#### Chapitre VIII : Mesures de police administrative<a id=238></a>
+#### Chapitre VIII : Mesures de police administrative<a id=234></a>
 
 ###### Article R218-1
 
@@ -26853,9 +26682,9 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 35
 
 
-### Titre II : Sécurité<a id=239></a>
+### Titre II : Sécurité<a id=235></a>
 
-#### Chapitre III : Sanctions<a id=240></a>
+#### Chapitre III : Sanctions<a id=236></a>
 
 ###### Article R223-1
 
@@ -27035,399 +26864,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R452-4 (M)
 
 
-#### Chapitre IV : La commission de la sécurité des consommateurs<a id=241></a>
-
-###### Article R224-1
-
-La commission de la sécurité des consommateurs comprend, outre son président, quinze membres, nommés par arrêté du ministre
-chargé de la consommation après avis des ministres intéressés :
-
-1° Un magistrat de l'ordre judiciaire, proposé par l'assemblée générale de la Cour de cassation ;
-
-2° Un membre de la Cour des comptes, proposé par l'ensemble des magistrats qui la composent ;
-
-3° Une personnalité qualifiée dans le droit de la consommation issue du monde universitaire, nommée par le ministre chargé de
-la consommation ;
-
-4° Trois membres des organisations nationales de consommateurs, choisis sur une liste de neuf noms proposée par le collège
-des consommateurs du Conseil national de la consommation ;
-
-5° Trois membres des organisations nationales de professionnels, choisis sur une liste de neuf noms proposée par le collège
-professionnel du Conseil national de la consommation ;
-
-6° Six personnalités qualifiées, chacune d'elle choisie sur une liste comportant trois noms, la première liste proposée par
-le président du Haut Conseil de la santé publique, la deuxième proposée par le conseil d'administration du Laboratoire
-national d'essais, la troisième proposée par le conseil d'administration de l'Institut national de la santé et de la
-recherche médicale, la quatrième proposée par le conseil d'administration de la Caisse nationale d'assurance maladie des
-travailleurs salariés, la cinquième proposée par le conseil d'administration du centre scientifique et technique du bâtiment
-et la sixième, composée de médecins compétents en matière d'aide médicale urgente, proposée par le président du Conseil
-national de l'ordre des médecins.
-
-Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
-Commission de la sécurité des consommateurs. Il ne prend pas part aux votes sur les avis. Il est, ainsi que son représentant,
-astreint aux règles de secret définies à l'article L. 224-6.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2010-801 du 13 juillet 2010 - art. 13
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 8
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. R534-5 (VD)
-
-
-###### Article R224-2
-
-Le président de la commission de la sécurité des consommateurs est nommé pour cinq ans, les membres de la commission pour
-trois ans.
-
-Les mandats du président et des membres de la commission sont renouvelables une fois.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 2 (M)
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 9
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. R534-6 (VD)
-
-
-###### Article R224-3
-
-Tout membre de la commission qui, sans raison valable, n'a pas participé à trois séances consécutives est considéré comme
-démissionnaire d'office de ses fonctions.
-
-En cas de décès ou de démission son successeur est désigné, dans les conditions fixées à l'article R. 224-1, pour la durée du
-mandat restant à courir.
-
-Si cette durée est inférieure à dix-huit mois, le mandat ainsi accompli par le successeur n'est pas pris en compte pour
-l'application de la règle selon laquelle les mandats ne sont renouvelables qu'une fois.
-
-En cas d'absence ou d'empêchement, le président est remplacé par le magistrat de l'ordre judiciaire ou, à défaut, par le
-membre de la Cour des comptes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 3 (M)
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2006-665 du 7 juin 2006 - art. 55 () JORF 8 juin 2006 en vigueur le 1er août 2006
-
-_Abrogé par_:
-
-  - Décret n°2010-1221 du 18 octobre 2010 - art. 10
-
-_Cite_:
-
-  - Code de la consommation
-
-
-###### Article R224-4
-
-Des agents publics et des magistrats mis à la disposition de la commission avec l'accord du président, pour une durée
-déterminée renouvelable, l'assistent dans ses travaux.
-
-Le président désigne l'un d'entre eux pour exercer les fonctions de secrétaire général.
-
-La commission peut également, pour ses recherches, demander le concours des agents mentionnés à l'article L. 222-1. Ces
-agents adressent directement leurs rapports à la commission.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-_Abrogé par_:
-
-  - Décret n°2010-1221 du 18 octobre 2010 - art. 10
-
-_Cite_:
-
-  - Code de la consommation - art. L222-1
-
-
-###### Article R224-5
-
-Les crédits nécessaires à la commission pour l'accomplissement de sa mission figurent au budget du ministère chargé de la
-consommation et sont inscrits sur des articles individualisés.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-_Abrogé par_:
-
-  - Décret n°2010-1221 du 18 octobre 2010 - art. 10
-
-
-###### Article R224-6
-
-Les requêtes dont la commission est saisie sont enregistrées dans leur ordre d'arrivée.
-
-Lorsque la commission décide de se saisir d'office d'une affaire, celle-ci est enregistrée aussitôt après la séance au cours
-de laquelle la décision a été prise.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 11
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. R534-7 (VD)
-
-
-###### Article R224-7
-
-Pour l'application du premier alinéa de l'article L. 224-3, le président attribue les requêtes à un membre de la commission
-qui établit un rapport sommaire sur les suites à donner à la requête.
-
-La commission se prononce sur les conclusions de ce rapport et décide soit de ne pas donner suite, soit de poursuivre
-l'instruction de la requête.
-
-Lorsque la commission décide de donner suite à la requête le président désigne, parmi les membres de la commission, un
-rapporteur chargé d'instruire l'affaire. Celui-ci dispose de l'ensemble des pouvoirs reconnus à la commission à l'article L.
-224-4.
-
-Pour assister le rapporteur dans l'instruction des affaires, le président peut faire appel, avec l'accord du ministre
-intéressé, à des fonctionnaires de catégorie A ou des agents contractuels de l'Etat de niveau équivalent, qui agissent alors
-en qualité d'agents de la commission. Ces fonctionnaires ou agents peuvent assister aux séances de la commission lorsque sont
-examinées les affaires à l'instruction desquelles ils ont apporté leur concours.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 7 (M)
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 12
-
-_Cite_:
-
-  - Code de la consommation - art. L224-3
-  - Code de la consommation - art. L224-4
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. R534-8 (VD)
-
-
-###### Article R224-8
-
-L'auteur de la saisine et le ou les professionnels concernés reçoivent communication des informations recueillies par le
-rapporteur qui ne sont protégées ni par le secret professionnel ni par le secret de fabrication.
-
-Ils disposent d'un délai d'un mois pour présenter leurs observations. Ce délai peut être porté jusqu'à trois mois par
-décision du président.
-
-Ces observations sont annexées au rapport avec les remarques qu'elles appellent de la part du rapporteur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2010-1221 du 18 octobre 2010 - art. 13
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. R534-10 (VD)
-
-
-###### Article R224-9
-
-Le ministre chargé de la consommation désigne un commissaire du Gouvernement et des suppléants éventuels.
-
-Le commissaire du Gouvernement assiste à toutes les séances de la commission. Il peut se faire assister par un ou plusieurs
-fonctionnaires qualifiés. Le rapport du rapporteur lui est communiqué huit jours au moins avant la séance, sauf en cas
-d'urgence. Le délai de quatre jours prévu au dernier alinéa de l'article L. 224-1 court à compter du jour de la séance au
-cours de laquelle l'avis a été adopté.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 9 (M)
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-_Abrogé par_:
-
-  - Décret n°2010-1221 du 18 octobre 2010 - art. 14
-
-_Cite_:
-
-  - Code de la consommation - art. L224-1
-
-
-###### Article R224-10
-
-La commission ne peut valablement délibérer que si sept de ses membres participent à la séance.
-
-Elle entend, outre les personnes concernées, toute personne dont l'audition lui paraît susceptible de contribuer à son
-information.
-
-Les séances de la commission ne sont pas publiques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-_Abrogé par_:
-
-  - Décret n°2010-1221 du 18 octobre 2010 - art. 14
-
-
-###### Article R224-11
-
-Les délibérations de la commission sont prises à la majorité des voix des membres présents. En cas de partage, la voix du
-président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-_Abrogé par_:
-
-  - Décret n°2010-1221 du 18 octobre 2010 - art. 14
-
-
-###### Article R224-12
-
-Les avis de la commission sont motivés.
-
-Ils sont communiqués au ministre chargé de la consommation, aux ministres intéressés, à l'auteur de la saisine et aux
-professionnels intéressés.
-
-Le commissaire du Gouvernement établit chaque année et adresse à la commission un rapport sur les suites données aux avis de
-cette dernière.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°84-270 du 11 avril 1984 - art. 12 (M)
-
-_Codifié par_:
-
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
-
-_Abrogé par_:
-
-  - Décret n°2010-1221 du 18 octobre 2010 - art. 14
-
-
-#### Chapitre V : Dispositions diverses<a id=242></a>
+#### Chapitre V : Dispositions diverses<a id=237></a>
 
 ###### Article D225-2
 
@@ -27457,13 +26894,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. D521-4 (V)
 
 
-## Livre III : Endettement<a id=243></a>
+## Livre III : Endettement<a id=238></a>
 
-### Titre Ier : Crédit<a id=244></a>
+### Titre Ier : Crédit<a id=239></a>
 
-#### Chapitre Ier : Crédit à la consommation<a id=245></a>
+#### Chapitre Ier : Crédit à la consommation<a id=240></a>
 
-##### Section 1 : Champ d'application<a id=246></a>
+##### Section 1 : Champ d'application<a id=241></a>
 
 ###### Article D311-1
 
@@ -27549,7 +26986,7 @@ _Cite_:
   - Code de la consommation - art. D311-2 (M)
 
 
-##### Section 2 : Publicité<a id=247></a>
+##### Section 2 : Publicité<a id=242></a>
 
 ###### Article D311-3-1
 
@@ -27608,7 +27045,7 @@ _Cite_:
   - Code de la consommation - art. L311-5
 
 
-##### Section 3 : Crédit gratuit<a id=248></a>
+##### Section 3 : Crédit gratuit<a id=243></a>
 
 ###### Article R311-4
 
@@ -27661,7 +27098,7 @@ _Modifié par_:
   - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 
-##### Section 4 : Le contrat de crédit<a id=249></a>
+##### Section 4 : Le contrat de crédit<a id=244></a>
 
 ###### Article R311-6
 
@@ -27731,9 +27168,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R311-4 (VD)
 
 
-##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=250></a>
+##### Section 6 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=245></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=251></a>
+##### Sous-section 1 : Remboursement anticipé<a id=246></a>
 
 ###### Article D311-10
 
@@ -27764,7 +27201,7 @@ _Cité par_:
   - Code de la consommation - art. Annexe Modèle type n°2 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=252></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=247></a>
 
 ###### Article D311-11
 
@@ -27881,7 +27318,7 @@ _Cite_:
   - Code de la consommation - art. L311-31 (V)
 
 
-##### Section 5 : Les crédits affectés<a id=253></a>
+##### Section 5 : Les crédits affectés<a id=248></a>
 
 ###### Article R311-8
 
@@ -27952,9 +27389,9 @@ _Cite_:
   - Code de la consommation R311-8
 
 
-#### Chapitre II : Crédit immobilier<a id=254></a>
+#### Chapitre II : Crédit immobilier<a id=249></a>
 
-##### Section 3 : Le contrat de crédit<a id=255></a>
+##### Section 3 : Le contrat de crédit<a id=250></a>
 
 ###### Article R312-1
 
@@ -27984,9 +27421,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R312-1-1 (VD)
 
 
-##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=256></a>
+##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=251></a>
 
-##### Sous-section 1 : Remboursement anticipé.<a id=257></a>
+##### Sous-section 1 : Remboursement anticipé.<a id=252></a>
 
 ###### Article R312-2
 
@@ -28017,7 +27454,7 @@ _Cite_:
   - Code de la consommation - art. L312-21 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur.<a id=258></a>
+##### Sous-section 2 : Défaillance de l'emprunteur.<a id=253></a>
 
 ###### Article R312-3
 
@@ -28052,7 +27489,7 @@ _Cité par_:
   - Code de la consommation - art. R315-2 (VT)
 
 
-##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=259></a>
+##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=254></a>
 
 ###### Article R312-4
 
@@ -28087,11 +27524,11 @@ _Cite_:
   - Code de la consommation - art. L312-29
 
 
-#### Chapitre III : Dispositions communes<a id=260></a>
+#### Chapitre III : Dispositions communes<a id=255></a>
 
-##### Section 1 : Le taux d'intérêt<a id=261></a>
+##### Section 1 : Le taux d'intérêt<a id=256></a>
 
-##### Sous-section 1 : Le taux effectif global<a id=262></a>
+##### Sous-section 1 : Le taux effectif global<a id=257></a>
 
 ###### Article R313-1
 
@@ -28312,7 +27749,7 @@ _Nouveaux textes_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. R313-1 (V)
 
 
-##### Sous-section 2 : Le taux d'usure<a id=263></a>
+##### Sous-section 2 : Le taux d'usure<a id=258></a>
 
 ###### Article D313-6
 
@@ -28473,7 +27910,7 @@ _Cité par_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. D711-14 (Ab)
 
 
-##### Section 3 : Rémunération du vendeur<a id=264></a>
+##### Section 3 : Rémunération du vendeur<a id=259></a>
 
 ###### Article R313-10
 
@@ -28517,7 +27954,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R341-25 (V)
 
 
-##### Section 7 :  Regroupement de crédits<a id=265></a>
+##### Section 7 :  Regroupement de crédits<a id=260></a>
 
 ###### Article R313-11
 
@@ -28552,9 +27989,9 @@ _Cité par_:
   - Code de la consommation - art. R315-1 (Ab)
 
 
-##### Annexes<a id=266></a>
+##### Annexes<a id=261></a>
 
-##### ANNEXE A L'ARTICLE R113-1<a id=267></a>
+##### ANNEXE A L'ARTICLE R113-1<a id=262></a>
 
 ###### Article Annexe à l'article R113-1
 
@@ -28589,7 +28026,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### Annexes au Chapitre II du Titre Ier du Livre Ier<a id=268></a>
+##### Annexes au Chapitre II du Titre Ier du Livre Ier<a id=263></a>
 
 ###### Article Annexe I
 
@@ -29144,7 +28581,7 @@ _Abrogé par_:
   - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
-##### ANNEXE A L'ARTICLE R211-2<a id=269></a>
+##### ANNEXE A L'ARTICLE R211-2<a id=264></a>
 
 ###### Article Annexe à l'article R211-2
 
@@ -29757,7 +29194,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE A L'ARTICLE R311-6<a id=270></a>
+##### ANNEXE A L'ARTICLE R311-6<a id=265></a>
 
 ###### Article Annexe Modèle type n° 1
 
@@ -31201,7 +30638,7 @@ _Cite_:
   - Code de la consommation - art. L331-7 (VT)
 
 
-##### ANNEXE A L'ARTICLE R311-7<a id=271></a>
+##### ANNEXE A L'ARTICLE R311-7<a id=266></a>
 
 ###### Article Annexe à l'article R311-7
 
@@ -31256,7 +30693,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=272></a>
+##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=267></a>
 
 ###### Article Annexe à l'article R313-1
 
@@ -31315,7 +30752,7 @@ _Créé par_:
   - Décret n°2002-927 2002-06-10 annexe JORF 11 juin 2002 en vigueur le 1er juillet 2002
 
 
-##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION<a id=273></a>
+##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION<a id=268></a>
 
 ###### Article Annexe à l'article R313-1-1
 
@@ -31386,7 +30823,7 @@ _Cite_:
   - Code de la consommation - art. R313-1-1
 
 
-#### Chapitre IV : Prêt viager hypothécaire<a id=274></a>
+#### Chapitre IV : Prêt viager hypothécaire<a id=269></a>
 
 ###### Article R*314-1
 
@@ -31466,13 +30903,13 @@ _Cite_:
   - Code de la consommation - art. L314-10
 
 
-### Titre III : Traitement des situations de surendettement<a id=275></a>
+### Titre III : Traitement des situations de surendettement<a id=270></a>
 
-#### Chapitre préliminaire : Les organes de la procédure de surendettement<a id=276></a>
+#### Chapitre préliminaire : Les organes de la procédure de surendettement<a id=271></a>
 
-##### Section 1 : La commission de surendettement des particuliers<a id=277></a>
+##### Section 1 : La commission de surendettement des particuliers<a id=272></a>
 
-##### Paragraphe 1 : Répartition des commissions sur le territoire<a id=278></a>
+##### Paragraphe 1 : Répartition des commissions sur le territoire<a id=273></a>
 
 ###### Article R331-1
 
@@ -31507,7 +30944,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R712-1 (V)
 
 
-##### Paragraphe 2 : Composition des commissions<a id=279></a>
+##### Paragraphe 2 : Composition des commissions<a id=274></a>
 
 ###### Article R331-2
 
@@ -31687,7 +31124,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R712-7 (V)
 
 
-##### Paragraphe 3 : Fonctionnement des commissions<a id=280></a>
+##### Paragraphe 3 : Fonctionnement des commissions<a id=275></a>
 
 ###### Article R331-7
 
@@ -31776,7 +31213,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R712-11 (V)
 
 
-##### Paragraphe 4 : Procédure devant les commissions<a id=281></a>
+##### Paragraphe 4 : Procédure devant les commissions<a id=276></a>
 
 ###### Article R331-8
 
@@ -31935,7 +31372,7 @@ _Créé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 2
 
 
-##### Section 2 : Le juge de l'exécution<a id=282></a>
+##### Section 2 : Le juge de l'exécution<a id=277></a>
 
 ###### Article R331-9
 
@@ -32056,9 +31493,9 @@ _Créé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 2
 
 
-#### Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement<a id=283></a>
+#### Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement<a id=278></a>
 
-##### Section 1 :  Examen de la recevabilité de la demande<a id=284></a>
+##### Section 1 :  Examen de la recevabilité de la demande<a id=279></a>
 
 ###### Article R331-10
 
@@ -32093,7 +31530,7 @@ _Cite_:
   - Code de la consommation - art. L331-3
 
 
-##### Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=285></a>
+##### Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=280></a>
 
 ###### Article R331-11
 
@@ -32219,7 +31656,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R722-8 (V)
 
 
-##### Section 3 : Suspension des mesures d'expulsion<a id=286></a>
+##### Section 3 : Suspension des mesures d'expulsion<a id=281></a>
 
 ###### Article R331-12
 
@@ -32262,9 +31699,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R722-9 (V)
 
 
-#### Chapitre II : L'état du passif<a id=287></a>
+#### Chapitre II : L'état du passif<a id=282></a>
 
-##### Section 1 :  L'état du passif dressé par la commission<a id=288></a>
+##### Section 1 :  L'état du passif dressé par la commission<a id=283></a>
 
 ###### Article R332-1
 
@@ -32343,7 +31780,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R723-5 (V)
 
 
-##### Section 2 : La vérification des créances<a id=289></a>
+##### Section 2 : La vérification des créances<a id=284></a>
 
 ###### Article R332-3
 
@@ -32405,7 +31842,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R723-7 (V)
 
 
-##### Section 3 : L'état du passif définitivement arrêté<a id=290></a>
+##### Section 3 : L'état du passif définitivement arrêté<a id=285></a>
 
 ###### Article R332-5
 
@@ -32427,7 +31864,7 @@ _Cite_:
   - Code de la consommation - art. L331-6
 
 
-#### Chapitre III :  L'orientation du dossier<a id=291></a>
+#### Chapitre III :  L'orientation du dossier<a id=286></a>
 
 ###### Article R333-1
 
@@ -32538,9 +31975,9 @@ _Cite_:
   - Code de la consommation - art. L331-7-3
 
 
-#### Chapitre IV : Les mesures de traitement<a id=292></a>
+#### Chapitre IV : Les mesures de traitement<a id=287></a>
 
-##### Section 1 : Dispositions communes<a id=293></a>
+##### Section 1 : Dispositions communes<a id=288></a>
 
 ###### Article R334-1
 
@@ -32583,7 +32020,7 @@ _Cité par_:
   - Code de la consommation - art. R336-4 (VD)
 
 
-##### Section 2 : Le plan conventionnel<a id=294></a>
+##### Section 2 : Le plan conventionnel<a id=289></a>
 
 ###### Article R334-2
 
@@ -32641,9 +32078,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R732-2 (M)
 
 
-##### Section 3 : Les mesures de traitement ordinaires<a id=295></a>
+##### Section 3 : Les mesures de traitement ordinaires<a id=290></a>
 
-##### Paragraphe 1 : Les mesures imposées ou recommandées<a id=296></a>
+##### Paragraphe 1 : Les mesures imposées ou recommandées<a id=291></a>
 
 ###### Article R334-4
 
@@ -32899,7 +32336,7 @@ _Cite_:
   - Code de la consommation - art. L331-7-1
 
 
-##### Paragraphe 2 : La contestation des mesures de traitement ordinaires<a id=297></a>
+##### Paragraphe 2 : La contestation des mesures de traitement ordinaires<a id=292></a>
 
 ###### Article R334-14
 
@@ -33031,11 +32468,11 @@ _Cité par_:
   - Code monétaire et financier - art. R131-21-1 (M)
 
 
-##### Section 4 : Les procédures de rétablissement personnel<a id=298></a>
+##### Section 4 : Les procédures de rétablissement personnel<a id=293></a>
 
-##### Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire<a id=299></a>
+##### Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire<a id=294></a>
 
-##### Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire<a id=300></a>
+##### Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire<a id=295></a>
 
 ###### Article R334-19
 
@@ -33170,7 +32607,7 @@ _Cité par_:
   - Code de la consommation - art. R336-6 (Ab)
 
 
-##### Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire<a id=301></a>
+##### Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire<a id=296></a>
 
 ###### Article R334-24
 
@@ -33261,9 +32698,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R741-13 (V)
 
 
-##### Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire<a id=302></a>
+##### Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire<a id=297></a>
 
-##### Paragraphe 1 : L'ouverture de la procédure<a id=303></a>
+##### Paragraphe 1 : L'ouverture de la procédure<a id=298></a>
 
 ###### Article R334-28
 
@@ -33493,7 +32930,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-10 (V)
 
 
-##### Paragraphe 2 :  La déclaration et l'arrêté des créances<a id=304></a>
+##### Paragraphe 2 :  La déclaration et l'arrêté des créances<a id=299></a>
 
 ###### Article R334-36
 
@@ -33628,9 +33065,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-17 (V)
 
 
-##### Paragraphe 3 : La liquidation des biens du débiteur<a id=305></a>
+##### Paragraphe 3 : La liquidation des biens du débiteur<a id=300></a>
 
-##### Sous-paragraphe 1 : Dispositions générales<a id=306></a>
+##### Sous-paragraphe 1 : Dispositions générales<a id=301></a>
 
 ###### Article R334-41
 
@@ -33776,7 +33213,7 @@ _Cite_:
   - Code de la consommation - art. L332-8
 
 
-##### Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=307></a>
+##### Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=302></a>
 
 ###### Article R334-48
 
@@ -34139,7 +33576,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-41 (V)
 
 
-##### Sous-paragraphe 3 : Répartition du produit des actifs<a id=308></a>
+##### Sous-paragraphe 3 : Répartition du produit des actifs<a id=303></a>
 
 ###### Article R334-61
 
@@ -34381,7 +33818,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-52 (V)
 
 
-##### Paragraphe 4 : La clôture de la procédure<a id=309></a>
+##### Paragraphe 4 : La clôture de la procédure<a id=304></a>
 
 ###### Article R334-72
 
@@ -34436,7 +33873,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-55 (V)
 
 
-##### Paragraphe 5 : Le plan<a id=310></a>
+##### Paragraphe 5 : Le plan<a id=305></a>
 
 ###### Article R334-74
 
@@ -34485,7 +33922,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-57 (V)
 
 
-##### Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire<a id=311></a>
+##### Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire<a id=306></a>
 
 ###### Article R334-76
 
@@ -34539,7 +33976,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R743-2 (V)
 
 
-#### Chapitre V : Dispositions communes<a id=312></a>
+#### Chapitre V : Dispositions communes<a id=307></a>
 
 ###### Article R335-1
 
@@ -34643,9 +34080,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*247-18
 
 
-#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=313></a>
+#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=308></a>
 
-##### Section 1 : Dispositions particulières à Mayotte<a id=314></a>
+##### Section 1 : Dispositions particulières à Mayotte<a id=309></a>
 
 ###### Article R336-1
 
@@ -34759,7 +34196,7 @@ _Créé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 8
 
 
-##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=315></a>
+##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=310></a>
 
 ###### Article R336-2
 
@@ -34998,7 +34435,7 @@ _Cite_:
   - Code de la consommation - art. L332-8
 
 
-##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=316></a>
+##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=311></a>
 
 ###### Article R336-4
 
@@ -35115,7 +34552,7 @@ _Créé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 8
 
 
-##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=317></a>
+##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=312></a>
 
 ###### Article R336-5
 
@@ -35204,7 +34641,7 @@ _Cite_:
   - Code de la consommation - art. R334-23
 
 
-##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=318></a>
+##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=313></a>
 
 ###### Article R336-7
 
@@ -35283,7 +34720,7 @@ _Créé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 8
 
 
-### Titre IV : Dispositions diverses.<a id=319></a>
+### Titre IV : Dispositions diverses.<a id=314></a>
 
 ###### Article R333-5
 
@@ -35322,11 +34759,11 @@ _Cité par_:
   - Code de la consommation - art. R334-1 (V)
 
 
-## Livre IV : Les associations de consommateurs<a id=320></a>
+## Livre IV : Les associations de consommateurs<a id=315></a>
 
-### Titre Ier : Agrément des associations.<a id=321></a>
+### Titre Ier : Agrément des associations.<a id=316></a>
 
-#### Chapitre Ier : Les associations.<a id=322></a>
+#### Chapitre Ier : Les associations.<a id=317></a>
 
 ###### Article R411-1
 
@@ -35590,9 +35027,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : Action en justice des associations.<a id=323></a>
+### Titre II : Action en justice des associations.<a id=318></a>
 
-#### Chapitre II : Action en représentation conjointe.<a id=324></a>
+#### Chapitre II : Action en représentation conjointe.<a id=319></a>
 
 ###### Article R422-1
 
@@ -35919,7 +35356,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R622-10 (V)
 
 
-### Titre III : Reconnaissance spécifique des associations<a id=325></a>
+### Titre III : Reconnaissance spécifique des associations<a id=320></a>
 
 ###### Article R431-1
 
@@ -36031,13 +35468,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R812-3 (V)
 
 
-## Livre V : Les institutions<a id=326></a>
+## Livre V : Les institutions<a id=321></a>
 
-### Titre Ier : Les organes de concertation.<a id=327></a>
+### Titre Ier : Les organes de concertation.<a id=322></a>
 
-#### Chapitre Ier : Le Conseil national de la consommation.<a id=328></a>
+#### Chapitre Ier : Le Conseil national de la consommation.<a id=323></a>
 
-##### Section 1 : Missions et attributions.<a id=329></a>
+##### Section 1 : Missions et attributions.<a id=324></a>
 
 ###### Article D511-1
 
@@ -36185,7 +35622,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. D821-4 (V)
 
 
-##### Section 2 : Composition et organisation.<a id=330></a>
+##### Section 2 : Composition et organisation.<a id=325></a>
 
 ###### Article D511-5
 
@@ -36456,7 +35893,7 @@ _Cite_:
   - Code de la consommation - art. D511-7
 
 
-##### Section 3 : Fonctionnement.<a id=331></a>
+##### Section 3 : Fonctionnement.<a id=326></a>
 
 ###### Article D511-12
 
@@ -36675,9 +36112,9 @@ _Modifié par_:
   - Décret n°2005-249 du 14 mars 2005 - art. 7 () JORF 18 mars 2005
 
 
-### Titre II : Les organes de coordination administrative.<a id=332></a>
+### Titre II : Les organes de coordination administrative.<a id=327></a>
 
-#### Chapitre Ier : Le comité interministériel de la consommation.<a id=333></a>
+#### Chapitre Ier : Le comité interministériel de la consommation.<a id=328></a>
 
 ###### Article D521-1
 
@@ -36738,7 +36175,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-#### Chapitre II : Le groupe interministériel de la consommation.<a id=334></a>
+#### Chapitre II : Le groupe interministériel de la consommation.<a id=329></a>
 
 ###### Article D522-1
 
@@ -36908,9 +36345,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. D825-4 (Ab)
 
 
-### Titre III : L'institut national de la consommation.<a id=335></a>
+### Titre III : L'institut national de la consommation.<a id=330></a>
 
-#### Chapitre Ier : Organisation et administration.<a id=336></a>
+#### Chapitre Ier : Organisation et administration.<a id=331></a>
 
 ###### Article R531-1
 
@@ -36954,13 +36391,28 @@ b) Regrouper, produire, analyser et diffuser des informations, études, enquête
 
 c) Mettre en œuvre des actions et des campagnes d'information, de communication, de prévention, de formation et d'éducation
 sur les questions de consommation à destination du grand public, ainsi que des publics professionnels ou associatifs
-concernés.
+concernés ;
+
+d) Apporter un appui technique aux commissions placées auprès de lui et collaborer à l'instruction de leurs avis et
+recommandations.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-801 du 13 juillet 2010 - art. 7
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 18
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L822-2 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R531-3 (Ab)
 
 
 ###### Article R531-3
@@ -37024,26 +36476,26 @@ _Cite_:
 ###### Article R531-4
 
 L'Institut national de la consommation est administré par un conseil d'administration composé de dix-sept membres ayant voix
-délibérative :
+délibérative : 
 
-1° Cinq représentants des consommateurs et usagers désignés par le ministre chargé de la consommation ;
+1° Cinq représentants des consommateurs et usagers désignés par le ministre chargé de la consommation ; 
 
 2° Cinq représentants de l'Etat, désignés conjointement par le ministre chargé de l'économie et le ministre chargé de la
-consommation ;
+consommation ; 
 
 3° Deux représentants élus par le personnel de l'Institut national de la consommation, dans les conditions prévues par la loi
-n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public ;
+n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public ; 
 
-4° Le président de la Commission de la sécurité des consommateurs, le président de la Commission des clauses abusives, ainsi
-qu'un représentant du collège des professionnels du Conseil national de la consommation, un ingénieur des corps de l'Etat et
-un magistrat désignés par le ministre chargé de la consommation ;
+4° Le président de la Commission de la sécurité des consommateurs, le président de la Commission des clauses abusives, le
+président de la commission de la médiation de la consommation, ainsi qu'un représentant du collège des professionnels du
+Conseil national de la consommation et un ingénieur des corps de l'Etat désigné par le ministre chargé de la consommation ; 
 
-Les membres sont nommés par arrêté du ministre chargé de la consommation pour un mandat de trois ans, renouvelable une fois.
+Les membres sont nommés par arrêté du ministre chargé de la consommation pour un mandat de trois ans, renouvelable une fois. 
 
 Il peut être mis fin, par arrêté du ministre chargé de la consommation, au mandat de tout membre qui, sans raison légitime,
 n'a pas participé à trois séances consécutives du conseil d'administration. Cette disposition n'est toutefois pas applicable
 aux membres du conseil d'administration désignés en raison de leur fonction de président de l'une des commissions prévues à
-l'article L. 132-2 et à l'article L. 224-1.
+l'article L. 534-1, à l'article L. 534-4 et à l'article L. 534-7. 
 
 En cas de vacance survenant, pour quelque cause que ce soit, plus de six mois avant l'expiration du mandat, un autre membre
 est désigné par le ministre chargé de la consommation pour la durée du mandat restant à courir. Cette durée s'impute sur le
@@ -37054,10 +36506,21 @@ décompte de deux mandats autorisés par l'alinéa précédent, si elle est éga
 _Cite_:
 
   - Loi n°83-675 du 26 juillet 1983
+  - Code de la consommation - art. L534-1
+  - Code de la consommation - art. L534-4
+  - Code de la consommation - art. L534-7
 
 _Modifié par_:
 
-  - Décret n°2010-801 du 13 juillet 2010 - art. 9
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 19
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-4 (M)
 
 
 ###### Article R531-5
@@ -37143,41 +36606,42 @@ _Modifié par_:
 
 ###### Article R531-8
 
-Le conseil d'administration délibère sur :
+Le conseil d'administration délibère sur : 
 
-1° Les orientations générales de l'établissement ;
+1° Les orientations générales de l'établissement ; 
 
-2° Le contrat d'objectifs pluriannuel que l'établissement conclut avec l'Etat ;
+2° Le contrat d'objectifs pluriannuel que l'établissement conclut avec l'Etat ; 
 
-3° Les programmes annuels ou pluriannuels d'action ;
+3° Les programmes annuels ou pluriannuels d'action ; 
 
 4° Le règlement intérieur de la commission mentionnée au 1 de l'article R. 531-3, ainsi que sur le cahier des charges annuel
 des prestations de l'appui technique aux organisations de consommateurs élaboré par cette commission et présenté par le
-directeur ;
+directeur ; 
 
 5° L'état annuel des prévisions de recettes et de dépenses, ainsi que sur les états rectificatifs qui comportent soit une
 augmentation du montant global des dépenses, soit des virements de crédits entre la section des opérations en capital et la
-section de fonctionnement ou entre les chapitres de matériel et les chapitres de personnel. Les autres états rectificatifs
-sont pris par le directeur après avis conforme du membre du corps du contrôle général économique et financier. Il en rend
-compte au conseil d'administration à sa plus proche séance ;
+section de fonctionnement, entre les chapitres de matériel et les chapitres de personnel ou entre les sections prévues à
+l'article R. 533-6 et une autre affectation. Les autres états rectificatifs sont pris par le directeur après avis conforme du
+membre du corps du contrôle général économique et financier. Il en rend compte au conseil d'administration à sa plus proche
+séance ; 
 
-6° Les conditions générales de fixation des prix de vente des produits et des prestations de l'établissement ;
+6° Les conditions générales de fixation des prix de vente des produits et des prestations de l'établissement ; 
 
-7° Le rapport annuel d'activité présenté par le directeur ;
+7° Le rapport annuel d'activité présenté par le directeur ; 
 
-8° Le compte financier et l'affectation des résultats de l'exercice ;
+8° Le compte financier et l'affectation des résultats de l'exercice ; 
 
-9° Les emprunts ;
+9° Les emprunts ; 
 
-10° Les prises, extensions ou cessions de participations financières de l'établissement ;
+10° Les prises, extensions ou cessions de participations financières de l'établissement ; 
 
-11° La création ou la cession de sociétés filiales ;
+11° La création ou la cession de sociétés filiales ; 
 
-12° L'acceptation ou le refus de dons et legs ;
+12° L'acceptation ou le refus de dons et legs ; 
 
-13° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ;
+13° Les conditions générales de recrutement, d'emploi et de rémunération des personnels ; 
 
-14° L'exercice des actions en justice et les transactions.
+14° L'exercice des actions en justice et les transactions. 
 
 Le conseil d'administration élabore son règlement intérieur.
 
@@ -37185,29 +36649,31 @@ Le conseil d'administration élabore son règlement intérieur.
 
 _Modifié par_:
 
-  - Décret n°2010-801 du 13 juillet 2010 - art. 11
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 21
 
 _Cite_:
 
-  - Code de la consommation
+  - Code de la consommation - art. R531-3
+  - Code de la consommation - art. R533-6
 
 
 ###### Article R531-9
 
-Le commissaire du Gouvernement auprès de l'Institut national de la consommation est le directeur général de la concurrence,
-de la consommation et de la répression des fraudes.
+Le commissaire du Gouvernement désigné auprès de la commission instituée à l'article L. 534-4 dans les conditions prévues au
+deuxième alinéa de cet article est également commissaire du Gouvernement auprès de l'Institut national de la consommation,
+ainsi que des commissions instituées aux articles L. 534-1 et L. 534-7. 
 
 Pour les séances du conseil d'administration, il peut se faire accompagner par tout collaborateur ou personne qualifiée de
-son choix. Il peut s'y faire représenter.
+son choix. Il peut s'y faire représenter. 
 
 Les délibérations du conseil d'administration sont exécutoires, sauf si le commissaire du Gouvernement demande la suspension
 de cette exécution dans les dix jours qui suivent la délibération. Dans ce cas, le commissaire du Gouvernement soumet cette
-délibération au ministre chargé de la consommation, qui se prononce dans un délai d'un mois après la demande de suspension. A
-défaut d'une décision de rejet expresse et motivée de la part du ministre dans ce délai, la délibération est exécutoire.
+délibération au ministre chargé de la consommation, qui se prononce dans un délai d'un mois après la demande de suspension.A
+défaut d'une décision de rejet expresse et motivée de la part du ministre dans ce délai, la délibération est exécutoire. 
 
 Toutefois, les délibérations relatives aux emprunts, aux prises, extensions et cessions de participations et aux créations ou
 cessions de filiales ne sont exécutoires qu'après approbation par arrêté conjoint du ministre chargé du budget, du ministre
-chargé de la consommation et, le cas échéant, du ministre chargé de l'économie.
+chargé de la consommation et, le cas échéant, du ministre chargé de l'économie. 
 
 Les délibérations relatives au compte financier et à l'affectation des résultats, aux états prévisionnels de recettes et
 dépenses, à l'acceptation ou au refus des dons et legs, aux conditions générales de recrutement, d'emploi et de rémunération
@@ -37219,31 +36685,41 @@ ministre chargé du budget.
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2001-300 du 4 avril 2001 - art. 1 () JORF 8 avril 2001
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 22
+
+_Cite_:
+
+  - Code de la consommation - art. L534-1
+  - Code de la consommation - art. L534-4
+  - Code de la consommation - art. L534-7
 
 
 ###### Article R531-10
 
 Le directeur général de l'Institut national de la consommation est nommé par décret pris sur le rapport du Premier ministre
-et du ministre chargé de la consommation. Il assure la direction et la gestion de l'établissement.
+et du ministre chargé de la consommation. Il assure la direction et la gestion de l'établissement. 
 
-Le directeur général :
+Le directeur général : 
 
-1° Prépare et exécute les décisions du conseil d'administration ;
+1° Prépare et exécute les décisions du conseil d'administration ; 
 
-2° Est responsable de l'organisation de l'établissement ainsi que de son fonctionnement ;
+2° Est responsable de l'organisation de l'établissement ainsi que de son fonctionnement ; 
 
-3° Prépare les programmes d'activités de l'établissement et en assure l'exécution ;
+3° Prépare les programmes d'activités de l'établissement et en assure l'exécution ; 
 
-4° Recrute et gère le personnel ;
+4° Recrute et gère le personnel. Avant toute décision qu'il prend ou instruit relative à la situation d'un agent placé sous
+son autorité qui exerce auprès d'une commission relevant du chapitre IV du titre III du livre V des fonctions dans les
+conditions prévues par le I de l'article R. 534-17, ou qui instruit auprès de cette commission un avis ou une recommandation
+dans les conditions prévues par le II de l'article R. 534-17, le directeur général consulte le président de cette
+commission ; 
 
 5° Représente l'Institut national de la consommation en justice et dans tous les actes de la vie civile. Pour agir en
 justice, il doit disposer de l'autorisation du conseil d'administration ou, à défaut, en cas d'urgence, de celle du président
-du conseil d'administration. Il en rend compte au conseil d'administration ;
+du conseil d'administration. Il en rend compte au conseil d'administration ; 
 
 6° Est ordonnateur des recettes et des dépenses.
 
@@ -37251,10 +36727,22 @@ du conseil d'administration. Il en rend compte au conseil d'administration ;
 
 _Modifié par_:
 
-  - Décret n°2010-801 du 13 juillet 2010 - art. 10
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 23
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. R534-17
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-11 (M)
 
 
-#### Chapitre II : Organes consultatifs.<a id=337></a>
+#### Chapitre II : Organes consultatifs.<a id=332></a>
 
 ###### Article R532-1
 
@@ -37269,7 +36757,7 @@ _Modifié par_:
   - Décret n°2010-801 du 13 juillet 2010 - art. 10
 
 
-#### Chapitre III : Dispositions financières et comptables.<a id=338></a>
+#### Chapitre III : Dispositions financières et comptables.<a id=333></a>
 
 ###### Article R533-1
 
@@ -37402,9 +36890,26 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-16 (V)
 
 
-#### Chapitre IV : Dispositions diverses.<a id=339></a>
+###### Article R533-6
 
-##### Section 3 : La commission de la médiation de la consommation<a id=340></a>
+Les crédits nécessaires à la couverture des dépenses de fonctionnement hors personnel de chacune des commissions placées
+auprès de l'Institut national de la consommation pour l'accomplissement de leurs missions font l'objet d'une section
+distincte de l'état prévisionnel de ressources et de dépenses de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 20
+
+_Cité par_:
+
+  - Code de la consommation - art. R531-8 (VD)
+
+
+#### Chapitre IV : Dispositions diverses.<a id=334></a>
+
+##### Section 3 : La commission de la médiation de la consommation<a id=335></a>
 
 ###### Article R534-11
 
@@ -37479,6 +36984,519 @@ _Cite_:
 
   - Code de la consommation - art. L411-1
   - Code de la consommation - art. R534-17
+
+
+#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=336></a>
+
+##### Section 1 : La commission des clauses abusives<a id=337></a>
+
+###### Article R534-1
+
+La commission des clauses abusives, instituée par l'article L. 534-1, comprend treize membres répartis de la manière
+suivante : 
+
+1° Un magistrat de l'ordre judiciaire, président ; 
+
+2° Deux magistrats de l'ordre judiciaire ou administratif ou membres du Conseil d'Etat ; 
+
+3° Deux personnalités qualifiées en matière de droit ou de technique des contrats, choisies après avis du Conseil national de
+la consommation ; 
+
+4° Quatre représentants des professionnels ; 
+
+5° Quatre représentants des consommateurs. 
+
+Un vice-président, nommé au titre du 2°, est désigné. 
+
+Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
+Commission des clauses abusives. Il ne prend pas part aux votes sur les recommandations et avis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L534-1
+
+_Anciens textes_:
+
+  - Code de la consommation - art. R132-3 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-18 (M)
+
+
+###### Article R534-2
+
+Le président et les membres de la commission sont nommés par arrêté du ministre chargé de la consommation pour un mandat de
+trois ans renouvelable une fois. Cet arrêté désigne un suppléant pour chaque membre titulaire à l'exception du président. La
+nomination des magistrats est faite sur proposition du garde des sceaux, ministre de la justice.
+
+Tout membre de la commission ne peut prendre part aux délibérations lorsqu'il a un intérêt personnel à l'affaire qui en est
+l'objet ou s'il représente ou a représenté moins de cinq ans avant la délibération une des parties intéressées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Anciens textes_:
+
+  - Code de la consommation - art. R132-4 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-19 (M)
+
+
+###### Article R534-3
+
+La commission siège en formation plénière. 
+
+Le président peut désigner un rapporteur parmi les membres de la commission pour l'instruction d'une affaire. Le rapporteur
+peut également être désigné dans les conditions prévues au II de l'article R. 534-17. 
+
+La commission ne peut régulièrement délibérer qu'en présence de son président ou de son remplaçant et d'au moins six autres
+de ses membres. 
+
+Les parties intéressées peuvent demander à être entendues avant le délibéré sauf lorsque est examinée une saisine judiciaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 5
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Anciens textes_:
+
+  - Code de la consommation - art. R132-5 (VT)
+
+_Cite_:
+
+  - Code de la consommation - art. R534-17
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-20 (M)
+
+
+###### Article R534-4
+
+La commission peut être saisie pour avis lorsque à l'occasion d'une instance le caractère abusif d'une clause contractuelle
+est soulevé. 
+
+Le juge compétent demande à la commission, par décision non susceptible de recours, son avis sur le caractère abusif de cette
+clause tel que défini à l'article L. 132-1.L'avis ne lie pas le juge. 
+
+La commission fait connaître son avis dans un délai maximum de trois mois à compter de sa saisine. 
+
+Il est sursis à toute décision sur le fond de l'affaire jusqu'à réception de l'avis de la commission ou, à défaut, jusqu'à
+l'expiration du délai de trois mois susmentionné. Toutefois, les mesures urgentes ou conservatoires nécessaires peuvent être
+prises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L132-1
+
+_Anciens textes_:
+
+  - Code de la consommation - art. R132-6 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-21 (M)
+
+
+##### Section 2 : La commission de la sécurité des consommateurs<a id=338></a>
+
+###### Article R534-5
+
+La commission de la sécurité des consommateurs comprend, outre son président, quinze membres, nommés par arrêté du ministre
+chargé de la consommation après avis des ministres intéressés : 
+
+1° Un magistrat de l'ordre judiciaire, proposé par l'assemblée générale de la Cour de cassation ; 
+
+2° Un membre de la Cour des comptes, proposé par l'ensemble des magistrats qui la composent ; 
+
+3° Une personnalité qualifiée dans le droit de la consommation issue du monde universitaire, nommée par le ministre chargé de
+la consommation ; 
+
+4° Trois membres des organisations nationales de consommateurs, choisis sur une liste de neuf noms proposée par le collège
+des consommateurs du Conseil national de la consommation ; 
+
+5° Trois membres des organisations nationales de professionnels, choisis sur une liste de neuf noms proposée par le collège
+professionnel du Conseil national de la consommation ; 
+
+6° Six personnalités qualifiées, chacune d'elle choisie sur une liste comportant trois noms, la première liste proposée par
+le président du Haut Conseil de la santé publique, la deuxième proposée par le conseil d'administration du Laboratoire
+national d'essais, la troisième proposée par le conseil d'administration de l'Institut national de la santé et de la
+recherche médicale, la quatrième proposée par le conseil d'administration de la Caisse nationale d'assurance maladie des
+travailleurs salariés, la cinquième proposée par le conseil d'administration du centre scientifique et technique du bâtiment
+et la sixième, composée de médecins compétents en matière d'aide médicale urgente, proposée par le président du Conseil
+national de l'ordre des médecins. 
+
+Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
+Commission de la sécurité des consommateurs. Il ne prend pas part aux votes sur les avis. Il est, ainsi que son représentant,
+astreint aux règles de secret définies à l'article L. 534-10. 
+
+Par dérogation aux articles 10 et 11 du décret n° 2006-672 susvisé, la commission ne peut régulièrement délibérer qu'en
+présence de son président ou de son remplaçant et d'au moins six autres de ses membres, lesquels ne peuvent être suppléés ni
+donner mandat à un autre membre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2006-672 du 8 juin 2006 - art. 10
+  - Code de la consommation - art. L534-10
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 8
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Anciens textes_:
+
+  - Code de la consommation - art. R224-1 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-23 (M)
+
+
+###### Article R534-6
+
+Le président et les membres de la commission de la sécurité des consommateurs sont nommés pour trois ans.
+
+Les mandats du président et des membres de la commission sont renouvelables une fois.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 9
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Anciens textes_:
+
+  - Code de la consommation - art. R224-2 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-24 (Ab)
+
+
+###### Article R534-7
+
+Les requêtes dont la commission est saisie sont enregistrées dans leur ordre d'arrivée.
+
+Lorsque la commission décide de se saisir d'office d'une affaire, celle-ci est enregistrée aussitôt après la séance au cours
+de laquelle la décision a été prise.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Anciens textes_:
+
+  - Code de la consommation - art. R224-6 (VT)
+
+
+###### Article R534-8
+
+Pour l'application du premier alinéa de l'article L. 534-6, le président attribue les requêtes à un membre de la commission
+qui établit un rapport sommaire sur les suites à donner à la requête. 
+
+La commission se prononce sur les conclusions de ce rapport et décide soit de ne pas donner suite, soit de poursuivre
+l'instruction de la requête. 
+
+Lorsque la commission décide de donner suite à la requête le président désigne, parmi les membres de la commission, un
+rapporteur chargé d'instruire l'affaire. Celui-ci dispose de l'ensemble des pouvoirs reconnus à la commission à l'article L.
+534-9. 
+
+Tout membre de la commission ne peut prendre part aux délibérations lorsqu'il a un intérêt personnel à l'affaire qui en est
+l'objet ou s'il représente ou a représenté moins de cinq ans avant la délibération une des parties intéressées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 12
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L534-6
+  - Code de la consommation - art. L534-9
+
+_Anciens textes_:
+
+  - Code de la consommation - art. R224-7 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-26 (Ab)
+
+
+###### Article R534-10
+
+L'auteur de la saisine et le ou les professionnels concernés reçoivent communication des informations recueillies par le
+rapporteur qui ne sont protégées ni par le secret professionnel ni par le secret de fabrication.
+
+Ils disposent d'un délai d'un mois pour présenter leurs observations. Ce délai peut être porté jusqu'à trois mois par
+décision du président.
+
+Ces observations sont annexées au rapport avec les remarques qu'elles appellent de la part du rapporteur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 13
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Anciens textes_:
+
+  - Code de la consommation - art. R224-8 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-27 (Ab)
+
+
+##### Section 3 : La commission de la médiation de la consommation<a id=339></a>
+
+##### Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation<a id=340></a>
+
+###### Article R534-13
+
+Sur la proposition du président de la commission, il peut être mis fin, par arrêté du ministre chargé de la consommation, au
+mandat de tout membre de la commission qui, sans raison légitime, n'a pas participé à trois séances de la commission sur une
+période de douze mois. 
+
+Le membre de la commission qui décède, qui démissionne ou dont le mandat a pris fin par application du précédent alinéa est
+remplacé pour la durée du mandat restant à courir par une personne désignée dans les mêmes conditions. 
+
+Si cette durée est inférieure à dix-huit mois, le mandat ainsi accompli par le successeur n'est pas pris en compte pour
+l'application de la règle selon laquelle les mandats ne sont renouvelables qu'une fois. 
+
+En cas d'absence ou d'empêchement, le président de la commission instituée par l'article L. 534-1 ou par l'article L. 534-7
+est remplacé par le vice-président, et le président de la commission instituée par l'article L. 534-4 est remplacé par le
+magistrat de l'ordre judiciaire ou, à défaut, par le membre de la Cour des comptes faisant partie de la commission.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L534-1
+  - Code de la consommation - art. L534-4
+  - Code de la consommation - art. L534-7
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-28 (M)
+
+
+###### Article R534-14
+
+Les séances de la commission ne sont pas publiques.
+
+A défaut de consensus, la commission se prononce à la majorité des voix des membres présents. Le président de séance a voix
+prépondérante en cas de partage égal des voix. 
+
+La commission établit son règlement intérieur qui est publié au Bulletin officiel de la concurrence, de la consommation et de
+la répression des fraudes. Le règlement intérieur de la commission définit notamment les modalités matérielles de
+recevabilité des saisines. Il peut préciser les obligations déontologiques des membres de la commission. 
+
+La saisine par le ministre chargé de la consommation ou, dans le cas de la commission instituée par l'article L. 534-1, par
+un juge ne peut être déclarée irrecevable.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L534-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-29 (M)
+
+
+###### Article R534-15
+
+Les avis et recommandations de la commission sont motivés. 
+
+Le président de la commission communique l'avis ou la recommandation au ministre chargé de la consommation, aux ministres
+intéressés, à l'auteur de la saisine et aux professionnels entendus durant l'instruction. 
+
+Le commissaire du Gouvernement désigné dans les conditions prévues par l'article L. 534-4 établit chaque année et adresse à
+la commission instituée par ce même article un rapport sur les suites données aux avis et recommandations de cette dernière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L534-4
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-30 (M)
+
+
+###### Article R534-16
+
+Le commissaire du Gouvernement assiste à toutes les séances de la commission ou s'y fait représenter par un délégué qu'il
+désigne dans un courrier adressé au président de la commission. Il peut également, ainsi que son représentant, se faire
+assister par un ou plusieurs fonctionnaires ou agents qualifiés. 
+
+Huit jours au moins avant la séance, il reçoit communication du ou des rapports établis pour préparer les délibérations, sauf
+en cas d'urgence. 
+
+Le délai de quatre jours prévu au dernier alinéa de l'article L. 534-4 court à compter du jour de la séance durant laquelle
+l'avis ou la recommandation a été adopté.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L534-4
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-31 (M)
+
+
+###### Article R534-17
+
+I. ― Des agents publics et des magistrats détachés dans les services communs définis à l'article L. 531-3 ou mis à
+disposition de ces services et des salariés de l'Institut national de la consommation peuvent exercer des fonctions de
+secrétaire ou de collaborateur de la commission. 
+
+Les titulaires de ces fonctions sont choisis par le directeur général de l'Institut national de la consommation en accord
+avec le président de la commission. 
+
+II. ― Pour l'instruction d'avis ou de recommandations sous l'autorité du président ou de membres de la commission désignés à
+cet effet par celui-ci, le président de la commission demande au directeur général de l'Institut national de la consommation
+de désigner des agents des services communs définis à l'article L. 531-3 ou de faire appel, avec l'accord du ministre
+intéressé, à des fonctionnaires de catégorie A ou des agents contractuels de l'Etat de niveau équivalent. Cette instruction
+peut être confiée à des personnes qualifiées choisies d'un commun accord entre le directeur général de l'Institut national de
+la consommation et le président de la commission. 
+
+III. ― Pour l'accomplissement de travaux particuliers sous l'autorité du président ou de membres de la commission désignés à
+cet effet par celui-ci, le président de la commission demande au directeur général de l'Institut national de la consommation
+de désigner des agents des services communs définis à l'article L. 531-3. 
+
+IV. ― Le directeur général de l'Institut national de la consommation ne peut refuser de donner suite aux demandes prévues aux
+II et III que pour des motifs tirés de l'insuffisance des moyens de l'établissement. 
+
+Dans l'exercice des fonctions ou l'accomplissement des travaux définis aux I à III du présent article, les agents ou
+personnes qualifiées ne reçoivent d'instructions que du président ou de membres de la commission désignés à cet effet par
+celui-ci. Ils ont qualité d'agents de la commission pendant toute la durée de leur collaboration, ne rendent compte de leurs
+activités qu'au président et aux membres de la commission et sont astreints au secret professionnel dans les conditions
+définies à l'article L. 534-10. Le président de la commission peut les inviter à assister aux séances de la commission
+lorsque sont examinées les affaires à l'instruction desquelles ils ont apporté leur concours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 17
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L531-3
+  - Code de la consommation - art. L534-10
+
+_Cité par_:
+
+  - Code de la consommation - art. R531-10 (Ab)
+  - Code de la consommation - art. R534-12 (Ab)
+  - Code de la consommation - art. R534-3 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R822-32 (M)
 
 
 ### Titre IV : Le conseil national de l'alimentation.<a id=341></a>
