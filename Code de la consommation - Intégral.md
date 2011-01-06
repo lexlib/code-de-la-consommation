@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-6)](#2)
@@ -335,14 +335,12 @@ et de certaines autres substances aux denrées alimentaires (art. R214-7)](#214)
         - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#331)
         - [Chapitre II : Organes consultatifs. (art. R532-1)](#332)
         - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-6)](#333)
-        - [Chapitre IV : Dispositions diverses. (art. R534-11 à R534-12)](#334)
-          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#335)
-        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. R534-1 à R534-17)](#336)
-          - [Section 1 : La commission des clauses abusives (art. R534-1 à R534-4)](#337)
-          - [Section 2 : La commission de la sécurité des consommateurs (art. R534-5 à R534-10)](#338)
-          - [Section 3 : La commission de la médiation de la consommation (art.  à R534-10)](#339)
-          - [Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation (art. R534-13 à R534-17)](#340)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#341)
+        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. R534-1 à R534-17)](#334)
+          - [Section 1 : La commission des clauses abusives (art. R534-1 à R534-4)](#335)
+          - [Section 2 : La commission de la sécurité des consommateurs (art. R534-5 à R534-10)](#336)
+          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#337)
+          - [Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation (art. R534-13 à R534-17)](#338)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#339)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -8034,15 +8032,15 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 
 1° Le chapitre préliminaire du titre II du livre Ier ; 
 
-2° Les sections 1,2,3,8,9 et 12 du chapitre Ier du titre II du livre Ier ; 
+2° Les sections 1, 2, 3, 8,9 et 12 du chapitre Ier du titre II du livre Ier ; 
 
-3° Les sections 3,4 et 5 du chapitre II du titre II du livre Ier ; 
+3° Les sections 3, 4 et 5 du chapitre II du titre II du livre Ier ; 
 
 4° Les sections 9 à 11 du chapitre Ier du titre Ier du livre III ; 
 
 5° La section 7 du chapitre II du titre Ier du livre III ; 
 
-6° Les sections 1,3 et 6 du chapitre III du titre Ier du livre III ; 
+6° Les sections 1, 3 et 6 du chapitre III du titre Ier du livre III ; 
 
 7° La section 7 du chapitre IV du titre Ier du livre III ; 
 
@@ -8073,7 +8071,11 @@ la loi n° 86-1290 du 23 décembre 1986 ;
 
 3° Des sections 1 et 2 du chapitre Ier du titre Ier du livre II du code du tourisme ; 
 
-4° Du titre II de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique. 
+4° Du titre II de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ;
+
+5° Du 1 de l'article 8 du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits
+et obligations des voyageurs ferroviaires, et du 3 du même article pour ce qui concerne son application aux dispositions du 1
+précité. 
 
 IV.-Le secret professionnel ne peut être opposé aux agents agissant dans le cadre des pouvoirs qui leur sont conférés par le
 présent article. 
@@ -8161,7 +8163,15 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2010-737 du 1er juillet 2010 - art. 59
+  - Loi n°2011-12 du 5 janvier 2011 - art. 11
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de commerce - art. L450-1
+  - PILOTE_SUIVEUR: Code de commerce - art. L450-7
+  - PILOTE_SUIVEUR: Code de commerce - art. L450-8
+  - PILOTE_SUIVEUR: Code de commerce - art. L470-1
+  - PILOTE_SUIVEUR: Code de commerce - art. L470-5
 
 
 ###### Article L141-2
@@ -36849,88 +36859,9 @@ _Cité par_:
   - Code de la consommation - art. R531-8 (VD)
 
 
-#### Chapitre IV : Dispositions diverses.<a id=334></a>
+#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=334></a>
 
-##### Section 3 : La commission de la médiation de la consommation<a id=335></a>
-
-###### Article R534-11
-
-La commission de la médiation de la consommation instituée à l'article L. 534-7 comprend, outre son président, douze membres
-répartis de la manière suivante : 
-
-1° Cinq représentants des consommateurs ; 
-
-2° Cinq représentants des professionnels ; 
-
-3° Deux personnalités qualifiées ayant une expérience en matière de médiation ou issues du monde universitaire. 
-
-Le président et les membres de la commission sont nommés par arrêté du ministre chargé de la consommation pour un mandat de
-trois ans renouvelable une fois. 
-
-Un vice-président est désigné sur proposition de la commission. 
-
-La commission ne peut régulièrement délibérer qu'en présence de son président ou de son remplaçant et d'au moins six autres
-de ses membres. 
-
-Lorsque la commission évalue les pratiques de médiation, tout membre de la commission qui participe ou a participé à ces
-pratiques en tant que médiateur ou collaborateur permanent d'un médiateur s'abstient de participer aux délibérations. 
-
-Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
-commission de la médiation de la consommation. Il ne prend pas part aux votes sur les avis et recommandations.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-1221 du 18 octobre 2010 - art. 16
-
-_Abrogé par_:
-
-  - Décret n°2015-1382 du 30 octobre 2015 - art. 2
-
-_Cite_:
-
-  - Code de la consommation - art. L534-7
-
-
-###### Article R534-12
-
-La commission peut être saisie : 
-
-1° Par le ministre chargé de la consommation ; 
-
-2° Par toute association de défense des consommateurs disposant de l'agrément prévu à l'article L. 411-1 ; 
-
-3° Par tout membre du collège des professionnels du Conseil national de la consommation. 
-
-La commission peut se saisir d'office. 
-
-La commission ne peut examiner aucun litige relatif à la consommation. 
-
-Lorsqu'elle décide de ne pas donner suite à une saisine, la commission en informe son auteur. 
-
-Le président peut désigner un rapporteur parmi les membres de la commission pour l'instruction d'une affaire. Le rapporteur
-peut également être désigné dans les conditions prévues au II de l'article R. 534-17.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-1221 du 18 octobre 2010 - art. 16
-
-_Abrogé par_:
-
-  - Décret n°2015-1382 du 30 octobre 2015 - art. 2
-
-_Cite_:
-
-  - Code de la consommation - art. L411-1
-  - Code de la consommation - art. R534-17
-
-
-#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=336></a>
-
-##### Section 1 : La commission des clauses abusives<a id=337></a>
+##### Section 1 : La commission des clauses abusives<a id=335></a>
 
 ###### Article R534-1
 
@@ -37076,7 +37007,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-21 (M)
 
 
-##### Section 2 : La commission de la sécurité des consommateurs<a id=338></a>
+##### Section 2 : La commission de la sécurité des consommateurs<a id=336></a>
 
 ###### Article R534-5
 
@@ -37251,9 +37182,84 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-27 (Ab)
 
 
-##### Section 3 : La commission de la médiation de la consommation<a id=339></a>
+##### Section 3 : La commission de la médiation de la consommation<a id=337></a>
 
-##### Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation<a id=340></a>
+###### Article R534-11
+
+La commission de la médiation de la consommation instituée à l'article L. 534-7 comprend, outre son président, douze membres
+répartis de la manière suivante : 
+
+1° Cinq représentants des consommateurs ; 
+
+2° Cinq représentants des professionnels ; 
+
+3° Deux personnalités qualifiées ayant une expérience en matière de médiation ou issues du monde universitaire. 
+
+Le président et les membres de la commission sont nommés par arrêté du ministre chargé de la consommation pour un mandat de
+trois ans renouvelable une fois. 
+
+Un vice-président est désigné sur proposition de la commission. 
+
+La commission ne peut régulièrement délibérer qu'en présence de son président ou de son remplaçant et d'au moins six autres
+de ses membres. 
+
+Lorsque la commission évalue les pratiques de médiation, tout membre de la commission qui participe ou a participé à ces
+pratiques en tant que médiateur ou collaborateur permanent d'un médiateur s'abstient de participer aux délibérations. 
+
+Le directeur général de l'Institut national de la consommation ou son représentant peut participer aux séances de la
+commission de la médiation de la consommation. Il ne prend pas part aux votes sur les avis et recommandations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 16
+
+_Abrogé par_:
+
+  - Décret n°2015-1382 du 30 octobre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la consommation - art. L534-7
+
+
+###### Article R534-12
+
+La commission peut être saisie : 
+
+1° Par le ministre chargé de la consommation ; 
+
+2° Par toute association de défense des consommateurs disposant de l'agrément prévu à l'article L. 411-1 ; 
+
+3° Par tout membre du collège des professionnels du Conseil national de la consommation. 
+
+La commission peut se saisir d'office. 
+
+La commission ne peut examiner aucun litige relatif à la consommation. 
+
+Lorsqu'elle décide de ne pas donner suite à une saisine, la commission en informe son auteur. 
+
+Le président peut désigner un rapporteur parmi les membres de la commission pour l'instruction d'une affaire. Le rapporteur
+peut également être désigné dans les conditions prévues au II de l'article R. 534-17.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-1221 du 18 octobre 2010 - art. 16
+
+_Abrogé par_:
+
+  - Décret n°2015-1382 du 30 octobre 2015 - art. 2
+
+_Cite_:
+
+  - Code de la consommation - art. L411-1
+  - Code de la consommation - art. R534-17
+
+
+##### Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation<a id=338></a>
 
 ###### Article R534-13
 
@@ -37441,7 +37447,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-32 (M)
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=341></a>
+### Titre IV : Le conseil national de l'alimentation.<a id=339></a>
 
 ###### Article D541-1
 
