@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-03-01
+Version Consolidée au 2011-03-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-6)](#2)
@@ -6975,15 +6975,20 @@ _Codifié par_:
 
   - Loi n°93-949 du 26 juillet 1993
 
-_Modifié par_:
-
-  - Loi n°2010-1488 du 7 décembre 2010 - art. 18 (V)
-
 _Cité par_:
 
   - Arrêté du 18 avril 2012 (V)
   - Arrêté du 18 avril 2012 - art. 4 (VD)
   - Code de la consommation - art. R121-18 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-11 (M)
+  - Code de la consommation - art. L224-12 (M)
 
 
 ###### Article L121-92
