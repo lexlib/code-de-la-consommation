@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-04-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-6)](#2)
@@ -39094,7 +39094,8 @@ g) Le collège constitué de huit personnalités désignées en raison de leurs 
 
 2° Huit membres de droit : 
 
-a) Le directeur de l'Agence française de sécurité sanitaire des aliments, ou son représentant ; 
+a) Le directeur de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, ou son
+représentant ; 
 
 b) Le directeur de l'Institut national de la recherche agronomique, ou son représentant ; 
 
@@ -39111,25 +39112,25 @@ g) Le président de l'Association des départements de France, ou son représent
 h) le président de l'Association des régions de France, ou son représentant. 
 
 En outre, assistent de plein droit aux séances du conseil, et participent aux débats avec voix consultative, les
-représentants des ministres chargés : 
+représentants des ministres chargés :
 
-- de la recherche ; 
+- de la recherche ;
 
-- de l'industrie ; 
+- de l'industrie ;
 
-- de l'agriculture ; 
+- de l'agriculture ;
 
-- de la santé ; 
+- de la santé ;
 
-- de la consommation ; 
+- de la consommation ;
 
-- de l'éducation nationale ; 
+- de l'éducation nationale ;
 
-- de la pêche ; 
+- de la pêche ;
 
-- du commerce et de l'artisanat ; 
+- du commerce et de l'artisanat ;
 
-- de l'économie ; 
+- de l'économie ;
 
 - de l'emploi.
 
@@ -39147,10 +39148,19 @@ _Cité par_:
 
   - Décret n°2006-1677 du 22 décembre 2006 - art. 3 (V)
   - Arrêté du 12 mai 2010 - art. 3 (V)
+  - Code de la consommation - art. D541-4 (Ab)
 
 _Modifié par_:
 
-  - Décret n°2009-1429 du 20 novembre 2009 - art. 1
+  - Décret n°2011-385 du 11 avril 2011 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D824-4 (M)
 
 
 ###### Article D541-4
