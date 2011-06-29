@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-06-24
+Version Consolidée au 2011-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-6)](#2)
@@ -292,7 +292,7 @@ et de certaines autres substances aux denrées alimentaires (art. R214-7)](#218)
             - [Paragraphe 4 : Procédure devant les commissions (art. R331-8 à R331-8-4)](#288)
           - [Section 2 : Le juge de l'exécution (art. R331-9 à R331-9-4)](#289)
         - [Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement (art. R331-10 à R331-12)](#290)
-          - [Section 1 :  Examen de la recevabilité de la demande (art. R331-10)](#291)
+          - [Section 1 :  Examen de la recevabilité de la demande (art. R331-10 à R331-10-1)](#291)
           - [Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R331-11 à R331-11-3)](#292)
           - [Section 3 : Suspension des mesures d'expulsion (art. R331-12)](#293)
         - [Chapitre II : L'état du passif (art. R332-1 à R332-5)](#294)
@@ -34622,6 +34622,29 @@ _Cite_:
   - Code de la consommation - art. L331-3
 
 
+###### Article R331-10-1
+
+Le recours formé à l'encontre de la décision de recevabilité ne suspend pas ses effets prévus à l'article L. 331-3-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-741 du 28 juin 2011 - art. 1 (VD)
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L331-3-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R722-3 (V)
+
+
 ##### Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=292></a>
 
 ###### Article R331-11
@@ -34700,7 +34723,7 @@ _Cite_:
 Dans le cas où la vente forcée d'un bien immobilier du débiteur a été ordonnée et lorsque la commission saisit le juge chargé
 de la saisie immobilière en application du premier alinéa de l'article L. 331-3-1 ou du premier alinéa de l'article L. 331-5,
 elle transmet la demande par lettre recommandée avec demande d'avis de réception ou remise contre émargement au greffe,
-quinze jours au moins avant la date prévue par la vente. 
+quinze jours au moins avant la date prévue pour la vente. 
 
 Cette demande indique les nom, prénoms et adresse du débiteur ainsi que ceux des créanciers poursuivants ou, pour les
 personnes morales, leur dénomination et leur siège social. Elle précise les causes graves et dûment justifiées invoquées à
@@ -34716,9 +34739,9 @@ La notification indique que ce jugement n'est susceptible ni d'appel, ni d'oppos
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-1304 du 29 octobre 2010 - art. 3
+  - Décret n°2011-741 du 28 juin 2011 - art. 1
 
 _Cite_:
 
