@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2011-10-01
+Version Consolidée au 2011-12-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L141-6)](#2)
@@ -8374,9 +8374,10 @@ _Modifié par_:
 
 ###### Article L141-2
 
-Pour les contraventions prévues aux livres Ier et III ainsi que pour les infractions prévues à l'article L. 121-1, l'autorité
-administrative chargée de la concurrence et de la consommation a droit, tant que l'action publique n'a pas été mise en
-mouvement, de transiger, après accord du procureur de la République, selon des modalités fixées par décret en Conseil d'Etat.
+Pour les contraventions, et les délits qui ne sont pas punis d'une peine d'emprisonnement, prévus aux livres Ier et III ainsi
+que pour les infractions prévues à l'article L. 121-1, l'autorité administrative chargée de la concurrence et de la
+consommation a droit, tant que l'action publique n'a pas été mise en mouvement, de transiger, après accord du procureur de la
+République, selon des modalités fixées par décret en Conseil d'Etat.
 
 L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
 prescription de l'action publique.
@@ -8388,7 +8389,7 @@ lui de l'acceptation de la transaction.
 
 _Modifié par_:
 
-  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 30
 
 _Cite_:
 
