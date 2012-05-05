@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-05-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -26569,14 +26569,13 @@ _Cité par_:
 
 ###### Article R141-5
 
-Lorsqu'elle agit en application du VI de l'article L. 141-1, l'autorité administrative est dispensée de ministère d'avocat ou
-d'avoué.
+Lorsqu'elle agit en application du VI de l'article L. 141-1, l'autorité administrative est dispensée de ministère d'avocat.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-763 du 30 juillet 2008 - art. 1
+  - Décret n°2012-634 du 3 mai 2012 - art. 21
 
 _Cite_:
 
