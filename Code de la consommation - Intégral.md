@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-07-02
+Version Consolidée au 2012-10-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -254,7 +254,7 @@ et de certaines autres substances aux denrées alimentaires (art. R214-7)](#224)
         - [Chapitre III : Sanctions (art. R223-1 à R223-5)](#250)
         - [Chapitre V : Dispositions diverses (art. D225-2)](#251)
     - [Livre III : Endettement (art. D311-1 à R333-5)](#252)
-      - [Titre Ier : Crédit (art. D311-1 à R315-1)](#253)
+      - [Titre Ier : Crédit (art. D311-1 à R315-3)](#253)
         - [Chapitre Ier : Crédit à la consommation (art. D311-1 à D311-14)](#254)
           - [Section 1 : Publicité (art. D311-1 à D311-2)](#255)
           - [Section 2 : Information précontractuelle de l'emprunteur (art. R311-3)](#256)
@@ -265,7 +265,7 @@ et de certaines autres substances aux denrées alimentaires (art. R214-7)](#224)
           - [Section 7 : Opérations de découvert en compte (art. R311-11 à R311-13)](#261)
           - [Section 8 : Sanctions (art. D311-14)](#262)
         - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#263)
-          - [Section 3 : Le contrat de crédit (art. R312-1)](#264)
+          - [Section 3 : Le contrat de crédit (art. R312-1 à R312-1-1)](#264)
           - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#265)
             - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#266)
             - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#267)
@@ -275,7 +275,7 @@ et de certaines autres substances aux denrées alimentaires (art. R214-7)](#224)
             - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#271)
             - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-9)](#272)
           - [Section 3 : Rémunération du vendeur (art. R313-10)](#273)
-          - [Section 7 :  Regroupement de crédits (art. R313-11)](#274)
+          - [Section 7 :  Regroupement de crédits (art. R313-11 à R313-14)](#274)
           - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article R313-1-1)](#275)
             - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#276)
             - [Annexes au Chapitre II du Titre Ier du Livre Ier (art. Annexe I à Annexe IV)](#277)
@@ -287,79 +287,82 @@ et de certaines autres substances aux denrées alimentaires (art. R214-7)](#224)
             - [ANNEXE A L'ARTICLE R311-7 (art. Annexe à l'article R311-7)](#283)
             - [ANNEXE À L'ARTICLE R311-11 (art. Annexe à l'article R311-11)](#284)
             - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#285)
-            - [ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1-1)](#286)
+            - [ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION (art. ANNEXE A L'ARTICLE R313-13 à Annexe à l'article R313-1-1)](#286)
         - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#287)
-        - [Chapitre V : Dispositions relatives à l'outre-mer (art. R315-1)](#288)
-      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R336-8)](#289)
-        - [Chapitre préliminaire : Les organes de la procédure de surendettement (art. R331-1 à R331-9-4)](#290)
-          - [Section 1 : La commission de surendettement des particuliers (art. R331-1 à R331-8-4)](#291)
-            - [Paragraphe 1 : Répartition des commissions sur le territoire (art. R331-1)](#292)
-            - [Paragraphe 2 : Composition des commissions (art. R331-2 à R331-6)](#293)
-            - [Paragraphe 3 : Fonctionnement des commissions (art. R331-7 à R331-7-2)](#294)
-            - [Paragraphe 4 : Procédure devant les commissions (art. R331-8 à R331-8-4)](#295)
-          - [Section 2 : Le juge du tribunal d'instance (art. R331-9 à R331-9-4)](#296)
-        - [Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement (art. R331-10 à R331-12)](#297)
-          - [Section 1 :  Examen de la recevabilité de la demande (art. R331-10 à R331-10-1)](#298)
-          - [Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R331-11 à R331-11-3)](#299)
-          - [Section 3 : Suspension des mesures d'expulsion (art. R331-12)](#300)
-        - [Chapitre II : L'état du passif (art. R332-1 à R332-5)](#301)
-          - [Section 1 :  L'état du passif dressé par la commission (art. R332-1 à R332-2)](#302)
-          - [Section 2 : La vérification des créances (art. R332-3 à R332-4)](#303)
-          - [Section 3 : L'état du passif définitivement arrêté (art. R332-5)](#304)
-        - [Chapitre III :  L'orientation du dossier (art. R333-1 à R333-3)](#305)
-        - [Chapitre IV : Les mesures de traitement (art. R334-1 à R334-77)](#306)
-          - [Section 1 : Dispositions communes (art. R334-1)](#307)
-          - [Section 2 : Le plan conventionnel (art. R334-2 à R334-3)](#308)
-          - [Section 3 : Les mesures de traitement ordinaires (art. R334-4 à R334-18)](#309)
-            - [Paragraphe 1 : Les mesures imposées ou recommandées (art. R334-4 à R334-13)](#310)
-            - [Paragraphe 2 : La contestation des mesures de traitement ordinaires (art. R334-14 à R334-18)](#311)
-          - [Section 4 : Les procédures de rétablissement personnel (art. R334-19 à R334-77)](#312)
-            - [Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-27)](#313)
-              - [Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-23)](#314)
-              - [Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire (art. R334-24 à R334-27)](#315)
-            - [Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire (art. R334-28 à R334-75)](#316)
-              - [Paragraphe 1 : L'ouverture de la procédure (art. R334-28 à R334-35)](#317)
-              - [Paragraphe 2 :  La déclaration et l'arrêté des créances (art. R334-36 à R334-40)](#318)
-              - [Paragraphe 3 : La liquidation des biens du débiteur (art. R334-41 à R334-71)](#319)
-                - [Sous-paragraphe 1 : Dispositions générales (art. R334-41 à R334-47)](#320)
-                - [Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R334-48 à R334-60)](#321)
-                - [Sous-paragraphe 3 : Répartition du produit des actifs (art. R334-61 à R334-71)](#322)
-              - [Paragraphe 4 : La clôture de la procédure (art. R334-72 à R334-73)](#323)
-              - [Paragraphe 5 : Le plan (art. R334-74 à R334-75)](#324)
-            - [Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire (art. R334-76 à R334-77)](#325)
-        - [Chapitre V : Dispositions communes (art. R335-1 à R335-4)](#326)
-        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#327)
-          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#328)
-          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#329)
-          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#330)
-          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#331)
-          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#332)
-      - [Titre IV : Dispositions diverses. (art. R333-5)](#333)
-    - [Livre IV : Les associations de consommateurs (art. R411-1 à R431-3)](#334)
-      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#335)
-        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#336)
-      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#337)
-        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#338)
-      - [Titre III : Reconnaissance spécifique des associations (art. R431-1 à R431-3)](#339)
-    - [Livre V : Les institutions (art. D511-1 à D541-7)](#340)
-      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#341)
-        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#342)
-          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#343)
-          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11-1)](#344)
-          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#345)
-      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#346)
-        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#347)
-        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#348)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R534-17)](#349)
-        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#350)
-        - [Chapitre II : Organes consultatifs. (art. R532-1)](#351)
-        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-6)](#352)
-        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. R534-1 à R534-17)](#353)
-          - [Section 1 : La commission des clauses abusives (art. R534-1 à R534-4)](#354)
-          - [Section 2 : La commission de la sécurité des consommateurs (art. R534-5 à R534-10)](#355)
-          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#356)
-          - [Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation (art. R534-13 à R534-17)](#357)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#358)
+        - [Chapitre V : Dispositions relatives à l'outre-mer (art. R315-1 à R315-3)](#288)
+          - [Section 1 : Crédit à la consommation (art. R315-1)](#289)
+          - [Section 2 : Crédit immobilier (art. R315-2)](#290)
+          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R315-3)](#291)
+      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R336-8)](#292)
+        - [Chapitre préliminaire : Les organes de la procédure de surendettement (art. R331-1 à R331-9-4)](#293)
+          - [Section 1 : La commission de surendettement des particuliers (art. R331-1 à R331-8-4)](#294)
+            - [Paragraphe 1 : Répartition des commissions sur le territoire (art. R331-1)](#295)
+            - [Paragraphe 2 : Composition des commissions (art. R331-2 à R331-6)](#296)
+            - [Paragraphe 3 : Fonctionnement des commissions (art. R331-7 à R331-7-2)](#297)
+            - [Paragraphe 4 : Procédure devant les commissions (art. R331-8 à R331-8-4)](#298)
+          - [Section 2 : Le juge du tribunal d'instance (art. R331-9 à R331-9-4)](#299)
+        - [Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement (art. R331-10 à R331-12)](#300)
+          - [Section 1 :  Examen de la recevabilité de la demande (art. R331-10 à R331-10-1)](#301)
+          - [Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R331-11 à R331-11-3)](#302)
+          - [Section 3 : Suspension des mesures d'expulsion (art. R331-12)](#303)
+        - [Chapitre II : L'état du passif (art. R332-1 à R332-5)](#304)
+          - [Section 1 :  L'état du passif dressé par la commission (art. R332-1 à R332-2)](#305)
+          - [Section 2 : La vérification des créances (art. R332-3 à R332-4)](#306)
+          - [Section 3 : L'état du passif définitivement arrêté (art. R332-5)](#307)
+        - [Chapitre III :  L'orientation du dossier (art. R333-1 à R333-3)](#308)
+        - [Chapitre IV : Les mesures de traitement (art. R334-1 à R334-77)](#309)
+          - [Section 1 : Dispositions communes (art. R334-1)](#310)
+          - [Section 2 : Le plan conventionnel (art. R334-2 à R334-3)](#311)
+          - [Section 3 : Les mesures de traitement ordinaires (art. R334-4 à R334-18)](#312)
+            - [Paragraphe 1 : Les mesures imposées ou recommandées (art. R334-4 à R334-13)](#313)
+            - [Paragraphe 2 : La contestation des mesures de traitement ordinaires (art. R334-14 à R334-18)](#314)
+          - [Section 4 : Les procédures de rétablissement personnel (art. R334-19 à R334-77)](#315)
+            - [Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-27)](#316)
+              - [Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-23)](#317)
+              - [Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire (art. R334-24 à R334-27)](#318)
+            - [Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire (art. R334-28 à R334-75)](#319)
+              - [Paragraphe 1 : L'ouverture de la procédure (art. R334-28 à R334-35)](#320)
+              - [Paragraphe 2 :  La déclaration et l'arrêté des créances (art. R334-36 à R334-40)](#321)
+              - [Paragraphe 3 : La liquidation des biens du débiteur (art. R334-41 à R334-71)](#322)
+                - [Sous-paragraphe 1 : Dispositions générales (art. R334-41 à R334-47)](#323)
+                - [Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R334-48 à R334-60)](#324)
+                - [Sous-paragraphe 3 : Répartition du produit des actifs (art. R334-61 à R334-71)](#325)
+              - [Paragraphe 4 : La clôture de la procédure (art. R334-72 à R334-73)](#326)
+              - [Paragraphe 5 : Le plan (art. R334-74 à R334-75)](#327)
+            - [Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire (art. R334-76 à R334-77)](#328)
+        - [Chapitre V : Dispositions communes (art. R335-1 à R335-4)](#329)
+        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#330)
+          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#331)
+          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#332)
+          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#333)
+          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#334)
+          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#335)
+      - [Titre IV : Dispositions diverses. (art. R333-5)](#336)
+    - [Livre IV : Les associations de consommateurs (art. R411-1 à R431-3)](#337)
+      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#338)
+        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#339)
+      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#340)
+        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#341)
+      - [Titre III : Reconnaissance spécifique des associations (art. R431-1 à R431-3)](#342)
+    - [Livre V : Les institutions (art. D511-1 à D541-7)](#343)
+      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#344)
+        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#345)
+          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#346)
+          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11-1)](#347)
+          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#348)
+      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#349)
+        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#350)
+        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#351)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R534-17)](#352)
+        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#353)
+        - [Chapitre II : Organes consultatifs. (art. R532-1)](#354)
+        - [Chapitre III : Dispositions financières et comptables. (art. R533-1 à R533-6)](#355)
+        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. R534-1 à R534-17)](#356)
+          - [Section 1 : La commission des clauses abusives (art. R534-1 à R534-4)](#357)
+          - [Section 2 : La commission de la sécurité des consommateurs (art. R534-5 à R534-10)](#358)
+          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#359)
+          - [Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation (art. R534-13 à R534-17)](#360)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#361)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
@@ -29171,11 +29174,13 @@ par le contrat de crédit ou par un contrat accessoire, l'information précontra
 ne garantit pas le remboursement du montant total du crédit consenti, sauf si une telle garantie est donnée. 
 
 IV. - L'ensemble des informations prévues au présent article est présenté conformément à la fiche d'information mentionnée à
-l'article L. 311-6 annexée au présent code. 
+l'article L. 311-6 annexée au présent code. Avant la remise de cette fiche, et sauf s'il apparaît manifestement que tel n'est
+pas le cas, le prêteur ou l'intermédiaire de crédit demande à l'emprunteur si l'opération a pour objet le remboursement d'un
+ou plusieurs crédits et, le cas échéant, d'autres dettes.
 
 V. - Toute information complémentaire apportée à l'emprunteur par le prêteur ou l'intermédiaire de crédit, notamment en cas
-d'application des règles relatives au démarchage, figure sur un document distinct, qui peut être annexé à la fiche mentionnée
-au IV.
+d'application des règles relatives au démarchage ou celles relatives au regroupement de crédits, prévues aux articles R.
+313-12 et suivants, figure sur un document distinct, qui peut être annexé à la fiche mentionnée au IV.
 
 **Liens relatifs à cet article**
 
@@ -29189,7 +29194,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-136 du 1er février 2011 - art. 3
+  - Décret n°2012-609 du 30 avril 2012 - art. 1
 
 _Cité par_:
 
@@ -30020,30 +30025,57 @@ _Cite_:
 
 ###### Article R312-1
 
-Le montant des frais d'études, prévus à l'article L. 312-14, que le prêteur peut demander à l'emprunteur lorsque le contrat
-en vue duquel le prêt a été demandé n'est pas conclu, est limité à 0,75 % du montant du prêt, sans pouvoir excéder 150 euros.
+Avant l'envoi de l'offre mentionnée à l'article L. 312-7, et sauf s'il apparaît manifestement que tel n'est pas le cas, le
+prêteur ou l'intermédiaire de crédit demande à l'emprunteur si l'opération de crédit a pour objet le remboursement d'un ou
+plusieurs crédits et, le cas échéant, d'autres dettes. En cas de réponse positive, l'emprunteur bénéficie de l'information
+prévue aux articles R. 313-12 et suivants.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2001-95 du 2 février 2001 - art. 1 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2012-609 du 30 avril 2012 - art. 1
+  - Décret n°2012-609 du 30 avril 2012 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L312-14 (V)
+  - Code de la consommation - art. L312-7
+  - Code de la consommation - art. R313-12 (VD)
+
+
+###### Article R312-1-1
+
+Le montant des frais d'études, prévus à l'article L. 312-14, que le prêteur peut demander à l'emprunteur lorsque le contrat
+en vue duquel le prêt a été demandé n'est pas conclu, est limité à 0,75 % du montant du prêt, sans pouvoir excéder 150 euros.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-609 du 30 avril 2012 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L312-14
+
+_Anciens textes_:
+
+  - Code de la consommation - art. R312-1 (VT)
 
 _Nouveaux textes_:
 
-  - Code de la consommation - art. R312-1-1 (VD)
+  - Code de la consommation - art. R313-22 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R315-2 (Ab)
 
 
 ##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=265></a>
@@ -30662,6 +30694,184 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code de la consommation - art. R315-1 (Ab)
+
+
+###### Article R313-12
+
+Lorsque l'opération de crédit a pour objet le remboursement d'un ou plusieurs crédits et, le cas échéant, d'autres dettes, le
+prêteur ou l'intermédiaire de crédit établit, après dialogue avec l'emprunteur, un document qu'il lui remet afin de garantir
+sa bonne information, en application de l'article L. 313-15. Le prêteur ou l'intermédiaire répond à toute demande
+d'explication de l'emprunteur concernant ce document. 
+
+Dans le cas d'une opération donnant lieu à la remise de la fiche mentionnée à l'article L. 311-6, ce document d'information
+est remis à l'emprunteur au plus tard au même moment que cette fiche, à laquelle il peut être annexé. 
+
+Dans le cas d'une opération donnant lieu à l'envoi de l'offre mentionnée à l'article L. 312-7, le document d'information est
+transmis à l'emprunteur au plus tard en même temps que cette offre.
+
+**Nota:**
+
+Décret n° 2012-1159 du 17 octobre 2012, article 4 : l'article R. 313-12 du code de la consommation, dans sa rédaction issue
+du décret du 30 avril 2012 susvisé et du présent décret, s'applique aux opérations de regroupement de crédits dont l'offre
+est émise à compter du 1er janvier 2013.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-609 du 30 avril 2012 - art. 2
+
+_Cité par_:
+
+  - Décret n°2012-1159 du 17 octobre 2012 - art. 4 (V)
+  - Code de la consommation - art. R311-3 (Ab)
+  - Code de la consommation - art. R312-1 (Ab)
+
+_Cite_:
+
+  - Code de la consommation - art. L311-6
+  - Code de la consommation - art. L312-7
+  - Code de la consommation - art. L313-15
+
+
+###### Article R313-13
+
+Le document d'information est établi sur un support durable. Il comporte, présentées de manière claire et lisible en
+caractères dont la hauteur ne peut être inférieure à celle du corps huit, les informations et mentions suivantes :
+
+1° Pour chaque contrat de crédit dont le regroupement est envisagé, des informations relatives à ce contrat ainsi qu'aux
+conditions et modalités de son remboursement :
+
+a) La nature du crédit, le montant des échéances, le montant du capital restant dû et la durée prévue au contrat pour le
+remboursement de ce montant à la date de l'établissement du document ;
+
+b) La date envisagée pour le remboursement anticipé ;
+
+c) L'estimation du montant nécessaire à ce remboursement, déterminé en fonction de la date mentionnée au b ;
+
+d) Une estimation de l'indemnité de remboursement anticipé, déterminée en fonction du montant mentionné au c, si le contrat
+prévoit une telle indemnité ;
+
+e) Les modalités prévues pour le remboursement anticipé, notamment, le cas échéant, son délai de préavis contractuel ;
+
+f) Le cas échéant, la date à laquelle doit être notifié le préavis, en fonction de la date mentionnée au b ;
+
+g) Une estimation des frais de mainlevée d'hypothèque dont l'emprunteur devra s'acquitter si une mainlevée est nécessaire du
+fait de l'opération ;
+
+2° Dans le cas où l'opération de regroupement a également pour objet le remboursement de dettes autres que des crédits, la
+liste de ces dettes ainsi que, pour chacune d'entre elles, son montant et la date à laquelle elle est exigible ;
+
+3° Un avertissement adressé à l'emprunteur, adapté à sa situation et portant sur les points suivants :
+
+a) L'emprunteur doit continuer à s'acquitter des mensualités dues au titre des crédits dont le regroupement est envisagé,
+jusqu'à leur remboursement effectif ;
+
+b) Il doit continuer à s'acquitter des cotisations dues au titre des assurances garantissant le remboursement des crédits
+dont le regroupement est envisagé, jusqu'à leur remboursement effectif, s'il a souscrit de telles assurances ;
+
+c) Après remboursement anticipé, il ne bénéficiera plus des cautionnements garantissant, le cas échéant, un ou plusieurs des
+crédits sur lesquels porte l'opération de regroupement ;
+
+d) Après remboursement anticipé, il perdra le bénéfice des assurances garantissant, le cas échéant, le remboursement d'un ou
+plusieurs crédits dont le regroupement est envisagé ainsi que des prises en charge éventuellement en cours à ce titre ;
+
+e) S'il souscrit une nouvelle assurance garantissant le remboursement de l'opération de regroupement envisagée, l'emprunteur
+pourrait bénéficier de moindres garanties contractuelles, notamment en raison de changements éventuels de sa situation
+personnelle ou de l'existence de nouveaux délais de carence et de nouvelles franchises ;
+
+f) Dans le cas d'un crédit renouvelable, le prêteur qui consent l'opération de regroupement sera tenu de rembourser
+directement le prêteur initial et, lorsque l'opération de regroupement porte sur la totalité du montant restant dû au titre
+de ce crédit, l'emprunteur peut en demander la résiliation à l'aide d'une lettre signée de sa main, que le nouveau prêteur
+adressera sans frais au prêteur initial ;
+
+g) Dans le cas où il existe un coemprunteur au titre d'un ou plusieurs crédits dont le regroupement est envisagé,
+l'emprunteur doit l'informer de son intention de procéder au regroupement de ce crédit ;
+
+h) Dans le cas où le regroupement envisagé comprend un ou des crédits affectés, il entraînera la perte du droit pour
+l'emprunteur d'obtenir du vendeur la garantie de leur remboursement dans le cas où une résolution judiciaire ou une
+annulation du contrat principal survenait du fait de ce dernier ;
+
+i) Dans le cas où il comprend un ou des crédits garantis par un contrat de cautionnement, leur remboursement anticipé pourra
+entraîner une moins-value sur les sommes qui doivent être restituées à l'emprunteur au titre de ce contrat, lorsque ce
+dernier le prévoit ;
+
+j) Il ne bénéficiera plus des services accessoires ou avantages commerciaux éventuellement liés à un ou plusieurs crédits qui
+font l'objet du regroupement envisagé ;
+
+4° Les informations concernant les modalités de mise en œuvre et de prise d'effet de l'opération de regroupement envisagée :
+
+a) Les démarches que le prêteur qui consent le regroupement accomplira ;
+
+b) Les démarches qui seront à la charge de l'emprunteur ;
+
+c) La date à laquelle doivent être interrompus les versements ou prélèvements réalisés pour le paiement des échéances des
+crédits dont le regroupement est envisagé ainsi que les modalités d'interruption de ces versements ou prélèvements ;
+
+5° Les éléments permettant à l'emprunteur de procéder à l'évaluation du bilan économique du regroupement envisagé. Ces
+éléments sont présentés conformément au tableau figurant en annexe au présent article. Si le regroupement se traduit par un
+allongement de la durée de remboursement ou par une augmentation du coût total du crédit, le prêteur ou l'intermédiaire
+l'indique à l'emprunteur.
+
+**Nota:**
+
+Décret n° 2012-1159 du 17 octobre 2012, article 4 : l'article R. 313-13  du code de la consommation, dans sa rédaction issue
+du décret du 30  avril 2012 susvisé, s'applique aux opérations de  regroupement de crédits dont l'offre est émise à compter
+du 1er janvier  2013.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-609 du 30 avril 2012 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. ANNEXE A L'ARTICLE R313-13 (VD)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R314-20 (V)
+
+
+###### Article R313-14
+
+Pour établir le document d'information sur le fondement d'éléments exacts, le prêteur ou l'intermédiaire demande à
+l'emprunteur communication des pièces, notamment contractuelles, fournies par les prêteurs initiaux ou tout autre créancier
+pour chaque crédit ou créance dont le regroupement est envisagé. Si l'emprunteur ne dispose pas de ces pièces, le prêteur ou
+l'intermédiaire invite l'emprunteur à demander à ses créanciers et prêteurs initiaux les informations nécessaires.
+
+Si ces pièces n'ont pu être réunies, le prêteur ou l'intermédiaire peut établir tout ou partie du document d'information sur
+le fondement d'éléments déclaratifs fournis par l'emprunteur. Dans ce cas, le prêteur intermédiaire l'indique clairement sur
+le document remis à l'emprunteur.
+
+Si l'emprunteur n'est pas non plus en mesure de fournir ces éléments déclaratifs, le prêteur ou l'intermédiaire indique sur
+le document les mentions qui n'ont pu être complétées et avertit l'emprunteur des difficultés financières et pratiques qu'il
+pourrait rencontrer s'il souhaitait néanmoins poursuivre l'opération sans en connaître tous les paramètres.
+
+**Nota:**
+
+Décret n° 2012-1159 du 17 octobre 2012, article 4 : l'article R. 313-14  du code de la consommation, dans sa rédaction issue
+du décret du 30  avril 2012 susvisé, s'applique aux opérations de  regroupement de crédits dont l'offre est émise à compter
+du 1er janvier  2013.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-609 du 30 avril 2012 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R314-21 (M)
 
 
 ##### Annexes<a id=275></a>
@@ -34731,6 +34941,151 @@ _Modifié par_:
 
 ##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION<a id=286></a>
 
+###### Article ANNEXE A L'ARTICLE R313-13
+
+Pour l'application des dispositions de l'article R. 313-13, le document d'information comporte un tableau comparant les
+caractéristiques financières des crédits dont le regroupement est envisagé avec les caractéristiques financières du
+regroupement proposé. 
+
+Ce tableau est présenté conformément au modèle ci-dessous : 
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td>
+
+CRÉDITS EN COURS ET AUTRES DETTES (1) 
+
+</td>
+      <td colspan="2">
+
+REGROUPEMENT DE CRÉDIT PROPOSÉ 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Capital restant dû, taux débiteur (2) et montant des échéances : 
+
+Enumérer les différents crédits. 
+
+</td>
+      <td align="left" rowspan="2">
+
+Montant, taux débiteur (2) et montant des échéances du regroupement (3) : </td>
+    </tr>
+    <tr align="left">
+      <td>
+
+Montant des autres dettes regroupées : 
+
+Enumérer les différentes dettes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Durée de remboursement : 
+
+Enumérer les différents crédits. 
+
+</td>
+      <td rowspan="2" align="left">
+
+Durée de remboursement : </td>
+    </tr>
+    <tr align="left">
+      <td>
+
+Date d'exigibilité des autres dettes regroupées (8) : 
+
+Enumérer les différentes dettes. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" rowspan="2">
+
+Montant total dû par l'emprunteur au titre des crédits en cours et autres dettes (4) : 
+
+</td>
+      <td align="left">
+
+Montant total dû par l'emprunteur au titre du regroupement proposé (5,6) : 
+
+</td>
+    </tr>
+    <tr align="left">
+      <td>
+
+Coûts supplémentaires (7) : par exemple, indemnités de remboursement anticipé, frais de mainlevée d'hypothèque. 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+
+(1) Pour les crédits mentionnés à l'article L. 311-16, le tableau est établi en fonction du capital effectivement emprunté au
+moment de l'établissement du document. 
+
+(2) Le taux débiteur est celui en cours au moment de l'établissement du document. 
+
+(3) Lorsque le montant du crédit proposé excède la somme des capitaux restant dus au titre des contrats faisant l'objet du
+regroupement et, le cas échéant, du montant des autres dettes, le prêteur indique dans le tableau qu'il propose une ligne de
+crédit complémentaire. 
+
+(4) Le montant total dû par l'emprunteur au titre des crédits en cours et autres dettes est la somme :
+
+- du montant des dettes autres que les crédits ;
+
+- du capital restant dû au titre des crédits regroupés ;
+
+- des intérêts restant dus au titre des crédits regroupés, en fonction du taux débiteur et de la durée de remboursement ;
+
+- les frais de dossiers et de garanties éventuels associés aux crédits regroupés, s'ils n'ont pas encore été payés par
+l'emprunteur. 
+
+Ce montant est exprimé hors coût de l'assurance éventuelle. 
+
+(5) Le montant total dû par l'emprunteur au titre du regroupement proposé est la somme :
+
+- du montant du regroupement ;
+
+- des intérêts dus au titre du regroupement en fonction de la durée de remboursement mentionnés dans le tableau. 
+
+Ce montant est exprimé hors coût de l'assurance éventuelle. 
+
+(6) Si des coûts annexes, tels que les indemnités de remboursement anticipé ou les frais de mainlevée d'hypothèque, sont
+inclus dans ce montant, le prêteur l'indique dans le tableau. 
+
+(7) Les coûts supplémentaires n'ont à être identifiés sous cette rubrique que si leur financement n'est pas pris en compte
+dans le montant total de l'opération de regroupement envisagée. 
+
+(8) La date d'exigibilité des autres dettes regroupées s'apprécie à la date d'établissement du document.
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-609 du 30 avril 2012 - art.
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L311-16 (V)
+  - Code de la consommation - art. R313-13
+
+
 ###### Article Annexe à l'article R313-1-1
 
 Pour l'application de l'article R. 313-1-1 du code de la consommation, sont définis les termes suivants : 
@@ -34882,36 +35237,79 @@ _Cite_:
 
 #### Chapitre V : Dispositions relatives à l'outre-mer<a id=288></a>
 
+##### Section 1 : Crédit à la consommation<a id=289></a>
+
 ###### Article R315-1
 
-Le chapitre Ier du présent titre ainsi que l'article R. 313-11 sont applicables en Nouvelle-Calédonie, en Polynésie française
-et dans les îles Wallis et Futuna.
+Le chapitre Ier du présent titre est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et
+Futuna.
+
+**Nota:**
+
+Aux termes de l'article 10 du décret n° 2016-884 du 29 juin 2016, la partie réglementaire du code de la consommation demeure
+en vigueur, dans sa rédaction antérieure à la        date d'entrée en vigueur du présent  décret, en tant qu'elle s'applique
+à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en Polynésie
+française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en vigueur du
+décret pris en application de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée. 
+
+Le décret n° 2017-1166 du 12 juillet 2017 portant dispositions relatives à l'outre-mer du code de la consommation est entré
+en vigueur le 15 juillet 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2011-135 du 1er février 2011 - art. 4 (V)
-  - Décret n°2011-136 du 1er février 2011 - art. 9 (V)
+  - Décret n°2012-609 du 30 avril 2012 - art. 3
 
 _Cité par_:
 
   - Décret n°2012-1159 du 17 octobre 2012 - art. 4 (V)
 
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 _Cite_:
 
   - Code de la consommation - art. R313-1
-  - Code de la consommation - art. R313-11
-  - Code de la consommation - art. R313-2
+  - Code de la consommation - art. R313-11 (Ab)
+  - Code de la consommation - art. R313-2 (Ab)
 
 
-### Titre III : Traitement des situations de surendettement<a id=289></a>
+##### Section 2 : Crédit immobilier<a id=290></a>
 
-#### Chapitre préliminaire : Les organes de la procédure de surendettement<a id=290></a>
+###### Article R315-2
 
-##### Section 1 : La commission de surendettement des particuliers<a id=291></a>
+L'article R. 312-1 est applicable en Nouvelle-Calédonie et en Polynésie française.
 
-##### Paragraphe 1 : Répartition des commissions sur le territoire<a id=292></a>
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-609 du 30 avril 2012 - art. 3
+
+
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=291></a>
+
+###### Article R315-3
+
+La section 7 du chapitre III du présent titre est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-609 du 30 avril 2012 - art. 3
+
+
+### Titre III : Traitement des situations de surendettement<a id=292></a>
+
+#### Chapitre préliminaire : Les organes de la procédure de surendettement<a id=293></a>
+
+##### Section 1 : La commission de surendettement des particuliers<a id=294></a>
+
+##### Paragraphe 1 : Répartition des commissions sur le territoire<a id=295></a>
 
 ###### Article R331-1
 
@@ -34946,7 +35344,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R712-1 (V)
 
 
-##### Paragraphe 2 : Composition des commissions<a id=293></a>
+##### Paragraphe 2 : Composition des commissions<a id=296></a>
 
 ###### Article R331-2
 
@@ -35126,7 +35524,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R712-7 (V)
 
 
-##### Paragraphe 3 : Fonctionnement des commissions<a id=294></a>
+##### Paragraphe 3 : Fonctionnement des commissions<a id=297></a>
 
 ###### Article R331-7
 
@@ -35215,7 +35613,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R712-11 (V)
 
 
-##### Paragraphe 4 : Procédure devant les commissions<a id=295></a>
+##### Paragraphe 4 : Procédure devant les commissions<a id=298></a>
 
 ###### Article R331-8
 
@@ -35374,7 +35772,7 @@ _Créé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 2
 
 
-##### Section 2 : Le juge du tribunal d'instance<a id=296></a>
+##### Section 2 : Le juge du tribunal d'instance<a id=299></a>
 
 ###### Article R331-9
 
@@ -35544,9 +35942,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R713-11 (V)
 
 
-#### Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement<a id=297></a>
+#### Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement<a id=300></a>
 
-##### Section 1 :  Examen de la recevabilité de la demande<a id=298></a>
+##### Section 1 :  Examen de la recevabilité de la demande<a id=301></a>
 
 ###### Article R331-10
 
@@ -35604,7 +36002,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R722-3 (V)
 
 
-##### Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=299></a>
+##### Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=302></a>
 
 ###### Article R331-11
 
@@ -35740,7 +36138,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R722-8 (V)
 
 
-##### Section 3 : Suspension des mesures d'expulsion<a id=300></a>
+##### Section 3 : Suspension des mesures d'expulsion<a id=303></a>
 
 ###### Article R331-12
 
@@ -35783,9 +36181,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R722-9 (V)
 
 
-#### Chapitre II : L'état du passif<a id=301></a>
+#### Chapitre II : L'état du passif<a id=304></a>
 
-##### Section 1 :  L'état du passif dressé par la commission<a id=302></a>
+##### Section 1 :  L'état du passif dressé par la commission<a id=305></a>
 
 ###### Article R332-1
 
@@ -35873,7 +36271,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R723-5 (V)
 
 
-##### Section 2 : La vérification des créances<a id=303></a>
+##### Section 2 : La vérification des créances<a id=306></a>
 
 ###### Article R332-3
 
@@ -35935,7 +36333,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R723-7 (V)
 
 
-##### Section 3 : L'état du passif définitivement arrêté<a id=304></a>
+##### Section 3 : L'état du passif définitivement arrêté<a id=307></a>
 
 ###### Article R332-5
 
@@ -35957,7 +36355,7 @@ _Cite_:
   - Code de la consommation - art. L331-6
 
 
-#### Chapitre III :  L'orientation du dossier<a id=305></a>
+#### Chapitre III :  L'orientation du dossier<a id=308></a>
 
 ###### Article R333-1
 
@@ -36068,9 +36466,9 @@ _Cite_:
   - Code de la consommation - art. L331-7-3
 
 
-#### Chapitre IV : Les mesures de traitement<a id=306></a>
+#### Chapitre IV : Les mesures de traitement<a id=309></a>
 
-##### Section 1 : Dispositions communes<a id=307></a>
+##### Section 1 : Dispositions communes<a id=310></a>
 
 ###### Article R334-1
 
@@ -36113,7 +36511,7 @@ _Cité par_:
   - Code de la consommation - art. R336-4 (VD)
 
 
-##### Section 2 : Le plan conventionnel<a id=308></a>
+##### Section 2 : Le plan conventionnel<a id=311></a>
 
 ###### Article R334-2
 
@@ -36171,9 +36569,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R732-2 (M)
 
 
-##### Section 3 : Les mesures de traitement ordinaires<a id=309></a>
+##### Section 3 : Les mesures de traitement ordinaires<a id=312></a>
 
-##### Paragraphe 1 : Les mesures imposées ou recommandées<a id=310></a>
+##### Paragraphe 1 : Les mesures imposées ou recommandées<a id=313></a>
 
 ###### Article R334-4
 
@@ -36469,7 +36867,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R733-13 (VT)
 
 
-##### Paragraphe 2 : La contestation des mesures de traitement ordinaires<a id=311></a>
+##### Paragraphe 2 : La contestation des mesures de traitement ordinaires<a id=314></a>
 
 ###### Article R334-14
 
@@ -36610,11 +37008,11 @@ _Cité par_:
   - Code monétaire et financier - art. R131-21-1 (M)
 
 
-##### Section 4 : Les procédures de rétablissement personnel<a id=312></a>
+##### Section 4 : Les procédures de rétablissement personnel<a id=315></a>
 
-##### Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire<a id=313></a>
+##### Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire<a id=316></a>
 
-##### Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire<a id=314></a>
+##### Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire<a id=317></a>
 
 ###### Article R334-19
 
@@ -36781,7 +37179,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R741-9 (VT)
 
 
-##### Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire<a id=315></a>
+##### Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire<a id=318></a>
 
 ###### Article R334-24
 
@@ -36880,9 +37278,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R741-13 (V)
 
 
-##### Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire<a id=316></a>
+##### Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire<a id=319></a>
 
-##### Paragraphe 1 : L'ouverture de la procédure<a id=317></a>
+##### Paragraphe 1 : L'ouverture de la procédure<a id=320></a>
 
 ###### Article R334-28
 
@@ -37130,7 +37528,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-10 (V)
 
 
-##### Paragraphe 2 :  La déclaration et l'arrêté des créances<a id=318></a>
+##### Paragraphe 2 :  La déclaration et l'arrêté des créances<a id=321></a>
 
 ###### Article R334-36
 
@@ -37300,9 +37698,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-17 (V)
 
 
-##### Paragraphe 3 : La liquidation des biens du débiteur<a id=319></a>
+##### Paragraphe 3 : La liquidation des biens du débiteur<a id=322></a>
 
-##### Sous-paragraphe 1 : Dispositions générales<a id=320></a>
+##### Sous-paragraphe 1 : Dispositions générales<a id=323></a>
 
 ###### Article R334-41
 
@@ -37484,7 +37882,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-26 (V)
 
 
-##### Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=321></a>
+##### Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=324></a>
 
 ###### Article R334-48
 
@@ -37934,7 +38332,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-41 (V)
 
 
-##### Sous-paragraphe 3 : Répartition du produit des actifs<a id=322></a>
+##### Sous-paragraphe 3 : Répartition du produit des actifs<a id=325></a>
 
 ###### Article R334-61
 
@@ -38241,7 +38639,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-52 (V)
 
 
-##### Paragraphe 4 : La clôture de la procédure<a id=323></a>
+##### Paragraphe 4 : La clôture de la procédure<a id=326></a>
 
 ###### Article R334-72
 
@@ -38296,7 +38694,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-55 (V)
 
 
-##### Paragraphe 5 : Le plan<a id=324></a>
+##### Paragraphe 5 : Le plan<a id=327></a>
 
 ###### Article R334-74
 
@@ -38345,7 +38743,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-57 (V)
 
 
-##### Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire<a id=325></a>
+##### Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire<a id=328></a>
 
 ###### Article R334-76
 
@@ -38399,7 +38797,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R743-2 (V)
 
 
-#### Chapitre V : Dispositions communes<a id=326></a>
+#### Chapitre V : Dispositions communes<a id=329></a>
 
 ###### Article R335-1
 
@@ -38511,9 +38909,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*247-18
 
 
-#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=327></a>
+#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=330></a>
 
-##### Section 1 : Dispositions particulières à Mayotte<a id=328></a>
+##### Section 1 : Dispositions particulières à Mayotte<a id=331></a>
 
 ###### Article R336-1
 
@@ -38644,7 +39042,7 @@ _Cite_:
   - Code de la consommation - art. R335-4 (V)
 
 
-##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=329></a>
+##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=332></a>
 
 ###### Article R336-2
 
@@ -38882,7 +39280,7 @@ _Cite_:
   - Code de la consommation - art. L332-8
 
 
-##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=330></a>
+##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=333></a>
 
 ###### Article R336-4
 
@@ -39016,7 +39414,7 @@ _Cite_:
   - Code de la consommation - art. R335-4 (V)
 
 
-##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=331></a>
+##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=334></a>
 
 ###### Article R336-5
 
@@ -39105,7 +39503,7 @@ _Cite_:
   - Code de la consommation - art. R334-23
 
 
-##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=332></a>
+##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=335></a>
 
 ###### Article R336-7
 
@@ -39205,7 +39603,7 @@ _Cite_:
   - Code de la consommation - art. R331-7-2
 
 
-### Titre IV : Dispositions diverses.<a id=333></a>
+### Titre IV : Dispositions diverses.<a id=336></a>
 
 ###### Article R333-5
 
@@ -39244,11 +39642,11 @@ _Cité par_:
   - Code de la consommation - art. R334-1 (V)
 
 
-## Livre IV : Les associations de consommateurs<a id=334></a>
+## Livre IV : Les associations de consommateurs<a id=337></a>
 
-### Titre Ier : Agrément des associations.<a id=335></a>
+### Titre Ier : Agrément des associations.<a id=338></a>
 
-#### Chapitre Ier : Les associations.<a id=336></a>
+#### Chapitre Ier : Les associations.<a id=339></a>
 
 ###### Article R411-1
 
@@ -39512,9 +39910,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : Action en justice des associations.<a id=337></a>
+### Titre II : Action en justice des associations.<a id=340></a>
 
-#### Chapitre II : Action en représentation conjointe.<a id=338></a>
+#### Chapitre II : Action en représentation conjointe.<a id=341></a>
 
 ###### Article R422-1
 
@@ -39841,7 +40239,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R622-10 (V)
 
 
-### Titre III : Reconnaissance spécifique des associations<a id=339></a>
+### Titre III : Reconnaissance spécifique des associations<a id=342></a>
 
 ###### Article R431-1
 
@@ -39953,13 +40351,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R812-3 (V)
 
 
-## Livre V : Les institutions<a id=340></a>
+## Livre V : Les institutions<a id=343></a>
 
-### Titre Ier : Les organes de concertation.<a id=341></a>
+### Titre Ier : Les organes de concertation.<a id=344></a>
 
-#### Chapitre Ier : Le Conseil national de la consommation.<a id=342></a>
+#### Chapitre Ier : Le Conseil national de la consommation.<a id=345></a>
 
-##### Section 1 : Missions et attributions.<a id=343></a>
+##### Section 1 : Missions et attributions.<a id=346></a>
 
 ###### Article D511-1
 
@@ -40107,7 +40505,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. D821-4 (V)
 
 
-##### Section 2 : Composition et organisation.<a id=344></a>
+##### Section 2 : Composition et organisation.<a id=347></a>
 
 ###### Article D511-5
 
@@ -40378,7 +40776,7 @@ _Cite_:
   - Code de la consommation - art. D511-7
 
 
-##### Section 3 : Fonctionnement.<a id=345></a>
+##### Section 3 : Fonctionnement.<a id=348></a>
 
 ###### Article D511-12
 
@@ -40597,9 +40995,9 @@ _Modifié par_:
   - Décret n°2005-249 du 14 mars 2005 - art. 7 () JORF 18 mars 2005
 
 
-### Titre II : Les organes de coordination administrative.<a id=346></a>
+### Titre II : Les organes de coordination administrative.<a id=349></a>
 
-#### Chapitre Ier : Le comité interministériel de la consommation.<a id=347></a>
+#### Chapitre Ier : Le comité interministériel de la consommation.<a id=350></a>
 
 ###### Article D521-1
 
@@ -40660,7 +41058,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-#### Chapitre II : Le groupe interministériel de la consommation.<a id=348></a>
+#### Chapitre II : Le groupe interministériel de la consommation.<a id=351></a>
 
 ###### Article D522-1
 
@@ -40830,9 +41228,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. D825-4 (Ab)
 
 
-### Titre III : L'institut national de la consommation.<a id=349></a>
+### Titre III : L'institut national de la consommation.<a id=352></a>
 
-#### Chapitre Ier : Organisation et administration.<a id=350></a>
+#### Chapitre Ier : Organisation et administration.<a id=353></a>
 
 ###### Article R531-1
 
@@ -41227,7 +41625,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-11 (M)
 
 
-#### Chapitre II : Organes consultatifs.<a id=351></a>
+#### Chapitre II : Organes consultatifs.<a id=354></a>
 
 ###### Article R532-1
 
@@ -41242,7 +41640,7 @@ _Modifié par_:
   - Décret n°2010-801 du 13 juillet 2010 - art. 10
 
 
-#### Chapitre III : Dispositions financières et comptables.<a id=352></a>
+#### Chapitre III : Dispositions financières et comptables.<a id=355></a>
 
 ###### Article R533-1
 
@@ -41392,9 +41790,9 @@ _Cité par_:
   - Code de la consommation - art. R531-8 (VD)
 
 
-#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=353></a>
+#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=356></a>
 
-##### Section 1 : La commission des clauses abusives<a id=354></a>
+##### Section 1 : La commission des clauses abusives<a id=357></a>
 
 ###### Article R534-1
 
@@ -41540,7 +41938,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-21 (M)
 
 
-##### Section 2 : La commission de la sécurité des consommateurs<a id=355></a>
+##### Section 2 : La commission de la sécurité des consommateurs<a id=358></a>
 
 ###### Article R534-5
 
@@ -41715,7 +42113,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-27 (Ab)
 
 
-##### Section 3 : La commission de la médiation de la consommation<a id=356></a>
+##### Section 3 : La commission de la médiation de la consommation<a id=359></a>
 
 ###### Article R534-11
 
@@ -41792,7 +42190,7 @@ _Cite_:
   - Code de la consommation - art. R534-17
 
 
-##### Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation<a id=357></a>
+##### Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation<a id=360></a>
 
 ###### Article R534-13
 
@@ -41980,7 +42378,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-32 (M)
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=358></a>
+### Titre IV : Le conseil national de l'alimentation.<a id=361></a>
 
 ###### Article D541-1
 
