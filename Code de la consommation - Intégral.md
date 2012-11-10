@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-11-09
+Version Consolidée au 2012-11-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -27893,33 +27893,32 @@ _Anciens textes_:
 
 Le remboursement des frais exposés pour la recherche et la constatation des infractions au livre II du présent code et des
 textes pris pour son application est effectué à l'appui d'un titre de perception unique émis par le préfet et recouvré par le
-comptable du Trésor public conformément aux dispositions prévues aux articles 80 à 95 du décret n° 62-1587 du 29 décembre
-1962 portant règlement général sur la comptabilité publique.
+comptable du Trésor public conformément aux dispositions prévues aux articles 23 à 28 et 112 à 124 du décret n° 2012-1246 du
+7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Ce titre précisera, par poste de dépense, les coûts indiqués par l'agent verbalisateur mentionné à l'article L. 215-1 et
-faisant l'objet de la demande de remboursement.
+faisant l'objet de la demande de remboursement. 
 
-Les postes de dépenses sont :
+Les postes de dépenses sont : 
 
-a) Les prélèvements et le transport des échantillons, dont le montant est fixé forfaitairement à 220 Euros TTC ;
+a) Les prélèvements et le transport des échantillons, dont le montant est fixé forfaitairement à 220 Euros TTC ; 
 
 b) Les analyses et essais, dont le montant est établi sur la base des coûts de revient supportés par le service auquel
 appartient l'agent verbalisateur.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°62-1587 1962-12-29 art. 80 à 95
-  - Code de la consommation - art. L215-1 (M)
-
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2007-1480 du 16 octobre 2007 - art. 1 () JORF 18 octobre 2007
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 23
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 5
 
 
 ###### Article R215-2
