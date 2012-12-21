@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-11-22
+Version Consolidée au 2012-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -9671,25 +9671,25 @@ _Cite_:
 
 ###### Article L213-3
 
-Seront punis des peines portées par l'article L. 213-1 :
+Seront punis des peines portées par l'article L. 213-1 : 
 
-1° Ceux qui falsifieront des denrées servant à l'alimentation de l'homme ou des animaux, des substances médicamenteuses, des
-boissons et des produits agricoles ou naturels destinés à être vendus ;
+1° Ceux qui falsifieront des denrées servant à l'alimentation de l'homme ou des animaux, des boissons et des produits
+agricoles ou naturels destinés à être vendus ; 
 
 2° Ceux qui exposeront, mettront en vente ou vendront des denrées servant à l'alimentation de l'homme ou des animaux, des
-boissons et des produits agricoles ou naturels qu'ils sauront être falsifiés ou corrompus ou toxiques ;
+boissons et des produits agricoles ou naturels qu'ils sauront être falsifiés ou corrompus ou toxiques ; 
 
-3° Ceux qui exposeront, mettront en vente ou vendront des substances médicamenteuses falsifiées ;
+3° (Abrogé) ; 
 
 4° Ceux qui exposeront, mettront en vente ou vendront, connaissant leur destination, des produits, objets ou appareils
 propres à effectuer la falsification des denrées servant à l'alimentation de l'homme ou des animaux, des boissons ou des
 produits agricoles ou naturels et ceux qui auront provoqué à leur emploi par le moyen de brochures, circulaires, prospectus,
-affiches, annonces ou instructions quelconques.
+affiches, annonces ou instructions quelconques. 
 
-Si la substance falsifiée ou corrompue ou si la substance médicamenteuse falsifiée est nuisible à la santé de l'homme ou de
-l'animal, l'emprisonnement sera de quatre ans et l'amende de 75 000 euros.
+Si la substance falsifiée ou corrompue est nuisible à la santé de l'homme ou de l'animal, l'emprisonnement sera de quatre ans
+et l'amende de 75 000 euros. 
 
-Ces peines seront applicables même au cas où la falsification nuisible serait connue de l'acheteur ou du consommateur.
+Ces peines seront applicables même au cas où la falsification nuisible serait connue de l'acheteur ou du consommateur. 
 
 Les dispositions du présent article ne sont pas applicables aux fruits frais et légumes frais, fermentés ou corrompus.
 
@@ -9716,15 +9716,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2012-1427 du 19 décembre 2012 - art. 19
 
 _Cite_:
 
-  - Code de la consommation - art. L213-1 (M)
+  - Code de la consommation - art. L213-1
 
 
 ###### Article L213-4
@@ -9740,13 +9740,13 @@ ou animale :
 2° Soit de denrées servant à l'alimentation de l'homme ou des animaux, de boissons, de produits agricoles ou naturels qu'ils
 savaient être falsifiés, corrompus ou toxiques ;
 
-3° Soit de substances médicamenteuses falsifiées ;
+3° (Abrogé) ;
 
 4° Soit de produits, objets ou appareils propres à effectuer la falsification des denrées servant à l'alimentation de l'homme
 ou des animaux, des boissons ou des produits agricoles ou naturels.
 
-Si la substance alimentaire falsifiée ou corrompue ou si la substance médicamenteuse falsifiée est nuisible à la santé de
-l'homme ou de l'animal, l'emprisonnement sera de deux ans et l'amende de 37500 euros.
+Si la substance alimentaire falsifiée ou corrompue est nuisible à la santé de l'homme ou de l'animal, l'emprisonnement sera
+de deux ans et l'amende de 37500 euros.
 
 Les dispositions du présent article ne sont pas applicables aux fruits frais et légumes frais, fermentés ou corrompus.
 
@@ -9784,15 +9784,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Cite_:
-
-  - Code de la consommation 214-2
+  - Ordonnance n°2012-1427 du 19 décembre 2012 - art. 20
 
 
 ##### Section 3 : Récidive légale<a id=74></a>
@@ -9809,10 +9805,10 @@ Sont considérés, au regard de la récidive, comme une même infraction, les d�
 ― les articles L. 1343-2 à L. 1343-4, L. 3322-11, L. 3351-1, L. 3351-2, L. 4212-1, L. 4212-2, L. 4212-3, L. 4212-4, L.
 4212-5, L. 4212-7, 
 L. 4223-1, L. 4223-4, L. 4323-2, 
-L. 5421-1, L. 5421-2, L. 5421-3, L. 5421-4, L. 5421-5, L. 5421-6, L. 5421-6-1, 
-L. 5424-1, L. 5424-3, L. 5424-6, L. 5424-11, L. 5431-2, L. 5431-5, L. 5431-6, L. 5431-7, L. 5432-1, L. 5441-1, L. 5441-2, L.
-5441-3, L. 5441-4, L. 5441-5, L. 5441-6, L. 5441-8, L. 5441-9, L. 5442-1, L. 5442-2, L. 5442-4, L. 5442-9, L. 5442-10, L.
-5442-11, 
+L. 5421-1, L. 5421-2, L. 5421-3, L. 5421-4, L. 5421-5, L. 5421-6, L. 5421-6-1, L. 5421-13, L. 5421-14, L. 5421-15, L. 5424-1,
+L. 5424-3, L. 5424-6, L. 5424-11, L. 5431-2, L. 5431-5, L. 5431-6, L. 5431-7, L. 5438-3, L. 5438-4, L. 5438-5, L. 5438-6, L.
+5432-1, L. 5441-1, L. 5441-2, L. 5441-3, L. 5441-4, L. 5441-5, L. 5441-6, L. 5441-8, L. 5441-9, L. 5442-1, L. 5442-2, L.
+5442-4, L. 5442-9, L. 5442-10, L. 5442-11, 
 L. 5461-3 et L. 5462-3 du code de la santé publique ; 
 
 ― les articles L. 237-1, L. 237-2, L. 237-3, L. 253-15 à L. 253-17, L. 254-9, 
@@ -9853,17 +9849,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2011-840 du 15 juillet 2011 - art. 5
+  - Ordonnance n°2012-1427 du 19 décembre 2012 - art. 21
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L716-9 (V)
+  - Code de la propriété intellectuelle - art. L716-9
   - Code rural - art. L237-1
   - Code rural - art. L253-15
   - Code rural - art. L254-9
   - Code rural - art. L255-8
   - Code rural - art. L671-9
-  - Code de la santé publique - art. L1343-2 (V)
+  - Code de la santé publique - art. L1343-2
   - Code de la santé publique - art. L4212-1
   - Code de la santé publique - art. L4223-1
   - Code de la santé publique - art. L4323-2
