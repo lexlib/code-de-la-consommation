@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2012-12-22
+Version Consolidée au 2012-12-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -77,7 +77,7 @@ Version Consolidée au 2012-12-22
           - [Section 3 : Récidive légale (art. L213-5 à L213-6)](#74)
         - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#75)
         - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-17)](#76)
-          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2-3)](#77)
+          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2-4)](#77)
           - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#78)
           - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#79)
           - [Section 4 : Expertises (art. L215-9 à L215-17)](#80)
@@ -10787,6 +10787,24 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de la consommation - art. L218-1-4, v. 0.1 (VT)
+
+
+###### Article L215-2-4
+
+Les agents mentionnés à l'article L. 215-1 sont habilités à rechercher et à constater, dans les conditions prévues au présent
+livre, les infractions à la loi n° 2010-729 du 30 juin 2010 tendant à suspendre la commercialisation de tout conditionnement
+comportant du bisphénol A et destiné à recevoir des produits alimentaires.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2010-729 du 30 juin 2010 (V)
+  - Code de la consommation - art. L215-1 (V)
+
+_Créé par_:
+
+  - Loi n°2012-1442 du 24 décembre 2012 - art. 2
 
 
 ##### Section 2 : Recherche et constatation<a id=78></a>
