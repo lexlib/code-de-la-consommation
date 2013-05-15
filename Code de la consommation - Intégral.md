@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2013-04-17
+Version Consolidée au 2013-05-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -27636,23 +27636,30 @@ _Nouveaux textes_:
 ###### Article R214-20
 
 Constituent les mesures d'exécution prévues à l'article L. 214-1 les dispositions de l'article 2, du paragraphe 1 de
-l'article 3 et des paragraphes 2 à 5 de l'article 11 du règlement (CE) n° 648 / 2004 du Parlement européen et du Conseil 31
-mars 2004 relatif aux détergents, modifié par le règlement (CE) n° 907 / 2006 de la Commission du 20 juin 2006 et le
-règlement (CE) n° 1336 / 2008 du 16 décembre 2008.
+l'article 3 , des paragraphes 2 à 5 de l'article 11 et de l'annexe VII du règlement (CE) n° 648 / 2004 du Parlement européen
+et du Conseil du 31 mars 2004 modifié relatif aux détergents.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1083 du 1er septembre 2009 - art. 1
 
 _Cité par_:
 
   - Décret n°2013-396 du 13 mai 2013 (V)
 
+_Modifié par_:
+
+  - Décret n°2013-396 du 13 mai 2013 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 _Cite_:
 
   - Code de la consommation - art. L214-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R412-41 (V)
 
 
 ##### Section 21 : Alimentation des animaux<a id=241></a>
