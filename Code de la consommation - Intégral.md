@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2013-07-01
+Version Consolidée au 2013-07-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -109,7 +109,7 @@ Version Consolidée au 2013-07-01
           - [Section 11 : Sanctions (art. L311-48 à L311-51)](#106)
           - [Section 12 : Procédure (art. L311-52)](#107)
         - [Chapitre II : Crédit immobilier (art. L312-1 à L312-36)](#108)
-          - [Section 1 : Champ d'application (art. L312-1 à L312-3)](#109)
+          - [Section 1 : Champ d'application (art. L312-1 à L312-3-1)](#109)
           - [Section 2 : Publicité (art. L312-4 à L312-6)](#110)
           - [Section 3 : Le contrat de crédit (art. L312-7 à L312-14-2)](#111)
           - [Section 4 : Le contrat principal (art. L312-15 à L312-20)](#112)
@@ -13940,7 +13940,7 @@ _Nouveaux textes_:
 Avant de conclure le contrat de crédit, le prêteur vérifie la solvabilité de l'emprunteur à partir d'un nombre suffisant
 d'informations, y compris des informations fournies par ce dernier à la demande du prêteur. Le prêteur consulte le fichier
 prévu à l'article L. 333-4, dans les conditions prévues par l'arrêté mentionné à l'article L. 333-5, sauf dans le cas d'une
-opération mentionnée au 1 de l'article L. 511-6 du code monétaire et financier.
+opération mentionnée au 1 de l'article    L. 511-6 ou au 1 du I de l'article L. 511-7 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -13964,13 +13964,23 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 200 terdecies (V)
   - Code de la consommation - art. L311-14 (VT)
   - Code de la consommation - art. L311-16 (VT)
+  - Code de la consommation - art. L311-42 (VT)
   - Code de la consommation - art. L311-9-1 (VT)
   - Code de la consommation - art. L313-14 (VT)
   - Code de la consommation - art. L333-5 (VT)
 
 _Modifié par_:
 
-  - Loi n°2012-387 du 22 mars 2012 - art. 116
+  - Loi n°2013-672 du 26 juillet 2013 - art. 76
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L311-16 (MMN)
+  - Code de la consommation - art. L312-16 (V)
 
 _Cite_:
 
@@ -16187,6 +16197,39 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de la consommation - art. L313-2 (V)
+
+
+###### Article L312-3-1
+
+Les  emprunteurs, personnes physiques n'agissant pas pour des besoins  professionnels, ne peuvent contracter de prêts
+libellés dans une devise  étrangère à l'Union européenne remboursables en monnaie nationale que  s'ils déclarent percevoir
+principalement leurs revenus ou détenir un  patrimoine dans cette devise au moment de la signature du contrat de  prêt,
+excepté si le risque de change n'est pas supporté par  l'emprunteur.
+
+Ils sont informés des risques inhérents à un  tel contrat de prêt et les possibilités éventuelles de conversion des
+remboursements en monnaie nationale en cours de prêts leur sont  précisées avant l'émission de l'offre de prêt.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-672 du 26 juillet 2013 - art. 54
+
+_Cité par_:
+
+  - Décret n°2014-544 du 26 mai 2014 (V)
+  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 7 (V)
+  - Code de la consommation - art. R312-0 (MMN)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L313-64 (VD)
 
 
 ##### Section 2 : Publicité<a id=110></a>
@@ -19995,14 +20038,22 @@ insolvabilité, de payer, en tout ou partie, une créance autre qu'alimentaire, 
 acquitteraient des créances nées antérieurement à la suspension ou à l'interdiction, de faire un acte de disposition étranger
 à la gestion normale du patrimoine ; elles emportent aussi interdiction de prendre toute garantie ou sûreté. 
 
-Le débiteur peut toutefois saisir le    juge du tribunal d'instance  afin qu'il l'autorise à accomplir l'un des actes
-mentionnés à l'alinéa précédent. 
+Le débiteur peut toutefois saisir le juge du tribunal d'instance afin qu'il l'autorise à accomplir l'un des actes mentionnés
+à l'alinéa précédent. 
 
-La décision déclarant la recevabilité de la demande emporte rétablissement des droits à l'aide personnalisée au logement. Le
-déblocage des aides s'effectue au profit du bailleur. 
+La décision déclarant la recevabilité de la demande emporte rétablissement des droits à l'aide personnalisée au logement et
+aux allocations de logement. Le déblocage des allocations de logement s'effectue dans les conditions prévues aux articles L.
+542-7-1 et L. 831-8 du code de la sécurité sociale. 
 
 Nonobstant toute disposition légale ou toute clause contractuelle, aucune indivisibilité, résiliation ou résolution d'un
-contrat en cours ne peut résulter du seul fait de la décision déclarant la recevabilité de la demande.
+contrat en cours ne peut résulter du seul fait de la décision déclarant la recevabilité de la demande. 
+
+A compter de la décision déclarant la recevabilité de la demande, le délai de trente jours mentionné au deuxième alinéa de
+l'article L. 113-3 du code des assurances, lorsqu'il est applicable, est porté à cent vingt jours pour les assurances ayant
+pour objet la garantie de remboursement d'un emprunt relevant du chapitre II du titre Ier du présent livre III et figurant
+dans l'état du passif définitivement arrêté par la commission ou le juge. Le contrat d'assurance correspondant ne peut pas
+être résilié pendant la période de suspension et d'interdiction des procédures d'exécution et des cessions de rémunération
+définie au premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
@@ -20029,7 +20080,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1609 du 22 décembre 2010 - art. 11 (V)
+  - Loi n°2013-672 du 26 juillet 2013 - art. 61
+  - Loi n°2013-672 du 26 juillet 2013 - art. 69 (V)
 
 _Cite_:
 
@@ -20038,6 +20090,7 @@ _Cite_:
   - Code de la consommation - art. L331-7
   - Code de la consommation - art. L331-7-1
   - Code de la consommation - art. L332-5
+  - Code des assurances - art. L113-3 (V)
 
 
 ###### Article L331-3-2
@@ -29619,8 +29672,8 @@ _Nouveaux textes_:
 
 ###### Article R311-5
 
-I. - Le contrat de crédit prévu à l'article L. 311-18 est rédigé en caractères dont la hauteur ne peut être inférieure à
-celle du corps huit. Il comporte de manière claire et lisible, dans l'ordre précisé ci-dessous : 
+I.-Le contrat de crédit prévu à l'article L. 311-18 est rédigé en caractères dont la hauteur ne peut être inférieure à celle
+du corps huit. Il comporte de manière claire et lisible, dans l'ordre précisé ci-dessous : 
 
 1° L'identité et l'adresse géographique des parties contractantes ainsi que, le cas échéant, l'identité et l'adresse de
 l'intermédiaire de crédit concerné ; 
@@ -29707,10 +29760,11 @@ a) La procédure de la médiation mentionnée à l'article L. 315-1 du code mon�
 
 b) Les dispositions de l'article L. 311-52 ; 
 
-c) L'adresse de l'Autorité de contrôle prudentiel mentionnée à l'article L. 612-1 du code monétaire et financier et celle de
-l'autorité administrative chargée de la concurrence et de la consommation, au sens de l'article L. 141-1 du présent code ; 
+c) L'adresse de l'Autorité de contrôle prudentiel et de résolution mentionnée à l'article L. 612-1 du code monétaire et
+financier et celle de l'autorité administrative chargée de la concurrence et de la consommation, au sens de l'article L.
+141-1 du présent code ; 
 
-II. - S'il y a paiement de frais et d'intérêts sans amortissement du capital, le contrat comprend un relevé des périodes et
+II.-S'il y a paiement de frais et d'intérêts sans amortissement du capital, le contrat comprend un relevé des périodes et
 conditions de paiement des intérêts débiteurs et des frais annexes récurrents et non récurrents. 
 
 Lorsque les échéances versées par l'emprunteur n'entraînent pas immédiatement un amortissement correspondant du montant total
@@ -29718,21 +29772,41 @@ du crédit, mais servent à reconstituer le capital aux périodes et dans les co
 un contrat accessoire, et que cette modalité d'exécution ne garantit pas le remboursement du montant total du crédit
 consenti, le contrat le précise expressément. 
 
-III. - Le tableau mentionné au e du 6° du I indique les montants, périodes et conditions des échéances ainsi que la
-ventilation de chaque échéance entre l'amortissement du capital, les intérêts calculés sur la base du taux débiteur et, le
-cas échéant, les coûts additionnels. Si le taux d'intérêt n'est pas fixe ou si les coûts additionnels peuvent être modifiés
-en vertu du contrat de crédit, le tableau indique de manière claire et concise que les données mentionnées dans le tableau ne
-seront valables que jusqu'à la modification suivante du taux débiteur ou des coûts additionnels.
+III.-Le tableau mentionné au e du 6° du I indique les montants, périodes et conditions des échéances ainsi que la ventilation
+de chaque échéance entre l'amortissement du capital, les intérêts calculés sur la base du taux débiteur et, le cas échéant,
+les coûts additionnels. Si le taux d'intérêt n'est pas fixe ou si les coûts additionnels peuvent être modifiés en vertu du
+contrat de crédit, le tableau indique de manière claire et concise que les données mentionnées dans le tableau ne seront
+valables que jusqu'à la modification suivante du taux débiteur ou des coûts additionnels.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°97-298 du 27 mars 1997
-
 _Modifié par_:
 
-  - Décret n°2011-136 du 1er février 2011 - art. 5
+  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L311-13
+  - Code de la consommation - art. L311-14
+  - Code de la consommation - art. L311-15
+  - Code de la consommation - art. L311-16
+  - Code de la consommation - art. L311-18
+  - Code de la consommation - art. L311-22
+  - Code de la consommation - art. L311-52
+  - Code monétaire et financier - art. L315-1
+  - Code monétaire et financier - art. L612-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L312-72 (M)
+  - Code de la consommation - art. R312-10 (M)
+  - Code de la consommation - art. R312-11 (V)
+  - Code de la consommation - art. R312-12 (V)
+  - Code de la consommation - art. R312-13 (V)
 
 
 ###### Article R311-5-1
