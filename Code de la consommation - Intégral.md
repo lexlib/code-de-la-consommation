@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2013-09-01
+Version Consolidée au 2013-11-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -22234,11 +22234,12 @@ _Abrogé par_:
 
 ###### Article L334-7
 
-I. ― En Polynésie française, les établissements de paiement, les établissements de monnaie électronique et les organismes
-mentionnés au 5 de l'article L. 511-6 du même code déclarent à la Banque de France les incidents de paiement liés aux crédits
-accordés aux personnes physiques pour des besoins non professionnels. Ces déclarations sont portées, dès leur réception, sur
-le fichier national des incidents de remboursement des crédits aux particuliers prévu à l'article L. 333-4. Elles sont mises
-à la disposition de l'ensemble des établissements et des organismes ayant accès au fichier. 
+I. ― En Polynésie française, les établissements de crédit mentionnés au titre Ier du livre V du code monétaire et financier,
+les établissements de paiement, les établissements de monnaie électronique et les organismes mentionnés au 5 de l'article L.
+511-6 du même code déclarent à la Banque de France les incidents de paiement liés aux crédits accordés aux personnes
+physiques pour des besoins non professionnels. Ces déclarations sont portées, dès leur réception, sur le fichier national des
+incidents de remboursement des crédits aux particuliers prévu à l'article L. 333-4. Elles sont mises à la disposition de
+l'ensemble des établissements et des organismes ayant accès au fichier. 
 
 Les frais afférents à ces déclarations ne peuvent être facturés aux personnes physiques concernées. La Banque de France est
 seule habilitée à centraliser ces incidents de paiement. Les informations relatives à ces incidents sont radiées
@@ -22321,10 +22322,6 @@ _Cite_:
 _Cité par_:
 
   - Arrêté du 26 octobre 2010 - art. 17 (VD)
-
-_Modifié par_:
-
-  - Ordonnance n°2013-792 du 30 août 2013 - art. 12 (V)
 
 
 ##### Section 4 : Dispositions applicables aux îles Wallis et Futuna<a id=163></a>
