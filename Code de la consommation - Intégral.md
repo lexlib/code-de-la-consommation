@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-03-19 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -7829,14 +7829,18 @@ première nécessité" de l'électricité ou du tarif spécial de solidarité du
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 22
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Décret n°2016-555 du 6 mai 2016 - art. 1
   - Code de l'énergie - art. R124-16 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-13 (VT)
 
 
 ###### Article L121-93
