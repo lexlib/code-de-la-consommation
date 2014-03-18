@@ -1,12 +1,12 @@
 # Code de la consommation  
-Version Consolidée au 2014-02-24
+Version Consolidée au 2014-03-19
 ## Contenu: 
-  - [Partie législative (art. L111-1 à L562-1)](#1)
+  - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
-      - [Titre Ier : Information des consommateurs (art. L111-1 à L115-33)](#3)
-        - [Chapitre Ier : Obligation générale d'information (art. L111-1 à L111-3)](#4)
+      - [Titre Ier : Information des consommateurs (art. L111-1 à L116-1)](#3)
+        - [Chapitre Ier : Obligation générale d'information (art. L111-1 à L111-5)](#4)
         - [Chapitre II : Modes de présentation et inscriptions (art. L112-1 à L112-11)](#5)
-        - [Chapitre III : Prix et conditions de vente (art. L113-1 à L113-5)](#6)
+        - [Chapitre III : Prix et conditions de vente (art. L113-1 à L113-6)](#6)
         - [Chapitre IV : Information sur les délais de livraison (art. L114-1)](#7)
         - [Chapitre V : Valorisation des produits et des services (art. L115-1 à L115-33)](#8)
           - [Section 1 : Appellations d'origine (art. L115-1 à L115-18)](#9)
@@ -21,355 +21,392 @@ Version Consolidée au 2014-02-24
           - [Section 3 : La certification de conformité (art. L115-25 à L115-26)](#18)
           - [Section 4 : Recherche et constatation des infractions prévues aux sections 1 à 3 (art. L115-26-1)](#19)
           - [Section 5 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer (art. L115-27 à L115-33)](#20)
-      - [Titre II : Pratiques commerciales (art. L120-1 à L123-5)](#21)
-        - [Chapitre préliminaire :  Pratiques commerciales déloyales (art. L120-1)](#22)
-        - [Chapitre Ier : Pratiques commerciales réglementées (art. L121-1 à L121-96)](#23)
-          - [Section 1 : Pratiques commerciales trompeuses et publicité (art. L121-1 à L121-15-4)](#24)
-            - [Sous-section 1 : Pratiques commerciales trompeuses (art. L121-1 à L121-7)](#25)
-            - [Sous-section 2 : Publicité (art. L121-8 à L121-15-4)](#26)
-          - [Section 2 : Ventes de biens et fournitures de prestations de services à distance (art. L121-16 à L121-20-16)](#27)
-            - [Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers (art. L121-16 à L121-20-7)](#28)
-            - [Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers (art. L121-20-8 à L121-20-14)](#29)
-            - [Sous-section 3 : Dispositions communes (art. L121-20-15 à L121-20-16)](#30)
-          - [Section 3 : Démarchage (art. L121-21 à L121-33)](#31)
-          - [Section 4 : Ventes directes (art. L121-34)](#32)
-          - [Section 5 : Ventes ou prestations avec primes (art. L121-35)](#33)
-          - [Section 6 : Loteries publicitaires (art. L121-36 à L121-41)](#34)
-          - [Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons (art. L121-50 à L121-53)](#35)
-          - [Section 9 : Contrats d'utilisation de biens à temps partagé, contrats de produit de vacances à long terme, contrats de revente et contrats d'échange (art. L121-60 à L121-79-5)](#36)
-          - [Section 10 : Appellation de boulanger et enseigne de boulangerie (art. L121-80 à L121-82)](#37)
-          - [Section 11 : Contrats de services de communications électroniques (art. L121-83 à L121-85)](#38)
-          - [Section 12 : Contrats de fourniture d'électricité ou de gaz naturel (art. L121-86 à L121-94)](#39)
-          - [Section 13 : Contrats de transports de déménagement (art. L121-95 à L121-96)](#40)
-        - [Chapitre II : Pratiques commerciales illicites (art. L122-1 à L122-15)](#41)
-          - [Section 1 : Refus et subordination de vente ou de prestation de services (art. L122-1)](#42)
-          - [Section 2 : Ventes et prestations de services sans commande préalable (art. L122-3 à L122-5)](#43)
-          - [Section 3 : Ventes ou prestations "à la boule de neige" (art. L122-6 à L122-7)](#44)
-          - [Section 4 : Abus de faiblesse (art. L122-8 à L122-10)](#45)
-          - [Section 5 : Pratiques commerciales agressives (art. L122-11 à L122-15)](#46)
-        - [Chapitre III : Dispositions relatives à l'outre-mer (art. L123-1 à L123-5)](#47)
-      - [Titre III : Conditions générales des contrats (art. L131-1 à L138-1)](#48)
-        - [Chapitre Ier : Arrhes et acompte (art. L131-1 à L131-3)](#49)
-        - [Chapitre II : Clauses abusives (art. L132-1)](#50)
-          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. L132-1)](#51)
-        - [Chapitre III : Interprétation et forme des contrats (art. L133-1 à L133-2)](#52)
-        - [Chapitre IV : Remise des contrats (art. L134-1 à L134-2)](#53)
-        - [Chapitre V : Du conflit des lois relatives aux clauses abusives (art. L135-1)](#54)
-        - [Chapitre VI : Reconduction des contrats (art. L136-1)](#55)
-        - [Chapitre VII : Prescription (art. L137-1 à L137-2)](#56)
-        - [Chapitre VIII : Dispositions relatives à l'outre-mer (art. L138-1)](#57)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L141-1 à L142-1)](#58)
-        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. L141-1 à L141-6)](#59)
-        - [Chapitre II : Dispositions relatives à l'outre-mer (art. L142-1)](#60)
-    - [Livre II : Conformité et sécurité des produits et des services (art. L211-1 à L225-1)](#61)
-      - [Titre Ier : Conformité (art. L211-1 à L218-7)](#62)
-        - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-22)](#63)
-          - [Section 1 : Champ d'application (art. L211-1 à L211-3)](#64)
-          - [Section 2 : Garantie légale de conformité (art. L211-4 à L211-14)](#65)
-          - [Section 3 : Garantie commerciale (art. L211-15 à L211-16)](#66)
-          - [Section 4 : Disposition commune (art. L211-17)](#67)
-          - [Section 5 : Disposition applicable aux acheteurs résidant dans un Etat membre de la Communauté européenne (art. L211-18)](#68)
-          - [Section 6 : Dispositions particulières relatives aux prestations de services après-vente (art. L211-19 à L211-22)](#69)
-        - [Chapitre II : Obligation générale de conformité (art. L212-1)](#70)
-        - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-6)](#71)
-          - [Section 1 : Tromperie (art. L213-1 à L213-2-1)](#72)
-          - [Section 2 : Falsifications et délits connexes (art. L213-3 à L213-4)](#73)
-          - [Section 3 : Récidive légale (art. L213-5 à L213-6)](#74)
-        - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#75)
-        - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-17)](#76)
-          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2-4)](#77)
-          - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#78)
-          - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#79)
-          - [Section 4 : Expertises (art. L215-9 à L215-17)](#80)
-        - [Chapitre VI : Dispositions communes (art. L216-1 à L216-12)](#81)
-        - [Chapitre VII : Dispositions particulières (art. L217-1 à L217-11)](#82)
-        - [Chapitre VIII : Mesures de police administrative (art. L218-1 à L218-7)](#83)
-          - [Section 1 : Dispositions générales (art. L218-1 à L218-5-2)](#84)
-            - [Sous-section 1 : Pouvoirs d'enquête. (art. L218-1 à L218-1-1)](#85)
-            - [Sous-section 2 : Mesures relatives aux établissements, aux produits et aux services. (art. L218-2 à L218-5-2)](#86)
-          - [Section 2 : Etablissements traitant des produits par ionisation (art. L218-6)](#87)
-          - [Section 3 : Dispositions pénales. (art. L218-7)](#88)
-      - [Titre II : Sécurité (art. L221-1 à L225-1)](#89)
-        - [Chapitre Ier : Prévention (art. L221-1 à L221-11)](#90)
-        - [Chapitre II : Critères d'évaluation de conformité (art. L222-1 à L222-3)](#91)
-        - [Chapitre V : Dispositions diverses (art. L225-1)](#92)
-    - [Livre III : Endettement (art. L311-1 à L341-6)](#93)
-      - [Titre Ier : Crédit (art. L311-1 à L315-11)](#94)
-        - [Chapitre Ier : Crédit à la consommation (art. L311-1 à L311-52)](#95)
-          - [Section 1 : Définitions et champ d'application. (art. L311-1 à L311-3)](#96)
-          - [Section 2 : Publicité. (art. L311-4 à L311-5)](#97)
-          - [Section 3 :  Information précontractuelle de l'emprunteur (art. L311-6 à L311-7)](#98)
-          - [Section 4 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. L311-8 à L311-10-1)](#99)
-          - [Section 5 : Formation du contrat de crédit (art. L311-11 à L311-17-1)](#100)
-          - [Section 6 : Informations mentionnées dans le contrat (art. L311-18 à L311-20)](#101)
-          - [Section 7 : Exécution du contrat de crédit (art. L311-21 à L311-26)](#102)
-          - [Section 8 : Crédit gratuit (art. L311-27 à L311-29)](#103)
-          - [Section 9 : Les crédits affectés (art. L311-30 à L311-41)](#104)
-          - [Section 10 : Opérations de découvert en compte (art. L311-42 à L311-47)](#105)
-          - [Section 11 : Sanctions (art. L311-48 à L311-51)](#106)
-          - [Section 12 : Procédure (art. L311-52)](#107)
-        - [Chapitre II : Crédit immobilier (art. L312-1 à L312-36)](#108)
-          - [Section 1 : Champ d'application (art. L312-1 à L312-3-1)](#109)
-          - [Section 2 : Publicité (art. L312-4 à L312-6)](#110)
-          - [Section 3 : Le contrat de crédit (art. L312-7 à L312-14-2)](#111)
-          - [Section 4 : Le contrat principal (art. L312-15 à L312-20)](#112)
-          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. L312-21 à L312-23)](#113)
-            - [Sous-section 1 : Remboursement anticipé (art. L312-21)](#114)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. L312-22)](#115)
-            - [Sous-section 3 : Dispositions communes (art. L312-23)](#116)
-          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. L312-24 à L312-31)](#117)
-          - [Section 7 : Sanctions (art. L312-32 à L312-35)](#118)
-          - [Section 8 : Procédure (art. L312-36)](#119)
-        - [Chapitre III : Dispositions communes aux chapitres Ier et II (art. L313-1 à L313-17)](#120)
-          - [Section 1 : Le taux d'intérêt (art. L313-1 à L313-5)](#121)
-            - [Sous-section 1 : Le taux effectif global (art. L313-1 à L313-2)](#122)
-            - [Sous-section 2 : Le taux d'usure (art. L313-3 à L313-5)](#123)
-          - [Section 2 : Les sûretés personnelles (art. L313-7 à L313-10-1)](#124)
-          - [Section 3 : Rémunération du vendeur (art. L313-11)](#125)
-          - [Section 4 : Délais de grâce (art. L313-12)](#126)
-          - [Section 5 : Lettres de change et billets à ordre (art. L313-13)](#127)
-          - [Section 6 : Crédit garanti par une hypothèque rechargeable (art. L313-14 à L313-14-2)](#128)
-          - [Section 7 : Regroupement de crédits. (art. L313-15)](#129)
-          - [Section 8 : Textes d'application. (art. L313-16)](#130)
-          - [Section 9 : Dispositions d'ordre public (art. L313-17)](#131)
-        - [Chapitre IV : Prêt viager hypothécaire (art. L314-1 à L314-20)](#132)
-          - [Section 1 : Définition et champ d'application (art. L314-1 à L314-2)](#133)
-          - [Section 2 : Pratiques commerciales (art. L314-3 à L314-4)](#134)
-          - [Section 3 : Le contrat de crédit (art. L314-5 à L314-8)](#135)
-          - [Section 4 : Plafonnement de la dette (art. L314-9)](#136)
-          - [Section 5 : Remboursement anticipé (art. L314-10 à L314-12)](#137)
-          - [Section 6 : Terme de l'opération (art. L314-13 à L314-14)](#138)
-          - [Section 7 : Sanctions (art. L314-15 à L314-19)](#139)
-          - [Section 8 : Textes d'application (art. L314-20)](#140)
-        - [Chapitre V : Dispositions relatives à l'outre-mer (art. L315-1 à L315-11)](#141)
-          - [Section 1 : Crédit à la consommation (art. L315-1)](#142)
-          - [Section 2 : Crédit immobilier (art. L315-2 à L315-4)](#143)
-          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. L315-5 à L315-10)](#144)
-          - [Section 4 : Prêt viager hypothécaire (art. L315-11)](#145)
-      - [Titre II : Activité d'intermédiaire (art. L321-1 à L323-1)](#146)
-        - [Chapitre Ier : Protection des débiteurs et des emprunteurs (art. L321-1 à L321-4)](#147)
-          - [Section 1 : Nullité des conventions (art. L321-1)](#148)
-          - [Section 2 : Publicité (art. L321-2 à L321-4)](#149)
-        - [Chapitre II : Dispositions diverses (art. L322-1 à L322-3)](#150)
-        - [Chapitre III : Dispositions relatives à l'outre-mer (art. L323-1)](#151)
-      - [Titre III : Traitement des situations de surendettement (art. L330-1 à L334-12)](#152)
-        - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. L331-1 à L331-12)](#153)
-        - [Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement (art. L332-1 à L332-12)](#154)
-          - [Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement (art. L332-1 à L332-4)](#155)
-          - [Section 2 : De la procédure de rétablissement personnel (art. L332-5 à L332-12)](#156)
-        - [Chapitre III : Dispositions communes (art. L333-1 à L333-6)](#157)
-        - [Chapitre III bis : Dispositions particulières au traitement de la situation de surendettement d'un entrepreneur individuel à responsabilité limitée (art. L333-7)](#158)
-        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. L334-1 à L334-12)](#159)
-          - [Section 1 : Dispositions applicables à Mayotte (art. L334-1 à L334-3)](#160)
-          - [Section 2 : Dispositions applicables à la Nouvelle-Calédonie (art. L334-4 à L334-6)](#161)
-          - [Section 3 : Dispositions applicables à la Polynésie française (art. L334-7)](#162)
-          - [Section 4 : Dispositions applicables aux îles Wallis et Futuna (art. L334-8 à L334-10)](#163)
-          - [Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. L334-11)](#164)
-          - [Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon (art. L334-12)](#165)
-      - [Titre IV : Cautionnement (art. L341-1 à L341-6)](#166)
-    - [Livre IV : Les associations de consommateurs (art. L411-1 à L422-3)](#167)
-      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#168)
-        - [Chapitre Ier : Les associations (art. L411-1)](#169)
-        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#170)
-      - [Titre II : Actions en justice des associations (art. L421-1 à L422-3)](#171)
-        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#172)
-          - [Section 1 : Action civile (art. L421-1 à L421-5)](#173)
-          - [Section 2 : Action en cessation d'agissements illicites (art. L421-6)](#174)
-          - [Section 3 : Interventions en justice (art. L421-7)](#175)
-          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#176)
-        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#177)
-    - [Livre V : Les institutions (art. L531-1 à L562-1)](#178)
-      - [Titre III : L'Institut national de la consommation (art. L531-1 à L534-10)](#179)
-        - [Chapitre Ier : Organisation administrative (art. L531-1 à L531-4)](#180)
-        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. L534-1 à L534-10)](#181)
-      - [Titre IV : Le Conseil national de l'alimentation (art. L541-1)](#182)
-        - [Chapitre Ier (art. L541-1)](#183)
-      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#184)
-        - [Chapitre Ier : Missions (art. L561-1)](#185)
-        - [Chapitre II : Fonctionnement (art. L562-1)](#186)
-  - [Partie réglementaire (art. R112-1 à D541-7)](#187)
-    - [Livre Ier : Information des consommateurs et formation des contrats (art. R112-1 à R142-2)](#188)
-      - [Titre Ier : Information des consommateurs (art. R112-1 à R115-3)](#189)
-        - [Chapitre II : Modes de présentation et inscriptions (art. R112-1 à R112-31)](#190)
-        - [Chapitre III : Prix et conditions de vente (art. R113-1)](#191)
-        - [Chapitre IV : Information sur les délais de livraison (art. R114-1)](#192)
-        - [Chapitre V : Valorisation des produits et des services (art. R115-1 à R115-3)](#193)
-          - [Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer (art. R115-1 à R115-3)](#194)
-      - [Titre II : Pratiques commerciales (art. R121-1 à R123-1)](#195)
-        - [Chapitre Ier : Pratiques commerciales réglementées (art. R121-1 à R121-21)](#196)
-          - [Section 2 : Ventes de biens et fournitures de prestations de services à distance (art. R121-1 à R121-2-5)](#197)
-            - [Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers. (art. R121-1 à R121-2)](#198)
-            - [Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers (art. R121-2-1 à R121-2-5)](#199)
-          - [Section 3 : Démarchage (art. R121-3 à R121-6)](#200)
-          - [Section 5 : Ventes ou prestations avec primes (art. R121-8 à R121-10)](#201)
-          - [Section 6 : Loteries publicitaires (art. R121-11 à R121-13)](#202)
-          - [Section 12 : Contrats de fourniture d'électricité ou de gaz naturel (art. R121-14 à R121-21)](#203)
-        - [Chapitre II : Pratiques commerciales illicites (art. R122-1)](#204)
-          - [Section 2 : Ventes sans commande préalable. (art. R122-1)](#205)
-        - [Chapitre III : Dispositions relatives à l'outre-mer (art. R123-1)](#206)
-      - [Titre III : Conditions générales des contrats (art. R132-1 à R134-1)](#207)
-        - [Chapitre II : Clauses abusives (art. R132-1 à R132-2-1)](#208)
-          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. R132-1 à R132-2-1)](#209)
-        - [Chapitre IV : Remise des contrats (art. R134-1)](#210)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R141-1 à R142-2)](#211)
-        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-5)](#212)
-        - [Chapitre II : Procédures civiles simplifiées (art. R142-1 à R142-2)](#213)
-    - [Livre II : Qualité des produits et des services (art. R211-1 à D225-2)](#214)
-      - [Titre Ier : Conformité (art. R211-1 à R218-1)](#215)
-        - [Chapitre Ier : Dispositions générales. (art. R211-1 à R211-5)](#216)
-          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. R211-1 à R211-5)](#217)
-        - [Chapitre IV : Mesures d'application. (art. R214-1 à R214-33)](#218)
-          - [Section 1 : Dispositions générales (art. R214-1)](#219)
-          - [Section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux (art. R214-2)](#220)
-          - [Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R214-3)](#221)
-          - [Section 4 : Organismes génétiquement modifiés (art. R214-4)](#222)
-          - [Section 5 : Boissons alcoolisées (art. R214-5)](#223)
-          - [Section 6 :  Additifs, enzymes et arômes  destinés à l'alimentation humaine (art. R214-6)](#224)
+        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. L116-1)](#21)
+      - [Titre II : Pratiques commerciales (art. L120-1 à L123-5)](#22)
+        - [Chapitre préliminaire :  Pratiques commerciales déloyales (art. L120-1)](#23)
+        - [Chapitre Ier : Pratiques commerciales réglementées (art. L121-1 à L121-105)](#24)
+          - [Section 1 : Pratiques commerciales trompeuses et publicité (art. L121-1 à L121-15-4)](#25)
+            - [Sous-section 1 : Pratiques commerciales trompeuses (art. L121-1 à L121-7)](#26)
+            - [Sous-section 2 : Publicité (art. L121-8 à L121-15-4)](#27)
+          - [Section 2 : Ventes de biens et fournitures de prestations de services à distance (art. L121-16 à L121-20-16)](#28)
+            - [Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers (art. L121-16 à L121-20-7)](#29)
+            - [Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers (art. L121-20-8 à L121-20-14)](#30)
+            - [Sous-section 3 : Dispositions communes (art. L121-20-15 à L121-20-16)](#31)
+          - [Section 3 : Démarchage (art. L121-21 à L121-33)](#32)
+          - [Section 4 : Ventes directes (art. L121-34)](#33)
+          - [Section 5 : Ventes ou prestations avec primes (art. L121-35)](#34)
+          - [Section 6 : Loteries publicitaires (art. L121-36 à L121-41)](#35)
+          - [Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons (art. L121-50 à L121-53)](#36)
+          - [Section 9 : Contrats d'utilisation de biens à temps partagé, contrats de produit de vacances à long terme, contrats de revente et contrats d'échange (art. L121-60 à L121-79-5)](#37)
+          - [Section 10 : Appellation de boulanger et enseigne de boulangerie (art. L121-80 à L121-82)](#38)
+          - [Section 10 bis : Qualité et transparence dans l'élaboration des plats proposés dans le cadre d'une activité de restauration commerciale (art. L121-82-1 à L121-82-2)](#39)
+          - [Section 11 : Contrats de services de communications électroniques (art. L121-83 à L121-85-1)](#40)
+          - [Section 12 : Contrats de fourniture d'électricité ou de gaz naturel (art. L121-86 à L121-94)](#41)
+          - [Section 13 : Contrats de transports de déménagement (art. L121-95 à L121-96)](#42)
+          - [Section 14 : Contrats conclus dans les foires et salons (art. L121-97 à L121-98)](#43)
+          - [Section 15 : Contrats d'achat de métaux précieux (art. L121-99 à L121-104)](#44)
+          - [Section 16 : Contrats de transport hors déménagement (art. L121-105)](#45)
+        - [Chapitre II : Pratiques commerciales illicites (art. L122-1 à L122-16)](#46)
+          - [Section 1 : Refus et subordination de vente ou de prestation de services (art. L122-1)](#47)
+          - [Section 2 : Ventes et prestations de services sans commande préalable (art. L122-3 à L122-5)](#48)
+          - [Section 3 : Ventes ou prestations "à la boule de neige" (art. L122-6 à L122-7)](#49)
+          - [Section 4 : Abus de faiblesse (art. L122-8 à L122-10)](#50)
+          - [Section 5 : Pratiques commerciales agressives (art. L122-11 à L122-15)](#51)
+          - [Section 6 : Frais de recouvrement (art. L122-16)](#52)
+        - [Chapitre III : Dispositions relatives à l'outre-mer (art. L123-1 à L123-5)](#53)
+      - [Titre III : Conditions générales des contrats (art. L131-1 à L139-1)](#54)
+        - [Chapitre Ier : Arrhes et acompte (art. L131-1 à L131-3)](#55)
+        - [Chapitre II : Clauses abusives (art. L132-1 à L132-2)](#56)
+          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. L132-1 à L132-2)](#57)
+        - [Chapitre III : Interprétation et forme des contrats (art. L133-1 à L133-4)](#58)
+        - [Chapitre IV : Remise des contrats (art. L134-1 à L134-2)](#59)
+        - [Chapitre V : Du conflit des lois relatives aux clauses abusives (art. L135-1)](#60)
+        - [Chapitre VI : Reconduction des contrats (art. L136-1 à L136-2)](#61)
+        - [Chapitre VII : Prescription (art. L137-1 à L137-3)](#62)
+        - [Chapitre VIII : Dispositions relatives à l'outre-mer (art. L138-1)](#63)
+        - [Chapitre IX : Droit applicable (art. L139-1)](#64)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L141-1 à L142-1)](#65)
+        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. L141-1 à L141-6)](#66)
+        - [Chapitre II : Dispositions relatives à l'outre-mer (art. L142-1)](#67)
+    - [Livre II : Conformité et sécurité des produits et des services (art. L211-1 à L225-1)](#68)
+      - [Titre Ier : Conformité (art. L211-1 à L218-7)](#69)
+        - [Chapitre Ier : Dispositions générales (art. L211-1 à L211-23)](#70)
+          - [Section 1 : Champ d'application (art. L211-1 à L211-3)](#71)
+          - [Section 2 : Garantie légale de conformité (art. L211-4 à L211-14)](#72)
+          - [Section 3 : Garantie commerciale (art. L211-15 à L211-16-1)](#73)
+          - [Section 4 : Disposition commune (art. L211-17)](#74)
+          - [Section 5 :  Dispositions applicables aux consommateurs résidant dans un Etat membre de l'Union européenne (art. L211-18)](#75)
+          - [Section 6 : Dispositions particulières relatives aux prestations de services après-vente (art. L211-19 à L211-23)](#76)
+        - [Chapitre II : Obligation générale de conformité (art. L212-1)](#77)
+        - [Chapitre III : Fraudes et falsifications (art. L213-1 à L213-6)](#78)
+          - [Section 1 : Tromperie (art. L213-1 à L213-2-1)](#79)
+          - [Section 2 : Falsifications et délits connexes (art. L213-3 à L213-4)](#80)
+          - [Section 3 : Récidive légale (art. L213-5 à L213-6)](#81)
+        - [Chapitre IV : Mesures d'application (art. L214-1 à L214-3)](#82)
+        - [Chapitre V : Pouvoirs d'enquête (art. L215-1 à L215-21)](#83)
+          - [Section 1 : Autorités qualifiées (art. L215-1 à L215-2-4)](#84)
+          - [Section 2 : Recherche et constatation (art. L215-3 à L215-4)](#85)
+          - [Section 3 : Mesures d'urgence (art. L215-5 à L215-8)](#86)
+          - [Section 4 : Expertises (art. L215-9 à L215-17)](#87)
+          - [Section 5 : Opérations de visite et de saisie 
+et commissions rogatoires (art. L215-18 à L215-19)](#88)
+          - [Section 6 : Actions juridictionnelles (art. L215-20 à L215-21)](#89)
+        - [Chapitre VI : Dispositions communes (art. L216-1 à L216-12)](#90)
+        - [Chapitre VII : Dispositions particulières (art. L217-1 à L217-12)](#91)
+        - [Chapitre VIII : Mesures de police administrative (art. L218-1 à L218-7)](#92)
+          - [Section 1 : Dispositions générales (art. L218-1 à L218-5-6)](#93)
+            - [Sous-section 1 : Pouvoirs d'enquête. (art. L218-1 à L218-1-4)](#94)
+            - [Sous-section 2 : Mesures relatives aux établissements, aux produits et aux services. (art. L218-2 à L218-5-6)](#95)
+          - [Section 2 : Etablissements traitant des produits par ionisation (art. L218-6)](#96)
+          - [Section 3 : Dispositions pénales. (art. L218-7)](#97)
+      - [Titre II : Sécurité (art. L221-1 à L225-1)](#98)
+        - [Chapitre Ier : Prévention (art. L221-1 à L221-11)](#99)
+        - [Chapitre II : Critères d'évaluation de conformité (art. L222-1 à L222-3)](#100)
+        - [Chapitre III : Sanctions (art. L223-1)](#101)
+        - [Chapitre V : Dispositions diverses (art. L225-1)](#102)
+    - [Livre III : Endettement (art. L311-1 à L341-6)](#103)
+      - [Titre Ier : Crédit (art. L311-1 à L315-11)](#104)
+        - [Chapitre Ier : Crédit à la consommation (art. L311-1 à L311-52)](#105)
+          - [Section 1 : Définitions et champ d'application. (art. L311-1 à L311-3)](#106)
+          - [Section 2 : Publicité. (art. L311-4 à L311-5)](#107)
+          - [Section 3 :  Information précontractuelle de l'emprunteur (art. L311-6 à L311-7)](#108)
+          - [Section 4 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. L311-8 à L311-10-1)](#109)
+          - [Section 5 : Formation du contrat de crédit (art. L311-11 à L311-17-1)](#110)
+          - [Section 6 : Informations mentionnées dans le contrat (art. L311-18 à L311-20)](#111)
+          - [Section 7 : Exécution du contrat de crédit (art. L311-21 à L311-26)](#112)
+          - [Section 8 : Crédit gratuit (art. L311-27 à L311-29)](#113)
+          - [Section 9 : Les crédits affectés (art. L311-30 à L311-41)](#114)
+          - [Section 10 : Opérations de découvert en compte (art. L311-42 à L311-47)](#115)
+          - [Section 11 : Sanctions (art. L311-48 à L311-51)](#116)
+          - [Section 12 : Procédure (art. L311-52)](#117)
+        - [Chapitre II : Crédit immobilier (art. L312-1 à L312-36)](#118)
+          - [Section 1 : Champ d'application (art. L312-1 à L312-3-1)](#119)
+          - [Section 2 : Publicité (art. L312-4 à L312-6)](#120)
+          - [Section 3 : Le contrat de crédit (art. L312-7 à L312-14-2)](#121)
+          - [Section 4 : Le contrat principal (art. L312-15 à L312-20)](#122)
+          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. L312-21 à L312-23)](#123)
+            - [Sous-section 1 : Remboursement anticipé (art. L312-21)](#124)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. L312-22)](#125)
+            - [Sous-section 3 : Dispositions communes (art. L312-23)](#126)
+          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. L312-24 à L312-31)](#127)
+          - [Section 7 : Sanctions (art. L312-32 à L312-35)](#128)
+          - [Section 8 : Procédure (art. L312-36)](#129)
+        - [Chapitre III : Dispositions communes aux chapitres Ier et II (art. L313-1 à L313-17)](#130)
+          - [Section 1 : Le taux d'intérêt (art. L313-1 à L313-5)](#131)
+            - [Sous-section 1 : Le taux effectif global (art. L313-1 à L313-2)](#132)
+            - [Sous-section 2 : Le taux d'usure (art. L313-3 à L313-5)](#133)
+          - [Section 2 : Les sûretés personnelles (art. L313-7 à L313-10-1)](#134)
+          - [Section 3 : Rémunération du vendeur (art. L313-11)](#135)
+          - [Section 4 : Délais de grâce (art. L313-12)](#136)
+          - [Section 5 : Lettres de change et billets à ordre (art. L313-13)](#137)
+          - [Section 6 : Crédit garanti par une hypothèque rechargeable (art. L313-14 à L313-14-2)](#138)
+          - [Section 7 : Regroupement de crédits. (art. L313-15)](#139)
+          - [Section 8 : Textes d'application. (art. L313-16)](#140)
+          - [Section 9 : Dispositions d'ordre public (art. L313-17)](#141)
+        - [Chapitre IV : Prêt viager hypothécaire (art. L314-1 à L314-20)](#142)
+          - [Section 1 : Définition et champ d'application (art. L314-1 à L314-2)](#143)
+          - [Section 2 : Pratiques commerciales (art. L314-3 à L314-4)](#144)
+          - [Section 3 : Le contrat de crédit (art. L314-5 à L314-8)](#145)
+          - [Section 4 : Plafonnement de la dette (art. L314-9)](#146)
+          - [Section 5 : Remboursement anticipé (art. L314-10 à L314-12)](#147)
+          - [Section 6 : Terme de l'opération (art. L314-13 à L314-14)](#148)
+          - [Section 7 : Sanctions (art. L314-15 à L314-19)](#149)
+          - [Section 8 : Textes d'application (art. L314-20)](#150)
+        - [Chapitre V : Dispositions relatives à l'outre-mer (art. L315-1 à L315-11)](#151)
+          - [Section 1 : Crédit à la consommation (art. L315-1)](#152)
+          - [Section 2 : Crédit immobilier (art. L315-2 à L315-4)](#153)
+          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. L315-5 à L315-10)](#154)
+          - [Section 4 : Prêt viager hypothécaire (art. L315-11)](#155)
+      - [Titre II : Activité d'intermédiaire (art. L321-1 à L323-1)](#156)
+        - [Chapitre Ier : Protection des débiteurs et des emprunteurs (art. L321-1 à L321-4)](#157)
+          - [Section 1 : Nullité des conventions (art. L321-1)](#158)
+          - [Section 2 : Publicité (art. L321-2 à L321-4)](#159)
+        - [Chapitre II : Dispositions diverses (art. L322-1 à L322-3)](#160)
+        - [Chapitre III : Dispositions relatives à l'outre-mer (art. L323-1)](#161)
+      - [Titre III : Traitement des situations de surendettement (art. L330-1 à L334-12)](#162)
+        - [Chapitre Ier : De la procédure devant la commission de surendettement des particuliers (art. L331-1 à L331-12)](#163)
+        - [Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement (art. L332-1 à L332-12)](#164)
+          - [Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement (art. L332-1 à L332-4)](#165)
+          - [Section 2 : De la procédure de rétablissement personnel (art. L332-5 à L332-12)](#166)
+        - [Chapitre III : Dispositions communes (art. L333-1 à L333-6)](#167)
+        - [Chapitre III bis : Dispositions particulières au traitement de la situation de surendettement d'un entrepreneur individuel à responsabilité limitée (art. L333-7)](#168)
+        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. L334-1 à L334-12)](#169)
+          - [Section 1 : Dispositions applicables à Mayotte (art. L334-1 à L334-3)](#170)
+          - [Section 2 : Dispositions applicables à la Nouvelle-Calédonie (art. L334-4 à L334-6)](#171)
+          - [Section 3 : Dispositions applicables à la Polynésie française (art. L334-7)](#172)
+          - [Section 4 : Dispositions applicables aux îles Wallis et Futuna (art. L334-8 à L334-10)](#173)
+          - [Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. L334-11)](#174)
+          - [Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon (art. L334-12)](#175)
+      - [Titre IV : Cautionnement (art. L341-1 à L341-6)](#176)
+    - [Livre IV : Les associations de consommateurs (art. L411-1 à L423-26)](#177)
+      - [Titre Ier : Agrément des associations (art. L411-1 à L412-1)](#178)
+        - [Chapitre Ier : Les associations (art. L411-1)](#179)
+        - [Chapitre II : Les sociétés coopératives de consommation (art. L412-1)](#180)
+      - [Titre II : Actions en justice des associations (art. L421-1 à L423-26)](#181)
+        - [Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs (art. L421-1 à L421-9)](#182)
+          - [Section 1 : Action civile (art. L421-1 à L421-5)](#183)
+          - [Section 2 : Action en cessation d'agissements illicites (art. L421-6)](#184)
+          - [Section 3 : Interventions en justice (art. L421-7)](#185)
+          - [Section 4 : Dispositions communes (art. L421-8 à L421-9)](#186)
+        - [Chapitre II : Action en représentation conjointe (art. L422-1 à L422-3)](#187)
+        - [Chapitre III : Action de groupe (art. L423-1 à L423-26)](#188)
+          - [Section 1 : Champ d'application de l'action de groupe 
+et qualité pour agir (art. L423-1 à L423-2)](#189)
+          - [Section 2 : Jugement sur la responsabilité (art. L423-3 à L423-9)](#190)
+          - [Section 3 : Procédure d'action de groupe simplifiée (art. L423-10)](#191)
+          - [Section 4 : Mise en œuvre du jugement, liquidation des préjudices et exécution (art. L423-11 à L423-14)](#192)
+          - [Section 5 : Médiation (art. L423-15 à L423-16)](#193)
+          - [Section 6 : Modalités spécifiques à l'action de groupe intervenant dans le domaine de la concurrence (art. L423-17 à L423-19)](#194)
+          - [Section 7 : Dispositions diverses (art. L423-20 à L423-25)](#195)
+          - [Section 8 : Dispositions relatives aux outre-mer (art. L423-26)](#196)
+    - [Livre V : Les institutions (art. L531-1 à L562-1)](#197)
+      - [Titre III : L'Institut national de la consommation (art. L531-1 à L534-10)](#198)
+        - [Chapitre Ier : Organisation administrative (art. L531-1 à L531-4)](#199)
+        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. L534-1 à L534-10)](#200)
+      - [Titre IV : Le Conseil national de l'alimentation (art. L541-1)](#201)
+        - [Chapitre Ier (art. L541-1)](#202)
+      - [Titre VI : Le laboratoire d'essais (art. L561-1 à L562-1)](#203)
+        - [Chapitre Ier : Missions (art. L561-1)](#204)
+        - [Chapitre II : Fonctionnement (art. L562-1)](#205)
+  - [Partie réglementaire (art. R112-1 à D541-7)](#206)
+    - [Livre Ier : Information des consommateurs et formation des contrats (art. R112-1 à R142-2)](#207)
+      - [Titre Ier : Information des consommateurs (art. R112-1 à R115-3)](#208)
+        - [Chapitre II : Modes de présentation et inscriptions (art. R112-1 à R112-31)](#209)
+        - [Chapitre III : Prix et conditions de vente (art. R113-1)](#210)
+        - [Chapitre IV : Information sur les délais de livraison (art. R114-1)](#211)
+        - [Chapitre V : Valorisation des produits et des services (art. R115-1 à R115-3)](#212)
+          - [Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer (art. R115-1 à R115-3)](#213)
+      - [Titre II : Pratiques commerciales (art. R121-1 à R123-1)](#214)
+        - [Chapitre Ier : Pratiques commerciales réglementées (art. R121-1 à R121-21)](#215)
+          - [Section 2 : Ventes de biens et fournitures de prestations de services à distance (art. R121-1 à R121-2-5)](#216)
+            - [Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers. (art. R121-1 à R121-2)](#217)
+            - [Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers (art. R121-2-1 à R121-2-5)](#218)
+          - [Section 3 : Démarchage (art. R121-3 à R121-6)](#219)
+          - [Section 5 : Ventes ou prestations avec primes (art. R121-8 à R121-10)](#220)
+          - [Section 6 : Loteries publicitaires (art. R121-11 à R121-13)](#221)
+          - [Section 12 : Contrats de fourniture d'électricité ou de gaz naturel (art. R121-14 à R121-21)](#222)
+        - [Chapitre II : Pratiques commerciales illicites (art. R122-1)](#223)
+          - [Section 2 : Ventes sans commande préalable. (art. R122-1)](#224)
+        - [Chapitre III : Dispositions relatives à l'outre-mer (art. R123-1)](#225)
+      - [Titre III : Conditions générales des contrats (art. R132-1 à R134-1)](#226)
+        - [Chapitre II : Clauses abusives (art. R132-1 à R132-2-1)](#227)
+          - [Section 1 : Protection des consommateurs contre les clauses abusives (art. R132-1 à R132-2-1)](#228)
+        - [Chapitre IV : Remise des contrats (art. R134-1)](#229)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R141-1 à R142-2)](#230)
+        - [Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles (art. R141-1 à R141-5)](#231)
+        - [Chapitre II : Procédures civiles simplifiées (art. R142-1 à R142-2)](#232)
+    - [Livre II : Qualité des produits et des services (art. R211-1 à D225-2)](#233)
+      - [Titre Ier : Conformité (art. R211-1 à R218-1)](#234)
+        - [Chapitre Ier : Dispositions générales. (art. R211-1 à R211-5)](#235)
+          - [Section 2 : Dispositions particulières aux garanties conventionnelles. (art. R211-1 à R211-5)](#236)
+        - [Chapitre IV : Mesures d'application. (art. R214-1 à R214-33)](#237)
+          - [Section 1 : Dispositions générales (art. R214-1)](#238)
+          - [Section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux (art. R214-2)](#239)
+          - [Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R214-3)](#240)
+          - [Section 4 : Organismes génétiquement modifiés (art. R214-4)](#241)
+          - [Section 5 : Boissons alcoolisées (art. R214-5)](#242)
+          - [Section 6 :  Additifs, enzymes et arômes  destinés à l'alimentation humaine (art. R214-6)](#243)
           - [Section 7 : Adjonction de vitamines, de minéraux 
-et de certaines autres substances aux denrées alimentaires (art. R214-7)](#225)
-          - [Section 8 : Contaminants (art. R214-8)](#226)
-          - [Section 9 : Fruits et légumes (art. R214-9)](#227)
-          - [Section 10 : Huile d'olive et olives de table (art. R214-10)](#228)
-          - [Section 11 : Œufs et viande de volaille (art. R214-11)](#229)
-          - [Section 12 : Produits laitiers, colostrum et matières grasses laitières ou non (art. R214-12)](#230)
-          - [Section 13 : Produits de la pêche (art. R214-13)](#231)
-          - [Section 14 : Viandes bovine, ovine et porcine (art. R214-14)](#232)
-          - [Section 14 bis : Viande hachée et produits à base de viande (art. R214-14-1)](#233)
-          - [Section 14 ter : Collagènes et gélatine (art. R214-14-2)](#234)
-          - [Section 15 : Modes de valorisation (art. R214-15)](#235)
-          - [Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale (art. R214-16)](#236)
-          - [Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R214-17)](#237)
-          - [Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R214-18)](#238)
-          - [Section 19 : Engrais (art. R214-19)](#239)
-          - [Section 20 : Détergents (art. R214-20)](#240)
-          - [Section 21 : Alimentation des animaux (art. R214-21)](#241)
-          - [Section 22 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 5° de l'article L. 214-1 (art. R214-22)](#242)
-          - [Section 23 : Fibres et produits textiles (art. R214-23)](#243)
-          - [Section 24 : Produits de construction (art. R214-24 à R214-33)](#244)
-            - [Sous-section 1 : Dispositions générales (art. R214-24)](#245)
-            - [Sous-section 2 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs (art. R214-25 à R214-33)](#246)
-        - [Chapitre V : Pouvoirs d'enquête (art. R215-1 à R215-23)](#247)
-          - [Section 1 : Autorités qualifiées. (art. R215-1)](#248)
-          - [Section 2 : Recherche et constatation. (art. D215-16 à R215-15)](#249)
-          - [Section 4 : Expertises. (art. R215-18 à R215-23)](#250)
-        - [Chapitre VI : Dispositions communes. (art. R216-2 à R216-3)](#251)
-        - [Chapitre VII : Dispositions particulières. (art. R217-1)](#252)
-        - [Chapitre VIII : Mesures de police administrative (art. R218-1)](#253)
-      - [Titre II : Sécurité (art. R223-1 à D225-2)](#254)
-        - [Chapitre III : Sanctions (art. R223-1 à R223-5)](#255)
-        - [Chapitre V : Dispositions diverses (art. D225-2)](#256)
-    - [Livre III : Endettement (art. D311-1 à R336-8)](#257)
-      - [Titre Ier : Crédit (art. D311-1 à R315-6)](#258)
-        - [Chapitre Ier : Crédit à la consommation (art. D311-1 à D311-14)](#259)
-          - [Section 1 : Publicité (art. D311-1 à D311-2)](#260)
-          - [Section 2 : Information précontractuelle de l'emprunteur (art. R311-3)](#261)
-          - [Section 3 : Formation du contrat de crédit (art. D311-4-1 à R311-4)](#262)
-          - [Section 4 : Informations mentionnées dans le contrat (art. R311-5 à R311-5-1)](#263)
-          - [Section 5 : Exécution du contrat de crédit (art. D311-6 à D311-8)](#264)
-          - [Section 6 : Les crédits affectés (art. D311-10-1 à R311-10)](#265)
-          - [Section 7 : Opérations de découvert en compte (art. R311-11 à R311-13)](#266)
-          - [Section 8 : Sanctions (art. D311-14)](#267)
-        - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#268)
-          - [Section 3 : Le contrat de crédit (art. R312-1 à R312-1-1)](#269)
-          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#270)
-            - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#271)
-            - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#272)
-          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#273)
-        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article R313-1-1)](#274)
-          - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-8)](#275)
-            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#276)
-            - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-8)](#277)
-          - [Section 3 : Rémunération du vendeur (art. R313-10)](#278)
-          - [Section 7 :  Regroupement de crédits (art. R313-11 à R313-14)](#279)
-          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article R313-1-1)](#280)
-            - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#281)
-            - [Annexes au Chapitre II du Titre Ier du Livre Ier (art. Annexe I à Annexe IV)](#282)
-            - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#283)
-            - [ANNEXE À L'ARTICLE R311-3 (art. Annexe à l'article R311-3)](#284)
-            - [ANNEXE A L'ARTICLE R311-4 (art. Annexe à l'article R311-4)](#285)
-            - [ANNEXE À L'ARTICLE R311-5-1 (art. Annexe à l'article R311-5-1)](#286)
-            - [ANNEXE A L'ARTICLE R311-6 (art. Annexe Modèle type n° 1 à Annexe Modèle type n° 6)](#287)
-            - [ANNEXE A L'ARTICLE R311-7 (art. Annexe à l'article R311-7)](#288)
-            - [ANNEXE À L'ARTICLE R311-11 (art. Annexe à l'article R311-11)](#289)
-            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#290)
-            - [ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION (art. ANNEXE A L'ARTICLE R313-13 à Annexe à l'article R313-1-1)](#291)
-        - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#292)
-        - [Chapitre V : Dispositions relatives à l'outre-mer (art. R315-1 à R315-6)](#293)
-          - [Section 1 : Crédit à la consommation (art. R315-1)](#294)
-          - [Section 2 : Crédit immobilier (art. R315-2)](#295)
-          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R315-3 à R315-5)](#296)
-          - [Section 4 : Prêt viager hypothécaire (art. R315-6)](#297)
-      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R336-8)](#298)
-        - [Chapitre préliminaire : Les organes de la procédure de surendettement (art. R331-1 à R331-9-4)](#299)
-          - [Section 1 : La commission de surendettement des particuliers (art. R331-1 à R331-8-4)](#300)
-            - [Paragraphe 1 : Répartition des commissions sur le territoire (art. R331-1)](#301)
-            - [Paragraphe 2 : Composition des commissions (art. R331-2 à R331-6)](#302)
-            - [Paragraphe 3 : Fonctionnement des commissions (art. R331-7 à R331-7-2)](#303)
-            - [Paragraphe 4 : Procédure devant les commissions (art. R331-8 à R331-8-4)](#304)
-          - [Section 2 : Le juge du tribunal d'instance (art. R331-9 à R331-9-4)](#305)
-        - [Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement (art. R331-10 à R331-13)](#306)
-          - [Section 1 :  Examen de la recevabilité de la demande (art. R331-10 à R331-10-1)](#307)
-          - [Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R331-11 à R331-11-3)](#308)
-          - [Section 3 : Suspension des mesures d'expulsion (art. R331-12)](#309)
-          - [Section 4 : Emoluments supportés par le débiteur (art. R331-13)](#310)
-        - [Chapitre II : L'état du passif (art. R332-1 à R332-4)](#311)
-          - [Section 1 :  L'état du passif dressé par la commission (art. R332-1 à R332-2)](#312)
-          - [Section 2 : La vérification des créances (art. R332-3 à R332-4)](#313)
-        - [Chapitre III :  L'orientation du dossier (art. R333-1 à R333-3)](#314)
-        - [Chapitre IV : Les mesures de traitement (art. R334-1 à R334-77)](#315)
-          - [Section 1 : Dispositions communes (art. R334-1)](#316)
-          - [Section 2 : Le plan conventionnel (art. R334-2 à R334-3)](#317)
-          - [Section 3 : Les mesures de traitement ordinaires (art. R334-4 à R334-18)](#318)
-            - [Paragraphe 1 : Les mesures imposées ou recommandées (art. R334-4 à R334-13)](#319)
-            - [Paragraphe 2 : La contestation des mesures de traitement ordinaires (art. R334-14 à R334-18)](#320)
-          - [Section 4 : Les procédures de rétablissement personnel (art. R334-19 à R334-77)](#321)
-            - [Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-27-3)](#322)
-              - [Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-23)](#323)
-              - [Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire (art. R334-24 à R334-27)](#324)
-              - [Paragraphe 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation (art. R334-27-1 à R334-27-3)](#325)
-            - [Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire (art. R334-28 à R334-75)](#326)
-              - [Paragraphe 1 : L'ouverture de la procédure (art. R334-28 à R334-35)](#327)
-              - [Paragraphe 2 :  La déclaration et l'arrêté des créances (art. R334-36 à R334-40)](#328)
-              - [Paragraphe 3 : La liquidation des biens du débiteur (art. R334-41 à R334-71)](#329)
-                - [Sous-paragraphe 1 : Dispositions générales (art. R334-41 à R334-47)](#330)
-                - [Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R334-48 à R334-60)](#331)
-                - [Sous-paragraphe 3 : Répartition du produit des actifs (art. R334-61 à R334-71)](#332)
-              - [Paragraphe 4 : La clôture de la procédure (art. R334-72 à R334-73)](#333)
-              - [Paragraphe 5 : Le plan (art. R334-74 à R334-75)](#334)
-            - [Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire (art. R334-76 à R334-77)](#335)
-        - [Chapitre V : Dispositions communes (art. R335-1 à R335-4)](#336)
-        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#337)
-          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#338)
-          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#339)
-          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#340)
-          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#341)
-          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#342)
-    - [Livre IV : Les associations de consommateurs (art. R411-1 à R431-3)](#343)
-      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#344)
-        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#345)
-      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#346)
-        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#347)
-      - [Titre III : Reconnaissance spécifique des associations (art. R431-1 à R431-3)](#348)
-    - [Livre V : Les institutions (art. D511-1 à D541-7)](#349)
-      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#350)
-        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#351)
-          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#352)
-          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11-1)](#353)
-          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#354)
-      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#355)
-        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#356)
-        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#357)
-      - [Titre III : L'institut national de la consommation. (art. R531-1 à R534-17)](#358)
-        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#359)
-        - [Chapitre II : Organes consultatifs. (art. R532-1)](#360)
-        - [Chapitre III : Dispositions financières et comptables. (art. R533-3 à R533-6)](#361)
-        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. R534-1 à R534-17)](#362)
-          - [Section 1 : La commission des clauses abusives (art. R534-1 à R534-4)](#363)
-          - [Section 2 : La commission de la sécurité des consommateurs (art. R534-5 à R534-10)](#364)
-          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#365)
-          - [Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation (art. R534-13 à R534-17)](#366)
-      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#367)
+et de certaines autres substances aux denrées alimentaires (art. R214-7)](#244)
+          - [Section 8 : Contaminants (art. R214-8)](#245)
+          - [Section 9 : Fruits et légumes (art. R214-9)](#246)
+          - [Section 10 : Huile d'olive et olives de table (art. R214-10)](#247)
+          - [Section 11 : Œufs et viande de volaille (art. R214-11)](#248)
+          - [Section 12 : Produits laitiers, colostrum et matières grasses laitières ou non (art. R214-12)](#249)
+          - [Section 13 : Produits de la pêche (art. R214-13)](#250)
+          - [Section 14 : Viandes bovine, ovine et porcine (art. R214-14)](#251)
+          - [Section 14 bis : Viande hachée et produits à base de viande (art. R214-14-1)](#252)
+          - [Section 14 ter : Collagènes et gélatine (art. R214-14-2)](#253)
+          - [Section 15 : Modes de valorisation (art. R214-15)](#254)
+          - [Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale (art. R214-16)](#255)
+          - [Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R214-17)](#256)
+          - [Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R214-18)](#257)
+          - [Section 19 : Engrais (art. R214-19)](#258)
+          - [Section 20 : Détergents (art. R214-20)](#259)
+          - [Section 21 : Alimentation des animaux (art. R214-21)](#260)
+          - [Section 22 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 5° de l'article L. 214-1 (art. R214-22)](#261)
+          - [Section 23 : Fibres et produits textiles (art. R214-23)](#262)
+          - [Section 24 : Produits de construction (art. R214-24 à R214-33)](#263)
+            - [Sous-section 1 : Dispositions générales (art. R214-24)](#264)
+            - [Sous-section 2 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs (art. R214-25 à R214-33)](#265)
+        - [Chapitre V : Pouvoirs d'enquête (art. R215-1 à R215-23)](#266)
+          - [Section 1 : Autorités qualifiées. (art. R215-1)](#267)
+          - [Section 2 : Recherche et constatation. (art. D215-16 à R215-15)](#268)
+          - [Section 4 : Expertises. (art. R215-18 à R215-23)](#269)
+        - [Chapitre VI : Dispositions communes. (art. R216-2 à R216-3)](#270)
+        - [Chapitre VII : Dispositions particulières. (art. R217-1)](#271)
+        - [Chapitre VIII : Mesures de police administrative (art. R218-1)](#272)
+      - [Titre II : Sécurité (art. R223-1 à D225-2)](#273)
+        - [Chapitre III : Sanctions (art. R223-1 à R223-5)](#274)
+        - [Chapitre V : Dispositions diverses (art. D225-2)](#275)
+    - [Livre III : Endettement (art. D311-1 à R336-8)](#276)
+      - [Titre Ier : Crédit (art. D311-1 à R315-6)](#277)
+        - [Chapitre Ier : Crédit à la consommation (art. D311-1 à D311-14)](#278)
+          - [Section 1 : Publicité (art. D311-1 à D311-2)](#279)
+          - [Section 2 : Information précontractuelle de l'emprunteur (art. R311-3)](#280)
+          - [Section 3 : Formation du contrat de crédit (art. D311-4-1 à R311-4)](#281)
+          - [Section 4 : Informations mentionnées dans le contrat (art. R311-5 à R311-5-1)](#282)
+          - [Section 5 : Exécution du contrat de crédit (art. D311-6 à D311-8)](#283)
+          - [Section 6 : Les crédits affectés (art. D311-10-1 à R311-10)](#284)
+          - [Section 7 : Opérations de découvert en compte (art. R311-11 à R311-13)](#285)
+          - [Section 8 : Sanctions (art. D311-14)](#286)
+        - [Chapitre II : Crédit immobilier (art. R312-1 à R312-4)](#287)
+          - [Section 3 : Le contrat de crédit (art. R312-1 à R312-1-1)](#288)
+          - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur (art. R312-2 à R312-3)](#289)
+            - [Sous-section 1 : Remboursement anticipé. (art. R312-2)](#290)
+            - [Sous-section 2 : Défaillance de l'emprunteur. (art. R312-3)](#291)
+          - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#292)
+        - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article R313-1-1)](#293)
+          - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-8)](#294)
+            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#295)
+            - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-8)](#296)
+          - [Section 3 : Rémunération du vendeur (art. R313-10)](#297)
+          - [Section 7 :  Regroupement de crédits (art. R313-11 à R313-14)](#298)
+          - [Annexes (art. Annexe à l'article R113-1 à Annexe à l'article R313-1-1)](#299)
+            - [ANNEXE A L'ARTICLE R113-1 (art. Annexe à l'article R113-1)](#300)
+            - [Annexes au Chapitre II du Titre Ier du Livre Ier (art. Annexe I à Annexe IV)](#301)
+            - [ANNEXE A L'ARTICLE R211-2 (art. Annexe à l'article R211-2)](#302)
+            - [ANNEXE À L'ARTICLE R311-3 (art. Annexe à l'article R311-3)](#303)
+            - [ANNEXE A L'ARTICLE R311-4 (art. Annexe à l'article R311-4)](#304)
+            - [ANNEXE À L'ARTICLE R311-5-1 (art. Annexe à l'article R311-5-1)](#305)
+            - [ANNEXE A L'ARTICLE R311-6 (art. Annexe Modèle type n° 1 à Annexe Modèle type n° 6)](#306)
+            - [ANNEXE A L'ARTICLE R311-7 (art. Annexe à l'article R311-7)](#307)
+            - [ANNEXE À L'ARTICLE R311-11 (art. Annexe à l'article R311-11)](#308)
+            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#309)
+            - [ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION (art. ANNEXE A L'ARTICLE R313-13 à Annexe à l'article R313-1-1)](#310)
+        - [Chapitre IV : Prêt viager hypothécaire (art. R*314-1 à R*314-2)](#311)
+        - [Chapitre V : Dispositions relatives à l'outre-mer (art. R315-1 à R315-6)](#312)
+          - [Section 1 : Crédit à la consommation (art. R315-1)](#313)
+          - [Section 2 : Crédit immobilier (art. R315-2)](#314)
+          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R315-3 à R315-5)](#315)
+          - [Section 4 : Prêt viager hypothécaire (art. R315-6)](#316)
+      - [Titre III : Traitement des situations de surendettement (art. R331-1 à R336-8)](#317)
+        - [Chapitre préliminaire : Les organes de la procédure de surendettement (art. R331-1 à R331-9-4)](#318)
+          - [Section 1 : La commission de surendettement des particuliers (art. R331-1 à R331-8-4)](#319)
+            - [Paragraphe 1 : Répartition des commissions sur le territoire (art. R331-1)](#320)
+            - [Paragraphe 2 : Composition des commissions (art. R331-2 à R331-6)](#321)
+            - [Paragraphe 3 : Fonctionnement des commissions (art. R331-7 à R331-7-2)](#322)
+            - [Paragraphe 4 : Procédure devant les commissions (art. R331-8 à R331-8-4)](#323)
+          - [Section 2 : Le juge du tribunal d'instance (art. R331-9 à R331-9-4)](#324)
+        - [Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement (art. R331-10 à R331-13)](#325)
+          - [Section 1 :  Examen de la recevabilité de la demande (art. R331-10 à R331-10-1)](#326)
+          - [Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R331-11 à R331-11-3)](#327)
+          - [Section 3 : Suspension des mesures d'expulsion (art. R331-12)](#328)
+          - [Section 4 : Emoluments supportés par le débiteur (art. R331-13)](#329)
+        - [Chapitre II : L'état du passif (art. R332-1 à R332-4)](#330)
+          - [Section 1 :  L'état du passif dressé par la commission (art. R332-1 à R332-2)](#331)
+          - [Section 2 : La vérification des créances (art. R332-3 à R332-4)](#332)
+        - [Chapitre III :  L'orientation du dossier (art. R333-1 à R333-3)](#333)
+        - [Chapitre IV : Les mesures de traitement (art. R334-1 à R334-77)](#334)
+          - [Section 1 : Dispositions communes (art. R334-1)](#335)
+          - [Section 2 : Le plan conventionnel (art. R334-2 à R334-3)](#336)
+          - [Section 3 : Les mesures de traitement ordinaires (art. R334-4 à R334-18)](#337)
+            - [Paragraphe 1 : Les mesures imposées ou recommandées (art. R334-4 à R334-13)](#338)
+            - [Paragraphe 2 : La contestation des mesures de traitement ordinaires (art. R334-14 à R334-18)](#339)
+          - [Section 4 : Les procédures de rétablissement personnel (art. R334-19 à R334-77)](#340)
+            - [Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-27-3)](#341)
+              - [Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire (art. R334-19 à R334-23)](#342)
+              - [Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire (art. R334-24 à R334-27)](#343)
+              - [Paragraphe 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation (art. R334-27-1 à R334-27-3)](#344)
+            - [Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire (art. R334-28 à R334-75)](#345)
+              - [Paragraphe 1 : L'ouverture de la procédure (art. R334-28 à R334-35)](#346)
+              - [Paragraphe 2 :  La déclaration et l'arrêté des créances (art. R334-36 à R334-40)](#347)
+              - [Paragraphe 3 : La liquidation des biens du débiteur (art. R334-41 à R334-71)](#348)
+                - [Sous-paragraphe 1 : Dispositions générales (art. R334-41 à R334-47)](#349)
+                - [Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R334-48 à R334-60)](#350)
+                - [Sous-paragraphe 3 : Répartition du produit des actifs (art. R334-61 à R334-71)](#351)
+              - [Paragraphe 4 : La clôture de la procédure (art. R334-72 à R334-73)](#352)
+              - [Paragraphe 5 : Le plan (art. R334-74 à R334-75)](#353)
+            - [Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire (art. R334-76 à R334-77)](#354)
+        - [Chapitre V : Dispositions communes (art. R335-1 à R335-4)](#355)
+        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#356)
+          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#357)
+          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#358)
+          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#359)
+          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#360)
+          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#361)
+    - [Livre IV : Les associations de consommateurs (art. R411-1 à R431-3)](#362)
+      - [Titre Ier : Agrément des associations. (art. R411-1 à R411-7)](#363)
+        - [Chapitre Ier : Les associations. (art. R411-1 à R411-7)](#364)
+      - [Titre II : Action en justice des associations. (art. R422-1 à R422-10)](#365)
+        - [Chapitre II : Action en représentation conjointe. (art. R422-1 à R422-10)](#366)
+      - [Titre III : Reconnaissance spécifique des associations (art. R431-1 à R431-3)](#367)
+    - [Livre V : Les institutions (art. D511-1 à D541-7)](#368)
+      - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#369)
+        - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#370)
+          - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#371)
+          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11-1)](#372)
+          - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#373)
+      - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#374)
+        - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#375)
+        - [Chapitre II : Le groupe interministériel de la consommation. (art. D522-1 à D522-4)](#376)
+      - [Titre III : L'institut national de la consommation. (art. R531-1 à R534-17)](#377)
+        - [Chapitre Ier : Organisation et administration. (art. R531-1 à R531-10)](#378)
+        - [Chapitre II : Organes consultatifs. (art. R532-1)](#379)
+        - [Chapitre III : Dispositions financières et comptables. (art. R533-3 à R533-6)](#380)
+        - [Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation (art. R534-1 à R534-17)](#381)
+          - [Section 1 : La commission des clauses abusives (art. R534-1 à R534-4)](#382)
+          - [Section 2 : La commission de la sécurité des consommateurs (art. R534-5 à R534-10)](#383)
+          - [Section 3 : La commission de la médiation de la consommation (art. R534-11 à R534-12)](#384)
+          - [Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation (art. R534-13 à R534-17)](#385)
+      - [Titre IV : Le conseil national de l'alimentation. (art. D541-1 à D541-7)](#386)
 # Partie législative<a id=1></a>
+
+###### Article préliminaire
+
+Au sens du présent code, est considérée comme un consommateur toute personne physique qui agit à des fins qui n'entrent pas
+dans le cadre de son activité commerciale, industrielle, artisanale ou libérale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 3
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 
 ## Livre Ier : Information des consommateurs et formation des contrats<a id=2></a>
 
@@ -526,6 +563,39 @@ _Cité par_:
 _Cite_:
 
   - Code de la consommation - art. L111-1
+
+
+###### Article L111-5
+
+Sans préjudice des obligations d'information prévues à l'article 19 de la loi n° 2004-575 du 21 juin 2004 pour la confiance
+dans l'économie numérique, toute personne dont l'activité consiste en la fourniture d'informations en ligne permettant la
+comparaison des prix et des caractéristiques de biens et de services proposés par des professionnels est tenue d'apporter une
+information loyale, claire et transparente, y compris sur ce qui relève de la publicité au sens de l'article 20 de la même
+loi, dont les modalités et le contenu sont fixés par décret.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 19
+  - Loi n°2004-575 du 21 juin 2004 - art. 20
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 147
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L111-6 (Ab)
+
+_Cité par_:
+
+  - Code de la consommation - art. L111-6 (VD)
+  - Code de la consommation - art. L111-6-1 (VT)
 
 
 #### Chapitre II : Modes de présentation et inscriptions<a id=5></a>
@@ -1153,6 +1223,32 @@ _Nouveaux textes_:
   - Code de la consommation - art. L121-16 (V)
 
 
+###### Article L113-6
+
+Tout manquement à l'article L. 113-5 est passible d'une amende administrative dont le montant ne peut excéder 3 000 € pour
+une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à l'article L.
+141-1-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 114
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L113-5 (VT)
+  - Code de la consommation - art. L141-1-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L132-21 (V)
+
+
 #### Chapitre IV : Information sur les délais de livraison<a id=7></a>
 
 ###### Article L114-1
@@ -1776,37 +1872,47 @@ _Abrogé par_:
 
 ###### Article L115-16
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait :
+Est puni de deux ans d'emprisonnement et d'une amende de 300 000 € le fait : 
 
 1° De délivrer une appellation d'origine contrôlée sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural
-et de la pêche maritime ;
+et de la pêche maritime ; 
 
 2° De délivrer une appellation d'origine contrôlée qui n'a pas fait l'objet de l'homologation prévue à l'article L. 641-7 du
-code rural et de la pêche maritime ;
+code rural et de la pêche maritime ; 
 
-3° D'utiliser ou de tenter d'utiliser frauduleusement une appellation d'origine ;
+3° D'utiliser ou de tenter d'utiliser frauduleusement une appellation d'origine ou une indication géographique définie à
+l'article L. 721-2 du code de la propriété intellectuelle ; 
 
 4° D'apposer ou de faire apparaître, par addition, retranchement ou par une altération quelconque, sur des produits, naturels
-ou fabriqués, mis en vente ou destinés à être mis en vente, une appellation d'origine en la sachant inexacte ;
+ou fabriqués, mis en vente ou destinés à être mis en vente, une appellation d'origine ou une indication géographique définie
+à l'article L. 721-2 du code de la propriété intellectuelle, en la sachant inexacte ; 
 
-5° D'utiliser un mode de présentation faisant croire ou de nature à faire croire qu'un produit bénéficie d'une appellation
-d'origine ;
+5° De faire croire ou tenter de faire croire qu'un produit bénéficie d'une appellation d'origine ou d'une indication
+géographique définie au même article L. 721-2 ; 
 
-6° De faire croire ou de tenter de faire croire qu'un produit assorti d'une appellation d'origine est garanti par l'Etat ou
-par un organisme public ;
+6° De faire croire ou de tenter de faire croire qu'un produit assorti d'une appellation d'origine ou d'une indication
+géographique définie audit article L. 721-2 est garanti par l'Etat ou par un organisme public ; 
 
-7° De mentionner sur un produit la présence dans sa composition d'un autre produit bénéficiant d'une appellation d'origine
-lorsque cette mention détourne ou affaiblit la réputation de l'appellation concernée. 
+7° De mentionner sur un produit la présence dans sa composition d'un autre produit bénéficiant d'une appellation d'origine ou
+d'une indication géographique lorsque cette mention détourne ou affaiblit la réputation de l'appellation ou de l'indication
+concernée. 
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
-par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
+par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné. 
 
 Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
 modalités prévues par l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
 professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
 d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
 quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
-industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement.
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du même
+code, les peines prévues aux 2° à 9° de l'article 131-39 dudit code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
@@ -1818,6 +1924,7 @@ _Cité par_:
   - Arrêté du 17 février 2016 (V)
   - Code de commerce - art. L123-11-3 (VD)
   - Code de commerce. - art. L128-1 (Ab)
+  - Code de la consommation - art. L115-17 (VT)
   - Code de la consommation - art. L115-18 (VT)
   - Code de la consommation - art. L115-20 (MMN)
   - Code de la consommation - art. L115-26-3 (Ab)
@@ -1832,12 +1939,27 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-874 du 27 juillet 2010 - art. 5
+  - Loi n°2014-344 du 17 mars 2014 - art. 74
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
+  - Code de la propriété intellectuelle - art. L721-2
+  - Code pénal - art. 121-2
   - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
   - Code rural - art. L641-7
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L431-2 (V)
+  - Code de la consommation - art. L453-1 (V)
+  - Code de la consommation - art. L453-10 (V)
+  - Code de la consommation - art. L453-9 (V)
 
 _Anciens textes_:
 
@@ -1964,7 +2086,7 @@ _Cite_:
 
 ###### Article L115-20
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait : 
+Est puni de deux ans d'emprisonnement et d'une amende de 300 000 € le fait : 
 
 1° De délivrer un label rouge sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural et de la pêche
 maritime ; 
@@ -1985,7 +2107,21 @@ ou fabriqués, mis en vente ou destinés à être mis en vente, un label rouge e
 organisme public. 
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
-par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
+par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du même code, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 dudit
+code, les peines prévues aux 2° à 9° de l'article 131-39 du même code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
@@ -2007,6 +2143,7 @@ _Cité par_:
   - Décret du 30 janvier 1998 - art. 7 (Ab)
   - Décret du 5 février 1998 - art. 13 (Ab)
   - Code de la consommation - art. L115-19 (M)
+  - Code de la consommation - art. L213-5 (VT)
   - Code rural - art. L671-5 (V)
 
 **Liens**:
@@ -2026,17 +2163,27 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Nouveaux textes_:
 
+  - Code de la consommation - art. L432-2 (V)
+  - Code de la consommation - art. L453-4 (V)
   - Code rural - art. L641-6 (M)
 
 _Cite_:
 
-  - Code rural - art. L641-2 (V)
-  - Code rural - art. L641-4 (V)
-  - Code rural - art. L642-3 (V)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code rural - art. L641-2
+  - Code rural - art. L641-4
+  - Code rural - art. L642-3
 
 
 ##### Sous-section 2 : L'appellation d'origine protégée, l'indication géographique protégée, la spécialité traditionnelle garantie<a id=16></a>
@@ -2078,7 +2225,7 @@ _Cite_:
 
 ###### Article L115-22
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait : 
+Est puni de deux ans d'emprisonnement et d'une amende de 300 000 € le fait : 
 
 1° De délivrer une appellation d'origine protégée, une indication géographique protégée ou une spécialité traditionnelle
 garantie sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural et de la pêche maritime ; 
@@ -2101,7 +2248,21 @@ d'origine protégée, d'une indication géographique protégée ou d'une spécia
 appellation d'origine protégée ou d'une indication géographique protégée est garanti par l'Etat ou par un organisme public. 
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
-par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
+par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du même code, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 dudit
+code, les peines prévues aux 2° à 9° de l'article 131-39 du même code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
@@ -2113,20 +2274,31 @@ _Cité par_:
 
   - Décret n°96-193 du 12 mars 1996 - art. 18 (Ab)
   - Décret n°96-193 du 12 mars 1996 - art. 8 (M)
+  - Code de la consommation - art. L213-5 (VT)
   - Code rural - art. L671-5 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Nouveaux textes_:
 
+  - Code de la consommation - art. L432-4 (V)
+  - Code de la consommation - art. L453-5 (V)
   - Code rural - art. L643-2 (V)
 
 _Cite_:
 
-  - Code rural - art. L641-10 (V)
-  - Code rural - art. L642-3 (V)
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code rural - art. L641-10
+  - Code rural - art. L641-11
+  - Code rural - art. L642-3
 
 
 ##### Sous-section 3 : L'agriculture biologique<a id=17></a>
@@ -2169,15 +2341,15 @@ _Cite_:
 
 ###### Article L115-24
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait : 
+Est puni de deux ans d'emprisonnement et d'une amende de 300 000 € le fait : 
 
-1° De délivrer une mention " agriculture biologique " sans satisfaire aux conditions prévues à l'article L. 642-3 du code
-rural et de la pêche maritime ; 
+1° De délivrer une mention "agriculture biologique" sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural
+et de la pêche maritime ; 
 
-2° De délivrer une mention " agriculture biologique " à un produit qui ne remplit pas les conditions, rappelées à l'article
-L. 641-13 du code rural et de la pêche maritime, pour en bénéficier ; 
+2° De délivrer une mention "agriculture biologique" à un produit qui ne remplit pas les conditions, rappelées à l'article L.
+641-13 du code rural et de la pêche maritime, pour en bénéficier ; 
 
-3° D'utiliser ou de tenter d'utiliser frauduleusement le signe " agriculture biologique " ; 
+3° D'utiliser ou de tenter d'utiliser frauduleusement le signe "agriculture biologique" ; 
 
 4° D'utiliser un mode de présentation faisant croire ou de nature à faire croire qu'un produit a la qualité de produit de
 l'agriculture biologique ; 
@@ -2186,7 +2358,21 @@ l'agriculture biologique ;
 garanti par l'Etat ou par un organisme public. 
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
-par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
+par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du même code, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 dudit
+code, les peines prévues aux 2° à 9° de l'article 131-39 du même code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
@@ -2201,15 +2387,29 @@ _Cité par_:
   - Code de commerce - art. L123-11-3 (VD)
   - Code de commerce. - art. L128-1 (Ab)
   - Code de la consommation - art. L115-25 (M)
+  - Code de la consommation - art. L213-5 (VT)
   - Code rural - art. L671-6 (M)
   - Code rural et de la pêche maritime - art. L671-7 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L432-6 (V)
+  - Code de la consommation - art. L453-6 (V)
 
 _Cite_:
 
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
   - Code rural - art. L641-13
   - Code rural - art. L642-3
 
@@ -2253,7 +2453,7 @@ _Cite_:
 
 ###### Article L115-26
 
-Est puni de deux ans d'emprisonnement et d'une amende de 37 500 € le fait : 
+Est puni de deux ans d'emprisonnement et d'une amende de 300 000 € le fait : 
 
 1° De délivrer un certificat de conformité sans satisfaire aux conditions prévues à l'article L. 641-23 du code rural et de
 la pêche maritime ; 
@@ -2275,7 +2475,21 @@ par un organisme public ;
 l'article L. 641-22 du code rural et de la pêche maritime. 
 
 Le tribunal pourra, en outre, ordonner l'affichage du jugement dans les lieux qu'il désignera et son insertion intégrale ou
-par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné.
+par extraits dans les journaux qu'il indiquera, le tout aux frais du condamné. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du même code, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 dudit
+code, les peines prévues aux 2° à 9° de l'article 131-39 du même code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
@@ -2285,21 +2499,32 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code rural - art. L643-8 (Ab)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
+  - Code de la consommation - art. L213-5 (VT)
   - Code rural et de la pêche maritime - art. L671-6 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L433-2 (V)
+  - Code de la consommation - art. L453-7 (V)
+  - Code rural - art. L643-8 (Ab)
 
 _Cite_:
 
-  - Code rural - art. L641-21 (V)
-  - Code rural - art. L641-22 (V)
-  - Code rural - art. L641-23 (V)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code rural - art. L641-21
+  - Code rural - art. L641-22
+  - Code rural - art. L641-23
 
 
 ##### Section 4 : Recherche et constatation des infractions prévues aux sections 1 à 3<a id=19></a>
@@ -2514,7 +2739,21 @@ tout autre document attestant qu'un produit ou un service présente certaines ca
 certification ; 
 
 3° Le fait d'utiliser tout moyen de nature à faire croire faussement qu'un organisme satisfait aux conditions définies aux
-articles L. 115-27 et L. 115-28.
+articles L. 115-27 et L. 115-28. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du même code, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 dudit
+code, les peines prévues aux 2° à 9° de l'article 131-39 du même code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
@@ -2523,7 +2762,7 @@ _Cité par_:
   - Loi n°70-9 du 2 janvier 1970 - art. 9 (VD)
   - Code de commerce - art. L123-11-3 (VD)
   - Code de commerce. - art. L128-1 (Ab)
-  - Code de la consommation - art. L213-5 (V)
+  - Code de la consommation - art. L213-5 (VT)
 
 _Anciens textes_:
 
@@ -2535,12 +2774,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 45
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L115-27 (V)
-  - Code de la consommation - art. L213-1 (V)
+  - Code de la consommation - art. L115-27
+  - Code de la consommation - art. L213-1
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L433-9 (V)
+  - Code de la consommation - art. L453-8 (V)
 
 
 ###### Article L115-31
@@ -2652,9 +2904,79 @@ _Nouveaux textes_:
   - Code de la consommation - art. L433-11 (V)
 
 
-### Titre II : Pratiques commerciales<a id=21></a>
+#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=21></a>
 
-#### Chapitre préliminaire :  Pratiques commerciales déloyales<a id=22></a>
+###### Article L116-1
+
+L'article L. 115-16 est applicable dans les îles Wallis et Futuna dans la rédaction suivante : 
+
+"Art. L. 115-16. ― Est puni de deux ans d'emprisonnement et d'une amende de 35 800 000 francs CFP le fait : 
+
+"1° D'utiliser ou de tenter d'utiliser frauduleusement une indication géographique définie à l'article L. 721-2 du code de la
+propriété intellectuelle ; 
+
+"2° D'apposer ou de faire apparaître, par addition, retranchement ou par une altération quelconque, sur des produits,
+naturels ou fabriqués, mis en vente ou destinés à être mis en vente, une indication géographique définie au même article L.
+721-2 en la sachant inexacte ; 
+
+"3° De faire croire ou tenter de faire croire qu'un produit bénéficie d'une indication géographique ; 
+
+"4° De faire croire ou de tenter de faire croire qu'un produit assorti d'une indication géographique est garanti par l'Etat
+ou par un organisme public ; 
+
+"5° De mentionner sur un produit la présence, dans sa composition, d'un autre produit bénéficiant d'une indication
+géographique lorsque cette mention détourne ou affaiblit la réputation de l'indication concernée. 
+
+"Le tribunal peut, en outre, ordonner l'affichage du jugement dans les lieux qu'il désigne et son insertion intégrale ou par
+extraits dans les journaux qu'il indique, le tout aux frais du condamné. 
+
+"Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant
+les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+"Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de
+l'infraction définie au présent article encourent, outre une amende suivant les modalités prévues à l'article 131-38 du même
+code, les peines prévues aux 2° à 9° de l'article 131-39 dudit code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.”
+
+**Nota:**
+
+Conformément à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016, la partie législative du code de la consommation
+demeure en vigueur, dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance, en tant qu'elle
+s'applique à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en
+vigueur de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée.
+
+Ordonnance n° 2017-269 du 2 mars 2017 article 9 : La présente ordonnance entre en vigueur à la date d'entrée en vigueur du
+décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 74
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la propriété intellectuelle - art. L721-2
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+
+
+### Titre II : Pratiques commerciales<a id=22></a>
+
+#### Chapitre préliminaire :  Pratiques commerciales déloyales<a id=23></a>
 
 ###### Article L120-1
 
@@ -2699,11 +3021,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. L121-1 (V)
 
 
-#### Chapitre Ier : Pratiques commerciales réglementées<a id=23></a>
+#### Chapitre Ier : Pratiques commerciales réglementées<a id=24></a>
 
-##### Section 1 : Pratiques commerciales trompeuses et publicité<a id=24></a>
+##### Section 1 : Pratiques commerciales trompeuses et publicité<a id=25></a>
 
-##### Sous-section 1 : Pratiques commerciales trompeuses<a id=25></a>
+##### Sous-section 1 : Pratiques commerciales trompeuses<a id=26></a>
 
 ###### Article L121-1
 
@@ -2740,6 +3062,10 @@ des circonstances qui l'entourent, elle omet, dissimule ou fournit de façon ini
 information substantielle ou lorsqu'elle n'indique pas sa véritable intention commerciale dès lors que celle-ci ne ressort
 pas déjà du contexte. 
 
+Lorsque le moyen de communication utilisé impose des limites d'espace ou de temps, il y a lieu, pour apprécier si des
+informations substantielles ont été omises, de tenir compte de ces limites ainsi que de toute mesure prise par le
+professionnel pour mettre ces informations à la disposition du consommateur par d'autres moyens. 
+
 Dans toute communication commerciale constituant une invitation à l'achat et destinée au consommateur mentionnant le prix et
 les caractéristiques du bien ou du service proposé, sont considérées comme substantielles les informations suivantes : 
 
@@ -2774,7 +3100,7 @@ _Cité par_:
   - Code de l'environnement - art. L522-14 (VT)
   - Code de la consommation - art. L120-1 (VT)
   - Code de la consommation - art. L121-1-1 (VT)
-  - Code de la consommation - art. L121-14 (MMN)
+  - Code de la consommation - art. L121-14 (VT)
   - Code de la consommation - art. L121-15-2 (VT)
   - Code de la consommation - art. L121-2 (V)
   - Code de la consommation - art. L121-6 (V)
@@ -2786,7 +3112,17 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 83
+  - Loi n°2014-344 du 17 mars 2014 - art. 29
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L121-2 (V)
+  - Code de la consommation - art. L121-3 (M)
+  - Code de la consommation - art. L121-5 (M)
 
 
 ###### Article L121-1-1
@@ -2972,38 +3308,47 @@ _Nouveaux textes_:
 
 ###### Article L121-4
 
-En cas de condamnation, le tribunal ordonne la publication du jugement. Il peut, de plus, ordonner la diffusion, aux frais du
-condamné, d'une ou de plusieurs annonces rectificatives. Le jugement fixe les termes de ces annonces et les modalités de leur
-diffusion et impartit au condamné un délai pour y faire procéder ; en cas de carence et sans préjudice des pénalités prévues
-à l'article L. 121-7, il est procédé à cette diffusion à la diligence du ministère public aux frais du condamné.
+En cas de condamnation, le tribunal peut ordonner, par tous moyens appropriés, l'affichage ou la diffusion de l'intégralité
+ou d'une partie de la décision ou d'un communiqué informant le public des motifs et du dispositif de celle-ci. Il peut, de
+plus, ordonner la diffusion, aux frais du condamné, d'une ou de plusieurs annonces rectificatives. Le jugement fixe les
+termes de ces annonces et les modalités de leur diffusion et impartit au condamné un délai pour y faire procéder ; en cas de
+carence et sans préjudice des pénalités prévues à l'article L. 121-7, il est procédé à cette diffusion à la diligence du
+ministère public aux frais du condamné.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Loi n°73-1193 1973-12-27 art. 44 II al. 6
   - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Code de la consommation - art. L121-15-3 (V)
-  - Code de la consommation - art. L216-8 (V)
+  - Code de la consommation - art. L216-8 (VT)
   - Code de la consommation - art. L223-1 (Ab)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-7 (V)
+  - Code de la consommation - art. L121-7
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L132-4 (M)
 
 
 ###### Article L121-5
 
-La personne pour le compte de laquelle la pratique commerciale trompeuse est mise en oeuvre est responsable, à titre
-principal, de l'infraction commise. 
-
-Le délit est constitué dès lors que la pratique commerciale est mise en oeuvre ou qu'elle produit ses effets en France.
+Le délit est constitué dès lors que la pratique commerciale trompeuse est mise en oeuvre ou qu'elle produit ses effets en
+France.
 
 **Liens relatifs à cet article**
 
@@ -3013,17 +3358,38 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+  - Loi n°2014-344 du 17 mars 2014 - art. 138
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L132-1 (V)
 
 
 ###### Article L121-6
 
-Les pratiques commerciales trompeuses sont punies des peines prévues au premier alinéa de l'article L. 213-1.
+Les pratiques commerciales trompeuses sont punies d'un emprisonnement de deux ans et d'une amende de 300 000 €. 
 
-L'amende peut être portée à 50 % des dépenses de la publicité ou de la pratique constituant le délit. 
+Le montant de l'amende peut être porté, de manière proportionnée aux avantages tirés du manquement, à 10 % du chiffre
+d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits, ou à 50 % des
+dépenses engagées pour la réalisation de la publicité ou de la pratique constituant le délit. 
 
-Les dispositions de l'article L. 213-6 prévoyant la responsabilité pénale des personnes morales sont applicables à ces
-infractions.
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du même code, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 dudit
+code, les peines prévues aux 2° à 9° de l'article 131-39 du même code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
@@ -3039,7 +3405,7 @@ _Cité par_:
   - Code de la consommation - art. L121-15-3 (V)
   - Code de la consommation - art. L121-7 (VT)
   - Code de la consommation - art. L121-82 (VT)
-  - Code de la consommation - art. L213-5 (M)
+  - Code de la consommation - art. L213-5 (VT)
   - Code de la mutualité - art. L114-21 (V)
   - Code de la sécurité sociale. - art. L931-7-2 (V)
   - Code de procédure pénale - art. 2-17 (V)
@@ -3056,12 +3422,23 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 83
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L132-2 (V)
+  - Code de la consommation - art. L132-3 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L213-1
-  - Code de la consommation - art. L213-6
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
 
 
 ###### Article L121-7
@@ -3109,7 +3486,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L452-4 (V)
 
 
-##### Sous-section 2 : Publicité<a id=26></a>
+##### Sous-section 2 : Publicité<a id=27></a>
 
 ###### Article L121-8
 
@@ -3361,22 +3738,12 @@ les départements de la Moselle, du Bas-Rhin et du Haut-Rhin ;
 3° Sur une opération commerciale réalisée ou devant être réalisée en infraction avec les dispositions de l'article L. 3132-29
 du code du travail ; 
 
-4° Sur une manifestation commerciale soumise à la déclaration prévue à l'article L. 740-2 du code de commerce et qui n'a pas
+4° Sur une manifestation commerciale soumise à la déclaration prévue à l'article L. 762-2 du code de commerce et qui n'a pas
 fait l'objet de cette déclaration. 
 
-Tout annonceur qui effectue ou fait effectuer une publicité interdite en vertu des alinéas précédents est puni d'une amende
-de 37 500 euros. Le maximum de l'amende peut être porté à 50 % du montant des dépenses consacrées à la publicité illégale. 
-
-Le tribunal peut ordonner la cessation de la publicité interdite aux frais des personnes reconnues coupables des infractions
-définies aux alinéas qui précèdent.
-
-**Nota:**
-
-Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
-la partie réglementaire du code du travail et au plus tard le 1er mars 2008. 
-
-La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
-du travail au 1er mai 2008.
+Tout annonceur qui diffuse ou fait diffuser une publicité interdite en vertu du présent article est passible d'une amende
+administrative dont le montant ne peut excéder 15 000 € pour une personne physique et 75 000 € pour une personne morale.
+L'amende est prononcée dans les conditions prévues à l'article L. 141-1-2 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -3390,16 +3757,17 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-329 du 12 mars 2007 - art. 14 (V)
+  - Loi n°2014-344 du 17 mars 2014 - art. 114
 
 _Cite_:
 
-  - Code de commerce - art. L310-1 (V)
-  - Code de commerce - art. L310-7 (V)
-  - Code de commerce - art. L720-10 (Ab)
-  - Code de commerce - art. L720-5 (Ab)
-  - Code de commerce. - art. L740-2 (Ab)
-  - Code du travail - art. L3132-29 (V)
+  - Code de commerce - art. L310-1
+  - Code de commerce - art. L310-7
+  - Code de commerce - art. L720-10
+  - Code de commerce - art. L720-5
+  - Code de commerce - art. L762-2
+  - Code de la consommation - art. L141-1-2
+  - Code du travail - art. L3132-29
 
 
 ###### Article L121-15-1
@@ -3465,21 +3833,29 @@ _Nouveaux textes_:
 Les articles L. 121-15-1 et L. 121-15-2 sont également applicables aux publicités, offres, concours ou jeux à destination des
 professionnels. 
 
-Les infractions aux dispositions des articles L. 121-15-1 et L. 121-15-2 sont passibles des peines prévues à l'article L.
-121-6. Elles sont recherchées et constatées dans les conditions prévues à l'article L. 121-2. Les articles L. 121-3 et L.
-121-4 sont également applicables.
+Tout manquement aux mêmes articles L. 121-15-1 et L. 121-15-2 est passible d'une amende administrative dont le montant ne
+peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les
+conditions prévues à l'article L. 141-1-2.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2008-3 du 3 janvier 2008 - art. 39
+  - Loi n°2014-344 du 17 mars 2014 - art. 114
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-15-1 (V)
-  - Code de la consommation - art. L121-3 (V)
-  - Code de la consommation - art. L121-6 (V)
+  - Code de la consommation - art. L121-15-1 (VT)
+  - Code de la consommation - art. L141-1-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L122-10 (V)
+  - Code de la consommation - art. L132-26 (V)
 
 
 ###### Article L121-15-4
@@ -3503,9 +3879,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L122-11 (V)
 
 
-##### Section 2 : Ventes de biens et fournitures de prestations de services à distance<a id=27></a>
+##### Section 2 : Ventes de biens et fournitures de prestations de services à distance<a id=28></a>
 
-##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers<a id=28></a>
+##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers<a id=29></a>
 
 ###### Article L121-16
 
@@ -4037,7 +4413,7 @@ _Anciens textes_:
   - Code de la consommation - art. L121-20-9 (VT)
 
 
-##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers<a id=29></a>
+##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers<a id=30></a>
 
 ###### Article L121-20-8
 
@@ -4428,7 +4804,7 @@ _Cité par_:
   - Code de la consommation - art. L123-4 (VT)
 
 
-##### Sous-section 3 : Dispositions communes<a id=30></a>
+##### Sous-section 3 : Dispositions communes<a id=31></a>
 
 ###### Article L121-20-15
 
@@ -4508,7 +4884,7 @@ _Anciens textes_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. L343-1 (VD)
 
 
-##### Section 3 : Démarchage<a id=31></a>
+##### Section 3 : Démarchage<a id=32></a>
 
 ###### Article L121-21
 
@@ -4989,7 +5365,7 @@ _Cite_:
   - Code de la consommation - art. L121-28 (V)
 
 
-##### Section 4 : Ventes directes<a id=32></a>
+##### Section 4 : Ventes directes<a id=33></a>
 
 ###### Article L121-34
 
@@ -5028,41 +5404,36 @@ _Cité par_:
   - Code de la consommation - art. R121-7 (Ab)
 
 
-##### Section 5 : Ventes ou prestations avec primes<a id=33></a>
+##### Section 5 : Ventes ou prestations avec primes<a id=34></a>
 
 ###### Article L121-35
 
 Est interdite toute vente ou offre de vente de produits ou de biens ou toute prestation ou offre de prestation de services
 faite aux consommateurs et donnant droit, à titre gratuit, immédiatement ou à terme, à une prime consistant en produits,
-biens ou services sauf s'ils sont identiques à ceux qui font l'objet de la vente ou de la prestation dès lors que la pratique
-en cause revêt un caractère déloyal au sens de l'article L. 120-1. 
+biens ou services, dès lors que la pratique en cause revêt un caractère déloyal au sens de l'article L. 120-1. 
 
-Cette disposition ne s'applique pas aux menus objets ou services de faible valeur ni aux échantillons. Dans le cas où ces
-menus objets sont distribués dans le but de satisfaire à des exigences environnementales, ils doivent être entièrement
-recyclables qu'il s'agisse de carton recyclable ignifugé ou d'encres alimentaires et d'une valeur inférieure à 7 % du prix de
-vente net, toutes taxes comprises, du produit faisant l'objet de la vente. Si celui-ci appartient à la catégorie de produits
-et ingrédients tels que définis à l'article L. 3511-1 du code de la santé publique, les menus objets ne doivent comporter
-aucune référence, graphisme, présentation ou tout autre signe distinctif qui rappelle un produit ou un ingrédient tel que
-défini au même article L. 3511-1. Dans ce cas, les avertissements sanitaires relatifs aux dangers du tabac doivent être
-mentionnés. Les références de la personne intéressée à l'opération de publicité, la dénomination de la marque, du sigle ou
-logo, peuvent être apposées sur les menus objets pour autant qu'elles respectent les dispositions restreignant ou encadrant
-la publicité concernant l'alcool, le tabac et les jeux ou paris en ligne, notamment prévues aux articles L. 3511-3, L. 3511-4
-et L. 3323-2 à L. 3323-5 du code de la santé publique. Les modalités d'apposition des références sont définies par décret. 
+Dans le cas où ces primes sont constituées d'objets distribués dans le but de satisfaire à des exigences environnementales,
+ils doivent être entièrement recyclables, qu'il s'agisse de carton recyclable ignifugé ou d'encres alimentaires. 
 
-Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
+Si ces objets appartiennent à la catégorie de produits et ingrédients, définis à l'article L. 3511-1 du code de la santé
+publique, ils ne doivent comporter aucune référence, graphisme, présentation ou tout autre signe distinctif qui rappelle un
+produit ou un ingrédient, défini à ce même article. Dans ce cas, les avertissements sanitaires relatifs aux dangers du tabac
+doivent être mentionnés. Les références de la personne intéressée à l'opération de publicité, la dénomination de la marque,
+du sigle ou logo peuvent être apposées sur les objets pour autant qu'elles respectent les dispositions restreignant ou
+encadrant la publicité concernant l'alcool, le tabac et les jeux ou paris en ligne, notamment prévues aux articles L. 3511-3,
+L. 3511-4 et L. 3323-2 à L. 3323-5 du code de la santé publique. Les modalités d'apposition des références sont définies par
+décret. 
+
+Le présent article s'applique à toutes les activités mentionnées au dernier alinéa de l'article L. 113-2 du présent code. 
 
 Les règles relatives aux ventes avec primes applicables aux produits et services proposés pour la gestion d'un compte de
-dépôt sont fixées par le 2 du I de l'article L. 312-1-2 du code monétaire et financier.
+dépôt sont fixées au 2 du I de l'article L. 312-1-2 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Ordonnance n°86-1243 du 1 décembre 1986 - art. 29 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 45
 
 _Cité par_:
 
@@ -5076,6 +5447,14 @@ _Cité par_:
   - Code monétaire et financier - art. L316-1 (MMN)
   - Code monétaire et financier - art. L317-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 30
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de commerce. - art. L442-1 (M)
@@ -5084,22 +5463,23 @@ _Cite_:
 
   - Code de la consommation - art. L113-2
   - Code de la consommation - art. L120-1
-  - Code de la santé publique - art. L3323-2 (V)
-  - Code de la santé publique - art. L3511-1 (V)
-  - Code de la santé publique - art. L3511-3 (V)
+  - Code de la santé publique - art. L3323-2
+  - Code de la santé publique - art. L3511-1
+  - Code de la santé publique - art. L3511-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L121-19 (V)
+  - Code de la consommation - art. R121-1 (V)
 
 
-##### Section 6 : Loteries publicitaires<a id=34></a>
+##### Section 6 : Loteries publicitaires<a id=35></a>
 
 ###### Article L121-36
 
-Les opérations publicitaires réalisées par voie d'écrit qui tendent à faire naître l'espérance d'un gain attribué à chacun
-des participants, quelles que soient les modalités de tirage au sort, ne peuvent être pratiquées que si elles n'imposent aux
-participants aucune contrepartie financière ni dépense sous quelque forme que ce soit. Lorsque la participation à cette
-opération est conditionnée à une obligation d'achat, la pratique n'est illicite que dans la mesure où elle revêt un caractère
-déloyal au sens de l'article L. 120-1. 
-
-Le bulletin de participation à ces opérations doit être distinct de tout bon de commande de bien ou de service.
+Les pratiques commerciales mises en œuvre par les professionnels sous la forme d'opérations promotionnelles tendant à faire
+naître l'espérance d'un gain, quelles que soient les modalités de tirage au sort ou d'intervention d'un élément aléatoire,
+sont régies par la présente section.
 
 **Liens relatifs à cet article**
 
@@ -5113,11 +5493,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 45
-
-_Cite_:
-
-  - Code de la consommation - art. L120-1
+  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
 
 _Cité par_:
 
@@ -5127,39 +5503,73 @@ _Cité par_:
   - Code de la sécurité intérieure - art. L322-2-2 (M)
 
 
+###### Article L121-36-1
+
+Pour la participation aux opérations mentionnées à l'article L. 121-36, sont autorisés les frais d'affranchissement ainsi que
+les frais de communication ou de connexion non surtaxés, qui peuvent être mis à la charge des consommateurs, dès lors que la
+possibilité pour les participants d'en obtenir le remboursement est prévue par le règlement de l'opération et que ceux-ci en
+sont préalablement informés. 
+
+Lorsque la participation des consommateurs aux pratiques mentionnées au premier alinéa du présent article est conditionnée à
+une obligation d'achat, ces pratiques commerciales ne sont illicites que dans la mesure où elles revêtent un caractère
+déloyal au sens de l'article L. 120-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+
+_Abrogé par_:
+
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+
+_Cite_:
+
+  - Code de la consommation - art. L120-1
+  - Code de la consommation - art. L121-36
+
+
 ###### Article L121-37
 
-Les documents présentant l'opération publicitaire ne doivent pas être de nature à susciter la confusion avec un document
-administratif ou bancaire libellé au nom du destinataire ou avec une publication de la presse d'information. 
+Lorsque les opérations mentionnées à l'article L. 121-36 sont réalisées par voie d'écrit et donnent lieu à un tirage au sort,
+quelles qu'en soient les modalités, le bulletin de participation à ces opérations doit être distinct de tout bon de commande
+de bien ou de service. Les documents présentant l'opération publicitaire ne doivent pas être de nature à susciter la
+confusion avec un document administratif ou bancaire libellé au nom du destinataire ou avec une publication de la presse
+d'information. 
 
 Ils comportent un inventaire lisible des lots mis en jeu précisant, pour chacun d'eux, leur nature, leur nombre exact et leur
 valeur commerciale. 
 
-Ils doivent également reproduire la mention suivante : " Le règlement des opérations est adressé, à titre gratuit, à toute
-personne qui en fait la demande ". Ils précisent, en outre, l'adresse à laquelle peut être envoyée cette demande ainsi que le
-nom de l'officier ministériel auprès de qui ledit règlement a été déposé en application de l'article L. 121-38.
+Ils reproduisent également la mention suivante : " Le règlement des opérations est adressé, à titre gratuit, à toute personne
+qui en fait la demande ". Ils précisent l'adresse à laquelle peut être envoyée cette demande ainsi que le nom de l'officier
+ministériel auprès de qui ledit règlement a été déposé.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°89-421 1989-06-23 art. 5 al. 3 à 5
   - Loi n°89-421 du 23 juin 1989 - art. 5 (Ab)
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2014-344 du 17 mars 2014 - art. 148 (V)
+
+_Abrogé par_:
+
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
 
 _Cite_:
 
-  - Code de la consommation - art. L121-38 (V)
+  - Code de la consommation - art. L121-36
 
 _Cité par_:
 
+  - Code de la consommation - art. L121-39 (Ab)
   - Code de la consommation - art. R121-12 (Ab)
 
 
@@ -5224,11 +5634,9 @@ _Cite_:
 
 ###### Article L121-41
 
-Seront punis d'une amende de 37 500 euros les organisateurs des opérations définies au premier alinéa de l'article L. 121-36
-qui n'auront pas respecté les conditions exigées par la présente section. Le tribunal peut ordonner la publication de sa
-décision, aux frais du condamné, par tous moyens appropriés. En cas d'infraction particulièrement grave, il peut en ordonner
-l'envoi à toutes les personnes sollicitées par lesdites opérations. Lorsqu'il en ordonne l'affichage, il y est procédé dans
-les conditions et sous les peines prévues par l'article 131-35 du code pénal.
+Tout manquement aux articles L. 121-36 à L. 121-38 est passible d'une amende administrative dont le montant ne peut excéder
+15 000 € pour une personne physique et 75 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues
+à l'article L. 141-1-2.
 
 **Liens relatifs à cet article**
 
@@ -5238,19 +5646,23 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2014-344 du 17 mars 2014 - art. 114
+
+_Abrogé par_:
+
+  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
 
 _Cite_:
 
-  - Code de la consommation - art. L121-36 (V)
-  - Code pénal - art. 131-35 (M)
+  - Code de la consommation - art. L121-36
+  - Code de la consommation - art. L141-1-2
 
 
-##### Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons<a id=35></a>
+##### Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons<a id=36></a>
 
 ###### Article L121-50
 
@@ -5384,7 +5796,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L122-16 (V)
 
 
-##### Section 9 : Contrats d'utilisation de biens à temps partagé, contrats de produit de vacances à long terme, contrats de revente et contrats d'échange<a id=36></a>
+##### Section 9 : Contrats d'utilisation de biens à temps partagé, contrats de produit de vacances à long terme, contrats de revente et contrats d'échange<a id=37></a>
 
 ###### Article L121-60
 
@@ -5977,24 +6389,35 @@ _Cite_:
 
 ###### Article L121-75
 
-Le professionnel ne peut demander et recevoir du consommateur, sous quelque forme que ce soit, le paiement d'avance, une
+Le professionnel ne peut demander ni recevoir du consommateur, sous quelque forme que ce soit, le paiement d'avance, une
 constitution de garanties, une reconnaissance de dettes, une réserve d'argent sur des comptes, pour les prestations objets
-des contrats visés aux articles L. 121-60 et L. 121-61, ou toute autre rémunération pour lui-même ou pour un tiers, avant
-l'expiration des délais de rétractation définis aux articles L. 121-69, L. 121-70 et L. 121-71 et la conclusion effective
-desdits contrats. 
+des contrats mentionnés à l'article L. 121-60 et définis aux 1°, 2° et 4° de l'article L. 121-61, ou toute autre rémunération
+pour lui-même ou pour un tiers avant l'expiration des délais de rétractation définis aux articles L. 121-69 à L. 121-71 et la
+conclusion effective desdits contrats. 
 
-Ces interdictions valent également lorsqu'il est mis fin, par tout moyen, au contrat de revente.
+Pour les contrats de revente mentionnés au 3° de l'article L. 121-61, les interdictions prévues au premier alinéa du présent
+article courent jusqu'à ce que la vente ait effectivement eu lieu ou qu'il ait été mis fin, par tout moyen, au contrat de
+revente.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+  - Loi n°2014-344 du 17 mars 2014 - art. 30
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L121-60
+  - Code de la consommation - art. L121-61
   - Code de la consommation - art. L121-69
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-85 (V)
 
 
 ###### Article L121-76
@@ -6138,7 +6561,7 @@ _Nouveaux textes_:
 
 ###### Article L121-79-2
 
-Est puni de 15 000 € d'amende le fait : 
+Est puni de 150 000 € d'amende le fait : 
 
 1° Pour tout professionnel, de soumettre à un consommateur une offre tendant à la conclusion de tout contrat ou groupe de
 contrats visés aux articles L. 121-60 et L. 121-61, non conforme aux articles L. 121-63 à L. 121-65 ; 
@@ -6147,20 +6570,33 @@ contrats visés aux articles L. 121-60 et L. 121-61, non conforme aux articles L
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-61
-  - Code de la consommation - art. L121-62
+  - Code de la consommation - art. L121-61 (VT)
+  - Code de la consommation - art. L121-62 (VT)
   - Code de la consommation - art. L121-63
+
+_Cité par_:
+
+  - Code de la consommation - art. L121-79-4 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L242-27 (V)
+  - Code de la consommation - art. L242-28 (V)
 
 
 ###### Article L121-79-3
 
-Est puni de 30 000 € d'amende le fait, pour tout professionnel, d'exiger ou de recevoir du consommateur, directement ou
+Est puni de 300 000 € d'amende le fait, pour tout professionnel, d'exiger ou de recevoir du consommateur, directement ou
 indirectement, tout versement ou engagement de versement, à quelque titre et sous quelque forme que ce soit, avant
 l'expiration des délais de rétractation prévus aux articles L. 121-69, L. 121-70 et L. 121-71. 
 
@@ -6170,30 +6606,62 @@ l'exercice du droit de rétractation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L121-69 (VT)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L242-29 (V)
+  - Code de la consommation - art. L242-30 (V)
+
 
 ###### Article L121-79-4
 
-Les personnes morales coupables de l'une des infractions prévues par les articles L. 121-79-1 et L. 121-79-2 encourent
-également les peines complémentaires mentionnées à l'article 131-39 du code pénal.
+Les personnes physiques déclarées coupables de l'une des infractions prévues aux articles L. 121-79-2 et L. 121-79-3 du
+présent code encourent également, à titre de peines complémentaires, l'interdiction, suivant les modalités prévues à
+l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans
+l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou
+industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour
+leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces
+interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du même code, de l'une
+des infractions prévues aux articles L. 121-79-2 et L. 121-79-3 du présent code encourent, outre l'amende suivant les
+modalités prévues à l'article 131-38 du code pénal, les peines prévues aux 2° à 9° de l'article 131-39 du même code.
+L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise. Les peines prévues aux 2° à 7° dudit article ne peuvent être prononcées que pour une
+durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-888 du 22 juillet 2009 - art. 32 (V)
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-79-1 (V)
-  - Code pénal - art. 131-39 (MMN)
+  - Code de la consommation - art. L121-79-2 (VT)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L242-31 (V)
 
 
 ###### Article L121-79-5
@@ -6221,7 +6689,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L242-26 (V)
 
 
-##### Section 10 : Appellation de boulanger et enseigne de boulangerie<a id=37></a>
+##### Section 10 : Appellation de boulanger et enseigne de boulangerie<a id=38></a>
 
 ###### Article L121-80
 
@@ -6287,28 +6755,100 @@ _Nouveaux textes_:
 ###### Article L121-82
 
 La recherche et la constatation des infractions aux dispositions des articles L. 121-80 et L. 121-81 sont exercées dans les
-conditions prévues à l'article L. 121-2 et punies des peines prévues à l'article L. 213-1 et, le cas échéant, au second
-alinéa de l'article L. 121-6.
+conditions prévues à l'article L. 121-2 et punies des peines prévues à l'article L. 121-6.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°98-405 du 25 mai 1998 - art. 1 () JORF 26 mai 1998
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-2 (V)
-  - Code de la consommation - art. L121-6 (V)
-  - Code de la consommation - art. L121-80 (V)
-  - Code de la consommation - art. L213-1 (V)
+  - Code de la consommation - art. L121-2
+  - Code de la consommation - art. L121-6
+  - Code de la consommation - art. L121-80 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L132-27 (M)
+  - Code de la consommation - art. L132-28 (V)
 
 
-##### Section 11 : Contrats de services de communications électroniques<a id=38></a>
+##### Section 10 bis : Qualité et transparence dans l'élaboration des plats proposés dans le cadre d'une activité de restauration commerciale<a id=39></a>
+
+###### Article L121-82-1
+
+Les personnes ou entreprises qui transforment ou distribuent des produits alimentaires dans le cadre d'une activité de
+restauration commerciale ou de vente à emporter de plats préparés, permanente ou occasionnelle, principale ou accessoire,
+précisent sur leurs cartes ou sur tout autre support qu'un plat proposé est "fait maison".
+
+Un plat "fait maison" est élaboré sur place à partir de produits bruts. Des produits, déterminés par voie réglementaire,
+peuvent entrer dans la composition des plats "faits maison" après avoir subi une transformation de leur état brut nécessaire
+à leur utilisation.
+
+Les modalités de mise en œuvre de la mention "fait maison", les conditions d'élaboration des plats "faits maison", notamment
+les cas dans lesquels le lieu d'élaboration peut être différent du lieu de consommation ou de vente, et celles permettant au
+consommateur d'identifier les plats "faits maison" et ceux qui ne le sont pas sont précisées par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 7
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. D121-13-1 (M)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L122-19 (M)
+  - Code de la consommation - art. L122-20 (V)
+
+
+###### Article L121-82-2
+
+Le titre de maître-restaurateur distingue les personnes physiques qui dirigent une entreprise exploitant un fonds de commerce
+de restauration ou y exercent leur activité pour la qualité de leur établissement et de leur cuisine.
+
+Il est délivré par le représentant de l'Etat dans le département de l'établissement pour lequel le titre est demandé.
+
+Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative et dans lesquelles
+le cahier des charges est établi sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 7
+
+_Cité par_:
+
+  - Décret n°2015-348 du 26 mars 2015 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L122-21 (V)
+
+
+##### Section 11 : Contrats de services de communications électroniques<a id=40></a>
 
 ###### Article L121-83
 
@@ -6389,10 +6929,11 @@ _Cite_:
 ###### Article L121-83-1
 
 Tout fournisseur de services de communications électroniques au sens du 6° de l'article L. 32 du code des postes et des
-communications électroniques met à la disposition des consommateurs et tient à jour dans ses points de vente et par un moyen
-téléphonique ou électronique accessible en temps réel à un tarif raisonnable les informations suivantes :
+communications électroniques met à la disposition des consommateurs, sous une forme claire, comparable, actualisée et
+facilement accessible, et tient à jour dans ses points de vente et par un moyen téléphonique ou électronique accessible en
+temps réel à un tarif raisonnable les informations suivantes :
 
-- les informations visées à l'article L. 121-83 du présent code ;
+- les informations visées aux articles L. 111-1, L. 121-83 et, le cas échéant, L. 121-18 du présent code ;
 
 - les produits et services destinés aux consommateurs handicapés ;
 
@@ -6405,14 +6946,24 @@ caractère personnel lors de l'utilisation des services de communications élect
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1012 du 24 août 2011 - art. 34
+  - Loi n°2014-344 du 17 mars 2014 - art. 146
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
+  - Code de la consommation - art. L111-1
+  - Code de la consommation - art. L121-18
   - Code de la consommation - art. L121-83
   - Code des postes et des communications électroniques - art. L32
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-27 (V)
 
 _Cité par_:
 
@@ -6823,6 +7374,27 @@ _Nouveaux textes_:
   - Code de la consommation - art. L224-57 (V)
 
 
+###### Article L121-84-10-1
+
+Aucuns frais liés au rejet de paiement ne peuvent être imputés par un fournisseur de services de communications électroniques
+aux personnes physiques n'agissant pas pour des besoins professionnels qui se trouvent en état de fragilité eu égard
+notamment à leurs ressources.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 22
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-37 (V)
+
+
 ###### Article L121-84-11
 
 Lorsqu'ils proposent d'assurer la mise en relation à la suite de la fourniture d'un numéro de téléphone, les fournisseurs de
@@ -6868,7 +7440,33 @@ _Nouveaux textes_:
   - Code de la consommation - art. L224-42 (V)
 
 
-##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel<a id=39></a>
+###### Article L121-85-1
+
+Tout manquement aux articles L. 121-83 à L. 121-84-11 est passible d'une amende administrative dont le montant ne peut
+excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions
+prévues à l'article L. 141-1-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 114
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-83 (VT)
+  - Code de la consommation - art. L141-1-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L242-20 (V)
+
+
+##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel<a id=41></a>
 
 ###### Article L121-86
 
@@ -6913,7 +7511,7 @@ au registre du commerce et des sociétés ;
 
 3° La description des produits et des services proposés ; 
 
-4° Les prix de ces produits et services à la date    de l'offre ainsi que, le cas échéant, les conditions d'évolution de ces
+4° Les prix de ces produits et services à la date de l'offre ainsi que, le cas échéant, les conditions d'évolution de ces
 prix ; 
 
 5° La mention du caractère réglementé ou non des prix proposés et de la possibilité pour une personne ayant renoncé aux
@@ -6939,7 +7537,7 @@ code de l'action sociale et des familles ;
 modalités de remboursement ou de compensation en cas d'erreur ou de retard de facturation ou lorsque les niveaux de qualité
 des services prévus dans le contrat ne sont pas atteints ; 
 
-13° L'existence du droit de rétractation prévu aux articles L. 121-20 et L. 121-25 du présent code ; 
+13° L'existence du droit de rétractation prévu aux articles L. 121-21 et L. 121-21-1 du présent code ; 
 
 14° Les conditions et modalités de résiliation du contrat ; 
 
@@ -6956,14 +7554,22 @@ la consommation et de l'énergie.
 Ces informations sont mises à la disposition du consommateur par écrit ou sur support durable préalablement à la conclusion
 du contrat. Le consommateur n'est engagé que par sa signature. 
 
-Toutefois, il peut être dérogé aux obligations visées à l'alinéa précédent lorsqu'un consommateur qui emménage dans un site a
-expressément demandé à bénéficier immédiatement de la fourniture d'énergie.
+Par dérogation à l'alinéa précédent et au premier alinéa de l'article L. 121-21-5, si le consommateur qui emménage dans un
+site sollicite un fournisseur et souhaite que l'exécution de son contrat conclu à distance commence avant la fin du délai de
+rétractation mentionné à l'article L. 121-21, le fournisseur recueille sa demande expresse, par tous moyens, et transmet le
+contrat au consommateur conformément à l'article L. 121-88 accompagné du formulaire de rétractation mentionné au 2° du I de
+l'article L. 121-17. 
+
+Aucune somme n'est due par le consommateur en cas d'exercice de son droit de rétractation si sa demande expresse n'a pas été
+recueillie conformément à l'avant-dernier alinéa du présent article ou si le fournisseur n'a pas respecté l'obligation
+d'information prévue au 4° du I de l'article L. 121-17.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-312 du 15 avril 2013 - art. 20
+  - Loi n°2014-344 du 17 mars 2014 - art. 10
+  - Loi n°2014-344 du 17 mars 2014 - art. 138
 
 _Cité par_:
 
@@ -6974,8 +7580,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L121-20
-  - Code de la consommation - art. L121-25
+  - Code de la consommation - art. L121-17 (V)
+  - Code de la consommation - art. L121-21 (V)
+  - Code de la consommation - art. L121-21-5 (V)
   - Code de l'action sociale et des familles - art. L115-3
 
 
@@ -6987,7 +7594,7 @@ informations mentionnées à l'article L. 121-87, il comporte les éléments sui
 
 1° La date de prise d'effet du contrat et sa date d'échéance s'il est à durée déterminée ; 
 
-2° Les modalités d'exercice du droit de rétractation prévu aux articles L. 121-20 et L. 121-25 ; 
+2° Les modalités d'exercice du droit de rétractation prévu aux articles L. 121-21 et L. 121-21-1 ; 
 
 3° Les coordonnées du gestionnaire de réseau auquel est raccordé le client ; 
 
@@ -7002,11 +7609,15 @@ Les dispositions du présent article s'appliquent quels que soient le lieu et le
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2006-1537 du 7 décembre 2006 - art. 42 () JORF 8 décembre 2006 en vigueur le 1er juillet 2007
+  - Loi n°2014-344 du 17 mars 2014 - art. 138
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
@@ -7017,7 +7628,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L121-20 (V)
+  - Code de la consommation - art. L121-21 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-7 (V)
 
 
 ###### Article L121-89
@@ -7144,6 +7759,26 @@ _Nouveaux textes_:
   - Code de la consommation - art. L224-12 (M)
 
 
+###### Article L121-91-1
+
+Le fournisseur d'électricité et de gaz naturel est tenu d'offrir gratuitement à tous ses clients la possibilité de payer ses
+factures par mandat compte.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 21
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-12 (M)
+
+
 ###### Article L121-92
 
 Le fournisseur est tenu d'offrir au client la possibilité de conclure avec lui un contrat unique portant sur la fourniture et
@@ -7184,6 +7819,24 @@ _Nouveaux textes_:
 
   - Code de la consommation - art. L224-8 (V)
   - Code de la consommation - art. L224-9 (V)
+
+
+###### Article L121-92-1
+
+Aucuns frais liés au rejet de paiement ne peuvent être imputés par un fournisseur d'électricité et de gaz naturel aux
+personnes physiques n'agissant pas pour des besoins professionnels qui bénéficient de la tarification spéciale "produit de
+première nécessité" de l'électricité ou du tarif spécial de solidarité du gaz naturel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 22
+
+_Cité par_:
+
+  - Décret n°2016-555 du 6 mai 2016 - art. 1
+  - Code de l'énergie - art. R124-16 (VT)
 
 
 ###### Article L121-93
@@ -7232,7 +7885,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L224-16 (V)
 
 
-##### Section 13 : Contrats de transports de déménagement<a id=40></a>
+##### Section 13 : Contrats de transports de déménagement<a id=42></a>
 
 ###### Article L121-95
 
@@ -7298,9 +7951,316 @@ _Nouveaux textes_:
   - Code de la consommation - art. L224-64 (V)
 
 
-#### Chapitre II : Pratiques commerciales illicites<a id=41></a>
+##### Section 14 : Contrats conclus dans les foires et salons<a id=43></a>
 
-##### Section 1 : Refus et subordination de vente ou de prestation de services<a id=42></a>
+###### Article L121-97
+
+Avant la conclusion de tout contrat entre un consommateur et un professionnel à l'occasion d'une foire, d'un salon ou de
+toute manifestation commerciale relevant du chapitre II du titre VI du livre VII du code de commerce, le professionnel
+informe le consommateur qu'il ne dispose pas d'un délai de rétractation. 
+
+Sans préjudice des informations précontractuelles prévues au premier alinéa du présent article, les offres de contrat faites
+dans les foires et les salons mentionnent l'absence de délai de rétractation, en des termes clairs et lisibles, dans un
+encadré apparent. 
+
+Les modalités de mise en œuvre du présent article sont fixées par arrêté du ministre chargé de l'économie. 
+
+Tout manquement au présent article est passible d'une amende administrative dont le montant ne peut excéder 3 000 € pour une
+personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à l'article L.
+141-1-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+_Cité par_:
+
+  - Arrêté du 2 décembre 2014 - art. 2 (VD)
+
+_Cite_:
+
+  - Code de la consommation - art. L141-1-2 (V)
+
+
+###### Article L121-98
+
+Lorsque la conclusion d'un contrat de vente ou de prestation de services entre un professionnel et un consommateur, à
+l'occasion d'une foire, d'un salon ou de toute manifestation commerciale relevant du chapitre II du titre VI du livre VII du
+code de commerce, s'accompagne, de la part du professionnel, d'une offre de crédit affecté tel que défini au 9° de l'article
+L. 311-1 du présent code, le contrat de vente ou de prestation de services mentionne en des termes clairs et lisibles, dans
+un encadré apparent, que : 
+
+1° L'acheteur dispose d'un droit de rétractation pour le crédit affecté servant à financer son achat ; 
+
+2° Le contrat de vente ou de prestation de services est résolu de plein droit, sans indemnité, si l'emprunteur, dans le délai
+de quatorze jours, exerce son droit de rétractation relatif au crédit affecté dans les conditions prévues à l'article L.
+311-36 ; 
+
+3° En cas de résolution du contrat de vente ou de prestation de services consécutive à l'exercice du droit de rétractation
+pour le crédit affecté, le vendeur ou le prestataire de services est tenu de rembourser, sur simple demande, toute somme que
+l'acheteur aurait versée d'avance sur le prix. A compter du huitième jour suivant la demande de remboursement, cette somme
+est productive d'intérêts, de plein droit, au taux de l'intérêt légal majoré de moitié.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L242-22 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L311-1
+  - Code de la consommation - art. L311-36
+
+
+##### Section 15 : Contrats d'achat de métaux précieux<a id=44></a>
+
+###### Article L121-99
+
+Tout professionnel proposant des opérations d'achat de métaux précieux, notamment d'or, d'argent ou de platine, sous quelque
+forme que ce soit, auprès des consommateurs indique, par voie d'affichage, les prix proposés, selon des modalités fixées par
+arrêté du ministre chargé de l'économie, pris après consultation du Conseil national de la consommation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+_Cité par_:
+
+  - Arrêté du 18 août 2015 - art. 6 (VD)
+  - Code de la consommation - art. L121-103 (VT)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-96 (V)
+
+
+###### Article L121-100
+
+Toute opération d'achat de métaux précieux, notamment d'or, d'argent ou de platine, sous quelque forme que ce soit, par un
+professionnel auprès d'un consommateur fait l'objet d'un contrat écrit dont un exemplaire est remis au consommateur-vendeur
+au moment de sa conclusion.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L121-101 (VT)
+  - Code de la consommation - art. L121-104 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-97 (V)
+
+
+###### Article L121-101
+
+Le contrat prévu à l'article L. 121-100 doit comporter, à peine de nullité, les mentions suivantes : 
+
+1° Le nom et l'adresse complète du professionnel-acheteur ou, s'il s'agit d'une personne morale, sa raison sociale et
+l'adresse de son siège social ; 
+
+2° Le numéro d'inscription au registre du commerce et des sociétés ou au répertoire des métiers ; 
+
+3° Le cas échéant, le numéro individuel d'identification, si le professionnel est assujetti à la taxe sur la valeur ajoutée
+et identifié par un numéro individuel en application de l'article 286 ter du code général des impôts ; 
+
+4° Le nom et l'adresse complète du consommateur-vendeur ; 
+
+5° La date et l'adresse du lieu de conclusion du contrat ; 
+
+6° La désignation précise de la nature et des caractéristiques des biens objets du contrat, dont le poids et, le cas échéant,
+la pureté exprimée en millièmes ; 
+
+7° Le prix de vente ainsi que toutes taxes ou tous frais éventuels à la charge du consommateur-vendeur. 
+
+Le contrat comprend un formulaire détachable destiné à faciliter l'exercice du droit de rétractation dans les conditions
+prévues à l'article L. 121-102. Un décret en Conseil d'Etat précise les conditions de présentation de ce formulaire et les
+mentions devant figurer sur ce dernier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+_Cité par_:
+
+  - Décret n°2015-1295 du 15 octobre 2015 (V)
+  - Code de la consommation - art. R121-22 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-100
+  - Code de la consommation - art. L121-102
+  - Code général des impôts, CGI. - art. 286 ter
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-98 (V)
+  - Code de la consommation - art. L242-34 (V)
+
+
+###### Article L121-102
+
+Le consommateur dispose d'un délai de vingt-quatre heures à compter de la signature du contrat pour exercer son droit de
+rétractation, sans avoir à justifier de motifs ni à payer de pénalités. L'exécution des obligations contractuelles incombant
+aux parties est suspendue jusqu'à l'expiration de ce délai de rétractation.
+
+Ce délai de rétractation ne s'applique pas aux opérations d'or investissement.
+
+Toute clause du contrat par laquelle le consommateur-vendeur abandonne son droit de rétractation est nulle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. Annexe à l'article R121-23 (V)
+  - Code de la consommation - art. L121-101 (VT)
+  - Code de la consommation - art. R121-25 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-99 (M)
+  - Code de la consommation - art. L242-35 (V)
+
+
+###### Article L121-103
+
+Tout manquement à l'article L. 121-99 et aux textes pris pour son application est passible d'une amende administrative dont
+le montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée
+dans les conditions prévues à l'article L. 141-1-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-99 (VT)
+  - Code de la consommation - art. L141-1-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L242-39 (V)
+
+
+###### Article L121-104
+
+Toute infraction aux articles L. 121-100 à L. 121-102 est punie d'une peine d'emprisonnement de deux ans et d'une amende de
+150 000 €. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du même
+code, les peines prévues aux 2° à 9° de l'article 131-39 dudit code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-100 (VT)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L242-36 (V)
+  - Code de la consommation - art. L242-37 (V)
+  - Code de la consommation - art. L242-38 (V)
+
+
+##### Section 16 : Contrats de transport hors déménagement<a id=45></a>
+
+###### Article L121-105
+
+Lorsque le consommateur prend personnellement livraison des objets transportés et lorsque le voiturier ne justifie pas lui
+avoir laissé la possibilité de vérifier effectivement leur bon état, le délai mentionné à l'article L. 133-3 du code de
+commerce est porté à dix jours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 24 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de commerce - art. L133-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-65 (V)
+
+
+#### Chapitre II : Pratiques commerciales illicites<a id=46></a>
+
+##### Section 1 : Refus et subordination de vente ou de prestation de services<a id=47></a>
 
 ###### Article L122-1
 
@@ -7353,13 +8313,17 @@ _Nouveaux textes_:
   - Code de la consommation - art. L121-11 (V)
 
 
-##### Section 2 : Ventes et prestations de services sans commande préalable<a id=43></a>
+##### Section 2 : Ventes et prestations de services sans commande préalable<a id=48></a>
 
 ###### Article L122-3
 
 Il est interdit d'exiger le paiement immédiat ou différé de biens ou de services fournis par un professionnel ou, s'agissant
 de biens, d'exiger leur renvoi ou leur conservation, sans que ceux-ci aient fait l'objet d'une commande préalable du
-consommateur, sauf lorsqu'il s'agit d'un bien ou d'un service de substitution fourni conformément à l'article L. 121-20-3. 
+consommateur. 
+
+Le premier alinéa du présent article s'applique aux contrats portant sur la fourniture d'eau, de gaz ou d'électricité
+lorsqu'ils ne sont pas conditionnés dans un volume délimité ou en quantité déterminée ainsi que sur la fourniture de
+chauffage urbain et de contenu numérique non fourni sur support matériel.
 
 La violation de cette interdiction est punie des peines prévues aux articles L. 122-12 à L. 122-14. 
 
@@ -7382,12 +8346,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 45
+  - Loi n°2014-344 du 17 mars 2014 - art. 138
+  - Loi n°2014-344 du 17 mars 2014 - art. 19
 
 _Cite_:
 
-  - Code de la consommation - art. L121-20-3 (V)
-  - Code de la consommation - art. L122-12 (V)
+  - Code de la consommation - art. L122-12
 
 _Cité par_:
 
@@ -7460,7 +8424,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L121-14 (V)
 
 
-##### Section 3 : Ventes ou prestations "à la boule de neige"<a id=44></a>
+##### Section 3 : Ventes ou prestations "à la boule de neige"<a id=49></a>
 
 ###### Article L122-6
 
@@ -7511,11 +8475,25 @@ _Cité par_:
 
 ###### Article L122-7
 
-Sans préjudice de l'application, le cas échéant, des peines prévues aux articles 313-1, 313-7 et 313-8 du code pénal, toute
-infraction à la présente section sera punie d'une amende de 4 500 euros et d'un emprisonnement d'un an.
+Sans préjudice de l'application, le cas échéant, des peines prévues aux articles 313-1,313-7 et 313-8 du code pénal, toute
+infraction à la présente section sera punie d'une amende de 300 000 euros et d'un emprisonnement de deux ans. 
 
-Le délinquant pourra être, en outre, condamné à rembourser à ceux de ses clients qui n'auront pu être satisfaits les sommes
-versées par eux, sans qu'il puisse avoir recours contre ceux qui ont obtenu la marchandise.
+Le montant de l'amende peut être porté, de manière proportionnée aux avantages tirés du manquement, à 10 % du chiffre
+d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du même code, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 dudit
+code, les peines prévues aux 2° à 9° de l'article 131-39 du même code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
@@ -7525,11 +8503,20 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L132-19 (V)
+  - Code de la consommation - art. L132-20 (V)
 
 _Cité par_:
 
@@ -7537,25 +8524,42 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal - art. 313-1 (M)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+  - Code pénal - art. 313-1
+  - Code pénal - art. 313-7
 
 
-##### Section 4 : Abus de faiblesse<a id=45></a>
+##### Section 4 : Abus de faiblesse<a id=50></a>
 
 ###### Article L122-8
 
 Quiconque aura abusé de la faiblesse ou de l'ignorance d'une personne pour lui faire souscrire, par le moyen de visites à
-domicile, des engagements au comptant ou à crédit sous quelque forme que ce soit sera puni d'un emprisonnement de cinq ans et
-d'une amende de 9 000 euros ou de l'une de ces deux peines seulement, lorsque les circonstances montrent que cette personne
-n'était pas en mesure d'apprécier la portée des engagements qu'elle prenait ou de déceler les ruses ou artifices déployés
-pour la convaincre à y souscrire, ou font apparaître qu'elle a été soumise à une contrainte. 
+domicile, des engagements au comptant ou à crédit sous quelque forme que ce soit sera puni d'un emprisonnement de trois ans
+et d'une amende de 375 000 euros ou de l'une de ces deux peines seulement, lorsque les circonstances montrent que cette
+personne n'était pas en mesure d'apprécier la portée des engagements qu'elle prenait ou de déceler les ruses ou artifices
+déployés pour la convaincre à y souscrire, ou font apparaître qu'elle a été soumise à une contrainte. 
+
+Le montant de l'amende peut être porté, de manière proportionnée aux avantages tirés du manquement, à 10 % du chiffre
+d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits. 
 
 Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
-modalités prévues par l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
 professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
 d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
 quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
-industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement.
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du même code, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 dudit
+code, les peines prévues aux 2° à 9° de l'article 131-39 du même code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus. 
+
+Lorsqu'un contrat est conclu à la suite d'un abus de faiblesse, celui-ci est nul et de nul effet.
 
 **Liens relatifs à cet article**
 
@@ -7566,20 +8570,35 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 71
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Code de commerce - art. L123-11-3 (VD)
   - Code de commerce. - art. L128-1 (Ab)
+  - Code de la consommation - art. L122-10 (VT)
   - Code de la consommation - art. L122-9 (VT)
   - Code de la mutualité - art. L114-21 (V)
   - Code des assurances - art. L322-2 (VD)
   - Code monétaire et financier - art. L500-1 (M)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L121-8 (V)
+  - Code de la consommation - art. L132-13 (V)
+  - Code de la consommation - art. L132-14 (V)
+  - Code de la consommation - art. L132-15 (V)
+
 _Cite_:
 
-  - Code pénal - art. 131-27 (V)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
 
 
 ###### Article L122-9
@@ -7597,7 +8616,7 @@ rendre sur un lieu de vente, effectuée à domicile et assortie de l'offre d'ava
 ou dans le cadre de foires ou de salons ; 
 
 5° Soit lorsque la transaction a été conclue dans une situation d'urgence ayant mis la victime de l'infraction dans
-l'impossibilité de consulter un ou plusieurs professionnels qualifiés, tiers ou contrat.
+l'impossibilité de consulter un ou plusieurs professionnels qualifiés, tiers au contrat.
 
 **Nota:**
 
@@ -7607,20 +8626,27 @@ Une anomalie s'est glissée dans la rédaction du 5° ; au lieu de "ou contrat" 
 
 _Anciens textes_:
 
-  - Loi n°72-1137 1972-12-22 art. 7 al. 2 à al. 7
   - Loi n°72-1137 du 22 décembre 1972 - art. 7 (Ab)
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L121-9 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L122-8 (V)
+  - Code de la consommation - art. L122-8
 
 
 ###### Article L122-10
@@ -7659,7 +8685,7 @@ _Cite_:
   - Code civil - art. 529
 
 
-##### Section 5 : Pratiques commerciales agressives<a id=46></a>
+##### Section 5 : Pratiques commerciales agressives<a id=51></a>
 
 ###### Article L122-11
 
@@ -7763,20 +8789,33 @@ _Cite_:
 
 ###### Article L122-12
 
-Le fait de mettre en oeuvre une pratique commerciale agressive est puni d'un emprisonnement de deux ans au plus et d'une
-amende de 150 000 euros au plus.
+Le fait de mettre en oeuvre une pratique commerciale agressive est puni d'un emprisonnement de deux ans et d'une amende de
+300 000 € au plus. 
+
+Le montant de l'amende prévue au premier alinéa peut être porté, de manière proportionnée aux avantages tirés du manquement,
+à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des
+faits.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Code de la consommation - art. L122-13 (VT)
   - Code de la consommation - art. L122-14 (VT)
+  - Code de la consommation - art. L122-16 (VT)
   - Code de la consommation - art. L122-3 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L132-11 (M)
 
 
 ###### Article L122-13
@@ -7805,19 +8844,31 @@ _Nouveaux textes_:
 
 ###### Article L122-14
 
-Les personnes morales coupables du délit prévu à l'article L. 122-12 encourent les peines mentionnées à l'article 131-39 du
-code pénal.
+Les personnes morales déclarées pénalement responsables du délit prévu à l'article L. 122-12 encourent, outre l'amende
+suivant les modalités prévues à l'article 131-38 du code pénal, les peines prévues aux 2° à 9° de l'article 131-39 du même
+code. L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise. Les peines prévues aux 2° à 7° dudit article ne peuvent être prononcées
+que pour une durée de cinq ans au plus.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-3 du 3 janvier 2008 - art. 39
+  - Loi n°2014-344 du 17 mars 2014 - art. 130
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L122-12
+  - Code pénal - art. 131-38
   - Code pénal - art. 131-39
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L132-12 (V)
 
 
 ###### Article L122-15
@@ -7839,7 +8890,36 @@ _Nouveaux textes_:
   - Code de la consommation - art. L132-10 (V)
 
 
-#### Chapitre III : Dispositions relatives à l'outre-mer<a id=47></a>
+##### Section 6 : Frais de recouvrement<a id=52></a>
+
+###### Article L122-16
+
+Le fait pour un professionnel de solliciter ou de percevoir d'un consommateur des frais de recouvrement dans des conditions
+contraires au deuxième alinéa de l'article L. 111-8 du code des procédures civiles d'exécution est puni des peines prévues à
+l'article L. 122-12 du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 12
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L121-21 (V)
+  - Code de la consommation - art. L132-23 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L122-12 (VT)
+  - Code des procédures civiles d'exécution - art. L111-8
+
+
+#### Chapitre III : Dispositions relatives à l'outre-mer<a id=53></a>
 
 ###### Article L123-1
 
@@ -7969,9 +9049,9 @@ _Cite_:
   - Code de la consommation - art. L121-20-15
 
 
-### Titre III : Conditions générales des contrats<a id=48></a>
+### Titre III : Conditions générales des contrats<a id=54></a>
 
-#### Chapitre Ier : Arrhes et acompte<a id=49></a>
+#### Chapitre Ier : Arrhes et acompte<a id=55></a>
 
 ###### Article L131-1
 
@@ -8057,9 +9137,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L214-4 (V)
 
 
-#### Chapitre II : Clauses abusives<a id=50></a>
+#### Chapitre II : Clauses abusives<a id=56></a>
 
-##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=51></a>
+##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=57></a>
 
 ###### Article L132-1
 
@@ -8128,7 +9208,45 @@ _Cite_:
   - Code civil - art. 1163
 
 
-#### Chapitre III : Interprétation et forme des contrats<a id=52></a>
+###### Article L132-2
+
+Dans les contrats conclus entre professionnels et non-professionnels ou consommateurs, la présence d'une ou de plusieurs
+clauses abusives relevant du décret pris en application du troisième alinéa de l'article L. 132-1 est passible d'une amende
+administrative dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale.
+L'amende est prononcée dans les conditions prévues à l'article L. 141-1-2. 
+
+L'injonction faite à un professionnel, en application du VII de l'article L. 141-1, tendant à ce qu'il supprime de ses
+contrats ou offres de contrat une ou plusieurs clauses mentionnées au premier alinéa du présent article peut faire l'objet
+d'une mesure de publicité, dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°78-23 du 10 janvier 1978 - art. 36 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Modifié par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 114
+
+_Cité par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 8
+  - Code de la consommation - art. L132-1 (VD)
+  - Code de la consommation - art. R132-2-2 (Ab)
+  - Code de la consommation - art. R132-3 (VT)
+
+_Cite_:
+
+  - Code de la consommation - art. L141-1
+  - Code de la consommation - art. L141-1-2
+
+
+#### Chapitre III : Interprétation et forme des contrats<a id=58></a>
 
 ###### Article L133-1
 
@@ -8202,7 +9320,56 @@ _Cite_:
   - Code de la consommation - art. L421-6
 
 
-#### Chapitre IV : Remise des contrats<a id=53></a>
+###### Article L133-3
+
+Les conditions générales de vente applicables aux contrats de consommation mentionnent :
+
+1° Selon des modalités fixées par arrêté du ministre chargé de l'économie, l'existence, les conditions de mise en œuvre et le
+contenu de la garantie légale de conformité et de la garantie relative aux défauts de la chose vendue, dues par le vendeur ;
+
+2° Le cas échéant, l'existence d'une garantie commerciale et d'un service après-vente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 14
+
+_Cité par_:
+
+  - Arrêté du 18 décembre 2014 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L211-2 (M)
+
+
+###### Article L133-4
+
+Lors  de la conclusion de tout contrat écrit, le consommateur est informé par  le professionnel de la possibilité de
+recourir, en cas de contestation,  à une procédure de médiation conventionnelle ou à tout autre mode  alternatif de règlement
+des différends.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 26
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L211-3 (V)
+
+
+#### Chapitre IV : Remise des contrats<a id=59></a>
 
 ###### Article L134-1
 
@@ -8269,38 +9436,46 @@ _Nouveaux textes_:
   - Code de la consommation - art. L213-1 (V)
 
 
-#### Chapitre V : Du conflit des lois relatives aux clauses abusives<a id=54></a>
+#### Chapitre V : Du conflit des lois relatives aux clauses abusives<a id=60></a>
 
 ###### Article L135-1
 
-Nonobstant toute stipulation contraire, les dispositions de l'article L. 132-1 sont applicables lorsque la loi qui régit le
-contrat est celle d'un Etat n'appartenant pas à l'Union européenne, que le consommateur ou le non-professionnel a son
-domicile sur le territoire de l'un des Etats membres de l'Union européenne et que le contrat y est proposé, conclu ou
-exécuté.
+Nonobstant toute stipulation contraire, le consommateur ne peut être privé de la protection que lui assurent les dispositions
+prises par un Etat membre de l'Union européenne en application de la directive 93/13/CEE du Conseil, du 5 avril 1993,
+concernant les clauses abusives dans les contrats conclus avec les consommateurs lorsque le contrat présente un lien étroit
+avec le territoire d'un Etat membre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°95-96 du 1 février 1995 - art. 5 () JORF 2 février 1995
-  - Loi n°95-96 du 1 février 1995 - art. 6 () JORF 2 février 1995
+  - Loi n°2014-344 du 17 mars 2014 - art. 31
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la consommation - art. L132-1 (V)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L139-1 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L232-1 (V)
 
 
-#### Chapitre VI : Reconduction des contrats<a id=55></a>
+#### Chapitre VI : Reconduction des contrats<a id=61></a>
 
 ###### Article L136-1
 
-Le professionnel prestataire de services informe le consommateur par écrit, au plus tôt trois mois et au plus tard un mois
-avant le terme de la période autorisant le rejet de la reconduction, de la possibilité de ne pas reconduire le contrat qu'il
-a conclu avec une clause de reconduction tacite.
+Le professionnel prestataire de services informe le consommateur par écrit, par lettre nominative ou courrier électronique
+dédiés, au plus tôt trois mois et au plus tard un mois avant le terme de la période autorisant le rejet de la reconduction,
+de la possibilité de ne pas reconduire le contrat qu'il a conclu avec une clause de reconduction tacite. Cette information,
+délivrée dans des termes clairs et compréhensibles, mentionne, dans un encadré apparent, la date limite de résiliation. 
 
 Lorsque cette information ne lui a pas été adressée conformément aux dispositions du premier alinéa, le consommateur peut
 mettre gratuitement un terme au contrat, à tout moment à compter de la date de reconduction. Les avances effectuées après la
@@ -8320,13 +9495,48 @@ applicables aux consommateurs et aux non-professionnels.
 _Cité par_:
 
   - Loi n°70-9 du 2 janvier 1970 - art. 7 (V)
+  - Code de la consommation - art. L136-2 (VT)
 
 _Modifié par_:
 
-  - Loi n°2008-3 du 3 janvier 2008 - art. 33
+  - Loi n°2014-344 du 17 mars 2014 - art. 35
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L215-1 (M)
+  - Code de la consommation - art. L215-2 (V)
+  - Code de la consommation - art. L215-3 (V)
+  - Code de la consommation - art. L241-3 (V)
 
 
-#### Chapitre VII : Prescription<a id=56></a>
+###### Article L136-2
+
+L'article L. 136-1 est reproduit intégralement dans les contrats de prestation de services auxquels il s'applique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 35
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L136-1 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L215-4 (V)
+
+
+#### Chapitre VII : Prescription<a id=62></a>
 
 ###### Article L137-1
 
@@ -8381,7 +9591,27 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2224-18 (V)
 
 
-#### Chapitre VIII : Dispositions relatives à l'outre-mer<a id=57></a>
+###### Article L137-3
+
+Les articles L. 137-1 et L. 137-2 sont applicables en Nouvelle-Calédonie, dans les îles Wallis et Futuna et dans les Terres
+australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 138
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L137-1 (VT)
+
+
+#### Chapitre VIII : Dispositions relatives à l'outre-mer<a id=63></a>
 
 ###### Article L138-1
 
@@ -8399,43 +9629,83 @@ _Cite_:
   - Code de la consommation - art. L137-1
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=58></a>
+#### Chapitre IX : Droit applicable<a id=64></a>
 
-#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=59></a>
+###### Article L139-1
+
+Pour l'application des articles L. 121-24, L. 121-32, L. 135-1 et L. 211-18, un lien étroit avec le territoire d'un Etat
+membre est réputé établi notamment : 
+
+1° Si le contrat a été conclu dans l'Etat membre du lieu de résidence habituelle du consommateur ; 
+
+2° Si le professionnel dirige son activité vers le territoire de l'Etat membre où réside le consommateur, sous réserve que le
+contrat entre dans le cadre de cette activité ; 
+
+3° Si le contrat a été précédé dans cet Etat membre d'une offre spécialement faite ou d'une publicité et des actes accomplis
+par le consommateur nécessaires à la conclusion de ce contrat ; 
+
+4° Si le contrat a été conclu dans un Etat membre où le consommateur s'est rendu à la suite d'une proposition de voyage ou de
+séjour faite, directement ou indirectement, par le vendeur pour l'inciter à conclure ce contrat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 5
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-24 (VT)
+  - Code de la consommation - art. L121-32 (VT)
+  - Code de la consommation - art. L135-1 (VT)
+  - Code de la consommation - art. L211-18
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L231-1 (V)
+
+
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=65></a>
+
+#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=66></a>
 
 ###### Article L141-1
 
-I.-Sont recherchés et constatés, dans les conditions fixées par les articles L. 450-1 à L. 450-4, L. 450-7, L. 450-8, L.
-470-1 et L. 470-5 du code de commerce, les infractions ou manquements prévus aux dispositions suivantes du présent code : 
+I.-Sont recherchés et constatés, dans les conditions fixées par les articles L. 450-1, L. 450-3 à L. 450-4, L. 450-7 et L.
+450-8 du code de commerce, les infractions ou manquements aux dispositions suivantes du présent code : 
 
 1° Le chapitre préliminaire du titre II du livre Ier ; 
 
-2° Les sections 1, 2, 3, 8, 9 et 12 du chapitre Ier du titre II du livre Ier ; 
+2° Les sections 1,2,3,8,9 et 12 du chapitre Ier du titre II du livre Ier ; 
 
-3° Les sections 3, 4 et 5 du chapitre II du titre II du livre Ier ; 
+3° Les sections 3,4 et 5 du chapitre II du titre II du livre Ier ; 
 
-4° Les sections 9 à 11 du chapitre Ier du titre Ier du livre III ; 
+4° Le chapitre Ier du titre Ier du livre III ; 
 
-5° La section 7 du chapitre II du titre Ier du livre III ; 
+5° Le chapitre II du titre Ier du livre III ; 
 
-6° Les sections 1, 3 et 6 du chapitre III du titre Ier du livre III ; 
+6° Les sections 1,3,6 et 7 du chapitre III du titre Ier du livre III ; 
 
 7° La section 7 du chapitre IV du titre Ier du livre III ; 
 
 8° Le chapitre II du titre II du livre III. 
 
 II.-Sont recherchés et constatés, dans les mêmes conditions qu'au I, à l'exception des pouvoirs d'enquête de l'article L.
-450-4 du code de commerce, les infractions ou manquements prévus aux dispositions suivantes du présent code : 
+450-4 du code de commerce, les infractions ou manquements aux dispositions suivantes du présent code : 
 
-1° Le chapitre III du titre Ier du livre Ier ; 
+1° Les chapitre Ier, III et IV du titre Ier du livre Ier ; 
 
-2° Les sections 5, 6 et 11 du chapitre Ier du titre II du livre Ier ; 
+2° Les sections 5,6,11 et 14 du chapitre Ier du titre II du livre Ier ; 
 
-3° Les sections 1 et 2 du chapitre II du titre II du livre Ier et l'article R. 122-1 ; 
+3° Les sections 1 et 2 du chapitre II du titre II du livre Ier ; 
 
 4° La section 1 du chapitre II du titre III du livre Ier ; 
 
-5° Les chapitres III et VI du titre III du livre Ier ; 
+5° Les chapitres Ier, III, IV, VI et VIII du titre III du livre Ier ; 
 
 6° Le chapitre Ier du titre Ier du livre II. 
 
@@ -8444,6 +9714,8 @@ III.-Sont recherchés et constatés, dans les conditions fixées au I, les infra
 1° Du titre III de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à
 certaines opérations portant sur les immeubles et les fonds de commerce ; 
 
+1° bis Du code pénal réprimant la vente forcée par correspondance ; 
+
 2° De l'article 4 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de
 la loi n° 86-1290 du 23 décembre 1986 ; 
 
@@ -8451,39 +9723,119 @@ la loi n° 86-1290 du 23 décembre 1986 ;
 
 4° Du titre II de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ; 
 
-5° Du 1 de l'article 8 du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits
-et obligations des voyageurs ferroviaires, et du 3 du même article pour ce qui concerne son application aux dispositions du 1
-précité ; 
+5° Du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des
+voyageurs ferroviaires ; 
 
 6° De l'article 23 du règlement (CE) n° 1008/2008 du Parlement européen et du Conseil, du 24 septembre 2008, établissant des
-règles communes pour l'exploitation de services aériens dans la Communauté. 
+règles communes pour l'exploitation de services aériens dans la Communauté ; 
+
+7° Du règlement (UE) n° 1177/2010 du Parlement européen et du Conseil, du 24 novembre 2010, concernant les droits des
+passagers voyageant par mer ou par voie de navigation intérieure et modifiant le règlement (CE) n° 2006/2004 ; 
+
+8° Du règlement (UE) n° 181/2011 du Parlement européen et du Conseil, du 16 février 2011, concernant les droits des passagers
+dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004 ; 
+
+9° Des articles L. 311-4, L. 311-6, L. 311-7, de l'avant-dernier alinéa de l'article L. 313-1-2, en ce qui concerne le
+contrat et le livret d'accueil, et de l'article L. 347-1 du code de l'action sociale et des familles ; 
+
+10° De l'article L. 271-6 du code de la construction et de l'habitation ; 
+
+11° De l'article 6 de la loi n° 89-421 du 23 juin 1989 relative à l'information et à la protection des consommateurs ainsi
+qu'à diverses pratiques commerciales ; 
+
+12° Du dernier alinéa du I de l'article L. 112-6 du code monétaire et financier ; 
+
+13° Des deux premiers alinéas de l'article L. 213-2 du code de la route ; 
+
+14° Des 1 et 2 de l'article 3 du règlement (CE) n° 924/2009 du Parlement européen et du Conseil, du 16 septembre 2009,
+concernant les paiements transfrontaliers dans la Communauté et abrogeant le règlement (CE) n° 2560/2001 ; 
+
+15° Du d du 3, du 8 de l'article 5 et des articles 8 et 16 du règlement (UE) n° 260/2012 du Parlement européen et du Conseil,
+du 14 mars 2012, établissant des exigences techniques et commerciales pour les virements et les prélèvements en euros et
+modifiant le règlement (CE) n° 924/2009. 
 
 IV.-Le secret professionnel ne peut être opposé aux agents agissant dans le cadre des pouvoirs qui leur sont conférés par le
 présent article. 
 
-V.-Les agents habilités à constater les infractions ou manquements aux obligations mentionnées aux I, II et III peuvent,
-après une procédure contradictoire, enjoindre au professionnel, en lui impartissant un délai raisonnable, de se conformer à
-ces obligations, de cesser tout agissement illicite ou de supprimer toute clause illicite. 
+V.-Les infractions et les manquements sont constatés par des procès-verbaux, qui font foi jusqu'à preuve contraire. 
 
-VI.-L'autorité administrative chargée de la concurrence et de la consommation peut également demander à la juridiction civile
-ou, s'il y a lieu, à la juridiction administrative d'ordonner, le cas échéant sous astreinte, la suppression d'une clause
-illicite ou abusive dans tout contrat ou type de contrat proposé ou destiné au consommateur. Elle peut, après en avoir avisé
-le procureur de la République, agir devant la juridiction civile, pour demander au juge d'ordonner, au besoin sous astreinte,
-toute mesure de nature à mettre un terme aux manquements à des obligations contractuelles ou aux agissements illicites
-mentionnés aux I, II et III. Les modalités de mise en oeuvre de ces procédures sont fixées par décret en Conseil d'Etat.
+VI.-Dans l'exercice de leurs missions, les agents mentionnés au II de l'article L. 450-1 du code de commerce sont habilités à
+constater les infractions et manquements aux chapitres II, IV et V de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés et peuvent communiquer ces constatations à la Commission nationale de
+l'informatique et des libertés. 
+
+VII.-Les agents habilités à constater les infractions ou les manquements aux dispositions mentionnées aux I à III peuvent,
+après une procédure contradictoire, enjoindre à tout professionnel, en lui impartissant un délai raisonnable, de se conformer
+à ces dispositions, de cesser tout agissement illicite ou de supprimer toute clause illicite. 
+
+Lorsque le professionnel concerné n'a pas déféré à cette injonction dans le délai imparti, l'autorité administrative chargée
+de la concurrence et de la consommation peut prononcer à son encontre, dans les conditions prévues à l'article L. 141-1-2,
+une amende administrative dont le montant ne peut excéder : 
+
+1° 1 500 € pour une personne physique et 7 500 € pour une personne morale lorsque l'infraction ou le manquement ayant
+justifié la mesure d'injonction est sanctionné par une amende au plus égale à celle prévue pour une contravention de la
+cinquième classe ou par une amende administrative dont le montant est au plus égal à 3 000 € pour une personne physique et 15
+000 € pour une personne morale ; 
+
+2° 3 000 € pour une personne physique et 15 000 € pour une personne morale lorsque l'infraction ou le manquement ayant
+justifié la mesure d'injonction est sanctionné par une peine délictuelle ou une amende administrative dont le montant excède
+3 000 € pour une personne physique et 15 000 € pour une personne morale. 
+
+Les agents habilités peuvent mettre en œuvre les mesures du présent article sur l'ensemble du territoire national. 
+
+VIII.-L'autorité administrative chargée de la concurrence et de la consommation peut : 
+
+1° Demander à la juridiction civile ou, s'il y a lieu, à la juridiction administrative d'ordonner, le cas échéant sous
+astreinte, la suppression d'une clause illicite ou abusive insérée par un professionnel dans tout contrat ou type de contrat
+proposé ou destiné au consommateur, de déclarer que cette clause est réputée non écrite dans tous les contrats identiques
+conclus par le même professionnel avec des consommateurs, y compris les contrats qui ne sont plus proposés, et de lui
+ordonner d'en informer à ses frais les consommateurs concernés par tous moyens appropriés ; 
+
+2° Après en avoir avisé le procureur de la République, demander à la juridiction civile d'ordonner, le cas échéant sous
+astreinte, toute mesure de nature à mettre un terme aux manquements à des obligations contractuelles ou aux agissements
+illicites mentionnés aux I à III ; 
+
+3° Demander à l'autorité judiciaire, comme prévu au 8 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la
+confiance dans l'économie numérique, en cas d'infraction ou de manquement aux dispositions mentionnées aux I à III du présent
+article, de prescrire en référé ou sur requête à toute personne mentionnée au 2 du I du même article 6 ou, à défaut, à toute
+personne mentionnée au 1 du même I ainsi qu'aux fournisseurs d'un service téléphonique au public, au sens du 7° de l'article
+L. 32 du code des postes et des communications électroniques, toutes mesures proportionnées propres à prévenir un dommage ou
+à faire cesser un dommage causé par le contenu d'un service de communication au public en ligne. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent VIII. 
+
+IX.-Pour l'application des I à III et dans des conditions fixées par décret en Conseil d'Etat, l'autorité administrative
+chargée de la concurrence et de la consommation peut, devant les juridictions civiles, et selon les règles qui y sont
+applicables, intervenir, déposer des conclusions et les présenter à l'audience. Elle peut également produire des procès-
+verbaux et des rapports d'enquête. Devant les juridictions pénales, l'autorité administrative chargée de la concurrence et de
+la consommation peut, à la demande du tribunal, présenter ses observations à l'audience. 
+
+X.-Les I à IX sont mis en œuvre en vue de la recherche, de la constatation et de la cessation des infractions et des
+manquements faisant l'objet d'une demande d'assistance mutuelle formulée par un Etat membre de l'Union européenne dans le
+cadre de la coopération administrative organisée par le règlement (CE) n° 2006/2004 du Parlement européen et du Conseil, du
+27 octobre 2004, relatif à la coopération entre les autorités nationales chargées de veiller à l'application de la
+législation en matière de protection des consommateurs.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°70-9 du 2 janvier 1970
+  - Loi n°78-17 du 6 janvier 1978
   - Loi n°86-1290 du 23 décembre 1986
+  - Loi n°89-421 du 23 juin 1989 - art. 6
   - Loi n°89-462 du 6 juillet 1989 - art. 4
   - Loi n°2004-575 du 21 juin 2004
   - Code de commerce - art. L450-1
+  - Code de commerce - art. L450-3
   - Code de commerce - art. L450-7
-  - Code de commerce - art. L470-1
-  - Code de commerce - art. L470-5
+  - Code monétaire et financier - art. L112-6
+  - Code de l'action sociale et des familles - art. L311-4
+  - Code de l'action sociale et des familles - art. L311-6
+  - Code de l'action sociale et des familles - art. L313-1-2
+  - Code de l'action sociale et des familles - art. L347-1
+  - Code de la construction et de l'habitation. - art. L271-6
+  - Code de la route. - art. L213-2
 
 _Cité par_:
 
@@ -8548,7 +9900,145 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2012-375 du 19 mars 2012 - art. 4
+  - Loi n°2014-344 du 17 mars 2014 - art. 76
+
+
+###### Article L141-1-1
+
+Lorsqu'un professionnel soumis à la section 2 du chapitre Ier du titre II du présent livre est dans l'incapacité manifeste de
+respecter ses obligations dans les conditions prévues à l'article L. 121-19-4, l'autorité administrative chargée de la
+concurrence et de la consommation peut lui enjoindre, dans les conditions prévues au VII de l'article L. 141-1, pour une
+durée initiale ne pouvant excéder deux mois et susceptible d'être renouvelée par période d'au plus un mois : 
+
+1° De ne plus prendre aucun paiement avant la livraison intégrale du bien ou l'exécution effective du service ; 
+
+2° D'informer le consommateur de l'injonction dont il fait l'objet et, s'il y a lieu, des biens ou services visés par cette
+mesure, selon des modalités fixées par l'injonction. 
+
+Lorsque le professionnel n'a pas déféré à cette injonction dans le délai prescrit, l'autorité administrative chargée de la
+concurrence et de la consommation peut demander à la juridiction civile d'ordonner, sous astreinte, la suspension de la prise
+des paiements. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 79
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L121-19-4 (VT)
+  - Code de la consommation - art. L141-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L521-3 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R141-4 (Ab)
+  - Code de la consommation - art. R141-5 (Ab)
+
+
+###### Article L141-1-2
+
+I. ― L'autorité administrative chargée de la concurrence et de la consommation est l'autorité compétente pour prononcer les
+amendes administratives sanctionnant les manquements aux I à III de l'article L. 141-1 ainsi que l'inexécution des mesures
+d'injonction prévues au VII du même article L. 141-1. 
+
+II. ― L'action de l'administration pour la sanction d'un manquement passible d'une amende administrative excédant 3 000 €
+pour une personne physique ou 15 000 € pour une personne morale se prescrit par trois années révolues à compter du jour où le
+manquement a été commis si, dans ce délai, il n'a été fait aucun acte tendant à la recherche, à la constatation ou à la
+sanction de ce manquement. 
+
+Le délai de prescription de l'action de l'administration pour la sanction d'un manquement passible d'une amende
+administrative n'excédant pas 3 000 € pour une personne physique ou 15 000 € pour une personne morale est d'une année révolue
+à compter du jour où le manquement a été commis et s'accomplit selon les distinctions spécifiées au premier alinéa du présent
+II. 
+
+III. ― Les manquements passibles d'une amende administrative sont constatés par procès-verbaux, qui font foi jusqu'à preuve
+contraire. Une copie en est transmise à la personne mise en cause. 
+
+IV. ― Avant toute décision, l'administration informe par écrit la personne mise en cause de la sanction envisagée à son
+encontre, en lui indiquant qu'elle peut prendre connaissance des pièces du dossier et se faire assister par le conseil de son
+choix et en l'invitant à présenter, dans le délai de soixante jours, ses observations écrites et, le cas échéant, ses
+observations orales. 
+
+Passé ce délai, l'autorité administrative peut, par décision motivée, prononcer l'amende. 
+
+V. ― La décision prononcée par l'autorité administrative peut être publiée. 
+
+VI. ― Lorsqu'une amende administrative est susceptible de se cumuler avec une amende pénale infligée à raison des mêmes faits
+à l'auteur du manquement, le montant global des amendes prononcées ne dépasse pas le maximum légal le plus élevé. 
+
+VII. ― Lorsque, à l'occasion d'une même procédure ou de procédures séparées, plusieurs sanctions administratives ont été
+prononcées à l'encontre du même auteur pour des manquements en concours passibles d'amendes dont le montant maximal excède 3
+000 € pour une personne physique et 15 000 € pour une personne morale, ces sanctions s'exécutent cumulativement, dans la
+limite du maximum légal le plus élevé. 
+
+VIII. ― Les documents recueillis et établis à l'occasion de la recherche et de la constatation d'un manquement ayant donné
+lieu à une procédure de sanction administrative ne sont communicables qu'à la personne qui en fait l'objet ou à son
+représentant. 
+
+IX. ― L'amende est recouvrée comme en matière de créances étrangères à l'impôt et au domaine. 
+
+X. ― Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 113
+
+_Cité par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 6
+  - Code de commerce - art. L444-6 (V)
+  - Code de l'action sociale et des familles - art. L314-14 (V)
+  - Code de l'action sociale et des familles - art. L314-15 (Ab)
+  - Code de l'action sociale et des familles - art. L347-2 (V)
+  - Code de la consommation - art. L111-6 (VT)
+  - Code de la consommation - art. L111-6-1 (VT)
+  - Code de la consommation - art. L113-3-2 (VT)
+  - Code de la consommation - art. L113-6 (VT)
+  - Code de la consommation - art. L113-9 (Ab)
+  - Code de la consommation - art. L114-2 (VT)
+  - Code de la consommation - art. L121-103 (VT)
+  - Code de la consommation - art. L121-114 (VT)
+  - Code de la consommation - art. L121-119 (VT)
+  - Code de la consommation - art. L121-15 (VT)
+  - Code de la consommation - art. L121-15-3 (VT)
+  - Code de la consommation - art. L121-22 (VT)
+  - Code de la consommation - art. L121-22-1 (VT)
+  - Code de la consommation - art. L121-34-1 (VT)
+  - Code de la consommation - art. L121-34-2 (VT)
+  - Code de la consommation - art. L121-41 (Ab)
+  - Code de la consommation - art. L121-49 (VT)
+  - Code de la consommation - art. L121-85-1 (VT)
+  - Code de la consommation - art. L121-97 (M)
+  - Code de la consommation - art. L132-2 (VT)
+  - Code de la consommation - art. L141-1 (VT)
+  - Code de la consommation - art. L156-3 (VT)
+  - Code de la consommation - art. L211-16-1 (VT)
+  - Code de la consommation - art. R141-1 (Ab)
+  - Code de la consommation - art. R141-6 (Ab)
+  - Code de la propriété intellectuelle - art. L731-3 (VD)
+  - Code de la route. - art. L213-2-1 (V)
+  - Code de la santé publique - art. L1111-3-5 (V)
+  - Code de la sécurité sociale. - art. L165-9-1 (V)
+  - Code des postes et des communications électroni... - art. L34-5 (V)
+  - Code des transports - art. L2151-3 (V)
+  - Code des transports - art. L3115-6 (Ab)
+  - Code des transports - art. L4271-2 (V)
+  - Code des transports - art. L5421-13 (V)
+  - Code des transports - art. L6432-3 (V)
+  - Code du tourisme. - art. L211-23 (V)
 
 
 ###### Article L141-2
@@ -8557,6 +10047,9 @@ Pour les contraventions, et les délits qui ne sont pas punis d'une peine d'empr
 que pour les infractions prévues à l'article L. 121-1, l'autorité administrative chargée de la concurrence et de la
 consommation a droit, tant que l'action publique n'a pas été mise en mouvement, de transiger, après accord du procureur de la
 République, selon des modalités fixées par décret en Conseil d'Etat.
+
+Une copie du procès-verbal de constatation de l'infraction est jointe à la proposition de transaction adressée à l'auteur de
+l'infraction. 
 
 L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
 prescription de l'action publique.
@@ -8568,11 +10061,22 @@ lui de l'acceptation de la transaction.
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 30
+  - Loi n°2014-344 du 17 mars 2014 - art. 80
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L121-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L523-1 (M)
+  - Code de la consommation - art. L523-2 (V)
+  - Code de la consommation - art. L523-3 (V)
+  - Code de la consommation - art. L523-4 (V)
 
 _Cité par_:
 
@@ -8626,11 +10130,22 @@ _Nouveaux textes_:
 
 Le juge peut soulever d'office toutes les dispositions du présent code dans les litiges nés de son application.
 
+Il écarte d'office, après avoir recueilli les observations des parties, l'application d'une clause dont le caractère abusif
+ressort des éléments du débat.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-3 du 3 janvier 2008 - art. 34
+  - Loi n°2014-344 du 17 mars 2014 - art. 81
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R632-1 (V)
 
 
 ###### Article L141-5
@@ -8688,7 +10203,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R631-4 (V)
 
 
-#### Chapitre II : Dispositions relatives à l'outre-mer<a id=60></a>
+#### Chapitre II : Dispositions relatives à l'outre-mer<a id=67></a>
 
 ###### Article L142-1
 
@@ -8722,13 +10237,13 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-## Livre II : Conformité et sécurité des produits et des services<a id=61></a>
+## Livre II : Conformité et sécurité des produits et des services<a id=68></a>
 
-### Titre Ier : Conformité<a id=62></a>
+### Titre Ier : Conformité<a id=69></a>
 
-#### Chapitre Ier : Dispositions générales<a id=63></a>
+#### Chapitre Ier : Dispositions générales<a id=70></a>
 
-##### Section 1 : Champ d'application<a id=64></a>
+##### Section 1 : Champ d'application<a id=71></a>
 
 ###### Article L211-1
 
@@ -8845,7 +10360,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L217-3 (V)
 
 
-##### Section 2 : Garantie légale de conformité<a id=65></a>
+##### Section 2 : Garantie légale de conformité<a id=72></a>
 
 ###### Article L211-4
 
@@ -9226,52 +10741,64 @@ _Nouveaux textes_:
   - Code de la consommation - art. L217-14 (V)
 
 
-##### Section 3 : Garantie commerciale<a id=66></a>
+##### Section 3 : Garantie commerciale<a id=73></a>
 
 ###### Article L211-15
 
-La garantie commerciale offerte à l'acheteur prend la forme d'un écrit mis à la disposition de celui-ci. 
+La garantie commerciale s'entend de tout engagement contractuel d'un professionnel à l'égard du consommateur en vue du
+remboursement du prix d'achat, du remplacement ou de la réparation du bien, en sus de ses obligations légales visant à
+garantir la conformité du bien. 
 
-Cet écrit précise le contenu de la garantie, les éléments nécessaires à sa mise en oeuvre, sa durée, son étendue territoriale
-ainsi que le nom et l'adresse du garant. 
+La garantie commerciale fait l'objet d'un contrat écrit, dont un exemplaire est remis à l'acheteur. 
 
-Il mentionne que, indépendamment de la garantie ainsi consentie, le vendeur reste tenu des défauts de conformité du bien au
-contrat et des vices rédhibitoires dans les conditions prévues aux articles 1641 à 1649 du code civil. Il reproduit
-intégralement et de façon apparente les articles L. 211-4, L. 211-5 et L. 211-12 du présent code ainsi que l'article 1641 et
-le premier alinéa de l'article 1648 du code civil. 
+Le contrat précise le contenu de la garantie, les modalités de sa mise en œuvre, son prix, sa durée, son étendue territoriale
+ainsi que le nom et l'adresse du garant et reproduit l'article L. 211-16. 
+
+En outre, il mentionne de façon claire et précise que, indépendamment de la garantie commerciale, le vendeur reste tenu de la
+garantie légale de conformité mentionnée aux articles L. 211-4 à L. 211-13 du présent code et de celle relative aux défauts
+de la chose vendue, dans les conditions prévues aux articles 1641 à 1648 et 2232 du code civil. Les articles L. 211-4, L.
+211-5 et L. 211-12 du présent code ainsi que l'article 1641 et le premier alinéa de l'article 1648 du code civil sont
+intégralement reproduits. 
 
 En cas de non-respect de ces dispositions, la garantie demeure valable. L'acheteur est en droit de s'en prévaloir.
-
-**Nota:**
-
-Ordonnance 2005-136 2005-02-17 art. 5 : Les dispositions de la présente ordonnance s'appliquent aux contrats conclus
-postérieurement à son entrée en vigueur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Cité par_:
 
   - Arrêté du 28 juin 2000 - art. 5-1 (V)
+  - Code de la consommation - art. L211-16-1 (VT)
   - Code de la consommation - art. R111-1 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-136 du 17 février 2005 - art. 1 () JORF 18 février 2005
+  - Loi n°2014-344 du 17 mars 2014 - art. 15 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L211-4 (V)
-  - Code civil - art. 1641 (V)
-  - Code civil - art. 1648 (M)
+  - Code de la consommation - art. L211-12 (VT)
+  - Code de la consommation - art. L211-16
+  - Code de la consommation - art. L211-4 (VT)
+  - Code civil - art. 1641
+  - Code civil - art. 1648
+  - Code civil - art. 2232
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L217-15 (V)
 
 
 ###### Article L211-16
 
-Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie contractuelle qui lui a été consentie lors de
+Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie commerciale qui lui a été consentie lors de
 l'acquisition ou de la réparation d'un bien meuble, une remise en état couverte par la garantie, toute période
 d'immobilisation d'au moins sept jours vient s'ajouter à la durée de la garantie qui restait à courir. Cette période court à
 compter de la demande d'intervention de l'acheteur ou de la mise à disposition pour réparation du bien en cause, si cette
@@ -9281,18 +10808,52 @@ mise à disposition est postérieure à la demande d'intervention.
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Loi n°2006-406 du 5 avril 2006 - art. 3 () JORF 6 avril 2006
+  - Loi n°2014-344 du 17 mars 2014 - art. 15 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Code de la consommation - art. L211-15 (VT)
 
+_Nouveaux textes_:
 
-##### Section 4 : Disposition commune<a id=67></a>
+  - Code de la consommation - art. L217-16 (V)
+
+
+###### Article L211-16-1
+
+Tout manquement aux articles L. 211-15 et L. 211-16 est passible d'une amende administrative dont le montant ne peut excéder
+3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à
+l'article L. 141-1-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 114
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L141-1-2
+  - Code de la consommation - art. L211-15 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L241-6 (V)
+
+
+##### Section 4 : Disposition commune<a id=74></a>
 
 ###### Article L211-17
 
@@ -9327,59 +10888,64 @@ _Cité par_:
   - Code rural - art. L213-1 (M)
 
 
-##### Section 5 : Disposition applicable aux acheteurs résidant dans un Etat membre de la Communauté européenne<a id=68></a>
+##### Section 5 :  Dispositions applicables aux consommateurs résidant dans un Etat membre de l'Union européenne<a id=75></a>
 
 ###### Article L211-18
 
-Quelle que soit la loi applicable au contrat, l'acheteur qui a sa résidence habituelle dans un Etat membre de la Communauté
-européenne ne peut être privé de la protection que lui assurent les dispositions prises par cet Etat en application de la
-directive 1999/44/CE du Parlement européen et du Conseil du 25 mai 1999 et qui ont un caractère impératif :
-
-- si le contrat a été conclu dans l'Etat du lieu de résidence habituelle de l'acheteur ;
-
-- ou si le contrat a été précédé dans cet Etat d'une offre spécialement faite ou d'une publicité et des actes accomplis par
-l'acheteur nécessaires à la conclusion dudit contrat ;
-
-- ou si le contrat a été conclu dans un Etat où l'acheteur s'est rendu à la suite d'une proposition de voyage ou de séjour
-faite, directement ou indirectement, par le vendeur pour l'inciter à contracter.
-
-**Nota:**
-
-Ordonnance 2005-136 2005-02-17 art. 5 : Les dispositions de la présente ordonnance s'appliquent aux contrats conclus
-postérieurement à son entrée en vigueur.
+Lorsque la loi qui régit le contrat est celle d'un Etat n'appartenant pas à l'Union européenne, le consommateur ne peut être
+privé de la protection que lui assurent les dispositions prises par un Etat membre de l'Union européenne en application de la
+directive 1999/44/CE du Parlement européen et du Conseil, du 25 mai 1999, sur certains aspects de la vente et des garanties
+des biens de consommation et qui ont un caractère impératif lorsque le contrat présente un lien étroit avec le territoire de
+cet Etat membre.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Directive 1999-44 CE 1999-05-25
-
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-136 du 17 février 2005 - art. 1 () JORF 18 février 2005
+  - Loi n°2014-344 du 17 mars 2014 - art. 32
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Code de la consommation - art. L139-1 (VT)
   - Code rural - art. L213-1 (M)
 
+_Nouveaux textes_:
 
-##### Section 6 : Dispositions particulières relatives aux prestations de services après-vente<a id=69></a>
+  - Code de la consommation - art. L232-2 (V)
+
+_Cite_:
+
+  - Directive 1999-44 CE 1999-05-25
+
+
+##### Section 6 : Dispositions particulières relatives aux prestations de services après-vente<a id=76></a>
 
 ###### Article L211-19
 
-Les prestations de services après-vente exécutées à titre onéreux par le vendeur et ne relevant pas de la garantie
-commerciale visée à la section 3 font l'objet d'un contrat dont un exemplaire est remis à l'acheteur.
+Les prestations de services après-vente exécutées par le vendeur et ne relevant pas de la garantie commerciale visée à la
+section 3 font l'objet d'un contrat dont un exemplaire est remis à l'acheteur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 88 (V)
+  - Loi n°2014-344 du 17 mars 2014 - art. 15 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L217-17 (V)
 
 
 ###### Article L211-20
@@ -9447,7 +11013,32 @@ _Nouveaux textes_:
   - Code de la consommation - art. L217-20 (V)
 
 
-#### Chapitre II : Obligation générale de conformité<a id=70></a>
+###### Article L211-23
+
+Tout manquement aux articles de la présente section est passible d'une amende administrative dont le montant ne peut excéder
+3 000 € pour une personne physique et 15 000 € pour une personne morale. L'amende est prononcée dans les conditions prévues à
+l'article L. 141-1-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 114
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L141-1-2 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L241-7 (V)
+
+
+#### Chapitre II : Obligation générale de conformité<a id=77></a>
 
 ###### Article L212-1
 
@@ -9500,15 +11091,15 @@ _Nouveaux textes_:
   - Code de la consommation - art. L411-1 (V)
 
 
-#### Chapitre III : Fraudes et falsifications<a id=71></a>
+#### Chapitre III : Fraudes et falsifications<a id=78></a>
 
-##### Section 1 : Tromperie<a id=72></a>
+##### Section 1 : Tromperie<a id=79></a>
 
 ###### Article L213-1
 
-Sera puni d'un emprisonnement de deux ans au plus et d'une amende de 37 500 euros au plus ou de l'une de ces deux peines
-seulement quiconque, qu'il soit ou non partie au contrat, aura trompé ou tenté de tromper le contractant, par quelque moyen
-ou procédé que ce soit, même par l'intermédiaire d'un tiers :
+Sera puni d'un emprisonnement de deux ans au plus et d'une amende de 300 000 euros quiconque, qu'il soit ou non partie au
+contrat, aura trompé ou tenté de tromper le contractant, par quelque moyen ou procédé que ce soit, même par l'intermédiaire
+d'un tiers :
 
 1° Soit sur la nature, l'espèce, l'origine, les qualités substantielles, la composition ou la teneur en principes utiles de
 toutes marchandises ;
@@ -9518,6 +11109,9 @@ déterminée qui a fait l'objet du contrat ;
 
 3° Soit sur l'aptitude à l'emploi, les risques inhérents à l'utilisation du produit, les contrôles effectués, les modes
 d'emploi ou les précautions à prendre.
+
+Le montant de l'amende peut être porté, de manière proportionnée aux avantages tirés du manquement, à 10 % du chiffre
+d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits.
 
 **Liens relatifs à cet article**
 
@@ -9563,7 +11157,7 @@ _Cité par_:
   - Code de la consommation - art. L121-82 (V)
   - Code de la consommation - art. L213-2 (VT)
   - Code de la consommation - art. L213-3 (VT)
-  - Code de la consommation - art. L213-5 (M)
+  - Code de la consommation - art. L213-5 (VT)
   - Code de la consommation - art. L213-6 (VT)
   - Code de la consommation - art. L214-2 (VT)
   - Code de la consommation - art. L215-7 (VT)
@@ -9609,7 +11203,7 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 **Liens**:
 
@@ -9618,32 +11212,46 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2014-344 du 17 mars 2014 - art. 131
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L441-1 (V)
+  - Code de la consommation - art. L454-1 (M)
 
 
 ###### Article L213-2
 
-Les peines prévues à l'article L. 213-1 sont portées au double : 
+I.-Les peines prévues à l'article L. 213-1 sont portées à cinq ans d'emprisonnement et à 600 000 € d'amende si le délit ou la
+tentative de délit prévus au même article L. 213-1 ont été commis : 
 
-1° Si les délits prévus audit article ont eu pour conséquence de rendre l'utilisation de la marchandise dangereuse pour la
-santé de l'homme ou de l'animal ; 
+1° Soit à l'aide de poids, mesures et autres instruments faux ou inexacts ; 
 
-2° Si le délit ou la tentative de délit prévus à l'article L. 213-1 ont été commis : 
-
-a) Soit à l'aide de poids, mesures et autres instruments faux ou inexacts ; 
-
-b) Soit à l'aide de manoeuvres ou procédés tendant à fausser les opérations de l'analyse ou du dosage, du pesage ou du
+2° Soit à l'aide de manœuvres ou procédés tendant à fausser les opérations de l'analyse ou du dosage, du pesage ou du
 mesurage, ou tendant à modifier frauduleusement la composition, le poids ou le volume des marchandises, même avant ces
 opérations ; 
 
-c) Soit enfin à l'aide d'indications frauduleuses tendant à faire croire à une opération antérieure et exacte.
+3° Soit à l'aide d'indications frauduleuses tendant à faire croire à une opération antérieure et exacte. 
+
+II.-Les peines prévues à l'article L. 213-1 sont portées à sept ans d'emprisonnement et à 750 000 € d'amende si le délit ou
+la tentative de délit prévus au même article L. 213-1 : 
+
+1° Ont eu pour conséquence de rendre l'utilisation de la marchandise dangereuse pour la santé de l'homme ou de l'animal ; 
+
+2° Ont été commis en bande organisée. 
+
+III.-Les peines d'amende prévues au présent article peuvent être portées, de manière proportionnée aux avantages tirés du
+manquement, à 10 % du chiffre d'affaires réalisé lors de l'exercice précédent..
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°1905-08-01 du 1 août 1905 - art. 2 (Ab)
-  - Loi n°1905-08-01 art. 2
 
 _Cité par_:
 
@@ -9659,11 +11267,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2014-344 du 17 mars 2014 - art. 131
 
 _Cite_:
 
@@ -9672,31 +11280,40 @@ _Cite_:
 
 ###### Article L213-2-1
 
-Est puni d'une peine de quatre ans d'emprisonnement et d'une amende de 75 000 Euros le fait d'exporter vers un pays tiers à
-la Communauté européenne une denrée alimentaire préjudiciable à la santé ou un aliment pour animaux qui est dangereux, en
-méconnaissance des dispositions de l'article 12 du règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28
-janvier 2002.
+Est puni d'une peine de cinq ans d'emprisonnement et d'une amende de 600 000 €, dont le montant peut être porté, de manière
+proportionnée aux avantages tirés du manquement, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois derniers
+chiffres d'affaires annuels connus à la date des faits, le fait d'exporter vers un pays tiers à la Communauté européenne une
+denrée alimentaire préjudiciable à la santé ou un aliment pour animaux qui est dangereux, en méconnaissance des dispositions
+de l'article 12 du règlement (CE) n° 178/2002 du Parlement européen et du Conseil du 28 janvier 2002.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 52 () JORF 6 octobre 2006
+  - Loi n°2014-344 du 17 mars 2014 - art. 131
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L452-1 (V)
 
 _Cite_:
 
   - Règlement CE 178/2002 2002-01-28 art. 12 Parlement et Conseil
 
 
-##### Section 2 : Falsifications et délits connexes<a id=73></a>
+##### Section 2 : Falsifications et délits connexes<a id=80></a>
 
 ###### Article L213-3
 
-Seront punis des peines portées par l'article L. 213-1 : 
+I. - Seront punis des peines portées par l'article L. 213-1 : 
 
 1° Ceux qui falsifieront des denrées servant à l'alimentation de l'homme ou des animaux, des boissons et des produits
 agricoles ou naturels destinés à être vendus ; 
@@ -9711,8 +11328,14 @@ propres à effectuer la falsification des denrées servant à l'alimentation de 
 produits agricoles ou naturels et ceux qui auront provoqué à leur emploi par le moyen de brochures, circulaires, prospectus,
 affiches, annonces ou instructions quelconques. 
 
-Si la substance falsifiée ou corrompue est nuisible à la santé de l'homme ou de l'animal, l'emprisonnement sera de quatre ans
-et l'amende de 75 000 euros. 
+II. - Les peines prévues à l'article L. 213-1 sont portées à sept ans d'emprisonnement et à 750 000 € d'amende si :
+
+1° La substance falsifiée ou corrompue est nuisible à la santé de l'homme ou de l'animal ;
+
+2° Les délits prévus au I du présent article ont été commis en bande organisée.
+
+III. - Les peines d'amende prévues au présent article peuvent être portées, de manière proportionnée aux avantages tirés du
+manquement, à 10 % du chiffre d'affaires réalisé lors de l'exercice précédent. .
 
 Ces peines seront applicables même au cas où la falsification nuisible serait connue de l'acheteur ou du consommateur. 
 
@@ -9745,7 +11368,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2012-1427 du 19 décembre 2012 - art. 19
+  - Loi n°2014-344 du 17 mars 2014 - art. 131
 
 _Cite_:
 
@@ -9754,11 +11377,10 @@ _Cite_:
 
 ###### Article L213-4
 
-Seront punis d'une amende de 4500 euros et d'un emprisonnement de trois mois au plus ou de l'une de ces deux peines seulement
-ceux qui, sans motifs légitimes, seront trouvés détenteurs dans tous les lieux de fabrication, de production, de
-conditionnement, de stockage, de dépôt ou de vente, dans les véhicules utilisés pour le transport des marchandises, ainsi que
-dans les lieux où sont hébergés ou abattus les animaux dont la viande ou les produits sont destinés à l'alimentation humaine
-ou animale :
+Seront punis d'une amende de 150 000 euros et d'un emprisonnement d'un an ceux qui, sans motifs légitimes, seront trouvés
+détenteurs dans tous les lieux de fabrication, de production, de conditionnement, de stockage, de dépôt ou de vente, dans les
+véhicules utilisés pour le transport des marchandises, ainsi que dans les lieux où sont hébergés ou abattus les animaux dont
+la viande ou les produits sont destinés à l'alimentation humaine ou animale :
 
 1° Soit de poids ou mesures faux ou autres appareils inexacts servant au pesage ou au mesurage des marchandises ;
 
@@ -9771,7 +11393,9 @@ savaient être falsifiés, corrompus ou toxiques ;
 ou des animaux, des boissons ou des produits agricoles ou naturels.
 
 Si la substance alimentaire falsifiée ou corrompue est nuisible à la santé de l'homme ou de l'animal, l'emprisonnement sera
-de deux ans et l'amende de 37500 euros.
+de deux ans et l'amende de 300 000 euros, son montant pouvant être porté, de manière proportionnée aux avantages tirés du
+manquement, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la
+date des faits.
 
 Les dispositions du présent article ne sont pas applicables aux fruits frais et légumes frais, fermentés ou corrompus.
 
@@ -9800,6 +11424,7 @@ _Cité par_:
   - Code de la consommation - art. L215-4 (M)
   - Code de la consommation - art. L215-5 (M)
   - Code de la consommation - art. L215-7 (M)
+  - Code de la consommation - art. L215-8 (VT)
   - Code de la consommation - art. L217-3 (VT)
   - Code de la consommation - art. L221-6 (M)
   - Code de la consommation - art. R216-2 (Ab)
@@ -9813,10 +11438,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2012-1427 du 19 décembre 2012 - art. 20
+  - Loi n°2014-344 du 17 mars 2014 - art. 131
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L413-2 (M)
+  - Code de la consommation - art. L413-3 (M)
+  - Code de la consommation - art. L451-3 (V)
+  - Code de la consommation - art. L451-4 (V)
+  - Code de la consommation - art. L451-5 (V)
 
 
-##### Section 3 : Récidive légale<a id=74></a>
+##### Section 3 : Récidive légale<a id=81></a>
 
 ###### Article L213-5
 
@@ -9935,7 +11572,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L454-5 (V)
 
 
-#### Chapitre IV : Mesures d'application<a id=75></a>
+#### Chapitre IV : Mesures d'application<a id=82></a>
 
 ###### Article L214-1
 
@@ -9979,17 +11616,20 @@ animale ;
 8° Les conditions matérielles dans lesquelles les indications, visées au dernier alinéa de l'article L. 213-4, devront être
 portées à la connaissance des acheteurs sur les étiquettes, annonces, réclames, papiers de commerce ; 
 
-Les décrets prévus au présent article sont pris après avis de l'Agence nationale chargée de la sécurité sanitaire de
-l'alimentation, de l'environnement et du travail lorsqu'ils portent sur des produits entrant dans son champ de compétence ou
-qu'ils comportent des dispositions visant à prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics. 
-
 9° La traçabilité des marchandises. 
 
 10° Les exigences de précision, de vérification et de prise en compte des éléments significatifs du cycle de vie des produits
 dans l'élaboration des allégations à caractère environnemental ou utilisant les termes de développement durable ou ses
 synonymes, lorsque ces allégations sont présentées sur les produits destinés à la vente aux consommateurs ou accompagnent
 leur commercialisation sous forme de mentions sur les emballages, les publications, la publicité, la télémercatique ou
-d'insertions sur supports numériques ou électroniques.
+d'insertions sur supports numériques ou électroniques. 
+
+Les décrets prévus au présent article sont pris après avis de l'agence mentionnée à l'article L. 1313-1 du code de la santé
+publique lorsqu'ils comportent des dispositions visant à prévenir des risques sanitaires ou nutritionnels. Ces avis sont
+rendus publics. 
+
+Toutefois, l'avant-dernier alinéa du présent article ne s'applique pas aux décrets qui ont pour objet la mise en conformité
+de la réglementation avec les actes communautaires contraignants.
 
 **Nota:**
 
@@ -10109,6 +11749,7 @@ _Cité par_:
   - Code de la consommation - art. L121-19 (V)
   - Code de la consommation - art. L213-5 (VT)
   - Code de la consommation - art. L214-2 (VT)
+  - Code de la consommation - art. L214-3 (VT)
   - Code de la consommation - art. L216-5 (M)
   - Code de la consommation - art. L218-3 (M)
   - Code de la consommation - art. R112-1 (Ab)
@@ -10274,11 +11915,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 228 (V)
+  - Loi n°2014-344 du 17 mars 2014 - art. 138
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L213-4 (V)
+  - Code de la consommation - art. L213-4
+  - Code de la santé publique - art. L1313-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L412-1 (M)
+  - Code de la consommation - art. R412-1 (V)
 
 
 ###### Article L214-2
@@ -10440,24 +12091,24 @@ _Nouveaux textes_:
   - Code de la consommation - art. L412-2 (V)
 
 
-#### Chapitre V : Pouvoirs d'enquête<a id=76></a>
+#### Chapitre V : Pouvoirs d'enquête<a id=83></a>
 
-##### Section 1 : Autorités qualifiées<a id=77></a>
+##### Section 1 : Autorités qualifiées<a id=84></a>
 
 ###### Article L215-1
 
-I. - Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation des infractions au
+I.-Sont qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation des infractions au
 présent livre : 
 
-1° Les                 agents de la concurrence, de la consommation et de la répression des fraudes, de la direction générale
-des douanes et de la direction générale des finances publiques ; 
+1° Les agents de la concurrence, de la consommation et de la répression des fraudes, de la direction générale des douanes et
+de la direction générale des finances publiques ; 
 
 2° Les inspecteurs du travail ; 
 
 3° Les agents mentionnés aux 1° à 7° de l'article L. 231-2 et à l'article L. 250-2 du code rural et de la pêche maritime ; 
 
-4° Les agents mentionnés aux articles L. 1421-1 et L. 1435-7 du code de la santé publique ayant la qualité de médecin ou de
-pharmacien ; 
+4° Les agents mentionnés à l'article L. 1312-1 du code de la santé publique, qui disposent à cet effet des pouvoirs prévus
+aux articles L. 1421-2 à L. 1421-3 du même code ; 
 
 5° Les agents de l'Institut français de recherche pour l'exploitation de la mer ; 
 
@@ -10466,44 +12117,35 @@ déconcentrés de l'Etat chargés des contrôles dans le domaine de la métrolog
 
 7° Les agents de l'Etat agréés et commissionnés par le ministre de l'agriculture ; 
 
-8° Les agents agréés et commissionnés conformément à l'article 65 de la loi de finances du 27 février 1912, modifié par
-l'article 3 du décret-loi du 14 juin 1938 ; 
+8° Les agents figurant sur une liste établie par arrêté du ministre chargé de la consommation ; 
 
 9° Les administrateurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes et
 les fonctionnaires affectés dans les services exerçant des missions de contrôle sous l'autorité ou à la disposition du
-ministre chargé de la mer :
+ministre chargé de la mer : 
 
-a) Dans le domaine des affaires maritimes ;
+a) Dans le domaine des affaires maritimes ; 
 
 b) Au titre de la surveillance du marché, dans les domaines de la conformité et de la sécurité des bateaux de plaisance et de
 leurs pièces et de leurs pièces et éléments d'équipement ; 
 
-10° Les agents mentionnés à l'article L. 1312-1 du code de la santé publique ; 
+10° Les agents mentionnés au 2° du II de l'article L. 172-1 du code de l'environnement ; 
 
-11° Les agents mentionnés à l'article L. 514-13 du code de l'environnement ; 
+11° Les agents mentionnés à l'article L. 40 du code des postes et des communications électroniques ; 
 
-12° Les agents mentionnés à l'article L. 40 du code des postes et télécommunications. 
+12° Les inspecteurs de l'Agence nationale de sécurité du médicament et des produits de santé, qui disposent à cet effet des
+pouvoirs prévus à l'article L. 5313-1 du code de la santé publique ; 
 
-II. - En outre, les officiers et agents de police judiciaire, agissant dans le cadre des dispositions du code de procédure
+13° Les inspecteurs de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du
+travail, qui disposent à cet effet des pouvoirs prévus à l'article L. 5146-2 du même code. 
+
+II.-En outre, les officiers et agents de police judiciaire, agissant dans le cadre des dispositions du code de procédure
 pénale, sont compétents pour rechercher et constater les infractions mentionnées au I. 
 
 Il sera statué par des décrets en Conseil d'Etat sur les pouvoirs conférés aux autorités qualifiées pour rechercher et
-constater les infractions aux chapitre II et VI en vue de recueillir des éléments d'information auprès des diverses
+constater les infractions aux chapitres II et VI en vue de recueillir des éléments d'information auprès des diverses
 administrations publiques et des entreprises de transports.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi du 27 février 1912
-  - Décret-loi du 14 juin 1938 - art. 3
-  - Code des postes et des communications électroniques - art. L40
-  - Code de procédure pénale
-  - Code rural - art. L231-2
-  - Code rural - art. L250-2
-  - Code de la santé publique - art. L1312-1
-  - Code de la santé publique - art. L1421-1
-  - Code de l'environnement - art. L514-13
 
 _Cité par_:
 
@@ -10634,7 +12276,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-431 du 28 mai 2013 - art. 31
+  - Loi n°2014-344 du 17 mars 2014 - art. 102
 
 _Anciens textes_:
 
@@ -10642,11 +12284,23 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 4
   - Loi n°1905-08-01 art. 11 5°
 
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. L40 (V)
+  - Code de procédure pénale
+  - Code rural - art. L231-2
+  - Code rural - art. L250-2
+  - Code de la santé publique - art. L1312-1 (V)
+  - Code de la santé publique - art. L1421-2 (V)
+  - Code de la santé publique - art. L5146-2 (V)
+  - Code de la santé publique - art. L5313-1 (V)
+  - Code de l'environnement - art. L172-1 (V)
+
 
 ###### Article L215-1-1
 
-Les                 agents de la concurrence, de la consommation et de la répression des fraudes peuvent exercer les pouvoirs
-d'enquête qu'ils tiennent du livre II du présent code sur toute l'étendue du territoire national.
+Les agents de la concurrence, de la consommation et de la répression des fraudes peuvent exercer les pouvoirs   qu'ils
+tiennent du livre II du présent code sur toute l'étendue du territoire national.
 
 **Liens relatifs à cet article**
 
@@ -10656,7 +12310,40 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 94
+  - Loi n°2014-344 du 17 mars 2014 - art. 103
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-2 (V)
+
+
+###### Article L215-1-2
+
+Lorsque la législation de l'Union européenne prévoit une coopération entre les Etats membres, les personnes désignées par les
+autorités compétentes d'un autre Etat membre peuvent assister les agents mentionnés à l'article L. 215-1 dans le contrôle de
+l'application du présent livre et des textes pris pour son application.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 82
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-26 (V)
 
 
 ###### Article L215-2
@@ -10755,58 +12442,6 @@ _Nouveaux textes_:
 
 ###### Article L215-2-2
 
-Les agents mentionnés à l'article L. 215-1 disposent des pouvoirs d'enquête prévus au présent livre pour procéder au contrôle
-des aliments pour animaux et des denrées alimentaires d'origine non animale à leur point d'entrée sur le territoire avant
-tout placement sous un régime douanier, lorsque ces aliments et denrées sont placés sous l'un des régimes douaniers
-mentionnés au a du point 3 de l'article 15 du règlement (CE) n° 882 / 2004 du Parlement européen et du Conseil du 29 avril
-2004 modifié relatif aux contrôles officiels effectués pour s'assurer de la conformité avec la législation sur les aliments
-pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux
-modifié, ou lorsqu'ils sont destinés à être introduits dans des zones franches ou entrepôts francs mentionnés au b du point 3
-du même article. Ces agents sont également habilités à prendre les mesures consécutives à ces contrôles définies aux articles
-19 à 21 de ce règlement.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2008-811 du 22 août 2008 - art. 1
-
-_Cite_:
-
-  - Code de la consommation - art. L215-1
-
-
-###### Article L215-2-3
-
-Les                 agents de la concurrence, de la consommation et de la répression des fraudes et les agents mentionnés au
-8° de l'article L. 215-1 disposent des pouvoirs d'enquête prévus au présent livre pour procéder aux contrôles de conformité
-des fruits et légumes frais avec les normes de commercialisation prévues par le règlement (CE) n° 1580/2007 de la Commission
-du 21 décembre 2007 portant modalités d'application des règlements (CE) n° 2200/96, (CE) n° 2201/96 et (CE) n° 1182/2007 du
-Conseil dans le secteur des fruits et légumes. Ils sont également habilités à prendre les mesures consécutives à ces
-contrôles définies à l'article 20 de ce règlement.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2011-525 du 17 mai 2011 - art. 94
-
-**Liens**:
-
-  - TRANSFERE: Loi n°2014-344 du 17 mars 2014 - art. 92
-
-_Cite_:
-
-  - Code de la consommation - art. L215-1
-  - règlements (CE) n°2200/96
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. L218-1-4, v. 0.1 (VT)
-
-
-###### Article L215-2-4
-
 Les agents mentionnés à l'article L. 215-1 sont habilités à rechercher et à constater, dans les conditions prévues au présent
 livre, les infractions à la loi n° 2010-729 du 30 juin 2010 tendant à suspendre la commercialisation de tout conditionnement
 comportant du bisphénol A et destiné à recevoir des produits alimentaires.
@@ -10815,15 +12450,48 @@ comportant du bisphénol A et destiné à recevoir des produits alimentaires.
 
 _Cite_:
 
-  - Loi n°2010-729 du 30 juin 2010 (V)
-  - Code de la consommation - art. L215-1 (V)
+  - Loi n°2010-729 du 30 juin 2010
+  - Code de la consommation - art. L215-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2012-1442 du 24 décembre 2012 - art. 2
+  - Loi n°2014-344 du 17 mars 2014 - art. 92
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-13 (M)
 
 
-##### Section 2 : Recherche et constatation<a id=78></a>
+###### Article L215-2-4
+
+Les agents mentionnés à l'article L. 215-1 sont habilités à rechercher et à constater, dans les conditions prévues au présent
+livre, les infractions aux dispositions du chapitre VII du titre V du livre V du code de l'environnement lorsqu'elles
+concernent des produits destinés aux consommateurs.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 92
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-13 (M)
+
+
+##### Section 2 : Recherche et constatation<a id=85></a>
 
 ###### Article L215-3
 
@@ -10838,21 +12506,26 @@ conditionnement, de transport ou de commercialisation.
 
 Lorsque ces lieux sont également à usage d'habitation, ces contrôles ne peuvent être effectués qu'entre 8 heures et 20
 heures, et avec l'autorisation du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel
-sont situés ces lieux si l'occupant s'y oppose.
+sont situés ces lieux si l'occupant s'y oppose. 
 
 Les agents peuvent exiger la communication et obtenir ou prendre copie par tout moyen et sur tout support ou procéder à la
 saisie des documents de toute nature, entre quelques mains qu'ils se trouvent, propres à faciliter l'accomplissement de leur
-mission et la mise à leur disposition des moyens indispensables pour effectuer leurs vérifications.
+mission et la mise à leur disposition des moyens indispensables pour effectuer leurs vérifications. Ils peuvent requérir
+l'ouverture de tout emballage.
 
 Pour le contrôle des opérations faisant appel à l'informatique, ils ont accès aux logiciels et aux données stockées ainsi
 qu'à la restitution en clair des informations propres à faciliter l'accomplissement de leurs missions. Ils peuvent en
 demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du
-contrôle. Ils peuvent prélever des échantillons. Ils peuvent recueillir, sur place ou sur convocation, tout renseignement ou
-toute justification nécessaires aux contrôles.
+contrôle.
+
+Ils peuvent prélever des échantillons. Ils peuvent recueillir, sur place ou sur convocation, tout renseignement, toute
+justification ou tout document nécessaires aux contrôles. 
 
 Ils peuvent également consulter tout document nécessaire à l'accomplissement de leur mission auprès des administrations
 publiques, des établissements et organismes placés sous le contrôle de l'Etat et des collectivités locales, ainsi que dans
 les entreprises ou services concédés par l'Etat, les régions, les départements et les communes.
+
+Les infractions et les manquements sont constatés par procès-verbaux, qui font foi jusqu'à preuve contraire.
 
 **Liens relatifs à cet article**
 
@@ -10872,17 +12545,35 @@ _Cité par_:
   - Code de la consommation - art. L215-4 (VT)
   - Code de la consommation - art. L215-5 (VT)
   - Code de la consommation - art. L215-7 (VT)
+  - Code de la consommation - art. L218-2 (VT)
   - Code rural - art. L214-10 (V)
   - Code rural - art. L914-10 (T)
   - Code rural ancien - art. 276-7 (Ab)
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 26 () JORF 6 octobre 2006
+  - Loi n°2014-344 du 17 mars 2014 - art. 83
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-15 (V)
+  - Code de la consommation - art. L512-10 (M)
+  - Code de la consommation - art. L512-11 (V)
+  - Code de la consommation - art. L512-14 (V)
+  - Code de la consommation - art. L512-2 (V)
+  - Code de la consommation - art. L512-23 (V)
+  - Code de la consommation - art. L512-5 (V)
+  - Code de la consommation - art. L512-6 (V)
+  - Code de la consommation - art. L512-8 (V)
+  - Code de la consommation - art. L512-9 (V)
 
 
 ###### Article L215-3-1
@@ -10890,26 +12581,45 @@ _Modifié par_:
 Les agents mentionnés à l'article L. 215-1 peuvent se communiquer spontanément les informations et documents détenus ou
 recueillis dans l'exercice de leurs missions respectives en matière de conformité ou de sécurité des produits. 
 
+Ces informations et documents peuvent être communiqués, pour l'exécution de leurs missions respectives en matière de
+conformité ou de sécurité des produits : 
+
+1° A l'autorité et à l'institut mentionnés à l'article L. 592-38 du code de l'environnement ; 
+
+2° Aux agents relevant du ministre chargé des sports mentionnés à l'article L. 232-11 du code du sport.
+
 Sans préjudice des dispositions de l'article 50 du règlement (CE) du 28 janvier 2002 susvisé relatives au système d'alerte
 rapide, ces informations et documents peuvent être communiqués à la Commission des Communautés européennes ou aux autorités
 des autres Etats membres de l'Union européenne compétentes pour contrôler la conformité des produits à l'obligation générale
 de sécurité ou l'application de la réglementation dans le domaine des denrées alimentaires ou des aliments pour animaux, dans
 l'exercice de leurs missions de surveillance du marché.
 
+Les informations et documents recueillis dans les conditions prévues au premier alinéa peuvent être communiqués à l'agence
+mentionnée à l'article L. 1313-1 du code de la santé publique afin qu'elle procède à toute évaluation et expertise relevant
+de son champ de compétence.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+  - Loi n°2014-344 du 17 mars 2014 - art. 84
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L215-1 (V)
+  - Code de la consommation - art. L215-1
   - Règlement 178-2002 CE 2002-01-28 art. 50
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-20 (V)
 
 
 ###### Article L215-3-2
@@ -10947,6 +12657,79 @@ _Nouveaux textes_:
 _Cite_:
 
   - Règlement 1-2003 CE 2002-12-16
+
+
+###### Article L215-3-3
+
+Lorsqu'ils recherchent ou constatent une infraction ou un manquement au présent livre, les agents mentionnés au I de
+l'article L. 215-1 sont habilités à relever l'identité de la personne qu'ils contrôlent. Si celle-ci refuse ou se trouve dans
+l'impossibilité de justifier de son identité, ils en rendent compte immédiatement à tout officier de police judiciaire
+territorialement compétent, qui peut alors procéder à une vérification d'identité dans les conditions prévues à l'article
+78-3 du code de procédure pénale. En ce cas, le délai prévu au troisième alinéa du même article 78-3 court à compter du
+relevé d'identité. 
+
+Ils peuvent recourir à toute personne qualifiée, désignée par l'autorité administrative dont ils dépendent. Cette personne
+peut les accompagner lors de leurs contrôles. Elle peut prendre connaissance de tout document ou élément nécessaire à la
+réalisation de sa mission ou de son expertise. Elle ne peut effectuer aucun acte de procédure pénale ou de police
+administrative. Elle ne peut pas utiliser les informations dont elle prend connaissance à cette occasion pour la mise en
+œuvre des pouvoirs de contrôle dont elle dispose, le cas échéant, en vertu d'autres dispositions législatives ou
+réglementaires. Elle ne peut, sous les peines prévues à l'article 226-13 du code pénal, divulguer les informations dont elle
+a eu connaissance dans ce cadre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 104
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-1
+  - Code pénal - art. 226-13
+  - Code de procédure pénale - art. 78-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-13 (V)
+
+
+###### Article L215-3-4
+
+I.-Lorsque l'établissement de la preuve de l'infraction ou du manquement en dépend et qu'elle ne peut être établie autrement,
+les agents mentionnés au I de l'article L. 215-1 peuvent différer le moment où ils déclinent leur qualité au plus tard
+jusqu'à la notification à la personne contrôlée de la constatation de l'infraction ou du manquement. 
+
+II.-Pour le contrôle de la vente de biens et de la fourniture de services sur internet, les agents mentionnés au I du présent
+article peuvent faire usage d'une identité d'emprunt. 
+
+Un décret en Conseil d'Etat précise les conditions dans lesquelles ils procèdent à leurs constatations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 104
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-16 (V)
+  - Code de la consommation - art. L512-7 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R215-3-1 (Ab)
 
 
 ###### Article L215-4
@@ -11015,7 +12798,7 @@ _Anciens textes_:
   - Loi n°1905-08-01 art. 11 3° et 4°
 
 
-##### Section 3 : Mesures d'urgence<a id=79></a>
+##### Section 3 : Mesures d'urgence<a id=86></a>
 
 ###### Article L215-5
 
@@ -11219,7 +13002,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L512-37 (V)
 
 
-##### Section 4 : Expertises<a id=80></a>
+##### Section 4 : Expertises<a id=87></a>
 
 ###### Article L215-9
 
@@ -11227,86 +13010,120 @@ Les essais et analyses effectués dans le cadre de la recherche et de la constat
 contradictoires et le prix des échantillons dont la non-conformité à la réglementation n'a pas été établie est remboursé
 d'après leur valeur le jour du prélèvement.
 
+Les rapports d'essai ou d'analyse peuvent être transmis aux personnes concernées.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°1905-08-01 du 1 août 1905 - art. 12 (Ab)
-  - Loi n°1905-08-01 art. 12
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+  - Loi n°2014-344 du 17 mars 2014 - art. 85
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Ordonnance n°2016-462 du 14 avril 2016 - art. 1
+  - Code de la consommation - art. L215-10 (VT)
   - Code de la consommation - art. L215-11 (V)
   - Code de la santé publique - art. L1413-8 (V)
   - Code de la santé publique - art. R5080 (M)
   - Code rural - art. L251-18 (M)
   - Code rural ancien - art. 363-1 (Ab)
 
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-23 (V)
+  - Code de la consommation - art. L512-24 (V)
+  - Code de la consommation - art. L512-39 (V)
+
 
 ###### Article L215-10
 
-Le procureur de la République, s'il estime, à la suite soit des procès-verbaux ou des rapports des agents visés à l'article
-L. 215-1, soit du rapport du laboratoire et, au besoin, après enquête préalable, qu'une poursuite doit être engagée ou une
-information ouverte, saisit, suivant le cas, le tribunal ou le juge d'instruction. 
+Lorsque, sur le fondement d'essais ou d'analyses effectués dans le cadre de la recherche et de la constatation des
+infractions prévues au présent livre, les agents mentionnés à l'article L. 215-1 constatent par procès-verbal une de ces
+infractions, ils transmettent le rapport d'essai ou d'analyse à l'auteur présumé de l'infraction. Ils l'avisent qu'il dispose
+d'un délai de trois jours francs à compter de la réception du rapport pour leur indiquer s'il souhaite présenter ses
+observations au procureur de la République et s'il sollicite la mise en œuvre de l'expertise contradictoire prévue à
+l'article L. 215-9.
 
-S'il y a lieu à expertise, celle-ci est ordonnée et exécutée selon les prescriptions et dans les formes prévues aux articles
-156 à 169 du code de procédure pénale, sous les réserves ci-après.
+Si, dans le délai mentionné au premier alinéa du présent article, l'auteur présumé de l'infraction leur indique qu'il
+souhaite présenter ses observations au procureur de la République et qu'il sollicite la mise en œuvre de l'expertise
+contradictoire prévue à la présente section, les agents mentionnés à l'article L. 215-1 en informent le procureur de la
+République lorsqu'ils lui transmettent le procès-verbal.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+  - Loi n°2014-344 du 17 mars 2014 - art. 86
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L215-1 (V)
-  - Code de procédure pénale - art. 156 (V)
+  - Code de la consommation - art. L215-1
+  - Code de la consommation - art. L215-9 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-40 (V)
 
 _Anciens textes_:
 
   - Décret n°1919-01-22 du 22 janvier 1919 - art. 24 (Ab)
-  - Décret n°1919-01-22 art. 24
 
 
 ###### Article L215-11
 
-Dans le cas où la présomption de fraude ou de falsification résulte de l'analyse faite au laboratoire, l'auteur présumé de la
-fraude ou de la falsification est avisé, par le procureur de la République, qu'il peut prendre communication du rapport du
-laboratoire et qu'un délai de trois jours francs lui est imparti pour présenter ses observations et pour faire connaître s'il
-réclame l'expertise contradictoire prévue à l'article L. 215-9.
+Le procureur de la République, s'il estime, au vu des procès-verbaux dressés par les agents mentionnés à l'article L. 215-1
+ou du rapport d'essai ou d'analyse et, au besoin, après enquête préalable, que des poursuites doivent être engagées ou une
+information ouverte, saisit, suivant le cas, le tribunal ou le juge d'instruction. 
+
+S'il y a lieu à expertise, celle-ci est ordonnée et exécutée selon les prescriptions et dans les formes prévues aux articles
+156 à 169 du code de procédure pénale, sous les réserves mentionnées aux articles de la présente section.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1919-01-22 art. 25
-  - Décret n°1919-01-22 du 22 janvier 1919 - art. 25 (Ab)
-
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2014-344 du 17 mars 2014 - art. 86
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L215-9 (V)
+  - Code de la consommation - art. L215-1
+  - Code de procédure pénale - art. 156
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-41 (V)
+
+_Anciens textes_:
+
+  - Décret n°1919-01-22 du 22 janvier 1919 - art. 25 (Ab)
 
 
 ###### Article L215-12
@@ -11314,13 +13131,14 @@ _Cite_:
 Lorsque l'expertise a été réclamée ou lorsqu'elle a été décidée par le procureur de la République ou la juridiction
 d'instruction ou de jugement, deux experts sont désignés ; l'un est nommé par le procureur de la République ou la
 juridiction, l'autre est choisi par l'intéressé et nommé par le procureur de la République ou la juridiction dans les
-conditions prévues par l'article 157 du code de procédure pénale.
+conditions prévues par l'article 157 du code de procédure pénale. 
 
 A titre exceptionnel, l'intéressé peut choisir un expert en dehors des listes prévues au premier alinéa de l'article 157
-susmentionné. Son choix est subordonné à l'agrément du procureur de la République ou de la juridiction. 
+susmentionné. Son choix est subordonné à l'agrément du procureur de la République ou de la juridiction.
 
-Le directeur du laboratoire qui a fait l'analyse peut être désigné dans les conditions fixées aux premier et deuxième
-alinéas, même lorsqu'il ne figure pas sur les listes prévues à l'article 157, premier alinéa, du code de procédure pénale. 
+Un agent exerçant sa fonction au sein d'un laboratoire d'Etat peut être désigné dans les conditions fixées aux premier et
+deuxième alinéas, même lorsqu'il ne figure pas sur les listes prévues à l'article 157, premier alinéa, du code de procédure
+pénale. 
 
 Pour la désignation de l'expert, un délai est imparti par le procureur de la République ou la juridiction à l'intéressé, qui
 a toutefois le droit de renoncer explicitement à cette désignation et de s'en rapporter aux conclusions de l'expert désigné
@@ -11333,12 +13151,21 @@ par le procureur de la République ou la juridiction.
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 56
+  - Loi n°2014-344 du 17 mars 2014 - art. 138
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
+  - Code de la consommation - art. L215-13 (VT)
   - Code de la consommation - art. R215-16 (Ab)
   - Code de la consommation - art. R215-17 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-42 (V)
 
 _Anciens textes_:
 
@@ -11346,7 +13173,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de procédure pénale - art. 157 (V)
+  - Code de procédure pénale - art. 157
 
 
 ###### Article L215-13
@@ -11443,20 +13270,29 @@ _Cite_:
 ###### Article L215-15
 
 Lorsqu'un produit est rapidement altérable ou lorsqu'il s'agit d'un objet ou d'une marchandise qui, en raison de sa valeur,
-de sa nature ou de la trop faible quantité du produit, ne peut, sans inconvénient, faire l'objet d'un prélèvement en trois
-échantillons, le procureur de la République ou la juridiction commet immédiatement les experts, dont celui qui est indiqué
-par l'intéressé, et prend toutes mesures pour que les experts se réunissent d'urgence. L'examen commence à la diligence de
-l'expert le plus prompt et les experts concluent sur les constatations ainsi faites.
+de sa nature ou de la trop faible quantité du produit, ne peut, sans inconvénient, faire l'objet d'un prélèvement en
+plusieurs échantillons et que la contre-expertise ne peut être réalisée sur l'échantillon  utilisé, le procureur de la
+République ou la juridiction commet immédiatement les experts, dont celui qui est indiqué par l'intéressé, et prend toutes
+mesures pour que les experts se réunissent d'urgence. L'examen commence à la diligence de l'expert le plus prompt et les
+experts concluent sur les constatations ainsi faites.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 1 () JORF 10 juillet 2004
+  - Loi n°2014-344 du 17 mars 2014 - art. 87
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-47 (V)
 
 _Cité par_:
 
@@ -11465,7 +13301,6 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Décret n°1919-01-22 art. 29
   - Décret n°1919-01-22 du 22 janvier 1919 - art. 29 (Ab)
 
 
@@ -11502,14 +13337,14 @@ _Cite_:
 
 ###### Article L215-17
 
-En matière de contrôle bactériologique ou de pureté biologique, exception faite du cas où l'intéressé a déclaré s'en
-rapporter à l'expert unique, désigné par le procureur de la République ou le juge d'instruction, ce dernier commet deux
-experts à l'expertise de l'échantillon prélevé. 
+En matière de contrôle bactériologique ou de pureté biologique, le procureur de la République ou le juge d'instruction commet
+deux experts à l'expertise de l'échantillon prélevé, exception faite du cas où l'intéressé a déclaré s'en rapporter à
+l'expert unique désigné dans les mêmes conditions. 
 
 Le premier de ces experts est choisi parmi les directeurs de laboratoires compétents. 
 
-Le second expert, commis par le procureur de la République ou le juge d'instruction, est l'expert ou son suppléant choisi par
-l'intéressé dans la discipline concernée sur les listes prévues à l'article 157 du code de procédure pénale.
+Le second expert est l'expert ou son suppléant choisi par l'intéressé dans la discipline concernée sur les listes prévues à
+l'article 157 du code de procédure pénale.
 
 Les deux experts procèdent en commun, dans le laboratoire auquel l'échantillon a été remis, à l'examen de cet échantillon. 
 
@@ -11522,7 +13357,16 @@ contradictoire.
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 56
+  - Loi n°2014-344 du 17 mars 2014 - art. 138
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-49 (Ab)
+  - Code de la consommation - art. L531-3 (V)
 
 _Cité par_:
 
@@ -11534,10 +13378,198 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de procédure pénale - art. 157 (V)
+  - Code de procédure pénale - art. 157
 
 
-#### Chapitre VI : Dispositions communes<a id=81></a>
+##### Section 5 : Opérations de visite et de saisie 
+et commissions rogatoires<a id=88></a>
+
+###### Article L215-18
+
+I. ― Pour la recherche et la constatation des infractions au présent livre, les agents de la concurrence, de la consommation
+et de la répression des fraudes ayant au moins le grade de contrôleur peuvent, sur demande du ministre chargé de l'économie,
+procéder à des opérations de visite et de saisie en tous lieux. 
+
+II. ― Chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal de grande
+instance dans le ressort duquel sont situés les lieux à visiter. Lorsque ces lieux sont situés dans le ressort de plusieurs
+juridictions et qu'une action simultanée doit être menée dans chacun d'eux, une ordonnance unique peut être délivrée par l'un
+des juges des libertés et de la détention compétents. 
+
+Le juge vérifie que la demande d'autorisation qui lui est soumise est fondée. Cette demande doit comporter tous les éléments
+d'information en possession de l'administration de nature à justifier la visite. Il désigne le chef du service qui doit
+nommer les officiers de police judiciaire chargés d'assister aux opérations, de le tenir informé de leur déroulement et
+d'apporter leur concours en procédant aux réquisitions nécessaires. 
+
+Le procureur de la République territorialement compétent est, préalablement à la saisine du juge des libertés et de la
+détention, informé par l'administration du projet d'opérations mentionnées au I et peut s'y opposer. 
+
+III. ― La visite et les saisies s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. Lorsqu'elles ont
+lieu en dehors du ressort de sa juridiction, il délivre une commission rogatoire pour exercer ce contrôle au juge des
+libertés et de la détention du tribunal de grande instance dans le ressort duquel s'effectue la visite. 
+
+Le juge peut se rendre dans les locaux visités pendant l'intervention. A tout moment, il peut décider la suspension ou
+l'arrêt de la visite. 
+
+IV. ― Les opérations de visite et de saisie ne peuvent être commencées ni avant 6 heures, ni après 21 heures. 
+
+Toutefois, les agents mentionnés au I peuvent, lorsque les nécessités de l'enquête l'exigent, procéder à ces opérations en
+dehors des heures mentionnées au premier alinéa du présent IV dans les lieux utilisés à des fins professionnelles et dans les
+lieux d'exécution d'une prestation de services, sous réserve que l'ordonnance délivrée par le juge des libertés et de la
+détention le prévoie expressément et que ces lieux ne soient pas également à usage d'habitation. 
+
+V. ― La visite est effectuée en présence de l'occupant des lieux ou de son représentant. L'occupant des lieux peut désigner
+un ou plusieurs représentants pour assister à la visite et signer le procès-verbal. En cas d'impossibilité, l'officier de
+police judiciaire requiert deux témoins choisis en dehors des personnes relevant de son autorité ou de celle de
+l'administration de la concurrence, de la consommation et de la répression des fraudes. 
+
+L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou à son représentant, qui
+en reçoit copie intégrale contre récépissé ou émargement au procès-verbal. L'ordonnance mentionne que l'occupant des lieux ou
+son représentant a la faculté de faire appel au conseil de son choix. L'exercice de cette faculté n'entraîne pas la
+suspension des opérations de visite et de saisie. 
+
+En l'absence de l'occupant des lieux, l'ordonnance est notifiée après les opérations par lettre recommandée avec demande
+d'avis de réception. Il en va de même lorsqu'il n'est pas procédé à la visite de l'un des lieux visés par l'ordonnance. La
+notification est réputée faite à la date de réception figurant sur l'avis. 
+
+Au cours de la visite, les agents mentionnés au I peuvent procéder à la saisie de tous objets, documents et supports
+d'information utiles aux besoins de l'enquête. Ils peuvent prélever des échantillons. Ils peuvent également procéder à la
+pose de scellés sur tous locaux commerciaux, objets, documents et supports d'information, dans la limite de la durée de la
+visite de ces locaux. 
+
+Les agents mentionnés au I, l'occupant des lieux ou son représentant ainsi que l'officier de police judiciaire peuvent seuls
+prendre connaissance des documents et des données contenues dans tout support d'information avant leur saisie. 
+
+Tous objets, documents et supports d'information saisis sont inventoriés et placés sous scellés. 
+
+Les agents mentionnés au I peuvent procéder au cours de la visite à des auditions de l'occupant des lieux, de son
+représentant ou de toute autre personne, en vue de recueillir les informations ou explications utiles aux besoins de
+l'enquête. 
+
+Lorsque la visite est effectuée dans le cabinet d'un avocat ou à son domicile, dans les locaux d'une entreprise de presse ou
+de communication audiovisuelle, dans le cabinet d'un médecin, d'un notaire ou d'un huissier, les articles 56-1,56-2 ou 56-3
+du code de procédure pénale, selon le cas, sont applicables. 
+
+Les originaux du procès-verbal et de l'inventaire des objets, documents et supports d'information saisis sont transmis au
+juge qui a ordonné la visite. Une copie en est remise à l'occupant des lieux ou à son représentant. Le cas échéant, la copie
+de ces documents est également adressée, par lettre recommandée avec demande d'avis de réception, aux personnes mises en
+cause au moyen de pièces saisies au cours de l'opération. 
+
+VI. ― La personne à l'encontre de laquelle l'ordonnance mentionnée au II a été prise peut en interjeter appel devant le
+premier président de la cour d'appel dans le ressort de laquelle le juge a autorisé la mesure, suivant les règles prévues au
+code de procédure pénale. L'appel est formé par déclaration au greffe du tribunal de grande instance dans un délai de dix
+jours à compter de la notification de l'ordonnance. Il n'est pas suspensif. L'ordonnance du premier président de la cour
+d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par le code de procédure pénale. Les pièces
+saisies sont conservées jusqu'à ce qu'une décision soit devenue définitive. 
+
+Le déroulement des opérations de visite et de saisie peut faire l'objet d'un recours devant le premier président de la cour
+d'appel dans le ressort de laquelle le juge a autorisé ces dernières, suivant les règles prévues par le code de procédure
+pénale. La personne à l'encontre de laquelle l'ordonnance mentionnée au II a été prise et les personnes mises en cause au
+moyen de pièces saisies au cours de ces opérations peuvent former ce recours. Ce dernier est formé par déclaration au greffe
+du tribunal de grande instance dans un délai de dix jours à compter de la remise ou de la réception du procès-verbal et de
+l'inventaire ou, pour les personnes n'ayant pas fait l'objet de visite et de saisie et qui sont mises en cause, à compter de
+la date à laquelle elles ont reçu notification du procès-verbal et de l'inventaire. Le recours n'est pas suspensif.
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
+le code de procédure pénale. Les pièces saisies sont conservées jusqu'à ce qu'une décision soit devenue définitive.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 106
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-52 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R215-24 (Ab)
+
+
+###### Article L215-19
+
+Des fonctionnaires de catégorie A de la concurrence, de la consommation et de la répression des fraudes, spécialement
+habilités à cet effet par le ministre de la justice, sur la proposition du ministre chargé de l'économie, peuvent recevoir
+des juges d'instruction des commissions rogatoires pour rechercher et constater les infractions prévues aux sections 1 et 2
+du chapitre III du présent titre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 106
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-4 (M)
+
+
+##### Section 6 : Actions juridictionnelles<a id=89></a>
+
+###### Article L215-20
+
+En cas d'infraction ou de manquement au présent livre, l'autorité administrative chargée de la concurrence et de la
+consommation peut demander à l'autorité judiciaire, comme prévu au 8 du I de l'article 6 de la loi n° 2004-575 du 21 juin
+2004 pour la confiance dans l'économie numérique, de prescrire en référé ou sur requête à toute personne mentionnée au 2 du
+même I ou, à défaut, à toute personne mentionnée au 1 dudit I toutes mesures proportionnées propres à prévenir un dommage ou
+à faire cesser un dommage causé par le contenu d'un service de communication au public en ligne.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 6
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 106
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L524-3 (M)
+
+_Cité par_:
+
+  - Code de la consommation - art. R215-25 (Ab)
+  - Code de la consommation - art. R215-26 (Ab)
+
+
+###### Article L215-21
+
+Pour l'application du présent livre et dans des conditions fixées par décret en Conseil d'Etat, l'autorité administrative
+chargée de la concurrence et de la consommation peut, devant les juridictions civiles et selon les règles qui y sont
+applicables, intervenir, déposer des conclusions et les présenter à l'audience. Elle peut également produire des procès-
+verbaux et des rapports d'enquête. Devant les juridictions pénales, l'autorité administrative chargée de la concurrence et de
+la consommation peut, à la demande du tribunal, présenter ses observations à l'audience.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 106
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L525-1 (V)
+
+
+#### Chapitre VI : Dispositions communes<a id=90></a>
 
 ###### Article L216-1
 
@@ -11704,38 +13736,6 @@ _Cite_:
   - Code pénal
 
 
-###### Article L216-5
-
-Les personnes reconnues coupables des infractions au présent livre et aux textes pris pour son application remboursent, à la
-demande de l'autorité administrative, les frais de prélèvements, de transport, d'analyses ou d'essais exposés pour la
-recherche et la constatation de ces infractions.
-
-Les modalités d'application du présent article sont fixées par décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1905-08-01 art. 9
-  - Loi n°1905-08-01 du 1 août 1905 - art. 10 (Ab)
-
-_Cité par_:
-
-  - Loi du 20 février 1928 - art. unique (V)
-
-_Codifié par_:
-
-  - Loi n°93-949 du 26 juillet 1993
-
-_Modifié par_:
-
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 2 () JORF 10 juillet 2004
-
-_Abrogé par_:
-
-  - Loi n°2014-344 du 17 mars 2014 - art. 100
-
-
 ###### Article L216-6
 
 En cas d'action pour tromperie ou tentative de tromperie sur l'origine des marchandises, des denrées alimentaires ou des
@@ -11807,8 +13807,8 @@ _Nouveaux textes_:
 ###### Article L216-8
 
 Le tribunal qui prononce une condamnation pour fraude et falsification dangereuse ou nuisible à la santé de l'homme ou de
-l'animal en application des articles L. 213-1, L. 213-2, L. 213-3, L. 213-4 et L. 214-1 (7°), outre l'affichage et la
-publication prévus à l'article L. 216-3 peut ordonner aux frais du condamné : 
+l'animal en application des articles L. 213-1, L. 213-2, L. 213-2-1, L. 213-3, L. 213-4 et L. 214-1 (7°), outre l'affichage
+et la publication prévus à l'article L. 216-3 peut ordonner aux frais du condamné : 
 
 1° La diffusion d'un ou plusieurs messages, dans les conditions et sous les peines prévues à l'article L. 121-4, informant le
 public de cette décision ; 
@@ -11834,14 +13834,27 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 71
+  - Loi n°2014-344 du 17 mars 2014 - art. 131
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L121-4 (V)
-  - Code de la consommation - art. L213-1 (V)
-  - Code de la consommation - art. L216-3 (V)
-  - Code pénal - art. 131-27 (V)
+  - Code de la consommation - art. L121-4 (VT)
+  - Code de la consommation - art. L213-1
+  - Code de la consommation - art. L213-2 (VT)
+  - Code de la consommation - art. L216-3
+  - Code pénal - art. 131-27
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L451-6 (V)
+  - Code de la consommation - art. L451-7 (V)
+  - Code de la consommation - art. L452-2 (V)
+  - Code de la consommation - art. L452-3 (V)
+  - Code de la consommation - art. L454-5 (V)
 
 _Cité par_:
 
@@ -11942,6 +13955,9 @@ Pour les contraventions prévues au présent livre, l'autorité administrative c
 droit, tant que l'action publique n'a pas été mise en mouvement, de transiger, après accord du procureur de la République,
 selon les modalités fixées par décret en Conseil d'Etat.
 
+Une copie du procès-verbal de constatation de l'infraction est jointe à la proposition de transaction adressée à l'auteur de
+l'infraction.
+
 L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
 prescription de l'action publique.
 
@@ -11952,11 +13968,22 @@ lui de l'acceptation de la transaction.
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-1086 du 1 septembre 2005 - art. 1 () JORF 2 septembre 2005
+  - Loi n°2014-344 du 17 mars 2014 - art. 88
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L523-1 (M)
+  - Code de la consommation - art. L523-2 (V)
+  - Code de la consommation - art. L523-3 (V)
+  - Code de la consommation - art. L523-4 (V)
 
 _Cité par_:
 
@@ -11993,7 +14020,7 @@ _Cite_:
   - Règlement CE 882/2004 2004-04-29 art. 28 Parlement et Conseil
 
 
-#### Chapitre VII : Dispositions particulières<a id=82></a>
+#### Chapitre VII : Dispositions particulières<a id=91></a>
 
 ###### Article L217-1
 
@@ -12189,6 +14216,47 @@ _Nouveaux textes_:
   - Code de la consommation - art. L451-16 (V)
 
 
+###### Article L217-5
+
+Tout opérateur ayant connaissance, après avoir acquis ou cédé des produits, de la non-conformité de tout ou partie de ceux-ci
+à la réglementation portant sur une qualité substantielle est tenu d'en informer sans délai, par tous moyens dont il peut
+justifier, celui qui lui a fourni ces produits et ceux à qui il les a cédés. 
+
+Le fait pour l'opérateur de ne pas procéder à cette information est puni d'un an d'emprisonnement et de 150 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Modifié par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 89
+
+_Cité par_:
+
+  - Décret n°2015-1417 du 4 novembre 2015 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L217-2 (VT)
+  - Code de la consommation - art. L217-3 (VT)
+  - Code pénal
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L411-2 (V)
+
+_Anciens textes_:
+
+  - Loi n°1928-06-24 du 24 juin 1928 - art. 4 (Ab)
+
+
 ###### Article L217-6
 
 Quiconque, sur des produits naturels ou fabriqués, détenus ou transportés en vue de la vente, mis en vente ou vendus en
@@ -12318,9 +14386,9 @@ _Abrogé par_:
 
 ###### Article L217-10
 
-Quiconque aura fait obstacle à l'exercice des fonctions des agents de la concurrence, de la consommation et de la répression
-des fraudes sera passible des peines prévues par les articles L. 213-1 et L. 216-3 du présent code, sans préjudice des peines
-prévues en cas de rébellion par les articles 433-6 à 433-10 du code pénal. 
+Quiconque fait obstacle à l'exercice des fonctions des agents mentionnés au I de l'article L. 215-1 est puni des peines
+prévues par les articles L. 213-1 et L. 216-3 du présent code, sans préjudice des peines prévues en cas de rébellion par les
+articles 433-6 à 433-10 du code pénal. 
 
 Les dispositions de l'article L. 216-4 sont applicables aux infractions visées au présent article.
 
@@ -12354,77 +14422,109 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 94
-
-_Cite_:
-
-  - Code de la consommation - art. L213-1 (V)
-  - Code de la consommation - art. L216-3 (V)
-  - Code de la consommation - art. L216-4 (V)
-  - Code pénal - art. 433-6 (V)
-
-
-###### Article L217-10-1
-
-Les personnes physiques déclarées coupables des infractions prévues aux articles L. 217-1 à L. 217-10 encourent également à
-titre de peines complémentaires l'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, soit
-d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de
-l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger,
-d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour
-le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice
-peuvent être prononcées cumulativement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2008-776 du 4 août 2008 - art. 71
+  - Loi n°2014-344 du 17 mars 2014 - art. 90
 
 _Abrogé par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 131
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L217-1
-  - Code pénal - art. 131-27
+  - Code de la consommation - art. L213-1
+  - Code de la consommation - art. L216-3 (VT)
+  - Code de la consommation - art. L216-4 (VT)
+  - Code pénal - art. 433-6
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L512-4 (V)
+  - Code de la consommation - art. L531-1 (V)
 
 
 ###### Article L217-11
 
-Est puni de quatre ans d'emprisonnement et de 75 000 Euros d'amende, le fait, pour un exploitant, de ne pas mettre en oeuvre
-les procédures de retrait ou de rappel prévues par les articles 19 ou 20 du règlement (CE) n° 178/2002 du Parlement européen
-et du Conseil du 28 janvier 2002, alors qu'il a connaissance qu'un produit ou une denrée alimentaire, autre qu'un produit
-d'origine animale ou une denrée en contenant, qu'il a importé, produit, transformé ou distribué est préjudiciable à la santé
-humaine ou qu'un aliment pour animaux autre qu'un aliment pour animaux d'origine animale ou contenant des produits d'origine
-animale qu'il a importé, produit, transformé ou distribué est dangereux.
+Est puni de cinq ans d'emprisonnement et d'une amende de 600 000 €, dont le montant peut être porté, de manière proportionnée
+aux avantages tirés du manquement, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois derniers chiffres
+d'affaires annuels connus à la date des faits, le fait, pour un exploitant, de ne pas mettre en oeuvre les procédures de
+retrait ou de rappel prévues par les articles 19 ou 20 du règlement (CE) n° 178/2002 du Parlement européen et du Conseil du
+28 janvier 2002, alors qu'il a connaissance qu'un produit ou une denrée alimentaire, autre qu'un produit d'origine animale ou
+une denrée en contenant, qu'il a importé, produit, transformé ou distribué est préjudiciable à la santé humaine ou qu'un
+aliment pour animaux autre qu'un aliment pour animaux d'origine animale ou contenant des produits d'origine animale qu'il a
+importé, produit, transformé ou distribué est dangereux.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-1224 du 5 octobre 2006 - art. 53 () JORF 6 octobre 2006
+  - Loi n°2014-344 du 17 mars 2014 - art. 131
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L452-5 (M)
 
 _Cite_:
 
   - Règlement 178/2002 2002-01-28 art. 19, art. 20 Parlement et Conseil
 
 
-#### Chapitre VIII : Mesures de police administrative<a id=83></a>
+###### Article L217-12
 
-##### Section 1 : Dispositions générales<a id=84></a>
+Les personnes physiques déclarées coupables des infractions prévues au présent chapitre encourent également à titre de peines
+complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction
+publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle
+l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou
+de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une
+entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée
+de cinq ans. Elles peuvent être prononcées cumulativement. 
 
-##### Sous-section 1 : Pouvoirs d'enquête.<a id=85></a>
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du même code, des
+infractions prévues au présent chapitre encourent, outre l'amende suivant les modalités prévues à l'article 131-38 dudit
+code, les peines prévues aux 2° à 9° de l'article 131-39 du même code. L'interdiction mentionnée au 2° du même article 131-39
+porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise. Les peines prévues
+aux 2° à 7° dudit article ne peuvent être prononcées que pour une durée de cinq ans au plus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 131
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L451-15 (V)
+  - Code de la consommation - art. L452-6 (V)
+  - Code de la consommation - art. L531-2 (V)
+
+_Cite_:
+
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-38
+  - Code pénal - art. 131-39
+
+
+#### Chapitre VIII : Mesures de police administrative<a id=92></a>
+
+##### Section 1 : Dispositions générales<a id=93></a>
+
+##### Sous-section 1 : Pouvoirs d'enquête.<a id=94></a>
 
 ###### Article L218-1
 
 Les agents mentionnés à l'article L. 215-1 peuvent pénétrer dans les lieux utilisés à des fins professionnelles et dans les
-lieux d'exécution d'une prestation de service, en présence de l'occupant des lieux ou de son représentant, pour y prélever
-des échantillons et recueillir auprès du professionnel, qui est tenu de les fournir, tous les éléments d'information
+lieux d'exécution d'une prestation de service pour y prélever des échantillons et recueillir tous les éléments d'information
 permettant de déterminer les caractéristiques des produits ou des services ou d'apprécier le caractère dangereux ou non d'un
 produit ou d'un service. 
 
@@ -12435,19 +14535,35 @@ conditionnement, de transport ou de commercialisation.
 Lorsque ces lieux sont à la fois à usage professionnel et à usage d'habitation, ces contrôles ne peuvent être effectués que
 de 8 heures à 20 heures et avec l'autorisation du juge des libertés et de la détention si l'occupant s'y oppose.
 
+Les agents peuvent exiger la communication et obtenir ou prendre copie par tout moyen et sur tout support des documents de
+toute nature, entre quelques mains qu'ils se trouvent, propres à faciliter l'accomplissement de leur mission et la mise à
+leur disposition des moyens indispensables pour effectuer leurs vérifications. 
+
+Pour le contrôle des opérations faisant appel à l'informatique, ils ont accès aux logiciels et aux données stockées ainsi
+qu'à la restitution en clair des informations propres à faciliter l'accomplissement de leurs missions. Ils peuvent en
+demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du
+contrôle. 
+
+Ils peuvent recueillir, sur place ou sur convocation, tout renseignement, toute justification ou tout document nécessaires
+aux contrôles.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
+  - Loi n°2014-344 du 17 mars 2014 - art. 91
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L215-1 (V)
+  - Code de la consommation - art. L215-1
 
 _Cité par_:
 
@@ -12455,6 +14571,17 @@ _Cité par_:
   - Code de la consommation - art. L218-1-2 (VT)
   - Code de la consommation - art. R218-1 (Ab)
   - Code rural et de la pêche maritime - art. L230-5 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-14 (V)
+  - Code de la consommation - art. L512-10 (M)
+  - Code de la consommation - art. L512-11 (V)
+  - Code de la consommation - art. L512-23 (V)
+  - Code de la consommation - art. L512-5 (V)
+  - Code de la consommation - art. L512-6 (V)
+  - Code de la consommation - art. L512-8 (V)
+  - Code de la consommation - art. L512-9 (V)
 
 
 ###### Article L218-1-1
@@ -12486,26 +14613,164 @@ _Nouveaux textes_:
   - Code de la consommation - art. L511-3 (V)
 
 
-##### Sous-section 2 : Mesures relatives aux établissements, aux produits et aux services.<a id=86></a>
+###### Article L218-1-2
+
+Les agents mentionnés au I de l'article L. 215-1 disposent des pouvoirs d'enquête prévus à l'article L. 218-1 pour procéder
+aux contrôles des aliments pour animaux et des denrées alimentaires d'origine non animale originaires ou en provenance des
+pays tiers. 
+
+Ces contrôles sont effectués : 
+
+1° Au point d'entrée sur le territoire avant tout placement sous un régime douanier ; 
+
+2° Lorsque les aliments et denrées sont placés sous l'un des régimes douaniers suivants : 
+
+a) Le transit ; 
+
+b) L'entrepôt douanier ; 
+
+c) Le perfectionnement actif ; 
+
+d) La transformation sous douane ; 
+
+e) L'admission temporaire ; 
+
+3° Lorsqu'ils sont destinés à être introduits dans des zones franches ou entrepôts francs. 
+
+Les agents ordonnent les mesures consécutives à ces contrôles définies aux articles 19 à 21 du règlement (CE) n° 882/2004 du
+Parlement européen et du Conseil, du 29 avril 2004, relatif aux contrôles officiels effectués pour s'assurer de la conformité
+avec la législation sur les aliments pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé
+animale et au bien-être des animaux. 
+
+Un décret en Conseil d'Etat définit les modalités de prélèvement d'échantillon et de contre-analyse.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 92
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-1
+  - Code de la consommation - art. L218-1
+
+_Cité par_:
+
+  - Code de la consommation - art. L218-1-3 (VT)
+  - Code de la consommation - art. R218-2 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-16 (M)
+  - Code de la consommation - art. L511-18 (V)
+  - Code de la consommation - art. L511-19 (V)
+  - Code de la consommation - art. L511-24 (V)
+
+
+###### Article L218-1-3
+
+Les agents mentionnés au I de l'article L. 215-1 sont habilités à procéder au contrôle des matériaux et objets destinés à
+entrer en contact direct ou indirect avec des denrées alimentaires, originaires ou en provenance des pays tiers, et à
+ordonner les mesures consécutives à ces contrôles dans les conditions prévues à l'article L. 218-1-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 92
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L215-1
+  - Code de la consommation - art. L218-1-2 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-16 (M)
+  - Code de la consommation - art. L511-24 (V)
+  - Code de la consommation - art. L511-25 (V)
+
+
+###### Article L218-1-4
+
+Les                 agents de la concurrence, de la consommation et de la répression des fraudes et les agents mentionnés au
+8° de l'article L. 215-1 disposent des pouvoirs d'enquête prévus au présent livre pour procéder aux contrôles de conformité
+des fruits et légumes frais avec les normes de commercialisation prévues par le règlement (CE) n° 1580/2007 de la Commission
+du 21 décembre 2007 portant modalités d'application des règlements (CE) n° 2200/96, (CE) n° 2201/96 et (CE) n° 1182/2007 du
+Conseil dans le secteur des fruits et légumes. Ils sont également habilités à prendre les mesures consécutives à ces
+contrôles définies à l'article 20 de ce règlement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 92
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Anciens textes_:
+
+  - Code de la consommation - art. L215-2-3 (T)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L511-17 (M)
+
+
+##### Sous-section 2 : Mesures relatives aux établissements, aux produits et aux services.<a id=95></a>
 
 ###### Article L218-2
 
 Les mesures prévues à la présente sous-section sont mises en oeuvre par les agents mentionnés à l'article L. 215-1 ou prises
-par le préfet ou, à Paris, le préfet de police dans les conditions prévues par les lois qui les habilitent.
+par le préfet ou, à Paris, le préfet de police dans les conditions prévues par les lois qui les habilitent. 
+
+Les rapports d'analyse ou d'essai, avis ou autres documents justifiant les mesures, y compris ceux établis dans le cadre de
+la procédure prévue à l'article L. 215-3, peuvent être communiqués à la personne destinataire de ces mesures. 
+
+Pour l'accomplissement des missions qui leur sont confiées en application du présent chapitre, les agents mentionnés au I de
+l'article L. 215-1 peuvent recourir à toute personne qualifiée, désignée par l'autorité administrative dont ils dépendent.
+Cette personne peut les accompagner lors de leurs contrôles et prendre connaissance de tout document ou élément nécessaire à
+la réalisation de sa mission ou de son expertise. Elle ne peut effectuer aucun acte de procédure pénale ou de police
+administrative. Elle ne peut pas utiliser les informations dont elle prend connaissance à cette occasion pour la mise en
+œuvre des pouvoirs de contrôle dont elle dispose, le cas échéant, en vertu d'autres dispositions législatives ou
+réglementaires. Elle ne peut, sous les peines prévues à l'article 226-13 du code pénal, divulguer les informations dont elle
+a eu connaissance dans ce cadre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
+  - Loi n°2014-344 du 17 mars 2014 - art. 93
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L215-1 (V)
+  - Code de la consommation - art. L215-1
+  - Code de la consommation - art. L215-3 (VT)
+  - Code pénal - art. 226-13
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L521-27 (V)
+  - Code de la consommation - art. L521-4 (V)
 
 
 ###### Article L218-3
@@ -12535,65 +14800,75 @@ _Cite_:
 
 ###### Article L218-4
 
-S'il est établi qu'un lot de produits présente ou est susceptible de présenter, compte tenu de leurs conditions communes de
-production ou de commercialisation, un danger pour la santé publique ou la sécurité des consommateurs, le préfet ou, à Paris,
-le préfet de police peut ordonner une ou plusieurs des mesures suivantes : la suspension de la mise sur le marché, le
-retrait, le rappel et la destruction.
+S'il est établi que des produits ne sont pas conformes à la réglementation en vigueur ou présentent ou sont susceptibles de
+présenter, compte tenu de leurs conditions communes de production ou de commercialisation, un danger pour la santé publique
+ou la sécurité des consommateurs, le préfet ou, à Paris, le préfet de police peut ordonner une ou plusieurs des mesures
+suivantes : la suspension de la mise sur le marché, le retrait, le rappel et la destruction. 
 
-Toutefois, l'opérateur peut apporter la preuve qu'une partie des produits du lot ne présente pas de danger pour la santé
-publique ou la sécurité des consommateurs et peut, dans ce cas, être remise sur le marché. Les frais y afférents restent à la
-charge de l'opérateur.
+Toutefois, lorsque l'opérateur apporte la preuve qu'une partie des produits est conforme à la réglementation en vigueur ou ne
+présente pas de danger pour la santé publique ou la sécurité des consommateurs, il peut remettre ces produits sur le marché. 
 
-L'arrêté du préfet précise les conditions dans lesquelles les frais résultant des mesures prescrites, notamment les frais de
-transport, de stockage et de destruction sont mis à la charge de l'opérateur.
+Les frais résultant de la mise en œuvre de ces mesures sont à la charge des opérateurs désignés dans l'arrêté préfectoral. 
 
-Tout opérateur ayant acquis ou cédé un ou plusieurs éléments du lot et ayant connaissance de la décision de suspension de
-mise sur le marché, de retrait ou de rappel est tenu d'en informer celui qui a fourni les produits et ceux à qui il les a
+Tout opérateur ayant acquis ou cédé tout ou partie des produits et ayant connaissance de la décision de suspension de mise
+sur le marché, de retrait ou de rappel est tenu d'en informer celui qui lui a fourni les produits et ceux à qui il les a
 cédés.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
+  - Loi n°2014-344 du 17 mars 2014 - art. 94
 
 
 ###### Article L218-5
 
-Lorsque les agents mentionnés à l'article L. 215-1 constatent qu'un lot n'est pas conforme à la réglementation en vigueur,
-ces agents peuvent en ordonner la mise en conformité, dans un délai qu'ils fixent. Si la mise en conformité n'est pas
-possible, le préfet ou, à Paris, le préfet de police peut ordonner l'utilisation à d'autres fins, la réexpédition vers le
-pays d'origine ou la destruction des marchandises dans un délai qu'il fixe. 
+Lorsqu'il est constaté que tout ou partie des produits n'est pas conforme à la réglementation en vigueur, les agents
+mentionnés au I de l'article L. 215-1 peuvent en ordonner la mise en conformité, aux frais de l'opérateur, dans un délai
+qu'ils fixent. Si la mise en conformité n'est pas possible, le préfet ou, à Paris, le préfet de police peut ordonner
+l'utilisation à d'autres fins, la réexportation ou la destruction des marchandises dans un délai qu'il fixe. 
 
-Les frais résultant de la mise en oeuvre de ces mesures sont à la charge de l'opérateur.
+Ces mesures s'appliquent, le cas échéant, à l'ensemble des produits, y compris les éléments qui ne sont plus sous le contrôle
+direct de l'opérateur à qui elles incombent. 
+
+Les frais résultant de la mise en œuvre de ces mesures sont à la charge des opérateurs désignés dans l'arrêté préfectoral.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2004-670 du 9 juillet 2004 - art. 4 () JORF 10 juillet 2004
+  - Loi n°2014-344 du 17 mars 2014 - art. 95
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L215-1 (V)
+  - Code de la consommation - art. L215-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L521-10 (V)
+  - Code de la consommation - art. L521-11 (V)
 
 
 ###### Article L218-5-1
 
-Lorsque les agents mentionnés à l'article L. 215-1 constatent qu'une prestation de services n'est pas conforme à la
-réglementation en vigueur prise en application du présent livre, ils peuvent en ordonner la mise en conformité, dans un délai
+Lorsqu'il est constaté qu'une prestation de services n'est pas conforme à la réglementation en vigueur prise en application
+du présent livre, les agents mentionnés au I de l'article L. 215-1 peuvent en ordonner la mise en conformité, dans un délai
 qu'ils fixent. 
 
 Cette mise en conformité peut concerner les produits et équipements mis à disposition des consommateurs dans le cadre de la
-prestation de services.
+prestation de services. 
 
 En cas de danger grave ou immédiat, le préfet ou, à Paris, le préfet de police peut suspendre la prestation de services
 jusqu'à sa mise en conformité avec la réglementation en vigueur. 
@@ -12602,9 +14877,9 @@ Les frais résultant de la mise en oeuvre de ces mesures sont à la charge du pr
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2008-3 du 3 janvier 2008 - art. 38
+  - Loi n°2014-344 du 17 mars 2014 - art. 96
 
 _Cite_:
 
@@ -12613,27 +14888,142 @@ _Cite_:
 
 ###### Article L218-5-2
 
-Lorsque le responsable de la mise sur le marché national n'est pas en mesure de justifier des vérifications et contrôles
-effectués conformément à l'article L. 212-1 et qu'il existe des éléments de nature à mettre en doute la conformité du produit
-aux prescriptions en vigueur relatives à la sécurité et à la santé des personnes, le préfet ou, à Paris, le préfet de police
-peut lui enjoindre de faire procéder, dans un délai qu'il fixe, à des contrôles à ses frais par un organisme présentant des
-garanties d'indépendance, de compétence et d'impartialité. 
+Lorsqu'il existe des éléments de nature à mettre en doute la conformité du produit aux prescriptions en vigueur relatives à
+la sécurité et à la santé des personnes ou à l'obligation générale de sécurité définie à l'article L. 221-1 et que le
+responsable de la mise sur le marché national n'est pas en mesure de justifier des contrôles et vérifications effectués,
+notamment ceux mentionnés à l'article L. 212-1, afin de vérifier le respect de ces obligations, le préfet ou, à Paris, le
+préfet de police peut lui enjoindre de faire procéder, dans un délai qu'il fixe, à des contrôles à ses frais par un organisme
+présentant des garanties d'indépendance, de compétence et d'impartialité. 
 
-Lorsqu'un produit n'a pas été soumis au contrôle prescrit, le préfet ou, à Paris, le préfet de police peut faire procéder
-d'office, en lieu et place du responsable de la mise sur le marché et à ses frais, à la réalisation de ce contrôle.
+Le préfet ou, à Paris, le préfet de police peut suspendre la mise sur le marché du produit dans l'attente de la réalisation
+des contrôles. 
+
+Il peut ordonner la consignation entre les mains d'un comptable public, avant une date qu'il détermine, d'une somme
+correspondant au coût des contrôles à réaliser. La somme consignée est restituée lorsque l'opérateur a justifié des contrôles
+effectués. 
+
+A défaut de réalisation des contrôles avant l'échéance fixée, le préfet ou, à Paris, le préfet de police peut y faire
+procéder d'office aux frais de l'opérateur. La somme consignée est utilisée pour régler les dépenses ainsi engagées. 
+
+Cette somme et les éventuelles créances de l'Etat nées des contrôles effectués d'office bénéficient d'un privilège de même
+rang que celui prévu à l'article 1920 du code général des impôts. Il est procédé à leur recouvrement comme en matière de
+créances de l'Etat étrangères à l'impôt et au domaine. L'opposition formée devant le juge administratif à l'état exécutoire
+pris en application d'une mesure de consignation ordonnée par l'autorité administrative n'a pas de caractère suspensif.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 97
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L212-1 (VT)
+  - Code de la consommation - art. L221-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L521-12 (V)
+  - Code de la consommation - art. L521-13 (V)
+
+
+###### Article L218-5-3
+
+Lorsque les informations prévues au premier alinéa du I de l'article L. 221-1-2 sont insuffisantes, le préfet ou, à Paris, le
+préfet de police peut ordonner par arrêté, dans un délai qu'il fixe, qu'elles figurent sur les produits, sur leurs emballages
+ou dans les documents les accompagnant. 
+
+Les frais résultant de la mise en œuvre de ces mesures sont à la charge des opérateurs désignés dans l'arrêté préfectoral.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 90
+  - Loi n°2014-344 du 17 mars 2014 - art. 98
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L212-1
+  - Code de la consommation - art. L221-1-2
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L521-14 (V)
+  - Code de la consommation - art. L521-15 (V)
 
 
-##### Section 2 : Etablissements traitant des produits par ionisation<a id=87></a>
+###### Article L218-5-4
+
+S'il est établi qu'un produit a été mis sur le marché sans avoir été l'objet de l'autorisation, de l'enregistrement ou de la
+déclaration exigé par la réglementation applicable à ce produit, le préfet ou, à Paris, le préfet de police peut ordonner la
+suspension de sa mise sur le marché et son retrait jusqu'à la mise en conformité avec la réglementation en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 98
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L521-16 (V)
+
+
+###### Article L218-5-5
+
+Les agents habilités à constater les infractions ou manquements au présent livre ou aux textes pris pour son application
+peuvent, après une procédure contradictoire, enjoindre à un opérateur, en lui impartissant un délai raisonnable, de se
+conformer à ces dispositions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 98
+
+
+###### Article L218-5-6
+
+Sans préjudice des autres sanctions encourues, lorsque la non-conformité à la réglementation d'un produit a été établie par
+un essai ou une analyse, réalisé à la suite d'un prélèvement d'échantillon effectué en application du présent livre, le
+responsable de la mise sur le marché du produit ou, le cas échéant, toute autre personne responsable de la non-conformité
+supporte, à titre de sanction infligée par l'autorité administrative, les frais de prélèvement, de transport, d'analyse ou
+d'essai que cette autorité a exposés.
+
+Les modalités d'application du présent article, notamment le plafond de cette sanction, sont fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 99
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L531-6 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R219-1 (Ab)
+
+
+##### Section 2 : Etablissements traitant des produits par ionisation<a id=96></a>
 
 ###### Article L218-6
 
@@ -12667,7 +15057,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L414-1 (V)
 
 
-##### Section 3 : Dispositions pénales.<a id=88></a>
+##### Section 3 : Dispositions pénales.<a id=97></a>
 
 ###### Article L218-7
 
@@ -12675,7 +15065,9 @@ Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait de procéd
 sans être titulaire de l'agrément prévu à l'article L. 218-6. 
 
 Est puni d'une peine de deux ans d'emprisonnement et de 15 000 euros d'amende le fait de ne pas exécuter les mesures
-ordonnées en application des dispositions du présent chapitre. 
+ordonnées en application des dispositions du présent chapitre. Le montant de l'amende peut être porté à 30 000 € lorsque les
+produits ou services concernés par ces mesures présentent ou sont susceptibles de présenter un danger pour la santé publique
+ou la sécurité des consommateurs.
 
 Les infractions faisant l'objet des sanctions prévues au présent article sont constatées par les agents mentionnés à
 l'article L. 215-1 dans les conditions prévues au chapitre V du présent titre.
@@ -12684,17 +15076,28 @@ l'article L. 215-1 dans les conditions prévues au chapitre V du présent titre.
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 125
+  - Loi n°2014-344 du 17 mars 2014 - art. 131
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L215-1 (V)
-  - Code de la consommation - art. L218-6 (V)
+  - Code de la consommation - art. L215-1 (VT)
+  - Code de la consommation - art. L218-6 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L451-17 (V)
+  - Code de la consommation - art. L511-11 (M)
+  - Code de la consommation - art. L532-2 (V)
+  - Code de la consommation - art. L532-3 (V)
 
 
-### Titre II : Sécurité<a id=89></a>
+### Titre II : Sécurité<a id=98></a>
 
-#### Chapitre Ier : Prévention<a id=90></a>
+#### Chapitre Ier : Prévention<a id=99></a>
 
 ###### Article L221-1
 
@@ -13105,7 +15508,10 @@ _Nouveaux textes_:
 
 En cas de danger grave ou immédiat lié à une prestation de services réalisée à titre gratuit ou onéreux, le préfet ou, à
 Paris, le préfet de police prend les mesures d'urgence qui s'imposent. Si nécessaire, il peut suspendre la prestation de
-services pour une durée n'excédant pas deux mois.
+services pour une durée n'excédant pas trois mois, renouvelable dans les mêmes conditions.
+
+Il peut subordonner la reprise de la prestation de services au contrôle d'un organisme présentant des garanties
+d'indépendance, de compétence et d'impartialité, qu'il désigne. Le coût de ce contrôle est supporté par le prestataire.
 
 **Liens relatifs à cet article**
 
@@ -13115,7 +15521,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2008-3 du 3 janvier 2008 - art. 38
+  - Loi n°2014-344 du 17 mars 2014 - art. 101
 
 _Cité par_:
 
@@ -13244,34 +15650,38 @@ _Cite_:
 
 ###### Article L221-10
 
-Les décrets établis en application de l'article L. 221-3 sont pris après avis de l'Agence nationale de sécurité du médicament
-et des produits de santé ou de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et
-du travail lorsqu'ils concernent des produits entrant dans leur champ de compétence. Ces avis sont rendus publics. 
+Les décrets prévus à l'article L. 221-3 sont pris après avis de l'agence mentionnée à l'article L. 5311-1 du code de la santé
+publique lorsqu'ils concernent des produits entrant dans son champ de compétence ou après avis de l'agence mentionnée à
+l'article L. 1313-1 du même code lorsqu'ils comportent des dispositions visant à prévenir des risques sanitaires ou
+nutritionnels. Ces avis sont rendus publics. 
 
 Les arrêtés établis en application de l'article L. 221-5 sont pris selon les mêmes modalités, sauf en cas d'urgence dûment
 motivée où ils sont notifiés sans délai à l'agence compétente.
 
 **Nota:**
 
-Loi n° 2011-2012 du 29 décembre 2011 article 41 III : Les présentes dispositions entrent en vigueur à une date prévue par le
-décret pris pour leur application et au plus tard le 1er août 2012. Dès cette entrée en vigueur, l'Agence nationale de
-sécurité du médicament et des produits de santé exerce l'ensemble des droits et supporte l'ensemble des obligations de
-l'Agence française de sécurité sanitaire des produits de santé. Jusqu'à l'entrée en vigueur de ces dispositions, les
-compétences et pouvoirs que la présente loi attribue à l'Agence nationale de sécurité du médicament et des produits de santé
-sont exercés par l'Agence française de sécurité sanitaire des produits de santé.
 
-Le décret n° 2012-597 du 27 avril 2012 est entré en vigueur le 1er mai 2012.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-2012 du 29 décembre 2011 - art. 5
+  - Loi n°2014-344 du 17 mars 2014 - art. 138
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L221-3 (V)
-  - Code de la consommation - art. L221-5 (V)
+  - Code de la consommation - art. L221-3 (VT)
+  - Code de la consommation - art. L221-5
+  - Code de la santé publique - art. L1313-1
+  - Code de la santé publique - art. L5311-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R422-1 (V)
 
 _Cité par_:
 
@@ -13282,28 +15692,36 @@ _Cité par_:
 
 ###### Article L221-11
 
-Les décisions de la Commission européenne qui contiennent des dispositions qui entrent dans le champ d'application du présent
-titre, prises en application de l'article 53 du règlement (CE) n° 178/2002 du 28 janvier 2002 modifié et de l'article 13 de
-la directive 2001/95/CE du Parlement européen et du Conseil, du 3 décembre 2001, relative à la sécurité générale des
-produits, sont assimilées quant à leurs effets à des mesures d'exécution de l'article L. 221-5.
+Les mesures qui entrent dans le champ d'application du présent titre, prises par la Commission européenne en application de
+l'article 53 du règlement (CE) n° 178/2002 du 28 janvier 2002 modifié et de l'article 13 de la directive 2001/95/ CE du
+Parlement européen et du Conseil, du 3 décembre 2001, relative à la sécurité générale des produits, sont assimilées quant à
+leurs effets à des mesures d'exécution de l'article L. 221-5.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 91
+  - Loi n°2014-344 du 17 mars 2014 - art. 138
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L221-5
+  - Code de la consommation - art. L221-5 (VT)
   - Règlement 178/2002 CE 2002-01-28 art. 53
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L422-4 (T)
 
 _Cité par_:
 
   - Code de la consommation - art. R223-2 (Ab)
 
 
-#### Chapitre II : Critères d'évaluation de conformité<a id=91></a>
+#### Chapitre II : Critères d'évaluation de conformité<a id=100></a>
 
 ###### Article L222-1
 
@@ -13426,7 +15844,46 @@ _Nouveaux textes_:
   - Code de la consommation - art. L421-7 (V)
 
 
-#### Chapitre V : Dispositions diverses<a id=92></a>
+#### Chapitre III : Sanctions<a id=101></a>
+
+###### Article L223-1
+
+Est puni d'une peine de deux ans d'emprisonnement et de 30 000 € d'amende le fait de ne pas exécuter les mesures ordonnées en
+application de l'article L. 221-6.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°83-660 du 21 juillet 1983 - art. 10 (Ab)
+
+_Codifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993
+
+_Modifié par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 131
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L221-6 (VT)
+
+_Cité par_:
+
+  - Code de la consommation - art. L224-2 (T)
+  - Code de la santé publique - art. R1343-1 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L532-4 (V)
+
+
+#### Chapitre V : Dispositions diverses<a id=102></a>
 
 ###### Article L225-1
 
@@ -13451,13 +15908,13 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-## Livre III : Endettement<a id=93></a>
+## Livre III : Endettement<a id=103></a>
 
-### Titre Ier : Crédit<a id=94></a>
+### Titre Ier : Crédit<a id=104></a>
 
-#### Chapitre Ier : Crédit à la consommation<a id=95></a>
+#### Chapitre Ier : Crédit à la consommation<a id=105></a>
 
-##### Section 1 : Définitions et champ d'application.<a id=96></a>
+##### Section 1 : Définitions et champ d'application.<a id=106></a>
 
 ###### Article L311-1
 
@@ -13624,7 +16081,7 @@ mentionnées à l'article L. 313-15, ayant pour objet le regroupement de crédit
 3° Les opérations consenties sous la forme d'une autorisation de découvert remboursable dans un délai d'un mois ; 
 
 4° Les opérations de crédit comportant un délai de remboursement ne dépassant pas trois mois qui ne sont assorties d'aucun
-intérêt ou d'aucuns frais ou seulement de frais d'un montant négligeable ; 
+intérêt ni d'aucuns frais ou seulement d'intérêts et de frais d'un montant négligeable ; 
 
 5° Les opérations mentionnées au 3 de l'article L. 511-6 du code monétaire et financier ; 
 
@@ -13647,26 +16104,38 @@ _Anciens textes_:
 
   - Loi n°78-22 du 10 janvier 1978 - art. 3 (Ab)
 
-_Modifié par_:
-
-  - Loi n°2010-737 du 1er juillet 2010 - art. 3
-
 _Cité par_:
 
   - Arrêté du 26 octobre 2010 - art. 3 (M)
   - CODE GENERAL DES IMPOTS, CGI. - art. 199 septdecies (P)
   - Code de la consommation - art. D311-1 (VD)
   - Code de la consommation - art. D311-2 (V)
-  - Code de la consommation - art. L312-2 (V)
+  - Code de la consommation - art. L312-2 (VT)
   - Code de la consommation - art. R*313-1 (V)
   - Code monétaire et financier - art. R313-1 (M)
 
+_Modifié par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 40
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L312-1 (M)
+  - Code de la consommation - art. L312-4 (V)
+
 _Cite_:
 
-  - Code de la consommation - art. L311-5
+  - Code de la consommation - art. L313-15
+  - Code de la consommation - art. L331-6
+  - Code monétaire et financier - art. L321-2
+  - Code monétaire et financier - art. L511-6
 
 
-##### Section 2 : Publicité.<a id=97></a>
+##### Section 2 : Publicité.<a id=107></a>
 
 ###### Article L311-4
 
@@ -13754,7 +16223,10 @@ Il est interdit dans toute publicité d'indiquer qu'une opération ou un contrat
 consistant à regrouper des crédits antérieurs peut être consenti sans élément d'information permettant d'apprécier la
 situation financière de l'emprunteur, ou de laisser entendre que le prêt améliore la situation financière ou le budget de
 l'emprunteur, entraîne une augmentation de ressources, constitue un substitut d'épargne ou accorde une réserve automatique
-d'argent immédiatement disponible sans contrepartie financière identifiable. 
+d'argent immédiatement disponible sans contrepartie financière identifiable. Lorsqu'une publicité compare le montant des
+échéances d'un ou plusieurs crédits antérieurs, et le cas échéant d'autres dettes, à celui d'une échéance résultant d'une
+opération de regroupement de crédits, elle mentionne de manière claire et apparente, d'une part, la somme des coûts totaux
+des crédits antérieurs et, d'autre part, le coût total du crédit postérieur à l'opération précitée.
 
 Il est interdit également dans toute publicité de mentionner l'existence d'une période de franchise de paiement de loyers ou
 de remboursement des échéances du crédit supérieure à trois mois. Cette interdiction ne s'applique pas aux prêts aidés par
@@ -13765,17 +16237,7 @@ Il est interdit dans toute publicité de proposer sous quelque forme que ce soit
 d'une offre préalable de crédit. 
 
 Toute publicité, à l'exception des publicités radiodiffusées, contient, quel que soit le support utilisé, la mention
-suivante :  Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.
-
-**Nota:**
-
-Loi 2010-737 du 1er juillet 2010 article 61 I : Les dispositions de l'article L. 311-5 du code de la consommation résultant
-de l'article 4 de la loi n° 2010-737 ne s'appliquent qu'à compter du 1er novembre 2010 pour les catalogues de vente à
-distance.
-
-Conformément à l'article 4 du décret n° 2010-1005 du 30 août 2010, les dispositions de l'article 4 de la loi portant réforme
-du crédit à la consommation (2010-737) s'appliquent à compter du premier jour de la quatrième semaine suivant la date
-d'entrée en vigueur de cet article pour les publicités rendues publiques dans les deux mois précédant cette date.
+suivante : "Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager".
 
 **Liens relatifs à cet article**
 
@@ -13785,7 +16247,11 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2010-737 du 1er juillet 2010 - art. 4
+  - Loi n°2014-344 du 17 mars 2014 - art. 41
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
@@ -13794,8 +16260,17 @@ _Cité par_:
   - Code de la consommation - art. L311-3 (VD)
   - Code de la consommation - art. L311-6 (VT)
 
+_Nouveaux textes_:
 
-##### Section 3 :  Information précontractuelle de l'emprunteur<a id=98></a>
+  - Code de la consommation - art. L312-10 (V)
+  - Code de la consommation - art. L312-11 (V)
+  - Code de la consommation - art. L312-5 (V)
+  - Code de la consommation - art. L312-65 (V)
+  - Code de la consommation - art. L312-8 (V)
+  - Code de la consommation - art. L312-9 (V)
+
+
+##### Section 3 :  Information précontractuelle de l'emprunteur<a id=108></a>
 
 ###### Article L311-6
 
@@ -13882,7 +16357,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L312-13 (V)
 
 
-##### Section 4 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=99></a>
+##### Section 4 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=109></a>
 
 ###### Article L311-8
 
@@ -14026,18 +16501,15 @@ l'intermédiaire de crédit à l'emprunteur. Cette fiche, établie par écrit ou
 les éléments relatifs aux ressources et charges de l'emprunteur ainsi que, le cas échéant, aux prêts en cours contractés par
 ce dernier. Ladite fiche est signée ou son contenu confirmé par voie électronique par l'emprunteur et contribue à
 l'évaluation de sa solvabilité par le prêteur. Les informations figurant dans la fiche doivent faire l'objet d'une
-déclaration certifiant sur l'honneur leur exactitude. Si le montant du crédit accordé est supérieur à un seuil défini par
-décret, la fiche doit être corroborée par des pièces justificatives dont la liste est définie par décret.
+déclaration certifiant sur l'honneur leur exactitude. Cette fiche est conservée par le prêteur pendant toute la durée du
+prêt. Si le montant du crédit accordé est supérieur à un seuil défini par décret, la fiche doit être corroborée par des
+pièces justificatives dont la liste est définie par décret.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°78-22 du 10 janvier 1978 - art. 5 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2010-737 du 1er juillet 2010 - art. 6
 
 _Cité par_:
 
@@ -14047,12 +16519,21 @@ _Cité par_:
   - Code de la consommation - art. D311-4-3 (Ab)
   - Code de la consommation - art. L311-8 (VT)
 
+_Modifié par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 42
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 _Cite_:
 
-  - Code de la consommation
-  - Code de la consommation - art. L311-32
-  - Code de la consommation - art. L311-37
-  - Code de la consommation - art. L313-13
+  - Code de la consommation - art. L311-6
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L312-17 (V)
 
 
 ###### Article L311-10-1
@@ -14085,7 +16566,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L312-15 (V)
 
 
-##### Section 5 : Formation du contrat de crédit<a id=100></a>
+##### Section 5 : Formation du contrat de crédit<a id=110></a>
 
 ###### Article L311-11
 
@@ -14316,7 +16797,7 @@ varie selon le montant total du crédit consenti et dont les modalités sont dé
 Il précise que la durée du contrat est limitée à un an renouvelable et que le prêteur devra indiquer, trois mois avant
 l'échéance, les conditions de reconduction du contrat. Il fixe également les modalités du remboursement, qui doit être
 échelonné, sauf volonté contraire du débiteur, des sommes restant dues dans le cas où le débiteur demande à ne plus
-bénéficier de son ouverture de crédit.
+bénéficier de son ouverture de crédit. 
 
 Avant de proposer à l'emprunteur de reconduire le contrat, le prêteur consulte tous les ans le fichier prévu à l'article L.
 333-4, dans les conditions prévues par l'arrêté mentionné à l'article L. 333-5, et, tous les trois ans, il vérifie la
@@ -14338,22 +16819,25 @@ l'emprunteur est tenu de rembourser, aux conditions fixées par le contrat, le m
 L'emprunteur doit pouvoir s'opposer aux modifications proposées, lors de la reconduction du contrat, jusqu'au moins vingt
 jours avant la date où celles-ci deviennent effectives, en utilisant un bordereau-réponse annexé aux informations écrites
 communiquées par le prêteur. Un décret précisera les caractéristiques de ce bordereau ainsi que les mentions devant y
-figurer.L'emprunteur peut également demander à tout moment la réduction de sa réserve de crédit, la suspension de son droit à
-l'utiliser ou la résiliation de son contrat. Dans ce dernier cas, il est tenu de rembourser, aux conditions du contrat, le
-montant de la réserve d'argent déjà utilisé. 
+figurer. L'emprunteur peut également demander à tout moment la réduction du montant maximal de crédit consenti, la suspension
+de son droit à l'utiliser ou la résiliation de son contrat. Dans ce dernier cas, il est tenu de rembourser, aux conditions du
+contrat, le montant du crédit déjà utilisé. 
 
 En cas de refus des nouvelles conditions de taux ou de remboursement proposées lors de la reconduction du contrat,
-l'emprunteur est tenu de rembourser aux conditions précédant les modifications proposées le montant de la réserve d'argent
-déjà utilisé, sans pouvoir, toutefois, procéder à une nouvelle utilisation de l'ouverture de crédit. 
+l'emprunteur est tenu de rembourser aux conditions précédant les modifications proposées le montant du crédit déjà utilisé,
+sans pouvoir, toutefois, procéder à une nouvelle utilisation de l'ouverture de crédit. 
 
-Si, pendant deux années consécutives, le contrat d'ouverture de crédit ou tout moyen de paiement associé n'ont fait l'objet
-d'aucune utilisation, le prêteur qui entend proposer la reconduction du contrat adresse à l'emprunteur, à l'échéance de la
-deuxième année, un document annexé aux conditions de cette reconduction. Ce document indique l'identité des parties, la
-nature de l'opération, le montant du crédit disponible, le taux annuel effectif global ainsi que le montant des
-remboursements par échéance et par fractions de crédit utilisées.A défaut pour l'emprunteur de retourner ce document, signé
-et daté, au plus tard vingt jours avant la date d'échéance du contrat, ce dernier est résilié de plein droit à cette date.
-Lorsque l'ouverture de crédit est assortie de l'usage d'une carte de crédit, le prélèvement de la cotisation liée au bénéfice
-de ce moyen de paiement ne fait pas obstacle à la mise en œuvre du présent alinéa. 
+Si, pendant un an, le contrat d'ouverture de crédit ou tout moyen de paiement associé n'ont fait l'objet d'aucune
+utilisation, le prêteur qui entend proposer la reconduction du contrat adresse à l'emprunteur, à l'échéance de l'année
+écoulée, un document annexé aux conditions de cette reconduction. Ce document indique l'identité des parties, la nature de
+l'opération, le montant du crédit disponible, le taux annuel effectif global ainsi que le montant des remboursements par
+échéance et par fractions de crédit utilisées. A défaut pour l'emprunteur de retourner ce document, signé et daté, au plus
+tard vingt jours avant la date d'échéance du contrat, le prêteur suspend à cette date le droit d'utilisation du crédit par
+l'emprunteur. Ladite suspension ne peut être levée qu'à la demande de l'emprunteur et après vérification de la solvabilité de
+ce dernier dans les conditions fixées à l'article L. 311-9. Dans le cas où l'emprunteur n'a pas demandé la levée de la
+suspension à l'expiration du délai d'un an suivant la date de la suspension de son contrat de crédit, le contrat est résilié
+de plein droit. Lorsque l'ouverture de crédit est assortie de l'usage d'une carte de crédit, le prélèvement de la cotisation
+liée au bénéfice de ce moyen de paiement ne fait pas obstacle à la mise en œuvre du présent alinéa. 
 
 La capitalisation des intérêts est soumise aux dispositions de l'article 1154 du code civil.
 
@@ -14364,10 +16848,6 @@ _Anciens textes_:
   - Loi n°78-22 1978-01-10 art. 7 al. 2
   - Loi n°78-22 du 10 janvier 1978 - art. 7 (Ab)
   - Code de la consommation - art. L311-9 (VT)
-
-_Modifié par_:
-
-  - Loi n°2010-1249 du 22 octobre 2010 - art. 44
 
 _Cité par_:
 
@@ -14389,8 +16869,17 @@ _Cité par_:
   - Code de la consommation - art. L311-26 (VT)
   - Code de la consommation - art. L311-4 (VT)
   - Code de la consommation - art. L311-48 (VT)
+  - Code de la consommation - art. L311-49 (VT)
   - Code de la consommation - art. R311-5 (Ab)
   - Code général des impôts, CGI. - art. 200 terdecies (V)
+
+_Modifié par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 45 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
@@ -14398,6 +16887,24 @@ _Cite_:
   - Code de la consommation - art. L333-4
   - Code de la consommation - art. L333-5
   - Code civil - art. 1154
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L312-57 (V)
+  - Code de la consommation - art. L312-58 (V)
+  - Code de la consommation - art. L312-64 (V)
+  - Code de la consommation - art. L312-65 (V)
+  - Code de la consommation - art. L312-67 (V)
+  - Code de la consommation - art. L312-74 (VT)
+  - Code de la consommation - art. L312-75 (V)
+  - Code de la consommation - art. L312-76 (V)
+  - Code de la consommation - art. L312-77 (V)
+  - Code de la consommation - art. L312-78 (M)
+  - Code de la consommation - art. L312-79 (V)
+  - Code de la consommation - art. L312-80 (V)
+  - Code de la consommation - art. L312-81 (M)
+  - Code de la consommation - art. L312-82 (V)
+  - Code de la consommation - art. L312-83 (V)
 
 
 ###### Article L311-17
@@ -14446,27 +16953,41 @@ _Cite_:
 
 ###### Article L311-17-1
 
-Lorsqu'une carte de paiement émise par un établissement de crédit est associée à la fois à un compte de dépôt et à un crédit
-renouvelable, l'utilisation du crédit doit résulter de l'accord exprès du consommateur exprimé lors du paiement avec la carte
-ou dans un délai raisonnable, à réception de l'état actualisé de l'exécution du contrat de crédit prévu à l'article L.
-311-26. 
+Lorsqu'une carte de paiement émise par un établissement de crédit est associée soit à un compte de dépôt et à un crédit
+renouvelable, soit à un compte de paiement et à un crédit renouvelable, l'utilisation du crédit doit résulter de l'accord
+exprès du consommateur exprimé lors du paiement avec la carte ou dans un délai raisonnable, à réception de l'état actualisé
+de l'exécution du contrat de crédit prévu à l'article L. 311-26. 
 
 La publicité portant sur la carte mentionnée au premier alinéa du présent article informe le consommateur des modalités
 d'utilisation du crédit.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2010-737 du 1er juillet 2010 - art. 7
-
 _Cité par_:
 
   - Décret n°2011-457 du 26 avril 2011 - art. 1 (V)
+  - Code de la consommation - art. L311-48 (VT)
   - Code de la consommation - art. L311-49 (VT)
 
+_Modifié par_:
 
-##### Section 6 : Informations mentionnées dans le contrat<a id=101></a>
+  - Loi n°2014-344 du 17 mars 2014 - art. 48
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L311-26
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L312-61 (V)
+  - Code de la consommation - art. L312-70 (V)
+
+
+##### Section 6 : Informations mentionnées dans le contrat<a id=111></a>
 
 ###### Article L311-18
 
@@ -14592,7 +17113,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L312-30 (V)
 
 
-##### Section 7 : Exécution du contrat de crédit<a id=102></a>
+##### Section 7 : Exécution du contrat de crédit<a id=112></a>
 
 ###### Article L311-21
 
@@ -15007,7 +17528,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L312-71 (V)
 
 
-##### Section 8 : Crédit gratuit<a id=103></a>
+##### Section 8 : Crédit gratuit<a id=113></a>
 
 ###### Article L311-27
 
@@ -15123,7 +17644,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L312-43 (V)
 
 
-##### Section 9 : Les crédits affectés<a id=104></a>
+##### Section 9 : Les crédits affectés<a id=114></a>
 
 ###### Article L311-30
 
@@ -15606,7 +18127,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L312-51 (M)
 
 
-##### Section 10 : Opérations de découvert en compte<a id=105></a>
+##### Section 10 : Opérations de découvert en compte<a id=115></a>
 
 ###### Article L311-42
 
@@ -15829,7 +18350,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L312-93 (V)
 
 
-##### Section 11 : Sanctions<a id=106></a>
+##### Section 11 : Sanctions<a id=116></a>
 
 ###### Article L311-48
 
@@ -15981,38 +18502,60 @@ _Nouveaux textes_:
 
 ###### Article L311-50
 
-Sera puni d'une amende de 30 000 euros :
+Sera puni d'une amende de 300 000 euros : 
 
 1° Le prêteur ou le vendeur qui, en infraction aux dispositions des articles L. 311-14 et L. 311-40, réclame ou reçoit de
-l'emprunteur ou de l'acheteur un paiement sous quelque forme que ce soit ;
+l'emprunteur ou de l'acheteur un paiement sous quelque forme que ce soit ; 
 
 2° Celui qui fait signer des formules de prélèvements sur comptes bancaires contenant des clauses contraires aux dispositions
-des articles susvisés ;
+des articles susvisés ; 
 
 3° Celui qui fait souscrire, ou accepter, ou avaliser par l'emprunteur ou l'acheteur des lettres de change ou des billets à
-ordre ;
+ordre ; 
 
-4° Celui qui persiste indûment à ne pas payer les sommes visées à l'article L. 311-37 ;
+4° Celui qui persiste indûment à ne pas payer les sommes visées à l'article L. 311-37 ; 
 
 5° Celui qui, en infraction aux dispositions de l'article L. 311-12, enregistre ou fait enregistrer sur un fichier le nom des
-personnes usant de la faculté de rétractation ;
+personnes usant de la faculté de rétractation ; 
 
 6° Celui qui fait signer par un même client une ou plusieurs offres de contrat de crédit d'un montant total en capital
-supérieur à la valeur payable à crédit du bien acheté ou de la prestation de services fournie.
+supérieur à la valeur payable à crédit du bien acheté ou de la prestation de services fournie. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2010-737 du 1er juillet 2010 - art. 18
+  - Loi n°2014-344 du 17 mars 2014 - art. 132
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°2010-737 du 1er juillet 2010 - art. 2
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code de la consommation - art. L311-35 (VT)
+  - Code de la consommation - art. L311-12 (VT)
+  - Code de la consommation - art. L311-14 (VT)
+  - Code de la consommation - art. L311-37
+  - Code de la consommation - art. L311-40 (VT)
+  - Code pénal - art. 131-27
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L341-12 (V)
+  - Code de la consommation - art. L341-13 (V)
+  - Code de la consommation - art. L341-14 (V)
+  - Code de la consommation - art. L341-15 (V)
+  - Code de la consommation - art. L341-16 (V)
+  - Code de la consommation - art. L341-17 (V)
+  - Code de la consommation - art. L341-18 (V)
 
 
 ###### Article L311-51
@@ -16037,7 +18580,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L312-27 (V)
 
 
-##### Section 12 : Procédure<a id=107></a>
+##### Section 12 : Procédure<a id=117></a>
 
 ###### Article L311-52
 
@@ -16096,9 +18639,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R312-35 (V)
 
 
-#### Chapitre II : Crédit immobilier<a id=108></a>
+#### Chapitre II : Crédit immobilier<a id=118></a>
 
-##### Section 1 : Champ d'application<a id=109></a>
+##### Section 1 : Champ d'application<a id=119></a>
 
 ###### Article L312-1
 
@@ -16286,7 +18829,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-64 (VD)
 
 
-##### Section 2 : Publicité<a id=110></a>
+##### Section 2 : Publicité<a id=120></a>
 
 ###### Article L312-4
 
@@ -16412,7 +18955,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la consommation L312-32 *sanctions pénales*
 
 
-##### Section 3 : Le contrat de crédit<a id=111></a>
+##### Section 3 : Le contrat de crédit<a id=121></a>
 
 ###### Article L312-7
 
@@ -16535,27 +19078,52 @@ _Cite_:
 
 ###### Article L312-9
 
-Lorsque le prêteur propose à l'emprunteur l'adhésion à un contrat d'assurance de groupe qu'il a souscrit en vue de garantir
-en cas de survenance d'un des risques que ce contrat définit, soit le remboursement total ou partiel du montant du prêt
-restant dû, soit le paiement de tout ou partie des échéances dudit prêt, les dispositions suivantes sont obligatoirement
-appliquées : 
+Lorsque le prêteur propose à l'emprunteur un contrat d'assurance en vue de garantir en cas de survenance d'un des risques que
+ce contrat définit, soit le remboursement total ou partiel du montant du prêt restant dû, soit le paiement de tout ou partie
+des échéances dudit prêt, les dispositions suivantes sont obligatoirement appliquées : 
 
 1° Au contrat de prêt est annexée une notice énumérant les risques garantis et précisant toutes les modalités de la mise en
 jeu de l'assurance ; 
 
-2° Toute modification apportée ultérieurement à la définition des risques garantis ou aux modalités de la mise en jeu de
-l'assurance est inopposable à l'emprunteur qui n'y a pas donné son acceptation ; 
+2° Toute modification apportée ultérieurement à la définition des risques garantis, aux modalités de la mise en jeu de
+l'assurance ou à la tarification du contrat est inopposable à l'emprunteur qui n'y a pas donné son acceptation ; 
 
 3° Lorsque l'assureur a subordonné sa garantie à l'agrément de la personne de l'assuré et que cet agrément n'est pas donné,
 le contrat de prêt est résolu de plein droit à la demande de l'emprunteur sans frais ni pénalité d'aucune sorte. Cette
 demande doit être présentée dans le délai d'un mois à compter de la notification du refus de l'agrément. 
 
-Le prêteur ne peut pas refuser en garantie un autre contrat d'assurance dès lors que ce contrat présente un niveau de
-garantie équivalent au contrat d'assurance de groupe qu'il propose. Toute décision de refus doit être motivée. 
+Jusqu'à la signature par l'emprunteur de l'offre définie à l'article L. 312-7, le prêteur ne peut pas refuser en garantie un
+autre contrat d'assurance dès lors que ce contrat présente un niveau de garantie équivalent au contrat d'assurance de groupe
+qu'il propose. Il en est de même lorsque l'emprunteur fait usage du droit de résiliation mentionné au premier alinéa de
+l'article L. 113-12-2 du code des assurances ou au deuxième alinéa de l'article L. 221-10 du code de la mutualité dans un
+délai de douze mois à compter de la signature de l'offre de prêt définie à l'article L. 312-7 du présent code. Au-delà de la
+période de douze mois susmentionnée, le contrat de prêt peut prévoir une faculté de substitution du contrat d'assurance en
+cas d'exercice par l'emprunteur du droit de résiliation d'un contrat d'assurance de groupe ou individuel mentionné à
+l'article L. 113-12 du code des assurances ou au premier alinéa de l'article L. 221-10 du code de la mutualité. Dans ce cas,
+l'existence d'une faculté de substitution ainsi que ses modalités d'application sont définies dans le contrat de prêt. Toute
+décision de refus doit être motivée. 
 
-Le prêteur ne peut pas modifier les conditions de taux du prêt prévues dans l'offre définie à l'article L. 312-7, que celui-
-ci soit fixe ou variable, en contrepartie de son acceptation en garantie d'un contrat d'assurance autre que le contrat
-d'assurance de groupe qu'il propose.
+Si l'offre définie à l'article L. 312-7 a été émise, le prêteur notifie à l'emprunteur sa décision d'acceptation ou de refus
+et lui adresse, s'il y a lieu, l'offre modifiée mentionnée à l'article L. 312-8, dans un délai de dix jours ouvrés à compter
+de la réception de la demande de substitution. Si l'emprunteur fait usage du droit de résiliation du contrat d'assurance dans
+le délai de douze mois à compter de la signature de l'offre de prêt définie à l'article L. 312-7, le prêteur notifie à
+l'emprunteur sa décision d'acceptation ou de refus dans un délai de dix jours ouvrés à compter de la réception d'un autre
+contrat d'assurance. En cas d'acceptation, le prêteur modifie par voie d'avenant le contrat de crédit conformément à
+l'article L. 312-14-1, en y mentionnant, notamment, le nouveau taux effectif global calculé, conformément à l'article L.
+313-1, en se fondant sur les informations transmises par l'assureur délégué dans les conditions fixées au septième alinéa du
+présent article. Lorsque l'avenant comporte un ou plusieurs éléments chiffrés sur le coût de l'assurance, ce coût est exprimé
+selon les modalités définies à l'article L. 312-6-1. Le prêteur ne peut exiger de frais supplémentaires de l'emprunteur pour
+l'émission de cet avenant. 
+
+Un décret en Conseil d'Etat fixe les modalités selon lesquelles le prêteur établit l'offre modifiée mentionnée au même
+article L. 312-8 et définit les conditions dans lesquelles le prêteur et l'assureur délégué s'échangent les informations
+préalables à la souscription des contrats. 
+
+Le prêteur ne peut, en contrepartie de son acceptation en garantie d'un contrat d'assurance autre que le contrat d'assurance
+qu'il propose, y compris en cas d'exercice du droit de résiliation en application du premier alinéa de l'article L. 113-12-2
+du code des assurances ou du deuxième alinéa de l'article L. 221-10 du code de la mutualité ni modifier le taux, qu'il soit
+fixe ou variable, ou les conditions d'octroi du crédit, prévus dans l'offre définie à l'article L. 312-7, ni exiger le
+paiement de frais supplémentaires, y compris les frais liés aux travaux d'analyse de cet autre contrat d'assurance. 
 
 L'assureur est tenu d'informer le prêteur du non-paiement par l'emprunteur de sa prime d'assurance ou de toute modification
 substantielle du contrat d'assurance.
@@ -16568,14 +19136,14 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2010-737 du 1er juillet 2010 - art. 21
+  - Loi n°2013-672 du 26 juillet 2013 - art. 60 (V)
+  - Loi n°2014-344 du 17 mars 2014 - art. 54 (V)
 
 _Cité par_:
 
   - ORDONNANCE n°2014-946 du 20 août 2014 - art. 15 (V)
   - ORDONNANCE n°2014-946 du 20 août 2014 - art. 7 (V)
   - Décret n°2015-494 du 29 avril 2015 (V)
-  - Code de la consommation - art. L312-6-1 (VT)
   - Code de la consommation - art. L312-6-2 (VT)
   - Code de la consommation - art. L312-8 (VT)
   - Code de la consommation - art. R312-0-1 (MMN)
@@ -16583,7 +19151,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L312-7 (V)
+  - Code de la consommation - art. L312-14-1 (V)
+  - Code de la consommation - art. L312-6-1 (VD)
+  - Code de la consommation - art. L312-7
+  - Code de la consommation - art. L313-1 (V)
+  - Code des assurances - art. L113-12 (V)
+  - Code des assurances - art. L113-12-2 (V)
+  - Code de la mutualité - art. L221-10 (V)
 
 
 ###### Article L312-10
@@ -16838,7 +19412,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-46 (V)
 
 
-##### Section 4 : Le contrat principal<a id=112></a>
+##### Section 4 : Le contrat principal<a id=122></a>
 
 ###### Article L312-15
 
@@ -17063,9 +19637,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-45 (V)
 
 
-##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=113></a>
+##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=123></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=114></a>
+##### Sous-section 1 : Remboursement anticipé<a id=124></a>
 
 ###### Article L312-21
 
@@ -17113,7 +19687,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-48 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=115></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=125></a>
 
 ###### Article L312-22
 
@@ -17163,7 +19737,7 @@ _Cite_:
   - Code civil - art. 1231 (M)
 
 
-##### Sous-section 3 : Dispositions communes<a id=116></a>
+##### Sous-section 3 : Dispositions communes<a id=126></a>
 
 ###### Article L312-23
 
@@ -17212,7 +19786,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la consommation L312-35 *sanctions pénales*
 
 
-##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=117></a>
+##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=127></a>
 
 ###### Article L312-24
 
@@ -17552,7 +20126,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-63 (V)
 
 
-##### Section 7 : Sanctions<a id=118></a>
+##### Section 7 : Sanctions<a id=128></a>
 
 ###### Article L312-32
 
@@ -17591,18 +20165,50 @@ _Nouveaux textes_:
   - Code de la consommation - art. L341-22 (M)
 
 
+###### Article L312-32-1
+
+Le prêteur qui ne respecte pas l'une des obligations relatives lui incombant au titre des cinquième et sixième alinéas de
+l'article L. 312-9 est puni d'une amende de 3 000 €.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 54 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L312-9 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L341-39 (V)
+
+
 ###### Article L312-33
 
 Le prêteur ou le bailleur qui ne respecte pas l'une des obligations prévues aux articles L. 312-7 et L. 312-8, à l'article L.
-312-14, deuxième alinéa, ou à l'article L. 312-26 sera puni d'une amende de 3 750 euros.
+312-14, deuxième alinéa, ou à l'article L. 312-26 sera puni d'une amende de 150 000 euros.
 
 Le prêteur qui fait souscrire par l'emprunteur ou les cautions déclarées, ou reçoit de leur part l'acceptation de l'offre
 sans que celle-ci comporte de date ou dans le cas où elle comporte une date fausse de nature à faire croire qu'elle a été
-donnée après expiration du délai de dix jours prescrit à l'article L. 312-10, sera puni d'une amende de 30 000 euros.
+donnée après expiration du délai de dix jours prescrit à l'article L. 312-10, sera puni d'une amende de 300 000 euros.
 
 La même peine sera applicable au bailleur qui fait souscrire par le preneur ou qui reçoit de sa part l'acceptation de l'offre
 sans que celle-ci comporte de date ou dans le cas où elle comporte une date fausse de nature à faire croire qu'elle a été
 donnée après l'expiration du délai de dix jours prescrit à l'article L. 312-27.
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement.
 
 Dans les cas prévus aux alinéas précédents, le prêteur ou le bailleur pourra en outre être déchu du droit aux intérêts, en
 totalité ou dans la proportion fixée par le juge.
@@ -17615,24 +20221,37 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2014-344 du 17 mars 2014 - art. 132
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L312-10 (V)
-  - Code de la consommation - art. L312-14 (V)
-  - Code de la consommation - art. L312-26 (V)
-  - Code de la consommation - art. L312-27 (V)
-  - Code de la consommation - art. L312-7 (V)
-  - Code de la consommation - art. L312-8 (M)
+  - Code de la consommation - art. L312-10 (VT)
+  - Code de la consommation - art. L312-14
+  - Code de la consommation - art. L312-26
+  - Code de la consommation - art. L312-27 (VT)
+  - Code de la consommation - art. L312-7
+  - Code de la consommation - art. L312-8
 
 **Liens**:
 
   - SPEC_APPLI: Code de la consommation - art. L312-14 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L341-34 (M)
+  - Code de la consommation - art. L341-37 (V)
+  - Code de la consommation - art. L341-38 (V)
+  - Code de la consommation - art. L341-40 (V)
+  - Code de la consommation - art. L341-41 (V)
+  - Code de la consommation - art. L341-44 (V)
 
 
 ###### Article L312-34
@@ -17640,7 +20259,15 @@ _Cite_:
 Le prêteur ou le bailleur qui, en infraction aux dispositions de l'article L. 312-11 ou de l'article L. 312-28, accepte de
 recevoir de l'emprunteur ou du preneur, ou pour le compte d'un de ces derniers, un versement ou un dépôt, un chèque ou un
 effet de commerce souscrit, endossé ou avalisé à son profit, ou utilise une autorisation de prélèvement sur compte bancaire
-ou postal, sera puni d'une amende de 30 000 euros.
+ou postal, sera puni d'une amende de 300 000 euros. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
@@ -17650,26 +20277,45 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2014-344 du 17 mars 2014 - art. 132
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L312-28 (V)
+  - Code de la consommation - art. L312-11 (VT)
+  - Code de la consommation - art. L312-28 (VT)
+  - Code pénal - art. 131-27
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L341-42 (V)
+  - Code de la consommation - art. L341-44 (V)
 
 
 ###### Article L312-35
 
 Le prêteur, en infraction aux dispositions du premier alinéa de l'article L. 312-14, ou le vendeur, en infraction aux
 dispositions de l'article L. 312-16, ou le bailleur, en infraction aux dispositions du dernier alinéa de l'article L. 312-30,
-qui ne restitue pas les sommes visées à ces articles, sera puni d'une amende de 30 000 euros.
+qui ne restitue pas les sommes visées à ces articles, sera puni d'une amende de 300 000 euros. 
 
 La même peine sera applicable à celui qui réclame à l'emprunteur ou au preneur ou retient sur son compte des sommes
 supérieures à celles qu'il est autorisé à réclamer ou à retenir en application des dispositions de l'article L. 312-23 ou des
-deux derniers alinéas de l'article L. 312-29.
+deux derniers alinéas de l'article L. 312-29. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
@@ -17679,22 +20325,32 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2014-344 du 17 mars 2014 - art. 132
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L312-14 (V)
-  - Code de la consommation - art. L312-16 (V)
-  - Code de la consommation - art. L312-23 (V)
-  - Code de la consommation - art. L312-29 (V)
-  - Code de la consommation - art. L312-30 (V)
+  - Code de la consommation - art. L312-14 (VT)
+  - Code de la consommation - art. L312-16 (VT)
+  - Code de la consommation - art. L312-23 (VT)
+  - Code de la consommation - art. L312-29 (VT)
+  - Code de la consommation - art. L312-30 (VT)
+  - Code pénal - art. 131-27
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L341-43 (V)
+  - Code de la consommation - art. L341-44 (V)
 
 
-##### Section 8 : Procédure<a id=119></a>
+##### Section 8 : Procédure<a id=129></a>
 
 ###### Article L312-36
 
@@ -17732,11 +20388,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. R313-33 (V)
 
 
-#### Chapitre III : Dispositions communes aux chapitres Ier et II<a id=120></a>
+#### Chapitre III : Dispositions communes aux chapitres Ier et II<a id=130></a>
 
-##### Section 1 : Le taux d'intérêt<a id=121></a>
+##### Section 1 : Le taux d'intérêt<a id=131></a>
 
-##### Sous-section 1 : Le taux effectif global<a id=122></a>
+##### Sous-section 1 : Le taux effectif global<a id=132></a>
 
 ###### Article L313-1
 
@@ -17813,9 +20469,17 @@ _Nouveaux textes_:
 ###### Article L313-2
 
 Le taux effectif global déterminé comme il est dit à l'article L. 313-1 doit être mentionné dans tout écrit constatant un
-contrat de prêt régi par la présente section.
+contrat de prêt régi par la présente section. 
 
-Toute infraction aux dispositions du présent article sera punie d'une amende de 4 500 euros.
+Toute infraction aux dispositions du présent article sera punie d'une amende de 150 000 euros. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
@@ -17832,23 +20496,33 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 38 () JORF 24 mars 2006
+  - Loi n°2014-344 du 17 mars 2014 - art. 132
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L313-1
+  - Code pénal - art. 131-27
 
 **Liens**:
 
   - SPEC_APPLI: Code de la consommation - art. L313-1 (M)
   - PILOTE_SUIVEUR: Code monétaire et financier - art. L313-4 (VD)
 
-_Cite_:
+_Nouveaux textes_:
 
-  - Code de la consommation - art. L313-1 (M)
+  - Code de la consommation - art. L314-5 (V)
+  - Code de la consommation - art. L341-49 (V)
 
 
-##### Sous-section 2 : Le taux d'usure<a id=123></a>
+##### Sous-section 2 : Le taux d'usure<a id=133></a>
 
 ###### Article L313-3
 
@@ -17877,9 +20551,8 @@ Un comité, présidé par le gouverneur de la Banque de France, est chargé de s
 de fixation des taux de l'usure, le niveau et l'évolution des taux d'intérêt des prêts aux particuliers. Le comité examine
 également les modalités de financement des établissements de crédit et des sociétés de financement et analyse le niveau,
 l'évolution et les composantes de leurs marges. Outre le gouverneur de la Banque de France, le comité comprend un député, un
-sénateur et le directeur général du Trésor et de la politique économique. Il se réunit à l'initiative de son président au
-moins une fois par trimestre et pendant deux ans. Il établit un rapport annuel qui est remis au Parlement et au
-Gouvernement. 
+sénateur et le directeur général du Trésor. Il se réunit à l'initiative de son président au moins une fois par semestre. Il
+établit un rapport annuel qui est remis au Parlement et au Gouvernement. 
 
 Les dispositions du présent article et celles des articles L. 313-4 à L. 313-6 ne sont pas applicables aux prêts accordés à
 une personne physique agissant pour ses besoins professionnels ou à une personne morale se livrant à une activité
@@ -17909,11 +20582,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2013-544 du 27 juin 2013 - art. 6
+  - Loi n°2014-344 du 17 mars 2014 - art. 51
 
 _Cite_:
 
   - Code de la consommation - art. L312-1
+  - Code de la consommation - art. L313-4
 
 **Liens**:
 
@@ -17968,8 +20642,8 @@ _Nouveaux textes_:
 
 Quiconque consent à autrui un prêt usuraire ou apporte sciemment à quelque titre et de quelque manière que ce soit,
 directement ou indirectement, son concours à l'obtention ou à l'octroi d'un prêt usuraire ou d'un prêt qui deviendrait
-usuraire au sens de l'article L. 313-3 du fait de son concours est puni d'un emprisonnement de deux ans et d'une amende de 45
-000 euros ou de l'une de ces deux peines seulement. 
+usuraire au sens de l'article L. 313-3 du fait de son concours est puni d'un emprisonnement de deux ans et d'une amende de
+300 000 euros.
 
 En outre, le tribunal peut ordonner : 
 
@@ -17984,7 +20658,8 @@ administrateur ou d'un liquidateur ;
 d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été
 commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un
 titre quelconque, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, une entreprise commerciale
-ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement. 
+ou industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles
+peuvent être prononcées cumulativement.
 
 En cas de fermeture, le tribunal fixe la durée pendant laquelle le délinquant ou l'entreprise doit continuer à payer à son
 personnel les salaires, indemnités et rémunérations de toute nature auxquels celui-ci avait droit jusqu'alors ; cette durée
@@ -18012,16 +20687,25 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 71
+  - Loi n°2014-344 du 17 mars 2014 - art. 132
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L313-3 (V)
-  - Code pénal - art. 131-27 (V)
-  - Code pénal - art. 131-35 (V)
+  - Code de la consommation - art. L313-3 (VT)
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-35
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L341-50 (V)
+  - Code de la consommation - art. L341-51 (V)
 
 
-##### Section 2 : Les sûretés personnelles<a id=124></a>
+##### Section 2 : Les sûretés personnelles<a id=134></a>
 
 ###### Article L313-7
 
@@ -18198,12 +20882,12 @@ _Cite_:
   - Code civil - art. 2321
 
 
-##### Section 3 : Rémunération du vendeur<a id=125></a>
+##### Section 3 : Rémunération du vendeur<a id=135></a>
 
 ###### Article L313-11
 
 Tout vendeur personne physique, salarié ou non d'un organisme bancaire ou de crédit, ne peut, en aucun cas, être rémunéré en
-fonction du taux du crédit ou du type de crédit qu'il a fait contracter à l'acheteur d'un bien mobilier ou immobilier.
+fonction du taux du crédit ou du type de crédit qu'il a fait contracter.
 
 **Liens relatifs à cet article**
 
@@ -18214,14 +20898,22 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2010-737 du 1er juillet 2010 - art. 6
+  - Loi n°2014-344 du 17 mars 2014 - art. 52
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L314-23 (V)
 
 _Cité par_:
 
   - Code de la consommation - art. R313-10 (Ab)
 
 
-##### Section 4 : Délais de grâce<a id=126></a>
+##### Section 4 : Délais de grâce<a id=136></a>
 
 ###### Article L313-12
 
@@ -18269,7 +20961,7 @@ _Cite_:
   - Code civil
 
 
-##### Section 5 : Lettres de change et billets à ordre<a id=127></a>
+##### Section 5 : Lettres de change et billets à ordre<a id=137></a>
 
 ###### Article L313-13
 
@@ -18312,7 +21004,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L314-21 (V)
 
 
-##### Section 6 : Crédit garanti par une hypothèque rechargeable<a id=128></a>
+##### Section 6 : Crédit garanti par une hypothèque rechargeable<a id=138></a>
 
 ###### Article L313-14
 
@@ -18421,7 +21113,7 @@ _Cite_:
   - Code de la consommation - art. L313-14-1
 
 
-##### Section 7 : Regroupement de crédits.<a id=129></a>
+##### Section 7 : Regroupement de crédits.<a id=139></a>
 
 ###### Article L313-15
 
@@ -18489,7 +21181,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L314-14 (V)
 
 
-##### Section 8 : Textes d'application.<a id=130></a>
+##### Section 8 : Textes d'application.<a id=140></a>
 
 ###### Article L313-16
 
@@ -18519,7 +21211,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L313-57 (V)
 
 
-##### Section 9 : Dispositions d'ordre public<a id=131></a>
+##### Section 9 : Dispositions d'ordre public<a id=141></a>
 
 ###### Article L313-17
 
@@ -18544,9 +21236,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L314-26 (V)
 
 
-#### Chapitre IV : Prêt viager hypothécaire<a id=132></a>
+#### Chapitre IV : Prêt viager hypothécaire<a id=142></a>
 
-##### Section 1 : Définition et champ d'application<a id=133></a>
+##### Section 1 : Définition et champ d'application<a id=143></a>
 
 ###### Article L314-1
 
@@ -18598,7 +21290,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L341-53 (V)
 
 
-##### Section 2 : Pratiques commerciales<a id=134></a>
+##### Section 2 : Pratiques commerciales<a id=144></a>
 
 ###### Article L314-3
 
@@ -18684,7 +21376,7 @@ _Cite_:
   - Code monétaire et financier - art. L341-1
 
 
-##### Section 3 : Le contrat de crédit<a id=135></a>
+##### Section 3 : Le contrat de crédit<a id=145></a>
 
 ###### Article L314-5
 
@@ -18831,7 +21523,7 @@ _Cite_:
   - Code civil - art. 1188 (M)
 
 
-##### Section 4 : Plafonnement de la dette<a id=136></a>
+##### Section 4 : Plafonnement de la dette<a id=146></a>
 
 ###### Article L314-9
 
@@ -18872,7 +21564,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L315-15 (V)
 
 
-##### Section 5 : Remboursement anticipé<a id=137></a>
+##### Section 5 : Remboursement anticipé<a id=147></a>
 
 ###### Article L314-10
 
@@ -18972,7 +21664,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L315-19 (V)
 
 
-##### Section 6 : Terme de l'opération<a id=138></a>
+##### Section 6 : Terme de l'opération<a id=148></a>
 
 ###### Article L314-13
 
@@ -19057,7 +21749,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L315-21 (V)
 
 
-##### Section 7 : Sanctions<a id=139></a>
+##### Section 7 : Sanctions<a id=149></a>
 
 ###### Article L314-15
 
@@ -19093,50 +21785,87 @@ _Nouveaux textes_:
 ###### Article L314-16
 
 Le fait pour le prêteur d'accorder un prêt viager hypothécaire sans saisir l'emprunteur d'une offre préalable conforme à
-l'article L. 314-5 ou dans des conditions non conformes aux articles L. 314-6 et L. 314-7 est puni d'une amende de 3 750
-euros.
+l'article L. 314-5 ou dans des conditions non conformes aux articles L. 314-6 et L. 314-7 est puni d'une amende de 150 000
+euros. 
 
 La même peine est applicable à l'annonceur pour le compte duquel est diffusée une publicité non conforme aux dispositions de
-l'article L. 314-3.
+l'article L. 314-3. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+  - Loi n°2014-344 du 17 mars 2014 - art. 132
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L314-3 (V)
-  - Code de la consommation - art. L314-5 (V)
-  - Code de la consommation - art. L314-6 (V)
-  - Code de la consommation - art. L314-7 (V)
+  - Code de la consommation - art. L314-3 (VT)
+  - Code de la consommation - art. L314-5 (VT)
+  - Code de la consommation - art. L314-6 (VT)
+  - Code pénal - art. 131-27
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L341-56 (V)
+  - Code de la consommation - art. L341-57 (V)
+  - Code de la consommation - art. L341-60 (V)
 
 
 ###### Article L314-17
 
 Le fait pour le prêteur de ne pas restituer les sommes dues, en application de l'article L. 314-9, à l'échéance du terme
 lorsque la dette est inférieure à la valeur de l'immeuble ou de réclamer à l'emprunteur des sommes supérieures à celles dont
-il est autorisé à demander le versement en application de l'article L. 314-11 est puni d'une amende de 30 000 euros.
+il est autorisé à demander le versement en application de l'article L. 314-11 est puni d'une amende de 300 000 euros. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2006-346 du 23 mars 2006 - art. 41 () JORF 24 mars 2006
+  - Loi n°2014-344 du 17 mars 2014 - art. 132
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L314-11 (V)
-  - Code de la consommation - art. L314-9 (V)
+  - Code de la consommation - art. L314-11 (VT)
+  - Code de la consommation - art. L314-9 (VT)
+  - Code pénal - art. 131-27
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L341-58 (V)
+  - Code de la consommation - art. L341-59 (V)
+  - Code de la consommation - art. L341-60 (V)
 
 
 ###### Article L314-18
@@ -19209,7 +21938,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L341-61 (V)
 
 
-##### Section 8 : Textes d'application<a id=140></a>
+##### Section 8 : Textes d'application<a id=150></a>
 
 ###### Article L314-20
 
@@ -19230,9 +21959,9 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-#### Chapitre V : Dispositions relatives à l'outre-mer<a id=141></a>
+#### Chapitre V : Dispositions relatives à l'outre-mer<a id=151></a>
 
-##### Section 1 : Crédit à la consommation<a id=142></a>
+##### Section 1 : Crédit à la consommation<a id=152></a>
 
 ###### Article L315-1
 
@@ -19261,7 +21990,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 2 : Crédit immobilier<a id=143></a>
+##### Section 2 : Crédit immobilier<a id=153></a>
 
 ###### Article L315-2
 
@@ -19334,7 +22063,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=144></a>
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=154></a>
 
 ###### Article L315-5
 
@@ -19496,7 +22225,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 4 : Prêt viager hypothécaire<a id=145></a>
+##### Section 4 : Prêt viager hypothécaire<a id=155></a>
 
 ###### Article L315-11
 
@@ -19524,11 +22253,11 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-### Titre II : Activité d'intermédiaire<a id=146></a>
+### Titre II : Activité d'intermédiaire<a id=156></a>
 
-#### Chapitre Ier : Protection des débiteurs et des emprunteurs<a id=147></a>
+#### Chapitre Ier : Protection des débiteurs et des emprunteurs<a id=157></a>
 
-##### Section 1 : Nullité des conventions<a id=148></a>
+##### Section 1 : Nullité des conventions<a id=158></a>
 
 ###### Article L321-1
 
@@ -19577,7 +22306,7 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code de la consommation L322-1 *sanctions pénales*
 
 
-##### Section 2 : Publicité<a id=149></a>
+##### Section 2 : Publicité<a id=159></a>
 
 ###### Article L321-2
 
@@ -19660,12 +22389,20 @@ _Nouveaux textes_:
   - Code de la consommation - art. L322-4 (V)
 
 
-#### Chapitre II : Dispositions diverses<a id=150></a>
+#### Chapitre II : Dispositions diverses<a id=160></a>
 
 ###### Article L322-1
 
 Tout intermédiaire qui aura perçu une somme d'argent à l'occasion de l'une des opérations mentionnées à l'article L. 321-1
-sera puni d'un emprisonnement d'un an et d'une amende de 30 000 euros ou de l'une de ces deux peines seulement.
+sera puni d'un emprisonnement d'un an et d'une amende de 300 000 euros. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement. 
 
 Le tribunal pourra en outre ordonner, aux frais du condamné, la publication intégrale ou par extraits du jugement dans les
 journaux qu'il fixe, sans que le coût de cette publication puisse excéder le montant de l'amende encourue.
@@ -19678,21 +22415,30 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2014-344 du 17 mars 2014 - art. 132
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la consommation - art. L321-1 (M)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Code de la consommation - art. L322-3 (T)
   - Code de la consommation - art. L322-4 (Ab)
   - Code de la consommation - art. L322-5 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L342-5 (V)
+  - Code de la consommation - art. L342-6 (V)
+
+_Cite_:
+
+  - Code pénal - art. 131-27
 
 
 ###### Article L322-2
@@ -19753,9 +22499,17 @@ _Cité par_:
 
 ###### Article L322-3
 
-Est puni d'une amende de 3 750 euros le fait, pour un annonceur, de diffuser ou faire diffuser pour son compte une publicité
-non conforme aux dispositions de l'article L. 321-2. Le non-respect des articles L. 321-3 et L. 321-4 est puni de la même
-peine.
+Est puni d'une amende de 150 000 euros le fait, pour un annonceur, de diffuser ou faire diffuser pour son compte une
+publicité non conforme aux dispositions de l'article L. 321-2. Le non-respect des articles L. 321-3 et L. 321-4 est puni de
+la même peine. 
+
+Les personnes physiques déclarées coupables encourent également à titre de peines complémentaires l'interdiction, suivant les
+modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit
+d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre
+quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou
+industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent
+être prononcées cumulativement.
 
 **Liens relatifs à cet article**
 
@@ -19765,18 +22519,31 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2010-737 du 1er juillet 2010 - art. 17
+  - Loi n°2014-344 du 17 mars 2014 - art. 132
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L321-2
+  - Code de la consommation - art. L321-2 (VT)
+  - Code de la consommation - art. L321-3 (VT)
+  - Code pénal - art. 131-27
 
 _Cité par_:
 
   - Code de la consommation - art. L322-4 (Ab)
 
+_Nouveaux textes_:
 
-#### Chapitre III : Dispositions relatives à l'outre-mer<a id=151></a>
+  - Code de la consommation - art. L342-2 (V)
+  - Code de la consommation - art. L342-3 (V)
+  - Code de la consommation - art. L342-4 (V)
+  - Code de la consommation - art. L342-6 (V)
+
+
+#### Chapitre III : Dispositions relatives à l'outre-mer<a id=161></a>
 
 ###### Article L323-1
 
@@ -19804,7 +22571,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-### Titre III : Traitement des situations de surendettement<a id=152></a>
+### Titre III : Traitement des situations de surendettement<a id=162></a>
 
 ###### Article L330-1
 
@@ -19888,7 +22655,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L742-2 (V)
 
 
-#### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers<a id=153></a>
+#### Chapitre Ier : De la procédure devant la commission de surendettement des particuliers<a id=163></a>
 
 ###### Article L331-1
 
@@ -20947,9 +23714,9 @@ _Cite_:
   - Code monétaire et financier - art. L143-1
 
 
-#### Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement<a id=154></a>
+#### Chapitre II : Des compétences du juge du tribunal d'instance en matière de traitement des situations de surendettement<a id=164></a>
 
-##### Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement<a id=155></a>
+##### Section 1 : Du contrôle par le juge des mesures imposées ou recommandées par la commission de surendettement<a id=165></a>
 
 ###### Article L332-1
 
@@ -21179,7 +23946,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L733-18 (V)
 
 
-##### Section 2 : De la procédure de rétablissement personnel<a id=156></a>
+##### Section 2 : De la procédure de rétablissement personnel<a id=166></a>
 
 ###### Article L332-5
 
@@ -21647,7 +24414,7 @@ _Cité par_:
   - Code de la consommation - art. R334-77 (Ab)
 
 
-#### Chapitre III : Dispositions communes<a id=157></a>
+#### Chapitre III : Dispositions communes<a id=167></a>
 
 ###### Article L333-1
 
@@ -22127,7 +24894,7 @@ _Cité par_:
   - Code de la consommation - art. L334-2 (VD)
 
 
-#### Chapitre III bis : Dispositions particulières au traitement de la situation de surendettement d'un entrepreneur individuel à responsabilité limitée<a id=158></a>
+#### Chapitre III bis : Dispositions particulières au traitement de la situation de surendettement d'un entrepreneur individuel à responsabilité limitée<a id=168></a>
 
 ###### Article L333-7
 
@@ -22182,9 +24949,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L711-8 (V)
 
 
-#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=159></a>
+#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=169></a>
 
-##### Section 1 : Dispositions applicables à Mayotte<a id=160></a>
+##### Section 1 : Dispositions applicables à Mayotte<a id=170></a>
 
 ###### Article L334-1
 
@@ -22296,7 +25063,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 2 : Dispositions applicables à la Nouvelle-Calédonie<a id=161></a>
+##### Section 2 : Dispositions applicables à la Nouvelle-Calédonie<a id=171></a>
 
 ###### Article L334-4
 
@@ -22452,7 +25219,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 3 : Dispositions applicables à la Polynésie française<a id=162></a>
+##### Section 3 : Dispositions applicables à la Polynésie française<a id=172></a>
 
 ###### Article L334-7
 
@@ -22566,7 +25333,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 4 : Dispositions applicables aux îles Wallis et Futuna<a id=163></a>
+##### Section 4 : Dispositions applicables aux îles Wallis et Futuna<a id=173></a>
 
 ###### Article L334-8
 
@@ -22673,7 +25440,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=164></a>
+##### Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=174></a>
 
 ###### Article L334-11
 
@@ -22704,7 +25471,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=165></a>
+##### Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=175></a>
 
 ###### Article L334-12
 
@@ -22736,7 +25503,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-### Titre IV : Cautionnement<a id=166></a>
+### Titre IV : Cautionnement<a id=176></a>
 
 ###### Article L341-1
 
@@ -22910,11 +25677,11 @@ _Nouveaux textes_:
   - Code de la consommation - art. L343-6 (V)
 
 
-## Livre IV : Les associations de consommateurs<a id=167></a>
+## Livre IV : Les associations de consommateurs<a id=177></a>
 
-### Titre Ier : Agrément des associations<a id=168></a>
+### Titre Ier : Agrément des associations<a id=178></a>
 
-#### Chapitre Ier : Les associations<a id=169></a>
+#### Chapitre Ier : Les associations<a id=179></a>
 
 ###### Article L411-1
 
@@ -22991,7 +25758,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L811-1 (V)
 
 
-#### Chapitre II : Les sociétés coopératives de consommation<a id=170></a>
+#### Chapitre II : Les sociétés coopératives de consommation<a id=180></a>
 
 ###### Article L412-1
 
@@ -23032,11 +25799,11 @@ _Cité par_:
   - Code de la consommation - art. R411-7 (Ab)
 
 
-### Titre II : Actions en justice des associations<a id=171></a>
+### Titre II : Actions en justice des associations<a id=181></a>
 
-#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=172></a>
+#### Chapitre Ier : Action exercée dans l'intérêt collectif des consommateurs<a id=182></a>
 
-##### Section 1 : Action civile<a id=173></a>
+##### Section 1 : Action civile<a id=183></a>
 
 ###### Article L421-1
 
@@ -23093,8 +25860,13 @@ _Cite_:
 
 Les associations de consommateurs mentionnées à l'article L. 421-1 et agissant dans les conditions précisées à cet article
 peuvent demander à la juridiction civile, statuant sur l'action civile, ou à la juridiction répressive, statuant sur l'action
-civile, d'ordonner au défenseur ou au prévenu, le cas échéant sous astreinte, toute mesure destinée à faire cesser des
-agissements illicites ou à supprimer dans le contrat ou le type de contrat proposé aux consommateurs une clause illicite.
+civile, d'ordonner au défendeur ou au prévenu, le cas échéant sous astreinte, toute mesure destinée à faire cesser des
+agissements illicites ou à supprimer dans le contrat ou le type de contrat proposé aux consommateurs une clause illicite. 
+
+Elles peuvent également demander, selon le cas, à la juridiction civile ou à la juridiction répressive de déclarer que cette
+clause est réputée non écrite dans tous les contrats identiques conclus par le défendeur ou le prévenu avec des
+consommateurs, y compris les contrats qui ne sont plus proposés, et de lui ordonner d'en informer à ses frais les
+consommateurs concernés par tous moyens appropriés.
 
 **Liens relatifs à cet article**
 
@@ -23104,15 +25876,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Loi n°93-949 1993-07-26
+  - Loi n°93-949 du 26 juillet 1993
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-949 1993-07-26 annexe JORF 27 juillet 1993
+  - Loi n°2014-344 du 17 mars 2014 - art. 81
 
 _Cite_:
 
-  - Code de la consommation - art. L421-1 (V)
+  - Code de la consommation - art. L421-1
 
 _Cité par_:
 
@@ -23216,7 +25988,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L621-5 (V)
 
 
-##### Section 2 : Action en cessation d'agissements illicites<a id=174></a>
+##### Section 2 : Action en cessation d'agissements illicites<a id=184></a>
 
 ###### Article L421-6
 
@@ -23228,6 +26000,11 @@ transposant les directives mentionnées à l'article 1er de la directive précit
 
 Le juge peut à ce titre ordonner, le cas échéant sous astreinte, la suppression d'une clause illicite ou abusive dans tout
 contrat ou type de contrat proposé ou destiné au consommateur.
+
+Les associations et les organismes mentionnés au premier alinéa peuvent également demander au juge de déclarer que cette
+clause est réputée non écrite dans tous les contrats identiques conclus par le même professionnel avec des consommateurs, y
+compris les contrats qui ne sont plus proposés, et de lui ordonner d'en informer à ses frais les consommateurs concernés par
+tous moyens appropriés.
 
 **Liens relatifs à cet article**
 
@@ -23241,7 +26018,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 45
+  - Loi n°2014-344 du 17 mars 2014 - art. 81
 
 _Cité par_:
 
@@ -23249,10 +26026,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L421-1 (V)
+  - Code de la consommation - art. L421-1
 
 
-##### Section 3 : Interventions en justice<a id=175></a>
+##### Section 3 : Interventions en justice<a id=185></a>
 
 ###### Article L421-7
 
@@ -23280,7 +26057,7 @@ _Cite_:
   - Code de la consommation - art. L421-2 (V)
 
 
-##### Section 4 : Dispositions communes<a id=176></a>
+##### Section 4 : Dispositions communes<a id=186></a>
 
 ###### Article L421-8
 
@@ -23346,7 +26123,7 @@ _Cite_:
   - Code pénal - art. 131-35
 
 
-#### Chapitre II : Action en représentation conjointe<a id=177></a>
+#### Chapitre II : Action en représentation conjointe<a id=187></a>
 
 ###### Article L422-1
 
@@ -23461,11 +26238,793 @@ _Nouveaux textes_:
   - Code de la consommation - art. L622-4 (V)
 
 
-## Livre V : Les institutions<a id=178></a>
+#### Chapitre III : Action de groupe<a id=188></a>
 
-### Titre III : L'Institut national de la consommation<a id=179></a>
+##### Section 1 : Champ d'application de l'action de groupe 
+et qualité pour agir<a id=189></a>
 
-#### Chapitre Ier : Organisation administrative<a id=180></a>
+###### Article L423-1
+
+Une association de défense des consommateurs représentative au niveau national et agréée en application de l'article L. 411-1
+peut agir devant une juridiction civile afin d'obtenir la réparation des préjudices individuels subis par des consommateurs
+placés dans une situation similaire ou identique et ayant pour cause commune un manquement d'un ou des mêmes professionnels à
+leurs obligations légales ou contractuelles : 
+
+1° A l'occasion de la vente de biens ou de la fourniture de services ; 
+
+2° Ou lorsque ces préjudices résultent de pratiques anticoncurrentielles au sens du titre II du livre IV du code de commerce
+ou des articles 101 et 102 du traité sur le fonctionnement de l'Union européenne. 
+
+L'action de groupe ne peut porter que sur la réparation des préjudices patrimoniaux résultant des dommages matériels subis
+par les consommateurs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Cité par_:
+
+  - Décret n°2014-1081 du 24 septembre 2014 (V)
+  - Code de la consommation - art. L423-15 (VT)
+  - Code de la consommation - art. L423-17 (VT)
+  - Code de la consommation - art. L423-18 (VT)
+  - Code de la consommation - art. L423-20 (VT)
+  - Code de la consommation - art. L423-23 (VT)
+  - Code de la consommation - art. L423-3 (VT)
+  - Code de la consommation - art. R423-1 (Ab)
+  - Code de la consommation - art. R423-18 (Ab)
+
+_Cite_:
+
+  - Code de la consommation - art. L411-1
+
+
+###### Article L423-2
+
+L'action de groupe est introduite selon des modalités fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-3 (V)
+
+
+##### Section 2 : Jugement sur la responsabilité<a id=190></a>
+
+###### Article L423-3
+
+Dans la même décision, le juge constate que les conditions de recevabilité mentionnées à l'article L. 423-1 sont réunies et
+statue sur la responsabilité du professionnel, au vu des cas individuels présentés par l'association requérante. Il définit
+le groupe des consommateurs à l'égard desquels la responsabilité du professionnel est engagée et en fixe les critères de
+rattachement. 
+
+Le juge détermine les préjudices susceptibles d'être réparés pour chaque consommateur ou chacune des catégories de
+consommateurs constituant le groupe qu'il a défini, ainsi que leur montant ou tous les éléments permettant l'évaluation de
+ces préjudices. Lorsqu'une réparation en nature du préjudice lui paraît plus adaptée, le juge précise les conditions de sa
+mise en œuvre par le professionnel. 
+
+A cette fin, à tout moment de la procédure, le juge peut ordonner toute mesure d'instruction légalement admissible nécessaire
+à la conservation des preuves et de production de pièces, y compris celles détenues par le professionnel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-1
+
+_Cité par_:
+
+  - Code de la consommation - art. L423-11 (VT)
+  - Code de la consommation - art. L423-17 (VT)
+  - Code de la consommation - art. L423-19 (VT)
+  - Code de la consommation - art. L423-20 (VT)
+  - Code de la consommation - art. L423-21 (VT)
+  - Code de la consommation - art. L423-22 (VT)
+  - Code de la consommation - art. L423-23 (VT)
+  - Code de la consommation - art. R423-18 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-4 (V)
+  - Code de la consommation - art. L623-5 (V)
+  - Code de la consommation - art. L623-6 (V)
+  - Code de la consommation - art. R623-6 (V)
+  - Code de la consommation - art. R623-9 (V)
+
+
+###### Article L423-4
+
+S'il juge que la responsabilité du professionnel est engagée, le juge ordonne par la même décision les mesures adaptées pour
+informer de cette décision les consommateurs susceptibles d'appartenir au groupe. 
+
+Les mesures de publicité de la décision sont à la charge du professionnel. Elles ne peuvent être mises en œuvre qu'une fois
+que la décision sur la responsabilité n'est plus susceptible de recours ordinaires ni de pourvoi en cassation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L423-19 (VT)
+  - Code de la consommation - art. R423-13 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-7 (V)
+
+
+###### Article L423-5
+
+Dans la même décision prononçant la responsabilité du professionnel, le juge fixe le délai dont disposent les consommateurs
+pour adhérer au groupe afin d'obtenir la réparation de leur préjudice. Ce délai ne peut être inférieur à deux mois ni
+supérieur à six mois après l'achèvement des mesures de publicité ordonnées par lui. 
+
+Il détermine les modalités de cette adhésion et précise si les consommateurs s'adressent directement au professionnel ou par
+l'intermédiaire de l'association ou de la personne mentionnée à l'article L. 423-9.
+
+L'adhésion au groupe vaut mandat aux fins d'indemnisation au profit de l'association requérante. 
+
+L'adhésion au groupe ne vaut ni n'implique adhésion à l'association requérante.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-9
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-8 (V)
+  - Code de la consommation - art. L623-9 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R423-16 (Ab)
+
+
+###### Article L423-6
+
+Toute somme reçue par l'association au titre de l'indemnisation des consommateurs lésés est immédiatement versée en compte de
+dépôt à la Caisse des dépôts et consignations. Ce compte ne peut faire l'objet de mouvements en débit que pour le versement
+des sommes dues aux intéressés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Cité par_:
+
+  - Code de la consommation - art. R423-18 (Ab)
+
+
+###### Article L423-7
+
+Le juge fixe le délai dans lequel doit intervenir la réparation des préjudices des consommateurs lésés, ainsi que celui
+ouvert, à cette échéance, pour le saisir en application de l'article L. 423-12 des demandes d'indemnisation auxquelles le
+professionnel n'a pas fait droit.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-12
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-11 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R423-20 (Ab)
+
+
+###### Article L423-8
+
+Lorsqu'il statue sur la responsabilité, le juge peut condamner le professionnel au paiement d'une provision à valoir sur les
+frais non compris dans les dépens exposés par l'association, y compris ceux afférents à la mise en œuvre de l'article L.
+423-9. 
+
+Il peut ordonner, lorsqu'il la juge nécessaire et compatible avec la nature de l'affaire, la consignation à la Caisse des
+dépôts et consignations d'une partie des sommes dues par le professionnel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-9
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-12 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R423-23 (Ab)
+
+
+###### Article L423-9
+
+L'association peut s'adjoindre, avec l'autorisation du juge, toute personne appartenant à une profession judiciaire
+réglementée, dont la liste est fixée par décret en Conseil d'Etat, pour l'assister, notamment afin qu'elle procède à la
+réception des demandes d'indemnisation des membres du groupe et plus généralement afin qu'elle représente les consommateurs
+lésés auprès du professionnel, en vue de leur indemnisation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L423-5 (VT)
+  - Code de la consommation - art. L423-6 (VT)
+  - Code de la consommation - art. L423-8 (VT)
+  - Code de la consommation - art. R423-5 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-13 (V)
+
+
+##### Section 3 : Procédure d'action de groupe simplifiée<a id=191></a>
+
+###### Article L423-10
+
+Lorsque l'identité et le nombre des consommateurs lésés sont connus et lorsque ces consommateurs ont subi un préjudice d'un
+même montant, d'un montant identique par prestation rendue ou d'un montant identique par référence à une période ou à une
+durée, le juge, après avoir statué sur la responsabilité du professionnel, peut condamner ce dernier à les indemniser
+directement et individuellement, dans un délai et selon des modalités qu'il fixe. 
+
+Préalablement à son exécution par le professionnel et selon des modalités et dans le délai fixés par le juge, cette décision,
+lorsqu'elle n'est plus susceptible de recours ordinaires ni de pourvoi en cassation, fait l'objet de mesures d'information
+individuelle des consommateurs concernés, aux frais du professionnel, afin de leur permettre d'accepter d'être indemnisés
+dans les termes de la décision. 
+
+En cas d'inexécution par le professionnel, à l'égard des consommateurs ayant accepté l'indemnisation, de la décision rendue
+dans le délai fixé, les articles L. 423-12 et L. 423-13 sont applicables et l'acceptation de l'indemnisation dans les termes
+de la décision vaut mandat aux fins d'indemnisation au profit de l'association. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-12
+
+_Cité par_:
+
+  - Code de la consommation - art. L423-20 (VT)
+  - Code de la consommation - art. L423-21 (VT)
+  - Code de la consommation - art. R423-11 (Ab)
+  - Code de la consommation - art. R423-8 (Ab)
+  - Code de la consommation - art. R423-9 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-14 (V)
+  - Code de la consommation - art. L623-15 (V)
+  - Code de la consommation - art. L623-16 (V)
+  - Code de la consommation - art. L623-17 (V)
+
+
+##### Section 4 : Mise en œuvre du jugement, liquidation des préjudices et exécution<a id=192></a>
+
+###### Article L423-11
+
+Le professionnel procède à l'indemnisation individuelle des préjudices subis par chaque consommateur, dans les conditions,
+limites et délais fixés par le jugement mentionné à l'article L. 423-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-18 (V)
+
+
+###### Article L423-12
+
+Le juge ayant statué sur la responsabilité tranche les difficultés qui s'élèvent à l'occasion de la mise en œuvre du
+jugement. 
+
+Il statue dans un même jugement sur toutes les demandes d'indemnisation auxquelles le professionnel n'a pas fait droit.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L423-10 (VT)
+  - Code de la consommation - art. L423-13 (VT)
+  - Code de la consommation - art. L423-7 (VT)
+  - Code de la consommation - art. R423-19 (Ab)
+  - Code de la consommation - art. R423-21 (Ab)
+  - Code de la consommation - art. R423-7 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-19 (V)
+  - Code de la consommation - art. R623-10 (V)
+
+
+###### Article L423-13
+
+L'association requérante représente les consommateurs membres du groupe qui n'ont pas été indemnisés par le professionnel
+dans les délais fixés, aux fins de l'exécution forcée du jugement mentionné au second alinéa de l'article L. 423-12.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-12 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-20 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R423-21 (Ab)
+
+
+###### Article L423-14
+
+L'intégralité des frais et des droits proportionnels de recouvrement ou d'encaissement prévus à l'article L. 111-8 du code
+des procédures civiles d'exécution, pour l'application des sections 1,2 et 4 du présent chapitre, est à la charge du
+professionnel visé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-21 (V)
+
+_Cite_:
+
+  - Code des procédures civiles d'exécution - art. L111-8
+
+
+##### Section 5 : Médiation<a id=193></a>
+
+###### Article L423-15
+
+Seule l'association requérante peut participer à une médiation, dans les conditions fixées au chapitre Ier du titre II de la
+loi n° 95-125 du 8 février 1995 relative à l'organisation des juridictions et à la procédure civile, pénale et
+administrative, afin d'obtenir la réparation des préjudices individuels mentionnés à l'article L. 423-1.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°95-125 du 8 février 1995
+  - Code de la consommation - art. L423-1
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-22 (V)
+
+
+###### Article L423-16
+
+Tout accord négocié au nom du groupe est soumis à l'homologation du juge, qui vérifie s'il est conforme aux intérêts de ceux
+auxquels il a vocation à s'appliquer et lui donne force exécutoire. Cet accord précise les mesures de publicité nécessaires
+pour informer les consommateurs concernés de la possibilité d'y adhérer, ainsi que les délais et modalités de cette adhésion.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L423-20 (VT)
+  - Code de la consommation - art. L423-21 (VT)
+  - Code de la consommation - art. L423-22 (VT)
+  - Code de la consommation - art. L423-23 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-23 (V)
+
+
+##### Section 6 : Modalités spécifiques à l'action de groupe intervenant dans le domaine de la concurrence<a id=194></a>
+
+###### Article L423-17
+
+Lorsque les manquements reprochés au professionnel portent sur le respect des règles définies au titre II du livre IV du code
+de commerce ou des articles 101 et 102 du traité sur le fonctionnement de l'Union européenne, la responsabilité du
+professionnel ne peut être prononcée dans le cadre de l'action mentionnée à l'article L. 423-1 que sur le fondement d'une
+décision prononcée à l'encontre du professionnel par les autorités ou juridictions nationales ou de l'Union européenne
+compétentes, qui constate les manquements et qui n'est plus susceptible de recours pour la partie relative à l'établissement
+des manquements. 
+
+Dans ces cas, les manquements du professionnel sont réputés établis de manière irréfragable pour l'application de l'article
+L. 423-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-1
+  - Code de la consommation - art. L423-3
+
+_Cité par_:
+
+  - Code de la consommation - art. L423-18 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-24 (M)
+
+
+###### Article L423-18
+
+L'action prévue à l'article L. 423-1 ne peut être engagée au-delà d'un délai de cinq ans à compter de la date à laquelle la
+décision mentionnée à l'article L. 423-17 n'est plus susceptible de recours.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-1
+  - Code de la consommation - art. L423-17 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-25 (V)
+
+
+###### Article L423-19
+
+Par dérogation au second alinéa de l'article L. 423-4, le juge peut ordonner l'exécution provisoire du jugement mentionné à
+l'article L. 423-3 pour ce qui concerne les seules mesures de publicité, afin de permettre aux consommateurs de se déclarer
+dans le délai imparti.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-3
+  - Code de la consommation - art. L423-4 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-26 (V)
+
+
+##### Section 7 : Dispositions diverses<a id=195></a>
+
+###### Article L423-20
+
+L'action mentionnée à l'article L. 423-1 suspend la prescription des actions individuelles en réparation des préjudices
+résultant des manquements constatés par le jugement prévu aux articles L. 423-3 ou L. 423-10. 
+
+Le délai de prescription recommence à courir, pour une durée qui ne peut être inférieure à six mois, à compter de la date à
+laquelle, selon le cas, le jugement rendu en application des articles L. 423-3 ou L. 423-10 n'est plus susceptible de recours
+ordinaire ou de pourvoi en cassation ou de l'homologation prévue à l'article L. 423-16.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-1
+  - Code de la consommation - art. L423-10
+  - Code de la consommation - art. L423-16
+  - Code de la consommation - art. L423-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-27 (V)
+
+
+###### Article L423-21
+
+Les décisions prévues aux articles L. 423-3 et L. 423-10 ainsi que celle résultant de l'application de l'article L. 423-16
+ont également autorité de la chose jugée à l'égard de chacun des membres du groupe dont le préjudice a été réparé au terme de
+la procédure.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-10 (VT)
+  - Code de la consommation - art. L423-16
+  - Code de la consommation - art. L423-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-28 (V)
+
+
+###### Article L423-22
+
+L'adhésion au groupe ne fait pas obstacle au droit d'agir selon les voies de droit commun pour obtenir la réparation des
+préjudices n'entrant pas dans le champ défini par la décision du juge mentionnée à l'article L. 423-3 ou d'un accord
+homologué en application de l'article L. 423-16.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-16
+  - Code de la consommation - art. L423-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-29 (V)
+
+
+###### Article L423-23
+
+N'est pas recevable l'action prévue à l'article L. 423-1 lorsqu'elle se fonde sur les mêmes faits, les mêmes manquements et
+la réparation des mêmes préjudices que ceux ayant déjà fait l'objet du jugement prévu à l'article L. 423-3 ou d'un accord
+homologué en application de l'article L. 423-16.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L423-1
+  - Code de la consommation - art. L423-16 (VT)
+  - Code de la consommation - art. L423-3 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-30 (V)
+
+
+###### Article L423-24
+
+Toute association de défense des consommateurs représentative au niveau national et agréée en application de l'article L.
+411-1 peut demander au juge, à compter de sa saisine en application de l'article L. 423-1 et à tout moment, sa substitution
+dans les droits de l'association requérante, en cas de défaillance de cette dernière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L411-1 (VT)
+  - Code de la consommation - art. L423-1 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-31 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. R423-23 (Ab)
+
+
+###### Article L423-25
+
+Est réputée non écrite toute clause ayant pour objet ou effet d'interdire à un consommateur de participer à une action de
+groupe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-32 (V)
+
+
+##### Section 8 : Dispositions relatives aux outre-mer<a id=196></a>
+
+###### Article L423-26
+
+Le présent chapitre est applicable dans les îles Wallis et Futuna.
+
+**Nota:**
+
+Conformément à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016, la partie législative du code de la consommation
+demeure en vigueur, dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance, en tant qu'elle
+s'applique à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en
+vigueur de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée.
+
+Ordonnance n° 2017-269 du 2 mars 2017 article 9 : La présente ordonnance entre en vigueur à la date d'entrée en vigueur du
+décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+
+## Livre V : Les institutions<a id=197></a>
+
+### Titre III : L'Institut national de la consommation<a id=198></a>
+
+#### Chapitre Ier : Organisation administrative<a id=199></a>
 
 ###### Article L531-1
 
@@ -23557,7 +27116,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L822-3 (V)
 
 
-#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=181></a>
+#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=200></a>
 
 ###### Article L534-1
 
@@ -23839,9 +27398,9 @@ _Cité par_:
   - Code de la consommation - art. R534-5 (Ab)
 
 
-### Titre IV : Le Conseil national de l'alimentation<a id=182></a>
+### Titre IV : Le Conseil national de l'alimentation<a id=201></a>
 
-#### Chapitre Ier<a id=183></a>
+#### Chapitre Ier<a id=202></a>
 
 ###### Article L541-1
 
@@ -23861,9 +27420,9 @@ _Cite_:
   - Code de la santé publique - art. L3231-1
 
 
-### Titre VI : Le laboratoire d'essais<a id=184></a>
+### Titre VI : Le laboratoire d'essais<a id=203></a>
 
-#### Chapitre Ier : Missions<a id=185></a>
+#### Chapitre Ier : Missions<a id=204></a>
 
 ###### Article L561-1
 
@@ -23914,7 +27473,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-1 (V)
 
 
-#### Chapitre II : Fonctionnement<a id=186></a>
+#### Chapitre II : Fonctionnement<a id=205></a>
 
 ###### Article L562-1
 
@@ -23944,13 +27503,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. L823-2 (V)
 
 
-# Partie réglementaire<a id=187></a>
+# Partie réglementaire<a id=206></a>
 
-## Livre Ier : Information des consommateurs et formation des contrats<a id=188></a>
+## Livre Ier : Information des consommateurs et formation des contrats<a id=207></a>
 
-### Titre Ier : Information des consommateurs<a id=189></a>
+### Titre Ier : Information des consommateurs<a id=208></a>
 
-#### Chapitre II : Modes de présentation et inscriptions<a id=190></a>
+#### Chapitre II : Modes de présentation et inscriptions<a id=209></a>
 
 ###### Article R112-1
 
@@ -25471,7 +29030,7 @@ _Cite_:
   - Code de la consommation
 
 
-#### Chapitre III : Prix et conditions de vente<a id=191></a>
+#### Chapitre III : Prix et conditions de vente<a id=210></a>
 
 ###### Article R113-1
 
@@ -25516,7 +29075,7 @@ _Cité par_:
   - Code du tourisme. - art. R231-1-4 (V)
 
 
-#### Chapitre IV : Information sur les délais de livraison<a id=192></a>
+#### Chapitre IV : Information sur les délais de livraison<a id=211></a>
 
 ###### Article R114-1
 
@@ -25543,9 +29102,9 @@ _Cite_:
   - Code de la consommation - art. L114-1
 
 
-#### Chapitre V : Valorisation des produits et des services<a id=193></a>
+#### Chapitre V : Valorisation des produits et des services<a id=212></a>
 
-##### Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer<a id=194></a>
+##### Section 4 : Certification des services et des produits autres qu'agricoles, forestiers, alimentaires ou de la mer<a id=213></a>
 
 ###### Article R115-1
 
@@ -25639,13 +29198,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R453-1 (V)
 
 
-### Titre II : Pratiques commerciales<a id=195></a>
+### Titre II : Pratiques commerciales<a id=214></a>
 
-#### Chapitre Ier : Pratiques commerciales réglementées<a id=196></a>
+#### Chapitre Ier : Pratiques commerciales réglementées<a id=215></a>
 
-##### Section 2 : Ventes de biens et fournitures de prestations de services à distance<a id=197></a>
+##### Section 2 : Ventes de biens et fournitures de prestations de services à distance<a id=216></a>
 
-##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers.<a id=198></a>
+##### Sous-section 1 : Dispositions relatives aux contrats ne portant pas sur des services financiers.<a id=217></a>
 
 ###### Article R121-1
 
@@ -25734,7 +29293,7 @@ _Cite_:
   - Code pénal - art. 131-41
 
 
-##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers<a id=199></a>
+##### Sous-section 2 : Dispositions particulières aux contrats portant sur des services financiers<a id=218></a>
 
 ###### Article R121-2-1
 
@@ -25965,7 +29524,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R121-6-1 (Ab)
 
 
-##### Section 3 : Démarchage<a id=200></a>
+##### Section 3 : Démarchage<a id=219></a>
 
 ###### Article R121-3
 
@@ -26111,7 +29670,7 @@ _Cite_:
   - Code de la consommation R121-4, R121-5
 
 
-##### Section 5 : Ventes ou prestations avec primes<a id=201></a>
+##### Section 5 : Ventes ou prestations avec primes<a id=220></a>
 
 ###### Article R121-8
 
@@ -26204,7 +29763,7 @@ _Cite_:
   - Code de la consommation
 
 
-##### Section 6 : Loteries publicitaires<a id=202></a>
+##### Section 6 : Loteries publicitaires<a id=221></a>
 
 ###### Article R121-11
 
@@ -26300,7 +29859,7 @@ _Cite_:
   - Code de la consommation L121-35, L122-1, R121-8, R121-10
 
 
-##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel<a id=203></a>
+##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel<a id=222></a>
 
 ###### Article R121-14
 
@@ -26552,9 +30111,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R242-15 (V)
 
 
-#### Chapitre II : Pratiques commerciales illicites<a id=204></a>
+#### Chapitre II : Pratiques commerciales illicites<a id=223></a>
 
-##### Section 2 : Ventes sans commande préalable.<a id=205></a>
+##### Section 2 : Ventes sans commande préalable.<a id=224></a>
 
 ###### Article R122-1
 
@@ -26615,7 +30174,7 @@ _Cite_:
   - PILOTE_SUIVEUR: Code pénal - art. R635-2
 
 
-#### Chapitre III : Dispositions relatives à l'outre-mer<a id=206></a>
+#### Chapitre III : Dispositions relatives à l'outre-mer<a id=225></a>
 
 ###### Article R123-1
 
@@ -26648,11 +30207,11 @@ _Cite_:
   - Code de la consommation - art. R121-2-1
 
 
-### Titre III : Conditions générales des contrats<a id=207></a>
+### Titre III : Conditions générales des contrats<a id=226></a>
 
-#### Chapitre II : Clauses abusives<a id=208></a>
+#### Chapitre II : Clauses abusives<a id=227></a>
 
-##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=209></a>
+##### Section 1 : Protection des consommateurs contre les clauses abusives<a id=228></a>
 
 ###### Article R132-1
 
@@ -26834,7 +30393,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R212-4 (V)
 
 
-#### Chapitre IV : Remise des contrats<a id=210></a>
+#### Chapitre IV : Remise des contrats<a id=229></a>
 
 ###### Article R134-1
 
@@ -26867,9 +30426,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R131-1 (V)
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=211></a>
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=230></a>
 
-#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=212></a>
+#### Chapitre Ier : Dispositions particulières relatives aux pouvoirs des agents et aux actions juridictionnelles<a id=231></a>
 
 ###### Article R141-1
 
@@ -27023,7 +30582,7 @@ _Cite_:
   - Code de la consommation - art. L141-1
 
 
-#### Chapitre II : Procédures civiles simplifiées<a id=213></a>
+#### Chapitre II : Procédures civiles simplifiées<a id=232></a>
 
 ###### Article R142-1
 
@@ -27194,13 +30753,13 @@ _Cite_:
   - Code de procédure civile - art. 97
 
 
-## Livre II : Qualité des produits et des services<a id=214></a>
+## Livre II : Qualité des produits et des services<a id=233></a>
 
-### Titre Ier : Conformité<a id=215></a>
+### Titre Ier : Conformité<a id=234></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=216></a>
+#### Chapitre Ier : Dispositions générales.<a id=235></a>
 
-##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=217></a>
+##### Section 2 : Dispositions particulières aux garanties conventionnelles.<a id=236></a>
 
 ###### Article R211-1
 
@@ -27339,9 +30898,9 @@ _Cite_:
   - Code de la consommation
 
 
-#### Chapitre IV : Mesures d'application.<a id=218></a>
+#### Chapitre IV : Mesures d'application.<a id=237></a>
 
-##### Section 1 : Dispositions générales<a id=219></a>
+##### Section 1 : Dispositions générales<a id=238></a>
 
 ###### Article R214-1
 
@@ -27380,7 +30939,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-17 (V)
 
 
-##### Section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux<a id=220></a>
+##### Section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux<a id=239></a>
 
 ###### Article R214-2
 
@@ -27411,7 +30970,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=221></a>
+##### Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=240></a>
 
 ###### Article R214-3
 
@@ -27439,7 +30998,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-19 (V)
 
 
-##### Section 4 : Organismes génétiquement modifiés<a id=222></a>
+##### Section 4 : Organismes génétiquement modifiés<a id=241></a>
 
 ###### Article R214-4
 
@@ -27475,7 +31034,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-20 (V)
 
 
-##### Section 5 : Boissons alcoolisées<a id=223></a>
+##### Section 5 : Boissons alcoolisées<a id=242></a>
 
 ###### Article R214-5
 
@@ -27522,7 +31081,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 6 :  Additifs, enzymes et arômes  destinés à l'alimentation humaine<a id=224></a>
+##### Section 6 :  Additifs, enzymes et arômes  destinés à l'alimentation humaine<a id=243></a>
 
 ###### Article R214-6
 
@@ -27566,7 +31125,7 @@ _Nouveaux textes_:
 
 
 ##### Section 7 : Adjonction de vitamines, de minéraux 
-et de certaines autres substances aux denrées alimentaires<a id=225></a>
+et de certaines autres substances aux denrées alimentaires<a id=244></a>
 
 ###### Article R214-7
 
@@ -27595,7 +31154,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-23 (V)
 
 
-##### Section 8 : Contaminants<a id=226></a>
+##### Section 8 : Contaminants<a id=245></a>
 
 ###### Article R214-8
 
@@ -27623,7 +31182,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-24 (V)
 
 
-##### Section 9 : Fruits et légumes<a id=227></a>
+##### Section 9 : Fruits et légumes<a id=246></a>
 
 ###### Article R214-9
 
@@ -27653,7 +31212,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 10 : Huile d'olive et olives de table<a id=228></a>
+##### Section 10 : Huile d'olive et olives de table<a id=247></a>
 
 ###### Article R214-10
 
@@ -27681,7 +31240,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 11 : Œufs et viande de volaille<a id=229></a>
+##### Section 11 : Œufs et viande de volaille<a id=248></a>
 
 ###### Article R214-11
 
@@ -27720,7 +31279,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 12 : Produits laitiers, colostrum et matières grasses laitières ou non<a id=230></a>
+##### Section 12 : Produits laitiers, colostrum et matières grasses laitières ou non<a id=249></a>
 
 ###### Article R214-12
 
@@ -27760,7 +31319,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 13 : Produits de la pêche<a id=231></a>
+##### Section 13 : Produits de la pêche<a id=250></a>
 
 ###### Article R214-13
 
@@ -27808,7 +31367,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 14 : Viandes bovine, ovine et porcine<a id=232></a>
+##### Section 14 : Viandes bovine, ovine et porcine<a id=251></a>
 
 ###### Article R214-14
 
@@ -27851,7 +31410,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 14 bis : Viande hachée et produits à base de viande<a id=233></a>
+##### Section 14 bis : Viande hachée et produits à base de viande<a id=252></a>
 
 ###### Article R214-14-1
 
@@ -27877,7 +31436,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 14 ter : Collagènes et gélatine<a id=234></a>
+##### Section 14 ter : Collagènes et gélatine<a id=253></a>
 
 ###### Article R214-14-2
 
@@ -27910,7 +31469,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-32 (V)
 
 
-##### Section 15 : Modes de valorisation<a id=235></a>
+##### Section 15 : Modes de valorisation<a id=254></a>
 
 ###### Article R214-15
 
@@ -27960,7 +31519,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale<a id=236></a>
+##### Section 16 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux, d'origine végétale et animale<a id=255></a>
 
 ###### Article R214-16
 
@@ -27988,7 +31547,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-34 (V)
 
 
-##### Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=237></a>
+##### Section 17 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=256></a>
 
 ###### Article R214-17
 
@@ -28019,7 +31578,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-35 (V)
 
 
-##### Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=238></a>
+##### Section 18 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=257></a>
 
 ###### Article R214-18
 
@@ -28055,7 +31614,7 @@ _Cite_:
   - Code de la consommation - art. L214-1
 
 
-##### Section 19 : Engrais<a id=239></a>
+##### Section 19 : Engrais<a id=258></a>
 
 ###### Article R214-19
 
@@ -28082,7 +31641,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-40 (V)
 
 
-##### Section 20 : Détergents<a id=240></a>
+##### Section 20 : Détergents<a id=259></a>
 
 ###### Article R214-20
 
@@ -28113,7 +31672,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-41 (V)
 
 
-##### Section 21 : Alimentation des animaux<a id=241></a>
+##### Section 21 : Alimentation des animaux<a id=260></a>
 
 ###### Article R214-21
 
@@ -28155,7 +31714,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-39 (V)
 
 
-##### Section 22 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 5° de l'article L. 214-1<a id=242></a>
+##### Section 22 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 5° de l'article L. 214-1<a id=261></a>
 
 ###### Article R214-22
 
@@ -28192,7 +31751,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-37 (V)
 
 
-##### Section 23 : Fibres et produits textiles<a id=243></a>
+##### Section 23 : Fibres et produits textiles<a id=262></a>
 
 ###### Article R214-23
 
@@ -28221,9 +31780,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-42 (V)
 
 
-##### Section 24 : Produits de construction<a id=244></a>
+##### Section 24 : Produits de construction<a id=263></a>
 
-##### Sous-section 1 : Dispositions générales<a id=245></a>
+##### Sous-section 1 : Dispositions générales<a id=264></a>
 
 ###### Article R214-24
 
@@ -28255,7 +31814,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-43 (V)
 
 
-##### Sous-section 2 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs<a id=246></a>
+##### Sous-section 2 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs<a id=265></a>
 
 ###### Article R214-25
 
@@ -28586,9 +32145,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R412-57 (V)
 
 
-#### Chapitre V : Pouvoirs d'enquête<a id=247></a>
+#### Chapitre V : Pouvoirs d'enquête<a id=266></a>
 
-##### Section 1 : Autorités qualifiées.<a id=248></a>
+##### Section 1 : Autorités qualifiées.<a id=267></a>
 
 ###### Article R215-1
 
@@ -28620,7 +32179,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 1
 
 
-##### Section 2 : Recherche et constatation.<a id=249></a>
+##### Section 2 : Recherche et constatation.<a id=268></a>
 
 ###### Article D215-16
 
@@ -29167,7 +32726,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 du 22 janvier 1919 - art. 36 (Ab)
 
 
-##### Section 4 : Expertises.<a id=250></a>
+##### Section 4 : Expertises.<a id=269></a>
 
 ###### Article R215-18
 
@@ -29440,7 +32999,7 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 23 bis
 
 
-#### Chapitre VI : Dispositions communes.<a id=251></a>
+#### Chapitre VI : Dispositions communes.<a id=270></a>
 
 ###### Article R216-2
 
@@ -29528,7 +33087,7 @@ _Cité par_:
   - Code de la consommation - art. R219-3 (Ab)
 
 
-#### Chapitre VII : Dispositions particulières.<a id=252></a>
+#### Chapitre VII : Dispositions particulières.<a id=271></a>
 
 ###### Article R217-1
 
@@ -29570,7 +33129,7 @@ _Cite_:
   - Code pénal - art. 132-15
 
 
-#### Chapitre VIII : Mesures de police administrative<a id=253></a>
+#### Chapitre VIII : Mesures de police administrative<a id=272></a>
 
 ###### Article R218-1
 
@@ -29611,9 +33170,9 @@ _Anciens textes_:
   - Décret n°1919-01-22 art. 35
 
 
-### Titre II : Sécurité<a id=254></a>
+### Titre II : Sécurité<a id=273></a>
 
-#### Chapitre III : Sanctions<a id=255></a>
+#### Chapitre III : Sanctions<a id=274></a>
 
 ###### Article R223-1
 
@@ -29793,7 +33352,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R452-4 (M)
 
 
-#### Chapitre V : Dispositions diverses<a id=256></a>
+#### Chapitre V : Dispositions diverses<a id=275></a>
 
 ###### Article D225-2
 
@@ -29823,13 +33382,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. D521-4 (V)
 
 
-## Livre III : Endettement<a id=257></a>
+## Livre III : Endettement<a id=276></a>
 
-### Titre Ier : Crédit<a id=258></a>
+### Titre Ier : Crédit<a id=277></a>
 
-#### Chapitre Ier : Crédit à la consommation<a id=259></a>
+#### Chapitre Ier : Crédit à la consommation<a id=278></a>
 
-##### Section 1 : Publicité<a id=260></a>
+##### Section 1 : Publicité<a id=279></a>
 
 ###### Article D311-1
 
@@ -29929,7 +33488,7 @@ _Cité par_:
   - Code de la consommation - art. R311-3 (VD)
 
 
-##### Section 2 : Information précontractuelle de l'emprunteur<a id=261></a>
+##### Section 2 : Information précontractuelle de l'emprunteur<a id=280></a>
 
 ###### Article R311-3
 
@@ -30059,7 +33618,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R312-6 (M)
 
 
-##### Section 3 : Formation du contrat de crédit<a id=262></a>
+##### Section 3 : Formation du contrat de crédit<a id=281></a>
 
 ###### Article D311-4-1
 
@@ -30325,7 +33884,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R312-9 (V)
 
 
-##### Section 4 : Informations mentionnées dans le contrat<a id=263></a>
+##### Section 4 : Informations mentionnées dans le contrat<a id=282></a>
 
 ###### Article R311-5
 
@@ -30491,7 +34050,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R312-14 (V)
 
 
-##### Section 5 : Exécution du contrat de crédit<a id=264></a>
+##### Section 5 : Exécution du contrat de crédit<a id=283></a>
 
 ###### Article D311-6
 
@@ -30598,7 +34157,7 @@ _Cite_:
   - Code de la consommation - art. L311-25
 
 
-##### Section 6 : Les crédits affectés<a id=265></a>
+##### Section 6 : Les crédits affectés<a id=284></a>
 
 ###### Article D311-10-1
 
@@ -30738,7 +34297,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R341-11 (V)
 
 
-##### Section 7 : Opérations de découvert en compte<a id=266></a>
+##### Section 7 : Opérations de découvert en compte<a id=285></a>
 
 ###### Article R311-11
 
@@ -30879,7 +34438,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R312-34 (V)
 
 
-##### Section 8 : Sanctions<a id=267></a>
+##### Section 8 : Sanctions<a id=286></a>
 
 ###### Article D311-14
 
@@ -30905,9 +34464,9 @@ _Cite_:
   - Code de la consommation - art. L311-22
 
 
-#### Chapitre II : Crédit immobilier<a id=268></a>
+#### Chapitre II : Crédit immobilier<a id=287></a>
 
-##### Section 3 : Le contrat de crédit<a id=269></a>
+##### Section 3 : Le contrat de crédit<a id=288></a>
 
 ###### Article R312-1
 
@@ -30983,9 +34542,9 @@ _Cité par_:
   - Code de la consommation - art. R315-2 (Ab)
 
 
-##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=270></a>
+##### Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur<a id=289></a>
 
-##### Sous-section 1 : Remboursement anticipé.<a id=271></a>
+##### Sous-section 1 : Remboursement anticipé.<a id=290></a>
 
 ###### Article R312-2
 
@@ -31016,7 +34575,7 @@ _Cite_:
   - Code de la consommation - art. L312-21 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur.<a id=272></a>
+##### Sous-section 2 : Défaillance de l'emprunteur.<a id=291></a>
 
 ###### Article R312-3
 
@@ -31051,7 +34610,7 @@ _Cité par_:
   - Code de la consommation - art. R315-2 (VT)
 
 
-##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=273></a>
+##### Section 6 : La location-vente et la location assortie d'une promesse de vente<a id=292></a>
 
 ###### Article R312-4
 
@@ -31086,11 +34645,11 @@ _Cite_:
   - Code de la consommation - art. L312-29
 
 
-#### Chapitre III : Dispositions communes<a id=274></a>
+#### Chapitre III : Dispositions communes<a id=293></a>
 
-##### Section 1 : Le taux d'intérêt<a id=275></a>
+##### Section 1 : Le taux d'intérêt<a id=294></a>
 
-##### Sous-section 1 : Le taux effectif global<a id=276></a>
+##### Sous-section 1 : Le taux effectif global<a id=295></a>
 
 ###### Article R313-1
 
@@ -31361,7 +34920,7 @@ _Nouveaux textes_:
   - PILOTE_SUIVEUR: Code monétaire et financier - art. R313-1 (V)
 
 
-##### Sous-section 2 : Le taux d'usure<a id=277></a>
+##### Sous-section 2 : Le taux d'usure<a id=296></a>
 
 ###### Article D313-6
 
@@ -31484,7 +35043,7 @@ _Cite_:
   - Code monétaire et financier - art. R312-1 (V)
 
 
-##### Section 3 : Rémunération du vendeur<a id=278></a>
+##### Section 3 : Rémunération du vendeur<a id=297></a>
 
 ###### Article R313-10
 
@@ -31528,7 +35087,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R341-25 (V)
 
 
-##### Section 7 :  Regroupement de crédits<a id=279></a>
+##### Section 7 :  Regroupement de crédits<a id=298></a>
 
 ###### Article R313-11
 
@@ -31741,9 +35300,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R314-21 (M)
 
 
-##### Annexes<a id=280></a>
+##### Annexes<a id=299></a>
 
-##### ANNEXE A L'ARTICLE R113-1<a id=281></a>
+##### ANNEXE A L'ARTICLE R113-1<a id=300></a>
 
 ###### Article Annexe à l'article R113-1
 
@@ -31778,7 +35337,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### Annexes au Chapitre II du Titre Ier du Livre Ier<a id=282></a>
+##### Annexes au Chapitre II du Titre Ier du Livre Ier<a id=301></a>
 
 ###### Article Annexe I
 
@@ -32331,7 +35890,7 @@ _Abrogé par_:
   - Décret n°2014-1489 du 11 décembre 2014 - art. 1
 
 
-##### ANNEXE A L'ARTICLE R211-2<a id=283></a>
+##### ANNEXE A L'ARTICLE R211-2<a id=302></a>
 
 ###### Article Annexe à l'article R211-2
 
@@ -32944,7 +36503,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE À L'ARTICLE R311-3<a id=284></a>
+##### ANNEXE À L'ARTICLE R311-3<a id=303></a>
 
 ###### Article Annexe à l'article R311-3
 
@@ -33580,7 +37139,7 @@ _Modifié par_:
   - Décret n°2012-1478 du 27 décembre 2012 - art. 3
 
 
-##### ANNEXE A L'ARTICLE R311-4<a id=285></a>
+##### ANNEXE A L'ARTICLE R311-4<a id=304></a>
 
 ###### Article Annexe à l'article R311-4
 
@@ -33619,7 +37178,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE À L'ARTICLE R311-5-1<a id=286></a>
+##### ANNEXE À L'ARTICLE R311-5-1<a id=305></a>
 
 ###### Article Annexe à l'article R311-5-1
 
@@ -33724,7 +37283,7 @@ _Cite_:
   - Code monétaire et financier - art. L612-1 (V)
 
 
-##### ANNEXE A L'ARTICLE R311-6<a id=287></a>
+##### ANNEXE A L'ARTICLE R311-6<a id=306></a>
 
 ###### Article Annexe Modèle type n° 1
 
@@ -35168,7 +38727,7 @@ _Cite_:
   - Code de la consommation - art. L331-7 (VT)
 
 
-##### ANNEXE A L'ARTICLE R311-7<a id=288></a>
+##### ANNEXE A L'ARTICLE R311-7<a id=307></a>
 
 ###### Article Annexe à l'article R311-7
 
@@ -35223,7 +38782,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE À L'ARTICLE R311-11<a id=289></a>
+##### ANNEXE À L'ARTICLE R311-11<a id=308></a>
 
 ###### Article Annexe à l'article R311-11
 
@@ -35667,7 +39226,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=290></a>
+##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=309></a>
 
 ###### Article Annexe à l'article R313-1
 
@@ -35797,7 +39356,7 @@ _Modifié par_:
   - Décret n°2012-1478 du 27 décembre 2012 - art. 1
 
 
-##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION<a id=291></a>
+##### ANNEXE À L'ARTICLE R313-1-1 DU CODE DE LA CONSOMMATION<a id=310></a>
 
 ###### Article ANNEXE A L'ARTICLE R313-13
 
@@ -36013,7 +39572,7 @@ _Cite_:
   - Code de la consommation - art. R313-1-1
 
 
-#### Chapitre IV : Prêt viager hypothécaire<a id=292></a>
+#### Chapitre IV : Prêt viager hypothécaire<a id=311></a>
 
 ###### Article R*314-1
 
@@ -36093,9 +39652,9 @@ _Cite_:
   - Code de la consommation - art. L314-10
 
 
-#### Chapitre V : Dispositions relatives à l'outre-mer<a id=293></a>
+#### Chapitre V : Dispositions relatives à l'outre-mer<a id=312></a>
 
-##### Section 1 : Crédit à la consommation<a id=294></a>
+##### Section 1 : Crédit à la consommation<a id=313></a>
 
 ###### Article R315-1
 
@@ -36134,7 +39693,7 @@ _Cite_:
   - Code de la consommation - art. R313-2 (Ab)
 
 
-##### Section 2 : Crédit immobilier<a id=295></a>
+##### Section 2 : Crédit immobilier<a id=314></a>
 
 ###### Article R315-2
 
@@ -36157,7 +39716,7 @@ _Cite_:
   - Code de la consommation - art. R312-3
 
 
-##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=296></a>
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=315></a>
 
 ###### Article R315-3
 
@@ -36233,7 +39792,7 @@ _Cite_:
   - Code de la consommation - art. R313-10
 
 
-##### Section 4 : Prêt viager hypothécaire<a id=297></a>
+##### Section 4 : Prêt viager hypothécaire<a id=316></a>
 
 ###### Article R315-6
 
@@ -36261,13 +39820,13 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-### Titre III : Traitement des situations de surendettement<a id=298></a>
+### Titre III : Traitement des situations de surendettement<a id=317></a>
 
-#### Chapitre préliminaire : Les organes de la procédure de surendettement<a id=299></a>
+#### Chapitre préliminaire : Les organes de la procédure de surendettement<a id=318></a>
 
-##### Section 1 : La commission de surendettement des particuliers<a id=300></a>
+##### Section 1 : La commission de surendettement des particuliers<a id=319></a>
 
-##### Paragraphe 1 : Répartition des commissions sur le territoire<a id=301></a>
+##### Paragraphe 1 : Répartition des commissions sur le territoire<a id=320></a>
 
 ###### Article R331-1
 
@@ -36302,7 +39861,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R712-1 (V)
 
 
-##### Paragraphe 2 : Composition des commissions<a id=302></a>
+##### Paragraphe 2 : Composition des commissions<a id=321></a>
 
 ###### Article R331-2
 
@@ -36490,7 +40049,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R712-7 (V)
 
 
-##### Paragraphe 3 : Fonctionnement des commissions<a id=303></a>
+##### Paragraphe 3 : Fonctionnement des commissions<a id=322></a>
 
 ###### Article R331-7
 
@@ -36587,7 +40146,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R712-11 (V)
 
 
-##### Paragraphe 4 : Procédure devant les commissions<a id=304></a>
+##### Paragraphe 4 : Procédure devant les commissions<a id=323></a>
 
 ###### Article R331-8
 
@@ -36746,7 +40305,7 @@ _Créé par_:
   - Décret n°2010-1304 du 29 octobre 2010 - art. 2
 
 
-##### Section 2 : Le juge du tribunal d'instance<a id=305></a>
+##### Section 2 : Le juge du tribunal d'instance<a id=324></a>
 
 ###### Article R331-9
 
@@ -36920,9 +40479,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R713-11 (V)
 
 
-#### Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement<a id=306></a>
+#### Chapitre Ier :  La recevabilité de la demande de traitement de la situation de surendettement<a id=325></a>
 
-##### Section 1 :  Examen de la recevabilité de la demande<a id=307></a>
+##### Section 1 :  Examen de la recevabilité de la demande<a id=326></a>
 
 ###### Article R331-10
 
@@ -37003,7 +40562,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R722-3 (V)
 
 
-##### Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=308></a>
+##### Section 2 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=327></a>
 
 ###### Article R331-11
 
@@ -37167,7 +40726,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R722-8 (V)
 
 
-##### Section 3 : Suspension des mesures d'expulsion<a id=309></a>
+##### Section 3 : Suspension des mesures d'expulsion<a id=328></a>
 
 ###### Article R331-12
 
@@ -37210,7 +40769,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R722-9 (V)
 
 
-##### Section 4 : Emoluments supportés par le débiteur<a id=310></a>
+##### Section 4 : Emoluments supportés par le débiteur<a id=329></a>
 
 ###### Article R331-13
 
@@ -37242,9 +40801,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R722-11 (V)
 
 
-#### Chapitre II : L'état du passif<a id=311></a>
+#### Chapitre II : L'état du passif<a id=330></a>
 
-##### Section 1 :  L'état du passif dressé par la commission<a id=312></a>
+##### Section 1 :  L'état du passif dressé par la commission<a id=331></a>
 
 ###### Article R332-1
 
@@ -37337,7 +40896,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R723-5 (V)
 
 
-##### Section 2 : La vérification des créances<a id=313></a>
+##### Section 2 : La vérification des créances<a id=332></a>
 
 ###### Article R332-3
 
@@ -37399,7 +40958,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R723-7 (V)
 
 
-#### Chapitre III :  L'orientation du dossier<a id=314></a>
+#### Chapitre III :  L'orientation du dossier<a id=333></a>
 
 ###### Article R333-1
 
@@ -37537,9 +41096,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R724-8 (V)
 
 
-#### Chapitre IV : Les mesures de traitement<a id=315></a>
+#### Chapitre IV : Les mesures de traitement<a id=334></a>
 
-##### Section 1 : Dispositions communes<a id=316></a>
+##### Section 1 : Dispositions communes<a id=335></a>
 
 ###### Article R334-1
 
@@ -37582,7 +41141,7 @@ _Cité par_:
   - Code de la consommation - art. R336-4 (VD)
 
 
-##### Section 2 : Le plan conventionnel<a id=317></a>
+##### Section 2 : Le plan conventionnel<a id=336></a>
 
 ###### Article R334-2
 
@@ -37640,9 +41199,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R732-2 (M)
 
 
-##### Section 3 : Les mesures de traitement ordinaires<a id=318></a>
+##### Section 3 : Les mesures de traitement ordinaires<a id=337></a>
 
-##### Paragraphe 1 : Les mesures imposées ou recommandées<a id=319></a>
+##### Paragraphe 1 : Les mesures imposées ou recommandées<a id=338></a>
 
 ###### Article R334-4
 
@@ -37999,7 +41558,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R733-13 (VT)
 
 
-##### Paragraphe 2 : La contestation des mesures de traitement ordinaires<a id=320></a>
+##### Paragraphe 2 : La contestation des mesures de traitement ordinaires<a id=339></a>
 
 ###### Article R334-14
 
@@ -38140,11 +41699,11 @@ _Cité par_:
   - Code monétaire et financier - art. R131-21-1 (M)
 
 
-##### Section 4 : Les procédures de rétablissement personnel<a id=321></a>
+##### Section 4 : Les procédures de rétablissement personnel<a id=340></a>
 
-##### Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire<a id=322></a>
+##### Sous-section 1 : La procédure de rétablissement personnel sans liquidation judiciaire<a id=341></a>
 
-##### Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire<a id=323></a>
+##### Paragraphe 1 :  La recommandation aux fins   de rétablissement personnel sans liquidation judiciaire<a id=342></a>
 
 ###### Article R334-19
 
@@ -38311,7 +41870,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R741-9 (VT)
 
 
-##### Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire<a id=324></a>
+##### Paragraphe 2 : La contestation de la recommandation aux fins de rétablissement   personnel sans liquidation judiciaire<a id=343></a>
 
 ###### Article R334-24
 
@@ -38410,7 +41969,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R741-13 (V)
 
 
-##### Paragraphe 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation<a id=325></a>
+##### Paragraphe 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation<a id=344></a>
 
 ###### Article R334-27-1
 
@@ -38493,9 +42052,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R741-17 (V)
 
 
-##### Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire<a id=326></a>
+##### Sous-section 2 : La procédure de rétablissement personnel avec liquidation judiciaire<a id=345></a>
 
-##### Paragraphe 1 : L'ouverture de la procédure<a id=327></a>
+##### Paragraphe 1 : L'ouverture de la procédure<a id=346></a>
 
 ###### Article R334-28
 
@@ -38743,7 +42302,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-10 (V)
 
 
-##### Paragraphe 2 :  La déclaration et l'arrêté des créances<a id=328></a>
+##### Paragraphe 2 :  La déclaration et l'arrêté des créances<a id=347></a>
 
 ###### Article R334-36
 
@@ -38913,9 +42472,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-17 (V)
 
 
-##### Paragraphe 3 : La liquidation des biens du débiteur<a id=329></a>
+##### Paragraphe 3 : La liquidation des biens du débiteur<a id=348></a>
 
-##### Sous-paragraphe 1 : Dispositions générales<a id=330></a>
+##### Sous-paragraphe 1 : Dispositions générales<a id=349></a>
 
 ###### Article R334-41
 
@@ -39097,7 +42656,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-26 (V)
 
 
-##### Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=331></a>
+##### Sous-paragraphe 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=350></a>
 
 ###### Article R334-48
 
@@ -39549,7 +43108,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-41 (V)
 
 
-##### Sous-paragraphe 3 : Répartition du produit des actifs<a id=332></a>
+##### Sous-paragraphe 3 : Répartition du produit des actifs<a id=351></a>
 
 ###### Article R334-61
 
@@ -39856,7 +43415,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-52 (V)
 
 
-##### Paragraphe 4 : La clôture de la procédure<a id=333></a>
+##### Paragraphe 4 : La clôture de la procédure<a id=352></a>
 
 ###### Article R334-72
 
@@ -39911,7 +43470,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-55 (V)
 
 
-##### Paragraphe 5 : Le plan<a id=334></a>
+##### Paragraphe 5 : Le plan<a id=353></a>
 
 ###### Article R334-74
 
@@ -39960,7 +43519,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R742-57 (V)
 
 
-##### Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire<a id=335></a>
+##### Sous-section 3 : Dispositions communes aux procédures de rétablissement personnel   sans liquidation judiciaire et avec liquidation judiciaire<a id=354></a>
 
 ###### Article R334-76
 
@@ -40026,7 +43585,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R743-2 (V)
 
 
-#### Chapitre V : Dispositions communes<a id=336></a>
+#### Chapitre V : Dispositions communes<a id=355></a>
 
 ###### Article R335-1
 
@@ -40138,9 +43697,9 @@ _Cite_:
   - Livre des procédures fiscales - art. R*247-18
 
 
-#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=337></a>
+#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=356></a>
 
-##### Section 1 : Dispositions particulières à Mayotte<a id=338></a>
+##### Section 1 : Dispositions particulières à Mayotte<a id=357></a>
 
 ###### Article R336-1
 
@@ -40271,7 +43830,7 @@ _Cite_:
   - Code de la consommation - art. R335-4 (V)
 
 
-##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=339></a>
+##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=358></a>
 
 ###### Article R336-2
 
@@ -40509,7 +44068,7 @@ _Cite_:
   - Code de la consommation - art. L332-8
 
 
-##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=340></a>
+##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=359></a>
 
 ###### Article R336-4
 
@@ -40643,7 +44202,7 @@ _Cite_:
   - Code de la consommation - art. R335-4 (V)
 
 
-##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=341></a>
+##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=360></a>
 
 ###### Article R336-5
 
@@ -40732,7 +44291,7 @@ _Cite_:
   - Code de la consommation - art. R334-23
 
 
-##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=342></a>
+##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=361></a>
 
 ###### Article R336-7
 
@@ -40832,11 +44391,11 @@ _Cite_:
   - Code de la consommation - art. R331-7-2
 
 
-## Livre IV : Les associations de consommateurs<a id=343></a>
+## Livre IV : Les associations de consommateurs<a id=362></a>
 
-### Titre Ier : Agrément des associations.<a id=344></a>
+### Titre Ier : Agrément des associations.<a id=363></a>
 
-#### Chapitre Ier : Les associations.<a id=345></a>
+#### Chapitre Ier : Les associations.<a id=364></a>
 
 ###### Article R411-1
 
@@ -41100,9 +44659,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : Action en justice des associations.<a id=346></a>
+### Titre II : Action en justice des associations.<a id=365></a>
 
-#### Chapitre II : Action en représentation conjointe.<a id=347></a>
+#### Chapitre II : Action en représentation conjointe.<a id=366></a>
 
 ###### Article R422-1
 
@@ -41429,7 +44988,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R622-10 (V)
 
 
-### Titre III : Reconnaissance spécifique des associations<a id=348></a>
+### Titre III : Reconnaissance spécifique des associations<a id=367></a>
 
 ###### Article R431-1
 
@@ -41541,13 +45100,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R812-3 (V)
 
 
-## Livre V : Les institutions<a id=349></a>
+## Livre V : Les institutions<a id=368></a>
 
-### Titre Ier : Les organes de concertation.<a id=350></a>
+### Titre Ier : Les organes de concertation.<a id=369></a>
 
-#### Chapitre Ier : Le Conseil national de la consommation.<a id=351></a>
+#### Chapitre Ier : Le Conseil national de la consommation.<a id=370></a>
 
-##### Section 1 : Missions et attributions.<a id=352></a>
+##### Section 1 : Missions et attributions.<a id=371></a>
 
 ###### Article D511-1
 
@@ -41695,7 +45254,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. D821-4 (V)
 
 
-##### Section 2 : Composition et organisation.<a id=353></a>
+##### Section 2 : Composition et organisation.<a id=372></a>
 
 ###### Article D511-5
 
@@ -41966,7 +45525,7 @@ _Cite_:
   - Code de la consommation - art. D511-7
 
 
-##### Section 3 : Fonctionnement.<a id=354></a>
+##### Section 3 : Fonctionnement.<a id=373></a>
 
 ###### Article D511-12
 
@@ -42185,9 +45744,9 @@ _Modifié par_:
   - Décret n°2005-249 du 14 mars 2005 - art. 7 () JORF 18 mars 2005
 
 
-### Titre II : Les organes de coordination administrative.<a id=355></a>
+### Titre II : Les organes de coordination administrative.<a id=374></a>
 
-#### Chapitre Ier : Le comité interministériel de la consommation.<a id=356></a>
+#### Chapitre Ier : Le comité interministériel de la consommation.<a id=375></a>
 
 ###### Article D521-1
 
@@ -42248,7 +45807,7 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-#### Chapitre II : Le groupe interministériel de la consommation.<a id=357></a>
+#### Chapitre II : Le groupe interministériel de la consommation.<a id=376></a>
 
 ###### Article D522-1
 
@@ -42418,9 +45977,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. D825-4 (Ab)
 
 
-### Titre III : L'institut national de la consommation.<a id=358></a>
+### Titre III : L'institut national de la consommation.<a id=377></a>
 
-#### Chapitre Ier : Organisation et administration.<a id=359></a>
+#### Chapitre Ier : Organisation et administration.<a id=378></a>
 
 ###### Article R531-1
 
@@ -42844,7 +46403,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-11 (M)
 
 
-#### Chapitre II : Organes consultatifs.<a id=360></a>
+#### Chapitre II : Organes consultatifs.<a id=379></a>
 
 ###### Article R532-1
 
@@ -42866,7 +46425,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-13 (V)
 
 
-#### Chapitre III : Dispositions financières et comptables.<a id=361></a>
+#### Chapitre III : Dispositions financières et comptables.<a id=380></a>
 
 ###### Article R533-3
 
@@ -42983,9 +46542,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-17 (M)
 
 
-#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=362></a>
+#### Chapitre IV : Les commissions placées auprès de l'Institut national de la consommation<a id=381></a>
 
-##### Section 1 : La commission des clauses abusives<a id=363></a>
+##### Section 1 : La commission des clauses abusives<a id=382></a>
 
 ###### Article R534-1
 
@@ -43131,7 +46690,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-21 (M)
 
 
-##### Section 2 : La commission de la sécurité des consommateurs<a id=364></a>
+##### Section 2 : La commission de la sécurité des consommateurs<a id=383></a>
 
 ###### Article R534-5
 
@@ -43306,7 +46865,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-27 (Ab)
 
 
-##### Section 3 : La commission de la médiation de la consommation<a id=365></a>
+##### Section 3 : La commission de la médiation de la consommation<a id=384></a>
 
 ###### Article R534-11
 
@@ -43383,7 +46942,7 @@ _Cite_:
   - Code de la consommation - art. R534-17
 
 
-##### Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation<a id=366></a>
+##### Section 4 : Dispositions communes aux commissions   placées auprès de l'Institut national de la consommation<a id=385></a>
 
 ###### Article R534-13
 
@@ -43571,7 +47130,7 @@ _Nouveaux textes_:
   - Code de la consommation - art. R822-32 (M)
 
 
-### Titre IV : Le conseil national de l'alimentation.<a id=367></a>
+### Titre IV : Le conseil national de l'alimentation.<a id=386></a>
 
 ###### Article D541-1
 
