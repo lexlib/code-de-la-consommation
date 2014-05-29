@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-05-29
+Version Consolidée au 2014-05-30
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -32225,8 +32225,8 @@ _Anciens textes_:
 
 Le remboursement des frais exposés pour la recherche et la constatation des infractions au livre II du présent code et des
 textes pris pour son application est effectué à l'appui d'un titre de perception unique émis par le préfet et recouvré par le
-comptable du Trésor public conformément aux dispositions prévues aux articles 23 à 28 et 112 à 124 du décret n° 2012-1246 du
-7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
+comptable de la direction générale des finances publiques conformément aux dispositions prévues aux articles 23 à 28 et 112 à
+124 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Ce titre précisera, par poste de dépense, les coûts indiqués par l'agent verbalisateur mentionné à l'article L. 215-1 et
 faisant l'objet de la demande de remboursement. 
@@ -32247,10 +32247,15 @@ _Codifié par_:
 _Cite_:
 
   - Décret n°2012-1246 du 7 novembre 2012 - art. 23
+  - Code de la consommation - art. L215-1
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 5
+  - Décret n°2014-552 du 27 mai 2014 - art. 4
+
+_Abrogé par_:
+
+  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
 
 
 ###### Article R215-2
@@ -32966,24 +32971,29 @@ _Anciens textes_:
 
 Dans le cas où il ressort du rapport du laboratoire que l'échantillon n'est pas conforme aux caractéristiques auxquelles le
 produit doit répondre, le service administratif dont relève l'agent verbalisateur, après toutes enquêtes complémentaires
-utiles, constitue le dossier compte tenu des renseignements à sa disposition.
+utiles, constitue le dossier compte tenu des renseignements à sa disposition. 
 
 Ce dossier est transmis au procureur de la République. S'il s'agit de produits soumis à une réglementation propre aux
-contributions indirectes, avis doit en être donné au directeur des services fiscaux du département.
+contributions indirectes, avis doit en être donné au     directeur régional des douanes et droits indirects territorialement
+compétent.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°1919-01-22 art. 23
-
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2005-1701 du 27 décembre 2005 - art. 1 () JORF 30 décembre 2005
+  - Décret n°2014-551 du 27 mai 2014 - art. 7
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R512-38 (V)
 
 
 ###### Article R215-23
