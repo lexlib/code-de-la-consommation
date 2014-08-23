@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-08-06
+Version Consolidée au 2014-08-24
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -23149,17 +23149,45 @@ _Abrogé par_:
 
 Pour leur application en Nouvelle-Calédonie et en Polynésie française : 
 
-1° A l'article L. 312-15, les mots : "et le contrat préliminaire prévu à l'article L. 261-15 du code de la construction et de
+1° Au premier alinéa de l'article L. 312-3-1, les mots : "étrangère à l'Union européenne remboursables en monnaie nationale"
+sont remplacés par les mots : "autre que l'euro ou le franc CFP" et, au deuxième alinéa, les mots : "monnaie nationale" sont
+remplacés par les mots : "euros ou en francs CFP" ; 
+
+2° Pour l'application de l'article L. 312-6-1, les mots : "en euros" sont remplacés par les mots : "en euros ou en francs
+CFP" ;. 
+
+3° A l'article L. 312-15, les mots : "et le contrat préliminaire prévu à l'article L. 261-15 du code de la construction et de
 l'habitation" sont supprimés ; 
 
-2° A l'article L. 312-36, les mots : "Le tribunal d'instance" sont remplacés par les mots : " Le tribunal de première
+4° A l'article L. 312-36, les mots : "Le tribunal d'instance" sont remplacés par les mots : "Le tribunal de première
 instance".
+
+**Nota:**
+
+Conformément à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016, la partie législative du code de la consommation
+demeure en vigueur, dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance, en tant qu'elle
+s'applique à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en
+vigueur de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée.
+
+Ordonnance n° 2017-269 du 2 mars 2017 article 9 : La présente ordonnance entre en vigueur à la date d'entrée en vigueur du
+décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 26
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L312-15 (VT)
+  - Code de la consommation - art. L312-36 (VT)
+  - Code de la consommation - art. L312-6-1
 
 
 ###### Article L315-4
@@ -23195,13 +23223,36 @@ _Abrogé par_:
 ###### Article L315-5
 
 Les articles L. 313-1 à L. 313-5 et L. 313-15 sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles
-Wallis et Futuna.
+Wallis et Futuna. 
+
+L'article L. 313-2-1 est applicable dans les îles Wallis et Futuna sous réserve de supprimer les mots : "et L. 312-6-1".
+
+**Nota:**
+
+Conformément à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016, la partie législative du code de la consommation
+demeure en vigueur, dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance, en tant qu'elle
+s'applique à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en
+Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en
+vigueur de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée.
+
+Ordonnance n° 2017-269 du 2 mars 2017 article 9 : La présente ordonnance entre en vigueur à la date d'entrée en vigueur du
+décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2011-1327 du 20 octobre 2011 - art. 4
+  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 25
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L313-1 (VT)
+  - Code de la consommation - art. L313-15 (VT)
+  - Code de la consommation - art. L313-2-1 (VT)
 
 
 ###### Article L315-6
@@ -26580,21 +26631,30 @@ Pour l'application de ces dispositions :
 a) Les références aux dispositions législatives du code du travail, et au code de procédure civile sont remplacées par les
 références aux dispositions applicables localement ayant le même objet ; 
 
-b) Les mots : juge de l'exécution sont remplacés partout où ils figurent par les mots : président du tribunal de première
-instance ou les juges délégués par lui.
+b) Les mots : "juge de l'exécution" sont remplacés partout où ils figurent par les mots : "président du tribunal de première
+instance ou les juges délégués par lui" ; 
+
+c) A la première phrase du deuxième alinéa de l'article L. 331-1, les mots : "responsable départemental de la direction
+générale des finances publiques chargé de la gestion publique" sont remplacés par les mots : "payeur des îles Wallis et
+Futuna" ; 
+
+d) La dernière phrase du septième alinéa du II de l'article L. 331-3 n'est pas applicable.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2011-322 du 24 mars 2011 - art. 5
+  - ORDONNANCE n°2014-946 du 20 août 2014 - art. 23 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L330-1
+  - Code de la consommation - art. L331-1
   - Code de la consommation - art. L331-2
+  - Code de la consommation - art. L331-3
   - Code de la consommation - art. L331-7
   - Code de la consommation - art. L331-7-1
+  - Code de la consommation - art. L333-7
   - Code de l'action sociale et des familles - art. L262-2
 
 
