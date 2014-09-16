@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-08-24
+Version Consolidée au 2014-09-17
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
