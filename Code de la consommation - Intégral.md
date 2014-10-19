@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-10-15
+Version Consolidée au 2014-10-20
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -296,7 +296,7 @@ et de certaines autres substances aux denrées alimentaires (art. R214-7)](#250)
           - [Section 2 : Information précontractuelle de l'emprunteur (art. R311-3)](#290)
           - [Section 3 : Formation du contrat de crédit (art. D311-4-1 à R311-4)](#291)
           - [Section 4 : Informations mentionnées dans le contrat (art. R311-5 à R311-5-1)](#292)
-          - [Section 5 : Exécution du contrat de crédit (art. D311-6 à D311-8)](#293)
+          - [Section 5 : Exécution du contrat de crédit (art. D311-6 à D311-8-1)](#293)
           - [Section 6 : Les crédits affectés (art. D311-10-1 à R311-10)](#294)
           - [Section 7 : Opérations de découvert en compte (art. R311-11 à R311-13)](#295)
           - [Section 8 : Sanctions (art. D311-14)](#296)
@@ -36355,6 +36355,40 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code de la consommation - art. L311-25
+
+
+###### Article D311-8-1
+
+Le crédit renouvelable mentionné à l'article L. 311-16 est considéré comme inactif si, pendant un an à compter de la date de
+la souscription ou de la date de dernière reconduction, le contrat de crédit ou tout moyen de paiement associé n'a fait
+l'objet d'aucune utilisation. Le document annexé mentionné au dixième alinéa de l'article L. 311-16 est envoyé au plus tard
+trois mois avant la date d'expiration du délai d'un an.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2014-1199 du 17 octobre 2014, ces dispositions s'appliquent à compter de l'entrée en
+vigueur du présent décret aux contrats souscrits à compter du 19 mars 2014. Les contrats en cours à la date du 19 mars 2014
+sont soumis aux règles prévues à l'article L. 311-16 du code de la consommation dans sa rédaction résultant de la loi du 17
+mars 2014 susvisée ainsi qu'à l'article 1er du présent décret au plus tard à compter de leur première reconduction
+intervenant à partir du 1er juillet 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1199 du 17 octobre 2014 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D312-31 (M)
+
+_Cite_:
+
+  - Code de la consommation - art. L311-16
 
 
 ##### Section 6 : Les crédits affectés<a id=294></a>
