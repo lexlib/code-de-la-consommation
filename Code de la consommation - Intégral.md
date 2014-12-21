@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-12-22
+Version Consolidée au 2014-12-22 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -8349,23 +8349,28 @@ d'information prévue au 4° du I de l'article L. 121-17.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Loi n°2014-1545 du 20 décembre 2014 - art. 54
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cité par_:
 
   - Code de l'énergie - art. L332-2 (M)
   - Code de l'énergie - art. L442-2 (VD)
-  - Code de la consommation - art. L121-88 (V)
+  - Code de la consommation - art. L121-88 (VT)
   - Code de la consommation - art. R121-14 (Ab)
 
 _Cite_:
 
   - Code de la consommation - art. L121-17
   - Code de la consommation - art. L121-21
-  - Code de la consommation - art. L121-21-5
+  - Code de la consommation - art. L121-21-5 (VT)
   - Code de l'action sociale et des familles - art. L115-3
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L224-3 (VT)
+  - Code de la consommation - art. L224-4 (V)
 
 
 ###### Article L121-88
