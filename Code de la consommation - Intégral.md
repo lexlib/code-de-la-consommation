@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2014-12-22 00:00:01 +0100
+Version Consolidée au 2015-01-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -314,7 +314,7 @@ et de certaines autres substances aux denrées alimentaires (art. R214-7)](#254)
           - [Section 6 : La location-vente et la location assortie d'une promesse de vente (art. R312-4)](#308)
         - [Chapitre III : Dispositions communes (art. R313-1 à Annexe à l'article R313-1-1)](#309)
           - [Section 1 : Le taux d'intérêt (art. R313-1 à D313-8)](#310)
-            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5)](#311)
+            - [Sous-section 1 : Le taux effectif global (art. R313-1 à R313-5-4)](#311)
             - [Sous-section 2 : Le taux d'usure (art. D313-6 à D313-8)](#312)
           - [Section 3 : Rémunération du vendeur (art. R313-10)](#313)
           - [Section 7 :  Regroupement de crédits (art. R313-11 à R313-14)](#314)
@@ -29622,27 +29622,26 @@ _Nouveaux textes_:
 
 ###### Article R113-1
 
-Sont punies de la peine d'amende prévue pour les contraventions de la cinquième classe, la vente de biens ou produits, ou la
-prestation de services à des prix fixés en violation des décrets pris en application de l'article 1er de l'ordonnance n°
-86-1243 du 1er décembre 1986 reproduit à l'article L. 113-1, ou des arrêtés ayant le même objet pris en application de
-l'ordonnance n° 45-1483 du 30 juin 1945 et maintenus en vigueur à titre transitoire par l'article 61 de l'ordonnance du 1er
-décembre 1986 ci-dessus mentionnée, figurant en annexe au présent code.
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de vendre, proposer à la vente ou
+promouvoir des biens, produits, ou prestations de services à des prix fixés en violation :
+
+- des textes réglementaires pris en application de l'article L. 410-2 du code de commerce reproduit à l'article L. 113-1, ou
+de ceux ayant le même objet pris en application de l'ordonnance n° 45-1483 du 30 juin 1945 et maintenus en vigueur à titre
+transitoire par l'article 61 de l'ordonnance n° 86-1243 du 1er décembre 1986, figurant en annexe au présent code ;
+
+- de l'article L. 3122-2 du code des transports. 
 
 En cas de récidive, les peines d'amende prévues pour la récidive des contraventions de la cinquième classe sont applicables.
-
-**Nota:**
-
-L'article 1er de l'ordonnance 86-1243 du 1er décembre 1986 a été abrogé par l'ordonnance 2000-912 du 18 septembre 2000 et
-repris dans le code du commerce à l'article L. 410-2.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Ordonnance n°45-1483 du 30 juin 1945
-  - Ordonnance n°86-1243 du 1 décembre 1986
+  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 61
+  - Code de commerce - art. L410-2
   - Code de la consommation - art. L113-1
-  - Code de la consommation - art. L113-3
+  - Code des transports - art. L3122-2
 
 _Codifié par_:
 
@@ -29650,7 +29649,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1109 du 30 septembre 2014 - art. 38
+  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
 
 _Cité par_:
 
@@ -34564,20 +34563,21 @@ premier alinéa de l'article L. 311-5 :
 
 2° Le nombre d'échéances pour chacune des échéances d'un même montant. 
 
-IV. ― Dans les cas prévus au dixième alinéa de l'article L. 311-4 du code de la consommation, l'exemple représentatif
-indique, en plus des indications prévues au I et dans la même taille de caractère : 
+IV. ― Dans les cas prévus à l'article L. 311-4-1 du code de la consommation, l'exemple représentatif indique, en plus des
+indications prévues au I et dans la même taille de caractère : 
 
 1° Que le montant des échéances est donné " hors assurance facultative " ; 
 
-2° Le coût en euros et par mois de l'assurance facultative ayant pour objet la garantie de remboursement du crédit, sur la
-base de la cotisation mensuelle la plus élevée prévue par l'offre commerciale sur laquelle porte la publicité.
+2° Le coût de l'assurance facultative ayant pour objet la garantie de remboursement d'un crédit. Ce coût est exprimé dans
+l'offre commerciale sur laquelle porte la publicité en euros par mois, en montant total dû en euros sur la durée prévue au 4°
+du I du présent article et en taux annuel effectif de l'assurance calculé conformément à l'article R. 313-5-1, sur la base de
+la cotisation mensuelle la plus élevée prévue par l'offre commerciale.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°88-293 du 25 mars 1988 - art. 1 (Ab)
-  - Code de la consommation - art. D311-3-1 (VT)
 
 _Codifié par_:
 
@@ -34585,11 +34585,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-136 du 1er février 2011 - art. 1
+  - Décret n°2014-1190 du 15 octobre 2014 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D312-21 (V)
+  - Code de la consommation - art. D312-22 (V)
+  - Code de la consommation - art. D312-23 (V)
+  - Code de la consommation - art. D312-24 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L311-3
+  - Code de la consommation - art. L311-4-1
+  - Code de la consommation - art. R313-5-1
 
 _Cité par_:
 
@@ -36143,6 +36155,120 @@ _Nouveaux textes_:
 **Liens**:
 
   - PILOTE_SUIVEUR: Code monétaire et financier - art. R313-1 (V)
+
+
+###### Article R313-5-1
+
+Le taux annuel effectif de l'assurance mentionné à l'article L. 311-4-1 est égal à la différence entre : 
+
+1° Le taux annuel effectif global défini à l'article L. 313-1, calculé conformément aux articles R. 313-1 à R. 313-5 en
+prenant comme hypothèse que l'assurance proposée ayant pour objet le remboursement du crédit est intégralement exigée par le
+prêteur, d'une part, et 
+
+2° Le taux annuel effectif global défini à l'article L. 313-1, calculé conformément aux articles R. 313-1 à R. 313-5 en
+prenant comme hypothèse qu'aucune assurance n'est exigée par le prêteur, d'autre part. 
+
+Pour les besoins du calcul du taux annuel effectif de l'assurance, la méthode employée est la même que celle employée pour le
+calcul du taux annuel effectif global, c'est-à-dire soit la méthode d'actualisation des flux, soit la méthode des intérêts
+composés en capitalisant le taux périodique sur une durée d'un an.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1190 du 15 octobre 2014 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. D311-1 (Ab)
+
+_Cite_:
+
+  - Code de la consommation - art. L313-1
+  - Code de la consommation - art. R313-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R314-11 (V)
+
+
+###### Article R313-5-2
+
+Le taux annuel effectif de l'assurance mentionné à l'article L. 312-6-1 est égal à la différence entre : 
+
+1° Le taux effectif global défini à l'article L. 313-1, calculé conformément aux articles R. 313-1 à R. 313-5 en prenant
+comme hypothèse que l'assurance proposée ayant pour objet le remboursement du crédit est intégralement exigée par le prêteur,
+d'une part, et 
+
+2° Le taux effectif global défini à l'article L. 313-1, calculé conformément aux articles R. 313-1 à R. 313-5 en prenant
+comme hypothèse qu'aucune assurance n'est exigée par le prêteur, d'autre part. 
+
+Pour les besoins du calcul du taux annuel effectif de l'assurance, la méthode employée est la même que celle employée pour le
+calcul du taux effectif global, c'est-à-dire soit la méthode d'actualisation des flux, soit la méthode des intérêts composés
+en capitalisant le taux périodique sur une durée d'un an.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1190 du 15 octobre 2014 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L313-1
+  - Code de la consommation - art. R313-1 (Ab)
+
+_Cité par_:
+
+  - Code de la consommation - art. R312-0-1 (Ab)
+  - Code de la consommation - art. R315-5 (Ab)
+
+
+###### Article R313-5-3
+
+Le taux annuel effectif de l'assurance est accompagné de la mention des garanties dont il intègre le coût.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1190 du 15 octobre 2014 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R314-13 (V)
+
+
+###### Article R313-5-4
+
+Le taux annuel effectif de l'assurance n'est pas mentionné pour les opérations de location-vente et de location avec option
+d'achat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1190 du 15 octobre 2014 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R314-14 (V)
 
 
 ##### Sous-section 2 : Le taux d'usure<a id=312></a>
