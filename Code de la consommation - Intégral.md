@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-01-15
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -403,7 +403,7 @@ et de certaines autres substances aux denrées alimentaires (art. R214-7)](#254)
       - [Titre Ier : Les organes de concertation. (art. D511-1 à D511-17)](#397)
         - [Chapitre Ier : Le Conseil national de la consommation. (art. D511-1 à D511-17)](#398)
           - [Section 1 : Missions et attributions. (art. D511-1 à D511-4)](#399)
-          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11-1)](#400)
+          - [Section 2 : Composition et organisation. (art. D511-5 à D511-11)](#400)
           - [Section 3 : Fonctionnement. (art. D511-12 à D511-17)](#401)
       - [Titre II : Les organes de coordination administrative. (art. D521-1 à D522-4)](#402)
         - [Chapitre Ier : Le comité interministériel de la consommation. (art. D521-1 à D521-2)](#403)
@@ -46910,61 +46910,52 @@ _Nouveaux textes_:
 
 Le Conseil national de la consommation est un organisme consultatif placé auprès du ministre chargé de la consommation.
 
-Il a pour objet de permettre la confrontation et la concertation entre les représentants des intérêts collectifs des
-consommateurs et usagers et les représentants des professionnels, des services publics et des pouvoirs publics, pour tout ce
-qui a trait aux problèmes de la consommation.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-de la consommation).
+Il a pour objet de permettre le débat et la concertation entre les pouvoirs publics, les représentants des associations de
+défense des consommateurs et les représentants des organisations professionnelles ainsi que des entreprises assurant des
+missions de service public, pour tout ce qui a trait aux problèmes de la consommation.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°83-642 1983-07-12 art. 1 et art. 2 al. 1
   - Décret n°83-642 du 12 juillet 1983 - art. 1 (Ab)
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Créé par_:
-
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Cité par_:
 
   - Décret n°2009-623 du 6 juin 2009 - art. Annexe (V)
   - Décret n°2015-1607 du 7 décembre 2015 (V)
 
+_Modifié par_:
+
+  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+
 
 ###### Article D511-2
 
-Des accords entre professionnels ou prestataires de services publics et privés et consommateurs ou usagers peuvent être
-négociés dans le cadre du Conseil national de la consommation.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-de la consommation).
+Des accords entre organisations professionnelles ou prestataires de services publics et privés et associations de défense des
+consommateurs  peuvent être négociés dans le cadre du Conseil national de la consommation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°83-642 1983-07-12 art. 2 al. 2
-
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D821-2 (V)
 
 
 ###### Article D511-3
@@ -47091,19 +47082,18 @@ _Nouveaux textes_:
 
 Le Conseil national de la consommation est composé :
 
-1° D'un collège de consommateurs et usagers dont les membres sont nommés pour une durée de trois ans, sur proposition de
-chacune des associations de défense des consommateurs agréées au niveau national pour ester en justice, par arrêté du
-ministre chargé de la consommation.
+1° D'un collège constitué des associations de défense des consommateurs disposant de l'agrément prévu au titre Ier du livre
+IV de la partie législative du présent code ;
 
-2° D'un collège de professionnels représentant les activités agricoles, industrielles, artisanales, commerciales et de
-services publics et privés, dont les membres sont nommés pour une durée de trois ans, après avis des ministres intéressés,
-par arrêté du ministre chargé de la consommation.
+2° D'un collège comprenant des organisations professionnelles les plus représentatives des activités industrielles,
+commerciales, artisanales et agricoles et de services privés ainsi que d'entreprises assurant des missions de service public.
 
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-de la consommation).
+Les associations de défense des consommateurs, les organisations professionnelles et les entreprises répondant aux critères
+définis au présent article sont nommées au Conseil national de la consommation, par arrêté du ministre chargé de la
+consommation, pour une durée de trois ans. Les organisations professionnelles et les entreprises mentionnées au 2° sont
+nommées après avis des ministres intéressés. L'arrêté précise le nombre de sièges de membres titulaires ou de membres
+suppléants dont dispose chaque organisation ou entreprise nommée au Conseil national de la consommation. Il accorde un siège
+de membre titulaire et deux sièges de membres suppléants à chaque association de défense des consommateurs.
 
 **Liens relatifs à cet article**
 
@@ -47113,26 +47103,29 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2010-801 du 13 juillet 2010 - art. 3
+  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 _Cité par_:
 
+  - Code de la consommation - art. D511-11 (Ab)
   - Code de la consommation - art. D511-11-1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D821-6 (V)
 
 
 ###### Article D511-7
 
-Participent de plein droit aux travaux du Conseil national de la consommation les représentants des ministères composant le
-groupe interministériel de la consommation défini à l'article D. 522-1. 
+Les représentants des ministères composant le groupe interministériel de la consommation défini à l'article D. 522-1
+participent aux travaux du Conseil national de la consommation, en fonction des sujets traités. 
 
 Les représentants des autres ministres peuvent participer, soit à leur demande, soit à celle du président du Conseil national
 de la consommation, aux séances du Conseil national de la consommation telles qu'elles sont définies à l'article D. 511-12.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-de la consommation).
 
 **Liens relatifs à cet article**
 
@@ -47142,11 +47135,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 _Cité par_:
 
@@ -47154,20 +47151,18 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. D511-12 (V)
-  - Code de la consommation - art. D522-1 (V)
+  - Code de la consommation - art. D511-12
+  - Code de la consommation - art. D522-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D821-7 (M)
 
 
 ###### Article D511-8
 
-Participent de plein droit aux travaux du Conseil national de la consommation les représentants des organismes dont la liste
-est fixée par arrêté du ministre chargé de la consommation.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-de la consommation).
+Les représentants des organismes dont la liste est fixée par arrêté du ministre chargé de la consommation participent aux
+travaux du Conseil national de la consommation, en fonction des sujets traités.
 
 **Liens relatifs à cet article**
 
@@ -47177,15 +47172,23 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
-
-_Modifié par_:
-
-  - Décret n°2005-249 du 14 mars 2005 - art. 2 () JORF 18 mars 2005
+  - Décret n°97-298 du 27 mars 1997
 
 _Cité par_:
 
   - Arrêté du 14 mars 2005 - art. 3 (V)
+
+_Modifié par_:
+
+  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D821-8 (V)
 
 
 ###### Article D511-9
@@ -47229,19 +47232,9 @@ _Nouveaux textes_:
 
 ###### Article D511-10
 
-Les membres du collège des consommateurs et usagers et du collège des professionnels ont voix délibérative. Des membres
-suppléants sont nommés dans les mêmes conditions que les titulaires et en nombre égal. Le membre suppléant remplace de plein
-droit le titulaire absent ou empêché.
-
-Lorsqu'un membre titulaire ou suppléant nommé pour une période de trois ans cesse ses fonctions, notamment pour avoir perdu
-la qualité en raison de laquelle il avait été désigné, un successeur est nommé pour la durée de la période restant à courir,
-sauf si cette durée est inférieure à quatre mois.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-de la consommation).
+Les membres titulaires du collège des associations de défense des consommateurs  et du collège des organisations
+professionnelles et des entreprises assurant des missions de service public  ont voix délibérative. Le titulaire absent ou
+empêché est remplacé de plein droit par son premier suppléant ou à défaut, par son second suppléant.
 
 **Liens relatifs à cet article**
 
@@ -47251,26 +47244,50 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°97-298 du 27 mars 1997 - art. 1 (V) JORF 3 avril 1997
+  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cité par_:
+
+  - Code de la consommation - art. D511-12 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D821-10 (V)
 
 
 ###### Article D511-11
 
-Il est constitué un bureau du Conseil national de la consommation composé à parité de sept membres délégués par le collège
-des professionnels et de sept membres délégués par le collège des consommateurs et usagers. 
+Il est constitué un bureau du Conseil national de la consommation comprenant, pour chaque collège, sept membres titulaires et
+un nombre égal de membres suppléants. 
 
-Font partie des membres du collège des consommateurs et usagers délégués à ce bureau les membres titulaires du collège des
-consommateurs et usagers qui ont été nommés dans ce collège dans les conditions prévues à l'article R. 511-6, sur proposition
-d'une association de défense des consommateurs bénéficiant de la reconnaissance spécifique prévue à l'article R. 431-1. Si le
-nombre de ces associations est inférieur à sept, le collège des consommateurs du bureau est complété, dans les mêmes
-conditions, sur proposition des autres associations de défense des consommateurs agréées au niveau national. 
+Les associations nationales de défense des consommateurs, bénéficiant de la reconnaissance spécifique prévue à l'article R.
+431-1 du code de la consommation, sont membres de droit du bureau. Elles y sont représentées par leur titulaire et leur
+premier suppléant au Conseil national de la consommation. 
 
-Des membres suppléants sont nommés dans les mêmes conditions que les titulaires et en nombre égal. Le membre suppléant
-remplace de plein droit le titulaire absent ou empêché. 
+Le collège des associations de défense des consommateurs siégeant au bureau est complété sur proposition des autres
+associations de défense de consommateurs siégeant au collège mentionné au 1° de l'article D. 511-6. 
+
+Sur proposition du collège mentionné au 2° de l'article D. 511-6, siègent au bureau du Conseil national de la consommation
+les représentants des professionnels, membres de ce collège. 
+
+Les membres du bureau du Conseil national de la consommation sont nommés par un arrêté du ministre chargé de la consommation
+fixant le nombre de sièges de membres titulaires ou de membres suppléants dont dispose chaque association, organisation ou
+entreprise nommée au sein de ce bureau. 
+
+Le membre suppléant remplace de plein droit au bureau le titulaire absent ou empêché qui lui a remis un pouvoir. A défaut, un
+pouvoir peut être remis à un autre membre du bureau. 
+
+Le ministre chargé de la consommation peut mettre fin au mandat au sein du bureau d'une association nationale de défense des
+consommateurs, d'une organisation professionnelle ou d'une entreprise assurant des missions de service public qui, sans
+raison légitime, n'a pas assuré sa représentation pendant trois séances consécutives. 
 
 Les réunions du bureau sont présidées par le ministre chargé de la consommation ou son représentant. 
 
@@ -47290,49 +47307,47 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2010-801 du 13 juillet 2010 - art. 4
+  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. D511-6 (Ab)
+  - Code de la consommation - art. R431-1
 
 _Cité par_:
 
   - Code de la consommation - art. D511-9 (Ab)
 
-_Cite_:
+_Nouveaux textes_:
 
-  - Code de la consommation - art. R431-1
-
-
-###### Article D511-11-1
-
-La formation plénière du Conseil national de la consommation est composée de tous les membres du collège des consommateurs et
-usagers et du collège des professionnels du conseil mentionnés à l'article D. 511-6, ainsi que des participants de droit
-prévus aux articles D. 511-7 et D. 511-8.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2010-801 du 13 juillet 2010 - art. 5
-
-_Abrogé par_:
-
-  - Décret n°2015-23 du 12 janvier 2015 - art. 1
-
-_Cite_:
-
-  - Code de la consommation - art. D511-6
-  - Code de la consommation - art. D511-7
+  - Code de la consommation - art. D821-11 (V)
 
 
 ##### Section 3 : Fonctionnement.<a id=401></a>
 
 ###### Article D511-12
 
-Le Conseil national de la consommation dans sa formation plénière est convoqué par le ministre chargé de la consommation, de
-sa propre initiative ou à la demande de la majorité des membres titulaires d'un des deux collèges ou de la majorité des
-membres titulaires du bureau. Il tient au moins une séance plénière par an.
+Le Conseil national de la consommation est convoqué en séance plénière par le ministre chargé de la consommation, de sa
+propre initiative ou à la demande de la majorité des membres titulaires d'un des deux collèges ou de la majorité des membres
+titulaires du bureau. Il tient au moins une séance plénière par an. 
+
+Par dérogation aux règles de remplacement définies à l'article D. 511-10, tout membre titulaire ou suppléant du Conseil
+national de la consommation peut participer à la séance plénière du conseil lorsque celui-ci siège en formation
+extraordinaire pour débattre sur une communication du ministre chargé de la consommation. 
+
+La convocation de la séance plénière précise les points de l'ordre du jour traités, éventuellement, en formation plénière
+extraordinaire. 
+
+Aucun vote ne peut intervenir en formation plénière extraordinaire du conseil. 
+
+Le Conseil national de la consommation tient au moins deux séances plénières par an. 
 
 La réunion d'un seul collège se fait sur convocation du ministre chargé de la consommation, de sa propre initiative ou à la
-demande des deux tiers des membres titulaires de l'un ou l'autre des collèges.
+demande des deux tiers des membres titulaires de l'un ou l'autre des collèges. 
 
 La consultation du Conseil national de la consommation ou d'un seul collège peut être effectuée :
 
@@ -47342,30 +47357,35 @@ La consultation du Conseil national de la consommation ou d'un seul collège peu
 
 - soit par voie écrite.
 
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-de la consommation).
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°83-642 du 12 juillet 1983 - art. 12 (M)
   - Décret n°83-642 du 12 juillet 1983 - art. 12 (Ab)
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2005-249 du 14 mars 2005 - art. 5 () JORF 18 mars 2005
+  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. D511-10 (Ab)
 
 _Cité par_:
 
   - Code de la consommation - art. D511-7 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D821-12 (V)
 
 
 ###### Article D511-13
@@ -47517,15 +47537,9 @@ _Nouveaux textes_:
 ###### Article D511-17
 
 Les désignations des représentants des associations de consommateurs effectuées sur proposition ou avis du Conseil national
-de la consommation seront faites sur proposition ou avis du collège de consommateurs et usagers du Conseil national de la
-consommation. Les modalités pratiques de ces consultations sont précisées dans l'arrêté portant règlement intérieur du
-Conseil national de la consommation.
-
-**Nota:**
-
-Décret n° 2009-623 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil national
-de la consommation).
+de la consommation seront faites sur proposition ou avis du collège des associations de défense des consommateurs  du Conseil
+national de la consommation. Les modalités pratiques de ces consultations sont précisées dans l'arrêté portant règlement
+intérieur du Conseil national de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -47535,11 +47549,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°97-298 1997-03-27 JORF 3 avril 1997
+  - Décret n°97-298 du 27 mars 1997
 
 _Modifié par_:
 
-  - Décret n°2005-249 du 14 mars 2005 - art. 7 () JORF 18 mars 2005
+  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D821-17 (V)
 
 
 ### Titre II : Les organes de coordination administrative.<a id=402></a>
