@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-02-01
+Version Consolidée au 2015-03-01
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -221,7 +221,7 @@ et qualité pour agir (art. L423-1 à L423-2)](#199)
   - [Partie réglementaire (art. R111-1 à D541-7)](#216)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. R111-1 à R143-2)](#217)
       - [Titre Ier : Information des consommateurs (art. R111-1 à R115-3)](#218)
-        - [Chapitre Ier : Obligation générale d'information précontractuelle (art. R111-1 à R111-2)](#219)
+        - [Chapitre Ier : Obligation générale d'information précontractuelle (art. R111-1 à R111-4)](#219)
         - [Chapitre II : Modes de présentation et inscriptions (art. R112-10 à R112-8)](#220)
           - [Section 1 : Produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou spécialité traditionnelle garantie (art. R112-1)](#221)
           - [Section 2 : Identification du lot (art. R112-2 à R112-5)](#222)
@@ -29183,6 +29183,70 @@ _Nouveaux textes_:
   - Code de la consommation - art. R111-3 (V)
 
 
+###### Article R111-3
+
+En application du premier alinéa de l'article L. 111-3, l'information délivrée par le fabricant ou l'importateur de biens
+meubles au vendeur professionnel, portant sur la période pendant laquelle ou la date jusqu'à laquelle les pièces détachées
+indispensables à l'utilisation d'un bien sont disponibles, doit figurer sur tout document commercial ou sur tout support
+durable accompagnant la vente de biens meubles. 
+
+Cette information est portée à la connaissance du consommateur par le vendeur, de manière visible et lisible, avant la
+conclusion de la vente, sur tout support adapté. Elle figure, également, sur le bon de commande s'il existe, ou sur tout
+autre support durable constatant ou accompagnant la vente.
+
+**Nota:**
+
+Aux termes de l'article 2 du décret n° 2014-1482 du 9 décembre 2014, ces dispositions ne s'appliquent qu'aux biens mis pour
+la première fois sur le marché à compter du 1er mars 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1482 du 9 décembre 2014 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D111-4 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L111-3
+
+
+###### Article R111-4
+
+L'obligation de fourniture des pièces détachées visée au second alinéa de l'article L. 111-3 est mise en œuvre sans préjudice
+de l'application des règles de concurrence relatives aux réseaux et accords de distribution sélective et exclusive.
+
+**Nota:**
+
+Aux termes de l'article 2 du décret n° 2014-1482 du 9 décembre 2014, ces dispositions ne s'appliquent qu'aux biens mis pour
+la première fois sur le marché à compter du 1er mars 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1482 du 9 décembre 2014 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D111-5 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L111-3
+
+
 #### Chapitre II : Modes de présentation et inscriptions<a id=220></a>
 
 ###### Article R112-10
@@ -31636,7 +31700,7 @@ d'application du règlement (CE) n° 479/2008 du Conseil en ce qui concerne les 
 indications géographiques protégées, les mentions traditionnelles, l'étiquetage et la présentation de certains produits du
 secteur vitivinicole ;
 
-7° Les dispositions des articles 2 et 5 et de l'article 22 du règlement d'exécution (UE) n° 716/2013 de la Commission du 25
+7° Les dispositions des articles 2 à 5 et de l'article 22 du règlement d'exécution (UE) n° 716/2013 de la Commission du 25
 juillet 2013 portant modalités d'application du règlement (CE) n° 110/2008 du Parlement européen et du Conseil concernant la
 définition, la désignation, la présentation, l'étiquetage et la protection des indications géographiques des boissons
 spiritueuses.
@@ -31647,9 +31711,17 @@ _Modifié par_:
 
   - Décret n°2015-89 du 28 janvier 2015 - art. 3
 
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
 _Cite_:
 
   - Code de la consommation - art. L214-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. R412-21 (M)
 
 
 ##### Section 6 :  Additifs, enzymes et arômes  destinés à l'alimentation humaine<a id=253></a>
