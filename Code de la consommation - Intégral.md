@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-05-08
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -30346,19 +30346,13 @@ _Nouveaux textes_:
 
 ###### Article D121-13-1
 
-I.-Un produit brut, au sens du deuxième alinéa de l'article L. 121-82-1, est un produit alimentaire n'ayant subi aucune
-modification importante, y compris par chauffage, marinage, assemblage ou une combinaison de ces procédés. 
+I. - Un produit brut, au sens du deuxième alinéa de l'article L. 121-82-1, est un produit alimentaire cru ne contenant,
+notamment à l'occasion de son conditionnement ou du procédé utilisé pour sa conservation, aucun assemblage avec d'autre
+produit alimentaire excepté le sel. 
 
-II.-Peuvent entrer dans la composition d'un plat " fait maison " les produits qui ont été réceptionnés par le professionnel :
+II. - Peuvent entrer dans la composition des plats "faits maison" les produits suivants :
 
-- épluchés, à l'exception des pommes de terre, pelés, tranchés, coupés, découpés, hachés, nettoyés, désossés, dépouillés,
-décortiqués, taillés, moulus ou broyés ;
-
-- fumés, salés ;
-
-- réfrigérés, congelés, surgelés, conditionnés sous vide. 
-
-III.-Peuvent également entrer dans la composition des plats " faits maison " les produits suivants :
+Les produits que le consommateur ne s'attend pas à voir réaliser par le restaurateur lui-même :
 
 - les salaisons, saurisseries et charcuteries, à l'exception des terrines et des pâtés ;
 
@@ -30370,32 +30364,32 @@ III.-Peuvent également entrer dans la composition des plats " faits maison " le
 
 - les pâtes et les céréales ;
 
-- la choucroute crue et les abats blanchis ;
-
 - la levure, le sucre et la gélatine ;
 
 - les condiments, épices, aromates, concentrés, le chocolat, le café, les tisanes, thés et infusions ;
 
-- les sirops, vins, alcools et liqueurs ;
+- les sirops, vins, alcools et liqueurs.
 
-- la pâte feuilletée crue ; et
+Pour des raisons de sécurité sanitaire, les produits suivants :
 
-- sous réserve d'en informer par écrit le consommateur, les fonds blancs, bruns et fumets.
+- la choucroute crue et les abats blanchis ;
+
+- sous réserve d'en informer par écrit le consommateur, les fonds blancs, bruns et fumets et la demi-glace.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2014-797 du 11 juillet 2014 - art. 1
 
 _Cité par_:
 
   - Arrêté du 26 mars 2015 - art. (V)
-  - Code de la consommation - art. D121-13-3 (M)
+  - Code de la consommation - art. D121-13-3 (Ab)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la consommation - art. L121-82-1 (V)
+  - Décret n°2015-505 du 6 mai 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
 ###### Article D121-13-2
@@ -30424,9 +30418,6 @@ _Abrogé par_:
 
 ###### Article D121-13-3
 
-Les professionnels indiquent de manière visible par tous les consommateurs la mention suivante : " Les plats " faits maison "
-sont élaborés sur place à partir de produits bruts. " 
-
 I.-Lorsque l'ensemble des plats proposés par le professionnel est " fait maison ", la mention " fait maison " ou " maison "
 ou le logo défini par arrêté du ministre chargé du commerce peuvent figurer à un endroit unique visible par tous les
 consommateurs. Cette disposition s'applique de plein droit aux maîtres-restaurateurs. 
@@ -30434,18 +30425,22 @@ consommateurs. Cette disposition s'applique de plein droit aux maîtres-restaura
 II.-Les mentions ou le logo figurent, le cas échéant, pour chacun des plats sur les supports utilisés pour les présenter
 ainsi que sur les autres supports de commercialisation du professionnel, notamment en ligne. 
 
-III.-Un plat composé d'un produit non mentionné à l'article D. 121-13-1 peut être présenté comme " fait maison " dès lors que
-la marque du produit ou le nom du professionnel qui l'a fabriqué est expressément indiqué.
+III.-Un plat composé exclusivement de produits mentionnés à l'article D. 121-13-1-II ne peut être présenté comme " fait
+maison ".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-797 du 11 juillet 2014 - art. 1
+  - Décret n°2015-505 du 6 mai 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. D121-13-1 (V)
+  - Code de la consommation - art. D121-13-1 (Ab)
 
 
 ##### Section 12 : Contrats de fourniture d'électricité ou de gaz naturel<a id=234></a>
