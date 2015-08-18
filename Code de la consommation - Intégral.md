@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-08-19 00:00:01 +0200
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L142-1)](#2)
@@ -23369,9 +23369,15 @@ _Codifié par_:
 
   - Loi n°93-949 du 26 juillet 1993
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 24
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L315-12 (V)
+  - Code de la consommation - art. L315-13 (M)
+  - Code de la consommation - art. L315-14 (V)
 
 _Cite_:
 
@@ -23615,19 +23621,24 @@ excéder un montant qui, dépendant de la durée restant à courir du contrat, e
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Loi n°2015-992 du 17 août 2015 - art. 24
-
 _Cité par_:
 
   - Décret n°2015-1849 du 29 décembre 2015 - art. 2 (V)
   - Ordonnance n°2016-131 du 10 février 2016 - art. 7 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L315-22 (V)
+  - Code de la consommation - art. L315-23 (VT)
+
 _Cite_:
 
-  - Code civil - art. 1152 (M)
-  - Code civil - art. 1231 (M)
+  - Code civil - art. 1152
+  - Code civil - art. 1231
 
 
 ##### Section 7 : Sanctions<a id=161></a>
@@ -26780,7 +26791,6 @@ _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978
   - Loi n°78-17 du 6 janvier 1978 - art. 39
-  - Code de commerce - art. L670-6
   - Code de la consommation - art. L331-1
   - Code de la consommation - art. L331-2
   - Code de la consommation - art. L331-3
@@ -26807,8 +26817,9 @@ _Cité par_:
   - Arrêté du 26 octobre 2010 - art. 17 (VD)
   - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
   - Code de commerce. - art. L628-6 (M)
+  - Code de commerce. - art. L670-6 (V)
   - Code de l'organisation judiciaire - art. R221-39-1 (VT)
-  - Code de la consommation - art. L311-16 (V)
+  - Code de la consommation - art. L311-16 (VT)
   - Code de la consommation - art. L311-9 (VT)
   - Code de la consommation - art. L313-9 (VT)
   - Code de la consommation - art. L331-11 (VT)
@@ -26821,15 +26832,29 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 23
+  - Loi n°2014-344 du 17 mars 2014 - art. 43 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L751-1 (V)
+  - Code de la consommation - art. L751-2 (V)
+  - Code de la consommation - art. L751-3 (V)
+  - Code de la consommation - art. L751-4 (V)
+  - Code de la consommation - art. L751-5 (V)
+  - Code de la consommation - art. L752-1 (V)
+  - Code de la consommation - art. L752-2 (V)
+  - Code de la consommation - art. L752-3 (V)
+  - Code de la consommation - art. L762-1 (V)
+  - Code de la consommation - art. L762-2 (V)
+  - Code monétaire et financier - art. L313-6 (V)
 
 **Liens**:
 
   - PILOTE_SUIVEUR: Code monétaire et financier - art. L313-6 (MMN)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L313-6 (V)
 
 
 ###### Article L333-5
