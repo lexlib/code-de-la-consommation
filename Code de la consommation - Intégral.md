@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-10-01
+Version Consolidée au 2015-10-09
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L157-2)](#2)
@@ -1090,18 +1090,23 @@ _Cite_:
 
 ###### Article L112-9
 
-L'utilisation de la dénomination "montagne" pour les produits à appellation d'origine contrôlée est définie à l'article L.
-641-16 du code rural et de la pêche maritime.
+L'utilisation des mentions "montagne" et "produit de montagne" pour les produits à appellation d'origine contrôlée est
+définie aux articles L. 641-14 et L. 641-16 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - ORDONNANCE n°2015-1246 du 7 octobre 2015 - art. 7
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 _Cite_:
 
-  - Code rural - art. L641-16 (V)
+  - Code rural - art. L641-14
+  - Code rural - art. L641-16
 
 
 ###### Article L112-10
