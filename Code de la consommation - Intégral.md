@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-10-09
+Version Consolidée au 2015-10-16
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L157-2)](#2)
@@ -29078,11 +29078,11 @@ ou des articles 101 et 102 du traité sur le fonctionnement de l'Union européen
 L'action de groupe ne peut porter que sur la réparation des préjudices patrimoniaux résultant des dommages matériels subis
 par les consommateurs.
 
+Dans les collectivités relevant de l'article 73 de la Constitution et dans les collectivités de Saint-Barthélemy, de Saint-
+Martin, de Saint-Pierre-et-Miquelon et de Wallis-et-Futuna, les associations de consommateurs représentatives au niveau local
+peuvent également agir, dans les mêmes conditions que les associations mentionnées au premier alinéa du présent article.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2014-344 du 17 mars 2014 - art. 1
 
 _Cité par_:
 
@@ -29092,13 +29092,28 @@ _Cité par_:
   - Code de la consommation - art. L423-18 (VT)
   - Code de la consommation - art. L423-20 (VT)
   - Code de la consommation - art. L423-23 (VT)
+  - Code de la consommation - art. L423-24 (VT)
   - Code de la consommation - art. L423-3 (VT)
   - Code de la consommation - art. R423-1 (Ab)
   - Code de la consommation - art. R423-18 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2015-1268 du 14 octobre 2015 - art. 3
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
+
 _Cite_:
 
   - Code de la consommation - art. L411-1
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L623-1 (V)
+  - Code de la consommation - art. L623-2 (V)
+  - Code de la consommation - art. L651-1 (V)
 
 
 ###### Article L423-2
