@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2015-12-01
+Version Consolidée au 2015-12-10
 ## Contenu: 
   - [Partie législative (art. préliminaire à L562-1)](#1)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L111-1 à L157-2)](#2)
@@ -264,7 +264,7 @@ et qualité pour agir (art. L423-1 à L423-2)](#209)
         - [Chapitre III : Dispositions relatives à l'outre-mer (art. R143-1 à R143-2)](#259)
       - [Titre V : Médiation des litiges de la consommation (art. R152-1 à R156-2)](#260)
         - [Chapitre II : Le processus de médiation des litiges de la consommation (art. R152-1 à R152-5)](#261)
-        - [Chapitre III : Le statut du médiateur de la consommation (art. R153-1)](#262)
+        - [Chapitre III : Le statut du médiateur de la consommation (art. D153-2 à R153-1)](#262)
         - [Chapitre IV : Les obligations de communication du médiateur de la consommation (art. R154-1 à R154-4)](#263)
         - [Chapitre V : La commission d'évaluation et de contrôle de la médiation de la consommation (art. R155-1 à R155-8)](#264)
         - [Chapitre VI : L'information et l'assistance du consommateur (art. R156-1 à R156-2)](#265)
@@ -33296,6 +33296,30 @@ _Nouveaux textes_:
 
 #### Chapitre III : Le statut du médiateur de la consommation<a id=262></a>
 
+###### Article D153-2
+
+L'organe collégial qui procède à la désignation des médiateurs relevant des dispositions de l'article L. 153-2 est composé
+paritairement d'au moins deux représentants d'associations de consommateurs agréées et d'au moins deux représentants du
+professionnel. 
+
+Les associations de consommateurs agréées qui participent à la désignation de ces médiateurs ne peuvent être membres de la
+Commission d'évaluation et de contrôle de la médiation de la consommation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-1607 du 7 décembre 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Cite_:
+
+  - Code de la consommation - art. L153-2
+
+
 ###### Article R153-1
 
 Le médiateur de la consommation informe sans délai les parties de la survenance de toute circonstance susceptible d'affecter
@@ -49525,11 +49549,13 @@ _Nouveaux textes_:
 
 ###### Article D511-1
 
-Le Conseil national de la consommation est un organisme consultatif placé auprès du ministre chargé de la consommation.
+Le Conseil national de la consommation est un organisme consultatif placé auprès du ministre chargé de la consommation. 
 
 Il a pour objet de permettre le débat et la concertation entre les pouvoirs publics, les représentants des associations de
 défense des consommateurs et les représentants des organisations professionnelles ainsi que des entreprises assurant des
-missions de service public, pour tout ce qui a trait aux problèmes de la consommation.
+missions de service public, pour tout ce qui a trait aux problèmes de la consommation. 
+
+Il a également pour mission de permettre la désignation des médiateurs relevant des dispositions de l'article L. 153-2.
 
 **Liens relatifs à cet article**
 
@@ -49548,7 +49574,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-23 du 12 janvier 2015 - art. 1
+  - Décret n°2015-1607 du 7 décembre 2015 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art. 8
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. D821-1 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L153-2
 
 
 ###### Article D511-2
