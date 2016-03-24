@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-03-25
 ## Contenu: 
   - [Partie réglementaire nouvelle (art. R822-23)](#1)
     - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R822-23)](#2)
