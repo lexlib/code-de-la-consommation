@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-08-14
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -694,7 +694,7 @@ Version Consolidée au 2016-07-01
         - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#691)
         - [Chapitre V : Groupe interministériel de la consommation (art. D825-1 à D825-4)](#692)
     - [Annexes (art. Annexe à l'article D312-26 à Annexe à l'article R314-20)](#693)
-  - [Partie législative (art. L116-1 à L423-26)](#694)
+  - [Partie législative (art. L116-1 à L334-12)](#694)
     - [Livre Ier : Information des consommateurs et formation des contrats (art. L116-1 à L157-2)](#695)
       - [Titre Ier : Information des consommateurs (art. L116-1)](#696)
         - [Chapitre VI : Dispositions relatives à l'outre-mer (art. L116-1)](#697)
@@ -724,40 +724,36 @@ Version Consolidée au 2016-07-01
           - [Section 4 : Dispositions applicables aux îles Wallis et Futuna (art. L334-8 à L334-10)](#721)
           - [Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. L334-11)](#722)
           - [Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon (art. L334-12)](#723)
-    - [Livre IV : Les associations de consommateurs (art. L423-26)](#724)
-      - [Titre II : Actions en justice des associations (art. L423-26)](#725)
-        - [Chapitre III : Action de groupe (art. L423-26)](#726)
-          - [Section 8 : Dispositions relatives aux outre-mer (art. L423-26)](#727)
-  - [Partie réglementaire (art. R123-1 à R423-25)](#728)
-    - [Livre Ier : Information des consommateurs et formation des contrats (art. R123-1 à R143-2)](#729)
-      - [Titre II : Pratiques commerciales (art. R123-1)](#730)
-        - [Chapitre III : Dispositions relatives à l'outre-mer (art. R123-1)](#731)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R143-1 à R143-2)](#732)
-        - [Chapitre III : Dispositions relatives à l'outre-mer (art. R143-1 à R143-2)](#733)
-    - [Livre II : Qualité des produits et des services (art. R219-1 à R219-2)](#734)
-      - [Titre Ier : Conformité (art. R219-1 à R219-2)](#735)
-        - [Chapitre IX : Sanctions administratives (art. R219-1 à R219-2)](#736)
-    - [Livre III : Endettement (art. Annexe à l'article R313-1 à R336-8)](#737)
-      - [Titre Ier : Crédit (art. Annexe à l'article R313-1 à R315-6)](#738)
-        - [Chapitre III : Dispositions communes (art. Annexe à l'article R313-1)](#739)
-          - [Annexes (art. Annexe à l'article R313-1)](#740)
-            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#741)
-        - [Chapitre V : Dispositions relatives à l'outre-mer (art. D315-1-1 à R315-6)](#742)
-          - [Section 1 : Crédit à la consommation (art. D315-1-1 à R315-1)](#743)
-          - [Section 2 : Crédit immobilier (art. R315-2)](#744)
-          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R315-3 à R315-5)](#745)
-          - [Section 4 : Prêt viager hypothécaire (art. R315-6)](#746)
-      - [Titre III : Traitement des situations de surendettement (art. R336-1 à R336-8)](#747)
-        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#748)
-          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#749)
-          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#750)
-          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#751)
-          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#752)
-          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#753)
-    - [Livre IV : Les associations de consommateurs (art. R423-24 à R423-25)](#754)
-      - [Titre II : Action en justice des associations. (art. R423-24 à R423-25)](#755)
-        - [Chapitre III : Action de groupe (art. R423-24 à R423-25)](#756)
-          - [Section 8 : Dispositions relatives aux outre-mer (art. R423-24 à R423-25)](#757)
+  - [Partie réglementaire (art. R123-1 à R423-25)](#724)
+    - [Livre Ier : Information des consommateurs et formation des contrats (art. R123-1 à R143-2)](#725)
+      - [Titre II : Pratiques commerciales (art. R123-1)](#726)
+        - [Chapitre III : Dispositions relatives à l'outre-mer (art. R123-1)](#727)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R143-1 à R143-2)](#728)
+        - [Chapitre III : Dispositions relatives à l'outre-mer (art. R143-1 à R143-2)](#729)
+    - [Livre II : Qualité des produits et des services (art. R219-1 à R219-2)](#730)
+      - [Titre Ier : Conformité (art. R219-1 à R219-2)](#731)
+        - [Chapitre IX : Sanctions administratives (art. R219-1 à R219-2)](#732)
+    - [Livre III : Endettement (art. Annexe à l'article R313-1 à R336-8)](#733)
+      - [Titre Ier : Crédit (art. Annexe à l'article R313-1 à R315-6)](#734)
+        - [Chapitre III : Dispositions communes (art. Annexe à l'article R313-1)](#735)
+          - [Annexes (art. Annexe à l'article R313-1)](#736)
+            - [ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION (art. Annexe à l'article R313-1)](#737)
+        - [Chapitre V : Dispositions relatives à l'outre-mer (art. D315-1-1 à R315-6)](#738)
+          - [Section 1 : Crédit à la consommation (art. D315-1-1 à R315-1)](#739)
+          - [Section 2 : Crédit immobilier (art. R315-2)](#740)
+          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R315-3 à R315-5)](#741)
+          - [Section 4 : Prêt viager hypothécaire (art. R315-6)](#742)
+      - [Titre III : Traitement des situations de surendettement (art. R336-1 à R336-8)](#743)
+        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#744)
+          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#745)
+          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#746)
+          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#747)
+          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#748)
+          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#749)
+    - [Livre IV : Les associations de consommateurs (art. R423-24 à R423-25)](#750)
+      - [Titre II : Action en justice des associations. (art. R423-24 à R423-25)](#751)
+        - [Chapitre III : Action de groupe (art. R423-24 à R423-25)](#752)
+          - [Section 8 : Dispositions relatives aux outre-mer (art. R423-24 à R423-25)](#753)
 # Partie législative nouvelle<a id=1></a>
 
 ###### Article liminaire
@@ -56101,13 +56097,14 @@ _Anciens textes_:
 
 ###### Article D824-2
 
-Le Conseil est consulté sur la définition de la politique alimentaire et donne des avis sur les questions qui s'y rapportent.
+Le Conseil est consulté sur la définition de la politique publique de l'alimentation et donne des avis sur les questions qui
+s'y rapportent.
 
 II peut, en particulier, être consulté sur les grandes orientations de la politique relative :
 
 1° A l'adaptation de la consommation aux besoins nutritionnels ;
 
-2° A la sécurité alimentaire des consommateurs ;
+2° A la sécurité alimentaire et à la sécurité sanitaire des aliments ;
 
 3° A la qualité des denrées alimentaires ;
 
@@ -56129,9 +56126,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2016-1107 du 11 août 2016 - art. 1
 
 _Anciens textes_:
 
@@ -56168,24 +56165,30 @@ _Cite_:
 
 Le Conseil national de l'alimentation comprend :
 
-1° Quarante-neuf membres répartis en sept collèges :
+1° Cinquante-cinq membres répartis en huit collèges :
 
 a) Le collège constitué de neuf représentants des associations nationales de défense des consommateurs ou d'usagers ;
 
 b) Le collège constitué de neuf représentants des producteurs agricoles ;
 
-c) Le collège constitué de neuf représentants de la transformation, dont un représentant de l'artisanat ;
+c) Le collège constitué de neuf représentants de la transformation, dont au moins un représentant de l'artisanat ;
 
-d) Le collège constitué de trois représentants de la distribution ;
+d) Le collège constitué de quatre représentants de la distribution, dont au moins un représentant du commerce de gros ;
 
 e) Le collège constitué de six représentants de la restauration ;
 
 f) Le collège constitué de cinq représentants des syndicats de salariés de l'agriculture, de l'agroalimentaire et de la
 distribution des produits alimentaires ;
 
-g) Le collège constitué de huit personnalités désignées en raison de leurs compétences en matière d'alimentation ;
+g) Le collège constitué de trois représentants d'associations : une association mettant en œuvre l'aide alimentaire habilitée
+au niveau national en application de l'article L. 230-6 du code rural et de la pêche maritime, une association représentant
+les usagers du système de santé agréée au niveau national en application de l'article L. 1114-1 du code de la santé publique
+et une association de protection de l'environnement agréée au niveau national en application de l'article L. 141-1 du code de
+l'environnement ;
 
-2° Huit membres de droit :
+h) Le collège constitué de dix personnalités désignées en raison de leur compétence en matière d'alimentation ; 
+
+2° Neuf membres de droit :
 
 a) Le directeur de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, ou son
 représentant ;
@@ -56196,17 +56199,44 @@ c) Le directeur de l'Institut national de la santé et de la recherche médicale
 
 d) Le directeur de l'Institut français de recherche pour l'exploitation de la mer, ou son représentant ;
 
-e) Le directeur de l'Institut national de la consommation, ou son représentant ;
+e) Le directeur général de l'Agence de l'environnement et de la maîtrise de l'énergie, ou son représentant ; 
 
-f) Le président de l'Association des maires de France, ou son représentant ;
+f) Le directeur de l'Institut national de la consommation, ou son représentant ;
 
-g) Le président de l'Association des départements de France, ou son représentant ;
+g) Le président de l'Association des maires de France, ou son représentant ;
 
-h) Le président de l'Association des régions de France, ou son représentant.
+h) Le président de l'Association des départements de France, ou son représentant ;
 
-En outre, assistent de plein droit aux séances du conseil, et participent aux débats avec voix consultative, les
-représentants des ministres chargés respectivement de la recherche, de l'industrie, de l'agriculture, de la santé, de la
-consommation, de l'éducation nationale, de la pêche, du commerce et de l'artisanat, de l'économie et de l'emploi.
+i) Le président de l'Association des régions de France, ou son représentant.
+
+En outre, assistent de plein droit aux séances du conseil et participent aux débats avec voix consultative les représentants
+des ministres chargés : 
+
+- de l'agriculture ; 
+
+- de la cohésion sociale ; 
+
+- du commerce et de l'artisanat ; 
+
+- de la consommation ; 
+
+- de l'économie ; 
+
+- de l'éducation nationale ; 
+
+- de l'emploi ; 
+
+- de l'environnement ; 
+
+- de l'industrie ; 
+
+- de l'outre-mer ; 
+
+- de la pêche ; 
+
+- de la recherche ; 
+
+- de la santé.
 
 **Liens relatifs à cet article**
 
@@ -56214,9 +56244,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2016-1107 du 11 août 2016 - art. 2
 
 _Anciens textes_:
 
@@ -56229,11 +56259,8 @@ _Cité par_:
 
 ###### Article D824-5
 
-Les membres des collèges a à f mentionnés au 1° de l'article D. 824-4 sont nommés, sur proposition des organisations les plus
-représentatives, par arrêté conjoint des ministres chargés de l'agriculture, de la santé et de la consommation. 
-
-Ceux du collège g mentionné au 1° du même article sont nommés par arrêté conjoint des ministres chargés de l'agriculture, de
-la santé et de la consommation. 
+Les membres des collèges a à h mentionnés au 1° de l'article D. 824-4 sont nommés, par arrêté conjoint des ministres chargés
+de l'agriculture, de la santé et de la consommation.
 
 Leur mandat de trois ans est renouvelable.
 
@@ -56243,9 +56270,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2016-1107 du 11 août 2016 - art. 3
 
 _Anciens textes_:
 
@@ -56253,7 +56280,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. D824-4 (V)
+  - Code de la consommation - art. D824-4
 
 _Cité par_:
 
@@ -59364,47 +59391,13 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-## Livre IV : Les associations de consommateurs<a id=724></a>
+# Partie réglementaire<a id=724></a>
 
-### Titre II : Actions en justice des associations<a id=725></a>
+## Livre Ier : Information des consommateurs et formation des contrats<a id=725></a>
 
-#### Chapitre III : Action de groupe<a id=726></a>
+### Titre II : Pratiques commerciales<a id=726></a>
 
-##### Section 8 : Dispositions relatives aux outre-mer<a id=727></a>
-
-###### Article L423-26
-
-Le présent chapitre est applicable dans les îles Wallis et Futuna.
-
-**Nota:**
-
-Conformément à l'article 35 de l'ordonnance n° 2016-301 du 14 mars 2016, la partie législative du code de la consommation
-demeure en vigueur, dans sa rédaction antérieure à la date d'entrée en vigueur de la présente ordonnance, en tant qu'elle
-s'applique à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les îles Wallis et Futuna, en
-Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, jusqu'à l'entrée en
-vigueur de l'ordonnance mentionnée au II de l'article 161 de la loi du 17 mars 2014 susvisée.
-
-Ordonnance n° 2017-269 du 2 mars 2017 article 9 : La présente ordonnance entre en vigueur à la date d'entrée en vigueur du
-décret portant dispositions relatives à l'outre-mer du code de la consommation et au plus tard le 1er juillet 2017.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2014-344 du 17 mars 2014 - art. 1
-
-_Abrogé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
-
-
-# Partie réglementaire<a id=728></a>
-
-## Livre Ier : Information des consommateurs et formation des contrats<a id=729></a>
-
-### Titre II : Pratiques commerciales<a id=730></a>
-
-#### Chapitre III : Dispositions relatives à l'outre-mer<a id=731></a>
+#### Chapitre III : Dispositions relatives à l'outre-mer<a id=727></a>
 
 ###### Article R123-1
 
@@ -59437,9 +59430,9 @@ _Cite_:
   - Code de la consommation - art. R121-2-1
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=732></a>
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=728></a>
 
-#### Chapitre III : Dispositions relatives à l'outre-mer<a id=733></a>
+#### Chapitre III : Dispositions relatives à l'outre-mer<a id=729></a>
 
 ###### Article R143-1
 
@@ -59507,11 +59500,11 @@ _Cite_:
   - Code de la consommation - art. R141-3 (Ab)
 
 
-## Livre II : Qualité des produits et des services<a id=734></a>
+## Livre II : Qualité des produits et des services<a id=730></a>
 
-### Titre Ier : Conformité<a id=735></a>
+### Titre Ier : Conformité<a id=731></a>
 
-#### Chapitre IX : Sanctions administratives<a id=736></a>
+#### Chapitre IX : Sanctions administratives<a id=732></a>
 
 ###### Article R219-1
 
@@ -59600,15 +59593,15 @@ _Nouveaux textes_:
   - Code de la consommation - art. R531-3 (V)
 
 
-## Livre III : Endettement<a id=737></a>
+## Livre III : Endettement<a id=733></a>
 
-### Titre Ier : Crédit<a id=738></a>
+### Titre Ier : Crédit<a id=734></a>
 
-#### Chapitre III : Dispositions communes<a id=739></a>
+#### Chapitre III : Dispositions communes<a id=735></a>
 
-##### Annexes<a id=740></a>
+##### Annexes<a id=736></a>
 
-##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=741></a>
+##### ANNEXE À L'ARTICLE R. 313-1 DU CODE DE LA CONSOMMATION<a id=737></a>
 
 ###### Article Annexe à l'article R313-1
 
@@ -59738,9 +59731,9 @@ _Modifié par_:
   - Décret n°2012-1478 du 27 décembre 2012 - art. 1
 
 
-#### Chapitre V : Dispositions relatives à l'outre-mer<a id=742></a>
+#### Chapitre V : Dispositions relatives à l'outre-mer<a id=738></a>
 
-##### Section 1 : Crédit à la consommation<a id=743></a>
+##### Section 1 : Crédit à la consommation<a id=739></a>
 
 ###### Article D315-1-1
 
@@ -59806,7 +59799,7 @@ _Cite_:
   - Code de la consommation - art. R313-2 (Ab)
 
 
-##### Section 2 : Crédit immobilier<a id=744></a>
+##### Section 2 : Crédit immobilier<a id=740></a>
 
 ###### Article R315-2
 
@@ -59849,7 +59842,7 @@ _Cite_:
   - Code de la consommation - art. R312-3 (MMN)
 
 
-##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=745></a>
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=741></a>
 
 ###### Article R315-3
 
@@ -59942,7 +59935,7 @@ _Cite_:
   - Code de la consommation - art. R313-5-2 (Ab)
 
 
-##### Section 4 : Prêt viager hypothécaire<a id=746></a>
+##### Section 4 : Prêt viager hypothécaire<a id=742></a>
 
 ###### Article R315-6
 
@@ -59970,11 +59963,11 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-### Titre III : Traitement des situations de surendettement<a id=747></a>
+### Titre III : Traitement des situations de surendettement<a id=743></a>
 
-#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=748></a>
+#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=744></a>
 
-##### Section 1 : Dispositions particulières à Mayotte<a id=749></a>
+##### Section 1 : Dispositions particulières à Mayotte<a id=745></a>
 
 ###### Article R336-1
 
@@ -60120,7 +60113,7 @@ _Cite_:
   - Code de la consommation - art. R335-4
 
 
-##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=750></a>
+##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=746></a>
 
 ###### Article R336-2
 
@@ -60374,7 +60367,7 @@ _Cite_:
   - Code de la consommation - art. L332-8
 
 
-##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=751></a>
+##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=747></a>
 
 ###### Article R336-4
 
@@ -60526,7 +60519,7 @@ _Cite_:
   - Code de la consommation - art. R335-4
 
 
-##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=752></a>
+##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=748></a>
 
 ###### Article R336-5
 
@@ -60615,7 +60608,7 @@ _Cite_:
   - Code de la consommation - art. R334-23
 
 
-##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=753></a>
+##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=749></a>
 
 ###### Article R336-7
 
@@ -60715,13 +60708,13 @@ _Cite_:
   - Code de la consommation - art. R331-7-2
 
 
-## Livre IV : Les associations de consommateurs<a id=754></a>
+## Livre IV : Les associations de consommateurs<a id=750></a>
 
-### Titre II : Action en justice des associations.<a id=755></a>
+### Titre II : Action en justice des associations.<a id=751></a>
 
-#### Chapitre III : Action de groupe<a id=756></a>
+#### Chapitre III : Action de groupe<a id=752></a>
 
-##### Section 8 : Dispositions relatives aux outre-mer<a id=757></a>
+##### Section 8 : Dispositions relatives aux outre-mer<a id=753></a>
 
 ###### Article R423-24
 
