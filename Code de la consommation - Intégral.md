@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-10-10
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -4241,7 +4241,7 @@ _Créé par_:
 Dans les contrats conclus entre professionnels et consommateurs, sont abusives les clauses qui ont pour objet ou pour effet
 de créer, au détriment du consommateur, un déséquilibre significatif entre les droits et obligations des parties au contrat. 
 
-Sans préjudice des règles d'interprétation prévues aux articles 1156 à 1161,1163 et 1164 du code civil, le caractère abusif
+Sans préjudice des règles d'interprétation prévues aux articles 1188, 1189, 1191 et 1192 du code civil, le caractère abusif
 d'une clause s'apprécie en se référant, au moment de la conclusion du contrat, à toutes les circonstances qui entourent sa
 conclusion, de même qu'à toutes les autres clauses du contrat. Il s'apprécie également au regard de celles contenues dans un
 autre contrat lorsque les deux contrats sont juridiquement liés dans leur conclusion ou leur exécution. 
@@ -4264,13 +4264,9 @@ négociées librement ou non ou des références à des conditions générales p
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 _Anciens textes_:
 
@@ -4287,9 +4283,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 1156 (VT)
-  - Code civil - art. 1163 (VD)
-  - Code civil - art. 1164 (VD)
+  - Code civil - art. 1188 (VD)
+  - Code civil - art. 1189 (VD)
+  - Code civil - art. 1191 (VD)
+  - Code civil - art. 1192 (VD)
 
 
 ###### Article L212-2
@@ -13649,18 +13646,14 @@ intérêts échus mais non payés. Jusqu'à la date du règlement effectif, les 
 retard à un taux égal à celui du prêt.
 
 En outre, le prêteur peut demander à l'emprunteur défaillant une indemnité qui, dépendant de la durée restant à courir du
-contrat et sans préjudice de l'application des articles 1152 et 1231 du code civil, est fixée suivant un barème déterminé par
+contrat et sans préjudice de l'application de l'article 1231-5 du code civil, est fixée suivant un barème déterminé par
 décret.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 _Cité par_:
 
@@ -13674,8 +13667,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 1152 (VD)
-  - Code civil - art. 1231 (VD)
+  - Code civil - art. 1231-5 (VD)
 
 
 ###### Article L312-40
@@ -13683,17 +13675,13 @@ _Cite_:
 En cas de défaillance dans l'exécution par l'emprunteur d'un contrat de location assorti d'une promesse de vente ou d'un
 contrat de location-vente, le prêteur est en droit d'exiger, outre la restitution du bien et le paiement des loyers échus et
 non réglés, une indemnité qui, dépendant de la durée restant à courir du contrat et sans préjudice de l'application de
-l'article 1152 du code civil, est fixée suivant un barème déterminé par décret.
+l'article 1231-5 du code civil, est fixée suivant un barème déterminé par décret.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 _Cité par_:
 
@@ -13705,7 +13693,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 1152 (VD)
+  - Code civil - art. 1231-5 (VD)
 
 
 ##### Section 8 : Crédit gratuit<a id=189></a>
@@ -14676,17 +14664,13 @@ _Cite_:
 
 ###### Article L312-74
 
-La capitalisation des intérêts est soumise aux dispositions de l'article 1154 du code civil.
+La capitalisation des intérêts est soumise aux dispositions de l'article 1343-2  du code civil.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
 
 _Anciens textes_:
 
@@ -14694,7 +14678,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 1154 (VD)
+  - Code civil - art. 1343-2 (VD)
 
 
 ##### Sous-section 5 : Reconduction<a id=196></a>
@@ -16867,25 +16851,25 @@ _Cité par_:
 
 ###### Article L313-47
 
-L'emprunteur peut toujours, à son initiative, rembourser par  anticipation, en partie ou en totalité, les prêts régis par les
-sections  1 à 5 du présent chapitre. Le contrat de prêt peut interdire les  remboursements égaux ou inférieurs à 10 % du
-montant initial du prêt,  sauf s'il s'agit de son solde.
+L'emprunteur peut toujours, à son initiative, rembourser par anticipation, en partie ou en totalité, les prêts régis par les
+sections 1 à 5 du présent chapitre. Le contrat de prêt peut interdire les remboursements égaux ou inférieurs à 10 % du
+montant initial du prêt, sauf s'il s'agit de son solde. 
 
-Si le contrat de prêt  comporte une clause aux termes de laquelle, en cas de remboursement par  anticipation, le prêteur est
-en droit d'exiger une indemnité au titre  des intérêts non encore échus, celle-ci ne peut, sans préjudice de  l'application
-de l'article 1152 du code civil, excéder un montant qui, dépendant de la durée restant à courir du contrat, est fixé suivant
-un barème déterminé par décret.
+Si le contrat de prêt comporte une clause aux termes de laquelle, en cas de remboursement par anticipation, le prêteur est en
+droit d'exiger une indemnité au titre des intérêts non encore échus, celle-ci ne peut, sans préjudice de l'application de
+l'article 1231-5 code civil, excéder un montant qui, dépendant de la durée restant à courir du contrat, est fixé suivant un
+barème déterminé par décret. 
 
-Le  prêteur communique gratuitement sans tarder à l'emprunteur, après  réception de la demande de remboursement par
-anticipation, sur support  papier ou sur un autre support durable, les informations nécessaires à  l'examen de cette faculté.
-Ces informations chiffrent au moins les  conséquences qui s'imposeront à l'emprunteur s'il s'acquitte de ses  obligations
-avant l'expiration du contrat de crédit et formule  clairement les hypothèses utilisées.
+Le prêteur communique gratuitement sans tarder à l'emprunteur, après réception de la demande de remboursement par
+anticipation, sur support papier ou sur un autre support durable, les informations nécessaires à l'examen de cette faculté.
+Ces informations chiffrent au moins les conséquences qui s'imposeront à l'emprunteur s'il s'acquitte de ses obligations avant
+l'expiration du contrat de crédit et formule clairement les hypothèses utilisées.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 _Anciens textes_:
 
@@ -16903,7 +16887,7 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code civil - art. 1152 (VD)
+  - Code civil - art. 1231-5 (VD)
 
 
 ###### Article L313-48
@@ -16992,15 +16976,15 @@ Lorsque le prêteur est amené à demander la résolution du contrat, il peut ex
 dû, ainsi que le paiement des intérêts échus. Jusqu'à la date du règlement effectif, les sommes restant dues produisent des
 intérêts de retard à un taux égal à celui du prêt.
 
-En outre, le prêteur peut demander à l'emprunteur défaillant une indemnité qui, sans préjudice de l'application des articles
-1152 et 1231 du code civil, ne peut excéder un montant qui, dépendant de la durée restant à courir du contrat, est fixé
-suivant un barème déterminé par décret.
+En outre, le prêteur peut demander à l'emprunteur défaillant une indemnité qui, sans préjudice de l'application de l'article
+1231-5  du code civil, ne peut excéder un montant qui, dépendant de la durée restant à courir du contrat, est fixé suivant un
+barème déterminé par décret.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 _Anciens textes_:
 
@@ -17013,8 +16997,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 1152 (VD)
-  - Code civil - art. 1231 (VD)
+  - Code civil - art. 1231-5 (VD)
 
 
 ###### Article L313-52
@@ -17216,17 +17199,17 @@ _Cité par_:
 
 En cas de défaillance du preneur dans l'exécution d'un contrat régi par la présente section, le bailleur est en droit
 d'exiger, outre le paiement des loyers échus et non réglés, une indemnité qui, sans préjudice de l'application de l'article
-1152 du code civil, ne peut excéder un montant dépendant de la durée restant à courir du contrat et fixé suivant un barème
-déterminé par décret.
+1231-5 du code civil, ne peut excéder un montant dépendant de la durée restant à courir du contrat et fixé suivant un barème
+déterminé par décret. 
 
 En cas de location-vente, le bailleur ne peut exiger la remise du bien qu'après remboursement de la part des sommes versées
 correspondant à la valeur en capital de ce bien.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 _Cité par_:
 
@@ -17241,7 +17224,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 1152 (VD)
+  - Code civil - art. 1231-5 (VD)
 
 
 ###### Article L313-61
@@ -18657,18 +18640,14 @@ _Cité par_:
 ###### Article L315-17
 
 Dans les cas de remboursement prévus à l'article L. 315-16, le prêteur est en droit d'exiger une indemnité qui ne peut, sans
-préjudice de l'application de l'article 1152 du code civil, excéder un montant qui, dépendant de la durée du contrat déjà
+préjudice de l'application de l'article 1231-5 du code civil, excéder un montant qui, dépendant de la durée du contrat déjà
 réalisée, est fixée selon des modalités déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 _Anciens textes_:
 
@@ -18677,7 +18656,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la consommation - art. L315-16 (VD)
-  - Code civil - art. 1152 (VD)
+  - Code civil - art. 1231-5 (VD)
 
 _Cité par_:
 
@@ -18840,19 +18819,15 @@ Lorsque le prêteur est amené à demander la résolution du contrat, il peut ex
 ainsi que le paiement des intérêts échus.
 
 Jusqu'au règlement effectif, les sommes restant dues produisent des intérêts de retard à un taux égal au taux du prêt. En
-outre, le prêteur peut demander à l'emprunteur défaillant une indemnité qui, sans préjudice de l'application des articles
-1152 et 1231 du code civil, ne peut excéder un montant qui, dépendant de la durée restant à courir du contrat, est fixé
-suivant un barème déterminé par décret.
+outre, le prêteur peut demander à l'emprunteur défaillant une indemnité qui, sans préjudice de l'application de l'article
+1231-5  du code civil, ne peut excéder un montant qui, dépendant de la durée restant à courir du contrat, est fixé suivant un
+barème déterminé par décret.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2016-131 du 10 février 2016 - art. 2
 
 _Anciens textes_:
 
@@ -18860,8 +18835,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code civil - art. 1152 (VD)
-  - Code civil - art. 1231 (VD)
+  - Code civil - art. 1231-5 (VD)
 
 
 ### Titre II : ACTIVITÉ D'INTERMÉDIAIRE<a id=238></a>
