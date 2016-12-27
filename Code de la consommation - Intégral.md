@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-28
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -408,362 +408,361 @@ Version Consolidée au 2016-12-11
             - [Sous-section 3 : Autres effets (art. L722-10 à L722-16)](#405)
         - [Chapitre III : Etat du passif (art. L723-1 à L723-4)](#406)
         - [Chapitre IV : Orientation du dossier (art. L724-1 à L724-5)](#407)
-      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art.  à L733-18)](#408)
-        - [Chapitre Ier : Détermination de la capacité de remboursement (art.  à L724-5)](#409)
-        - [Chapitre Ier : Détermination du montant des remboursements (art. L731-1 à L731-3)](#410)
-        - [Chapitre II : Plan conventionnel (art. L732-1 à L732-4)](#411)
-        - [Chapitre III : Mesures imposées ou recommandées (art. L733-1 à L733-18)](#412)
-          - [Section 1 : Contenu et adoption des mesures imposées ou recommandées (art. L733-1 à L733-11)](#413)
-          - [Section 2 : Contestation des mesures imposées ou recommandées (art. L733-12 à L733-15)](#414)
-          - [Section 3 : Dispositions communes aux mesures imposées ou recommandées et à leur contestation (art. L733-16 à L733-18)](#415)
-      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. L741-1 à L743-2)](#416)
-        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. L741-1 à L741-10)](#417)
-          - [Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. L741-1 à L741-4)](#418)
-          - [Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. L741-5 à L741-7)](#419)
-          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation (art. L741-8 à L741-10)](#420)
-        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. L742-1 à L742-25)](#421)
-          - [Section 1 : Ouverture de la procédure (art. L742-1 à L742-9)](#422)
-          - [Section 2 : Déclaration et arrêté des créances (art. L742-10 à L742-13)](#423)
-          - [Section 3 : Liquidation des biens du débiteur (art. L742-14 à L742-19)](#424)
-          - [Section 4 : Clôture de la procédure (art. L742-20 à L742-23)](#425)
-          - [Section 5 : Plan (art. L742-24 à L742-25)](#426)
-        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. L743-1 à L743-2)](#427)
-      - [Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS (art. L751-1 à L752-3)](#428)
-        - [Chapitre Ier : Objet du fichier (art. L751-1 à L751-6)](#429)
-        - [Chapitre II : Inscription et radiation (art. L752-1 à L752-3)](#430)
-      - [Titre VI : SANCTIONS (art. L761-1 à L762-2)](#431)
-        - [Chapitre Ier : Sanctions civiles (art. L761-1 à L761-2)](#432)
-        - [Chapitre II : Sanctions pénales (art. L762-1 à L762-2)](#433)
-    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. L811-1 à L823-2)](#434)
-      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. L811-1 à L811-2)](#435)
-        - [Chapitre Ier : Agrément des associations (art. L811-1 à L811-2)](#436)
-      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. L822-1 à L823-2)](#437)
-        - [Chapitre II : Institut national de la consommation (art. L822-1 à L822-11)](#438)
-          - [Section 1 : Organisation et missions (art. L822-1 à L822-3)](#439)
-          - [Section 2 : Les commissions placées auprès de l'Institut national de la consommation (art. L822-4 à L822-11)](#440)
-        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. L823-1 à L823-2)](#441)
-  - [Partie réglementaire nouvelle (art. D111-4 à Annexe à l'article R314-20)](#442)
-    - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. D111-4 à R132-3)](#443)
-      - [Titre Ier : INFORMATION DES CONSOMMATEURS (art. D111-4 à D113-1)](#444)
-        - [Chapitre Ier : Obligation générale d'information précontractuelle (art. D111-4 à R111-3)](#445)
-        - [Chapitre II : Information sur les prix et conditions de vente (art. R112-1 à R112-4)](#446)
-        - [Chapitre III : Information sur les conditions sociales de fabrication des produits (art. D113-1)](#447)
-      - [Titre II : PRATIQUES COMMERCIALES INTERDITES ET PRATIQUES COMMERCIALES RÉGLEMENTÉES (art. R121-1 à D122-3)](#448)
-        - [Chapitre Ier : Pratiques commerciales interdites (art. R121-1)](#449)
-        - [Chapitre II : Pratiques commerciales réglementées (art. D122-1 à D122-3)](#450)
-          - [Section unique : Utilisation de la mention “fait maison” (art. D122-1 à D122-3)](#451)
-      - [Titre III : SANCTIONS (art. R131-1 à R132-3)](#452)
-        - [Chapitre Ier : Information des consommateurs (art. R131-1)](#453)
-        - [Chapitre II : Pratiques commerciales interdites et pratiques commerciales réglementées (art. R132-1 à R132-3)](#454)
-    - [Livre II : FORMATION ET EXÉCUTION DES CONTRATS (art. R212-1 à R242-20)](#455)
-      - [Titre Ier : CONDITIONS GÉNÉRALES DES CONTRATS (art. R212-1 à D213-2)](#456)
-        - [Chapitre II : Clauses abusives (art. R212-1 à R212-5)](#457)
-        - [Chapitre III : Conservation des contrats conclus par voie électronique (art. D213-1 à D213-2)](#458)
-      - [Titre II : RÈGLES DE FORMATION ET D'EXÉCUTION DE CERTAINS CONTRATS (art. R221-1 à D224-21)](#459)
-        - [Chapitre Ier : Contrat conclus à distance et hors établissement (art. R221-1 à R221-4)](#460)
-        - [Chapitre II : Dispositions particulières aux contrats conclus à distance portant sur des services financiers (art. R222-1 à R222-4)](#461)
-        - [Chapitre III : Opposition au démarchage téléphonique (art. R223-1 à R223-8)](#462)
-        - [Chapitre IV : Règles spécifiques à des contrats ayant un objet particulier (art. R224-1 à D224-21)](#463)
-          - [Section 1 : Contrats de courtage matrimonial (art. R224-1 à R224-3)](#464)
-          - [Section 2 : Contrats d'achats de métaux précieux (art. R224-4 à R224-7)](#465)
-          - [Section 3 : Contrats dans les domaines bancaire, financier et des assurances (art. R224-8 à R224-10)](#466)
-          - [Section 4 : Enseignement (art. R224-11)](#467)
-          - [Section 5 : Contrats portant sur les voyages à forfait (art. R224-12)](#468)
-          - [Section 6 : Contrats de prestations de soins médicaux (art. D224-13)](#469)
-          - [Section 7 : Contrats d'hébergement de personnes âgées et services d'aide et d'assistance à domicile (art. R224-14 à R224-15)](#470)
-          - [Section 8 : Contrats de services funéraires (art. R224-16)](#471)
-          - [Section 9 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques (art. D224-17 à D224-21)](#472)
-      - [Titre IV : SANCTIONS (art. R242-1 à R242-20)](#473)
-        - [Chapitre II : Règles de formation et d'exécution de certains contrats (art. R242-1 à R242-20)](#474)
-          - [Section 1 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers (art. R242-1 à R242-5)](#475)
-          - [Section 2 : Dispositions spécifiques à des contrats ayant un objet particulier (art. R242-6 à R242-20)](#476)
-            - [Sous-section 1 : Contrats de fournitures d'électricité ou de gaz naturel (art. R242-6 à R242-15)](#477)
-            - [Sous-section 2 : Contrats de courtage matrimonial (art. R242-16 à R242-20)](#478)
-    - [Livre III : CRÉDIT (art. D312-1 à R341-27)](#479)
-      - [Titre Ier : OPÉRATIONS DE CRÉDIT (art. D312-1 à R315-2)](#480)
-        - [Chapitre II : Crédit à la consommation (art. D312-1 à R312-35)](#481)
-          - [Section 1 : Publicité (art. D312-1)](#482)
-          - [Section 2 : Information précontractuelle de l'emprunteur (art. R312-2 à R312-6)](#483)
-          - [Section 3 : Explications à fournir à l'emprunteur et évaluation de sa solvabilité (art. D312-7 à D312-8)](#484)
-          - [Section 4 : Formation du contrat de crédit (art. R312-9)](#485)
-          - [Section 5 : Informations mentionnées dans le contrat (art. R312-10 à R312-14)](#486)
-          - [Section 6 : Exécution du contrat de crédit (art. D312-15 à D312-19)](#487)
-            - [Sous-section 1 : Remboursement anticipé (art. D312-15)](#488)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. D312-16 à D312-19)](#489)
-          - [Section 7 : Crédit affecté (art. R312-20)](#490)
-          - [Section 8 : Crédit renouvelable (art. D312-21 à D312-31)](#491)
-          - [Section 9 : Opérations de découvert en compte (art. R312-32 à R312-34)](#492)
-          - [Section 10 : Procédure (art. R312-35)](#493)
-        - [Chapitre III : Crédit immobilier (art. R313-1 à R313-33)](#494)
-          - [Section 1 : Publicité et informations générales (art. R313-1 à R313-3)](#495)
-            - [Sous-section unique :  Publicité et informations générales (art. R313-1 à R313-3)](#496)
-              - [Paragraphe 1 : Publicité (art. R313-1 à R313-2)](#497)
-              - [Paragraphe 2 : Informations générales (art. R313-3)](#498)
-          - [Section 2 : Information précontractuelle de l'emprunteur (art. R313-4 à R313-10)](#499)
-            - [Sous-section 1 : Fiche d'informations standardisées européenne (art. R313-4 à R313-7)](#500)
-            - [Sous-section 2 : Information relative à l'assurance emprunteur (art. R313-8 à R313-10)](#501)
-          - [Section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R313-11 à R313-19)](#502)
-            - [Sous-section 1 : Service de conseil (art. R313-11 à R313-12)](#503)
-            - [Sous-section 2 : Evaluation de la solvabilité (art. R313-13 à R313-16)](#504)
-            - [Sous-section 3 : Evaluation du bien immobilier (art. D313-20 à R313-19)](#505)
-          - [Section 4 : Formation du contrat de crédit (art. R313-21 à R313-24)](#506)
-          - [Section 5 : Exécution du contrat de crédit (art. R313-25 à R313-28)](#507)
-            - [Sous-section 1 : Remboursement anticipé (art. R313-25)](#508)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. R313-26 à R313-28)](#509)
-          - [Section 6 : Location-vente et location assortie d'une promesse de vente (art. D313-29)](#510)
-          - [Section 7 : Prêts libellés dans une devise autre que l'euro (art. R313-30 à R313-32)](#511)
-          - [Section 8 : Procédure (art. R313-33)](#512)
-        - [Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R314-1 à D314-29)](#513)
-          - [Section 1 : Taux d'intérêt (art. R314-1 à D314-17)](#514)
-            - [Sous-section 1 : Taux effectif global (art. R314-1 à R314-14)](#515)
-            - [Sous-section 2 : Taux d'usure (art. D314-15 à D314-17)](#516)
-          - [Section 2 : Regroupement de crédits (art. R314-18 à R314-21)](#517)
-          - [Section 3 : Formation du prêteur et de l'intermédiaire (art. D314-23 à D314-29)](#518)
-        - [Chapitre V : Prêt viager hypothécaire (art. R315-1 à R315-2)](#519)
-      - [Titre IV : SANCTIONS (art. R341-1 à R341-27)](#520)
-        - [Chapitre Ier : Opérations de crédit (art. R341-1 à R341-27)](#521)
-          - [Section 1 : Crédit à la consommation (art. R341-1 à R341-19)](#522)
-            - [Sous-section 1 : Publicité (art. R341-1)](#523)
-            - [Sous-section 2 : Information précontractuelle de l'emprunteur (art. R341-2)](#524)
-            - [Sous-section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R341-3)](#525)
-            - [Sous-section 4 : Formation du contrat de crédit (art. R341-4)](#526)
-            - [Sous-section 5 : Informations mentionnées dans le contrat (art. R341-5)](#527)
-            - [Sous-section 6 : Exécution du contrat (art. R341-6)](#528)
-            - [Sous-section 7 : Crédit gratuit (art. R341-7 à R341-9)](#529)
-            - [Sous-section 8 : Crédit affecté (art. R341-10 à R341-11)](#530)
-            - [Sous-section 9 : Crédit renouvelable (art. R341-12 à R341-19)](#531)
-          - [Section 2 : Crédit immobilier (art. R341-20 à R341-23)](#532)
-            - [Sous-section 1 : Information précontractuelle de l'emprunteur (art. R341-20)](#533)
-            - [Sous-section 2 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R341-21 à R341-22)](#534)
-            - [Sous-section 3 : Exécution du contrat de crédit (art. R341-23)](#535)
-          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R341-24 à R341-27)](#536)
-    - [Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES (art. R412-1 à R453-1)](#537)
-      - [Titre Ier : CONFORMITÉ (art. R412-1 à R414-6)](#538)
-        - [Chapitre II : Mesures d'application (art. R412-1 à R412-57)](#539)
-          - [Section 1 : Mesures générales (art. R412-1)](#540)
-          - [Section 2 : Modes de présentation et étiquetage (art. R412-2 à R412-10)](#541)
-            - [Sous-section 1 : Produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou de spécialité traditionnelle garantie (art. R412-2)](#542)
-            - [Sous-section 2 : Identification du lot (art. R412-3 à R412-6)](#543)
-            - [Sous-section 3 : Dispositions particulières (art. R412-7 à R412-10)](#544)
-          - [Section 3 : Dispositions relatives aux denrées non préemballées (art. R412-11 à R412-16)](#545)
-            - [Sous-section 1 : Dénomination de vente (art. R412-11)](#546)
-            - [Sous-section 2 : Information relative à la présence de substances ou produits provoquant des allergies ou intolérances (art. R412-12 à R412-16)](#547)
-          - [Section 4 : Règlements de l'Union européenne constituant des mesures d'exécution de l'article L. 412-1 (art. R412-17 à R412-43)](#548)
-            - [Sous-section 1 : Dispositions générales (art. R412-17)](#549)
-            - [Sous-section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux (art. R412-18)](#550)
-            - [Sous-section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R412-19)](#551)
-            - [Sous-section 4 : Organismes génétiquement modifiés (art. R412-20)](#552)
-            - [Sous-section 5 : Boissons alcoolisées (art. R412-21)](#553)
-            - [Sous-section 6 : Additifs, enzymes, arômes destinés à l'alimentation humaine (art. R412-22)](#554)
-            - [Sous-section 7 : Adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires (art. R412-23)](#555)
-            - [Sous-section 8 : Contaminants (art. R412-24)](#556)
-            - [Sous-section 9 : Fruits et légumes (art. R412-25)](#557)
-            - [Sous-section 10 : Huile d'olive et olives de table (art. R412-26)](#558)
-            - [Sous-section 11 : Œufs et viande de volaille (art. R412-27)](#559)
-            - [Sous-section 12 : Produits laitiers, colostrum et matières grasses laitières ou non (art. R412-28)](#560)
-            - [Sous-section 13 : Produits de la pêche (art. R412-29)](#561)
-            - [Sous-section 14 : Viandes bovine, ovine et porcine (art. R412-30)](#562)
-            - [Sous-section 15 : Viande hachée et produits à base de viande (art. R412-31)](#563)
-            - [Sous-section 16 : Collagènes et gélatine (art. R412-32)](#564)
-            - [Sous-section 17 : Modes de valorisation (art. R412-33)](#565)
-            - [Sous-section 18 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale (art. R412-34)](#566)
-            - [Sous-section 19 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R412-35)](#567)
-            - [Sous-section 20 : Contrôles officiels renforcés à l'importation (art. R412-36)](#568)
-            - [Sous-section 21 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 6° de l'article L. 412-1 (art. R412-37)](#569)
-            - [Sous-section 22 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R412-38)](#570)
-            - [Sous-section 23 : Alimentation des animaux (art. R412-39)](#571)
-            - [Sous-section 24 : Engrais (art. R412-40)](#572)
-            - [Sous-section 25 : Détergents (art. R412-41)](#573)
-            - [Sous-section 26 : Fibres et produits textiles (art. R412-42)](#574)
-            - [Sous-section 27 : Produits de construction (art. R412-43)](#575)
-          - [Section 5 : Dispositions spécifiques à certains produits (art. R412-44 à R412-48)](#576)
-          - [Section 6 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs (art. R412-49 à R412-57)](#577)
-        - [Chapitre IV : Dispositions relatives à certains établissements (art. R414-1 à R414-6)](#578)
-      - [Titre II : SÉCURITÉ (art. R422-1)](#579)
-        - [Chapitre II : Mesures d'application (art. R422-1)](#580)
-      - [Titre III : VALORISATION DES PRODUITS ET SERVICES (art. R431-1 à R433-2)](#581)
-        - [Chapitre Ier : Appellations d'origine (art. R431-1 à R431-5)](#582)
-        - [Chapitre III : Certification de conformité (art. R433-1 à R433-2)](#583)
-      - [Titre V : SANCTIONS (art. R451-1 à R453-1)](#584)
-        - [Chapitre Ier : Conformité (art. R451-1 à R451-3)](#585)
-        - [Chapitre II : Sécurité (art. R452-1 à R452-4)](#586)
-        - [Chapitre III : Valorisation des produits et services (art. R453-1)](#587)
-    - [Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES (art. D512-6 à R541-1)](#588)
-      - [Titre Ier : RECHERCHE ET CONSTATATION (art. D512-6 à R512-42)](#589)
-        - [Chapitre II : Pouvoirs d'enquête (art. D512-6 à R512-42)](#590)
-          - [Section 1 : Pouvoirs d'enquête ordinaires (art. D512-6 à R512-38)](#591)
-            - [Sous-section 1 : Dispositions communes (art. D512-6 à R512-5)](#592)
-            - [Sous-section 2 : Recueil de renseignements et de documents (art. R512-7)](#593)
-            - [Sous-section 3 : Contrôle de la vente de biens et de la fourniture de services sur internet (art. R512-8)](#594)
-            - [Sous-section 4 : Prélèvements (art. R512-9 à R512-24)](#595)
-              - [Paragraphe 1 : Dispositions communes (art. R512-9 à R512-16)](#596)
-              - [Paragraphe 2 : Prélèvement en trois échantillons (art. R512-17)](#597)
-              - [Paragraphe 3 : Prélèvement en deux échantillons (art. R512-18)](#598)
-              - [Paragraphe 4 : Prélèvement en un échantillon (art. R512-19 à R512-23)](#599)
-              - [Paragraphe 5 : Prélèvement administratif (art. R512-24)](#600)
-            - [Sous-section 5 : Contrôle des produits avant mise en libre pratique (art. R512-25 à R512-29)](#601)
-            - [Sous-section 6 : Essais et analyses (art. R512-30 à R512-38)](#602)
-          - [Section 2 : Opérations de visites et saisies (art. R512-39 à R512-42)](#603)
-      - [Titre II : MESURES CONSÉCUTIVES AUX CONTRÔLES (art. R521-1 à R525-3)](#604)
-        - [Chapitre Ier : Mesures de police administrative (art. R521-1 à R521-3)](#605)
-          - [Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit (art. R521-1 à R521-2)](#606)
-          - [Section 2 : Conformité et sécurité des produits et services (art. D521-4 à R521-3)](#607)
-        - [Chapitre II : Procédure de sanctions administratives (art. R522-1 à R522-9)](#608)
-          - [Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit (art. R522-1 à R522-6)](#609)
-          - [Section 2 : Conformité et sécurité des produits et services (art. R522-7 à R522-9)](#610)
-        - [Chapitre III : Transaction (art. R523-1 à R523-4)](#611)
-        - [Chapitre IV : Saisine de la juridiction civile ou administrative (art. R524-1)](#612)
-        - [Chapitre V : Procédures devant les juridictions (art. R525-1 à R525-3)](#613)
-      - [Titre III : SANCTIONS (art. R531-1 à R532-2)](#614)
-        - [Chapitre Ier : Recherche et constatation (art. R531-1 à R531-3)](#615)
-          - [Section 1 : Sanctions pénales (art. R531-1 à R531-2)](#616)
-          - [Section 2 : Sanctions administratives (art. R531-3)](#617)
-        - [Chapitre II : Mesures consécutives aux contrôles (art. R532-1 à R532-2)](#618)
-      - [Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R541-1)](#619)
-        - [Chapitre unique : dispositions relatives aux départements et régions d'outre-mer et à certaines collectivités (art. R541-1)](#620)
-    - [Livre VI : RÈGLEMENT DES LITIGES (art. R612-1 à R632-1)](#621)
-      - [Titre Ier : MÉDIATION (art. R612-1 à R616-2)](#622)
-        - [Chapitre II : Processus de médiation des litiges de consommation (art. R612-1 à R612-5)](#623)
-        - [Chapitre III : Statut du médiateur de la consommation (art. D613-2 à R613-1)](#624)
-        - [Chapitre IV : Obligations de communication du médiateur de la consommation (art. R614-1 à R614-4)](#625)
-        - [Chapitre V : Commission d'évaluation et de contrôle de la médiation de la consommation (art. R615-1 à R615-11)](#626)
-        - [Chapitre VI : Information et assistance du consommateur (art. R616-1 à R616-2)](#627)
-      - [Titre II : ACTIONS EN JUSTICE DES ASSOCIATIONS DE DÉFENSE DES CONSOMMATEURS (art. R622-1 à R623-33)](#628)
-        - [Chapitre II : Action en représentation conjointe (art. R622-1 à R622-10)](#629)
-        - [Chapitre III : Action de groupe (art. R623-1 à R623-33)](#630)
-          - [Section 1 : Introduction de l'action et règles de procédure (art. R623-1 à R623-5)](#631)
-          - [Section 2 : Jugement sur la responsabilité (art. R623-6 à R623-10)](#632)
-          - [Section 3 : Procédure d'action de groupe simplifiée (art. R623-11 à R623-15)](#633)
-          - [Section 4 : Mise en œuvre du jugement, réparation des préjudices et exécution forcée (art. R623-16 à R623-29)](#634)
-            - [Paragraphe 1 : Mesures d'information des consommateurs (art. R623-16)](#635)
-            - [Paragraphe 2 : Adhésion au groupe (art. R623-17 à R623-22)](#636)
-            - [Paragraphe 3 : Réparation des préjudices et règlement des différends (art. R623-23 à R623-25)](#637)
-            - [Paragraphe 4 : Liquidation judiciaire et réparation forcée des préjudices (art. R623-26 à R623-29)](#638)
-          - [Section 5 : Substitution (art. R623-30 à R623-33)](#639)
-      - [Titre III : COMPÉTENCE DU JUGE (art. R631-1 à R632-1)](#640)
-        - [Chapitre Ier : Règles applicables aux litiges civils (art. R631-1 à R631-4)](#641)
-        - [Chapitre II : Office du juge (art. R632-1)](#642)
-    - [Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R711-1 à R761-1)](#643)
-      - [Titre Ier : DISPOSITIONS GÉNÉRALES RELATIVES AU TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R711-1 à R713-11)](#644)
-        - [Chapitre Ier : Définition et champ d'application (art. R711-1 à R711-2)](#645)
-        - [Chapitre II : Les commissions de surendettement des particuliers (art. R712-1 à R712-20)](#646)
-          - [Section 1 : Organisation et fonctionnement (art. R712-1 à R712-12)](#647)
-          - [Section 2 : Procédures devant les commissions (art. R712-13 à R712-20)](#648)
-        - [Chapitre III : Compétence du juge du tribunal d'instance (art. R713-1 à R713-11)](#649)
-      - [Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT (art. R721-1 à R724-8)](#650)
-        - [Chapitre Ier : Saisine de la commission de surendettement des particuliers (art. R721-1 à R721-8)](#651)
-        - [Chapitre II : Recevabilité de la demande (art. R722-1 à R722-11)](#652)
-          - [Section 1 : Examen de la recevabilité de la demande (art. R722-1 à R722-4)](#653)
-          - [Section 2 : Effets de la décision de recevabilité (art. R722-5 à R722-11)](#654)
-            - [Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R722-5 à R722-8)](#655)
-            - [Sous-section 2 : Suspension des mesures d'expulsion (art. R722-9 à R722-10)](#656)
-            - [Sous-section 3 : Emoluments supportés par le débiteur (art. R722-11)](#657)
-        - [Chapitre III : Etat du passif (art. R723-1 à R723-8)](#658)
-          - [Section 1 : Etat du passif dressé par la commission (art. R723-1 à R723-5)](#659)
-          - [Section 2 : Vérification des créances (art. R723-6 à R723-8)](#660)
-        - [Chapitre IV : Orientation du dossier (art. R724-1 à R724-8)](#661)
-      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R731-1 à R733-18)](#662)
-        - [Chapitre Ier : Détermination de la capacité de remboursement (art. R731-1 à R731-3)](#663)
-        - [Chapitre II : Plan conventionnel (art. R732-1 à R732-2)](#664)
-        - [Chapitre III : Mesures imposées ou recommandées (art. R733-1 à R733-18)](#665)
-          - [Section 1 : Contenu et adoption des mesures imposées ou recommandées (art. R733-1 à R733-13)](#666)
-          - [Section 2 : Contestation des mesures imposées ou recommandées (art. R733-14 à R733-17)](#667)
-          - [Section 3 : Dispositions communes aux mesures recommandées ou imposées (art. R733-18)](#668)
-      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. R741-1 à R743-2)](#669)
-        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-18)](#670)
-          - [Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-9)](#671)
-          - [Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. R741-10 à R741-14)](#672)
-          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation (art. R741-15 à R741-18)](#673)
-        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. R742-1 à R742-57)](#674)
-          - [Section 1 : Ouverture de la procédure (art. R742-1 à R742-10)](#675)
-          - [Section 2 : Déclaration et arrêté des créances (art. R742-11 à R742-17)](#676)
-          - [Section 3 : Liquidation des biens du débiteur (art. R742-18 à R742-52)](#677)
-            - [Sous-section 1 : Dispositions générales (art. R742-18 à R742-26)](#678)
-            - [Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R742-27 à R742-41)](#679)
-            - [Sous-section 3 : Répartition du produit des actifs (art. R742-42 à R742-52)](#680)
-          - [Section 4 : Clôture de la procédure (art. R742-53 à R742-55)](#681)
-          - [Section 5 : Plan (art. R742-56 à R742-57)](#682)
-        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. R743-1 à R743-2)](#683)
-      - [Titre VI : SANCTIONS (art. R761-1)](#684)
-        - [Chapitre Ier : Sanctions civiles (art. R761-1)](#685)
-    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R811-1 à D825-4)](#686)
-      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. R811-1 à R812-3)](#687)
-        - [Chapitre Ier : Agrément des associations (art. R811-1 à R811-7)](#688)
-        - [Chapitre II : Reconnaissance spécifique des associations (art. R812-1 à R812-3)](#689)
-      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. D821-1 à D825-4)](#690)
-        - [Chapitre Ier : Conseil national de la consommation (art. D821-1 à D821-17)](#691)
-          - [Section 1 : Missions et attributions (art. D821-1 à D821-4)](#692)
-          - [Section 2 : Composition et organisation (art. D821-5 à D821-11)](#693)
-          - [Section 3 : Fonctionnement (art. D821-12 à D821-17)](#694)
-        - [Chapitre II : Institut national de la consommation (art. R822-1 à R822-32)](#695)
-          - [Section 1 : Missions et fonctionnement (art. R822-1 à R822-12)](#696)
-          - [Section 2 : Organes consultatifs (art. R822-13)](#697)
-          - [Section 3 : Dispositions financières et comptables (art. R822-14 à R822-17)](#698)
-          - [Section 4 : Commissions placées auprès de l'Institut national de la consommation (art. R822-18 à R822-32)](#699)
-            - [Sous-section 1 : Commission des clauses abusives (art. R822-18 à R822-21)](#700)
-            - [Sous-section 2 : Commission de la sécurité des consommateurs (art. R822-22 à R822-27)](#701)
-            - [Sous-section 3 : Dispositions communes aux commissions (art. R822-28 à R822-32)](#702)
-        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. R823-1 à R823-20)](#703)
-          - [Section 1 : Organisation et fonctionnement (art. R823-1 à R823-14)](#704)
-          - [Section 2 : Dispositions financières et comptables (art. R823-15 à R823-19)](#705)
-          - [Section 3 : Dispositions diverses (art. R823-20)](#706)
-        - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#707)
-        - [Chapitre V : Groupe interministériel de la consommation (art. D825-1 à D825-4)](#708)
-    - [Annexes (art. Annexe à  l'article R314-3 à Annexe à l'article R314-20)](#709)
-  - [Partie législative (art. L116-1 à L334-12)](#710)
-    - [Livre Ier : Information des consommateurs et formation des contrats (art. L116-1 à L157-2)](#711)
-      - [Titre Ier : Information des consommateurs (art. L116-1)](#712)
-        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. L116-1)](#713)
-      - [Titre II : Pratiques commerciales (art. L123-1 à L123-6)](#714)
-        - [Chapitre III : Dispositions relatives à l'outre-mer (art. L123-1 à L123-6)](#715)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L142-1)](#716)
-        - [Chapitre II : Dispositions relatives à l'outre-mer (art. L142-1)](#717)
-      - [Titre V : Médiation des litiges de la consommation (art. L157-1 à L157-2)](#718)
-        - [Chapitre VII : Dispositions relatives à l'outre-mer (art. L157-1 à L157-2)](#719)
-    - [Livre III : Endettement (art. L315-1 à L334-12)](#720)
-      - [Titre Ier : Crédit (art. L315-1 à L315-11)](#721)
-        - [Chapitre V : Dispositions relatives à l'outre-mer (art. L315-1 à L315-11)](#722)
-          - [Section 1 : Crédit à la consommation (art. L315-1)](#723)
-          - [Section 2 : Crédit immobilier (art. L315-2 à L315-4)](#724)
-          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. L315-5 à L315-10)](#725)
-          - [Section 4 : Prêt viager hypothécaire (art. L315-11)](#726)
-      - [Titre II : Activité d'intermédiaire (art. L323-1)](#727)
-        - [Chapitre III : Dispositions relatives à l'outre-mer (art. L323-1)](#728)
-      - [Titre III : Traitement des situations de surendettement (art. L334-1 à L334-12)](#729)
-        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. L334-1 à L334-12)](#730)
-          - [Section 1 : Dispositions applicables à Mayotte (art. L334-1 à L334-3)](#731)
-          - [Section 2 : Dispositions applicables à la Nouvelle-Calédonie (art. L334-4 à L334-6)](#732)
-          - [Section 3 : Dispositions applicables à la Polynésie française (art. L334-7)](#733)
-          - [Section 4 : Dispositions applicables aux îles Wallis et Futuna (art. L334-8 à L334-10)](#734)
-          - [Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. L334-11)](#735)
-          - [Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon (art. L334-12)](#736)
-  - [Partie réglementaire (art. R123-1 à R423-25)](#737)
-    - [Livre Ier : Information des consommateurs et formation des contrats (art. R123-1 à R143-2)](#738)
-      - [Titre II : Pratiques commerciales (art. R123-1)](#739)
-        - [Chapitre III : Dispositions relatives à l'outre-mer (art. R123-1)](#740)
-      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R143-1 à R143-2)](#741)
-        - [Chapitre III : Dispositions relatives à l'outre-mer (art. R143-1 à R143-2)](#742)
-    - [Livre II : Qualité des produits et des services (art. R219-1 à R219-2)](#743)
-      - [Titre Ier : Conformité (art. R219-1 à R219-2)](#744)
-        - [Chapitre IX : Sanctions administratives (art. R219-1 à R219-2)](#745)
-    - [Livre III : Endettement (art. D315-1-1 à R336-8)](#746)
-      - [Titre Ier : Crédit (art. D315-1-1 à R315-6)](#747)
-        - [Chapitre V : Dispositions relatives à l'outre-mer (art. D315-1-1 à R315-6)](#748)
-          - [Section 1 : Crédit à la consommation (art. D315-1-1 à R315-1)](#749)
-          - [Section 2 : Crédit immobilier (art. R315-2)](#750)
-          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R315-3 à R315-5)](#751)
-          - [Section 4 : Prêt viager hypothécaire (art. R315-6)](#752)
-      - [Titre III : Traitement des situations de surendettement (art. R336-1 à R336-8)](#753)
-        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#754)
-          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#755)
-          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#756)
-          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#757)
-          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#758)
-          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#759)
-    - [Livre IV : Les associations de consommateurs (art. R423-24 à R423-25)](#760)
-      - [Titre II : Action en justice des associations. (art. R423-24 à R423-25)](#761)
-        - [Chapitre III : Action de groupe (art. R423-24 à R423-25)](#762)
-          - [Section 8 : Dispositions relatives aux outre-mer (art. R423-24 à R423-25)](#763)
+      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. L731-1 à L733-18)](#408)
+        - [Chapitre Ier : Détermination du montant des remboursements (art. L731-1 à L731-3)](#409)
+        - [Chapitre II : Plan conventionnel (art. L732-1 à L732-4)](#410)
+        - [Chapitre III : Mesures imposées ou recommandées (art. L733-1 à L733-18)](#411)
+          - [Section 1 : Contenu et adoption des mesures imposées ou recommandées (art. L733-1 à L733-11)](#412)
+          - [Section 2 : Contestation des mesures imposées ou recommandées (art. L733-12 à L733-15)](#413)
+          - [Section 3 : Dispositions communes aux mesures imposées ou recommandées et à leur contestation (art. L733-16 à L733-18)](#414)
+      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. L741-1 à L743-2)](#415)
+        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. L741-1 à L741-10)](#416)
+          - [Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. L741-1 à L741-4)](#417)
+          - [Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. L741-5 à L741-7)](#418)
+          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation (art. L741-8 à L741-10)](#419)
+        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. L742-1 à L742-25)](#420)
+          - [Section 1 : Ouverture de la procédure (art. L742-1 à L742-9)](#421)
+          - [Section 2 : Déclaration et arrêté des créances (art. L742-10 à L742-13)](#422)
+          - [Section 3 : Liquidation des biens du débiteur (art. L742-14 à L742-19)](#423)
+          - [Section 4 : Clôture de la procédure (art. L742-20 à L742-23)](#424)
+          - [Section 5 : Plan (art. L742-24 à L742-25)](#425)
+        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. L743-1 à L743-2)](#426)
+      - [Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS (art. L751-1 à L752-3)](#427)
+        - [Chapitre Ier : Objet du fichier (art. L751-1 à L751-6)](#428)
+        - [Chapitre II : Inscription et radiation (art. L752-1 à L752-3)](#429)
+      - [Titre VI : SANCTIONS (art. L761-1 à L762-2)](#430)
+        - [Chapitre Ier : Sanctions civiles (art. L761-1 à L761-2)](#431)
+        - [Chapitre II : Sanctions pénales (art. L762-1 à L762-2)](#432)
+    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. L811-1 à L823-2)](#433)
+      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. L811-1 à L811-2)](#434)
+        - [Chapitre Ier : Agrément des associations (art. L811-1 à L811-2)](#435)
+      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. L822-1 à L823-2)](#436)
+        - [Chapitre II : Institut national de la consommation (art. L822-1 à L822-11)](#437)
+          - [Section 1 : Organisation et missions (art. L822-1 à L822-3)](#438)
+          - [Section 2 : Les commissions placées auprès de l'Institut national de la consommation (art. L822-4 à L822-11)](#439)
+        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. L823-1 à L823-2)](#440)
+  - [Partie réglementaire nouvelle (art. D111-4 à Annexe à l'article R314-20)](#441)
+    - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. D111-4 à R132-3)](#442)
+      - [Titre Ier : INFORMATION DES CONSOMMATEURS (art. D111-4 à D113-1)](#443)
+        - [Chapitre Ier : Obligation générale d'information précontractuelle (art. D111-4 à R111-3)](#444)
+        - [Chapitre II : Information sur les prix et conditions de vente (art. R112-1 à R112-4)](#445)
+        - [Chapitre III : Information sur les conditions sociales de fabrication des produits (art. D113-1)](#446)
+      - [Titre II : PRATIQUES COMMERCIALES INTERDITES ET PRATIQUES COMMERCIALES RÉGLEMENTÉES (art. R121-1 à D122-3)](#447)
+        - [Chapitre Ier : Pratiques commerciales interdites (art. R121-1)](#448)
+        - [Chapitre II : Pratiques commerciales réglementées (art. D122-1 à D122-3)](#449)
+          - [Section unique : Utilisation de la mention “fait maison” (art. D122-1 à D122-3)](#450)
+      - [Titre III : SANCTIONS (art. R131-1 à R132-3)](#451)
+        - [Chapitre Ier : Information des consommateurs (art. R131-1)](#452)
+        - [Chapitre II : Pratiques commerciales interdites et pratiques commerciales réglementées (art. R132-1 à R132-3)](#453)
+    - [Livre II : FORMATION ET EXÉCUTION DES CONTRATS (art. R212-1 à R242-20)](#454)
+      - [Titre Ier : CONDITIONS GÉNÉRALES DES CONTRATS (art. R212-1 à D213-2)](#455)
+        - [Chapitre II : Clauses abusives (art. R212-1 à R212-5)](#456)
+        - [Chapitre III : Conservation des contrats conclus par voie électronique (art. D213-1 à D213-2)](#457)
+      - [Titre II : RÈGLES DE FORMATION ET D'EXÉCUTION DE CERTAINS CONTRATS (art. R221-1 à D224-21)](#458)
+        - [Chapitre Ier : Contrat conclus à distance et hors établissement (art. R221-1 à R221-4)](#459)
+        - [Chapitre II : Dispositions particulières aux contrats conclus à distance portant sur des services financiers (art. R222-1 à R222-4)](#460)
+        - [Chapitre III : Opposition au démarchage téléphonique (art. R223-1 à R223-8)](#461)
+        - [Chapitre IV : Règles spécifiques à des contrats ayant un objet particulier (art. R224-1 à D224-21)](#462)
+          - [Section 1 : Contrats de courtage matrimonial (art. R224-1 à R224-3)](#463)
+          - [Section 2 : Contrats d'achats de métaux précieux (art. R224-4 à R224-7)](#464)
+          - [Section 3 : Contrats dans les domaines bancaire, financier et des assurances (art. R224-8 à R224-10)](#465)
+          - [Section 4 : Enseignement (art. R224-11)](#466)
+          - [Section 5 : Contrats portant sur les voyages à forfait (art. R224-12)](#467)
+          - [Section 6 : Contrats de prestations de soins médicaux (art. D224-13)](#468)
+          - [Section 7 : Contrats d'hébergement de personnes âgées et services d'aide et d'assistance à domicile (art. R224-14 à R224-15)](#469)
+          - [Section 8 : Contrats de services funéraires (art. R224-16)](#470)
+          - [Section 9 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques (art. D224-17 à D224-21)](#471)
+      - [Titre IV : SANCTIONS (art. R242-1 à R242-20)](#472)
+        - [Chapitre II : Règles de formation et d'exécution de certains contrats (art. R242-1 à R242-20)](#473)
+          - [Section 1 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers (art. R242-1 à R242-5)](#474)
+          - [Section 2 : Dispositions spécifiques à des contrats ayant un objet particulier (art. R242-6 à R242-20)](#475)
+            - [Sous-section 1 : Contrats de fournitures d'électricité ou de gaz naturel (art. R242-6 à R242-15)](#476)
+            - [Sous-section 2 : Contrats de courtage matrimonial (art. R242-16 à R242-20)](#477)
+    - [Livre III : CRÉDIT (art. D312-1 à R341-27)](#478)
+      - [Titre Ier : OPÉRATIONS DE CRÉDIT (art. D312-1 à R315-2)](#479)
+        - [Chapitre II : Crédit à la consommation (art. D312-1 à R312-35)](#480)
+          - [Section 1 : Publicité (art. D312-1)](#481)
+          - [Section 2 : Information précontractuelle de l'emprunteur (art. R312-2 à R312-6)](#482)
+          - [Section 3 : Explications à fournir à l'emprunteur et évaluation de sa solvabilité (art. D312-7 à D312-8)](#483)
+          - [Section 4 : Formation du contrat de crédit (art. R312-9)](#484)
+          - [Section 5 : Informations mentionnées dans le contrat (art. R312-10 à R312-14)](#485)
+          - [Section 6 : Exécution du contrat de crédit (art. D312-15 à D312-19)](#486)
+            - [Sous-section 1 : Remboursement anticipé (art. D312-15)](#487)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. D312-16 à D312-19)](#488)
+          - [Section 7 : Crédit affecté (art. R312-20)](#489)
+          - [Section 8 : Crédit renouvelable (art. D312-21 à D312-31)](#490)
+          - [Section 9 : Opérations de découvert en compte (art. R312-32 à R312-34)](#491)
+          - [Section 10 : Procédure (art. R312-35)](#492)
+        - [Chapitre III : Crédit immobilier (art. R313-1 à R313-33)](#493)
+          - [Section 1 : Publicité et informations générales (art. R313-1 à R313-3)](#494)
+            - [Sous-section unique :  Publicité et informations générales (art. R313-1 à R313-3)](#495)
+              - [Paragraphe 1 : Publicité (art. R313-1 à R313-2)](#496)
+              - [Paragraphe 2 : Informations générales (art. R313-3)](#497)
+          - [Section 2 : Information précontractuelle de l'emprunteur (art. R313-4 à R313-10)](#498)
+            - [Sous-section 1 : Fiche d'informations standardisées européenne (art. R313-4 à R313-7)](#499)
+            - [Sous-section 2 : Information relative à l'assurance emprunteur (art. R313-8 à R313-10)](#500)
+          - [Section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R313-11 à R313-19)](#501)
+            - [Sous-section 1 : Service de conseil (art. R313-11 à R313-12)](#502)
+            - [Sous-section 2 : Evaluation de la solvabilité (art. R313-13 à R313-16)](#503)
+            - [Sous-section 3 : Evaluation du bien immobilier (art. D313-20 à R313-19)](#504)
+          - [Section 4 : Formation du contrat de crédit (art. R313-21 à R313-24)](#505)
+          - [Section 5 : Exécution du contrat de crédit (art. R313-25 à R313-28)](#506)
+            - [Sous-section 1 : Remboursement anticipé (art. R313-25)](#507)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. R313-26 à R313-28)](#508)
+          - [Section 6 : Location-vente et location assortie d'une promesse de vente (art. D313-29)](#509)
+          - [Section 7 : Prêts libellés dans une devise autre que l'euro (art. R313-30 à R313-32)](#510)
+          - [Section 8 : Procédure (art. R313-33)](#511)
+        - [Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R314-1 à D314-29)](#512)
+          - [Section 1 : Taux d'intérêt (art. R314-1 à D314-17)](#513)
+            - [Sous-section 1 : Taux effectif global (art. R314-1 à R314-14)](#514)
+            - [Sous-section 2 : Taux d'usure (art. D314-15 à D314-17)](#515)
+          - [Section 2 : Regroupement de crédits (art. R314-18 à R314-21)](#516)
+          - [Section 3 : Formation du prêteur et de l'intermédiaire (art. D314-23 à D314-29)](#517)
+        - [Chapitre V : Prêt viager hypothécaire (art. R315-1 à R315-2)](#518)
+      - [Titre IV : SANCTIONS (art. R341-1 à R341-27)](#519)
+        - [Chapitre Ier : Opérations de crédit (art. R341-1 à R341-27)](#520)
+          - [Section 1 : Crédit à la consommation (art. R341-1 à R341-19)](#521)
+            - [Sous-section 1 : Publicité (art. R341-1)](#522)
+            - [Sous-section 2 : Information précontractuelle de l'emprunteur (art. R341-2)](#523)
+            - [Sous-section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R341-3)](#524)
+            - [Sous-section 4 : Formation du contrat de crédit (art. R341-4)](#525)
+            - [Sous-section 5 : Informations mentionnées dans le contrat (art. R341-5)](#526)
+            - [Sous-section 6 : Exécution du contrat (art. R341-6)](#527)
+            - [Sous-section 7 : Crédit gratuit (art. R341-7 à R341-9)](#528)
+            - [Sous-section 8 : Crédit affecté (art. R341-10 à R341-11)](#529)
+            - [Sous-section 9 : Crédit renouvelable (art. R341-12 à R341-19)](#530)
+          - [Section 2 : Crédit immobilier (art. R341-20 à R341-23)](#531)
+            - [Sous-section 1 : Information précontractuelle de l'emprunteur (art. R341-20)](#532)
+            - [Sous-section 2 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R341-21 à R341-22)](#533)
+            - [Sous-section 3 : Exécution du contrat de crédit (art. R341-23)](#534)
+          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R341-24 à R341-27)](#535)
+    - [Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES (art. R412-1 à R453-1)](#536)
+      - [Titre Ier : CONFORMITÉ (art. R412-1 à R414-6)](#537)
+        - [Chapitre II : Mesures d'application (art. R412-1 à R412-57)](#538)
+          - [Section 1 : Mesures générales (art. R412-1)](#539)
+          - [Section 2 : Modes de présentation et étiquetage (art. R412-2 à R412-10)](#540)
+            - [Sous-section 1 : Produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou de spécialité traditionnelle garantie (art. R412-2)](#541)
+            - [Sous-section 2 : Identification du lot (art. R412-3 à R412-6)](#542)
+            - [Sous-section 3 : Dispositions particulières (art. R412-7 à R412-10)](#543)
+          - [Section 3 : Dispositions relatives aux denrées non préemballées (art. R412-11 à R412-16)](#544)
+            - [Sous-section 1 : Dénomination de vente (art. R412-11)](#545)
+            - [Sous-section 2 : Information relative à la présence de substances ou produits provoquant des allergies ou intolérances (art. R412-12 à R412-16)](#546)
+          - [Section 4 : Règlements de l'Union européenne constituant des mesures d'exécution de l'article L. 412-1 (art. R412-17 à R412-43)](#547)
+            - [Sous-section 1 : Dispositions générales (art. R412-17)](#548)
+            - [Sous-section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux (art. R412-18)](#549)
+            - [Sous-section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R412-19)](#550)
+            - [Sous-section 4 : Organismes génétiquement modifiés (art. R412-20)](#551)
+            - [Sous-section 5 : Boissons alcoolisées (art. R412-21)](#552)
+            - [Sous-section 6 : Additifs, enzymes, arômes destinés à l'alimentation humaine (art. R412-22)](#553)
+            - [Sous-section 7 : Adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires (art. R412-23)](#554)
+            - [Sous-section 8 : Contaminants (art. R412-24)](#555)
+            - [Sous-section 9 : Fruits et légumes (art. R412-25)](#556)
+            - [Sous-section 10 : Huile d'olive et olives de table (art. R412-26)](#557)
+            - [Sous-section 11 : Œufs et viande de volaille (art. R412-27)](#558)
+            - [Sous-section 12 : Produits laitiers, colostrum et matières grasses laitières ou non (art. R412-28)](#559)
+            - [Sous-section 13 : Produits de la pêche (art. R412-29)](#560)
+            - [Sous-section 14 : Viandes bovine, ovine et porcine (art. R412-30)](#561)
+            - [Sous-section 15 : Viande hachée et produits à base de viande (art. R412-31)](#562)
+            - [Sous-section 16 : Collagènes et gélatine (art. R412-32)](#563)
+            - [Sous-section 17 : Modes de valorisation (art. R412-33)](#564)
+            - [Sous-section 18 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale (art. R412-34)](#565)
+            - [Sous-section 19 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R412-35)](#566)
+            - [Sous-section 20 : Contrôles officiels renforcés à l'importation (art. R412-36)](#567)
+            - [Sous-section 21 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 6° de l'article L. 412-1 (art. R412-37)](#568)
+            - [Sous-section 22 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R412-38)](#569)
+            - [Sous-section 23 : Alimentation des animaux (art. R412-39)](#570)
+            - [Sous-section 24 : Engrais (art. R412-40)](#571)
+            - [Sous-section 25 : Détergents (art. R412-41)](#572)
+            - [Sous-section 26 : Fibres et produits textiles (art. R412-42)](#573)
+            - [Sous-section 27 : Produits de construction (art. R412-43)](#574)
+          - [Section 5 : Dispositions spécifiques à certains produits (art. R412-44 à R412-48)](#575)
+          - [Section 6 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs (art. R412-49 à R412-57)](#576)
+        - [Chapitre IV : Dispositions relatives à certains établissements (art. R414-1 à R414-6)](#577)
+      - [Titre II : SÉCURITÉ (art. R422-1)](#578)
+        - [Chapitre II : Mesures d'application (art. R422-1)](#579)
+      - [Titre III : VALORISATION DES PRODUITS ET SERVICES (art. R431-1 à R433-2)](#580)
+        - [Chapitre Ier : Appellations d'origine (art. R431-1 à R431-5)](#581)
+        - [Chapitre III : Certification de conformité (art. R433-1 à R433-2)](#582)
+      - [Titre V : SANCTIONS (art. R451-1 à R453-1)](#583)
+        - [Chapitre Ier : Conformité (art. R451-1 à R451-3)](#584)
+        - [Chapitre II : Sécurité (art. R452-1 à R452-4)](#585)
+        - [Chapitre III : Valorisation des produits et services (art. R453-1)](#586)
+    - [Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES (art. D512-6 à R541-1)](#587)
+      - [Titre Ier : RECHERCHE ET CONSTATATION (art. D512-6 à R512-42)](#588)
+        - [Chapitre II : Pouvoirs d'enquête (art. D512-6 à R512-42)](#589)
+          - [Section 1 : Pouvoirs d'enquête ordinaires (art. D512-6 à R512-38)](#590)
+            - [Sous-section 1 : Dispositions communes (art. D512-6 à R512-5)](#591)
+            - [Sous-section 2 : Recueil de renseignements et de documents (art. R512-7)](#592)
+            - [Sous-section 3 : Contrôle de la vente de biens et de la fourniture de services sur internet (art. R512-8)](#593)
+            - [Sous-section 4 : Prélèvements (art. R512-9 à R512-24)](#594)
+              - [Paragraphe 1 : Dispositions communes (art. R512-9 à R512-16)](#595)
+              - [Paragraphe 2 : Prélèvement en trois échantillons (art. R512-17)](#596)
+              - [Paragraphe 3 : Prélèvement en deux échantillons (art. R512-18)](#597)
+              - [Paragraphe 4 : Prélèvement en un échantillon (art. R512-19 à R512-23)](#598)
+              - [Paragraphe 5 : Prélèvement administratif (art. R512-24)](#599)
+            - [Sous-section 5 : Contrôle des produits avant mise en libre pratique (art. R512-25 à R512-29)](#600)
+            - [Sous-section 6 : Essais et analyses (art. R512-30 à R512-38)](#601)
+          - [Section 2 : Opérations de visites et saisies (art. R512-39 à R512-42)](#602)
+      - [Titre II : MESURES CONSÉCUTIVES AUX CONTRÔLES (art. R521-1 à R525-3)](#603)
+        - [Chapitre Ier : Mesures de police administrative (art. R521-1 à R521-3)](#604)
+          - [Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit (art. R521-1 à R521-2)](#605)
+          - [Section 2 : Conformité et sécurité des produits et services (art. D521-4 à R521-3)](#606)
+        - [Chapitre II : Procédure de sanctions administratives (art. R522-1 à R522-9)](#607)
+          - [Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit (art. R522-1 à R522-6)](#608)
+          - [Section 2 : Conformité et sécurité des produits et services (art. R522-7 à R522-9)](#609)
+        - [Chapitre III : Transaction (art. R523-1 à R523-4)](#610)
+        - [Chapitre IV : Saisine de la juridiction civile ou administrative (art. R524-1)](#611)
+        - [Chapitre V : Procédures devant les juridictions (art. R525-1 à R525-3)](#612)
+      - [Titre III : SANCTIONS (art. R531-1 à R532-2)](#613)
+        - [Chapitre Ier : Recherche et constatation (art. R531-1 à R531-3)](#614)
+          - [Section 1 : Sanctions pénales (art. R531-1 à R531-2)](#615)
+          - [Section 2 : Sanctions administratives (art. R531-3)](#616)
+        - [Chapitre II : Mesures consécutives aux contrôles (art. R532-1 à R532-2)](#617)
+      - [Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R541-1)](#618)
+        - [Chapitre unique : dispositions relatives aux départements et régions d'outre-mer et à certaines collectivités (art. R541-1)](#619)
+    - [Livre VI : RÈGLEMENT DES LITIGES (art. R612-1 à R632-1)](#620)
+      - [Titre Ier : MÉDIATION (art. R612-1 à R616-2)](#621)
+        - [Chapitre II : Processus de médiation des litiges de consommation (art. R612-1 à R612-5)](#622)
+        - [Chapitre III : Statut du médiateur de la consommation (art. D613-2 à R613-1)](#623)
+        - [Chapitre IV : Obligations de communication du médiateur de la consommation (art. R614-1 à R614-4)](#624)
+        - [Chapitre V : Commission d'évaluation et de contrôle de la médiation de la consommation (art. R615-1 à R615-11)](#625)
+        - [Chapitre VI : Information et assistance du consommateur (art. R616-1 à R616-2)](#626)
+      - [Titre II : ACTIONS EN JUSTICE DES ASSOCIATIONS DE DÉFENSE DES CONSOMMATEURS (art. R622-1 à R623-33)](#627)
+        - [Chapitre II : Action en représentation conjointe (art. R622-1 à R622-10)](#628)
+        - [Chapitre III : Action de groupe (art. R623-1 à R623-33)](#629)
+          - [Section 1 : Introduction de l'action et règles de procédure (art. R623-1 à R623-5)](#630)
+          - [Section 2 : Jugement sur la responsabilité (art. R623-6 à R623-10)](#631)
+          - [Section 3 : Procédure d'action de groupe simplifiée (art. R623-11 à R623-15)](#632)
+          - [Section 4 : Mise en œuvre du jugement, réparation des préjudices et exécution forcée (art. R623-16 à R623-29)](#633)
+            - [Paragraphe 1 : Mesures d'information des consommateurs (art. R623-16)](#634)
+            - [Paragraphe 2 : Adhésion au groupe (art. R623-17 à R623-22)](#635)
+            - [Paragraphe 3 : Réparation des préjudices et règlement des différends (art. R623-23 à R623-25)](#636)
+            - [Paragraphe 4 : Liquidation judiciaire et réparation forcée des préjudices (art. R623-26 à R623-29)](#637)
+          - [Section 5 : Substitution (art. R623-30 à R623-33)](#638)
+      - [Titre III : COMPÉTENCE DU JUGE (art. R631-1 à R632-1)](#639)
+        - [Chapitre Ier : Règles applicables aux litiges civils (art. R631-1 à R631-4)](#640)
+        - [Chapitre II : Office du juge (art. R632-1)](#641)
+    - [Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R711-1 à R761-1)](#642)
+      - [Titre Ier : DISPOSITIONS GÉNÉRALES RELATIVES AU TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R711-1 à R713-11)](#643)
+        - [Chapitre Ier : Définition et champ d'application (art. R711-1 à R711-2)](#644)
+        - [Chapitre II : Les commissions de surendettement des particuliers (art. R712-1 à R712-20)](#645)
+          - [Section 1 : Organisation et fonctionnement (art. R712-1 à R712-12)](#646)
+          - [Section 2 : Procédures devant les commissions (art. R712-13 à R712-20)](#647)
+        - [Chapitre III : Compétence du juge du tribunal d'instance (art. R713-1 à R713-11)](#648)
+      - [Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT (art. R721-1 à R724-8)](#649)
+        - [Chapitre Ier : Saisine de la commission de surendettement des particuliers (art. R721-1 à R721-8)](#650)
+        - [Chapitre II : Recevabilité de la demande (art. R722-1 à R722-11)](#651)
+          - [Section 1 : Examen de la recevabilité de la demande (art. R722-1 à R722-4)](#652)
+          - [Section 2 : Effets de la décision de recevabilité (art. R722-5 à R722-11)](#653)
+            - [Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R722-5 à R722-8)](#654)
+            - [Sous-section 2 : Suspension des mesures d'expulsion (art. R722-9 à R722-10)](#655)
+            - [Sous-section 3 : Emoluments supportés par le débiteur (art. R722-11)](#656)
+        - [Chapitre III : Etat du passif (art. R723-1 à R723-8)](#657)
+          - [Section 1 : Etat du passif dressé par la commission (art. R723-1 à R723-5)](#658)
+          - [Section 2 : Vérification des créances (art. R723-6 à R723-8)](#659)
+        - [Chapitre IV : Orientation du dossier (art. R724-1 à R724-8)](#660)
+      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R731-1 à R733-18)](#661)
+        - [Chapitre Ier : Détermination de la capacité de remboursement (art. R731-1 à R731-3)](#662)
+        - [Chapitre II : Plan conventionnel (art. R732-1 à R732-2)](#663)
+        - [Chapitre III : Mesures imposées ou recommandées (art. R733-1 à R733-18)](#664)
+          - [Section 1 : Contenu et adoption des mesures imposées ou recommandées (art. R733-1 à R733-13)](#665)
+          - [Section 2 : Contestation des mesures imposées ou recommandées (art. R733-14 à R733-17)](#666)
+          - [Section 3 : Dispositions communes aux mesures recommandées ou imposées (art. R733-18)](#667)
+      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. R741-1 à R743-2)](#668)
+        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-18)](#669)
+          - [Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-9)](#670)
+          - [Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. R741-10 à R741-14)](#671)
+          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation (art. R741-15 à R741-18)](#672)
+        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. R742-1 à R742-57)](#673)
+          - [Section 1 : Ouverture de la procédure (art. R742-1 à R742-10)](#674)
+          - [Section 2 : Déclaration et arrêté des créances (art. R742-11 à R742-17)](#675)
+          - [Section 3 : Liquidation des biens du débiteur (art. R742-18 à R742-52)](#676)
+            - [Sous-section 1 : Dispositions générales (art. R742-18 à R742-26)](#677)
+            - [Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R742-27 à R742-41)](#678)
+            - [Sous-section 3 : Répartition du produit des actifs (art. R742-42 à R742-52)](#679)
+          - [Section 4 : Clôture de la procédure (art. R742-53 à R742-55)](#680)
+          - [Section 5 : Plan (art. R742-56 à R742-57)](#681)
+        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. R743-1 à R743-2)](#682)
+      - [Titre VI : SANCTIONS (art. R761-1)](#683)
+        - [Chapitre Ier : Sanctions civiles (art. R761-1)](#684)
+    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R811-1 à D825-4)](#685)
+      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. R811-1 à R812-3)](#686)
+        - [Chapitre Ier : Agrément des associations (art. R811-1 à R811-7)](#687)
+        - [Chapitre II : Reconnaissance spécifique des associations (art. R812-1 à R812-3)](#688)
+      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. D821-1 à D825-4)](#689)
+        - [Chapitre Ier : Conseil national de la consommation (art. D821-1 à D821-17)](#690)
+          - [Section 1 : Missions et attributions (art. D821-1 à D821-4)](#691)
+          - [Section 2 : Composition et organisation (art. D821-5 à D821-11)](#692)
+          - [Section 3 : Fonctionnement (art. D821-12 à D821-17)](#693)
+        - [Chapitre II : Institut national de la consommation (art. R822-1 à R822-32)](#694)
+          - [Section 1 : Missions et fonctionnement (art. R822-1 à R822-12)](#695)
+          - [Section 2 : Organes consultatifs (art. R822-13)](#696)
+          - [Section 3 : Dispositions financières et comptables (art. R822-14 à R822-17)](#697)
+          - [Section 4 : Commissions placées auprès de l'Institut national de la consommation (art. R822-18 à R822-32)](#698)
+            - [Sous-section 1 : Commission des clauses abusives (art. R822-18 à R822-21)](#699)
+            - [Sous-section 2 : Commission de la sécurité des consommateurs (art. R822-22 à R822-27)](#700)
+            - [Sous-section 3 : Dispositions communes aux commissions (art. R822-28 à R822-32)](#701)
+        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. R823-1 à R823-20)](#702)
+          - [Section 1 : Organisation et fonctionnement (art. R823-1 à R823-14)](#703)
+          - [Section 2 : Dispositions financières et comptables (art. R823-15 à R823-19)](#704)
+          - [Section 3 : Dispositions diverses (art. R823-20)](#705)
+        - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#706)
+        - [Chapitre V : Groupe interministériel de la consommation (art. D825-1 à D825-4)](#707)
+    - [Annexes (art. Annexe à  l'article R314-3 à Annexe à l'article R314-20)](#708)
+  - [Partie législative (art. L116-1 à L334-12)](#709)
+    - [Livre Ier : Information des consommateurs et formation des contrats (art. L116-1 à L157-2)](#710)
+      - [Titre Ier : Information des consommateurs (art. L116-1)](#711)
+        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. L116-1)](#712)
+      - [Titre II : Pratiques commerciales (art. L123-1 à L123-6)](#713)
+        - [Chapitre III : Dispositions relatives à l'outre-mer (art. L123-1 à L123-6)](#714)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. L142-1)](#715)
+        - [Chapitre II : Dispositions relatives à l'outre-mer (art. L142-1)](#716)
+      - [Titre V : Médiation des litiges de la consommation (art. L157-1 à L157-2)](#717)
+        - [Chapitre VII : Dispositions relatives à l'outre-mer (art. L157-1 à L157-2)](#718)
+    - [Livre III : Endettement (art. L315-1 à L334-12)](#719)
+      - [Titre Ier : Crédit (art. L315-1 à L315-11)](#720)
+        - [Chapitre V : Dispositions relatives à l'outre-mer (art. L315-1 à L315-11)](#721)
+          - [Section 1 : Crédit à la consommation (art. L315-1)](#722)
+          - [Section 2 : Crédit immobilier (art. L315-2 à L315-4)](#723)
+          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. L315-5 à L315-10)](#724)
+          - [Section 4 : Prêt viager hypothécaire (art. L315-11)](#725)
+      - [Titre II : Activité d'intermédiaire (art. L323-1)](#726)
+        - [Chapitre III : Dispositions relatives à l'outre-mer (art. L323-1)](#727)
+      - [Titre III : Traitement des situations de surendettement (art. L334-1 à L334-12)](#728)
+        - [Chapitre IV : Dispositions relatives à l'outre-mer (art. L334-1 à L334-12)](#729)
+          - [Section 1 : Dispositions applicables à Mayotte (art. L334-1 à L334-3)](#730)
+          - [Section 2 : Dispositions applicables à la Nouvelle-Calédonie (art. L334-4 à L334-6)](#731)
+          - [Section 3 : Dispositions applicables à la Polynésie française (art. L334-7)](#732)
+          - [Section 4 : Dispositions applicables aux îles Wallis et Futuna (art. L334-8 à L334-10)](#733)
+          - [Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin (art. L334-11)](#734)
+          - [Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon (art. L334-12)](#735)
+  - [Partie réglementaire (art. R123-1 à R423-25)](#736)
+    - [Livre Ier : Information des consommateurs et formation des contrats (art. R123-1 à R143-2)](#737)
+      - [Titre II : Pratiques commerciales (art. R123-1)](#738)
+        - [Chapitre III : Dispositions relatives à l'outre-mer (art. R123-1)](#739)
+      - [Titre IV : Pouvoirs des agents et actions juridictionnelles (art. R143-1 à R143-2)](#740)
+        - [Chapitre III : Dispositions relatives à l'outre-mer (art. R143-1 à R143-2)](#741)
+    - [Livre II : Qualité des produits et des services (art. R219-1 à R219-2)](#742)
+      - [Titre Ier : Conformité (art. R219-1 à R219-2)](#743)
+        - [Chapitre IX : Sanctions administratives (art. R219-1 à R219-2)](#744)
+    - [Livre III : Endettement (art. D315-1-1 à R336-8)](#745)
+      - [Titre Ier : Crédit (art. D315-1-1 à R315-6)](#746)
+        - [Chapitre V : Dispositions relatives à l'outre-mer (art. D315-1-1 à R315-6)](#747)
+          - [Section 1 : Crédit à la consommation (art. D315-1-1 à R315-1)](#748)
+          - [Section 2 : Crédit immobilier (art. R315-2)](#749)
+          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R315-3 à R315-5)](#750)
+          - [Section 4 : Prêt viager hypothécaire (art. R315-6)](#751)
+      - [Titre III : Traitement des situations de surendettement (art. R336-1 à R336-8)](#752)
+        - [Chapitre VI : Dispositions relatives à l'outre-mer (art. R336-1 à R336-8)](#753)
+          - [Section 1 : Dispositions particulières à Mayotte (art. R336-1)](#754)
+          - [Section 2 : Dispositions applicables en Nouvelle-Calédonie (art. R336-2 à R336-3)](#755)
+          - [Section 3 : Dispositions applicables aux îles Wallis et Futuna (art. R336-4)](#756)
+          - [Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin (art. R336-5 à R336-6)](#757)
+          - [Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R336-7 à R336-8)](#758)
+    - [Livre IV : Les associations de consommateurs (art. R423-24 à R423-25)](#759)
+      - [Titre II : Action en justice des associations. (art. R423-24 à R423-25)](#760)
+        - [Chapitre III : Action de groupe (art. R423-24 à R423-25)](#761)
+          - [Section 8 : Dispositions relatives aux outre-mer (art. R423-24 à R423-25)](#762)
 # Partie législative nouvelle<a id=1></a>
 
 ###### Article liminaire
@@ -32637,9 +32636,7 @@ _Anciens textes_:
 
 ### Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=408></a>
 
-#### Chapitre Ier : Détermination de la capacité de remboursement<a id=409></a>
-
-#### Chapitre Ier : Détermination du montant des remboursements<a id=410></a>
+#### Chapitre Ier : Détermination du montant des remboursements<a id=409></a>
 
 ###### Article L731-1
 
@@ -32742,7 +32739,7 @@ _Cité par_:
   - Code de la consommation - art. L771-2 (VD)
 
 
-#### Chapitre II : Plan conventionnel<a id=411></a>
+#### Chapitre II : Plan conventionnel<a id=410></a>
 
 ###### Article L732-1
 
@@ -32887,9 +32884,9 @@ _Cité par_:
   - Code de la consommation - art. R733-4 (V)
 
 
-#### Chapitre III : Mesures imposées ou recommandées<a id=412></a>
+#### Chapitre III : Mesures imposées ou recommandées<a id=411></a>
 
-##### Section 1 : Contenu et adoption des mesures imposées ou recommandées<a id=413></a>
+##### Section 1 : Contenu et adoption des mesures imposées ou recommandées<a id=412></a>
 
 ###### Article L733-1
 
@@ -33335,7 +33332,7 @@ _Anciens textes_:
   - Code de la consommation - art. L332-1, alinéa 2 (Ab)
 
 
-##### Section 2 : Contestation des mesures imposées ou recommandées<a id=414></a>
+##### Section 2 : Contestation des mesures imposées ou recommandées<a id=413></a>
 
 ###### Article L733-12
 
@@ -33489,7 +33486,7 @@ _Cité par_:
   - Code de la consommation - art. R733-5 (V)
 
 
-##### Section 3 : Dispositions communes aux mesures imposées ou recommandées et à leur contestation<a id=415></a>
+##### Section 3 : Dispositions communes aux mesures imposées ou recommandées et à leur contestation<a id=414></a>
 
 ###### Article L733-16
 
@@ -33587,11 +33584,11 @@ _Cité par_:
   - Code monétaire et financier - art. R131-21-1 (V)
 
 
-### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=416></a>
+### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=415></a>
 
-#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=417></a>
+#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=416></a>
 
-##### Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=418></a>
+##### Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=417></a>
 
 ###### Article L741-1
 
@@ -33720,7 +33717,7 @@ _Cité par_:
   - Code de la consommation - art. R741-1 (VD)
 
 
-##### Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=419></a>
+##### Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=418></a>
 
 ###### Article L741-5
 
@@ -33827,7 +33824,7 @@ _Cite_:
   - Code de la consommation - art. L741-3 (VD)
 
 
-##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation<a id=420></a>
+##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation<a id=419></a>
 
 ###### Article L741-8
 
@@ -33920,9 +33917,9 @@ _Cité par_:
   - Code de la consommation - art. L771-2 (VD)
 
 
-#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=421></a>
+#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=420></a>
 
-##### Section 1 : Ouverture de la procédure<a id=422></a>
+##### Section 1 : Ouverture de la procédure<a id=421></a>
 
 ###### Article L742-1
 
@@ -34167,7 +34164,7 @@ _Cité par_:
   - Code de la consommation - art. R742-10 (V)
 
 
-##### Section 2 : Déclaration et arrêté des créances<a id=423></a>
+##### Section 2 : Déclaration et arrêté des créances<a id=422></a>
 
 ###### Article L742-10
 
@@ -34251,7 +34248,7 @@ _Anciens textes_:
   - Code de la consommation - art. L332-8 , début 1ère phrase (Ab)
 
 
-##### Section 3 : Liquidation des biens du débiteur<a id=424></a>
+##### Section 3 : Liquidation des biens du débiteur<a id=423></a>
 
 ###### Article L742-14
 
@@ -34394,7 +34391,7 @@ _Anciens textes_:
   - Code de la consommation - art. L332-8, alinéa 6 (Ab)
 
 
-##### Section 4 : Clôture de la procédure<a id=425></a>
+##### Section 4 : Clôture de la procédure<a id=424></a>
 
 ###### Article L742-20
 
@@ -34513,7 +34510,7 @@ _Anciens textes_:
   - Code de la consommation - art. L332-9, alinéa 3 (Ab)
 
 
-##### Section 5 : Plan<a id=426></a>
+##### Section 5 : Plan<a id=425></a>
 
 ###### Article L742-24
 
@@ -34580,7 +34577,7 @@ _Cité par_:
   - Code de la consommation - art. R742-57 (V)
 
 
-#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=427></a>
+#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=426></a>
 
 ###### Article L743-1
 
@@ -34636,9 +34633,9 @@ _Cité par_:
   - Code de la consommation - art. R743-2 (V)
 
 
-### Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS<a id=428></a>
+### Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS<a id=427></a>
 
-#### Chapitre Ier : Objet du fichier<a id=429></a>
+#### Chapitre Ier : Objet du fichier<a id=428></a>
 
 ###### Article L751-1
 
@@ -34849,7 +34846,7 @@ _Cite_:
   - Code de la consommation - art. L751-2 (VD)
 
 
-#### Chapitre II : Inscription et radiation<a id=430></a>
+#### Chapitre II : Inscription et radiation<a id=429></a>
 
 ###### Article L752-1
 
@@ -34981,9 +34978,9 @@ _Cité par_:
   - Code de la consommation - art. L771-2 (VD)
 
 
-### Titre VI : SANCTIONS<a id=431></a>
+### Titre VI : SANCTIONS<a id=430></a>
 
-#### Chapitre Ier : Sanctions civiles<a id=432></a>
+#### Chapitre Ier : Sanctions civiles<a id=431></a>
 
 ###### Article L761-1
 
@@ -35061,7 +35058,7 @@ _Cite_:
   - Code de la consommation - art. L733-7 (VD)
 
 
-#### Chapitre II : Sanctions pénales<a id=433></a>
+#### Chapitre II : Sanctions pénales<a id=432></a>
 
 ###### Article L762-1
 
@@ -35126,11 +35123,11 @@ _Cite_:
   - Code pénal - art. 226-18 (M)
 
 
-## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=434></a>
+## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=433></a>
 
-### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=435></a>
+### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=434></a>
 
-#### Chapitre Ier : Agrément des associations<a id=436></a>
+#### Chapitre Ier : Agrément des associations<a id=435></a>
 
 ###### Article L811-1
 
@@ -35203,11 +35200,11 @@ _Cité par_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=437></a>
+### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=436></a>
 
-#### Chapitre II : Institut national de la consommation<a id=438></a>
+#### Chapitre II : Institut national de la consommation<a id=437></a>
 
-##### Section 1 : Organisation et missions<a id=439></a>
+##### Section 1 : Organisation et missions<a id=438></a>
 
 ###### Article L822-1
 
@@ -35285,7 +35282,7 @@ _Anciens textes_:
   - Code de la consommation - art. L531-4 (Ab)
 
 
-##### Section 2 : Les commissions placées auprès de l'Institut national de la consommation<a id=440></a>
+##### Section 2 : Les commissions placées auprès de l'Institut national de la consommation<a id=439></a>
 
 ###### Article L822-4
 
@@ -35543,7 +35540,7 @@ _Anciens textes_:
   - Code de la consommation - art. L534-10 (Ab)
 
 
-#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=441></a>
+#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=440></a>
 
 ###### Article L823-1
 
@@ -35606,13 +35603,13 @@ _Anciens textes_:
   - Code de la consommation - art. L562-1 (Ab)
 
 
-# Partie réglementaire nouvelle<a id=442></a>
+# Partie réglementaire nouvelle<a id=441></a>
 
-## Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES<a id=443></a>
+## Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES<a id=442></a>
 
-### Titre Ier : INFORMATION DES CONSOMMATEURS<a id=444></a>
+### Titre Ier : INFORMATION DES CONSOMMATEURS<a id=443></a>
 
-#### Chapitre Ier : Obligation générale d'information précontractuelle<a id=445></a>
+#### Chapitre Ier : Obligation générale d'information précontractuelle<a id=444></a>
 
 ###### Article D111-4
 
@@ -36020,7 +36017,7 @@ _Anciens textes_:
   - Code de la consommation - art. R111-2, II (Ab)
 
 
-#### Chapitre II : Information sur les prix et conditions de vente<a id=446></a>
+#### Chapitre II : Information sur les prix et conditions de vente<a id=445></a>
 
 ###### Article R112-1
 
@@ -36140,7 +36137,7 @@ _Cite_:
   - Code de la consommation - art. R112-1 (V)
 
 
-#### Chapitre III : Information sur les conditions sociales de fabrication des produits<a id=447></a>
+#### Chapitre III : Information sur les conditions sociales de fabrication des produits<a id=446></a>
 
 ###### Article D113-1
 
@@ -36206,9 +36203,9 @@ _Cite_:
   - Code de la consommation - art. L113-1 (V)
 
 
-### Titre II : PRATIQUES COMMERCIALES INTERDITES ET PRATIQUES COMMERCIALES RÉGLEMENTÉES<a id=448></a>
+### Titre II : PRATIQUES COMMERCIALES INTERDITES ET PRATIQUES COMMERCIALES RÉGLEMENTÉES<a id=447></a>
 
-#### Chapitre Ier : Pratiques commerciales interdites<a id=449></a>
+#### Chapitre Ier : Pratiques commerciales interdites<a id=448></a>
 
 ###### Article R121-1
 
@@ -36255,9 +36252,9 @@ _Anciens textes_:
   - Code de la consommation - art. L121-35, alinéas 2 et 3 (Ab)
 
 
-#### Chapitre II : Pratiques commerciales réglementées<a id=450></a>
+#### Chapitre II : Pratiques commerciales réglementées<a id=449></a>
 
-##### Section unique : Utilisation de la mention “fait maison”<a id=451></a>
+##### Section unique : Utilisation de la mention “fait maison”<a id=450></a>
 
 ###### Article D122-1
 
@@ -36374,9 +36371,9 @@ _Cite_:
   - Code de la consommation - art. D122-1 (V)
 
 
-### Titre III : SANCTIONS<a id=452></a>
+### Titre III : SANCTIONS<a id=451></a>
 
-#### Chapitre Ier : Information des consommateurs<a id=453></a>
+#### Chapitre Ier : Information des consommateurs<a id=452></a>
 
 ###### Article R131-1
 
@@ -36407,7 +36404,7 @@ _Anciens textes_:
   - Code de la consommation - art. R134-1 (Ab)
 
 
-#### Chapitre II : Pratiques commerciales interdites et pratiques commerciales réglementées<a id=454></a>
+#### Chapitre II : Pratiques commerciales interdites et pratiques commerciales réglementées<a id=453></a>
 
 ###### Article R132-1
 
@@ -36489,11 +36486,11 @@ _Cite_:
   - Code pénal - art. R635-2 (V)
 
 
-## Livre II : FORMATION ET EXÉCUTION DES CONTRATS<a id=455></a>
+## Livre II : FORMATION ET EXÉCUTION DES CONTRATS<a id=454></a>
 
-### Titre Ier : CONDITIONS GÉNÉRALES DES CONTRATS<a id=456></a>
+### Titre Ier : CONDITIONS GÉNÉRALES DES CONTRATS<a id=455></a>
 
-#### Chapitre II : Clauses abusives<a id=457></a>
+#### Chapitre II : Clauses abusives<a id=456></a>
 
 ###### Article R212-1
 
@@ -36717,7 +36714,7 @@ _Cite_:
   - Code de la consommation - art. R212-1 (V)
 
 
-#### Chapitre III : Conservation des contrats conclus par voie électronique<a id=458></a>
+#### Chapitre III : Conservation des contrats conclus par voie électronique<a id=457></a>
 
 ###### Article D213-1
 
@@ -36769,9 +36766,9 @@ _Cite_:
   - Code de la consommation - art. L213-1 (V)
 
 
-### Titre II : RÈGLES DE FORMATION ET D'EXÉCUTION DE CERTAINS CONTRATS<a id=459></a>
+### Titre II : RÈGLES DE FORMATION ET D'EXÉCUTION DE CERTAINS CONTRATS<a id=458></a>
 
-#### Chapitre Ier : Contrat conclus à distance et hors établissement<a id=460></a>
+#### Chapitre Ier : Contrat conclus à distance et hors établissement<a id=459></a>
 
 ###### Article R221-1
 
@@ -36889,7 +36886,7 @@ _Anciens textes_:
   - Code de la consommation - art. R121-2, III (Ab)
 
 
-#### Chapitre II : Dispositions particulières aux contrats conclus à distance portant sur des services financiers<a id=461></a>
+#### Chapitre II : Dispositions particulières aux contrats conclus à distance portant sur des services financiers<a id=460></a>
 
 ###### Article R222-1
 
@@ -37104,7 +37101,7 @@ _Anciens textes_:
   - Code de la consommation - art. R121-4 (Ab)
 
 
-#### Chapitre III : Opposition au démarchage téléphonique<a id=462></a>
+#### Chapitre III : Opposition au démarchage téléphonique<a id=461></a>
 
 ###### Article R223-1
 
@@ -37342,9 +37339,9 @@ _Anciens textes_:
   - Code de la consommation - art. R121-7-8 (Ab)
 
 
-#### Chapitre IV : Règles spécifiques à des contrats ayant un objet particulier<a id=463></a>
+#### Chapitre IV : Règles spécifiques à des contrats ayant un objet particulier<a id=462></a>
 
-##### Section 1 : Contrats de courtage matrimonial<a id=464></a>
+##### Section 1 : Contrats de courtage matrimonial<a id=463></a>
 
 ###### Article R224-1
 
@@ -37431,7 +37428,7 @@ _Cite_:
   - Code de la consommation - art. L224-91 (V)
 
 
-##### Section 2 : Contrats d'achats de métaux précieux<a id=465></a>
+##### Section 2 : Contrats d'achats de métaux précieux<a id=464></a>
 
 ###### Article R224-4
 
@@ -37539,7 +37536,7 @@ _Anciens textes_:
   - Code de la consommation - art. R121-25 (Ab)
 
 
-##### Section 3 : Contrats dans les domaines bancaire, financier et des assurances<a id=466></a>
+##### Section 3 : Contrats dans les domaines bancaire, financier et des assurances<a id=465></a>
 
 ###### Article R224-8
 
@@ -37603,7 +37600,7 @@ _Cite_:
   - Code des assurances (V)
 
 
-##### Section 4 : Enseignement<a id=467></a>
+##### Section 4 : Enseignement<a id=466></a>
 
 ###### Article R224-11
 
@@ -37626,7 +37623,7 @@ _Cite_:
   - Code de l'éducation (V)
 
 
-##### Section 5 : Contrats portant sur les voyages à forfait<a id=468></a>
+##### Section 5 : Contrats portant sur les voyages à forfait<a id=467></a>
 
 ###### Article R224-12
 
@@ -37648,7 +37645,7 @@ _Créé par_:
   - RECTIFICATION: Décret n°2016-884 du 29 juin 2016 - art., v. init.
 
 
-##### Section 6 : Contrats de prestations de soins médicaux<a id=469></a>
+##### Section 6 : Contrats de prestations de soins médicaux<a id=468></a>
 
 ###### Article D224-13
 
@@ -37671,7 +37668,7 @@ _Cite_:
   - Code de la santé publique (V)
 
 
-##### Section 7 : Contrats d'hébergement de personnes âgées et services d'aide et d'assistance à domicile<a id=470></a>
+##### Section 7 : Contrats d'hébergement de personnes âgées et services d'aide et d'assistance à domicile<a id=469></a>
 
 ###### Article R224-14
 
@@ -37713,7 +37710,7 @@ _Cite_:
   - Code de l'action sociale et des familles (V)
 
 
-##### Section 8 : Contrats de services funéraires<a id=471></a>
+##### Section 8 : Contrats de services funéraires<a id=470></a>
 
 ###### Article R224-16
 
@@ -37735,7 +37732,7 @@ _Cite_:
   - Code général des collectivités territoriales (V)
 
 
-##### Section 9 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques<a id=472></a>
+##### Section 9 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques<a id=471></a>
 
 ###### Article D224-17
 
@@ -37843,11 +37840,11 @@ _Créé par_:
   - Décret n°2016-1238 du 20 septembre 2016 - art. 1
 
 
-### Titre IV : SANCTIONS<a id=473></a>
+### Titre IV : SANCTIONS<a id=472></a>
 
-#### Chapitre II : Règles de formation et d'exécution de certains contrats<a id=474></a>
+#### Chapitre II : Règles de formation et d'exécution de certains contrats<a id=473></a>
 
-##### Section 1 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers<a id=475></a>
+##### Section 1 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers<a id=474></a>
 
 ###### Article R242-1
 
@@ -37975,9 +37972,9 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-##### Section 2 : Dispositions spécifiques à des contrats ayant un objet particulier<a id=476></a>
+##### Section 2 : Dispositions spécifiques à des contrats ayant un objet particulier<a id=475></a>
 
-##### Sous-section 1 : Contrats de fournitures d'électricité ou de gaz naturel<a id=477></a>
+##### Sous-section 1 : Contrats de fournitures d'électricité ou de gaz naturel<a id=476></a>
 
 ###### Article R242-6
 
@@ -38242,7 +38239,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Sous-section 2 : Contrats de courtage matrimonial<a id=478></a>
+##### Sous-section 2 : Contrats de courtage matrimonial<a id=477></a>
 
 ###### Article R242-16
 
@@ -38369,13 +38366,13 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-## Livre III : CRÉDIT<a id=479></a>
+## Livre III : CRÉDIT<a id=478></a>
 
-### Titre Ier : OPÉRATIONS DE CRÉDIT<a id=480></a>
+### Titre Ier : OPÉRATIONS DE CRÉDIT<a id=479></a>
 
-#### Chapitre II : Crédit à la consommation<a id=481></a>
+#### Chapitre II : Crédit à la consommation<a id=480></a>
 
-##### Section 1 : Publicité<a id=482></a>
+##### Section 1 : Publicité<a id=481></a>
 
 ###### Article D312-1
 
@@ -38407,7 +38404,7 @@ _Cite_:
   - Code de la consommation - art. L312-11 (V)
 
 
-##### Section 2 : Information précontractuelle de l'emprunteur<a id=483></a>
+##### Section 2 : Information précontractuelle de l'emprunteur<a id=482></a>
 
 ###### Article R312-2
 
@@ -38602,7 +38599,7 @@ _Cite_:
   - Code de la consommation - art. R314-18 (V)
 
 
-##### Section 3 : Explications à fournir à l'emprunteur et évaluation de sa solvabilité<a id=484></a>
+##### Section 3 : Explications à fournir à l'emprunteur et évaluation de sa solvabilité<a id=483></a>
 
 ###### Article D312-7
 
@@ -38659,7 +38656,7 @@ _Cite_:
   - Code de la consommation - art. L312-17 (V)
 
 
-##### Section 4 : Formation du contrat de crédit<a id=485></a>
+##### Section 4 : Formation du contrat de crédit<a id=484></a>
 
 ###### Article R312-9
 
@@ -38691,7 +38688,7 @@ _Cité par_:
   - Code de la consommation - art. R351-3 (V)
 
 
-##### Section 5 : Informations mentionnées dans le contrat<a id=486></a>
+##### Section 5 : Informations mentionnées dans le contrat<a id=485></a>
 
 ###### Article R312-10
 
@@ -38773,7 +38770,7 @@ sans frais, à tout moment durant toute la durée du contrat ;
 7° Une rubrique sur les informations relatives au traitement des litiges, qui mentionne notamment, dans l'ordre choisi par le
 prêteur : 
 
-a) La procédure de la médiation mentionnée à l'article L. 315-1 du code monétaire et financier et ses modalités d'accès ; 
+a) La procédure de la médiation mentionnée à l'article L. 316-1 du code monétaire et financier et ses modalités d'accès ; 
 
 b) Les dispositions de l'article R. 312-35 ; 
 
@@ -38786,24 +38783,20 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2016-1844 du 23 décembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de la consommation - art. L312-24 (V)
-  - Code de la consommation - art. L312-25 (V)
-  - Code de la consommation - art. L312-26 (V)
-  - Code de la consommation - art. L312-28 (V)
-  - Code de la consommation - art. L312-34 (V)
-  - Code de la consommation - art. R312-35 (V)
-  - Code monétaire et financier - art. L315-1 (T)
-  - Code monétaire et financier - art. L612-1 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R311-5, I, sauf 2ème alinéa du e) du 2° (Ab)
+  - Code de la consommation - art. L312-24
+  - Code de la consommation - art. L312-25
+  - Code de la consommation - art. L312-26
+  - Code de la consommation - art. L312-28
+  - Code de la consommation - art. L312-34
+  - Code de la consommation - art. R312-35
+  - Code monétaire et financier - art. L316-1
+  - Code monétaire et financier - art. L612-1
 
 _Cité par_:
 
@@ -38906,9 +38899,9 @@ _Anciens textes_:
   - Code de la consommation - art. R311-5-1 (Ab)
 
 
-##### Section 6 : Exécution du contrat de crédit<a id=487></a>
+##### Section 6 : Exécution du contrat de crédit<a id=486></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=488></a>
+##### Sous-section 1 : Remboursement anticipé<a id=487></a>
 
 ###### Article D312-15
 
@@ -38937,7 +38930,7 @@ _Cite_:
   - Code de la consommation - art. L312-34 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=489></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=488></a>
 
 ###### Article D312-16
 
@@ -39048,7 +39041,7 @@ _Anciens textes_:
   - Code de la consommation - art. D311-8, alinéas 5, 6 et 7 (Ab)
 
 
-##### Section 7 : Crédit affecté<a id=490></a>
+##### Section 7 : Crédit affecté<a id=489></a>
 
 ###### Article R312-20
 
@@ -39086,7 +39079,7 @@ _Cité par_:
   - Code de la consommation - art. R351-3 (V)
 
 
-##### Section 8 : Crédit renouvelable<a id=491></a>
+##### Section 8 : Crédit renouvelable<a id=490></a>
 
 ###### Article D312-21
 
@@ -39471,7 +39464,7 @@ _Cite_:
   - Code de la consommation - art. L312-80 (V)
 
 
-##### Section 9 : Opérations de découvert en compte<a id=492></a>
+##### Section 9 : Opérations de découvert en compte<a id=491></a>
 
 ###### Article R312-32
 
@@ -39615,7 +39608,7 @@ _Anciens textes_:
   - Code de la consommation - art. R311-13 (Ab)
 
 
-##### Section 10 : Procédure<a id=493></a>
+##### Section 10 : Procédure<a id=492></a>
 
 ###### Article R312-35
 
@@ -39662,13 +39655,13 @@ _Anciens textes_:
   - Code de la consommation - art. L311-52 (Ab)
 
 
-#### Chapitre III : Crédit immobilier<a id=494></a>
+#### Chapitre III : Crédit immobilier<a id=493></a>
 
-##### Section 1 : Publicité et informations générales<a id=495></a>
+##### Section 1 : Publicité et informations générales<a id=494></a>
 
-##### Sous-section unique :  Publicité et informations générales<a id=496></a>
+##### Sous-section unique :  Publicité et informations générales<a id=495></a>
 
-##### Paragraphe 1 : Publicité<a id=497></a>
+##### Paragraphe 1 : Publicité<a id=496></a>
 
 ###### Article R313-1
 
@@ -39767,7 +39760,7 @@ _Cité par_:
   - Code monétaire et financier - art. R313-1 (V)
 
 
-##### Paragraphe 2 : Informations générales<a id=498></a>
+##### Paragraphe 2 : Informations générales<a id=497></a>
 
 ###### Article R313-3
 
@@ -39835,9 +39828,9 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-0-1 (MMN)
 
 
-##### Section 2 : Information précontractuelle de l'emprunteur<a id=499></a>
+##### Section 2 : Information précontractuelle de l'emprunteur<a id=498></a>
 
-##### Sous-section 1 : Fiche d'informations standardisées européenne<a id=500></a>
+##### Sous-section 1 : Fiche d'informations standardisées européenne<a id=499></a>
 
 ###### Article R313-4
 
@@ -40016,7 +40009,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-0-5 (MMN)
 
 
-##### Sous-section 2 : Information relative à l'assurance emprunteur<a id=501></a>
+##### Sous-section 2 : Information relative à l'assurance emprunteur<a id=500></a>
 
 ###### Article R313-8
 
@@ -40113,9 +40106,9 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-1, III (Ab)
 
 
-##### Section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=502></a>
+##### Section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=501></a>
 
-##### Sous-section 1 : Service de conseil<a id=503></a>
+##### Sous-section 1 : Service de conseil<a id=502></a>
 
 ###### Article R313-11
 
@@ -40191,7 +40184,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-3 (MMN)
 
 
-##### Sous-section 2 : Evaluation de la solvabilité<a id=504></a>
+##### Sous-section 2 : Evaluation de la solvabilité<a id=503></a>
 
 ###### Article R313-13
 
@@ -40299,7 +40292,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-7 (MMN)
 
 
-##### Sous-section 3 : Evaluation du bien immobilier<a id=505></a>
+##### Sous-section 3 : Evaluation du bien immobilier<a id=504></a>
 
 ###### Article D313-20
 
@@ -40416,7 +40409,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-10 (MMN)
 
 
-##### Section 4 : Formation du contrat de crédit<a id=506></a>
+##### Section 4 : Formation du contrat de crédit<a id=505></a>
 
 ###### Article R313-21
 
@@ -40589,9 +40582,9 @@ _Anciens textes_:
   - Code de la consommation - art. R312-1-3 (Ab)
 
 
-##### Section 5 : Exécution du contrat de crédit<a id=507></a>
+##### Section 5 : Exécution du contrat de crédit<a id=506></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=508></a>
+##### Sous-section 1 : Remboursement anticipé<a id=507></a>
 
 ###### Article R313-25
 
@@ -40622,7 +40615,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-2 (MMN)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=509></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=508></a>
 
 ###### Article R313-26
 
@@ -40694,7 +40687,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-3, alinéa 3 (MMN)
 
 
-##### Section 6 : Location-vente et location assortie d'une promesse de vente<a id=510></a>
+##### Section 6 : Location-vente et location assortie d'une promesse de vente<a id=509></a>
 
 ###### Article D313-29
 
@@ -40721,7 +40714,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-4 (Ab)
 
 
-##### Section 7 : Prêts libellés dans une devise autre que l'euro<a id=511></a>
+##### Section 7 : Prêts libellés dans une devise autre que l'euro<a id=510></a>
 
 ###### Article R313-30
 
@@ -40808,7 +40801,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-7 (MMN)
 
 
-##### Section 8 : Procédure<a id=512></a>
+##### Section 8 : Procédure<a id=511></a>
 
 ###### Article R313-33
 
@@ -40829,11 +40822,11 @@ _Anciens textes_:
   - Code de la consommation - art. L312-36 (Ab)
 
 
-#### Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=513></a>
+#### Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=512></a>
 
-##### Section 1 : Taux d'intérêt<a id=514></a>
+##### Section 1 : Taux d'intérêt<a id=513></a>
 
-##### Sous-section 1 : Taux effectif global<a id=515></a>
+##### Sous-section 1 : Taux effectif global<a id=514></a>
 
 ###### Article R314-1
 
@@ -41287,7 +41280,7 @@ _Anciens textes_:
   - Code de la consommation - art. R313-5-4 (Ab)
 
 
-##### Sous-section 2 : Taux d'usure<a id=516></a>
+##### Sous-section 2 : Taux d'usure<a id=515></a>
 
 ###### Article D314-15
 
@@ -41380,7 +41373,7 @@ _Cite_:
   - Code monétaire et financier - art. R312-1 (V)
 
 
-##### Section 2 : Regroupement de crédits<a id=517></a>
+##### Section 2 : Regroupement de crédits<a id=516></a>
 
 ###### Article R314-18
 
@@ -41585,7 +41578,7 @@ _Anciens textes_:
   - Code de la consommation - art. R313-14 (Ab)
 
 
-##### Section 3 : Formation du prêteur et de l'intermédiaire<a id=518></a>
+##### Section 3 : Formation du prêteur et de l'intermédiaire<a id=517></a>
 
 ###### Article D314-23
 
@@ -41948,7 +41941,7 @@ _Anciens textes_:
   - Code de la consommation - art. D313-10-6, III (MMN)
 
 
-#### Chapitre V : Prêt viager hypothécaire<a id=519></a>
+#### Chapitre V : Prêt viager hypothécaire<a id=518></a>
 
 ###### Article R315-1
 
@@ -42020,13 +42013,13 @@ _Cite_:
   - Code de la consommation - art. L315-17 (V)
 
 
-### Titre IV : SANCTIONS<a id=520></a>
+### Titre IV : SANCTIONS<a id=519></a>
 
-#### Chapitre Ier : Opérations de crédit<a id=521></a>
+#### Chapitre Ier : Opérations de crédit<a id=520></a>
 
-##### Section 1 : Crédit à la consommation<a id=522></a>
+##### Section 1 : Crédit à la consommation<a id=521></a>
 
-##### Sous-section 1 : Publicité<a id=523></a>
+##### Sous-section 1 : Publicité<a id=522></a>
 
 ###### Article R341-1
 
@@ -42058,7 +42051,7 @@ _Cité par_:
   - Code de la consommation - art. R354-1 (V)
 
 
-##### Sous-section 2 : Information précontractuelle de l'emprunteur<a id=524></a>
+##### Sous-section 2 : Information précontractuelle de l'emprunteur<a id=523></a>
 
 ###### Article R341-2
 
@@ -42085,7 +42078,7 @@ _Cite_:
   - Code de la consommation - art. L312-13 (V)
 
 
-##### Sous-section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=525></a>
+##### Sous-section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=524></a>
 
 ###### Article R341-3
 
@@ -42111,7 +42104,7 @@ _Cite_:
   - Code de la consommation - art. L312-15 (V)
 
 
-##### Sous-section 4 : Formation du contrat de crédit<a id=526></a>
+##### Sous-section 4 : Formation du contrat de crédit<a id=525></a>
 
 ###### Article R341-4
 
@@ -42139,7 +42132,7 @@ _Cite_:
   - Code de la consommation - art. L312-21 (V)
 
 
-##### Sous-section 5 : Informations mentionnées dans le contrat<a id=527></a>
+##### Sous-section 5 : Informations mentionnées dans le contrat<a id=526></a>
 
 ###### Article R341-5
 
@@ -42165,7 +42158,7 @@ _Cite_:
   - Code de la consommation - art. L312-28 (V)
 
 
-##### Sous-section 6 : Exécution du contrat<a id=528></a>
+##### Sous-section 6 : Exécution du contrat<a id=527></a>
 
 ###### Article R341-6
 
@@ -42191,7 +42184,7 @@ _Cite_:
   - Code de la consommation - art. L312-32 (V)
 
 
-##### Sous-section 7 : Crédit gratuit<a id=529></a>
+##### Sous-section 7 : Crédit gratuit<a id=528></a>
 
 ###### Article R341-7
 
@@ -42267,7 +42260,7 @@ _Cite_:
   - Code de la consommation - art. L312-43 (V)
 
 
-##### Sous-section 8 : Crédit affecté<a id=530></a>
+##### Sous-section 8 : Crédit affecté<a id=529></a>
 
 ###### Article R341-10
 
@@ -42319,7 +42312,7 @@ _Cite_:
   - Code de la consommation - art. R312-20 (V)
 
 
-##### Sous-section 9 : Crédit renouvelable<a id=531></a>
+##### Sous-section 9 : Crédit renouvelable<a id=530></a>
 
 ###### Article R341-12
 
@@ -42509,9 +42502,9 @@ _Anciens textes_:
   - Code de la consommation - art. L311-49, alinéa 1 – reconduction du contrat (Ab)
 
 
-##### Section 2 : Crédit immobilier<a id=532></a>
+##### Section 2 : Crédit immobilier<a id=531></a>
 
-##### Sous-section 1 : Information précontractuelle de l'emprunteur<a id=533></a>
+##### Sous-section 1 : Information précontractuelle de l'emprunteur<a id=532></a>
 
 ###### Article R341-20
 
@@ -42543,7 +42536,7 @@ _Cité par_:
   - Code de la consommation - art. R341-27 (V)
 
 
-##### Sous-section 2 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=534></a>
+##### Sous-section 2 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=533></a>
 
 ###### Article R341-21
 
@@ -42595,7 +42588,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-10 (MMN)
 
 
-##### Sous-section 3 : Exécution du contrat de crédit<a id=535></a>
+##### Sous-section 3 : Exécution du contrat de crédit<a id=534></a>
 
 ###### Article R341-23
 
@@ -42622,7 +42615,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-11 (MMN)
 
 
-##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=536></a>
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=535></a>
 
 ###### Article R341-24
 
@@ -42745,13 +42738,13 @@ _Cité par_:
   - Code de la consommation - art. R354-5 (V)
 
 
-## Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES<a id=537></a>
+## Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES<a id=536></a>
 
-### Titre Ier : CONFORMITÉ<a id=538></a>
+### Titre Ier : CONFORMITÉ<a id=537></a>
 
-#### Chapitre II : Mesures d'application<a id=539></a>
+#### Chapitre II : Mesures d'application<a id=538></a>
 
-##### Section 1 : Mesures générales<a id=540></a>
+##### Section 1 : Mesures générales<a id=539></a>
 
 ###### Article R412-1
 
@@ -42782,9 +42775,9 @@ _Cite_:
   - Code de la santé publique - art. L1313-1 (V)
 
 
-##### Section 2 : Modes de présentation et étiquetage<a id=541></a>
+##### Section 2 : Modes de présentation et étiquetage<a id=540></a>
 
-##### Sous-section 1 : Produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou de spécialité traditionnelle garantie<a id=542></a>
+##### Sous-section 1 : Produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou de spécialité traditionnelle garantie<a id=541></a>
 
 ###### Article R412-2
 
@@ -42810,7 +42803,7 @@ _Anciens textes_:
   - Code de la consommation - art. R112-1 (Ab)
 
 
-##### Sous-section 2 : Identification du lot<a id=543></a>
+##### Sous-section 2 : Identification du lot<a id=542></a>
 
 ###### Article R412-3
 
@@ -42927,7 +42920,7 @@ _Anciens textes_:
   - Code de la consommation - art. R112-5 (Ab)
 
 
-##### Sous-section 3 : Dispositions particulières<a id=544></a>
+##### Sous-section 3 : Dispositions particulières<a id=543></a>
 
 ###### Article R412-7
 
@@ -43018,9 +43011,9 @@ _Anciens textes_:
   - Code de la consommation - art. R112-8, alinéa 2 (Ab)
 
 
-##### Section 3 : Dispositions relatives aux denrées non préemballées<a id=545></a>
+##### Section 3 : Dispositions relatives aux denrées non préemballées<a id=544></a>
 
-##### Sous-section 1 : Dénomination de vente<a id=546></a>
+##### Sous-section 1 : Dénomination de vente<a id=545></a>
 
 ###### Article R412-11
 
@@ -43045,7 +43038,7 @@ _Anciens textes_:
   - Code de la consommation - art. R112-10 (Ab)
 
 
-##### Sous-section 2 : Information relative à la présence de substances ou produits provoquant des allergies ou intolérances<a id=547></a>
+##### Sous-section 2 : Information relative à la présence de substances ou produits provoquant des allergies ou intolérances<a id=546></a>
 
 ###### Article R412-12
 
@@ -43197,9 +43190,9 @@ _Cite_:
   - Code de la consommation - art. R412-12 (V)
 
 
-##### Section 4 : Règlements de l'Union européenne constituant des mesures d'exécution de l'article L. 412-1<a id=548></a>
+##### Section 4 : Règlements de l'Union européenne constituant des mesures d'exécution de l'article L. 412-1<a id=547></a>
 
-##### Sous-section 1 : Dispositions générales<a id=549></a>
+##### Sous-section 1 : Dispositions générales<a id=548></a>
 
 ###### Article R412-17
 
@@ -43229,7 +43222,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-1, I, alinéa 2 et II (Ab)
 
 
-##### Sous-section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux<a id=550></a>
+##### Sous-section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux<a id=549></a>
 
 ###### Article R412-18
 
@@ -43275,7 +43268,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-2 (Ab)
 
 
-##### Sous-section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=551></a>
+##### Sous-section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=550></a>
 
 ###### Article R412-19
 
@@ -43303,7 +43296,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-3 (Ab)
 
 
-##### Sous-section 4 : Organismes génétiquement modifiés<a id=552></a>
+##### Sous-section 4 : Organismes génétiquement modifiés<a id=551></a>
 
 ###### Article R412-20
 
@@ -43339,7 +43332,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-4 (Ab)
 
 
-##### Sous-section 5 : Boissons alcoolisées<a id=553></a>
+##### Sous-section 5 : Boissons alcoolisées<a id=552></a>
 
 ###### Article R412-21
 
@@ -43398,7 +43391,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-5 (Ab)
 
 
-##### Sous-section 6 : Additifs, enzymes, arômes destinés à l'alimentation humaine<a id=554></a>
+##### Sous-section 6 : Additifs, enzymes, arômes destinés à l'alimentation humaine<a id=553></a>
 
 ###### Article R412-22
 
@@ -43439,7 +43432,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-6 (Ab)
 
 
-##### Sous-section 7 : Adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires<a id=555></a>
+##### Sous-section 7 : Adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires<a id=554></a>
 
 ###### Article R412-23
 
@@ -43468,7 +43461,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-7 (Ab)
 
 
-##### Sous-section 8 : Contaminants<a id=556></a>
+##### Sous-section 8 : Contaminants<a id=555></a>
 
 ###### Article R412-24
 
@@ -43497,7 +43490,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-8 (Ab)
 
 
-##### Sous-section 9 : Fruits et légumes<a id=557></a>
+##### Sous-section 9 : Fruits et légumes<a id=556></a>
 
 ###### Article R412-25
 
@@ -43535,7 +43528,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-9 (Ab)
 
 
-##### Sous-section 10 : Huile d'olive et olives de table<a id=558></a>
+##### Sous-section 10 : Huile d'olive et olives de table<a id=557></a>
 
 ###### Article R412-26
 
@@ -43572,7 +43565,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-10 (Ab)
 
 
-##### Sous-section 11 : Œufs et viande de volaille<a id=559></a>
+##### Sous-section 11 : Œufs et viande de volaille<a id=558></a>
 
 ###### Article R412-27
 
@@ -43620,7 +43613,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-11 (Ab)
 
 
-##### Sous-section 12 : Produits laitiers, colostrum et matières grasses laitières ou non<a id=560></a>
+##### Sous-section 12 : Produits laitiers, colostrum et matières grasses laitières ou non<a id=559></a>
 
 ###### Article R412-28
 
@@ -43663,7 +43656,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-12 (Ab)
 
 
-##### Sous-section 13 : Produits de la pêche<a id=561></a>
+##### Sous-section 13 : Produits de la pêche<a id=560></a>
 
 ###### Article R412-29
 
@@ -43711,7 +43704,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-13 (Ab)
 
 
-##### Sous-section 14 : Viandes bovine, ovine et porcine<a id=562></a>
+##### Sous-section 14 : Viandes bovine, ovine et porcine<a id=561></a>
 
 ###### Article R412-30
 
@@ -43761,7 +43754,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-14 (Ab)
 
 
-##### Sous-section 15 : Viande hachée et produits à base de viande<a id=563></a>
+##### Sous-section 15 : Viande hachée et produits à base de viande<a id=562></a>
 
 ###### Article R412-31
 
@@ -43790,7 +43783,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-14-1 (Ab)
 
 
-##### Sous-section 16 : Collagènes et gélatine<a id=564></a>
+##### Sous-section 16 : Collagènes et gélatine<a id=563></a>
 
 ###### Article R412-32
 
@@ -43822,7 +43815,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-14-2 (Ab)
 
 
-##### Sous-section 17 : Modes de valorisation<a id=565></a>
+##### Sous-section 17 : Modes de valorisation<a id=564></a>
 
 ###### Article R412-33
 
@@ -43879,7 +43872,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-15 (Ab)
 
 
-##### Sous-section 18 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale<a id=566></a>
+##### Sous-section 18 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale<a id=565></a>
 
 ###### Article R412-34
 
@@ -43907,7 +43900,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-16 (Ab)
 
 
-##### Sous-section 19 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=567></a>
+##### Sous-section 19 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=566></a>
 
 ###### Article R412-35
 
@@ -43930,7 +43923,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-17 (Ab)
 
 
-##### Sous-section 20 : Contrôles officiels renforcés à l'importation<a id=568></a>
+##### Sous-section 20 : Contrôles officiels renforcés à l'importation<a id=567></a>
 
 ###### Article R412-36
 
@@ -43966,7 +43959,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-34 (Ab)
 
 
-##### Sous-section 21 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 6° de l'article L. 412-1<a id=569></a>
+##### Sous-section 21 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 6° de l'article L. 412-1<a id=568></a>
 
 ###### Article R412-37
 
@@ -44003,7 +43996,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-22 (Ab)
 
 
-##### Sous-section 22 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=570></a>
+##### Sous-section 22 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=569></a>
 
 ###### Article R412-38
 
@@ -44049,7 +44042,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-18 (Ab)
 
 
-##### Sous-section 23 : Alimentation des animaux<a id=571></a>
+##### Sous-section 23 : Alimentation des animaux<a id=570></a>
 
 ###### Article R412-39
 
@@ -44085,7 +44078,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-21 (Ab)
 
 
-##### Sous-section 24 : Engrais<a id=572></a>
+##### Sous-section 24 : Engrais<a id=571></a>
 
 ###### Article R412-40
 
@@ -44112,7 +44105,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-19 (Ab)
 
 
-##### Sous-section 25 : Détergents<a id=573></a>
+##### Sous-section 25 : Détergents<a id=572></a>
 
 ###### Article R412-41
 
@@ -44139,7 +44132,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-20 (Ab)
 
 
-##### Sous-section 26 : Fibres et produits textiles<a id=574></a>
+##### Sous-section 26 : Fibres et produits textiles<a id=573></a>
 
 ###### Article R412-42
 
@@ -44167,7 +44160,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-23 (Ab)
 
 
-##### Sous-section 27 : Produits de construction<a id=575></a>
+##### Sous-section 27 : Produits de construction<a id=574></a>
 
 ###### Article R412-43
 
@@ -44195,7 +44188,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-24 (Ab)
 
 
-##### Section 5 : Dispositions spécifiques à certains produits<a id=576></a>
+##### Section 5 : Dispositions spécifiques à certains produits<a id=575></a>
 
 ###### Article R412-44
 
@@ -44308,7 +44301,7 @@ _Anciens textes_:
   - Code de la consommation - art. L112-7 (Ab)
 
 
-##### Section 6 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs<a id=577></a>
+##### Section 6 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs<a id=576></a>
 
 ###### Article R412-49
 
@@ -44594,7 +44587,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-33 (Ab)
 
 
-#### Chapitre IV : Dispositions relatives à certains établissements<a id=578></a>
+#### Chapitre IV : Dispositions relatives à certains établissements<a id=577></a>
 
 ###### Article R414-1
 
@@ -44743,9 +44736,9 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-### Titre II : SÉCURITÉ<a id=579></a>
+### Titre II : SÉCURITÉ<a id=578></a>
 
-#### Chapitre II : Mesures d'application<a id=580></a>
+#### Chapitre II : Mesures d'application<a id=579></a>
 
 ###### Article R422-1
 
@@ -44785,9 +44778,9 @@ _Cite_:
   - Code de la santé publique - art. L5311-1 (V)
 
 
-### Titre III : VALORISATION DES PRODUITS ET SERVICES<a id=581></a>
+### Titre III : VALORISATION DES PRODUITS ET SERVICES<a id=580></a>
 
-#### Chapitre Ier : Appellations d'origine<a id=582></a>
+#### Chapitre Ier : Appellations d'origine<a id=581></a>
 
 ###### Article R431-1
 
@@ -44921,7 +44914,7 @@ _Cite_:
   - Code de la consommation - art. L431-6 (V)
 
 
-#### Chapitre III : Certification de conformité<a id=583></a>
+#### Chapitre III : Certification de conformité<a id=582></a>
 
 ###### Article R433-1
 
@@ -44977,9 +44970,9 @@ _Cité par_:
   - Code de la consommation - art. R453-1 (V)
 
 
-### Titre V : SANCTIONS<a id=584></a>
+### Titre V : SANCTIONS<a id=583></a>
 
-#### Chapitre Ier : Conformité<a id=585></a>
+#### Chapitre Ier : Conformité<a id=584></a>
 
 ###### Article R451-1
 
@@ -45075,7 +45068,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-#### Chapitre II : Sécurité<a id=586></a>
+#### Chapitre II : Sécurité<a id=585></a>
 
 ###### Article R452-1
 
@@ -45204,7 +45197,7 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-#### Chapitre III : Valorisation des produits et services<a id=587></a>
+#### Chapitre III : Valorisation des produits et services<a id=586></a>
 
 ###### Article R453-1
 
@@ -45234,15 +45227,15 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-## Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES<a id=588></a>
+## Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES<a id=587></a>
 
-### Titre Ier : RECHERCHE ET CONSTATATION<a id=589></a>
+### Titre Ier : RECHERCHE ET CONSTATATION<a id=588></a>
 
-#### Chapitre II : Pouvoirs d'enquête<a id=590></a>
+#### Chapitre II : Pouvoirs d'enquête<a id=589></a>
 
-##### Section 1 : Pouvoirs d'enquête ordinaires<a id=591></a>
+##### Section 1 : Pouvoirs d'enquête ordinaires<a id=590></a>
 
-##### Sous-section 1 : Dispositions communes<a id=592></a>
+##### Sous-section 1 : Dispositions communes<a id=591></a>
 
 ###### Article D512-6
 
@@ -45398,7 +45391,7 @@ _Anciens textes_:
   - Code de la consommation - art. R215-3, alinéa 1 (Ab)
 
 
-##### Sous-section 2 : Recueil de renseignements et de documents<a id=593></a>
+##### Sous-section 2 : Recueil de renseignements et de documents<a id=592></a>
 
 ###### Article R512-7
 
@@ -45421,7 +45414,7 @@ _Anciens textes_:
   - Code de la consommation - art. R215-2, alinéa 2 (Ab)
 
 
-##### Sous-section 3 : Contrôle de la vente de biens et de la fourniture de services sur internet<a id=594></a>
+##### Sous-section 3 : Contrôle de la vente de biens et de la fourniture de services sur internet<a id=593></a>
 
 ###### Article R512-8
 
@@ -45452,9 +45445,9 @@ _Anciens textes_:
   - Code de la consommation - art. R215-3-1 et renvoi à l'art. R. 450-1, II du code de commerce (Ab)
 
 
-##### Sous-section 4 : Prélèvements<a id=595></a>
+##### Sous-section 4 : Prélèvements<a id=594></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=596></a>
+##### Paragraphe 1 : Dispositions communes<a id=595></a>
 
 ###### Article R512-9
 
@@ -45730,7 +45723,7 @@ _Anciens textes_:
   - Code de la consommation - art. R215-11 (Ab)
 
 
-##### Paragraphe 2 : Prélèvement en trois échantillons<a id=597></a>
+##### Paragraphe 2 : Prélèvement en trois échantillons<a id=596></a>
 
 ###### Article R512-17
 
@@ -45763,7 +45756,7 @@ _Cité par_:
   - Code de la consommation - art. R541-2 (V)
 
 
-##### Paragraphe 3 : Prélèvement en deux échantillons<a id=598></a>
+##### Paragraphe 3 : Prélèvement en deux échantillons<a id=597></a>
 
 ###### Article R512-18
 
@@ -45790,7 +45783,7 @@ _Cité par_:
   - Code de la consommation - art. R512-17 (V)
 
 
-##### Paragraphe 4 : Prélèvement en un échantillon<a id=599></a>
+##### Paragraphe 4 : Prélèvement en un échantillon<a id=598></a>
 
 ###### Article R512-19
 
@@ -45968,7 +45961,7 @@ _Anciens textes_:
   - Code de la consommation - art. R215-14, alinéas 1 et 2 (Ab)
 
 
-##### Paragraphe 5 : Prélèvement administratif<a id=600></a>
+##### Paragraphe 5 : Prélèvement administratif<a id=599></a>
 
 ###### Article R512-24
 
@@ -46002,7 +45995,7 @@ _Anciens textes_:
   - Code de la consommation - art. R218-1 (Ab)
 
 
-##### Sous-section 5 : Contrôle des produits avant mise en libre pratique<a id=601></a>
+##### Sous-section 5 : Contrôle des produits avant mise en libre pratique<a id=600></a>
 
 ###### Article R512-25
 
@@ -46206,7 +46199,7 @@ _Cite_:
   - Code de la consommation - art. R512-31 (V)
 
 
-##### Sous-section 6 : Essais et analyses<a id=602></a>
+##### Sous-section 6 : Essais et analyses<a id=601></a>
 
 ###### Article R512-30
 
@@ -46483,7 +46476,7 @@ _Anciens textes_:
   - Code de la consommation - art. R215-22, alinéa 1 (Ab)
 
 
-##### Section 2 : Opérations de visites et saisies<a id=603></a>
+##### Section 2 : Opérations de visites et saisies<a id=602></a>
 
 ###### Article R512-39
 
@@ -46579,11 +46572,11 @@ _Anciens textes_:
   - Code de la consommation - art. R215-24, alinéa 4, 3ème phrase (Ab)
 
 
-### Titre II : MESURES CONSÉCUTIVES AUX CONTRÔLES<a id=604></a>
+### Titre II : MESURES CONSÉCUTIVES AUX CONTRÔLES<a id=603></a>
 
-#### Chapitre Ier : Mesures de police administrative<a id=605></a>
+#### Chapitre Ier : Mesures de police administrative<a id=604></a>
 
-##### Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit<a id=606></a>
+##### Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit<a id=605></a>
 
 ###### Article R521-1
 
@@ -46656,7 +46649,7 @@ _Anciens textes_:
   - Code de la consommation - art. R132-2-2 (Ab)
 
 
-##### Section 2 : Conformité et sécurité des produits et services<a id=607></a>
+##### Section 2 : Conformité et sécurité des produits et services<a id=606></a>
 
 ###### Article D521-4
 
@@ -46706,9 +46699,9 @@ _Anciens textes_:
   - Code de la consommation - art. R132-2-2 (Ab)
 
 
-#### Chapitre II : Procédure de sanctions administratives<a id=608></a>
+#### Chapitre II : Procédure de sanctions administratives<a id=607></a>
 
-##### Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit<a id=609></a>
+##### Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit<a id=608></a>
 
 ###### Article R522-1
 
@@ -46866,7 +46859,7 @@ _Cite_:
   - Code de la consommation - art. L522-1 (V)
 
 
-##### Section 2 : Conformité et sécurité des produits et services<a id=610></a>
+##### Section 2 : Conformité et sécurité des produits et services<a id=609></a>
 
 ###### Article R522-7
 
@@ -46949,7 +46942,7 @@ _Anciens textes_:
   - Code de la consommation - art. R219-2, alinéa 6 (Ab)
 
 
-#### Chapitre III : Transaction<a id=611></a>
+#### Chapitre III : Transaction<a id=610></a>
 
 ###### Article R523-1
 
@@ -47076,7 +47069,7 @@ _Cite_:
   - Code de la consommation - art. R523-3 (V)
 
 
-#### Chapitre IV : Saisine de la juridiction civile ou administrative<a id=612></a>
+#### Chapitre IV : Saisine de la juridiction civile ou administrative<a id=611></a>
 
 ###### Article R524-1
 
@@ -47113,7 +47106,7 @@ _Cité par_:
   - Code de la consommation - art. R542-2 (V)
 
 
-#### Chapitre V : Procédures devant les juridictions<a id=613></a>
+#### Chapitre V : Procédures devant les juridictions<a id=612></a>
 
 ###### Article R525-1
 
@@ -47203,11 +47196,11 @@ _Anciens textes_:
   - Code de la consommation - art. R141-5, et article R. 215-26 (Ab)
 
 
-### Titre III : SANCTIONS<a id=614></a>
+### Titre III : SANCTIONS<a id=613></a>
 
-#### Chapitre Ier : Recherche et constatation<a id=615></a>
+#### Chapitre Ier : Recherche et constatation<a id=614></a>
 
-##### Section 1 : Sanctions pénales<a id=616></a>
+##### Section 1 : Sanctions pénales<a id=615></a>
 
 ###### Article R531-1
 
@@ -47273,7 +47266,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 2 : Sanctions administratives<a id=617></a>
+##### Section 2 : Sanctions administratives<a id=616></a>
 
 ###### Article R531-3
 
@@ -47302,7 +47295,7 @@ _Anciens textes_:
   - Code de la consommation - art. R219-2, sanction (Ab)
 
 
-#### Chapitre II : Mesures consécutives aux contrôles<a id=618></a>
+#### Chapitre II : Mesures consécutives aux contrôles<a id=617></a>
 
 ###### Article R532-1
 
@@ -47373,9 +47366,9 @@ _Cite_:
   - Code de la consommation - art. R532-1 (V)
 
 
-### Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=619></a>
+### Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=618></a>
 
-#### Chapitre unique : dispositions relatives aux départements et régions d'outre-mer et à certaines collectivités<a id=620></a>
+#### Chapitre unique : dispositions relatives aux départements et régions d'outre-mer et à certaines collectivités<a id=619></a>
 
 ###### Article R541-1
 
@@ -47407,11 +47400,11 @@ _Cite_:
   - Code de la consommation - art. R525-2 (V)
 
 
-## Livre VI : RÈGLEMENT DES LITIGES<a id=621></a>
+## Livre VI : RÈGLEMENT DES LITIGES<a id=620></a>
 
-### Titre Ier : MÉDIATION<a id=622></a>
+### Titre Ier : MÉDIATION<a id=621></a>
 
-#### Chapitre II : Processus de médiation des litiges de consommation<a id=623></a>
+#### Chapitre II : Processus de médiation des litiges de consommation<a id=622></a>
 
 ###### Article R612-1
 
@@ -47561,7 +47554,7 @@ _Cite_:
   - Code de la consommation - art. R612-2 (V)
 
 
-#### Chapitre III : Statut du médiateur de la consommation<a id=624></a>
+#### Chapitre III : Statut du médiateur de la consommation<a id=623></a>
 
 ###### Article D613-2
 
@@ -47616,7 +47609,7 @@ _Anciens textes_:
   - Code de la consommation - art. R153-1 (Ab)
 
 
-#### Chapitre IV : Obligations de communication du médiateur de la consommation<a id=625></a>
+#### Chapitre IV : Obligations de communication du médiateur de la consommation<a id=624></a>
 
 ###### Article R614-1
 
@@ -47781,7 +47774,7 @@ _Cite_:
   - Code de la consommation - art. R614-2 (V)
 
 
-#### Chapitre V : Commission d'évaluation et de contrôle de la médiation de la consommation<a id=626></a>
+#### Chapitre V : Commission d'évaluation et de contrôle de la médiation de la consommation<a id=625></a>
 
 ###### Article R615-1
 
@@ -48116,7 +48109,7 @@ _Anciens textes_:
   - Code de la consommation - art. R155-8 (Ab)
 
 
-#### Chapitre VI : Information et assistance du consommateur<a id=627></a>
+#### Chapitre VI : Information et assistance du consommateur<a id=626></a>
 
 ###### Article R616-1
 
@@ -48166,9 +48159,9 @@ _Anciens textes_:
   - Code de la consommation - art. R156-2 (Ab)
 
 
-### Titre II : ACTIONS EN JUSTICE DES ASSOCIATIONS DE DÉFENSE DES CONSOMMATEURS<a id=628></a>
+### Titre II : ACTIONS EN JUSTICE DES ASSOCIATIONS DE DÉFENSE DES CONSOMMATEURS<a id=627></a>
 
-#### Chapitre II : Action en représentation conjointe<a id=629></a>
+#### Chapitre II : Action en représentation conjointe<a id=628></a>
 
 ###### Article R622-1
 
@@ -48416,9 +48409,9 @@ _Anciens textes_:
   - Code de la consommation - art. R422-10 (Ab)
 
 
-#### Chapitre III : Action de groupe<a id=630></a>
+#### Chapitre III : Action de groupe<a id=629></a>
 
-##### Section 1 : Introduction de l'action et règles de procédure<a id=631></a>
+##### Section 1 : Introduction de l'action et règles de procédure<a id=630></a>
 
 ###### Article R623-1
 
@@ -48546,7 +48539,7 @@ _Anciens textes_:
   - Code de la consommation - art. R423-5 (Ab)
 
 
-##### Section 2 : Jugement sur la responsabilité<a id=632></a>
+##### Section 2 : Jugement sur la responsabilité<a id=631></a>
 
 ###### Article R623-6
 
@@ -48670,7 +48663,7 @@ _Cité par_:
   - Code de la consommation - art. R623-8 (V)
 
 
-##### Section 3 : Procédure d'action de groupe simplifiée<a id=633></a>
+##### Section 3 : Procédure d'action de groupe simplifiée<a id=632></a>
 
 ###### Article R623-11
 
@@ -48817,9 +48810,9 @@ _Cite_:
   - Code de la consommation - art. R623-20 (V)
 
 
-##### Section 4 : Mise en œuvre du jugement, réparation des préjudices et exécution forcée<a id=634></a>
+##### Section 4 : Mise en œuvre du jugement, réparation des préjudices et exécution forcée<a id=633></a>
 
-##### Paragraphe 1 : Mesures d'information des consommateurs<a id=635></a>
+##### Paragraphe 1 : Mesures d'information des consommateurs<a id=634></a>
 
 ###### Article R623-16
 
@@ -48863,7 +48856,7 @@ _Anciens textes_:
   - Code de la consommation - art. R423-13 (Ab)
 
 
-##### Paragraphe 2 : Adhésion au groupe<a id=636></a>
+##### Paragraphe 2 : Adhésion au groupe<a id=635></a>
 
 ###### Article R623-17
 
@@ -49016,7 +49009,7 @@ _Anciens textes_:
   - Code de la consommation - art. R423-17, alinéa 4 (Ab)
 
 
-##### Paragraphe 3 : Réparation des préjudices et règlement des différends<a id=637></a>
+##### Paragraphe 3 : Réparation des préjudices et règlement des différends<a id=636></a>
 
 ###### Article R623-23
 
@@ -49105,7 +49098,7 @@ _Anciens textes_:
   - Code de la consommation - art. R423-19 (Ab)
 
 
-##### Paragraphe 4 : Liquidation judiciaire et réparation forcée des préjudices<a id=638></a>
+##### Paragraphe 4 : Liquidation judiciaire et réparation forcée des préjudices<a id=637></a>
 
 ###### Article R623-26
 
@@ -49206,7 +49199,7 @@ _Anciens textes_:
   - Code de la consommation - art. R423-22 (Ab)
 
 
-##### Section 5 : Substitution<a id=639></a>
+##### Section 5 : Substitution<a id=638></a>
 
 ###### Article R623-30
 
@@ -49298,9 +49291,9 @@ _Anciens textes_:
   - Code de la consommation - art. R423-23, alinéa 4 et 5 (Ab)
 
 
-### Titre III : COMPÉTENCE DU JUGE<a id=640></a>
+### Titre III : COMPÉTENCE DU JUGE<a id=639></a>
 
-#### Chapitre Ier : Règles applicables aux litiges civils<a id=641></a>
+#### Chapitre Ier : Règles applicables aux litiges civils<a id=640></a>
 
 ###### Article R631-1
 
@@ -49398,7 +49391,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L111-8 (M)
 
 
-#### Chapitre II : Office du juge<a id=642></a>
+#### Chapitre II : Office du juge<a id=641></a>
 
 ###### Article R632-1
 
@@ -49422,11 +49415,11 @@ _Anciens textes_:
   - Code de la consommation - art. L141-4 (Ab)
 
 
-## Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=643></a>
+## Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=642></a>
 
-### Titre Ier : DISPOSITIONS GÉNÉRALES RELATIVES AU TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=644></a>
+### Titre Ier : DISPOSITIONS GÉNÉRALES RELATIVES AU TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=643></a>
 
-#### Chapitre Ier : Définition et champ d'application<a id=645></a>
+#### Chapitre Ier : Définition et champ d'application<a id=644></a>
 
 ###### Article R711-1
 
@@ -49484,9 +49477,9 @@ _Cité par_:
   - Code de la consommation - art. R771-1 (M)
 
 
-#### Chapitre II : Les commissions de surendettement des particuliers<a id=646></a>
+#### Chapitre II : Les commissions de surendettement des particuliers<a id=645></a>
 
-##### Section 1 : Organisation et fonctionnement<a id=647></a>
+##### Section 1 : Organisation et fonctionnement<a id=646></a>
 
 ###### Article R712-1
 
@@ -49826,7 +49819,7 @@ _Cite_:
   - Code monétaire et financier - art. L143-1 (M)
 
 
-##### Section 2 : Procédures devant les commissions<a id=648></a>
+##### Section 2 : Procédures devant les commissions<a id=647></a>
 
 ###### Article R712-13
 
@@ -50040,7 +50033,7 @@ _Cité par_:
   - Code de la consommation - art. R771-2 (V)
 
 
-#### Chapitre III : Compétence du juge du tribunal d'instance<a id=649></a>
+#### Chapitre III : Compétence du juge du tribunal d'instance<a id=648></a>
 
 ###### Article R713-1
 
@@ -50319,9 +50312,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-9-4 (Ab)
 
 
-### Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT<a id=650></a>
+### Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT<a id=649></a>
 
-#### Chapitre Ier : Saisine de la commission de surendettement des particuliers<a id=651></a>
+#### Chapitre Ier : Saisine de la commission de surendettement des particuliers<a id=650></a>
 
 ###### Article R721-1
 
@@ -50553,9 +50546,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-11-2, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre II : Recevabilité de la demande<a id=652></a>
+#### Chapitre II : Recevabilité de la demande<a id=651></a>
 
-##### Section 1 : Examen de la recevabilité de la demande<a id=653></a>
+##### Section 1 : Examen de la recevabilité de la demande<a id=652></a>
 
 ###### Article R722-1
 
@@ -50666,9 +50659,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-10, alinéa 3 (Ab)
 
 
-##### Section 2 : Effets de la décision de recevabilité<a id=654></a>
+##### Section 2 : Effets de la décision de recevabilité<a id=653></a>
 
-##### Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=655></a>
+##### Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=654></a>
 
 ###### Article R722-5
 
@@ -50779,7 +50772,7 @@ _Anciens textes_:
   - Code de la consommation - art. R331-11-3 (Ab)
 
 
-##### Sous-section 2 : Suspension des mesures d'expulsion<a id=656></a>
+##### Sous-section 2 : Suspension des mesures d'expulsion<a id=655></a>
 
 ###### Article R722-9
 
@@ -50834,7 +50827,7 @@ _Anciens textes_:
   - Code de la consommation - art. R331-12, alinéa 2 (Ab)
 
 
-##### Sous-section 3 : Emoluments supportés par le débiteur<a id=657></a>
+##### Sous-section 3 : Emoluments supportés par le débiteur<a id=656></a>
 
 ###### Article R722-11
 
@@ -50862,9 +50855,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-13 (Ab)
 
 
-#### Chapitre III : Etat du passif<a id=658></a>
+#### Chapitre III : Etat du passif<a id=657></a>
 
-##### Section 1 : Etat du passif dressé par la commission<a id=659></a>
+##### Section 1 : Etat du passif dressé par la commission<a id=658></a>
 
 ###### Article R723-1
 
@@ -51019,7 +51012,7 @@ _Anciens textes_:
   - Code de la consommation - art. R332-2, alinéa 3 (Ab)
 
 
-##### Section 2 : Vérification des créances<a id=660></a>
+##### Section 2 : Vérification des créances<a id=659></a>
 
 ###### Article R723-6
 
@@ -51099,7 +51092,7 @@ _Cité par_:
   - Code de la consommation - art. R723-5 (V)
 
 
-#### Chapitre IV : Orientation du dossier<a id=661></a>
+#### Chapitre IV : Orientation du dossier<a id=660></a>
 
 ###### Article R724-1
 
@@ -51340,9 +51333,9 @@ _Anciens textes_:
   - Code de la consommation - art. R333-3, alinéa 7 (Ab)
 
 
-### Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=662></a>
+### Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=661></a>
 
-#### Chapitre Ier : Détermination de la capacité de remboursement<a id=663></a>
+#### Chapitre Ier : Détermination de la capacité de remboursement<a id=662></a>
 
 ###### Article R731-1
 
@@ -51432,7 +51425,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-1, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre II : Plan conventionnel<a id=664></a>
+#### Chapitre II : Plan conventionnel<a id=663></a>
 
 ###### Article R732-1
 
@@ -51486,9 +51479,9 @@ _Anciens textes_:
   - Code de la consommation - art. R334-3 (Ab)
 
 
-#### Chapitre III : Mesures imposées ou recommandées<a id=665></a>
+#### Chapitre III : Mesures imposées ou recommandées<a id=664></a>
 
-##### Section 1 : Contenu et adoption des mesures imposées ou recommandées<a id=666></a>
+##### Section 1 : Contenu et adoption des mesures imposées ou recommandées<a id=665></a>
 
 ###### Article R733-1
 
@@ -51911,7 +51904,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-13 (Ab)
 
 
-##### Section 2 : Contestation des mesures imposées ou recommandées<a id=667></a>
+##### Section 2 : Contestation des mesures imposées ou recommandées<a id=666></a>
 
 ###### Article R733-14
 
@@ -52011,7 +52004,7 @@ _Cité par_:
   - Code de la consommation - art. R733-18 (VD)
 
 
-##### Section 3 : Dispositions communes aux mesures recommandées ou imposées<a id=668></a>
+##### Section 3 : Dispositions communes aux mesures recommandées ou imposées<a id=667></a>
 
 ###### Article R733-18
 
@@ -52058,11 +52051,11 @@ _Cité par_:
   - Code monétaire et financier - art. R131-21-1 (V)
 
 
-### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=669></a>
+### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=668></a>
 
-#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=670></a>
+#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=669></a>
 
-##### Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=671></a>
+##### Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=670></a>
 
 ###### Article R741-1
 
@@ -52320,7 +52313,7 @@ _Cité par_:
   - Code de la consommation - art. R742-9 (V)
 
 
-##### Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=672></a>
+##### Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=671></a>
 
 ###### Article R741-10
 
@@ -52447,7 +52440,7 @@ _Anciens textes_:
   - Code de la consommation - art. L332-5-1, alinéa 3 - tierce opposition (Ab)
 
 
-##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation<a id=673></a>
+##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation<a id=672></a>
 
 ###### Article R741-15
 
@@ -52552,9 +52545,9 @@ _Anciens textes_:
   - Code de la consommation - art. L332-5-2, alinéa 2 - tierce opposition (Ab)
 
 
-#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=674></a>
+#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=673></a>
 
-##### Section 1 : Ouverture de la procédure<a id=675></a>
+##### Section 1 : Ouverture de la procédure<a id=674></a>
 
 ###### Article R742-1
 
@@ -52848,7 +52841,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-35 (Ab)
 
 
-##### Section 2 : Déclaration et arrêté des créances<a id=676></a>
+##### Section 2 : Déclaration et arrêté des créances<a id=675></a>
 
 ###### Article R742-11
 
@@ -53058,9 +53051,9 @@ _Cité par_:
   - Code de la consommation - art. R742-15 (V)
 
 
-##### Section 3 : Liquidation des biens du débiteur<a id=677></a>
+##### Section 3 : Liquidation des biens du débiteur<a id=676></a>
 
-##### Sous-section 1 : Dispositions générales<a id=678></a>
+##### Sous-section 1 : Dispositions générales<a id=677></a>
 
 ###### Article R742-18
 
@@ -53273,7 +53266,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-47 (Ab)
 
 
-##### Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=679></a>
+##### Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=678></a>
 
 ###### Article R742-27
 
@@ -53774,7 +53767,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-60 (Ab)
 
 
-##### Sous-section 3 : Répartition du produit des actifs<a id=680></a>
+##### Sous-section 3 : Répartition du produit des actifs<a id=679></a>
 
 ###### Article R742-42
 
@@ -54075,7 +54068,7 @@ _Cité par_:
   - Code de la consommation - art. R742-19 (V)
 
 
-##### Section 4 : Clôture de la procédure<a id=681></a>
+##### Section 4 : Clôture de la procédure<a id=680></a>
 
 ###### Article R742-53
 
@@ -54153,7 +54146,7 @@ _Cité par_:
   - Code de la consommation - art. R743-1 (V)
 
 
-##### Section 5 : Plan<a id=682></a>
+##### Section 5 : Plan<a id=681></a>
 
 ###### Article R742-56
 
@@ -54202,7 +54195,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-75 (Ab)
 
 
-#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=683></a>
+#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=682></a>
 
 ###### Article R743-1
 
@@ -54269,9 +54262,9 @@ _Anciens textes_:
   - Code de la consommation - art. R334-77 (Ab)
 
 
-### Titre VI : SANCTIONS<a id=684></a>
+### Titre VI : SANCTIONS<a id=683></a>
 
-#### Chapitre Ier : Sanctions civiles<a id=685></a>
+#### Chapitre Ier : Sanctions civiles<a id=684></a>
 
 ###### Article R761-1
 
@@ -54306,11 +54299,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*247-18 (V)
 
 
-## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=686></a>
+## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=685></a>
 
-### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=687></a>
+### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=686></a>
 
-#### Chapitre Ier : Agrément des associations<a id=688></a>
+#### Chapitre Ier : Agrément des associations<a id=687></a>
 
 ###### Article R811-1
 
@@ -54524,7 +54517,7 @@ _Anciens textes_:
   - Code de la consommation - art. R411-7 (Ab)
 
 
-#### Chapitre II : Reconnaissance spécifique des associations<a id=689></a>
+#### Chapitre II : Reconnaissance spécifique des associations<a id=688></a>
 
 ###### Article R812-1
 
@@ -54632,11 +54625,11 @@ _Cite_:
   - Code de la consommation - art. R812-1 (V)
 
 
-### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=690></a>
+### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=689></a>
 
-#### Chapitre Ier : Conseil national de la consommation<a id=691></a>
+#### Chapitre Ier : Conseil national de la consommation<a id=690></a>
 
-##### Section 1 : Missions et attributions<a id=692></a>
+##### Section 1 : Missions et attributions<a id=691></a>
 
 ###### Article D821-1
 
@@ -54752,7 +54745,7 @@ _Anciens textes_:
   - Code de la consommation - art. D511-4 (Ab)
 
 
-##### Section 2 : Composition et organisation<a id=693></a>
+##### Section 2 : Composition et organisation<a id=692></a>
 
 ###### Article D821-5
 
@@ -54969,7 +54962,7 @@ _Cité par_:
   - Code de la consommation - art. D821-9 (V)
 
 
-##### Section 3 : Fonctionnement<a id=694></a>
+##### Section 3 : Fonctionnement<a id=693></a>
 
 ###### Article D821-12
 
@@ -55137,9 +55130,9 @@ _Anciens textes_:
   - Code de la consommation - art. D511-17 (Ab)
 
 
-#### Chapitre II : Institut national de la consommation<a id=695></a>
+#### Chapitre II : Institut national de la consommation<a id=694></a>
 
-##### Section 1 : Missions et fonctionnement<a id=696></a>
+##### Section 1 : Missions et fonctionnement<a id=695></a>
 
 ###### Article R822-1
 
@@ -55598,7 +55591,7 @@ _Cité par_:
   - Code de la consommation - art. R822-32 (V)
 
 
-##### Section 2 : Organes consultatifs<a id=697></a>
+##### Section 2 : Organes consultatifs<a id=696></a>
 
 ###### Article R822-13
 
@@ -55622,7 +55615,7 @@ _Anciens textes_:
   - Code de la consommation - art. R532-1 (Ab)
 
 
-##### Section 3 : Dispositions financières et comptables<a id=698></a>
+##### Section 3 : Dispositions financières et comptables<a id=697></a>
 
 ###### Article R822-14
 
@@ -55723,9 +55716,9 @@ _Anciens textes_:
   - Code de la consommation - art. R533-6 (Ab)
 
 
-##### Section 4 : Commissions placées auprès de l'Institut national de la consommation<a id=699></a>
+##### Section 4 : Commissions placées auprès de l'Institut national de la consommation<a id=698></a>
 
-##### Sous-section 1 : Commission des clauses abusives<a id=700></a>
+##### Sous-section 1 : Commission des clauses abusives<a id=699></a>
 
 ###### Article R822-18
 
@@ -55849,7 +55842,7 @@ _Anciens textes_:
   - Code de la consommation - art. R534-4 (Ab)
 
 
-##### Sous-section 2 : Commission de la sécurité des consommateurs<a id=701></a>
+##### Sous-section 2 : Commission de la sécurité des consommateurs<a id=700></a>
 
 ###### Article R822-22
 
@@ -56050,7 +56043,7 @@ _Anciens textes_:
   - Code de la consommation - art. R534-10 (Ab)
 
 
-##### Sous-section 3 : Dispositions communes aux commissions<a id=702></a>
+##### Sous-section 3 : Dispositions communes aux commissions<a id=701></a>
 
 ###### Article R822-28
 
@@ -56230,9 +56223,9 @@ _Cite_:
   - Code de la consommation - art. R822-12 (V)
 
 
-#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=703></a>
+#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=702></a>
 
-##### Section 1 : Organisation et fonctionnement<a id=704></a>
+##### Section 1 : Organisation et fonctionnement<a id=703></a>
 
 ###### Article R823-1
 
@@ -56708,7 +56701,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-##### Section 2 : Dispositions financières et comptables<a id=705></a>
+##### Section 2 : Dispositions financières et comptables<a id=704></a>
 
 ###### Article R823-15
 
@@ -56853,7 +56846,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-##### Section 3 : Dispositions diverses<a id=706></a>
+##### Section 3 : Dispositions diverses<a id=705></a>
 
 ###### Article R823-20
 
@@ -56876,7 +56869,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-#### Chapitre IV : Conseil national de l'alimentation<a id=707></a>
+#### Chapitre IV : Conseil national de l'alimentation<a id=706></a>
 
 ###### Article D824-1
 
@@ -57163,7 +57156,7 @@ _Anciens textes_:
   - Code de la consommation - art. D541-7 (Ab)
 
 
-#### Chapitre V : Groupe interministériel de la consommation<a id=708></a>
+#### Chapitre V : Groupe interministériel de la consommation<a id=707></a>
 
 ###### Article D825-1
 
@@ -57301,7 +57294,7 @@ _Anciens textes_:
   - Code de la consommation - art. D522-4 (Ab)
 
 
-## Annexes<a id=709></a>
+## Annexes<a id=708></a>
 
 ###### Article Annexe à  l'article R314-3
 
@@ -57323,9 +57316,9 @@ https :// www. legifrance. gouv. fr/ jo _ pdf. do ? id = JORFTEXT000032797752
 
 - m désigne le numéro d'ordre de la dernière utilisation effectuée sur le crédit ;
 
-- k désigne le numéro d'ordre de la dernière utilisation effectuée sur le crédit, donc 1 ≤ k ≤ m ;
+- k désigne le numéro d'ordre d'une utilisation effectuée sur le crédit, donc 1 ≤ k ≤ m ;
 
-- Ck est le montant de la dernière utilisation effectuée sur le crédit numéro k ;
+- Ck est le montant  de l'utilisation effectuée sur le crédit numéro k ;
 
 - tk désigne l'intervalle de temps, exprimé en années et fractions d'année, entre la date de la première utilisation
 effectuée sur le crédit et la date de chacune des utilisations suivantes effectuées, donc t 1 = 0 ;
@@ -57570,13 +57563,13 @@ situé au moment de la conclusion du contrat de crédit ou à 0 % si ces pourcen
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
+
+_Modifié par_:
+
+  - Décret n°2016-1844 du 23 décembre 2016 - art. 2
 
 
 ###### Article Annexe à l'article D312-26
@@ -59526,13 +59519,13 @@ _Cite_:
   - Code de la consommation - art. R314-20 (V)
 
 
-# Partie législative<a id=710></a>
+# Partie législative<a id=709></a>
 
-## Livre Ier : Information des consommateurs et formation des contrats<a id=711></a>
+## Livre Ier : Information des consommateurs et formation des contrats<a id=710></a>
 
-### Titre Ier : Information des consommateurs<a id=712></a>
+### Titre Ier : Information des consommateurs<a id=711></a>
 
-#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=713></a>
+#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=712></a>
 
 ###### Article L116-1
 
@@ -59602,9 +59595,9 @@ _Cite_:
   - Code pénal - art. 131-39
 
 
-### Titre II : Pratiques commerciales<a id=714></a>
+### Titre II : Pratiques commerciales<a id=713></a>
 
-#### Chapitre III : Dispositions relatives à l'outre-mer<a id=715></a>
+#### Chapitre III : Dispositions relatives à l'outre-mer<a id=714></a>
 
 ###### Article L123-1
 
@@ -59827,9 +59820,9 @@ _Nouveaux textes_:
   - Code de la consommation - art. L251-1 (M)
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=716></a>
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=715></a>
 
-#### Chapitre II : Dispositions relatives à l'outre-mer<a id=717></a>
+#### Chapitre II : Dispositions relatives à l'outre-mer<a id=716></a>
 
 ###### Article L142-1
 
@@ -59863,9 +59856,9 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-### Titre V : Médiation des litiges de la consommation<a id=718></a>
+### Titre V : Médiation des litiges de la consommation<a id=717></a>
 
-#### Chapitre VII : Dispositions relatives à l'outre-mer<a id=719></a>
+#### Chapitre VII : Dispositions relatives à l'outre-mer<a id=718></a>
 
 ###### Article L157-1
 
@@ -59937,13 +59930,13 @@ _Cite_:
   - Code de la consommation - art. L156-2 (VT)
 
 
-## Livre III : Endettement<a id=720></a>
+## Livre III : Endettement<a id=719></a>
 
-### Titre Ier : Crédit<a id=721></a>
+### Titre Ier : Crédit<a id=720></a>
 
-#### Chapitre V : Dispositions relatives à l'outre-mer<a id=722></a>
+#### Chapitre V : Dispositions relatives à l'outre-mer<a id=721></a>
 
-##### Section 1 : Crédit à la consommation<a id=723></a>
+##### Section 1 : Crédit à la consommation<a id=722></a>
 
 ###### Article L315-1
 
@@ -59972,7 +59965,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 2 : Crédit immobilier<a id=724></a>
+##### Section 2 : Crédit immobilier<a id=723></a>
 
 ###### Article L315-2
 
@@ -60073,7 +60066,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=725></a>
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=724></a>
 
 ###### Article L315-5
 
@@ -60258,7 +60251,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 4 : Prêt viager hypothécaire<a id=726></a>
+##### Section 4 : Prêt viager hypothécaire<a id=725></a>
 
 ###### Article L315-11
 
@@ -60286,9 +60279,9 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-### Titre II : Activité d'intermédiaire<a id=727></a>
+### Titre II : Activité d'intermédiaire<a id=726></a>
 
-#### Chapitre III : Dispositions relatives à l'outre-mer<a id=728></a>
+#### Chapitre III : Dispositions relatives à l'outre-mer<a id=727></a>
 
 ###### Article L323-1
 
@@ -60316,11 +60309,11 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-### Titre III : Traitement des situations de surendettement<a id=729></a>
+### Titre III : Traitement des situations de surendettement<a id=728></a>
 
-#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=730></a>
+#### Chapitre IV : Dispositions relatives à l'outre-mer<a id=729></a>
 
-##### Section 1 : Dispositions applicables à Mayotte<a id=731></a>
+##### Section 1 : Dispositions applicables à Mayotte<a id=730></a>
 
 ###### Article L334-1
 
@@ -60443,7 +60436,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 2 : Dispositions applicables à la Nouvelle-Calédonie<a id=732></a>
+##### Section 2 : Dispositions applicables à la Nouvelle-Calédonie<a id=731></a>
 
 ###### Article L334-4
 
@@ -60614,7 +60607,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 3 : Dispositions applicables à la Polynésie française<a id=733></a>
+##### Section 3 : Dispositions applicables à la Polynésie française<a id=732></a>
 
 ###### Article L334-7
 
@@ -60728,7 +60721,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 4 : Dispositions applicables aux îles Wallis et Futuna<a id=734></a>
+##### Section 4 : Dispositions applicables aux îles Wallis et Futuna<a id=733></a>
 
 ###### Article L334-8
 
@@ -60859,7 +60852,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=735></a>
+##### Section 5 : Dispositions applicables à Saint-Barthélemy et à Saint-Martin<a id=734></a>
 
 ###### Article L334-11
 
@@ -60890,7 +60883,7 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-##### Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=736></a>
+##### Section 6 : Dispositions applicables à Saint-Pierre-et-Miquelon<a id=735></a>
 
 ###### Article L334-12
 
@@ -60922,13 +60915,13 @@ _Abrogé par_:
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 34 (V)
 
 
-# Partie réglementaire<a id=737></a>
+# Partie réglementaire<a id=736></a>
 
-## Livre Ier : Information des consommateurs et formation des contrats<a id=738></a>
+## Livre Ier : Information des consommateurs et formation des contrats<a id=737></a>
 
-### Titre II : Pratiques commerciales<a id=739></a>
+### Titre II : Pratiques commerciales<a id=738></a>
 
-#### Chapitre III : Dispositions relatives à l'outre-mer<a id=740></a>
+#### Chapitre III : Dispositions relatives à l'outre-mer<a id=739></a>
 
 ###### Article R123-1
 
@@ -60961,9 +60954,9 @@ _Cite_:
   - Code de la consommation - art. R121-2-1
 
 
-### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=741></a>
+### Titre IV : Pouvoirs des agents et actions juridictionnelles<a id=740></a>
 
-#### Chapitre III : Dispositions relatives à l'outre-mer<a id=742></a>
+#### Chapitre III : Dispositions relatives à l'outre-mer<a id=741></a>
 
 ###### Article R143-1
 
@@ -61031,11 +61024,11 @@ _Cite_:
   - Code de la consommation - art. R141-3 (Ab)
 
 
-## Livre II : Qualité des produits et des services<a id=743></a>
+## Livre II : Qualité des produits et des services<a id=742></a>
 
-### Titre Ier : Conformité<a id=744></a>
+### Titre Ier : Conformité<a id=743></a>
 
-#### Chapitre IX : Sanctions administratives<a id=745></a>
+#### Chapitre IX : Sanctions administratives<a id=744></a>
 
 ###### Article R219-1
 
@@ -61124,13 +61117,13 @@ _Nouveaux textes_:
   - Code de la consommation - art. R531-3 (V)
 
 
-## Livre III : Endettement<a id=746></a>
+## Livre III : Endettement<a id=745></a>
 
-### Titre Ier : Crédit<a id=747></a>
+### Titre Ier : Crédit<a id=746></a>
 
-#### Chapitre V : Dispositions relatives à l'outre-mer<a id=748></a>
+#### Chapitre V : Dispositions relatives à l'outre-mer<a id=747></a>
 
-##### Section 1 : Crédit à la consommation<a id=749></a>
+##### Section 1 : Crédit à la consommation<a id=748></a>
 
 ###### Article D315-1-1
 
@@ -61196,7 +61189,7 @@ _Cite_:
   - Code de la consommation - art. R313-2 (Ab)
 
 
-##### Section 2 : Crédit immobilier<a id=750></a>
+##### Section 2 : Crédit immobilier<a id=749></a>
 
 ###### Article R315-2
 
@@ -61239,7 +61232,7 @@ _Cite_:
   - Code de la consommation - art. R312-3 (MMN)
 
 
-##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=751></a>
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=750></a>
 
 ###### Article R315-3
 
@@ -61332,7 +61325,7 @@ _Cite_:
   - Code de la consommation - art. R313-5-2 (Ab)
 
 
-##### Section 4 : Prêt viager hypothécaire<a id=752></a>
+##### Section 4 : Prêt viager hypothécaire<a id=751></a>
 
 ###### Article R315-6
 
@@ -61360,11 +61353,11 @@ _Abrogé par_:
   - Décret n°2016-884 du 29 juin 2016 - art. 8
 
 
-### Titre III : Traitement des situations de surendettement<a id=753></a>
+### Titre III : Traitement des situations de surendettement<a id=752></a>
 
-#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=754></a>
+#### Chapitre VI : Dispositions relatives à l'outre-mer<a id=753></a>
 
-##### Section 1 : Dispositions particulières à Mayotte<a id=755></a>
+##### Section 1 : Dispositions particulières à Mayotte<a id=754></a>
 
 ###### Article R336-1
 
@@ -61509,7 +61502,7 @@ _Cite_:
   - Code de la consommation - art. R335-4
 
 
-##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=756></a>
+##### Section 2 : Dispositions applicables en Nouvelle-Calédonie<a id=755></a>
 
 ###### Article R336-2
 
@@ -61762,7 +61755,7 @@ _Cite_:
   - Code de la consommation - art. L332-8
 
 
-##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=757></a>
+##### Section 3 : Dispositions applicables aux îles Wallis et Futuna<a id=756></a>
 
 ###### Article R336-4
 
@@ -61913,7 +61906,7 @@ _Cite_:
   - Code de la consommation - art. R335-4
 
 
-##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=758></a>
+##### Section 4 : Dispositions particulières à Saint-Barthélemy et à Saint-Martin<a id=757></a>
 
 ###### Article R336-5
 
@@ -62002,7 +61995,7 @@ _Cite_:
   - Code de la consommation - art. R334-23
 
 
-##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=759></a>
+##### Section 5 : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=758></a>
 
 ###### Article R336-7
 
@@ -62102,13 +62095,13 @@ _Cite_:
   - Code de la consommation - art. R331-7-2
 
 
-## Livre IV : Les associations de consommateurs<a id=760></a>
+## Livre IV : Les associations de consommateurs<a id=759></a>
 
-### Titre II : Action en justice des associations.<a id=761></a>
+### Titre II : Action en justice des associations.<a id=760></a>
 
-#### Chapitre III : Action de groupe<a id=762></a>
+#### Chapitre III : Action de groupe<a id=761></a>
 
-##### Section 8 : Dispositions relatives aux outre-mer<a id=763></a>
+##### Section 8 : Dispositions relatives aux outre-mer<a id=762></a>
 
 ###### Article R423-24
 
