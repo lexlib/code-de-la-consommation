@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-22
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -35559,89 +35559,13 @@ _Anciens textes_:
   - Code de la consommation - art. L534-3 (Ab)
 
 
-###### Article L822-7
-
-La commission de la sécurité des consommateurs est chargée d'émettre des avis et de proposer toute mesure de nature à
-améliorer la prévention des risques en matière de sécurité des produits ou des services.
-
-Elle recherche et recense les informations de toutes origines sur les dangers présentés par les produits et services.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Abrogé par_:
-
-  - Loi n°2017-55 du 20 janvier 2017 - art. 54
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L534-5 (Ab)
-
-_Cité par_:
-
-  - Code de la consommation - art. L822-10 (VD)
-  - Code de la consommation - art. L822-11 (VD)
-  - Code de la consommation - art. L822-9 (VD)
-  - Code de la consommation - art. R822-28 (V)
-  - Code de la consommation - art. R822-4 (M)
-
-
-###### Article L822-8
-
-La commission de la sécurité des consommateurs peut être saisie par toute personne physique ou morale. Si elle estime que les
-faits invoqués ne sont pas appuyés d'éléments suffisamment probants, elle peut conclure par décision motivée qu'il n'y a pas
-lieu, en l'état, d'y donner suite. Elle notifie sa décision à l'auteur de la saisine. 
-
-La commission peut se saisir d'office. 
-
-Les autorités judiciaires compétentes peuvent, en tout état de la procédure, demander l'avis de la commission de la sécurité
-des consommateurs. Cet avis ne peut être rendu public qu'après qu'une décision de non-lieu a été prise ou que le jugement sur
-le fond a été rendu. 
-
-La saisine de la commission reste confidentielle jusqu'à ce que la commission ait statué sur le fond ou classé sans suite,
-sauf si celle-ci fait usage, par décision motivée, de la faculté qui lui a été donnée par l'article L. 822-9.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Abrogé par_:
-
-  - Loi n°2017-55 du 20 janvier 2017 - art. 54
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L534-6 (Ab)
-
-_Cite_:
-
-  - Code de la consommation - art. L822-9
-
-_Cité par_:
-
-  - Code de la consommation - art. R822-26 (Ab)
-
-
 ###### Article L822-9
 
-Les commissions mentionnées aux articles L. 822-4 et L. 822-7 assurent la diffusion des informations, avis et recommandations
-qu'elles estiment nécessaires de porter à la connaissance du public. 
+La commission mentionnée à l'article L. 822-4 assure la diffusion des informations, avis et recommandations qu'elle estime
+nécessaire de porter à la connaissance du public. 
 
-Les informations, avis et recommandations diffusés par la commission mentionnée à l'article L. 822-4 ne peuvent contenir
-aucune indication de nature à permettre l'identification de situations individuelles.
+Les informations, avis et recommandations qu'elle diffuse ne peuvent contenir aucune indication de nature à permettre
+l'identification de situations individuelles.
 
 **Liens relatifs à cet article**
 
@@ -35649,18 +35573,13 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L534-8 (Ab)
+  - Loi n°2017-55 du 20 janvier 2017 - art. 54
 
 _Cite_:
 
-  - Code de la consommation - art. L822-4 (VD)
-  - Code de la consommation - art. L822-7 (VD)
+  - Code de la consommation - art. L822-4 (V)
 
 _Cité par_:
 
@@ -35669,21 +35588,21 @@ _Cité par_:
 
 ###### Article L822-10
 
-Les commissions mentionnées aux articles L. 822-4 et L. 822-7 peuvent se faire communiquer tous les renseignements ou
-consulter sur place tous les documents qu'elles estiment utiles à l'accomplissement de leurs missions respectives, sans que
-puissent leur être opposés les articles 226-13 et 226-14 du code pénal et L. 1227-1 du code du travail. 
+La commission mentionnée à l'article L. 822-4 peut se faire communiquer tous les renseignements ou consulter sur place tous
+les documents qu'elle estime utiles à l'accomplissement de ses missions, sans que puissent lui être opposés les articles
+226-13 et 226-14 du code pénal ni l'article L. 1227-1 du code du travail. 
 
-Les présidents de ces commissions peuvent, par décision motivée, procéder ou faire procéder par les membres des commissions
-ou les agents de l'Institut national de la consommation désignés par le directeur général de celui-ci à la convocation ou à
-l'audition de toute personne susceptible de leur fournir des informations concernant des affaires dont ces commissions sont
-saisies. Toute personne convoquée a le droit de se faire assister du conseil de son choix. 
+Le président de la commission peut, par décision motivée, procéder ou faire procéder par les membres de la commission ou les
+agents de l'Institut national de la consommation désignés par le directeur général de celui-ci à la convocation ou à
+l'audition de toute personne susceptible de leur fournir des informations concernant des affaires dont cette commission est
+saisie. Toute personne convoquée a le droit de se faire assister du conseil de son choix. 
 
-Avant de rendre des avis, les commissions entendent les personnes concernées, sauf cas d'urgence. En tout état de cause,
-elles entendent les professionnels concernés. Elles procèdent aux consultations nécessaires. 
+Avant de rendre des avis, la commission entend les personnes concernées, sauf cas d'urgence. En tout état de cause, elle
+entend les professionnels concernés. Elle procède aux consultations nécessaires. 
 
-Lorsque, pour l'exercice de ses missions, l'une de ces commissions doit prendre connaissance d'informations relevant du
-secret de fabrication ou d'affaires, elle désigne en son sein un rapporteur. Celui-ci se fait communiquer tous les documents
-utiles et porte à la connaissance de la commission les informations obtenues.
+Lorsque, pour l'exercice de ses missions, la commission doit prendre connaissance d'informations relevant du secret de
+fabrication ou d'affaires, elle désigne en son sein un rapporteur. Celui-ci se fait communiquer tous les documents utiles et
+porte à la connaissance de la commission les informations obtenues.
 
 **Liens relatifs à cet article**
 
@@ -35691,18 +35610,13 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L534-9 (Ab)
+  - Loi n°2017-55 du 20 janvier 2017 - art. 54
 
 _Cite_:
 
-  - Code de la consommation - art. L822-4 (VD)
-  - Code de la consommation - art. L822-7 (VD)
+  - Code de la consommation - art. L822-4 (V)
   - Code pénal - art. 226-13 (V)
   - Code du travail - art. L1227-1 (V)
 
@@ -35713,10 +35627,10 @@ _Cité par_:
 
 ###### Article L822-11
 
-Les membres et le personnel des commissions mentionnées aux articles L. 822-4 et L. 822-7 sont astreints au secret
-professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans
-les conditions et sous les peines prévues à l'article 226-13 du code pénal ou à l'article L. 621-1 du code de la propriété
-intellectuelle en cas de divulgation d'informations relevant du secret de fabrication ou d'affaires.
+Les membres et le personnel de la commission mentionnée à l'article L. 822-4 sont astreints au secret professionnel pour les
+faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions et sous
+les peines prévues à l'article 226-13 du code pénal ou à l'article L. 621-1 du code de la propriété intellectuelle en cas de
+divulgation d'informations relevant du secret de fabrication ou du secret d'affaires.
 
 **Liens relatifs à cet article**
 
@@ -35724,20 +35638,15 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2017-55 du 20 janvier 2017 - art. 54
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L621-1 (M)
-  - Code de la consommation - art. L822-4 (VD)
-  - Code de la consommation - art. L822-7 (VD)
-  - Code pénal - art. 226-13 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L534-10 (Ab)
+  - Code de la propriété intellectuelle - art. L621-1
+  - Code de la consommation - art. L822-4 (V)
+  - Code pénal - art. 226-13
 
 
 #### Chapitre III : Laboratoire national de métrologie et d'essais<a id=440></a>
