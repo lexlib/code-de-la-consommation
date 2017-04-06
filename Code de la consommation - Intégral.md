@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-03-11
+Version Consolidée au 2017-04-07
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -9048,9 +9048,10 @@ _Cite_:
 
 Tout fournisseur d'un service téléphonique au public, au sens du 7° de l'article L. 32 du code des postes et des
 communications électroniques, propose au consommateur une option gratuite permettant de bloquer les communications à
-destination de certaines tranches de numéros à valeur ajoutée. Ces tranches de numéros sont définies par un arrêté conjoint
-des ministres chargés de la consommation et de l'économie numérique, pris après avis de l'Autorité de régulation des
-communications électroniques et des postes, qui tient compte du plafond de tarification et du format de ces numéros.
+destination des numéros surtaxés de certaines tranches de numéros à valeur ajoutée. Ces tranches de numéros sont définies par
+un arrêté conjoint des ministres chargés de la consommation et de l'économie numérique, pris après avis de l'Autorité de
+régulation des communications électroniques et des postes, qui tient compte du plafond de tarification et du format de ces
+numéros.
 
 **Liens relatifs à cet article**
 
@@ -9058,11 +9059,11 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
 _Cité par_:
+
+  - Loi n°2016-1321 du 7 octobre 2016 - art. 88 (V)
+
+_Modifié par_:
 
   - Loi n°2016-1321 du 7 octobre 2016 - art. 88 (V)
 
@@ -9072,7 +9073,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code des postes et des communications électroni... - art. L32 (MMN)
+  - Code des postes et des communications électroniques - art. L32
 
 
 ###### Article L224-55
