@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-04-07
+Version Consolidée au 2017-04-08
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -898,12 +898,15 @@ _Cité par_:
 ###### Article L111-3
 
 Les dispositions des articles L. 111-1 et L. 111-2 s'appliquent sans préjudice des dispositions particulières en matière
-d'information des consommateurs propres à certaines activités. 
+d'information des consommateurs propres à certaines activités.
 
-Les dispositions de l'article L. 111-2 ne s'appliquent pas aux services mentionnés aux livres Ier à III et au titre V du
-livre V du code monétaire et financier, des opérations pratiquées par les entreprises régies par le code des assurances, par
-les mutuelles et unions régies par le livre II du code de la mutualité et par les institutions de prévoyance et unions régies
-par le titre 3 du livre 9 du code de la sécurité sociale.
+Les dispositions de l'article L. 111-2 ne s'appliquent ni aux services mentionnés aux livres Ier à III et au titre V du livre
+V du code monétaire et financier, ni aux opérations pratiquées par les entreprises régies par le code des assurances, par les
+fonds de retraite professionnelle supplémentaires mentionnés à l'article L. 381-1 du même code, par les mutuelles et unions
+régies par le livre II du code de la mutualité, par les mutuelles et unions de retraite professionnelle supplémentaire
+mentionnées à l'article L. 214-1 du même code, par les institutions de prévoyance et unions régies par le titre III du livre
+IX du code de la sécurité sociale et par les institutions de retraite professionnelle supplémentaire mentionnées à l'article
+L. 942-1 du même code.
 
 **Liens relatifs à cet article**
 
@@ -911,20 +914,15 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2017-484 du 6 avril 2017 - art. 17
 
 _Cite_:
 
-  - Code de la consommation - art. L111-1 (V)
-  - Code de la consommation - art. L111-2 (V)
-  - Code des assurances (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L111-2, II (Ab)
-  - Code de la consommation - art. L111-4, II (Ab)
+  - Code de la consommation - art. L111-1
+  - Code de la consommation - art. L111-2
+  - Code des assurances
 
 
 ###### Article L111-4
