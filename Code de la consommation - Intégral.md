@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-07-15
+Version Consolidée au 2017-10-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -763,9 +763,6 @@ Version Consolidée au 2017-07-15
         - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#760)
         - [Chapitre V : Groupe interministériel de la consommation (art. D825-1 à D825-4)](#761)
     - [Annexes (art. Annexe à  l'article R314-3 à Annexe à l'article R314-20)](#762)
-  - [Partie réglementaire (art.  à Annexe à l'article R314-20)](#763)
-    - [Livre III : Endettement (art.  à Annexe à l'article R314-20)](#764)
-      - [Titre Ier : Crédit (art.  à Annexe à l'article R314-20)](#765)
 # Partie législative nouvelle<a id=1></a>
 
 ###### Article liminaire
@@ -40181,13 +40178,13 @@ _Cite_:
 ###### Article R224-4
 
 La mention de la date prévue au 5° de l'article L. 224-98 comporte le jour, le mois et l'année ainsi que l'heure de la
-signature du contrat. 
+signature du contrat.
 
-Sur le contrat figure la mention suivante : 
+Sur le contrat figure la mention suivante :
 
-" Si vous souhaitez exercer votre droit de rétractation dans les 24 heures à compter de la signature du contrat, vous pouvez
-utiliser le formulaire détachable prévu à cet effet ou toute autre déclaration dénuée d'ambiguïté exprimant votre volonté de
-vous rétracter. "
+" Si vous souhaitez exercer votre droit de rétractation dans les quarante-huit heures à compter de la signature du contrat,
+vous pouvez utiliser le formulaire détachable prévu à cet effet ou toute autre déclaration dénuée d'ambiguïté exprimant votre
+volonté de vous rétracter. "
 
 **Liens relatifs à cet article**
 
@@ -40195,17 +40192,13 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-1166 du 12 juillet 2017 - art. 6
 
 _Cite_:
 
-  - Code de la consommation - art. L224-98 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R121-22 (Ab)
+  - Code de la consommation - art. L224-98
 
 
 ###### Article R224-5
@@ -40252,14 +40245,14 @@ _Anciens textes_:
 Pour exercer le droit de rétractation prévu à l'article L. 224-99 le consommateur vendeur :
 
 - remet au professionnel en main propre le formulaire détachable ou toute autre déclaration dénuée d'ambiguïté exprimant sa
-volonté de se rétracter, au plus tard 24 heures à compter du jour et de l'heure de la signature du contrat ; ou
+volonté de se rétracter, au plus tard quarante-huit heures à compter du jour et de l'heure de la signature du contrat ; ou
 
 - adresse au professionnel ce formulaire ou toute autre déclaration dénuée d'ambiguïté exprimant sa volonté de se rétracter,
-par un moyen permettant d'attester de la date et de l'heure de l'envoi, au plus tard 24 heures à compter du jour et de
-l'heure de la signature du contrat. 
+par un moyen permettant d'attester de la date et de l'heure de l'envoi, au plus tard quarante-huit heures à compter du jour
+et de l'heure de la signature du contrat.
 
-Si le délai de 24 heures expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour
-ouvrable suivant, à la même heure.
+Si le délai de quarante-huit heures expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier
+jour ouvrable suivant, à la même heure.
 
 **Liens relatifs à cet article**
 
@@ -40267,21 +40260,17 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-1166 du 12 juillet 2017 - art. 6
 
 _Cité par_:
 
-  - Code de la consommation - art. Annexe à l'article R224-5 (V)
+  - Code de la consommation - art. Annexe à l'article R224-5 (VD)
 
 _Cite_:
 
-  - Code de la consommation - art. L224-99 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R121-25 (Ab)
+  - Code de la consommation - art. L224-99
 
 
 ##### Section 3 : Contrats dans les domaines bancaire, financier et des assurances<a id=499></a>
@@ -61631,81 +61620,81 @@ _Codifié par_:
 
 ###### Article Annexe à l'article R224-5
 
-FORMULAIRE TYPE DE RÉTRACTATION 
+FORMULAIRE TYPE DE RÉTRACTATION
 
-ACHAT DE METAUX PRECIEUX 
+ACHAT DE METAUX PRECIEUX
 
-(La taille de caractère utilisée ne peut être inférieure à une taille de caractère de corps 12) 
+(La taille de caractère utilisée ne peut être inférieure à une taille de caractère de corps 12)
 
 (Pour vous rétracter, vous pouvez utiliser ce modèle de formulaire de rétractation ou toute déclaration écrite dénuée
-d'ambiguïté) 
+d'ambiguïté)
 
 A l'attention de [le professionnel insère ici son nom, l'adresse géographique à laquelle le formulaire doit être envoyé et,
-lorsqu'ils sont disponibles, son numéro de télécopieur et son adresse électronique] : 
+lorsqu'ils sont disponibles, son numéro de télécopieur et son adresse électronique] :
 
 Je/ Nous (*) vous notifie/ notifions (*) par la présente ma/ notre (*) rétractation du contrat conclu le : (indiquer la date)
-et ayant pour objet la vente du (des) bien (s) suivant (s) : 
+et ayant pour objet la vente du (des) bien (s) suivant (s) :
 
-[indiquer le (s) bien (s) objet (s) du contrat] 
+[Indiquer le (s) bien (s) objet (s) du contrat]
 
-Nom du (des) consommateur (s)-vendeur (s) 
+Nom du (des) consommateur (s)-vendeur (s)
 
-Adresse du (des) consommateur (s)-vendeur (s) 
+Adresse du (des) consommateur (s)-vendeur (s)
 
-Signature du (des) consommateur (s)-vendeur (s) 
+Signature du (des) consommateur (s)-vendeur (s)
 
-Date 
+Date
 
-(*) Rayez la mention inutile 
+(*) Rayez la mention inutile
 
 <table border="1">
   <tbody>
     <tr>
-      <td valign="middle">
-
-L'article L. 224-99 prévoit que l'exécution des obligations contractuelles incombant aux parties est suspendue jusqu'à
-l'expiration du délai de rétractation de 24 heures. En conséquence, après signature du contrat, le consommateur-vendeur ne
-remet pas au professionnel-acheteur l'objet qu'il souhaite vendre avant l'expiration de ce délai et le professionnel-acheteur
-ne lui verse pas le prix de l'achat prévu par le contrat avant le même terme. 
+      <td align="justify">
 
 Conformément à l'article R. 224-7, pour exercer son droit de rétractation prévu à l'article L. 224-99, le consommateur-
 vendeur :
 
 - remet au professionnel en main propre le formulaire détachable ou toute autre déclaration dénuée d'ambiguïté exprimant sa
-volonté de se rétracter, au plus tard 24 heures à compter du jour et de l'heure de la signature du contrat ;
+volonté de se rétracter, au plus tard quarante-huit heures à compter du jour et de l'heure de la signature du contrat ;
 
 - ou adresse au professionnel ce formulaire ou toute autre déclaration dénuée d'ambiguïté exprimant sa volonté de se
-rétracter, par un moyen permettant d'attester de la date et de l'heure de l'envoi, au plus tard 24 heures à compter du jour
-et de l'heure de la signature du contrat. 
+rétracter, par un moyen permettant d'attester de la date et de l'heure de l'envoi, au plus tard quarante-huit heures à
+compter du jour et de l'heure de la signature du contrat.
 
-Si le délai de 24 heures expire normalement un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier
-jour ouvrable suivant, à la même heure. 
+Si le délai de quarante-huit heures expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier
+jour ouvrable suivant, à la même heure.
 
 L'envoi ou la remise du formulaire au professionnel et dans le délai imparti a pour effet d'annuler l'opération d'achat. A
-défaut, le contrat est conclu définitivement. 
+défaut, le contrat est conclu définitivement.
 
-Rappel : Conformément au second alinéa de l'article L. 224-99, le consommateur-vendeur ne dispose pas d'un droit de
-rétractation pour les opérations d'or investissement.
+Rappel :
 
-</td>
+Conformément au deuxième alinéa de l'article L. 224-99, l'exercice du droit de rétractation met fin aux obligations des
+parties. Le consommateur doit alors rembourser au professionnel le prix perçu et, en contrepartie, ce dernier doit lui
+restituer le ou les objets achetés. A défaut de restituer le ou les objets achetés, le professionnel verse au consommateur
+une somme équivalente au double du prix de vente perçu pour le bien ou les objets achetés.
+
+Conformément au troisième alinéa du même article, le consommateur-vendeur ne dispose pas d'un droit de rétractation pour les
+opérations d'or investissement.</td>
     </tr>
   </tbody>
 </table>
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
+_Modifié par_:
+
+  - Décret n°2017-1166 du 12 juillet 2017 - art. 6
+
 _Cite_:
 
-  - Code de la consommation - art. L224-99 (V)
-  - Code de la consommation - art. R224-7 (V)
+  - Code de la consommation - art. L224-99
+  - Code de la consommation - art. R224-7 (VD)
 
 
 ###### Article Annexe à l'article R312-5
@@ -63321,10 +63310,4 @@ _Cite_:
 
   - Code de la consommation - art. R314-20 (V)
 
-
-# Partie réglementaire<a id=763></a>
-
-## Livre III : Endettement<a id=764></a>
-
-### Titre Ier : Crédit<a id=765></a>
 
