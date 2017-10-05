@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-10-01
+Version Consolidée au 2017-10-06
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -2992,20 +2992,20 @@ _Anciens textes_:
 
 ###### Article L122-22
 
-Le fournisseur qui se prévaut d'une offre de service de coffre-fort numérique défini aux 1° à 5° de l'article L. 137 du code
+Le fournisseur qui se prévaut d'une offre de service de coffre-fort numérique défini aux 1° à 5° de l'article L. 103 du code
 des postes et des communications électroniques et qui ne respecte pas les obligations qui y sont énoncées est passible des
 sanctions prévues aux articles L. 132-2 et L. 132-3 du présent code.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 87
+  - Ordonnance n°2017-1426 du 4 octobre 2017 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L132-2 (V)
-  - Code des postes et des communications électroni... - art. L137 (T)
+  - Code de la consommation - art. L132-2
+  - Code des postes et des communications électroniques - art. L103
 
 
 ##### Sous-section 6 : Investissement locatif ouvrant droit à une réduction d'impôt<a id=32></a>
@@ -16873,20 +16873,20 @@ _Cité par_:
 
 ###### Article L313-39
 
-En cas de renégociation de prêt, les modifications au contrat de  crédit initial sont apportées sous la seule forme d'un
-avenant établi  sur papier ou sur un autre support durable.
+En cas de renégociation de prêt, les modifications au contrat de crédit initial sont apportées sous la seule forme d'un
+avenant établi sur support papier ou sur un autre support durable.
 
-Cet avenant comprend,  d'une part, un échéancier des amortissements détaillant pour chaque  échéance le capital restant dû en
-cas de remboursement anticipé et,  d'autre part, le taux annuel effectif global (1) ainsi que le coût du  crédit, calculés
-sur la base des seuls échéances et frais à venir. Pour  les prêts à taux variable ou révisable, l'avenant comprend le taux
-annuel effectif global (1) ainsi que le coût du crédit, calculés sur la  base des seuls échéances et frais à venir jusqu'à la
-date de la révision  du taux, ainsi que les conditions et modalités de variation du taux.
+Cet avenant comprend, d'une part, un échéancier des amortissements détaillant pour chaque échéance le capital restant dû en
+cas de remboursement anticipé et, d'autre part, le taux annuel effectif global (1) ainsi que le coût du crédit, calculés sur
+la base des seuls échéances et frais à venir. Pour les prêts à taux variable ou révisable, l'avenant comprend le taux annuel
+effectif global (1) ainsi que le coût du crédit, calculés sur la base des seuls échéances et frais à venir jusqu'à la date de
+la révision du taux, ainsi que les conditions et modalités de variation du taux.
 
-L'emprunteur  dispose d'un délai de réflexion de dix jours à compter de la réception  des informations mentionnées au
-deuxième alinéa.
+L'emprunteur dispose d'un délai de réflexion de dix jours à compter de la réception des informations mentionnées au deuxième
+alinéa.
 
-L'acceptation  doit être donnée par lettre, le cachet de l'opérateur postal faisant  foi, ou selon tout autre moyen convenu
-entre les parties de nature à  rendre certaine la date de l'acceptation par l'emprunteur.
+L'acceptation doit être donnée par lettre, le cachet de l'opérateur postal faisant foi, ou selon tout autre moyen convenu
+entre les parties de nature à rendre certaine la date de l'acceptation par l'emprunteur.
 
 **Nota:**
 
@@ -16895,15 +16895,15 @@ octobre 2016.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance n°2016-351 du 25 mars 2016 - art. 3
-
 _Cité par_:
 
   - Loi n°2017-203 du 21 février 2017 - art. 9 (V)
   - Code de la consommation - art. L313-31 (VD)
   - Code de la consommation - art. L341-22 (VD)
+
+_Modifié par_:
+
+  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 13
 
 _Anciens textes_:
 
