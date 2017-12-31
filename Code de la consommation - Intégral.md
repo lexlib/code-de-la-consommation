@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2017-10-06
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -435,334 +435,340 @@ Version Consolidée au 2017-10-06
             - [Sous-section 3 : Autres effets (art. L722-10 à L722-16)](#432)
         - [Chapitre III : Etat du passif (art. L723-1 à L723-4)](#433)
         - [Chapitre IV : Orientation du dossier (art. L724-1 à L724-5)](#434)
-      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. L731-1 à L733-18)](#435)
+      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. L731-1 à L733-17)](#435)
         - [Chapitre Ier : Détermination du montant des remboursements (art. L731-1 à L731-3)](#436)
-        - [Chapitre II : Plan conventionnel (art. L732-1 à L732-4)](#437)
-        - [Chapitre III : Mesures imposées ou recommandées (art. L733-1 à L733-18)](#438)
-          - [Section 1 : Contenu et adoption des mesures imposées ou recommandées (art. L733-1 à L733-11)](#439)
-          - [Section 2 : Contestation des mesures imposées ou recommandées (art. L733-12 à L733-15)](#440)
-          - [Section 3 : Dispositions communes aux mesures imposées ou recommandées et à leur contestation (art. L733-16 à L733-18)](#441)
-      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. L741-1 à L743-2)](#442)
-        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. L741-1 à L741-10)](#443)
-          - [Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. L741-1 à L741-4)](#444)
-          - [Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. L741-5 à L741-7)](#445)
-          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation (art. L741-8 à L741-10)](#446)
-        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. L742-1 à L742-25)](#447)
-          - [Section 1 : Ouverture de la procédure (art. L742-1 à L742-9)](#448)
-          - [Section 2 : Déclaration et arrêté des créances (art. L742-10 à L742-13)](#449)
-          - [Section 3 : Liquidation des biens du débiteur (art. L742-14 à L742-19)](#450)
-          - [Section 4 : Clôture de la procédure (art. L742-20 à L742-23)](#451)
-          - [Section 5 : Plan (art. L742-24 à L742-25)](#452)
-        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. L743-1 à L743-2)](#453)
-      - [Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS (art. L751-1 à L752-3)](#454)
-        - [Chapitre Ier : Objet du fichier (art. L751-1 à L751-6)](#455)
-        - [Chapitre II : Inscription et radiation (art. L752-1 à L752-3)](#456)
-      - [Titre VI : SANCTIONS (art. L761-1 à L762-2)](#457)
-        - [Chapitre Ier : Sanctions civiles (art. L761-1 à L761-2)](#458)
-        - [Chapitre II : Sanctions pénales (art. L762-1 à L762-2)](#459)
-      - [Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L771-1 à L771-12)](#460)
-        - [Chapitre unique : Traitement des situations de surendettement (art. L771-1 à L771-12)](#461)
-          - [Section 1 : Dispositions relatives aux îles Wallis et Futuna (art. L771-1 à L771-3)](#462)
-          - [Section 2 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie (art. L771-4 à L771-7)](#463)
-          - [Section 3 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin (art. L771-8 à L771-9)](#464)
-          - [Section 4 : Dispositions relatives à Saint-Pierre-et-Miquelon (art. L771-10 à L771-11)](#465)
-          - [Section 5 : Dispositions communes (art. L771-12)](#466)
-    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. L811-1 à L823-2)](#467)
-      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. L811-1 à L811-2)](#468)
-        - [Chapitre Ier : Agrément des associations (art. L811-1 à L811-2)](#469)
-      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. L822-1 à L823-2)](#470)
-        - [Chapitre II : Institut national de la consommation (art. L822-1 à L822-11)](#471)
-          - [Section 1 : Organisation et missions (art. L822-1 à L822-3)](#472)
-          - [Section 2 : Les commissions placées auprès de l'Institut national de la consommation (art. L822-4 à L822-11)](#473)
-        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. L823-1 à L823-2)](#474)
-  - [Partie réglementaire nouvelle (art. D111-4 à Annexe à l'article R314-20)](#475)
-    - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. D111-4 à R132-3)](#476)
-      - [Titre Ier : INFORMATION DES CONSOMMATEURS (art. D111-4 à D113-1)](#477)
-        - [Chapitre Ier : Obligation générale d'information précontractuelle (art. D111-4 à R111-3)](#478)
-        - [Chapitre II : Information sur les prix et conditions de vente (art. R112-1 à R112-4)](#479)
-        - [Chapitre III : Information sur les conditions sociales de fabrication des produits (art. D113-1)](#480)
-      - [Titre II : PRATIQUES COMMERCIALES INTERDITES ET PRATIQUES COMMERCIALES RÉGLEMENTÉES (art. R121-1 à D122-3)](#481)
-        - [Chapitre Ier : Pratiques commerciales interdites (art. R121-1)](#482)
-        - [Chapitre II : Pratiques commerciales réglementées (art. D122-1 à D122-3)](#483)
-          - [Section unique : Utilisation de la mention “fait maison” (art. D122-1 à D122-3)](#484)
-      - [Titre III : SANCTIONS (art. R131-1 à R132-3)](#485)
-        - [Chapitre Ier : Information des consommateurs (art. R131-1)](#486)
-        - [Chapitre II : Pratiques commerciales interdites et pratiques commerciales réglementées (art. R132-1 à R132-3)](#487)
-    - [Livre II : FORMATION ET EXÉCUTION DES CONTRATS (art. R212-1 à R252-1)](#488)
-      - [Titre Ier : CONDITIONS GÉNÉRALES DES CONTRATS (art. R212-1 à D213-2)](#489)
-        - [Chapitre II : Clauses abusives (art. R212-1 à R212-5)](#490)
-        - [Chapitre III : Conservation des contrats conclus par voie électronique (art. D213-1 à D213-2)](#491)
-      - [Titre II : RÈGLES DE FORMATION ET D'EXÉCUTION DE CERTAINS CONTRATS (art. R221-1 à D224-29)](#492)
-        - [Chapitre Ier : Contrat conclus à distance et hors établissement (art. R221-1 à R221-4)](#493)
-        - [Chapitre II : Dispositions particulières aux contrats conclus à distance portant sur des services financiers (art. R222-1 à R222-4)](#494)
-        - [Chapitre III : Opposition au démarchage téléphonique (art. R223-1 à R223-8)](#495)
-        - [Chapitre IV : Règles spécifiques à des contrats ayant un objet particulier (art. R224-1 à D224-29)](#496)
-          - [Section 1 : Contrats de courtage matrimonial (art. R224-1 à R224-3)](#497)
-          - [Section 2 : Contrats d'achats de métaux précieux (art. R224-4 à R224-7)](#498)
-          - [Section 3 : Contrats dans les domaines bancaire, financier et des assurances (art. R224-8 à R224-10)](#499)
-          - [Section 4 : Enseignement (art. R224-11)](#500)
-          - [Section 5 : Contrats portant sur les voyages à forfait (art. R224-12)](#501)
-          - [Section 6 : Contrats de prestations de soins médicaux (art. D224-13)](#502)
-          - [Section 7 : Contrats d'hébergement de personnes âgées et services d'aide et d'assistance à domicile (art. R224-14 à R224-15)](#503)
-          - [Section 8 : Contrats de services funéraires (art. R224-16)](#504)
-          - [Section 9 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques (art. D224-17 à D224-21)](#505)
-          - [Section 10 : Entretien et réparation automobiles (art. R224-22 à R224-25)](#506)
-          - [Section 11 : Accès aux données de consommation d'électricité ou de gaz naturel (art. D224-26 à D224-29)](#507)
-      - [Titre IV : SANCTIONS (art. R242-1 à R242-20)](#508)
-        - [Chapitre II : Règles de formation et d'exécution de certains contrats (art. R242-1 à R242-20)](#509)
-          - [Section 1 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers (art. R242-1 à R242-5)](#510)
-          - [Section 2 : Dispositions spécifiques à des contrats ayant un objet particulier (art. R242-6 à R242-20)](#511)
-            - [Sous-section 1 : Contrats de fournitures d'électricité ou de gaz naturel (art. R242-6 à R242-15)](#512)
-            - [Sous-section 2 : Contrats de courtage matrimonial (art. R242-16 à R242-20)](#513)
-      - [Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R252-1)](#514)
-        - [Chapitre II : Règles de formation et d'exécution des contrats (art. R252-1)](#515)
-    - [Livre III : CRÉDIT (art. D312-1 à R354-5)](#516)
-      - [Titre Ier : OPÉRATIONS DE CRÉDIT (art. D312-1 à R315-2)](#517)
-        - [Chapitre II : Crédit à la consommation (art. D312-1 à R312-35)](#518)
-          - [Section 1 : Publicité (art. D312-1)](#519)
-          - [Section 2 : Information précontractuelle de l'emprunteur (art. R312-2 à R312-6)](#520)
-          - [Section 3 : Explications à fournir à l'emprunteur et évaluation de sa solvabilité (art. D312-7 à D312-8)](#521)
-          - [Section 4 : Formation du contrat de crédit (art. R312-9)](#522)
-          - [Section 5 : Informations mentionnées dans le contrat (art. R312-10 à R312-14)](#523)
-          - [Section 6 : Exécution du contrat de crédit (art. D312-15 à D312-19)](#524)
-            - [Sous-section 1 : Remboursement anticipé (art. D312-15)](#525)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. D312-16 à D312-19)](#526)
-          - [Section 7 : Crédit affecté (art. R312-20)](#527)
-          - [Section 8 : Crédit renouvelable (art. D312-21 à D312-31)](#528)
-          - [Section 9 : Opérations de découvert en compte (art. R312-32 à R312-34)](#529)
-          - [Section 10 : Procédure (art. R312-35)](#530)
-        - [Chapitre III : Crédit immobilier (art. R313-1 à R313-33)](#531)
-          - [Section 1 : Publicité et informations générales (art. R313-1 à R313-3)](#532)
-            - [Sous-section unique :  Publicité et informations générales (art. R313-1 à R313-3)](#533)
-              - [Paragraphe 1 : Publicité (art. R313-1 à R313-2)](#534)
-              - [Paragraphe 2 : Informations générales (art. R313-3)](#535)
-          - [Section 2 : Information précontractuelle de l'emprunteur (art. R313-4 à R313-10)](#536)
-            - [Sous-section 1 : Fiche d'informations standardisées européenne (art. R313-4 à R313-7)](#537)
-            - [Sous-section 2 : Information relative à l'assurance emprunteur (art. R313-8 à R313-10)](#538)
-          - [Section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R313-11 à R313-19)](#539)
-            - [Sous-section 1 : Service de conseil (art. R313-11 à R313-12)](#540)
-            - [Sous-section 2 : Evaluation de la solvabilité (art. R313-13 à R313-16)](#541)
-            - [Sous-section 3 : Evaluation du bien immobilier (art. D313-20 à R313-19)](#542)
-          - [Section 4 : Formation du contrat de crédit (art. R313-21 à R313-24)](#543)
-          - [Section 5 : Exécution du contrat de crédit (art. R313-25 à R313-28)](#544)
-            - [Sous-section 1 : Remboursement anticipé (art. R313-25)](#545)
-            - [Sous-section 2 : Défaillance de l'emprunteur (art. R313-26 à R313-28)](#546)
-          - [Section 6 : Location-vente et location assortie d'une promesse de vente (art. D313-29)](#547)
-          - [Section 7 : Prêts libellés dans une devise autre que l'euro (art. R313-30 à R313-32)](#548)
-          - [Section 8 : Procédure (art. R313-33)](#549)
-        - [Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R314-1 à D314-29)](#550)
-          - [Section 1 : Taux d'intérêt (art. R314-1 à D314-17)](#551)
-            - [Sous-section 1 : Taux effectif global (art. R314-1 à R314-14)](#552)
-            - [Sous-section 2 : Taux d'usure (art. D314-15 à D314-17)](#553)
-          - [Section 2 : Regroupement de crédits (art. R314-18 à R314-21)](#554)
-          - [Section 3 : Formation du prêteur et de l'intermédiaire (art. D314-22 à D314-29)](#555)
-        - [Chapitre V : Prêt viager hypothécaire (art. R315-1 à R315-2)](#556)
-      - [Titre IV : SANCTIONS (art. R341-1 à R341-27)](#557)
-        - [Chapitre Ier : Opérations de crédit (art. R341-1 à R341-27)](#558)
-          - [Section 1 : Crédit à la consommation (art. R341-1 à R341-19)](#559)
-            - [Sous-section 1 : Publicité (art. R341-1)](#560)
-            - [Sous-section 2 : Information précontractuelle de l'emprunteur (art. R341-2)](#561)
-            - [Sous-section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R341-3)](#562)
-            - [Sous-section 4 : Formation du contrat de crédit (art. R341-4)](#563)
-            - [Sous-section 5 : Informations mentionnées dans le contrat (art. R341-5)](#564)
-            - [Sous-section 6 : Exécution du contrat (art. R341-6)](#565)
-            - [Sous-section 7 : Crédit gratuit (art. R341-7 à R341-9)](#566)
-            - [Sous-section 8 : Crédit affecté (art. R341-10 à R341-11)](#567)
-            - [Sous-section 9 : Crédit renouvelable (art. R341-12 à R341-19)](#568)
-          - [Section 2 : Crédit immobilier (art. R341-20 à R341-23)](#569)
-            - [Sous-section 1 : Information précontractuelle de l'emprunteur (art. R341-20)](#570)
-            - [Sous-section 2 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R341-21 à R341-22)](#571)
-            - [Sous-section 3 : Exécution du contrat de crédit (art. R341-23)](#572)
-          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R341-24 à R341-27)](#573)
-      - [Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D351-1 à R354-5)](#574)
-        - [Chapitre Ier : Opérations de crédit (art. D351-1 à R351-9)](#575)
-          - [Section 1 : Crédit à la consommation (art. D351-1 à R351-3)](#576)
-          - [Section 2 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. D351-6 à R351-9)](#577)
-            - [Sous-section 1 : Dispositions applicables en en Polynésie française et en Nouvelle-Calédonie (art. D351-6 à R351-5)](#578)
-            - [Sous-section 2 : Dispositions applicables dans les îles Wallis et Futuna (art. D351-10 à R351-9)](#579)
-        - [Chapitre IV : Sanctions (art. R354-1 à R354-5)](#580)
-          - [Section 1 : Sanctions relatives au crédit à la consommation (art. R354-1)](#581)
-          - [Section 2 : Sanctions communes au crédit immobilier et au crédit à la consommation (art. R354-2 à R354-5)](#582)
-            - [Sous-section 1 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie (art. R354-2 à R354-3)](#583)
-            - [Sous-section 2 : Dispositions applicables dans les îles Wallis et Futuna (art. R354-4 à R354-5)](#584)
-    - [Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES (art. R412-1 à R453-1)](#585)
-      - [Titre Ier : CONFORMITÉ (art. R412-1 à R414-6)](#586)
-        - [Chapitre II : Mesures d'application (art. R412-1 à R412-57)](#587)
-          - [Section 1 : Mesures générales (art. R412-1)](#588)
-          - [Section 2 : Modes de présentation et étiquetage (art. R412-2 à R412-10)](#589)
-            - [Sous-section 1 : Produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou de spécialité traditionnelle garantie (art. R412-2)](#590)
-            - [Sous-section 2 : Identification du lot (art. R412-3 à R412-6)](#591)
-            - [Sous-section 3 : Dispositions particulières (art. R412-7 à R412-10)](#592)
-          - [Section 3 : Dispositions relatives aux denrées non préemballées (art. R412-11 à R412-16)](#593)
-            - [Sous-section 1 : Dénomination de vente (art. R412-11)](#594)
-            - [Sous-section 2 : Information relative à la présence de substances ou produits provoquant des allergies ou intolérances (art. R412-12 à R412-16)](#595)
-          - [Section 4 : Règlements de l'Union européenne constituant des mesures d'exécution de l'article L. 412-1 (art. R412-17 à R412-43)](#596)
-            - [Sous-section 1 : Dispositions générales (art. R412-17)](#597)
-            - [Sous-section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux (art. R412-18)](#598)
-            - [Sous-section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R412-19)](#599)
-            - [Sous-section 4 : Organismes génétiquement modifiés (art. R412-20)](#600)
-            - [Sous-section 5 : Boissons alcoolisées (art. R412-21)](#601)
-            - [Sous-section 6 : Additifs, enzymes, arômes destinés à l'alimentation humaine (art. R412-22)](#602)
-            - [Sous-section 7 : Adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires (art. R412-23)](#603)
-            - [Sous-section 8 : Contaminants (art. R412-24)](#604)
-            - [Sous-section 9 : Fruits et légumes (art. R412-25)](#605)
-            - [Sous-section 10 : Huile d'olive et olives de table (art. R412-26)](#606)
-            - [Sous-section 11 : Œufs et viande de volaille (art. R412-27)](#607)
-            - [Sous-section 12 : Produits laitiers, colostrum et matières grasses laitières ou non (art. R412-28)](#608)
-            - [Sous-section 13 : Produits de la pêche (art. R412-29)](#609)
-            - [Sous-section 14 : Viandes bovine, ovine et porcine (art. R412-30)](#610)
-            - [Sous-section 15 : Viande hachée et produits à base de viande (art. R412-31)](#611)
-            - [Sous-section 16 : Collagènes et gélatine (art. R412-32)](#612)
-            - [Sous-section 17 : Modes de valorisation (art. R412-33)](#613)
-            - [Sous-section 18 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale (art. R412-34)](#614)
-            - [Sous-section 19 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R412-35)](#615)
-            - [Sous-section 20 : Contrôles officiels renforcés à l'importation (art. R412-36)](#616)
-            - [Sous-section 21 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 6° de l'article L. 412-1 (art. R412-37)](#617)
-            - [Sous-section 22 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R412-38)](#618)
-            - [Sous-section 23 : Alimentation des animaux (art. R412-39)](#619)
-            - [Sous-section 24 : Engrais (art. R412-40)](#620)
-            - [Sous-section 25 : Détergents (art. R412-41)](#621)
-            - [Sous-section 26 : Fibres et produits textiles (art. R412-42)](#622)
-            - [Sous-section 27 : Produits de construction (art. R412-43)](#623)
-          - [Section 5 : Dispositions spécifiques à certains produits (art. R412-44 à R412-48)](#624)
-          - [Section 6 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs (art. R412-49 à R412-57)](#625)
-        - [Chapitre IV : Dispositions relatives à certains établissements (art. R414-1 à R414-6)](#626)
-      - [Titre II : SÉCURITÉ (art. R422-1)](#627)
-        - [Chapitre II : Mesures d'application (art. R422-1)](#628)
-      - [Titre III : VALORISATION DES PRODUITS ET SERVICES (art. R431-1 à R433-2)](#629)
-        - [Chapitre Ier : Appellations d'origine (art. R431-1 à R431-5)](#630)
-        - [Chapitre III : Certification de conformité (art. R433-1 à R433-2)](#631)
-      - [Titre V : SANCTIONS (art. R451-1 à R453-1)](#632)
-        - [Chapitre Ier : Conformité (art. R451-1 à R451-3)](#633)
-        - [Chapitre II : Sécurité (art. R452-1 à R452-4)](#634)
-        - [Chapitre III : Valorisation des produits et services (art. R453-1)](#635)
-    - [Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES (art. D512-6 à R542-2)](#636)
-      - [Titre Ier : RECHERCHE ET CONSTATATION (art. D512-6 à R512-42)](#637)
-        - [Chapitre II : Pouvoirs d'enquête (art. D512-6 à R512-42)](#638)
-          - [Section 1 : Pouvoirs d'enquête ordinaires (art. D512-6 à R512-38)](#639)
-            - [Sous-section 1 : Dispositions communes (art. D512-6 à R512-5)](#640)
-            - [Sous-section 2 : Recueil de renseignements et de documents (art. R512-7)](#641)
-            - [Sous-section 3 : Contrôle de la vente de biens et de la fourniture de services sur internet (art. R512-8)](#642)
-            - [Sous-section 4 : Prélèvements (art. R512-9 à R512-24)](#643)
-              - [Paragraphe 1 : Dispositions communes (art. R512-9 à R512-16)](#644)
-              - [Paragraphe 2 : Prélèvement en trois échantillons (art. R512-17)](#645)
-              - [Paragraphe 3 : Prélèvement en deux échantillons (art. R512-18)](#646)
-              - [Paragraphe 4 : Prélèvement en un échantillon (art. R512-19 à R512-23)](#647)
-              - [Paragraphe 5 : Prélèvement administratif (art. R512-24)](#648)
-            - [Sous-section 5 : Contrôle des produits avant mise en libre pratique (art. R512-25 à R512-29)](#649)
-            - [Sous-section 6 : Essais et analyses (art. R512-30 à R512-38)](#650)
-          - [Section 2 : Opérations de visites et saisies (art. R512-39 à R512-42)](#651)
-      - [Titre II : MESURES CONSÉCUTIVES AUX CONTRÔLES (art. R521-1 à R525-3)](#652)
-        - [Chapitre Ier : Mesures de police administrative (art. R521-1 à R521-3)](#653)
-          - [Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit (art. R521-1 à R521-2)](#654)
-          - [Section 2 : Conformité et sécurité des produits et services (art. D521-4 à R521-3)](#655)
-        - [Chapitre II : Procédure de sanctions administratives (art. R522-1 à R522-9)](#656)
-          - [Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit (art. R522-1 à R522-6)](#657)
-          - [Section 2 : Conformité et sécurité des produits et services (art. R522-7 à R522-9)](#658)
-        - [Chapitre III : Transaction (art. R523-1 à R523-4)](#659)
-        - [Chapitre IV : Saisine de la juridiction civile ou administrative (art. R524-1)](#660)
-        - [Chapitre V : Procédures devant les juridictions (art. R525-1 à R525-3)](#661)
-      - [Titre III : SANCTIONS (art. R531-1 à R532-2)](#662)
-        - [Chapitre Ier : Recherche et constatation (art. R531-1 à R531-3)](#663)
-          - [Section 1 : Sanctions pénales (art. R531-1 à R531-2)](#664)
-          - [Section 2 : Sanctions administratives (art. R531-3)](#665)
-        - [Chapitre II : Mesures consécutives aux contrôles (art. R532-1 à R532-2)](#666)
-      - [Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R541-1 à R542-2)](#667)
-        - [Chapitre Ier : Recherche et constatation (art. R541-1 à R541-2)](#668)
-        - [Chapitre II : Mesures consécutives aux contrôles (art. R542-1 à R542-2)](#669)
-    - [Livre VI : RÈGLEMENT DES LITIGES (art. R612-1 à R652-2)](#670)
-      - [Titre Ier : MÉDIATION (art. R612-1 à R616-2)](#671)
-        - [Chapitre II : Processus de médiation des litiges de consommation (art. R612-1 à R612-5)](#672)
-        - [Chapitre III : Statut du médiateur de la consommation (art. D613-2 à R613-1)](#673)
-        - [Chapitre IV : Obligations de communication du médiateur de la consommation (art. R614-1 à R614-4)](#674)
-        - [Chapitre V : Commission d'évaluation et de contrôle de la médiation de la consommation (art. R615-1 à R615-11)](#675)
-        - [Chapitre VI : Information et assistance du consommateur (art. R616-1 à R616-2)](#676)
-      - [Titre II : ACTIONS EN JUSTICE DES ASSOCIATIONS DE DÉFENSE DES CONSOMMATEURS (art. R622-1 à R623-33)](#677)
-        - [Chapitre II : Action en représentation conjointe (art. R622-1 à R622-10)](#678)
-        - [Chapitre III : Action de groupe (art. R623-1 à R623-33)](#679)
-          - [Section 1 : Introduction de l'action et règles de procédure (art. R623-1 à R623-5)](#680)
-          - [Section 2 : Jugement sur la responsabilité (art. R623-6 à R623-10)](#681)
-          - [Section 3 : Procédure d'action de groupe simplifiée (art. R623-11 à R623-15)](#682)
-          - [Section 4 : Mise en œuvre du jugement, réparation des préjudices et exécution forcée (art. R623-16 à R623-29)](#683)
-            - [Paragraphe 1 : Mesures d'information des consommateurs (art. R623-16)](#684)
-            - [Paragraphe 2 : Adhésion au groupe (art. R623-17 à R623-22)](#685)
-            - [Paragraphe 3 : Réparation des préjudices et règlement des différends (art. R623-23 à R623-25)](#686)
-            - [Paragraphe 4 : Liquidation judiciaire et réparation forcée des préjudices (art. R623-26 à R623-29)](#687)
-          - [Section 5 : Substitution (art. R623-30 à R623-33)](#688)
-      - [Titre III : COMPÉTENCE DU JUGE (art. R631-1 à R632-1)](#689)
-        - [Chapitre Ier : Règles applicables aux litiges civils (art. R631-1 à R631-4)](#690)
-        - [Chapitre II : Office du juge (art. R632-1)](#691)
-      - [Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R652-1 à R652-2)](#692)
-        - [Chapitre II : Action de groupe (art. R652-1 à R652-2)](#693)
-    - [Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R711-1 à R771-6)](#694)
-      - [Titre Ier : DISPOSITIONS GÉNÉRALES RELATIVES AU TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R711-1 à R713-11)](#695)
-        - [Chapitre Ier : Définition et champ d'application (art. R711-1 à R711-2)](#696)
-        - [Chapitre II : Les commissions de surendettement des particuliers (art. R712-1 à R712-20)](#697)
-          - [Section 1 : Organisation et fonctionnement (art. R712-1 à R712-12)](#698)
-          - [Section 2 : Procédures devant les commissions (art. R712-13 à R712-20)](#699)
-        - [Chapitre III : Compétence du juge du tribunal d'instance (art. R713-1 à R713-11)](#700)
-      - [Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT (art. R721-1 à R724-8)](#701)
-        - [Chapitre Ier : Saisine de la commission de surendettement des particuliers (art. R721-1 à R721-8)](#702)
-        - [Chapitre II : Recevabilité de la demande (art. R722-1 à R722-11)](#703)
-          - [Section 1 : Examen de la recevabilité de la demande (art. R722-1 à R722-4)](#704)
-          - [Section 2 : Effets de la décision de recevabilité (art. R722-5 à R722-11)](#705)
-            - [Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R722-5 à R722-8)](#706)
-            - [Sous-section 2 : Suspension des mesures d'expulsion (art. R722-9 à R722-10)](#707)
-            - [Sous-section 3 : Emoluments supportés par le débiteur (art. R722-11)](#708)
-        - [Chapitre III : Etat du passif (art. R723-1 à R723-8)](#709)
-          - [Section 1 : Etat du passif dressé par la commission (art. R723-1 à R723-5)](#710)
-          - [Section 2 : Vérification des créances (art. R723-6 à R723-8)](#711)
-        - [Chapitre IV : Orientation du dossier (art. R724-1 à R724-8)](#712)
-      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R731-1 à R733-18)](#713)
-        - [Chapitre Ier : Détermination de la capacité de remboursement (art. R731-1 à R731-3)](#714)
-        - [Chapitre II : Plan conventionnel (art. R732-1 à R732-2)](#715)
-        - [Chapitre III : Mesures imposées ou recommandées (art. R733-1 à R733-18)](#716)
-          - [Section 1 : Contenu et adoption des mesures imposées ou recommandées (art. R733-1 à R733-13)](#717)
-          - [Section 2 : Contestation des mesures imposées ou recommandées (art. R733-14 à R733-17)](#718)
-          - [Section 3 : Dispositions communes aux mesures recommandées ou imposées (art. R733-18)](#719)
-      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. R741-1 à R743-2)](#720)
-        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-18)](#721)
-          - [Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-9)](#722)
-          - [Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art. R741-10 à R741-14)](#723)
-          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation (art. R741-15 à R741-18)](#724)
-        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. R742-1 à R742-57)](#725)
-          - [Section 1 : Ouverture de la procédure (art. R742-1 à R742-10)](#726)
-          - [Section 2 : Déclaration et arrêté des créances (art. R742-11 à R742-17)](#727)
-          - [Section 3 : Liquidation des biens du débiteur (art. R742-18 à R742-52)](#728)
-            - [Sous-section 1 : Dispositions générales (art. R742-18 à R742-26)](#729)
-            - [Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R742-27 à R742-41)](#730)
-            - [Sous-section 3 : Répartition du produit des actifs (art. R742-42 à R742-52)](#731)
-          - [Section 4 : Clôture de la procédure (art. R742-53 à R742-55)](#732)
-          - [Section 5 : Plan (art. R742-56 à R742-57)](#733)
-        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. R743-1 à R743-2)](#734)
-      - [Titre VI : SANCTIONS (art. R761-1)](#735)
-        - [Chapitre Ier : Sanctions civiles (art. R761-1)](#736)
-      - [Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R771-1 à R771-6)](#737)
-        - [Chapitre unique : Traitement des situations de surendettement (art. R771-1 à R771-6)](#738)
-          - [Section 1 : Dispositions relatives aux îles Wallis et Futuna (art. R771-1 à R771-2)](#739)
-          - [Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin (art. R771-3 à R771-4)](#740)
-          - [Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon (art. R771-5 à R771-6)](#741)
-    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R811-1 à D825-4)](#742)
-      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. R811-1 à R812-3)](#743)
-        - [Chapitre Ier : Agrément des associations (art. R811-1 à R811-7)](#744)
-        - [Chapitre II : Reconnaissance spécifique des associations (art. R812-1 à R812-3)](#745)
-      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. D821-1 à D825-4)](#746)
-        - [Chapitre Ier : Conseil national de la consommation (art. D821-1 à D821-17)](#747)
-          - [Section 1 : Missions et attributions (art. D821-1 à D821-4)](#748)
-          - [Section 2 : Composition et organisation (art. D821-5 à D821-11)](#749)
-          - [Section 3 : Fonctionnement (art. D821-12 à D821-17)](#750)
-        - [Chapitre II : Institut national de la consommation (art. R822-1 à R822-32)](#751)
-          - [Section 1 : Missions et fonctionnement (art. R822-1 à R822-12)](#752)
-          - [Section 2 : Organes consultatifs (art. R822-13)](#753)
-          - [Section 3 : Dispositions financières et comptables (art. R822-14 à R822-17)](#754)
-          - [Section 4 : Commission des clauses abusives (art. R822-18 à R822-32)](#755)
-        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. R823-1 à R823-20)](#756)
-          - [Section 1 : Organisation et fonctionnement (art. R823-1 à R823-14)](#757)
-          - [Section 2 : Dispositions financières et comptables (art. R823-15 à R823-19)](#758)
-          - [Section 3 : Dispositions diverses (art. R823-20)](#759)
-        - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#760)
-        - [Chapitre V : Groupe interministériel de la consommation (art. D825-1 à D825-4)](#761)
-    - [Annexes (art. Annexe à l'article D312-26 à Annexe à l'article R314-20)](#762)
+        - [Chapitre II : Plan conventionnel (art. L732-1 à L732-3)](#437)
+        - [Chapitre III : Mesures imposées ou recommandées (art.  à L732-3)](#438)
+          - [Section 1 : Contenu et adoption des mesures imposées ou recommandées (art.  à L732-3)](#439)
+        - [Chapitre III : Mesures imposées (art. L733-1 à L733-17)](#440)
+          - [Section 1 : Contenu et adoption des mesures imposées (art. L733-1 à L733-9)](#441)
+          - [Section 2 : Contestation des mesures imposées (art. L733-10 à L733-14)](#442)
+          - [Section 3 : Dispositions communes aux mesures imposées et à leur contestation (art. L733-15 à L733-17)](#443)
+      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. L741-1 à L743-2)](#444)
+        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. L741-1 à L741-9)](#445)
+          - [Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. L741-1 à L741-3)](#446)
+          - [Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. L741-4 à L741-6)](#447)
+          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées (art. L741-7 à L741-9)](#448)
+        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. L742-1 à L742-25)](#449)
+          - [Section 1 : Ouverture de la procédure (art. L742-1 à L742-9)](#450)
+          - [Section 2 : Déclaration et arrêté des créances (art. L742-10 à L742-13)](#451)
+          - [Section 3 : Liquidation des biens du débiteur (art. L742-14 à L742-19)](#452)
+          - [Section 4 : Clôture de la procédure (art. L742-20 à L742-23)](#453)
+          - [Section 5 : Plan (art. L742-24 à L742-25)](#454)
+        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. L743-1 à L743-2)](#455)
+      - [Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS (art. L751-1 à L752-3)](#456)
+        - [Chapitre Ier : Objet du fichier (art. L751-1 à L751-6)](#457)
+        - [Chapitre II : Inscription et radiation (art. L752-1 à L752-3)](#458)
+      - [Titre VI : SANCTIONS (art. L761-1 à L762-2)](#459)
+        - [Chapitre Ier : Sanctions civiles (art. L761-1 à L761-2)](#460)
+        - [Chapitre II : Sanctions pénales (art. L762-1 à L762-2)](#461)
+      - [Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L771-1 à L771-12)](#462)
+        - [Chapitre unique : Traitement des situations de surendettement (art. L771-1 à L771-12)](#463)
+          - [Section 1 : Dispositions relatives aux îles Wallis et Futuna (art. L771-1 à L771-3)](#464)
+          - [Section 2 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie (art. L771-4 à L771-7)](#465)
+          - [Section 3 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin (art. L771-8 à L771-9)](#466)
+          - [Section 4 : Dispositions relatives à Saint-Pierre-et-Miquelon (art. L771-10 à L771-11)](#467)
+          - [Section 5 : Dispositions communes (art. L771-12)](#468)
+    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. L811-1 à L823-2)](#469)
+      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. L811-1 à L811-2)](#470)
+        - [Chapitre Ier : Agrément des associations (art. L811-1 à L811-2)](#471)
+      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. L822-1 à L823-2)](#472)
+        - [Chapitre II : Institut national de la consommation (art. L822-1 à L822-11)](#473)
+          - [Section 1 : Organisation et missions (art. L822-1 à L822-3)](#474)
+          - [Section 2 : Les commissions placées auprès de l'Institut national de la consommation (art. L822-4 à L822-11)](#475)
+        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. L823-1 à L823-2)](#476)
+  - [Partie réglementaire nouvelle (art. D111-4 à Annexe à l'article R314-20)](#477)
+    - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. D111-4 à R132-3)](#478)
+      - [Titre Ier : INFORMATION DES CONSOMMATEURS (art. D111-4 à D113-1)](#479)
+        - [Chapitre Ier : Obligation générale d'information précontractuelle (art. D111-4 à R111-3)](#480)
+        - [Chapitre II : Information sur les prix et conditions de vente (art. R112-1 à R112-4)](#481)
+        - [Chapitre III : Information sur les conditions sociales de fabrication des produits (art. D113-1)](#482)
+      - [Titre II : PRATIQUES COMMERCIALES INTERDITES ET PRATIQUES COMMERCIALES RÉGLEMENTÉES (art. R121-1 à D122-3)](#483)
+        - [Chapitre Ier : Pratiques commerciales interdites (art. R121-1)](#484)
+        - [Chapitre II : Pratiques commerciales réglementées (art. D122-1 à D122-3)](#485)
+          - [Section unique : Utilisation de la mention “fait maison” (art. D122-1 à D122-3)](#486)
+      - [Titre III : SANCTIONS (art. R131-1 à R132-3)](#487)
+        - [Chapitre Ier : Information des consommateurs (art. R131-1)](#488)
+        - [Chapitre II : Pratiques commerciales interdites et pratiques commerciales réglementées (art. R132-1 à R132-3)](#489)
+    - [Livre II : FORMATION ET EXÉCUTION DES CONTRATS (art. R212-1 à R252-1)](#490)
+      - [Titre Ier : CONDITIONS GÉNÉRALES DES CONTRATS (art. R212-1 à D213-2)](#491)
+        - [Chapitre II : Clauses abusives (art. R212-1 à R212-5)](#492)
+        - [Chapitre III : Conservation des contrats conclus par voie électronique (art. D213-1 à D213-2)](#493)
+      - [Titre II : RÈGLES DE FORMATION ET D'EXÉCUTION DE CERTAINS CONTRATS (art. R221-1 à D224-29)](#494)
+        - [Chapitre Ier : Contrat conclus à distance et hors établissement (art. R221-1 à R221-4)](#495)
+        - [Chapitre II : Dispositions particulières aux contrats conclus à distance portant sur des services financiers (art. R222-1 à R222-4)](#496)
+        - [Chapitre III : Opposition au démarchage téléphonique (art. R223-1 à R223-8)](#497)
+        - [Chapitre IV : Règles spécifiques à des contrats ayant un objet particulier (art. R224-1 à D224-29)](#498)
+          - [Section 1 : Contrats de courtage matrimonial (art. R224-1 à R224-3)](#499)
+          - [Section 2 : Contrats d'achats de métaux précieux (art. R224-4 à R224-7)](#500)
+          - [Section 3 : Contrats dans les domaines bancaire, financier et des assurances (art. R224-8 à R224-10)](#501)
+          - [Section 4 : Enseignement (art. R224-11)](#502)
+          - [Section 5 : Contrats portant sur les voyages à forfait (art. R224-12)](#503)
+          - [Section 6 : Contrats de prestations de soins médicaux (art. D224-13)](#504)
+          - [Section 7 : Contrats d'hébergement de personnes âgées et services d'aide et d'assistance à domicile (art. R224-14 à R224-15)](#505)
+          - [Section 8 : Contrats de services funéraires (art. R224-16)](#506)
+          - [Section 9 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques (art. D224-17 à D224-21)](#507)
+          - [Section 10 : Entretien et réparation automobiles (art. R224-22 à R224-25)](#508)
+          - [Section 11 : Accès aux données de consommation d'électricité ou de gaz naturel (art. D224-26 à D224-29)](#509)
+      - [Titre IV : SANCTIONS (art. R242-1 à R242-20)](#510)
+        - [Chapitre II : Règles de formation et d'exécution de certains contrats (art. R242-1 à R242-20)](#511)
+          - [Section 1 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers (art. R242-1 à R242-5)](#512)
+          - [Section 2 : Dispositions spécifiques à des contrats ayant un objet particulier (art. R242-6 à R242-20)](#513)
+            - [Sous-section 1 : Contrats de fournitures d'électricité ou de gaz naturel (art. R242-6 à R242-15)](#514)
+            - [Sous-section 2 : Contrats de courtage matrimonial (art. R242-16 à R242-20)](#515)
+      - [Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R252-1)](#516)
+        - [Chapitre II : Règles de formation et d'exécution des contrats (art. R252-1)](#517)
+    - [Livre III : CRÉDIT (art. D312-1 à R354-5)](#518)
+      - [Titre Ier : OPÉRATIONS DE CRÉDIT (art. D312-1 à R315-2)](#519)
+        - [Chapitre II : Crédit à la consommation (art. D312-1 à R312-35)](#520)
+          - [Section 1 : Publicité (art. D312-1)](#521)
+          - [Section 2 : Information précontractuelle de l'emprunteur (art. R312-2 à R312-6)](#522)
+          - [Section 3 : Explications à fournir à l'emprunteur et évaluation de sa solvabilité (art. D312-7 à D312-8)](#523)
+          - [Section 4 : Formation du contrat de crédit (art. R312-9)](#524)
+          - [Section 5 : Informations mentionnées dans le contrat (art. R312-10 à R312-14)](#525)
+          - [Section 6 : Exécution du contrat de crédit (art. D312-15 à D312-19)](#526)
+            - [Sous-section 1 : Remboursement anticipé (art. D312-15)](#527)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. D312-16 à D312-19)](#528)
+          - [Section 7 : Crédit affecté (art. R312-20)](#529)
+          - [Section 8 : Crédit renouvelable (art. D312-21 à D312-31)](#530)
+          - [Section 9 : Opérations de découvert en compte (art. R312-32 à R312-34)](#531)
+          - [Section 10 : Procédure (art. R312-35)](#532)
+        - [Chapitre III : Crédit immobilier (art. R313-1 à R313-33)](#533)
+          - [Section 1 : Publicité et informations générales (art. R313-1 à R313-3)](#534)
+            - [Sous-section unique :  Publicité et informations générales (art. R313-1 à R313-3)](#535)
+              - [Paragraphe 1 : Publicité (art. R313-1 à R313-2)](#536)
+              - [Paragraphe 2 : Informations générales (art. R313-3)](#537)
+          - [Section 2 : Information précontractuelle de l'emprunteur (art. R313-4 à R313-10)](#538)
+            - [Sous-section 1 : Fiche d'informations standardisées européenne (art. R313-4 à R313-7)](#539)
+            - [Sous-section 2 : Information relative à l'assurance emprunteur (art. R313-8 à R313-10)](#540)
+          - [Section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R313-11 à R313-19)](#541)
+            - [Sous-section 1 : Service de conseil (art. R313-11 à R313-12)](#542)
+            - [Sous-section 2 : Evaluation de la solvabilité (art. R313-13 à R313-16)](#543)
+            - [Sous-section 3 : Evaluation du bien immobilier (art. D313-20 à R313-19)](#544)
+          - [Section 4 : Formation du contrat de crédit (art. R313-21 à R313-24)](#545)
+          - [Section 5 : Exécution du contrat de crédit (art. R313-25 à R313-28)](#546)
+            - [Sous-section 1 : Remboursement anticipé (art. R313-25)](#547)
+            - [Sous-section 2 : Défaillance de l'emprunteur (art. R313-26 à R313-28)](#548)
+          - [Section 6 : Location-vente et location assortie d'une promesse de vente (art. D313-29)](#549)
+          - [Section 7 : Prêts libellés dans une devise autre que l'euro (art. R313-30 à R313-32)](#550)
+          - [Section 8 : Procédure (art. R313-33)](#551)
+        - [Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R314-1 à D314-29)](#552)
+          - [Section 1 : Taux d'intérêt (art. R314-1 à D314-17)](#553)
+            - [Sous-section 1 : Taux effectif global (art. R314-1 à R314-14)](#554)
+            - [Sous-section 2 : Taux d'usure (art. D314-15 à D314-17)](#555)
+          - [Section 2 : Regroupement de crédits (art. R314-18 à R314-21)](#556)
+          - [Section 3 : Formation du prêteur et de l'intermédiaire (art. D314-22 à D314-29)](#557)
+        - [Chapitre V : Prêt viager hypothécaire (art. R315-1 à R315-2)](#558)
+      - [Titre IV : SANCTIONS (art. R341-1 à R341-27)](#559)
+        - [Chapitre Ier : Opérations de crédit (art. R341-1 à R341-27)](#560)
+          - [Section 1 : Crédit à la consommation (art. R341-1 à R341-19)](#561)
+            - [Sous-section 1 : Publicité (art. R341-1)](#562)
+            - [Sous-section 2 : Information précontractuelle de l'emprunteur (art. R341-2)](#563)
+            - [Sous-section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R341-3)](#564)
+            - [Sous-section 4 : Formation du contrat de crédit (art. R341-4)](#565)
+            - [Sous-section 5 : Informations mentionnées dans le contrat (art. R341-5)](#566)
+            - [Sous-section 6 : Exécution du contrat (art. R341-6)](#567)
+            - [Sous-section 7 : Crédit gratuit (art. R341-7 à R341-9)](#568)
+            - [Sous-section 8 : Crédit affecté (art. R341-10 à R341-11)](#569)
+            - [Sous-section 9 : Crédit renouvelable (art. R341-12 à R341-19)](#570)
+          - [Section 2 : Crédit immobilier (art. R341-20 à R341-23)](#571)
+            - [Sous-section 1 : Information précontractuelle de l'emprunteur (art. R341-20)](#572)
+            - [Sous-section 2 : Explications fournies à l'emprunteur et évaluation de sa solvabilité (art. R341-21 à R341-22)](#573)
+            - [Sous-section 3 : Exécution du contrat de crédit (art. R341-23)](#574)
+          - [Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. R341-24 à R341-27)](#575)
+      - [Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D351-1 à R354-5)](#576)
+        - [Chapitre Ier : Opérations de crédit (art. D351-1 à R351-9)](#577)
+          - [Section 1 : Crédit à la consommation (art. D351-1 à R351-3)](#578)
+          - [Section 2 : Dispositions communes au crédit à la consommation et au crédit immobilier (art. D351-6 à R351-9)](#579)
+            - [Sous-section 1 : Dispositions applicables en en Polynésie française et en Nouvelle-Calédonie (art. D351-6 à R351-5)](#580)
+            - [Sous-section 2 : Dispositions applicables dans les îles Wallis et Futuna (art. D351-10 à R351-9)](#581)
+        - [Chapitre IV : Sanctions (art. R354-1 à R354-5)](#582)
+          - [Section 1 : Sanctions relatives au crédit à la consommation (art. R354-1)](#583)
+          - [Section 2 : Sanctions communes au crédit immobilier et au crédit à la consommation (art. R354-2 à R354-5)](#584)
+            - [Sous-section 1 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie (art. R354-2 à R354-3)](#585)
+            - [Sous-section 2 : Dispositions applicables dans les îles Wallis et Futuna (art. R354-4 à R354-5)](#586)
+    - [Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES (art. R412-1 à R453-1)](#587)
+      - [Titre Ier : CONFORMITÉ (art. R412-1 à R414-6)](#588)
+        - [Chapitre II : Mesures d'application (art. R412-1 à R412-57)](#589)
+          - [Section 1 : Mesures générales (art. R412-1)](#590)
+          - [Section 2 : Modes de présentation et étiquetage (art. R412-2 à R412-10)](#591)
+            - [Sous-section 1 : Produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou de spécialité traditionnelle garantie (art. R412-2)](#592)
+            - [Sous-section 2 : Identification du lot (art. R412-3 à R412-6)](#593)
+            - [Sous-section 3 : Dispositions particulières (art. R412-7 à R412-10)](#594)
+          - [Section 3 : Dispositions relatives aux denrées non préemballées (art. R412-11 à R412-16)](#595)
+            - [Sous-section 1 : Dénomination de vente (art. R412-11)](#596)
+            - [Sous-section 2 : Information relative à la présence de substances ou produits provoquant des allergies ou intolérances (art. R412-12 à R412-16)](#597)
+          - [Section 4 : Règlements de l'Union européenne constituant des mesures d'exécution de l'article L. 412-1 (art. R412-17 à R412-43)](#598)
+            - [Sous-section 1 : Dispositions générales (art. R412-17)](#599)
+            - [Sous-section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux (art. R412-18)](#600)
+            - [Sous-section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires (art. R412-19)](#601)
+            - [Sous-section 4 : Organismes génétiquement modifiés (art. R412-20)](#602)
+            - [Sous-section 5 : Boissons alcoolisées (art. R412-21)](#603)
+            - [Sous-section 6 : Additifs, enzymes, arômes destinés à l'alimentation humaine (art. R412-22)](#604)
+            - [Sous-section 7 : Adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires (art. R412-23)](#605)
+            - [Sous-section 8 : Contaminants (art. R412-24)](#606)
+            - [Sous-section 9 : Fruits et légumes (art. R412-25)](#607)
+            - [Sous-section 10 : Huile d'olive et olives de table (art. R412-26)](#608)
+            - [Sous-section 11 : Œufs et viande de volaille (art. R412-27)](#609)
+            - [Sous-section 12 : Produits laitiers, colostrum et matières grasses laitières ou non (art. R412-28)](#610)
+            - [Sous-section 13 : Produits de la pêche (art. R412-29)](#611)
+            - [Sous-section 14 : Viandes bovine, ovine et porcine (art. R412-30)](#612)
+            - [Sous-section 15 : Viande hachée et produits à base de viande (art. R412-31)](#613)
+            - [Sous-section 16 : Collagènes et gélatine (art. R412-32)](#614)
+            - [Sous-section 17 : Modes de valorisation (art. R412-33)](#615)
+            - [Sous-section 18 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale (art. R412-34)](#616)
+            - [Sous-section 19 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées (art. R412-35)](#617)
+            - [Sous-section 20 : Contrôles officiels renforcés à l'importation (art. R412-36)](#618)
+            - [Sous-section 21 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 6° de l'article L. 412-1 (art. R412-37)](#619)
+            - [Sous-section 22 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires (art. R412-38)](#620)
+            - [Sous-section 23 : Alimentation des animaux (art. R412-39)](#621)
+            - [Sous-section 24 : Engrais (art. R412-40)](#622)
+            - [Sous-section 25 : Détergents (art. R412-41)](#623)
+            - [Sous-section 26 : Fibres et produits textiles (art. R412-42)](#624)
+            - [Sous-section 27 : Produits de construction (art. R412-43)](#625)
+          - [Section 5 : Dispositions spécifiques à certains produits (art. R412-44 à R412-48)](#626)
+          - [Section 6 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs (art. R412-49 à R412-57)](#627)
+        - [Chapitre IV : Dispositions relatives à certains établissements (art. R414-1 à R414-6)](#628)
+      - [Titre II : SÉCURITÉ (art. R422-1)](#629)
+        - [Chapitre II : Mesures d'application (art. R422-1)](#630)
+      - [Titre III : VALORISATION DES PRODUITS ET SERVICES (art. R431-1 à R433-2)](#631)
+        - [Chapitre Ier : Appellations d'origine (art. R431-1 à R431-5)](#632)
+        - [Chapitre III : Certification de conformité (art. R433-1 à R433-2)](#633)
+      - [Titre V : SANCTIONS (art. R451-1 à R453-1)](#634)
+        - [Chapitre Ier : Conformité (art. R451-1 à R451-3)](#635)
+        - [Chapitre II : Sécurité (art. R452-1 à R452-4)](#636)
+        - [Chapitre III : Valorisation des produits et services (art. R453-1)](#637)
+    - [Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES (art. D512-6 à R542-2)](#638)
+      - [Titre Ier : RECHERCHE ET CONSTATATION (art. D512-6 à R512-42)](#639)
+        - [Chapitre II : Pouvoirs d'enquête (art. D512-6 à R512-42)](#640)
+          - [Section 1 : Pouvoirs d'enquête ordinaires (art. D512-6 à R512-38)](#641)
+            - [Sous-section 1 : Dispositions communes (art. D512-6 à R512-5)](#642)
+            - [Sous-section 2 : Recueil de renseignements et de documents (art. R512-7)](#643)
+            - [Sous-section 3 : Contrôle de la vente de biens et de la fourniture de services sur internet (art. R512-8)](#644)
+            - [Sous-section 4 : Prélèvements (art. R512-9 à R512-24)](#645)
+              - [Paragraphe 1 : Dispositions communes (art. R512-9 à R512-16)](#646)
+              - [Paragraphe 2 : Prélèvement en trois échantillons (art. R512-17)](#647)
+              - [Paragraphe 3 : Prélèvement en deux échantillons (art. R512-18)](#648)
+              - [Paragraphe 4 : Prélèvement en un échantillon (art. R512-19 à R512-23)](#649)
+              - [Paragraphe 5 : Prélèvement administratif (art. R512-24)](#650)
+            - [Sous-section 5 : Contrôle des produits avant mise en libre pratique (art. R512-25 à R512-29)](#651)
+            - [Sous-section 6 : Essais et analyses (art. R512-30 à R512-38)](#652)
+          - [Section 2 : Opérations de visites et saisies (art. R512-39 à R512-42)](#653)
+      - [Titre II : MESURES CONSÉCUTIVES AUX CONTRÔLES (art. R521-1 à R525-3)](#654)
+        - [Chapitre Ier : Mesures de police administrative (art. R521-1 à R521-3)](#655)
+          - [Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit (art. R521-1 à R521-2)](#656)
+          - [Section 2 : Conformité et sécurité des produits et services (art. D521-4 à R521-3)](#657)
+        - [Chapitre II : Procédure de sanctions administratives (art. R522-1 à R522-9)](#658)
+          - [Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit (art. R522-1 à R522-6)](#659)
+          - [Section 2 : Conformité et sécurité des produits et services (art. R522-7 à R522-9)](#660)
+        - [Chapitre III : Transaction (art. R523-1 à R523-4)](#661)
+        - [Chapitre IV : Saisine de la juridiction civile ou administrative (art. R524-1)](#662)
+        - [Chapitre V : Procédures devant les juridictions (art. R525-1 à R525-3)](#663)
+      - [Titre III : SANCTIONS (art. R531-1 à R532-2)](#664)
+        - [Chapitre Ier : Recherche et constatation (art. R531-1 à R531-3)](#665)
+          - [Section 1 : Sanctions pénales (art. R531-1 à R531-2)](#666)
+          - [Section 2 : Sanctions administratives (art. R531-3)](#667)
+        - [Chapitre II : Mesures consécutives aux contrôles (art. R532-1 à R532-2)](#668)
+      - [Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R541-1 à R542-2)](#669)
+        - [Chapitre Ier : Recherche et constatation (art. R541-1 à R541-2)](#670)
+        - [Chapitre II : Mesures consécutives aux contrôles (art. R542-1 à R542-2)](#671)
+    - [Livre VI : RÈGLEMENT DES LITIGES (art. R612-1 à R652-2)](#672)
+      - [Titre Ier : MÉDIATION (art. R612-1 à R616-2)](#673)
+        - [Chapitre II : Processus de médiation des litiges de consommation (art. R612-1 à R612-5)](#674)
+        - [Chapitre III : Statut du médiateur de la consommation (art. D613-2 à R613-1)](#675)
+        - [Chapitre IV : Obligations de communication du médiateur de la consommation (art. R614-1 à R614-4)](#676)
+        - [Chapitre V : Commission d'évaluation et de contrôle de la médiation de la consommation (art. R615-1 à R615-11)](#677)
+        - [Chapitre VI : Information et assistance du consommateur (art. R616-1 à R616-2)](#678)
+      - [Titre II : ACTIONS EN JUSTICE DES ASSOCIATIONS DE DÉFENSE DES CONSOMMATEURS (art. R622-1 à R623-33)](#679)
+        - [Chapitre II : Action en représentation conjointe (art. R622-1 à R622-10)](#680)
+        - [Chapitre III : Action de groupe (art. R623-1 à R623-33)](#681)
+          - [Section 1 : Introduction de l'action et règles de procédure (art. R623-1 à R623-5)](#682)
+          - [Section 2 : Jugement sur la responsabilité (art. R623-6 à R623-10)](#683)
+          - [Section 3 : Procédure d'action de groupe simplifiée (art. R623-11 à R623-15)](#684)
+          - [Section 4 : Mise en œuvre du jugement, réparation des préjudices et exécution forcée (art. R623-16 à R623-29)](#685)
+            - [Paragraphe 1 : Mesures d'information des consommateurs (art. R623-16)](#686)
+            - [Paragraphe 2 : Adhésion au groupe (art. R623-17 à R623-22)](#687)
+            - [Paragraphe 3 : Réparation des préjudices et règlement des différends (art. R623-23 à R623-25)](#688)
+            - [Paragraphe 4 : Liquidation judiciaire et réparation forcée des préjudices (art. R623-26 à R623-29)](#689)
+          - [Section 5 : Substitution (art. R623-30 à R623-33)](#690)
+      - [Titre III : COMPÉTENCE DU JUGE (art. R631-1 à R632-1)](#691)
+        - [Chapitre Ier : Règles applicables aux litiges civils (art. R631-1 à R631-4)](#692)
+        - [Chapitre II : Office du juge (art. R632-1)](#693)
+      - [Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R652-1 à R652-2)](#694)
+        - [Chapitre II : Action de groupe (art. R652-1 à R652-2)](#695)
+    - [Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R711-1 à R771-6)](#696)
+      - [Titre Ier : DISPOSITIONS GÉNÉRALES RELATIVES AU TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R711-1 à R713-11)](#697)
+        - [Chapitre Ier : Définition et champ d'application (art. R711-1 à R711-2)](#698)
+        - [Chapitre II : Les commissions de surendettement des particuliers (art. R712-1 à R712-20)](#699)
+          - [Section 1 : Organisation et fonctionnement (art. R712-1 à R712-12)](#700)
+          - [Section 2 : Procédures devant les commissions (art. R712-13 à R712-20)](#701)
+        - [Chapitre III : Compétence du juge du tribunal d'instance (art. R713-1 à R713-11)](#702)
+      - [Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT (art. R721-1 à R724-8)](#703)
+        - [Chapitre Ier : Saisine de la commission de surendettement des particuliers (art. R721-1 à R721-8)](#704)
+        - [Chapitre II : Recevabilité de la demande (art. R722-1 à R722-11)](#705)
+          - [Section 1 : Examen de la recevabilité de la demande (art. R722-1 à R722-4)](#706)
+          - [Section 2 : Effets de la décision de recevabilité (art. R722-5 à R722-11)](#707)
+            - [Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R722-5 à R722-8)](#708)
+            - [Sous-section 2 : Suspension des mesures d'expulsion (art. R722-9 à R722-10)](#709)
+            - [Sous-section 3 : Emoluments supportés par le débiteur (art. R722-11)](#710)
+        - [Chapitre III : Etat du passif (art. R723-1 à R723-8)](#711)
+          - [Section 1 : Etat du passif dressé par la commission (art. R723-1 à R723-5)](#712)
+          - [Section 2 : Vérification des créances (art. R723-6 à R723-8)](#713)
+        - [Chapitre IV : Orientation du dossier (art. R724-1 à R724-8)](#714)
+      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R731-1 à R733-18)](#715)
+        - [Chapitre Ier : Détermination de la capacité de remboursement (art. R731-1 à R731-3)](#716)
+        - [Chapitre II : Plan conventionnel (art. D732-3 à R732-2)](#717)
+        - [Chapitre III : Mesures imposées ou recommandées (art.  à R732-2)](#718)
+          - [Section 1 : Contenu et adoption des mesures imposées ou recommandées (art.  à R732-2)](#719)
+          - [Section 2 : Contestation des mesures imposées ou recommandées (art.  à R732-2)](#720)
+        - [Chapitre III : Mesures imposées (art. R733-1 à R733-18)](#721)
+          - [Section 1 : Contenu et adoption des mesures imposées (art. R733-1 à R733-9)](#722)
+          - [Section 2 : Contestation des mesures imposées (art. R733-14 à R733-17)](#723)
+          - [Section 3 : Dispositions communes aux mesures imposées et à leur contestation (art. R733-18)](#724)
+      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. R741-1 à R743-2)](#725)
+        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-18)](#726)
+          - [Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-5)](#727)
+          - [Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire (art.  à R741-5)](#728)
+          - [Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. R741-10 à R741-14)](#729)
+          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées (art. R741-15 à R741-18)](#730)
+        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. R742-1 à R742-57)](#731)
+          - [Section 1 : Ouverture de la procédure (art. R742-1 à R742-10)](#732)
+          - [Section 2 : Déclaration et arrêté des créances (art. R742-11 à R742-17)](#733)
+          - [Section 3 : Liquidation des biens du débiteur (art. R742-18 à R742-52)](#734)
+            - [Sous-section 1 : Dispositions générales (art. R742-18 à R742-26)](#735)
+            - [Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R742-27 à R742-41)](#736)
+            - [Sous-section 3 : Répartition du produit des actifs (art. R742-42 à R742-52)](#737)
+          - [Section 4 : Clôture de la procédure (art. R742-53 à R742-55)](#738)
+          - [Section 5 : Plan (art. R742-56 à R742-57)](#739)
+        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. R743-1 à R743-2)](#740)
+      - [Titre VI : SANCTIONS (art. R761-1)](#741)
+        - [Chapitre Ier : Sanctions civiles (art. R761-1)](#742)
+      - [Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R771-1 à R771-6)](#743)
+        - [Chapitre unique : Traitement des situations de surendettement (art. R771-1 à R771-6)](#744)
+          - [Section 1 : Dispositions relatives aux îles Wallis et Futuna (art. R771-1 à R771-2)](#745)
+          - [Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin (art. R771-3 à R771-4)](#746)
+          - [Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon (art. R771-5 à R771-6)](#747)
+    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R811-1 à D825-4)](#748)
+      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. R811-1 à R812-3)](#749)
+        - [Chapitre Ier : Agrément des associations (art. R811-1 à R811-7)](#750)
+        - [Chapitre II : Reconnaissance spécifique des associations (art. R812-1 à R812-3)](#751)
+      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. D821-1 à D825-4)](#752)
+        - [Chapitre Ier : Conseil national de la consommation (art. D821-1 à D821-17)](#753)
+          - [Section 1 : Missions et attributions (art. D821-1 à D821-4)](#754)
+          - [Section 2 : Composition et organisation (art. D821-5 à D821-11)](#755)
+          - [Section 3 : Fonctionnement (art. D821-12 à D821-17)](#756)
+        - [Chapitre II : Institut national de la consommation (art. R822-1 à R822-32)](#757)
+          - [Section 1 : Missions et fonctionnement (art. R822-1 à R822-12)](#758)
+          - [Section 2 : Organes consultatifs (art. R822-13)](#759)
+          - [Section 3 : Dispositions financières et comptables (art. R822-14 à R822-17)](#760)
+          - [Section 4 : Commission des clauses abusives (art. R822-18 à R822-32)](#761)
+        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. R823-1 à R823-20)](#762)
+          - [Section 1 : Organisation et fonctionnement (art. R823-1 à R823-14)](#763)
+          - [Section 2 : Dispositions financières et comptables (art. R823-15 à R823-19)](#764)
+          - [Section 3 : Dispositions diverses (art. R823-20)](#765)
+        - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#766)
+        - [Chapitre V : Groupe interministériel de la consommation (art. D825-1 à D825-4)](#767)
+    - [Annexes (art. Annexe à l'article D312-26 à Annexe à l'article R314-20)](#768)
 # Partie législative nouvelle<a id=1></a>
 
 ###### Article liminaire
@@ -978,59 +984,6 @@ _Cite_:
 _Anciens textes_:
 
   - Code de la consommation - art. L111-4, I (Ab)
-
-
-###### Article L111-6
-
-Sans préjudice des obligations d'information prévues à l'article 19 de la loi n° 2004-575 du 21 juin 2004 pour la confiance
-dans l'économie numérique, toute personne dont l'activité consiste en la fourniture d'informations en ligne permettant la
-comparaison des prix et des caractéristiques de biens et de services proposés par des professionnels est tenue d'apporter une
-information loyale, claire et transparente, y compris sur ce qui relève de la publicité au sens de l'article 20 de la même
-loi.
-
-Les modalités et le contenu de ces informations sont fixés par décret.
-
-**Nota:**
-
-Conformément à la loi n° 2016-1321 du 7 octobre 2016, article 49 II : A compter de l'entrée en vigueur des mesures
-réglementaires nécessaires à l'application de l'article L. 111-7 du code de la consommation, dans sa rédaction résultant du
-1° du I du présent article, l'article L. 111-6 du même code est abrogé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2004-575 du 21 juin 2004 - art. 19 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Abrogé par_:
-
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 49 (V)
-
-_Cité par_:
-
-  - Code de la consommation - art. D111-10 (V)
-  - Code de la consommation - art. D111-5 (MMN)
-  - Code de la consommation - art. D111-6 (MMN)
-  - Code de la consommation - art. D111-6 (V)
-  - Code de la consommation - art. D111-7 (MMN)
-  - Code de la consommation - art. D111-7 (VT)
-  - Code de la consommation - art. D111-8 (MMN)
-  - Code de la consommation - art. D111-8 (V)
-  - Code de la consommation - art. D111-9 (MMN)
-  - Code de la consommation - art. D111-9 (V)
-  - Code de la consommation - art. L131-3 (VD)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L111-5 (Ab)
 
 
 ###### Article L111-7
@@ -3082,43 +3035,6 @@ _Cite_:
 _Anciens textes_:
 
   - Code de la consommation - art. L111-6, sanction-pièces détachées (Ab)
-
-
-###### Article L131-3
-
-Tout manquement aux obligations d'informations mentionnées à l'article L. 111-6 en matière d'activité de fourniture
-d'informations en ligne permettant la comparaison de prix est passible d'une amende administrative dont le montant ne peut
-excéder 75 000 euros pour une personne physique et 375 000 euros pour une personne morale. 
-
-Cette amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V.
-
-**Nota:**
-
-Conformément à la loi n° 2016-1321 du 7 octobre 2016, article 49 II : A compter de l'entrée en vigueur des mesures
-réglementaires nécessaires à l'application de l'article L. 111-7 du code de la consommation, dans sa rédaction résultant du
-1° du I du présent article, l'article L. 131-3 du même code est abrogé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Abrogé par_:
-
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 49 (V)
-
-_Cite_:
-
-  - Code de la consommation - art. L111-6 (VD)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L111-6-1, sanction-comparateurs  (Ab)
 
 
 ###### Article L131-4
@@ -7433,8 +7349,8 @@ des services prévus dans le contrat ne sont pas atteints ;
 15° La possibilité de recourir à un médiateur de la consommation dans les conditions prévues au titre Ier du livre VI et les
 modes de règlement contentieux des litiges ; 
 
-16° Les conditions d'accès à la tarification spéciale " produit de première nécessité " pour l'électricité et au tarif
-spécial de solidarité pour le gaz naturel ; 
+16° Les conditions prévues à l'article L. 124-1 du code de l'énergie pour bénéficier du chèque énergie, ainsi que les
+modalités d'utilisation de ce chèque pour le paiement de la fourniture d'électricité ou de gaz naturel ; 
 
 17° Les coordonnées du site internet qui fournit gratuitement aux consommateurs soit directement, soit par l'intermédiaire de
 liens avec des sites internet d'organismes publics ou privés, les informations contenues dans l'aide-mémoire du consommateur
@@ -7443,13 +7359,9 @@ la consommation et de l'énergie.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
 
 _Cité par_:
 
@@ -7460,11 +7372,6 @@ _Cité par_:
   - Code de la consommation - art. L224-4 (VD)
   - Code de la consommation - art. L224-7 (VD)
   - Code de la consommation - art. R242-7 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L121-87 (MMN)
-  - Code de la consommation - art. L121-87, alinéas 1 à 18 (Ab)
 
 _Cite_:
 
@@ -7773,28 +7680,19 @@ _Cité par_:
 
 ###### Article L224-13
 
-Aucuns frais liés au rejet de paiement ne peuvent être imputés par un fournisseur d'électricité ou de gaz naturel aux
-consommateurs qui bénéficient de la tarification spéciale " produit de première nécessité " de l'électricité ou du tarif
-spécial de solidarité du gaz naturel.
+Aucuns frais liés au rejet de paiement ne peuvent être imputés par un fournisseur d'électricité et de gaz naturel aux
+personnes physiques n'agissant pas pour des besoins professionnels qui bénéficient du chèque énergie prévu à l'article L.
+124-1 du code de l'énergie.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2015-992 du 17 août 2015 - art. 201 (V)
 
 _Cité par_:
 
   - Code de l'énergie - art. R124-16 (VD)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L121-92-1 (Ab)
-  - Code de la consommation - art. L121-92-1 (MMN)
 
 
 ###### Article L224-14
@@ -16420,21 +16318,29 @@ articles L. 313-29 et L. 313-30 et précise les documents que doit contenir la d
 
 8° Fait état des conditions requises pour un transfert éventuel du prêt à une tierce personne ; 
 
-9° Rappelle les dispositions de l'article L. 313-34. 
+9° Rappelle les dispositions de l'article L. 313-34 ; 
+
+10° Indique si le prêt est subordonné à la condition de domiciliation mentionnée à l'article L. 313-25-1. Si c'est le cas,
+sont mentionnés la durée de celle-ci, le cas échéant les frais d'ouverture et de tenue du compte sur lequel les salaires ou
+revenus assimilés sont domiciliés, ainsi que la nature de l'avantage individualisé consenti en contrepartie par le prêteur.
+L'offre doit permettre d'identifier clairement cet avantage en mentionnant les conditions, de taux ou autres, au regard
+desquelles elle est établie, et qui seraient appliquées par le prêteur si l'exigence de domiciliation n'était plus respectée
+par l'emprunteur. 
 
 Le cas échéant, l'information relative aux différents contrats de crédit composant une opération de financement peut figurer
 dans l'offre.
 
 **Nota:**
 
-Conformément au II de l'article 82 de la loi n° 2016-1691 du 9 décembre 2016, le 7° du présent article, dans sa rédaction
-issue du I dudit article de ladite loi, s'applique aux offres formulées à compter du 1er janvier 2017.
+Conformément aux dispositions de l'article 3 de l'ordonnance n° 2017-1090 du 1er juin 2017, ces dispositions s'appliquent aux
+offres de prêt émises à compter du 1er janvier 2018 ainsi qu'aux avenants modifiant les contrats conclus à la suite de ces
+offres.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 82 (V)
+  - Ordonnance n°2017-1090 du 1er juin 2017 - art. 1
 
 _Cite_:
 
@@ -16447,6 +16353,48 @@ _Cité par_:
 
   - Code de la consommation - art. L313-25-1 (VD)
   - Code de la consommation - art. L313-26 (V)
+  - Code de la consommation - art. L313-39 (VD)
+
+
+###### Article L313-25-1
+
+Le prêteur peut conditionner l'offre de prêt mentionnée à l'article L. 313-24 à la domiciliation par l'emprunteur de ses
+salaires ou revenus assimilés sur un compte de paiement mentionné à l'article L. 314-1 du code monétaire et financier, sous
+réserve pour ce prêteur de faire bénéficier en contrepartie l'emprunteur d'un avantage individualisé. 
+
+Cette condition ne peut être imposée à l'emprunteur au-delà d'une durée maximale fixée par décret en Conseil d'Etat. Au terme
+du délai prévu par le contrat de crédit, l'avantage individualisé est acquis à l'emprunteur jusqu'à la fin du prêt. 
+
+Si, avant le terme de ce délai, l'emprunteur cesse de satisfaire à la condition de domiciliation susmentionnée, le prêteur
+peut mettre fin, pour les échéances restant à courir jusqu'au terme du prêt, à l'avantage individualisé mentionné au premier
+alinéa, et appliquer les conditions, de taux ou autres, mentionnées au 10° de l'article L. 313-25. 
+
+Les dispositions du présent article peuvent être appliquées à chacun des contrats de crédit composant l'opération de
+financement figurant dans l'offre de prêt.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 3 de l'ordonnance n° 2017-1090 du 1er juin 2017, ces dispositions s'appliquent aux
+offres de prêt émises à compter du 1er janvier 2018 ainsi qu'aux avenants modifiant les contrats conclus à la suite de ces
+offres.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1090 du 1er juin 2017 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L313-24
+  - Code monétaire et financier - art. L314-1 (V)
+
+_Cité par_:
+
+  - Code de la consommation - art. L313-25 (VD)
+  - Code de la consommation - art. L313-39 (VD)
+  - Code de la consommation - art. L341-34-1 (VD)
+  - Code de la consommation - art. R313-21-1 (VD)
 
 
 ###### Article L313-26
@@ -16835,6 +16783,12 @@ la base des seuls échéances et frais à venir. Pour les prêts à taux variabl
 effectif global (1) ainsi que le coût du crédit, calculés sur la base des seuls échéances et frais à venir jusqu'à la date de
 la révision du taux, ainsi que les conditions et modalités de variation du taux.
 
+Lorsque les modifications au contrat de crédit initial portent sur la condition mentionnée à l'article L. 313-25-1, l'avenant
+mentionne cette condition, sa durée, le cas échéant les frais de tenue du compte sur lequel les salaires et revenus assimilés
+sont domiciliés, la nature de l'avantage individualisé consenti en contrepartie par le prêteur et les conditions, de taux ou
+autres, mentionnées au 10° de l'article L. 313-25. L'avenant mentionne également la conséquence tirée par le prêteur du non-
+respect de cette condition par l'emprunteur.
+
 L'emprunteur dispose d'un délai de réflexion de dix jours à compter de la réception des informations mentionnées au deuxième
 alinéa.
 
@@ -16843,8 +16797,12 @@ entre les parties de nature à rendre certaine la date de l'acceptation par l'em
 
 **Nota:**
 
-(1) Aux termes de l'ordonnance n° 2016-351 du 25 mars 2016, article  13 II, ces dispositions entrent en vigueur le 1er
-octobre 2016.
+(1) Aux termes de l'ordonnance n° 2016-351 du 25 mars 2016, article 13 II, ces dispositions entrent en vigueur le 1er octobre
+2016.
+
+Conformément aux dispositions de l'article 3 de l'ordonnance n° 2017-1090 du 1er juin 2017, ces dispositions s'appliquent aux
+offres de prêt émises à compter du 1er janvier 2018 ainsi qu'aux avenants modifiant les contrats conclus à la suite de ces
+offres.
 
 **Liens relatifs à cet article**
 
@@ -16856,7 +16814,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 13
+  - Ordonnance n°2017-1090 du 1er juin 2017 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L313-25 (VD)
+  - Code de la consommation - art. L313-25-1
 
 
 ##### Section 6 : Contrat principal<a id=216></a>
@@ -20329,6 +20292,30 @@ _Cite_:
 
   - Code de la consommation - art. L341-37 (VD)
   - Code de la consommation - art. L341-40 (VD)
+
+
+###### Article L341-34-1
+
+Est réputée non écrite toute clause par laquelle le prêteur subordonne l'octroi du prêt ou la conclusion de l'avenant au
+contrat de crédit initial à la condition de domiciliation mentionnée à l'article L. 313-25-1 sans l'assortir en contrepartie
+de l'avantage individualisé mentionné au même article. Il en va de même de toute clause par laquelle le prêteur exige le
+respect de cette condition au-delà de la durée déterminée en application du même article.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 3 de l'ordonnance n° 2017-1090 du 1er juin 2017, ces dispositions s'appliquent aux
+offres de prêt émises à compter du 1er janvier 2018 ainsi qu'aux avenants modifiant les contrats conclus à la suite de ces
+offres.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-1090 du 1er juin 2017 - art. 2
+
+_Cite_:
+
+  - Code de la consommation - art. L313-25-1
 
 
 ###### Article L341-35
@@ -33155,10 +33142,17 @@ _Cite_:
 
 Les dettes issues de prêts sur gage souscrits auprès des caisses de crédit municipal en application de l'article L. 514-1 du
 code monétaire et financier ne peuvent être effacées par application des mesures prévues au 2° de l'article L. 733-7 et aux
-articles L. 741-3, L. 741-7, L. 741-8, L. 742-20 et L. 742-22. 
+articles L. 741-2, L. 741-6 et L. 741-7, L. 742-20 et L. 742-22. 
 
 La réalisation des gages par les caisses de crédit municipal ne peut être empêchée ou différée au-delà de la date déterminée
 dans le contrat de prêt.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions  entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -33166,21 +33160,17 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L333-1-2 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L733-7 (VD)
-  - Code de la consommation - art. L741-7 (VD)
-  - Code de la consommation - art. L742-20 (VD)
-  - Code de la consommation - art. L742-22 (VD)
-  - Code monétaire et financier - art. L514-1 (M)
+  - Code de la consommation - art. L733-7
+  - Code de la consommation - art. L741-7
+  - Code de la consommation - art. L742-20
+  - Code de la consommation - art. L742-22
+  - Code monétaire et financier - art. L514-1
 
 _Cité par_:
 
@@ -33253,11 +33243,17 @@ livre VI du code de commerce est ouverte à son bénéfice et auprès de quelle 
 
 Lorsqu'une procédure instituée par les titres II à IV du livre VI du code de commerce est ouverte au bénéfice du débiteur
 après le dépôt du dossier et avant, selon les cas, l'approbation du plan conventionnel de redressement prévu à l'article L.
-732-1, jusqu'à la décision imposant les mesures prévues par l'article L. 733-1, jusqu'à l'homologation par le juge des
-mesures recommandées en application des articles L. 733-7, L. 733-8 et L. 741-1, jusqu'au jugement prononçant un redressement
-personnel sans liquidation judiciaire ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec
-liquidation judiciaire, le débiteur en informe la commission de surendettement et indique auprès de quelle juridiction cette
-procédure a été ouverte.
+732-1, jusqu'à la décision imposant les mesures prévues aux articles L. 733-1, L. 733-4, L. 733-7 et L. 741-1, jusqu'au
+jugement prononçant un redressement personnel sans liquidation judiciaire ou jusqu'au jugement d'ouverture d'une procédure de
+rétablissement personnel avec liquidation judiciaire, le débiteur en informe la commission de surendettement et indique
+auprès de quelle juridiction cette procédure a été ouverte.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -33265,20 +33261,16 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L333-7, alinéas 3 et 4 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L732-1 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
-  - Code de la consommation - art. L741-1 (VD)
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
+  - Code de la consommation - art. L741-1
 
 
 #### Chapitre II : Les commissions de surendettement des particuliers<a id=423></a>
@@ -33315,9 +33307,16 @@ _Cité par_:
 ###### Article L712-2
 
 La demande de traitement de la situation de surendettement est portée devant la commission compétente qui peut, soit proposer
-ou prescrire des mesures de traitement dans les conditions prévues au titre III, soit recommander un rétablissement personnel
-sans liquidation judiciaire ou saisir, avec l'accord du débiteur, le juge du tribunal d'instance aux fins d'ouverture d'une
+ou imposer des mesures de traitement dans les conditions prévues au titre III, soit imposer un rétablissement personnel sans
+liquidation judiciaire ou saisir, avec l'accord du débiteur, le juge du tribunal d'instance aux fins d'ouverture d'une
 procédure de rétablissement personnel avec liquidation judiciaire dans les conditions prévues au titre IV.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -33325,9 +33324,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -33810,13 +33809,18 @@ _Cité par_:
 ###### Article L722-3
 
 Les procédures et les cessions de rémunération sont suspendues ou interdites, selon les cas, jusqu'à l'approbation du plan
-conventionnel de redressement prévu à l'article L. 732-1, jusqu'à la décision imposant les mesures prévues par les
-dispositions de l'article L. 733-1, jusqu'à l'homologation par le juge des mesures recommandées en application des
-dispositions des articles L. 733-7, L. 733-8 et L. 741-1, jusqu'au jugement prononçant un rétablissement personnel sans
-liquidation judiciaire ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec liquidation
-judiciaire. 
+conventionnel de redressement prévu à l'article L. 732-1, jusqu'à la décision imposant les mesures prévues aux articles L.
+733-1, L. 733-4, L. 733-7 et L. 741-1, jusqu'au jugement prononçant un rétablissement personnel sans liquidation judiciaire
+ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire.
 
 Cette suspension et cette interdiction ne peuvent excéder deux ans.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -33824,20 +33828,16 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-3-1, 2ème et 3ème phrases (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L732-1 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
-  - Code de la consommation - art. L741-1 (VD)
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
+  - Code de la consommation - art. L741-1
 
 
 ###### Article L722-4
@@ -33986,11 +33986,16 @@ _Cite_:
 ###### Article L722-9
 
 Cette suspension est acquise, pour une période maximale de deux ans et, selon les cas, jusqu'à l'approbation du plan
-conventionnel de redressement prévu à l'article L. 732-1, jusqu'à la décision imposant les mesures prévues par les
-dispositions de l'article L. 733-1, jusqu'à l'homologation par le juge des mesures recommandées en application des
-dispositions des articles L. 733-7, L. 733-8 et L. 741-1, jusqu'au jugement prononçant un rétablissement personnel sans
-liquidation judiciaire ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec liquidation
-judiciaire.
+conventionnel de redressement prévu à l'article L. 732-1, jusqu'à la décision imposant les mesures prévues aux articles L.
+733-1, L. 733-4, L. 733-7 et L. 741-1, jusqu'au jugement prononçant un rétablissement personnel sans liquidation judiciaire
+ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -33998,20 +34003,16 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-3-2, 5ème phrase (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L732-1 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
-  - Code de la consommation - art. L741-1 (VD)
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
+  - Code de la consommation - art. L741-1
 
 _Cité par_:
 
@@ -34137,7 +34138,14 @@ _Cite_:
 
 Les créances figurant dans l'état d'endettement du débiteur dressé par la commission ne peuvent produire d'intérêts ou
 générer de pénalités de retard à compter de la date de recevabilité et jusqu'à la mise en œuvre des mesures prévues aux 1° et
-2° de l'article L. 724-1 et aux articles L. 732-1, L. 733-1, L. 733-7 et L. 733-8.
+2° de l'article L. 724-1 et aux articles L. 732-1, L. 733-1, L. 733-4 et L. 733-7.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -34145,20 +34153,16 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-3-1, alinéa 7 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L724-1 (VD)
-  - Code de la consommation - art. L732-1 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L724-1
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -34200,12 +34204,19 @@ _Cité par_:
 Lorsqu'un protocole de cohésion sociale prévu aux articles L. 353-15-2 et L. 442-6-5 du code de la construction et de
 l'habitation a été conclu avec le bailleur antérieurement à la décision de recevabilité, le paiement des arriérés de loyer
 prévu par ledit protocole est suspendu jusqu'à la mise en œuvre des mesures prévues aux 1° et 2° de l'article L. 724-1 ou aux
-articles L. 732-1, L. 733-1, L. 733-7 et L. 733-8. 
+articles L. 732-1, L. 733-1, L. 733-4 et L. 733-7.
 
 Lorsque ces mesures prévoient des modalités de règlement de la dette de loyer, celles-ci se substituent aux modalités de
 règlement de la dette de loyer prévues dans le protocole de cohésion sociale, dont la durée est prolongée jusqu'au règlement
 de la dette de loyer, dans la limite de la durée des mesures de redressement prises en application des dispositions des
-articles L. 732-1, L. 733-1, L. 733-7 ou L. 733-8.
+articles L. 732-1, L. 733-1, L. 733-4 ou L. 733-7.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -34213,22 +34224,18 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-3-1, alinéa 9 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L724-1 (VD)
-  - Code de la consommation - art. L732-1 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
-  - Code de la construction et de l'habitation. - art. L353-15-2 (M)
-  - Code de la construction et de l'habitation. - art. L442-6-5 (M)
+  - Code de la consommation - art. L724-1
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
+  - Code de la construction et de l'habitation. - art. L353-15-2
+  - Code de la construction et de l'habitation. - art. L442-6-5
 
 _Cité par_:
 
@@ -34339,19 +34346,26 @@ _Cité par_:
 
 Lorsqu'il ressort de l'examen de la demande de traitement de la situation de surendettement que les ressources ou l'actif
 réalisable du débiteur le permettent, la commission prescrit des mesures de traitement dans les conditions prévues aux
-articles L. 732-1, L. 733-1, L. 733-7 et L. 733-8. 
+articles L. 732-1, L. 733-1, L. 733-4 et L. 733-7.
 
 Lorsque le débiteur se trouve dans une situation irrémédiablement compromise caractérisée par l'impossibilité manifeste de
 mettre en œuvre des mesures de traitement mentionnées au premier alinéa, la commission peut, dans les conditions du présent
 livre : 
 
-1° Soit recommander un rétablissement personnel sans liquidation judiciaire si elle constate que le débiteur ne possède que
-des biens meublants nécessaires à la vie courante et des biens non professionnels indispensables à l'exercice de son activité
+1° Soit imposer un rétablissement personnel sans liquidation judiciaire si elle constate que le débiteur ne possède que des
+biens meublants nécessaires à la vie courante et des biens non professionnels indispensables à l'exercice de son activité
 professionnelle, ou que l'actif n'est constitué que de biens dépourvus de valeur marchande ou dont les frais de vente
 seraient manifestement disproportionnés au regard de leur valeur vénale ; 
 
 2° Soit saisir, si elle constate que le débiteur n'est pas dans la situation mentionnée au 1°, avec l'accord du débiteur, le
 juge du tribunal d'instance aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -34359,13 +34373,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L330-1, alinéas 2 à 5 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -34386,16 +34396,23 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 
 ###### Article L724-2
 
-Si, en cours d'exécution des mesures de traitement prévues aux articles L. 732-1, L. 733-1, L. 733-7 et L. 733-8, il apparaît
+Si, en cours d'exécution des mesures de traitement prévues aux articles L. 732-1, L. 733-1, L. 733-4 et L. 733-7, il apparaît
 que la situation du débiteur devient irrémédiablement compromise dans les conditions prévues au deuxième alinéa de l'article
 L. 724-1, le débiteur peut saisir la commission afin de bénéficier d'une procédure de rétablissement personnel avec ou sans
 liquidation judiciaire.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -34403,20 +34420,16 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-7-3, 1ère phrase (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L724-1 (VD)
-  - Code de la consommation - art. L732-1 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L724-1
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -34426,13 +34439,20 @@ _Cité par_:
 
 ###### Article L724-3
 
-Dans le cas mentionné à l'article L. 724-2, après avoir constaté la bonne foi du débiteur, la commission recommande un
+Dans le cas mentionné à l'article L. 724-2, après avoir constaté la bonne foi du débiteur, la commission impose un
 rétablissement personnel sans liquidation judiciaire ou saisit le juge du tribunal d'instance aux fins d'ouverture d'une
 procédure de rétablissement personnel avec liquidation judiciaire. 
 
-Cette recommandation ou cette saisine emportent suspension et interdiction des procédures d'exécution diligentées à
-l'encontre des biens du débiteur ainsi que des cessions de rémunération consenties par celui-ci et portant sur les dettes
-autres qu'alimentaires. Les dispositions de l'article L. 722-5 sont applicables.
+Cette décision ou cette saisine emportent suspension et interdiction des procédures d'exécution diligentées à l'encontre des
+biens du débiteur ainsi que des cessions de rémunération consenties par celui-ci et portant sur les dettes autres
+qu'alimentaires. Les dispositions de l'article L. 722-5 sont applicables.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -34440,18 +34460,14 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-7-3, 2ème et 3ème phrases (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L722-5 (VD)
-  - Code de la consommation - art. L724-2 (VD)
+  - Code de la consommation - art. L722-5
+  - Code de la consommation - art. L724-2
 
 _Cité par_:
 
@@ -34460,10 +34476,17 @@ _Cité par_:
 
 ###### Article L724-4
 
-La suspension et l'interdiction mentionnées à l'article L. 724-3 sont acquises jusqu'à l'homologation par le juge de la
-recommandation en application de l'article L. 741-2, jusqu'au jugement prononçant un rétablissement personnel sans
-liquidation judiciaire ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec liquidation
-judiciaire. Cette suspension et cette interdiction ne peuvent excéder deux ans.
+La suspension et l'interdiction mentionnées à l'article L. 724-3 sont acquises jusqu'à la date de la décision de la
+commission imposant un rétablissement personnel sans liquidation judiciaire, jusqu'au jugement prononçant un rétablissement
+personnel sans liquidation judiciaire ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec
+liquidation judiciaire. Cette suspension et cette interdiction ne peuvent excéder deux ans.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -34471,18 +34494,14 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-7-3, 5ème et 6ème phrases (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L724-3 (VD)
-  - Code de la consommation - art. L741-2 (VD)
+  - Code de la consommation - art. L741-2
 
 _Cité par_:
 
@@ -34514,10 +34533,17 @@ _Anciens textes_:
 
 ###### Article L731-1
 
-Pour l'application des dispositions des articles L. 732-1, L. 733-1 ou L. 733-7, le montant des remboursements est fixé, dans
+Pour l'application des dispositions des articles L. 732-1, L. 733-1 ou L. 733-4, le montant des remboursements est fixé, dans
 des conditions précisées par décret en Conseil d'Etat, par référence à la quotité saisissable du salaire telle qu'elle
 résulte des articles L. 3252-2 et L. 3252-3 du code du travail, de manière à ce que la part des ressources nécessaire aux
 dépenses courantes du ménage lui soit réservée par priorité.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -34527,6 +34553,7 @@ _Codifié par_:
 
 _Modifié par_:
 
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
   - Loi n°2016-1691 du 9 décembre 2016 - art. 66 (V)
 
 _Cite_:
@@ -34585,8 +34612,14 @@ _Cite_:
 ###### Article L731-3
 
 La part des ressources nécessaire aux dépenses courantes du ménage est fixée par la commission et mentionnée dans le plan
-conventionnel de redressement prévu à l'article L. 732-1, dans les mesures prévues à l'article L. 733-1 ou les
-recommandations prévues à l'article L. 733-7.
+conventionnel de redressement prévu à l'article L. 732-1 ou dans les mesures prévues aux articles L. 733-1 ou L. 733-4.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -34594,19 +34627,15 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-2, alinéa 2, 5ème phrase (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L732-1 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -34618,10 +34647,20 @@ _Cité par_:
 ###### Article L732-1
 
 Si l'examen de la demande de traitement de la situation de surendettement fait apparaître que le débiteur se trouve dans la
-situation définie au premier alinéa de l'article L. 724-1, la commission s'efforce de concilier les parties en vue de
-l'élaboration d'un plan conventionnel de redressement approuvé par le débiteur et ses principaux créanciers.
+situation définie au premier alinéa de l'article L. 724-1 et que le débiteur est propriétaire d'un bien immobilier, la
+commission s'efforce de concilier les parties en vue de l'élaboration d'un plan conventionnel de redressement approuvé par le
+débiteur et ses principaux créanciers.
+
+**Nota:**
+
+Conformément au II de l'article 66 de la loi n° 2016-1691 du 9 décembre 2016, ces dispositions entrent en vigueur le 1er
+janvier 2018. Elles s'appliquent aux dossiers de surendettement déposés à compter de cette date.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 _Cité par_:
 
@@ -34646,17 +34685,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L353-15-2 (V)
   - Code de la construction et de l'habitation. - art. L442-6-5 (V)
 
-_Codifié par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
 _Créé par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-6, I, alinéa 1 (Ab)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 66 (V)
 
 
 ###### Article L732-2
@@ -34699,15 +34730,23 @@ d'un bien immobilier constituant la résidence principale du débiteur dont elle
 lorsqu'elles permettent au débiteur de rembourser la totalité de ses dettes tout en évitant la cession du bien immobilier
 constituant sa résidence principale.
 
+Les créanciers disposent d'un délai fixé par décret pour refuser la proposition de plan conventionnel de redressement
+élaborée par la commission. En l'absence de réponse dans ce délai, l'accord des créanciers est réputé acquis.
+
+**Nota:**
+
+Conformément au II de l'article 66 de la loi n° 2016-1691 du 9 décembre 2016, ces dispositions entrent en vigueur le 1er
+janvier 2018. Elles s'appliquent aux dossiers de surendettement déposés à compter de cette date.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 66 (V)
 
 _Cité par_:
 
@@ -34715,57 +34754,19 @@ _Cité par_:
   - Code de la consommation - art. L771-2 (VD)
   - Code de la consommation - art. L771-3 (VD)
 
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-6, I, alinéa 4 (Ab)
-
-
-###### Article L732-4
-
-Lorsque la situation du débiteur, sans qu'elle soit irrémédiablement compromise au sens du deuxième alinéa de l'article L.
-724-1, ne permet pas de prévoir le remboursement de la totalité de ses dettes et que la mission de conciliation de la
-commission paraît de ce fait manifestement vouée à l'échec, celle-ci peut, après avoir mis les parties en mesure de fournir
-leurs observations et sous réserve de l'application de l'article L. 711-6, imposer directement la mesure prévue au 4° de
-l'article L. 733-1 ou recommander les mesures prévues aux articles L. 733-7 et L. 733-8.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Abrogé par_:
-
-  - Loi n°2016-1691 du 9 décembre 2016 - art. 66 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-6, II, alinéa 1 (Ab)
-
-_Cite_:
-
-  - Code de la consommation - art. L724-1 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
-
-_Cité par_:
-
-  - Code de la consommation - art. L771-2 (VD)
-  - Code de la consommation - art. R733-4 (V)
-
 
 #### Chapitre III : Mesures imposées ou recommandées<a id=438></a>
 
 ##### Section 1 : Contenu et adoption des mesures imposées ou recommandées<a id=439></a>
 
+#### Chapitre III : Mesures imposées<a id=440></a>
+
+##### Section 1 : Contenu et adoption des mesures imposées<a id=441></a>
+
 ###### Article L733-1
 
-En cas d'échec de sa mission de conciliation, la commission peut, à la demande du débiteur et après avoir mis les parties en
-mesure de fournir leurs observations, imposer tout ou partie des mesures suivantes :
+En l'absence de mission de conciliation ou en cas d'échec de celle-ci, la commission peut, à la demande du débiteur et après
+avoir mis les parties en mesure de fournir leurs observations, imposer tout ou partie des mesures suivantes :
 
 1° Rééchelonner le paiement des dettes de toute nature, y compris, le cas échéant, en différant le paiement d'une partie
 d'entre elles, sans que le délai de report ou de rééchelonnement puisse excéder sept ans ou la moitié de la durée de
@@ -34783,7 +34784,16 @@ contraire de la commission, la suspension de la créance entraîne la suspension
 Durant cette période, seules les sommes dues au titre du capital peuvent être productives d'intérêts dont le taux n'excède
 pas le taux de l'intérêt légal.
 
+**Nota:**
+
+Conformément au II de l'article 66 de la loi n° 2016-1691 du 9 décembre 2016, ces dispositions entrent en vigueur le 1er
+janvier 2018. Elles s'appliquent aux dossiers de surendettement déposés à compter de cette date.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 _Cité par_:
 
@@ -34827,27 +34837,26 @@ _Cité par_:
   - Code de la consommation - art. R733-9 (VD)
   - Code de la consommation - art. R742-14 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-7, alinéas 1 à 5 (Ab)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 66 (V)
 
 
 ###### Article L733-2
 
 Si, à l'expiration de la période de suspension d'exigibilité des créances, le débiteur saisit de nouveau la commission,
-celle-ci réexamine sa situation. En fonction de celle-ci, la commission peut imposer ou recommander tout ou partie des
-mesures prévues à l'article L. 733-1 et aux articles L. 733-7 et L. 733-8, à l'exception d'une nouvelle suspension. 
+celle-ci réexamine sa situation. En fonction de celle-ci, la commission peut imposer tout ou partie des mesures prévues à
+l'article L. 733-1 et aux articles L. 733-4 et L. 733-7 à l'exception d'une nouvelle suspension. 
 
-Elle peut, le cas échéant, recommander un rétablissement personnel sans liquidation judiciaire ou saisir le juge aux fins
+Elle peut, le cas échéant, imposer un rétablissement personnel sans liquidation judiciaire ou saisir le juge aux fins
 d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -34855,18 +34864,14 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-7, alinéa 6 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -34907,7 +34912,24 @@ _Cité par_:
 
 ###### Article L733-4
 
-Les dettes fiscales font l'objet d'un rééchelonnement dans les mêmes conditions que les autres dettes.
+La commission peut également, à la demande du débiteur et après avoir mis les parties en mesure de présenter leurs
+observations, imposer par décision spéciale et motivée les mesures suivantes : 
+
+1° En cas de vente forcée du logement principal du débiteur, grevé d'une inscription bénéficiant à un établissement de crédit
+ou à une société de financement ayant fourni les sommes nécessaires à son acquisition, la réduction du montant de la fraction
+des prêts immobiliers restant due aux établissements de crédit ou aux sociétés de financement après la vente, après
+imputation du prix de vente sur le capital restant dû, dans des proportions telles que son paiement, assorti d'un
+rééchelonnement calculé conformément au 1° de l'article L. 733-1, soit compatible avec les ressources et les charges du
+débiteur. 
+
+La même mesure est applicable en cas de vente amiable dont le principe, destiné à éviter une saisie immobilière, et les
+modalités ont été arrêtés d'un commun accord entre le débiteur et l'établissement de crédit ou la société de financement. 
+
+Ces mesures peuvent être prises conjointement avec celles prévues à l'article L. 733-1 ; 
+
+2° L'effacement partiel des créances combiné avec les mesures mentionnées à l'article L. 733-1. Celles de ces créances dont
+le montant a été payé au lieu et place du débiteur par la caution ou le coobligé, personnes physiques, ne peuvent faire
+l'objet d'un effacement.
 
 **Liens relatifs à cet article**
 
@@ -34915,13 +34937,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-7, alinéa 8, 3ème phrase (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -34966,12 +34984,15 @@ _Cité par_:
 
 ###### Article L733-6
 
-En l'absence de contestation formée par l'une des parties en application des dispositions de l'article L. 733-10, les mesures
-mentionnées à l'article L. 733-1 s'imposent aux parties, à l'exception des créanciers dont l'existence n'aurait pas été
-signalée par le débiteur et qui n'en auraient pas été avisés par la commission. 
+Les dettes fiscales font l'objet d'un rééchelonnement ou de remises totales ou partielles dans les mêmes conditions que les
+autres dettes.
 
-Lorsque ces mesures sont combinées avec tout ou partie de celles prévues par les dispositions des articles L. 733-7 et L.
-733-8, l'ensemble de ces mesures n'est exécutoire qu'à compter de l'homologation de ces dernières par le juge.
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -34979,19 +35000,15 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-7, alinéa 10 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-10 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-10
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -35001,24 +35018,15 @@ _Cité par_:
 
 ###### Article L733-7
 
-La commission peut recommander, par proposition spéciale et motivée, les mesures suivantes : 
+La commission peut imposer que les mesures prévues aux articles L. 733-1 et L. 733-4 soient subordonnées à l'accomplissement
+par le débiteur d'actes propres à faciliter ou à garantir le paiement de la dette.
 
-1° En cas de vente forcée du logement principal du débiteur, grevé d'une inscription bénéficiant à un établissement de crédit
-ou à une société de financement ayant fourni les sommes nécessaires à son acquisition, la réduction du montant de la fraction
-des prêts immobiliers restant due aux établissements de crédit ou aux sociétés de financement après la vente, après
-imputation du prix de vente sur le capital restant dû, dans des proportions telles que son paiement, assorti d'un
-rééchelonnement calculé conformément au 1° de l'article L. 733-1, soit compatible avec les ressources et les charges du
-débiteur. 
+**Nota:**
 
-La même mesure est applicable en cas de vente amiable dont le principe, destiné à éviter une saisie immobilière, et les
-modalités ont été arrêtés d'un commun accord entre le débiteur et l'établissement de crédit ou la société de financement. 
-
-Ces mesures peuvent se combiner avec celles prévues à l'article L. 733-1 ; 
-
-2° L'effacement partiel des créances combiné avec les mesures mentionnées à l'article L. 733-1. Celles de ces créances dont
-le montant a été payé au lieu et place du débiteur par la caution ou le coobligé, personnes physiques, ne peuvent faire
-l'objet d'un effacement. Les dettes fiscales font l'objet de remises totales ou partielles dans les mêmes conditions que les
-autres dettes.
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35026,13 +35034,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-7-1, alinéas 1, 2, 3, 5 et 6 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -35083,13 +35087,23 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
+  - Code de la consommation - art. L733-1
 
 
 ###### Article L733-8
 
-La commission peut recommander que les mesures prévues aux articles L. 733-1 et L. 733-7 soient subordonnées à
-l'accomplissement par le débiteur d'actes propres à faciliter ou à garantir le paiement de la dette.
+Lorsque le débiteur a déjà bénéficié d'une mesure de rétablissement personnel prévue aux 1° et 2° de l'article L. 724-1 et
+qu'il saisit de nouveau la commission, celle-ci peut, si elle estime que la situation du débiteur est de nouveau
+irrémédiablement compromise et après avis du membre de la commission justifiant d'une expérience dans le domaine de
+l'économie sociale et familiale, imposer que la mesure d'effacement des dettes soit assortie de la mise en place de mesures
+d'accompagnement social ou budgétaire.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35097,18 +35111,14 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-7-2 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -35118,11 +35128,16 @@ _Cité par_:
 
 ###### Article L733-9
 
-Lorsque le débiteur a déjà bénéficié d'une mesure de rétablissement personnel prévue aux 1° et 2° de l'article L. 724-1 et
-qu'il saisit de nouveau la commission, celle-ci peut, si elle estime que la situation du débiteur est de nouveau
-irrémédiablement compromise et après avis du membre de la commission justifiant d'une expérience dans le domaine de
-l'économie sociale et familiale, recommander au juge que la mesure d'effacement des dettes soit assortie de la mise en place
-de mesures d'accompagnement social ou budgétaire.
+En l'absence de contestation formée par l'une des parties en application de l'article L. 733-10, les mesures mentionnées aux
+articles L. 733-1, L. 733-4 et L. 733-7 s'imposent aux parties, à l'exception des créanciers dont l'existence n'a pas été
+signalée par le débiteur et qui n'ont pas été avisés de ces mesures par la commission.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35130,17 +35145,13 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-3, alinéa 11 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L724-1 (VD)
+  - Code de la consommation - art. L724-1
 
 _Cité par_:
 
@@ -35148,12 +35159,19 @@ _Cité par_:
   - Code de la consommation - art. R733-6 (VD)
 
 
+##### Section 2 : Contestation des mesures imposées<a id=442></a>
+
 ###### Article L733-10
 
-S'il n'a pas été saisi de la contestation prévue à l'article L. 733-12, le juge du tribunal d'instance confère force
-exécutoire aux mesures recommandées par la commission en application des dispositions du 1° de l'article L. 733-7 et de
-l'article L. 733-8, après en avoir vérifié la régularité, ainsi qu'aux mesures recommandées par la commission en application
-des dispositions du 2° de l'article L. 733-7, après en avoir vérifié la régularité et le bien-fondé.
+Une partie peut contester devant le juge du tribunal d'instance, dans un délai fixé par décret, les mesures imposées par la
+commission en application des articles L. 733-1, L. 733-4 ou L. 733-7.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35161,23 +35179,20 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-1, alinéa 1 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L733-12 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-12
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
   - Code de la consommation - art. L733-16 (VD)
   - Code de la consommation - art. L733-17 (VD)
+  - Code de la consommation - art. L733-18 (VT)
   - Code de la consommation - art. L733-6 (VD)
   - Code de la consommation - art. R724-1 (VD)
   - Code de la consommation - art. R733-18 (V)
@@ -35187,9 +35202,16 @@ _Cité par_:
 
 ###### Article L733-11
 
-Si la situation du débiteur l'exige, le juge du tribunal d'instance l'invite à solliciter une mesure d'aide ou d'action
-sociale qui peut comprendre un programme d'éducation budgétaire, notamment une mesure d'accompagnement social personnalisé,
-dans les conditions prévues par le livre II du code de l'action sociale et des familles.
+Lorsque les mesures prévues aux articles L. 733-4 et L. 733-7 sont combinées avec tout ou partie de celles prévues à
+l'article L. 733-1, le juge saisi d'une contestation statue sur l'ensemble des mesures dans les conditions prévues à
+l'article L. 733-13.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35197,22 +35219,33 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-1, alinéa 2 (Ab)
-
-
-##### Section 2 : Contestation des mesures imposées ou recommandées<a id=440></a>
 
 ###### Article L733-12
 
-Une partie peut contester devant le juge du tribunal d'instance, dans un délai fixé par décret, les mesures imposées par la
-commission en application des dispositions de l'article L. 733-1 ainsi que les mesures recommandées par la commission en
-application des dispositions de l'article L. 733-7 ou de l'article L. 733-8.
+Avant de statuer, le juge peut, à la demande d'une partie, ordonner par provision l'exécution d'une ou plusieurs des mesures
+mentionnées à l'article L. 733-11. 
+
+Il peut faire publier un appel aux créanciers. 
+
+Il peut vérifier, même d'office, la validité des créances et des titres qui les constatent ainsi que le montant des sommes
+réclamées et s'assurer que le débiteur se trouve bien dans la situation définie à l'article L. 711-1. 
+
+Il peut également prescrire toute mesure d'instruction qu'il estime utile. Les frais relatifs à celle-ci sont mis à la charge
+de l'Etat. 
+
+Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement lui permettant d'apprécier
+la situation du débiteur et l'évolution possible de celle-ci.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35220,18 +35253,14 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-2, alinéa1, 1ère phrase partielle (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -35244,9 +35273,19 @@ _Cité par_:
 
 ###### Article L733-13
 
-Lorsque les mesures prévues par les articles L. 733-7 et L. 733-8 sont combinées avec tout ou partie de celles prévues par
-l'article L. 733-1, le juge saisi d'une contestation statue sur l'ensemble des mesures dans les conditions prévues à
-l'article L. 733-15.
+Le juge saisi de la contestation prévue à l'article L. 733-10 prend tout ou partie des mesures définies aux articles L.
+733-1, L. 733-4 et L. 733-7. Dans tous les cas, la part des ressources nécessaires aux dépenses courantes du ménage est
+déterminée dans les conditions prévues à l'article L. 731-2. Elle est mentionnée dans la décision. 
+
+Lorsqu'il statue en application de l'article L. 733-10, le juge peut en outre prononcer un redressement personnel sans
+liquidation judiciaire.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35254,19 +35293,15 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-2, alinéa 1, 2ème phrase (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-15 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-15
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -35278,19 +35313,13 @@ _Cité par_:
 
 ###### Article L733-14
 
-Avant de statuer, le juge peut, à la demande d'une partie, ordonner par provision l'exécution d'une ou plusieurs des mesures
-mentionnées à l'article L. 733-13. 
+Si la situation du débiteur l'exige, le juge du tribunal d'instance l'invite à solliciter une mesure d'aide ou d'action
+sociale qui peut comprendre un programme d'éducation budgétaire, notamment une mesure d'accompagnement social personnalisé,
+dans les conditions prévues au livre II du code de l'action sociale et des familles.
 
-Il peut faire publier un appel aux créanciers. 
+**Nota:**
 
-Il peut vérifier, même d'office, la validité des créances, des titres qui les constatent ainsi que le montant des sommes
-réclamées et s'assurer que le débiteur se trouve bien dans la situation définie à l'article L. 711-1. 
 
-Il peut également prescrire toute mesure d'instruction qu'il estime utile. Les frais relatifs à celle-ci sont mis à la charge
-de l'Etat. 
-
-Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement lui permettant d'apprécier
-la situation du débiteur et l'évolution possible de celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -35298,9 +35327,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -35315,18 +35344,24 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L711-1 (VD)
+  - Code de la consommation - art. L711-1
   - Code de la consommation - art. L733-13 (VD)
 
 
+##### Section 3 : Dispositions communes aux mesures imposées et à leur contestation<a id=443></a>
+
 ###### Article L733-15
 
-Le juge saisi de la contestation prévue à l'article L. 733-12 prend tout ou partie des mesures définies aux articles L.
-733-1, L. 733-7 et L. 733-8. Dans tous les cas, la part des ressources nécessaires aux dépenses courantes du ménage est
-déterminée dans les conditions prévues à l'article L. 731-2. Elle est mentionnée dans la décision. 
+Les mesures imposées en application des articles L. 733-1, L. 733-4 et L. 733-7 ou celles prises par le juge en application
+de l'article L. 733-13 ne sont pas opposables aux créanciers dont l'existence n'a pas été signalée par le débiteur et qui
+n'ont pas été avisés de ces mesures par la commission.
 
-Lorsqu'il statue en application de l'article L. 733-12, le juge peut en outre prononcer un redressement personnel sans
-liquidation judiciaire.
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35334,21 +35369,16 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L330-1, alinéa 6, 2ème phrase (Ab)
-  - Code de la consommation - art. L332-3 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L731-2 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-12 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L731-2
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-12
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -35360,13 +35390,18 @@ _Cité par_:
   - Code de la consommation - art. R733-5 (V)
 
 
-##### Section 3 : Dispositions communes aux mesures imposées ou recommandées et à leur contestation<a id=441></a>
-
 ###### Article L733-16
 
-Les mesures recommandées en application des dispositions des articles L. 733-7 et L. 733-8 et rendues exécutoires par
-l'application des dispositions de l'article L. 733-10 ou de l'article L. 733-15 ne sont pas opposables aux créanciers dont
-l'existence n'aurait pas été signalée par le débiteur et qui n'en auraient pas été avisés par la commission.
+Les créanciers auxquels les mesures imposées par la commission en application des articles L. 733-1, L. 733-4 et L. 733-7 ou
+celles prises par le juge en application de l'article L. 733-13 sont opposables ne peuvent exercer des procédures d'exécution
+à l'encontre des biens du débiteur pendant la durée d'exécution de ces mesures.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35374,27 +35409,28 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-8 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L733-10 (VD)
-  - Code de la consommation - art. L733-15 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-10
+  - Code de la consommation - art. L733-15
+  - Code de la consommation - art. L733-7
 
 
 ###### Article L733-17
 
-Les créanciers auxquels les mesures imposées par la commission en application des dispositions de l'article L. 733-1 ou les
-mesures recommandées en application des dispositions des articles L. 733-7 et L. 733-8 et rendues exécutoires par application
-des dispositions de l'article L. 733-10 ou de l'article L. 733-15 sont opposables, ne peuvent exercer des procédures
-d'exécution à l'encontre des biens du débiteur pendant la durée d'exécution de ces mesures.
+L'effacement d'une créance en application des articles L. 733-9 ou L. 733-13 du présent code vaut régularisation de
+l'incident de paiement au sens de l'article L. 131-73 du code monétaire et financier.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35402,75 +35438,46 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-9 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-10 (VD)
-  - Code de la consommation - art. L733-15 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-10
+  - Code de la consommation - art. L733-15
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
   - Code de la consommation - art. R733-18 (VD)
 
 
-###### Article L733-18
+### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=444></a>
 
-L'effacement d'une créance en application des dispositions de l'article L. 733-10 ou de l'article L. 733-15 vaut
-régularisation de l'incident de paiement au sens de l'article L. 131-73 du code monétaire et financier.
+#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=445></a>
+
+##### Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=446></a>
+
+###### Article L741-1
+
+Si l'examen de la demande de traitement de la situation de surendettement fait apparaître que le débiteur se trouve dans la
+situation irrémédiablement compromise définie au deuxième alinéa de l'article L. 724-1 et ne possède que des biens mentionnés
+au 1° du même article L. 724-1, la commission impose un rétablissement personnel sans liquidation judiciaire.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Abrogé par_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-4 (Ab)
-
-_Cite_:
-
-  - Code de la consommation - art. L733-10 (VD)
-  - Code de la consommation - art. L733-15
-  - Code monétaire et financier - art. L131-73
-
-_Cité par_:
-
-  - Code de la consommation - art. L771-2 (VD)
-  - Code de la consommation - art. R733-18 (V)
-  - Code monétaire et financier - art. R131-21-1 (V)
-
-
-### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=442></a>
-
-#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=443></a>
-
-##### Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=444></a>
-
-###### Article L741-1
-
-Si l'examen de la demande de traitement de la situation de surendettement fait apparaître que le débiteur se trouve dans la
-situation irrémédiablement compromise définie au deuxième alinéa de l'article L. 724-1 et ne possède que des biens mentionnés
-au 1° du même article, la commission recommande un rétablissement personnel sans liquidation judiciaire.
-
-**Liens relatifs à cet article**
 
 _Cité par_:
 
@@ -35485,27 +35492,31 @@ _Cité par_:
   - Code de la consommation - art. R741-5 (VD)
   - Code de la consommation - art. R743-1 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5, alinéa 1 partiel (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L724-1 (VD)
+  - Code de la consommation - art. L724-1
 
 
 ###### Article L741-2
 
-En l'absence de contestation, le juge du tribunal d'instance confère force exécutoire à la recommandation de la commission,
-après en avoir vérifié la régularité et le bien-fondé.
+En l'absence de contestation dans les conditions prévues à l'article L. 741-4, le rétablissement personnel sans liquidation
+judiciaire entraîne l'effacement de toutes les dettes non professionnelles du débiteur, arrêtées à la date de la décision de
+la commission, à l'exception des dettes mentionnées aux articles L. 711-4 et L. 711-5 et des dettes dont le montant a été
+payé au lieu et place du débiteur par la caution ou le coobligé, personnes physiques. 
+
+Le rétablissement personnel sans liquidation judiciaire entraîne aussi l'effacement de la dette résultant de l'engagement que
+le débiteur a pris de cautionner ou d'acquitter solidairement la dette d'un entrepreneur individuel ou d'une société.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35513,13 +35524,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5, alinéa 2 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -35530,14 +35537,15 @@ _Cité par_:
 
 ###### Article L741-3
 
-Le rétablissement personnel sans liquidation judiciaire rendu exécutoire par le juge du tribunal d'instance entraîne
-l'effacement de toutes les dettes non professionnelles du débiteur, arrêtées à la date de l'ordonnance conférant force
-exécutoire à la recommandation, à l'exception des dettes visées à l'article L. 711-4, de celles mentionnées à l'article L.
-711-5 et des dettes dont le montant a été payé au lieu et place du débiteur par la caution ou le coobligé, personnes
-physiques. 
+Les créances dont les titulaires n'ont pas été avisés de la décision imposée par la commission et n'ont pas contesté cette
+décision dans le délai fixé par décret mentionné à l'article L. 741-4 sont éteintes.
 
-Le rétablissement personnel sans liquidation judiciaire entraîne aussi l'effacement de la dette résultant de l'engagement que
-le débiteur a donné de cautionner ou d'acquitter solidairement la dette d'un entrepreneur individuel ou d'une société.
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35545,21 +35553,17 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5, alinéa 2 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L711-4 (VD)
+  - Code de la consommation - art. L711-4
+  - Code de la consommation - art. L711-5 (VD)
 
 _Cité par_:
 
-  - Code de la consommation - art. L711-5 (VD)
   - Code de la consommation - art. L741-7 (VD)
   - Code de la consommation - art. L741-8 (VD)
   - Code de la consommation - art. L743-1 (VD)
@@ -35567,9 +35571,19 @@ _Cité par_:
   - Code de la consommation - art. R741-6 (VT)
 
 
+##### Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=447></a>
+
 ###### Article L741-4
 
-Les créances dont les titulaires n'ont pas formé tierce opposition dans un délai fixé par décret sont éteintes.
+Une partie peut contester devant le juge du tribunal d'instance, dans un délai fixé par décret, le rétablissement personnel
+sans liquidation judiciaire imposé par la commission.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35577,13 +35591,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5, alinéa 3 extinction créances (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -35591,12 +35601,24 @@ _Cité par_:
   - Code de la consommation - art. R741-1 (VD)
 
 
-##### Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=445></a>
-
 ###### Article L741-5
 
-Une partie peut contester devant le juge du tribunal d'instance, dans un délai fixé par décret, le rétablissement personnel
-sans liquidation judiciaire recommandé par la commission.
+Avant de statuer, le juge peut faire publier un appel aux créanciers. 
+
+Il peut vérifier, même d'office, la validité des créances et des titres qui les constatent ainsi que le montant des sommes
+réclamées et s'assurer que le débiteur se trouve bien dans la situation mentionnée à l'article L. 711-1. 
+
+Il peut également prescrire toute mesure d'instruction qu'il estime utile. 
+
+Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement lui permettant d'apprécier
+la situation du débiteur et l'évolution possible de celle-ci.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35604,13 +35626,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5-1, alinéa partiel (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -35619,15 +35637,24 @@ _Cité par_:
 
 ###### Article L741-6
 
-Avant de statuer, le juge peut faire publier un appel aux créanciers. 
+S'il constate que le débiteur se trouve dans la situation mentionnée au 1° de l'article L. 724-1, le juge prononce un
+rétablissement personnel sans liquidation judiciaire, qui emporte les mêmes effets que ceux mentionnés à l'article L. 741-2. 
 
-Il peut vérifier, même d'office, la validité des créances, des titres qui les constatent ainsi que le montant des sommes
-réclamées, et s'assurer que le débiteur se trouve bien dans la situation définie à l'article L. 711-1. 
+Les créances dont les titulaires n'ont pas formé tierce opposition dans un délai fixé par décret sont éteintes. Cependant,
+dans ce cas, les dettes sont arrêtées à la date du jugement prononçant le rétablissement personnel sans liquidation
+judiciaire. 
 
-Il peut également prescrire toute mesure d'instruction qu'il estime utile. 
+S'il constate que le débiteur se trouve dans la situation mentionnée au 2° de l'article L. 724-1, le juge ouvre, avec
+l'accord du débiteur, une procédure de rétablissement personnel avec liquidation judiciaire. 
 
-Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement lui permettant d'apprécier
-la situation du débiteur et l'évolution possible de celle-ci.
+S'il constate que la situation du débiteur n'est pas irrémédiablement compromise, il renvoie le dossier à la commission.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35635,9 +35662,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -35654,22 +35681,23 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L711-1 (VD)
+  - Code de la consommation - art. L711-1
 
+
+##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées<a id=448></a>
 
 ###### Article L741-7
 
-S'il constate le débiteur se trouve dans la situation mentionnée au 1° de l'article L. 724-1, le juge prononce un
-rétablissement personnel sans liquidation judiciaire qui emporte les mêmes effets que ceux mentionnés à l'article L. 741-3. 
+Lorsque le juge d'instance statue en application de l'article L. 733-13, le rétablissement personnel sans liquidation
+judiciaire emporte les effets mentionnés à l'article L. 741-2. Cependant, dans ce cas, les dettes sont arrêtées à la date du
+jugement prononçant le rétablissement personnel sans liquidation judiciaire.
 
-Les créances dont les titulaires n'auraient pas formé tierce opposition dans un délai fixé par décret sont éteintes.
-Cependant, dans ce cas, les dettes sont arrêtées à la date du jugement prononçant le rétablissement personnel sans
-liquidation judiciaire. 
+**Nota:**
 
-S'il constate que le débiteur se trouve dans la situation visée au 2° de l'article L. 724-1, le juge ouvre, avec l'accord du
-débiteur, une procédure de rétablissement personnel avec liquidation judiciaire. 
-
-S'il constate que la situation du débiteur n'est pas irrémédiablement compromise, il renvoie le dossier à la commission.
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35677,13 +35705,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5-1, alinéas 3, 4 et 5 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -35694,17 +35718,24 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L724-1 (VD)
-  - Code de la consommation - art. L741-3 (VD)
+  - Code de la consommation - art. L724-1
+  - Code de la consommation - art. L741-3
 
-
-##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation<a id=446></a>
 
 ###### Article L741-8
 
-Lorsque le juge d'instance statue en application de l'article L. 733-15, le rétablissement personnel sans liquidation
-judiciaire emporte les mêmes effets que ceux mentionnés à l'article L. 741-3. Cependant, dans ce cas, les dettes sont
-arrêtées à la date du jugement prononçant le rétablissement personnel sans liquidation judiciaire.
+Avant de statuer, le juge peut faire publier un appel aux créanciers. Il peut vérifier, même d'office, la validité des
+créances et des titres qui les constatent ainsi que le montant des sommes réclamées et s'assurer que le débiteur se trouve
+bien dans la situation mentionnée au deuxième alinéa de l'article L. 724-1. Il peut également prévoir toute mesure
+d'instruction qu'il estime utile. Nonobstant toute disposition contraire, le juge peut obtenir communication de tout
+renseignement lui permettant d'apprécier la situation du débiteur et l'évolution possible de celle-ci.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35712,18 +35743,14 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5-2, alinéa 1 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L733-15 (VD)
-  - Code de la consommation - art. L741-3 (VD)
+  - Code de la consommation - art. L741-3
 
 _Cité par_:
 
@@ -35733,11 +35760,14 @@ _Cité par_:
 
 ###### Article L741-9
 
-Avant de statuer, le juge peut faire publier un appel aux créanciers. Il peut vérifier, même d'office, la validité des
-créances, des titres qui les constatent ainsi que le montant des sommes réclamées et s'assurer que le débiteur se trouve bien
-dans la situation définie au deuxième alinéa de l'article L. 724-1. Il peut également prévoir toute mesure d'instruction
-qu'il estime utile. Nonobstant toute disposition contraire, le juge peut obtenir communication de tout renseignement lui
-permettant d'apprécier la situation du débiteur et l'évolution possible de celle-ci.
+Les créances dont les titulaires n'ont pas formé tierce opposition dans un délai fixé par décret sont éteintes.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35745,9 +35775,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -35761,39 +35791,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L724-1 (VD)
+  - Code de la consommation - art. L724-1
 
 
-###### Article L741-10
+#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=449></a>
 
-Les créances dont les titulaires n'ont pas formé tierce opposition dans un délai fixé par décret sont éteintes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Abrogé par_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5-2, alinéa 2 partiel extinction créances (Ab)
-
-_Cité par_:
-
-  - Code de la consommation - art. L771-2 (VD)
-
-
-#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=447></a>
-
-##### Section 1 : Ouverture de la procédure<a id=448></a>
+##### Section 1 : Ouverture de la procédure<a id=450></a>
 
 ###### Article L742-1
 
@@ -35805,7 +35808,14 @@ tribunal d'instance aux fins d'ouverture d'une procédure de rétablissement per
 L'absence de réponse du débiteur aux convocations vaut refus de cette saisine. 
 
 En cas de refus du débiteur, la commission reprend sa mission dans les termes des dispositions des articles L. 732-1, L.
-733-1, L. 733-7 et L. 733-8.
+733-1, L. 733-4 et L. 733-7.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35813,19 +35823,15 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-3, alinéa 13 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L724-1 (VD)
-  - Code de la consommation - art. L732-1 (VD)
-  - Code de la consommation - art. L733-1 (VD)
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
   - Code de la consommation - art. L733-7 (VD)
 
 _Cité par_:
@@ -35836,9 +35842,16 @@ _Cité par_:
 
 ###### Article L742-2
 
-A l'occasion des recours exercés devant lui en application des dispositions des articles L. 723-3, L. 723-4 et L. 733-12, le
+A l'occasion des recours exercés devant lui en application des dispositions des articles L. 723-3, L. 723-4 et L. 733-10, le
 juge du tribunal d'instance peut, avec l'accord du débiteur, décider l'ouverture d'une procédure de rétablissement personnel
 avec liquidation judiciaire.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -35846,17 +35859,13 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L330-1, alinéa 6 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L723-3 (VD)
+  - Code de la consommation - art. L723-3
   - Code de la consommation - art. L733-12 (VD)
 
 _Cité par_:
@@ -36038,7 +36047,7 @@ _Cité par_:
   - Code de la consommation - art. R742-10 (V)
 
 
-##### Section 2 : Déclaration et arrêté des créances<a id=449></a>
+##### Section 2 : Déclaration et arrêté des créances<a id=451></a>
 
 ###### Article L742-10
 
@@ -36122,7 +36131,7 @@ _Anciens textes_:
   - Code de la consommation - art. L332-8 , début 1ère phrase (Ab)
 
 
-##### Section 3 : Liquidation des biens du débiteur<a id=450></a>
+##### Section 3 : Liquidation des biens du débiteur<a id=452></a>
 
 ###### Article L742-14
 
@@ -36265,7 +36274,7 @@ _Anciens textes_:
   - Code de la consommation - art. L332-8, alinéa 6 (Ab)
 
 
-##### Section 4 : Clôture de la procédure<a id=451></a>
+##### Section 4 : Clôture de la procédure<a id=453></a>
 
 ###### Article L742-20
 
@@ -36384,14 +36393,25 @@ _Anciens textes_:
   - Code de la consommation - art. L332-9, alinéa 3 (Ab)
 
 
-##### Section 5 : Plan<a id=452></a>
+##### Section 5 : Plan<a id=454></a>
 
 ###### Article L742-24
 
 A titre exceptionnel, s'il estime que la liquidation judiciaire peut être évitée, le juge établit, le cas échéant sur
-proposition du mandataire, un plan comportant les mesures mentionnées aux articles L. 733-1, L. 733-7 et L. 733-8.
+proposition du mandataire, un plan comportant les mesures mentionnées aux articles L. 733-1, L. 733-4 et L. 733-7.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 _Cité par_:
 
@@ -36400,22 +36420,14 @@ _Cité par_:
   - Code de la consommation - art. R742-17 (V)
   - Code de la consommation - art. R742-56 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-10, alinéa 1 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 
 ###### Article L742-25
@@ -36451,12 +36463,19 @@ _Cité par_:
   - Code de la consommation - art. R742-57 (V)
 
 
-#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=453></a>
+#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=455></a>
 
 ###### Article L743-1
 
-Les dettes effacées en application des dispositions des articles L. 741-3, L. 741-7, L. 741-8 et L. 742-21 valent
+Les dettes effacées en application des dispositions des articles L. 741-2, L. 741-6, L. 741-7 et L. 742-21 valent
 régularisation des incidents au sens de l'article L. 131-73 du code monétaire et financier.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -36464,9 +36483,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Anciens textes_:
 
@@ -36476,8 +36495,8 @@ _Cite_:
 
   - Code de la consommation - art. L741-3 (VD)
   - Code de la consommation - art. L741-7 (VD)
-  - Code de la consommation - art. L742-21 (VD)
-  - Code monétaire et financier - art. L131-73 (M)
+  - Code de la consommation - art. L742-21
+  - Code monétaire et financier - art. L131-73
 
 _Cité par_:
 
@@ -36507,9 +36526,9 @@ _Cité par_:
   - Code de la consommation - art. R743-2 (V)
 
 
-### Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS<a id=454></a>
+### Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS<a id=456></a>
 
-#### Chapitre Ier : Objet du fichier<a id=455></a>
+#### Chapitre Ier : Objet du fichier<a id=457></a>
 
 ###### Article L751-1
 
@@ -36720,7 +36739,7 @@ _Cite_:
   - Code de la consommation - art. L751-2 (VD)
 
 
-#### Chapitre II : Inscription et radiation<a id=456></a>
+#### Chapitre II : Inscription et radiation<a id=458></a>
 
 ###### Article L752-1
 
@@ -36773,7 +36792,14 @@ fins d'inscription au fichier.
 La même obligation pèse sur le greffe du juge du tribunal d'instance lorsque, sur recours de l'intéressé contre une décision
 de recevabilité rendue par la commission, la situation mentionnée à l'article L. 711-1 est reconnue par ce juge ou lorsque le
 débiteur a bénéficié de l'effacement des dettes résultant d'un rétablissement personnel en application des dispositions des
-articles L. 741-3, L. 741-7, L. 741-8 ou L. 742-22.
+articles L. 741-2, L. 741-6, L. 741-7 ou L. 742-22.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -36788,13 +36814,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-203 du 21 février 2017 - art. 14
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
   - Code de la consommation - art. L711-1
-  - Code de la consommation - art. L741-3
-  - Code de la consommation - art. L741-7
+  - Code de la consommation - art. L741-2 (VT)
+  - Code de la consommation - art. L741-6 (VT)
   - Code de la consommation - art. L742-22
 
 
@@ -36804,23 +36830,30 @@ Le fichier recense les mesures du plan conventionnel de redressement mentionnée
 communiquées à la Banque de France par la commission. L'inscription est conservée pendant toute la durée de l'exécution du
 plan conventionnel, sans pouvoir excéder sept ans. 
 
-Le fichier recense également les mesures prises en vertu des articles L. 733-1, L. 733-7 et L. 733-8 qui sont communiquées à
-la Banque de France par la commission ou le greffe du juge du tribunal d'instance lorsqu'elles sont soumises à son
-homologation. L'inscription est conservée pendant toute la durée d'exécution de ces mesures, sans pouvoir excéder sept ans. 
+Le fichier recense également les mesures prises en vertu des articles L. 733-1, L. 733-4 et L. 733-7 qui sont communiquées à
+la Banque de France par la commission ou le greffe du juge du tribunal d'instance. L'inscription est conservée pendant toute
+la durée d'exécution de ces mesures, sans pouvoir excéder sept ans. 
 
 Lorsque les mesures du plan conventionnel mentionnées à l'article L. 732-2 et celles prises en application des articles L.
-733-1, L. 733-7 et L. 733-8 sont exécutées sans incident, les informations relatives aux mentions qui ont entraîné leur
-déclaration sont radiées à l'expiration d'une période de cinq ans à compter de la signature du plan conventionnel ou de la
-date de la décision de la commission qui impose des mesures ou lorsque les mesures recommandées par la commission ont acquis
-force exécutoire. Lorsque, pour une même personne, sont prescrits successivement, dans le cadre d'une révision ou d'un
-renouvellement du plan ou des mesures, un plan conventionnel mentionné à l'article L. 732-2 et des mesures prises en
-application des articles L. 733-1, L. 733-7 et L. 733-8, l'inscription est maintenue pendant la durée globale d'exécution du
-plan et des mesures sans pouvoir excéder sept ans. 
+733-1, L. 733-4 et L. 733-7 sont exécutées sans incident, les informations relatives aux mentions qui ont entraîné leur
+déclaration sont radiées à l'expiration d'une période de cinq ans à compter de la signature du plan conventionnel, de la date
+de la décision de la commission qui impose des mesures ou de la date du jugement ordonnant des mesures. Lorsque, pour une
+même personne, sont prescrits successivement, dans le cadre d'une révision ou d'un renouvellement du plan ou des mesures, un
+plan conventionnel mentionné à l'article L. 732-2 et des mesures prises en application des articles L. 733-1, L. 733-4 et L.
+733-7, l'inscription est maintenue pendant la durée globale d'exécution du plan et des mesures sans pouvoir excéder sept
+ans. 
 
 Pour les personnes ayant bénéficié de la procédure de rétablissement personnel, les informations relatives aux mentions
-correspondantes sont radiées à l'expiration d'une période de cinq ans à compter de la date d'homologation ou de clôture de la
-procédure. La même durée de cinq ans est applicable aux personnes physiques ayant fait l'objet d'une liquidation judiciaire
-en application de l'article L. 670-6 du code de commerce.
+correspondantes sont radiées à l'expiration d'une période de cinq ans à compter de la décision de la commission ou de la
+clôture de la procédure. La même durée de cinq ans est applicable aux personnes physiques ayant fait l'objet d'une
+liquidation judiciaire en application de l'article L. 670-6 du code de commerce.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -36828,29 +36861,25 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de commerce - art. L670-6 (M)
-  - Code de la consommation - art. L732-2 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L333-4, III, alinéas 2, 3 et 4  (Ab)
+  - Code de commerce - art. L670-6
+  - Code de la consommation - art. L732-2
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
   - Code de la consommation - art. L771-2 (VD)
 
 
-### Titre VI : SANCTIONS<a id=457></a>
+### Titre VI : SANCTIONS<a id=459></a>
 
-#### Chapitre Ier : Sanctions civiles<a id=458></a>
+#### Chapitre Ier : Sanctions civiles<a id=460></a>
 
 ###### Article L761-1
 
@@ -36863,7 +36892,14 @@ Est déchue du bénéfice des dispositions du présent livre :
 3° Toute personne qui, sans l'accord de ses créanciers, de la commission ou du juge, a aggravé son endettement en souscrivant
 de nouveaux emprunts ou aura procédé à des actes de disposition de son patrimoine pendant le déroulement de la procédure de
 traitement de la situation de surendettement ou de rétablissement personnel ou pendant l'exécution du plan ou des mesures
-prévues à l'article L. 733-1 ou à l'article L. 733-7.
+prévues à l'article L. 733-1 ou à l'article L. 733-4.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -36871,13 +36907,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L333-2, alinéas 1 à 4 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -36887,19 +36919,26 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 
 ###### Article L761-2
 
 Tout acte ou tout paiement effectué en violation des articles L. 721-2, L. 722-2, L. 722-3, L. 722-4, L. 722-5, L. 722-12, L.
-722-13, L. 722-14, L. 722-16, L. 724-4, L. 732-2, L. 733-1 et L. 733-7 peut être annulé par le juge du tribunal d'instance, à
+722-13, L. 722-14, L. 722-16, L. 724-4, L. 732-2, L. 733-1 et L. 733-4 peut être annulé par le juge du tribunal d'instance, à
 la demande de la commission, présentée pendant le délai d'un an à compter de l'acte ou du paiement de la créance. 
 
 L'établissement de crédit qui tient le compte du déposant, conformément à ses devoirs de non-immixtion et de diligence, ne
 peut, en raison de cette seule qualité de teneur de compte, voir sa responsabilité engagée du fait des paiements effectués
 par le débiteur non dessaisi, en violation de l'interdiction mentionnée à l'article L. 722-5.
+
+**Nota:**
+
+Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
+1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
+a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
+conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -36907,28 +36946,24 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L333-2-1 (Ab)
+  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cite_:
 
-  - Code de la consommation - art. L721-2 (VD)
-  - Code de la consommation - art. L722-12 (VD)
-  - Code de la consommation - art. L722-16 (VD)
-  - Code de la consommation - art. L722-2 (VD)
-  - Code de la consommation - art. L722-5 (VD)
-  - Code de la consommation - art. L724-4 (VD)
-  - Code de la consommation - art. L732-2 (VD)
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L721-2
+  - Code de la consommation - art. L722-12
+  - Code de la consommation - art. L722-16
+  - Code de la consommation - art. L722-2
+  - Code de la consommation - art. L722-5
+  - Code de la consommation - art. L724-4
+  - Code de la consommation - art. L732-2
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
 
 
-#### Chapitre II : Sanctions pénales<a id=459></a>
+#### Chapitre II : Sanctions pénales<a id=461></a>
 
 ###### Article L762-1
 
@@ -36993,11 +37028,11 @@ _Cite_:
   - Code pénal - art. 226-18 (M)
 
 
-### Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=460></a>
+### Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=462></a>
 
-#### Chapitre unique : Traitement des situations de surendettement<a id=461></a>
+#### Chapitre unique : Traitement des situations de surendettement<a id=463></a>
 
-##### Section 1 : Dispositions relatives aux îles Wallis et Futuna<a id=462></a>
+##### Section 1 : Dispositions relatives aux îles Wallis et Futuna<a id=464></a>
 
 ###### Article L771-1
 
@@ -37746,7 +37781,7 @@ _Cite_:
   - Code de la consommation - art. L771-2 (VD)
 
 
-##### Section 2 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie<a id=463></a>
+##### Section 2 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie<a id=465></a>
 
 ###### Article L771-4
 
@@ -37922,7 +37957,7 @@ _Cite_:
   - Code monétaire et financier - art. L712-4-1 (M)
 
 
-##### Section 3 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin<a id=464></a>
+##### Section 3 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin<a id=466></a>
 
 ###### Article L771-8
 
@@ -37964,7 +37999,7 @@ _Cite_:
   - Code de la consommation - art. L733-7 (VT)
 
 
-##### Section 4 : Dispositions relatives à Saint-Pierre-et-Miquelon<a id=465></a>
+##### Section 4 : Dispositions relatives à Saint-Pierre-et-Miquelon<a id=467></a>
 
 ###### Article L771-10
 
@@ -38006,7 +38041,7 @@ _Cite_:
   - Code de la consommation - art. L733-7 (VT)
 
 
-##### Section 5 : Dispositions communes<a id=466></a>
+##### Section 5 : Dispositions communes<a id=468></a>
 
 ###### Article L771-12
 
@@ -38031,11 +38066,11 @@ _Créé par_:
   - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
 
 
-## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=467></a>
+## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=469></a>
 
-### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=468></a>
+### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=470></a>
 
-#### Chapitre Ier : Agrément des associations<a id=469></a>
+#### Chapitre Ier : Agrément des associations<a id=471></a>
 
 ###### Article L811-1
 
@@ -38109,11 +38144,11 @@ _Cité par_:
   - Code de la consommation - art. R811-7 (V)
 
 
-### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=470></a>
+### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=472></a>
 
-#### Chapitre II : Institut national de la consommation<a id=471></a>
+#### Chapitre II : Institut national de la consommation<a id=473></a>
 
-##### Section 1 : Organisation et missions<a id=472></a>
+##### Section 1 : Organisation et missions<a id=474></a>
 
 ###### Article L822-1
 
@@ -38191,7 +38226,7 @@ _Anciens textes_:
   - Code de la consommation - art. L531-4 (Ab)
 
 
-##### Section 2 : Les commissions placées auprès de l'Institut national de la consommation<a id=473></a>
+##### Section 2 : Les commissions placées auprès de l'Institut national de la consommation<a id=475></a>
 
 ###### Article L822-4
 
@@ -38358,7 +38393,7 @@ _Cite_:
   - Code pénal - art. 226-13
 
 
-#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=474></a>
+#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=476></a>
 
 ###### Article L823-1
 
@@ -38421,13 +38456,13 @@ _Anciens textes_:
   - Code de la consommation - art. L562-1 (Ab)
 
 
-# Partie réglementaire nouvelle<a id=475></a>
+# Partie réglementaire nouvelle<a id=477></a>
 
-## Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES<a id=476></a>
+## Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES<a id=478></a>
 
-### Titre Ier : INFORMATION DES CONSOMMATEURS<a id=477></a>
+### Titre Ier : INFORMATION DES CONSOMMATEURS<a id=479></a>
 
-#### Chapitre Ier : Obligation générale d'information précontractuelle<a id=478></a>
+#### Chapitre Ier : Obligation générale d'information précontractuelle<a id=480></a>
 
 ###### Article D111-4
 
@@ -38485,15 +38520,10 @@ _Anciens textes_:
 
 ###### Article D111-6
 
-Pour l'application des dispositions de l'article L. 111-6, la fourniture d'informations en ligne permettant la comparaison
-des prix et des caractéristiques de biens et de services s'entend de l'activité de sites comparant des biens et des services
-et permettant, le cas échéant, l'accès aux sites de vente de ces biens ou de fourniture de ces services. 
+Les règles particulières applicables à certains opérateurs de plateformes mentionnés au I de l'article L. 111-7 sont établies
+dans les dispositions propres à chacun d'eux. 
 
-Relèvent également des dispositions de l'article L. 111-6, les sites de vente à distance qui proposent, à titre principal, la
-comparaison de biens ou de services, vendus par eux-mêmes ou par des tiers. 
-
-Toute personne qui, pour son activité commerciale par voie électronique, utilise les termes de " comparateur " ou de "
-comparaison ", exerce une activité de comparaison au sens de l'article L. 111-6.
+Les règles générales des articles D. 111-7 à D. 111-8 s'appliquent sans préjudice de ces règles particulières.
 
 **Liens relatifs à cet article**
 
@@ -38501,31 +38531,186 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-1434 du 29 septembre 2017 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. D111-10 (VD)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. D111-5 (MMN)
+  - Décret n°2017-1434 du 29 septembre 2017 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L111-6 (V)
+  - Code de la consommation - art. D111-7 (VD)
+  - Code de la consommation - art. L111-7
 
 
 ###### Article D111-7
 
-Toute personne exerçant l'activité mentionnée à l'article L. 111-6 précise dans une rubrique spécifique le fonctionnement du
-service de comparaison. 
+I.-Tout opérateur de plateforme en ligne mentionné au I de l'article L. 111-7 précise dans une rubrique spécifique les
+modalités de référencement, déréférencement et de classement. 
+
+Cette rubrique est directement et aisément accessible à partir de toutes les pages du site. Elle comporte les informations
+suivantes : 
+
+1° Les conditions de référencement et de déréférencement des contenus et des offres de biens et services, notamment les
+règles applicables pour être référencé et les obligations dont le non-respect conduit à être déréférencé ; 
+
+2° Les critères de classement par défaut des contenus et des offres de biens et services, ainsi que leur principaux
+paramètres ; 
+
+3° Le cas échéant, l'existence d'un lien capitalistique ou d'une rémunération entre l'opérateur de plateforme et les offreurs
+référencés dès lors que ce lien ou que cette rémunération exercent une influence sur le référencement ou le classement des
+contenus, des biens ou des services proposés ou mis en ligne,. 
+
+II.-Pour chaque résultat de classement, à proximité de l'offre ou du contenu classé, tout opérateur de plateforme en ligne
+fait apparaître, par tout moyen distinguant ce résultat, l'information selon laquelle son classement a été influencé par
+l'existence d'une relation contractuelle, d'un lien capitalistique ou d'une rémunération entre l'opérateur de plateforme et
+l'offreur référencé, y compris sur ce qui relève de la publicité au sens de l'article 20 de la loi n° 2004-575 du 21 juin
+2004 pour la confiance en l'économie numérique. 
+
+Tout opérateur de plateforme en ligne fait apparaître, de manière lisible et aisément accessible, sur chaque page de
+résultats, le critère de classement utilisé ainsi que la définition de ce critère, y compris par renvoi à la rubrique
+mentionnée au I.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 20 (M)
+  - Code de la consommation - art. L111-7 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-1434 du 29 septembre 2017 - art. 1
+
+_Cité par_:
+
+  - Code de la consommation - art. D111-6 (VD)
+
+
+###### Article D111-8
+
+I.-Tout opérateur de plateforme en ligne, dont l'activité relève du 2° du I de l'article L. 111-7, précise, dans une rubrique
+directement et aisément accessible à partir de toutes les pages du site, sans que l'utilisateur ait besoin de s'identifier,
+les informations suivantes : 
+
+1° La qualité des personnes autorisées à déposer une offre de biens et de services, et notamment leur statut de professionnel
+ou de consommateur ; 
+
+2° Le descriptif du service de mise en relation, ainsi que la nature et l'objet des contrats dont il permet la conclusion ; 
+
+3° Le cas échéant, le prix du service de mise en relation ou le mode de calcul de ce prix, ainsi que le prix de tout service
+additionnel payant, lorsqu'ils sont mis à la charge du consommateur ; 
+
+4° Le cas échéant, les modalités de paiement et le mode de gestion, opéré directement ou par un tiers, de la transaction
+financière ; 
+
+5° Le cas échéant, les assurances et garanties proposées par l'opérateur de plateforme ; 
+
+6° Les modalités de règlement des litiges et, le cas échéant, le rôle de l'opérateur de plateforme dans ce règlement. 
+
+II.-Tout opérateur de plateforme en ligne mentionné au I, qui met en relation des consommateurs ou des non-professionnels
+entre eux, à titre principal ou accessoire, indique également, de manière lisible et compréhensible : 
+
+1° La qualité de l'offreur, selon que l'offre est proposée par un professionnel ou par un consommateur ou non-professionnel,
+en fonction du statut déclaré par celui-ci ; 
+
+2° Si l'offre est proposée par un consommateur ou un non-professionnel : 
+
+a) préalablement au dépôt de l'offre, les sanctions encourues par l'offreur s'il agit à titre professionnel alors qu'il se
+présente comme un consommateur ou un non-professionnel, en application des dispositions de l'article L. 132-2 ; 
+
+b) pour chaque offre :
+
+- le prix total des biens ou des services proposés, y compris, le cas échéant, les frais de mise en relation et tous les
+frais supplémentaires exigibles, sur la base du prix déclaré par l'offreur ;
+
+- le droit de rétractation lorsque les parties au contrat l'ont prévu, ou, à défaut, l'absence de droit de rétractation pour
+l'acheteur au sens de l'article L. 221-18 ;
+
+- l'absence de garantie légale de conformité des biens mentionnée aux articles L. 217-4 et suivants et l'application des
+dispositions des articles 1641 et suivants du code civil relatifs à la garantie des défauts de la chose vendue ;
+
+- les dispositions du code civil relatives au droit des obligations et de la responsabilité civile applicables à la relation
+contractuelle, par l'affichage d'un lien hypertexte. 
+
+S'agissant des obligations des parties en matière fiscale, il est fait application de l'article 171 AX du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art.
+
+_Modifié par_:
+
+  - Décret n°2017-1434 du 29 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L111-7 (V)
+  - Code de la consommation - art. L132-2 (V)
+  - Code de la consommation - art. L217-4 (V)
+  - Code de la consommation - art. L221-18 (V)
+  - Code civil - art. 1641 (V)
+
+
+###### Article D111-9
+
+Tout opérateur de plateforme en ligne, lorsqu'il met en relation des professionnels avec des consommateurs et permet la
+conclusion d'un contrat de vente ou de prestation de service, met à la disposition de ces professionnels l'espace nécessaire
+pour la communication des informations préalables à la vente d'un bien ou à la fourniture d'un service, prévues par les
+articles L. 221-5 et L. 221-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art.
+
+_Modifié par_:
+
+  - Décret n°2017-1434 du 29 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L221-5
+
+
+###### Article D111-10
+
+Pour l'application des dispositions du neuvième alinéa de l'article L. 111-7, la fourniture d'informations en ligne
+permettant la comparaison des prix et des caractéristiques de biens et de services s'entend de l'activité de sites comparant
+des biens et des services et permettant, le cas échéant, l'accès aux sites de vente de ces biens ou de fourniture de ces
+services. 
+
+Relèvent également des dispositions du neuvième alinéa de l'article L. 111-7, les sites de vente à distance qui proposent, à
+titre principal, la comparaison de biens ou de services, vendus par eux-mêmes ou par des tiers. 
+
+Toute personne qui, pour son activité commerciale par voie électronique, utilise les termes de " comparateur " ou de "
+comparaison ", exerce une activité de comparaison au sens du neuvième alinéa de l'article L. 111-7.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2016-884 du 29 juin 2016 - art.
+
+_Modifié par_:
+
+  - Décret n°2017-1434 du 29 septembre 2017 - art. 1
+
+_Anciens textes_:
+
+  - Code de la consommation - art. D111-6 (VT)
+
+_Cite_:
+
+  - Code de la consommation - art. L111-7 (V)
+
+
+###### Article D111-11
+
+Toute personne exerçant l'activité mentionnée au neuvième alinéa de l'article L. 111-7 précise dans une rubrique spécifique
+le fonctionnement du service de comparaison. 
 
 Cette rubrique est directement et aisément accessible sur toutes les pages du site et est matérialisée par une mention ou un
 signe distinctif. Elle comporte les mentions suivantes : 
@@ -38549,39 +38734,24 @@ référencés ;
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Créé par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-1434 du 29 septembre 2017 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. D111-11 (VD)
+  - Décret n°2017-1434 du 29 septembre 2017 - art. 1
 
 _Anciens textes_:
 
-  - Code de la consommation - art. D111-6 (MMN)
-
-_Cité par_:
-
-  - Code de la consommation - art. D111-6 (VD)
+  - Code de la consommation - art. D111-7 (VT)
 
 _Cite_:
 
-  - Code de la consommation - art. L111-6
+  - Code de la consommation - art. L111-7 (V)
 
 
-###### Article D111-8
+###### Article D111-12
 
-Toute personne exerçant l'activité mentionnée à l'article L. 111-6 fait apparaître, de manière lisible et compréhensible, en
-haut de chaque page de résultats de comparaison et avant le classement des offres, les informations suivantes : 
+Toute personne exerçant l'activité mentionnée au neuvième alinéa de l'article L. 111-7 fait apparaître, de manière lisible et
+compréhensible, en haut de chaque page de résultats de comparaison et avant le classement des offres, les informations
+suivantes : 
 
 1° Le critère de classement des offres utilisé par défaut ainsi que la définition de ce critère, sauf si le critère de
 classement utilisé par défaut est le prix. La définition est indiquée, à proximité du critère, par tout moyen approprié ; 
@@ -38593,37 +38763,25 @@ référencés ;
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Créé par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-1434 du 29 septembre 2017 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. D111-12 (VD)
+  - Décret n°2017-1434 du 29 septembre 2017 - art. 1
 
 _Anciens textes_:
 
-  - Code de la consommation - art. D111-7 (MMN)
+  - Code de la consommation - art. D111-8 (VT)
 
 _Cite_:
 
-  - Code de la consommation - art. L111-6 (V)
+  - Code de la consommation - art. L111-7 (V)
 
 
-###### Article D111-9
+###### Article D111-13
 
 Sans préjudice des obligations d'information prévues aux articles L. 221-5 et L. 222-5 applicables aux vendeurs à distance de
-produits et de services, toute personne exerçant l'activité mentionnée à l'article L. 111-6 fait apparaître, de manière
-lisible et compréhensible, à proximité de chaque offre de produit ou de services dont elle propose la comparaison, les
-informations suivantes : 
+produits et de services, toute personne exerçant l'activité mentionnée au neuvième alinéa de l'article L. 111-7 fait
+apparaître, de manière lisible et compréhensible, à proximité de chaque offre de produit ou de services dont elle propose la
+comparaison, les informations suivantes : 
 
 1° Les caractéristiques essentielles du bien ou du service ; 
 
@@ -38638,67 +38796,143 @@ conditions particulières d'application du prix annoncé et sa base de calcul lo
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Créé par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-1434 du 29 septembre 2017 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. D111-13 (VD)
+  - Décret n°2017-1434 du 29 septembre 2017 - art. 1
 
 _Anciens textes_:
 
-  - Code de la consommation - art. D111-8 (MMN)
+  - Code de la consommation - art. D111-9 (VT)
 
 _Cite_:
 
-  - Code de la consommation - art. L111-6 (V)
+  - Code de la consommation - art. L111-7 (V)
   - Code de la consommation - art. L217-15 (V)
   - Code de la consommation - art. L221-5 (V)
   - Code de la consommation - art. L222-5 (V)
 
 
-###### Article D111-10
+###### Article D111-14
 
 En application de l'article 20 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique et dans
-l'exercice de l'activité définie à l'article L. 111-6, seules les offres de biens ou de services référencées à titre payant,
-et dont le rang de classement dépend de cette rémunération, font apparaître leur caractère publicitaire par la mention du mot
-" Annonces " sur la page d'affichage de résultats du site comparateur.
+l'exercice de l'activité définie au neuvième alinéa de l'article L. 111-7, seules les offres de biens ou de services
+référencées à titre payant, et dont le rang de classement dépend de cette rémunération, font apparaître leur caractère
+publicitaire par la mention du mot " Annonces " sur la page d'affichage de résultats du site comparateur.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°2004-575 du 21 juin 2004 - art. 20 (M)
-  - Code de la consommation - art. L111-6 (V)
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Code de la consommation - art. L111-7 (V)
 
 _Créé par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2017-1434 du 29 septembre 2017 - art. 1
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. D111-14 (VD)
+  - Décret n°2017-1434 du 29 septembre 2017 - art. 1
 
 _Anciens textes_:
 
-  - Code de la consommation - art. D111-9 (MMN)
+  - Code de la consommation - art. D111-10 (VT)
+
+
+###### Article D111-16
+
+Pour l'application des dispositions de l'article L. 111-7-2, un avis en ligne s'entend de l'expression de l'opinion d'un
+consommateur sur son expérience de consommation grâce à tout élément d'appréciation, qu'il soit qualitatif ou quantitatif. 
+
+L'expérience de consommation s'entend que le consommateur ait ou non acheté le bien ou le service pour lequel il dépose un
+avis. 
+
+Ne sont pas considérés comme des avis en ligne au sens de l'article L. 111-7-2, les parrainages d'utilisateurs, les
+recommandations par des utilisateurs d'avis en ligne, ainsi que les avis d'experts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1436 du 29 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L111-7-2
+
+
+###### Article D111-17
+
+Toute personne exerçant l'activité mentionnée à l'article L. 111-7-2 indique de manière claire et visible : 
+
+1° A proximité des avis : 
+
+a) L'existence ou non d'une procédure de contrôle des avis ; 
+
+b) La date de publication de chaque avis, ainsi que celle de l'expérience de consommation concernée par l'avis ; 
+
+c) Les critères de classement des avis parmi lesquels figurent le classement chronologique. 
+
+2° Dans une rubrique spécifique facilement accessible : 
+
+a) L'existence ou non de contrepartie fournie en échange du dépôt d'avis ; 
+
+b) Le délai maximum de publication et de conservation d'un avis.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1436 du 29 septembre 2017 - art. 1
+
+_Cité par_:
+
+  - Code de la consommation - art. D111-18 (VD)
+
+_Cite_:
+
+  - Code de la consommation - art. L111-7-2
+
+
+###### Article D111-18
+
+Lorsque la personne exerçant l'activité mentionnée à l'article L. 111-7-2 exerce un contrôle sur les avis, elle veille à ce
+que les traitements de données à caractère personnel réalisés dans ce cadre soient conformes à la loi n° 78-17 du 6 janvier
+1978 relative à l'informatique, aux fichiers et aux libertés modifiée et précise dans la rubrique prévue au 2° de l'article
+D. 111-17 : 
+
+1° Les caractéristiques principales du contrôle des avis au moment de leur collecte, de leur modération ou de leur
+diffusion ; 
+
+2° La possibilité, le cas échéant, de contacter le consommateur auteur de l'avis ; 
+
+3° La possibilité ou non de modifier un avis et, le cas échéant, les modalités de modification de l'avis ; 
+
+4° Les motifs justifiant un refus de publication de l'avis.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978
+  - Code de la consommation - art. D111-17
+  - Code de la consommation - art. L111-7-2
+
+_Créé par_:
+
+  - Décret n°2017-1436 du 29 septembre 2017 - art. 1
+
+
+###### Article D111-19
+
+Lorsque la personne exerçant l'activité mentionnée à l'article L. 111-7-2 refuse la publication d'un avis, elle informe son
+auteur des motifs de refus par tout moyen approprié.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1436 du 29 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L111-7-2
 
 
 ###### Article R111-1
@@ -38835,7 +39069,7 @@ _Anciens textes_:
   - Code de la consommation - art. R111-2, II (Ab)
 
 
-#### Chapitre II : Information sur les prix et conditions de vente<a id=479></a>
+#### Chapitre II : Information sur les prix et conditions de vente<a id=481></a>
 
 ###### Article R112-1
 
@@ -38955,7 +39189,7 @@ _Cite_:
   - Code de la consommation - art. R112-1 (V)
 
 
-#### Chapitre III : Information sur les conditions sociales de fabrication des produits<a id=480></a>
+#### Chapitre III : Information sur les conditions sociales de fabrication des produits<a id=482></a>
 
 ###### Article D113-1
 
@@ -39021,9 +39255,9 @@ _Cite_:
   - Code de la consommation - art. L113-1 (V)
 
 
-### Titre II : PRATIQUES COMMERCIALES INTERDITES ET PRATIQUES COMMERCIALES RÉGLEMENTÉES<a id=481></a>
+### Titre II : PRATIQUES COMMERCIALES INTERDITES ET PRATIQUES COMMERCIALES RÉGLEMENTÉES<a id=483></a>
 
-#### Chapitre Ier : Pratiques commerciales interdites<a id=482></a>
+#### Chapitre Ier : Pratiques commerciales interdites<a id=484></a>
 
 ###### Article R121-1
 
@@ -39070,9 +39304,9 @@ _Anciens textes_:
   - Code de la consommation - art. L121-35, alinéas 2 et 3 (Ab)
 
 
-#### Chapitre II : Pratiques commerciales réglementées<a id=483></a>
+#### Chapitre II : Pratiques commerciales réglementées<a id=485></a>
 
-##### Section unique : Utilisation de la mention “fait maison”<a id=484></a>
+##### Section unique : Utilisation de la mention “fait maison”<a id=486></a>
 
 ###### Article D122-1
 
@@ -39189,9 +39423,9 @@ _Cite_:
   - Code de la consommation - art. D122-1 (V)
 
 
-### Titre III : SANCTIONS<a id=485></a>
+### Titre III : SANCTIONS<a id=487></a>
 
-#### Chapitre Ier : Information des consommateurs<a id=486></a>
+#### Chapitre Ier : Information des consommateurs<a id=488></a>
 
 ###### Article R131-1
 
@@ -39222,7 +39456,7 @@ _Anciens textes_:
   - Code de la consommation - art. R134-1 (Ab)
 
 
-#### Chapitre II : Pratiques commerciales interdites et pratiques commerciales réglementées<a id=487></a>
+#### Chapitre II : Pratiques commerciales interdites et pratiques commerciales réglementées<a id=489></a>
 
 ###### Article R132-1
 
@@ -39304,11 +39538,11 @@ _Cite_:
   - Code pénal - art. R635-2 (V)
 
 
-## Livre II : FORMATION ET EXÉCUTION DES CONTRATS<a id=488></a>
+## Livre II : FORMATION ET EXÉCUTION DES CONTRATS<a id=490></a>
 
-### Titre Ier : CONDITIONS GÉNÉRALES DES CONTRATS<a id=489></a>
+### Titre Ier : CONDITIONS GÉNÉRALES DES CONTRATS<a id=491></a>
 
-#### Chapitre II : Clauses abusives<a id=490></a>
+#### Chapitre II : Clauses abusives<a id=492></a>
 
 ###### Article R212-1
 
@@ -39532,7 +39766,7 @@ _Cite_:
   - Code de la consommation - art. R212-1 (V)
 
 
-#### Chapitre III : Conservation des contrats conclus par voie électronique<a id=491></a>
+#### Chapitre III : Conservation des contrats conclus par voie électronique<a id=493></a>
 
 ###### Article D213-1
 
@@ -39584,9 +39818,9 @@ _Cite_:
   - Code de la consommation - art. L213-1 (V)
 
 
-### Titre II : RÈGLES DE FORMATION ET D'EXÉCUTION DE CERTAINS CONTRATS<a id=492></a>
+### Titre II : RÈGLES DE FORMATION ET D'EXÉCUTION DE CERTAINS CONTRATS<a id=494></a>
 
-#### Chapitre Ier : Contrat conclus à distance et hors établissement<a id=493></a>
+#### Chapitre Ier : Contrat conclus à distance et hors établissement<a id=495></a>
 
 ###### Article R221-1
 
@@ -39704,7 +39938,7 @@ _Anciens textes_:
   - Code de la consommation - art. R121-2, III (Ab)
 
 
-#### Chapitre II : Dispositions particulières aux contrats conclus à distance portant sur des services financiers<a id=494></a>
+#### Chapitre II : Dispositions particulières aux contrats conclus à distance portant sur des services financiers<a id=496></a>
 
 ###### Article R222-1
 
@@ -39919,7 +40153,7 @@ _Anciens textes_:
   - Code de la consommation - art. R121-4 (Ab)
 
 
-#### Chapitre III : Opposition au démarchage téléphonique<a id=495></a>
+#### Chapitre III : Opposition au démarchage téléphonique<a id=497></a>
 
 ###### Article R223-1
 
@@ -40157,9 +40391,9 @@ _Anciens textes_:
   - Code de la consommation - art. R121-7-8 (Ab)
 
 
-#### Chapitre IV : Règles spécifiques à des contrats ayant un objet particulier<a id=496></a>
+#### Chapitre IV : Règles spécifiques à des contrats ayant un objet particulier<a id=498></a>
 
-##### Section 1 : Contrats de courtage matrimonial<a id=497></a>
+##### Section 1 : Contrats de courtage matrimonial<a id=499></a>
 
 ###### Article R224-1
 
@@ -40246,7 +40480,7 @@ _Cite_:
   - Code de la consommation - art. L224-91 (V)
 
 
-##### Section 2 : Contrats d'achats de métaux précieux<a id=498></a>
+##### Section 2 : Contrats d'achats de métaux précieux<a id=500></a>
 
 ###### Article R224-4
 
@@ -40346,7 +40580,7 @@ _Cite_:
   - Code de la consommation - art. L224-99
 
 
-##### Section 3 : Contrats dans les domaines bancaire, financier et des assurances<a id=499></a>
+##### Section 3 : Contrats dans les domaines bancaire, financier et des assurances<a id=501></a>
 
 ###### Article R224-8
 
@@ -40410,7 +40644,7 @@ _Cite_:
   - Code des assurances (V)
 
 
-##### Section 4 : Enseignement<a id=500></a>
+##### Section 4 : Enseignement<a id=502></a>
 
 ###### Article R224-11
 
@@ -40433,7 +40667,7 @@ _Cite_:
   - Code de l'éducation (V)
 
 
-##### Section 5 : Contrats portant sur les voyages à forfait<a id=501></a>
+##### Section 5 : Contrats portant sur les voyages à forfait<a id=503></a>
 
 ###### Article R224-12
 
@@ -40455,7 +40689,7 @@ _Créé par_:
   - RECTIFICATION: Décret n°2016-884 du 29 juin 2016 - art., v. init.
 
 
-##### Section 6 : Contrats de prestations de soins médicaux<a id=502></a>
+##### Section 6 : Contrats de prestations de soins médicaux<a id=504></a>
 
 ###### Article D224-13
 
@@ -40478,7 +40712,7 @@ _Cite_:
   - Code de la santé publique (V)
 
 
-##### Section 7 : Contrats d'hébergement de personnes âgées et services d'aide et d'assistance à domicile<a id=503></a>
+##### Section 7 : Contrats d'hébergement de personnes âgées et services d'aide et d'assistance à domicile<a id=505></a>
 
 ###### Article R224-14
 
@@ -40520,7 +40754,7 @@ _Cite_:
   - Code de l'action sociale et des familles (V)
 
 
-##### Section 8 : Contrats de services funéraires<a id=504></a>
+##### Section 8 : Contrats de services funéraires<a id=506></a>
 
 ###### Article R224-16
 
@@ -40542,7 +40776,7 @@ _Cite_:
   - Code général des collectivités territoriales (V)
 
 
-##### Section 9 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques<a id=505></a>
+##### Section 9 : Services accessibles par l'intermédiaire des opérateurs de communications électroniques<a id=507></a>
 
 ###### Article D224-17
 
@@ -40650,7 +40884,7 @@ _Créé par_:
   - Décret n°2016-1238 du 20 septembre 2016 - art. 1
 
 
-##### Section 10 : Entretien et réparation automobiles<a id=506></a>
+##### Section 10 : Entretien et réparation automobiles<a id=508></a>
 
 ###### Article R224-22
 
@@ -40773,7 +41007,7 @@ _Cite_:
   - Code de la consommation - art. R224-22
 
 
-##### Section 11 : Accès aux données de consommation d'électricité ou de gaz naturel<a id=507></a>
+##### Section 11 : Accès aux données de consommation d'électricité ou de gaz naturel<a id=509></a>
 
 ###### Article D224-26
 
@@ -40904,11 +41138,11 @@ _Créé par_:
   - Décret n°2017-976 du 10 mai 2017 - art. 1
 
 
-### Titre IV : SANCTIONS<a id=508></a>
+### Titre IV : SANCTIONS<a id=510></a>
 
-#### Chapitre II : Règles de formation et d'exécution de certains contrats<a id=509></a>
+#### Chapitre II : Règles de formation et d'exécution de certains contrats<a id=511></a>
 
-##### Section 1 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers<a id=510></a>
+##### Section 1 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers<a id=512></a>
 
 ###### Article R242-1
 
@@ -41036,9 +41270,9 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-##### Section 2 : Dispositions spécifiques à des contrats ayant un objet particulier<a id=511></a>
+##### Section 2 : Dispositions spécifiques à des contrats ayant un objet particulier<a id=513></a>
 
-##### Sous-section 1 : Contrats de fournitures d'électricité ou de gaz naturel<a id=512></a>
+##### Sous-section 1 : Contrats de fournitures d'électricité ou de gaz naturel<a id=514></a>
 
 ###### Article R242-6
 
@@ -41303,7 +41537,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Sous-section 2 : Contrats de courtage matrimonial<a id=513></a>
+##### Sous-section 2 : Contrats de courtage matrimonial<a id=515></a>
 
 ###### Article R242-16
 
@@ -41430,9 +41664,9 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-### Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=514></a>
+### Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=516></a>
 
-#### Chapitre II : Règles de formation et d'exécution des contrats<a id=515></a>
+#### Chapitre II : Règles de formation et d'exécution des contrats<a id=517></a>
 
 ###### Article R252-1
 
@@ -41476,13 +41710,13 @@ _Cite_:
   - Code de la consommation - art. R242-1 (V)
 
 
-## Livre III : CRÉDIT<a id=516></a>
+## Livre III : CRÉDIT<a id=518></a>
 
-### Titre Ier : OPÉRATIONS DE CRÉDIT<a id=517></a>
+### Titre Ier : OPÉRATIONS DE CRÉDIT<a id=519></a>
 
-#### Chapitre II : Crédit à la consommation<a id=518></a>
+#### Chapitre II : Crédit à la consommation<a id=520></a>
 
-##### Section 1 : Publicité<a id=519></a>
+##### Section 1 : Publicité<a id=521></a>
 
 ###### Article D312-1
 
@@ -41514,7 +41748,7 @@ _Cite_:
   - Code de la consommation - art. L312-11 (V)
 
 
-##### Section 2 : Information précontractuelle de l'emprunteur<a id=520></a>
+##### Section 2 : Information précontractuelle de l'emprunteur<a id=522></a>
 
 ###### Article R312-2
 
@@ -41709,7 +41943,7 @@ _Cite_:
   - Code de la consommation - art. R314-18 (V)
 
 
-##### Section 3 : Explications à fournir à l'emprunteur et évaluation de sa solvabilité<a id=521></a>
+##### Section 3 : Explications à fournir à l'emprunteur et évaluation de sa solvabilité<a id=523></a>
 
 ###### Article D312-7
 
@@ -41766,7 +42000,7 @@ _Cite_:
   - Code de la consommation - art. L312-17 (V)
 
 
-##### Section 4 : Formation du contrat de crédit<a id=522></a>
+##### Section 4 : Formation du contrat de crédit<a id=524></a>
 
 ###### Article R312-9
 
@@ -41798,7 +42032,7 @@ _Cité par_:
   - Code de la consommation - art. R351-3 (V)
 
 
-##### Section 5 : Informations mentionnées dans le contrat<a id=523></a>
+##### Section 5 : Informations mentionnées dans le contrat<a id=525></a>
 
 ###### Article R312-10
 
@@ -42009,9 +42243,9 @@ _Anciens textes_:
   - Code de la consommation - art. R311-5-1 (Ab)
 
 
-##### Section 6 : Exécution du contrat de crédit<a id=524></a>
+##### Section 6 : Exécution du contrat de crédit<a id=526></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=525></a>
+##### Sous-section 1 : Remboursement anticipé<a id=527></a>
 
 ###### Article D312-15
 
@@ -42040,7 +42274,7 @@ _Cite_:
   - Code de la consommation - art. L312-34 (V)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=526></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=528></a>
 
 ###### Article D312-16
 
@@ -42151,7 +42385,7 @@ _Anciens textes_:
   - Code de la consommation - art. D311-8, alinéas 5, 6 et 7 (Ab)
 
 
-##### Section 7 : Crédit affecté<a id=527></a>
+##### Section 7 : Crédit affecté<a id=529></a>
 
 ###### Article R312-20
 
@@ -42189,7 +42423,7 @@ _Cité par_:
   - Code de la consommation - art. R351-3 (V)
 
 
-##### Section 8 : Crédit renouvelable<a id=528></a>
+##### Section 8 : Crédit renouvelable<a id=530></a>
 
 ###### Article D312-21
 
@@ -42574,7 +42808,7 @@ _Cite_:
   - Code de la consommation - art. L312-80 (V)
 
 
-##### Section 9 : Opérations de découvert en compte<a id=529></a>
+##### Section 9 : Opérations de découvert en compte<a id=531></a>
 
 ###### Article R312-32
 
@@ -42718,7 +42952,7 @@ _Anciens textes_:
   - Code de la consommation - art. R311-13 (Ab)
 
 
-##### Section 10 : Procédure<a id=530></a>
+##### Section 10 : Procédure<a id=532></a>
 
 ###### Article R312-35
 
@@ -42765,13 +42999,13 @@ _Anciens textes_:
   - Code de la consommation - art. L311-52 (Ab)
 
 
-#### Chapitre III : Crédit immobilier<a id=531></a>
+#### Chapitre III : Crédit immobilier<a id=533></a>
 
-##### Section 1 : Publicité et informations générales<a id=532></a>
+##### Section 1 : Publicité et informations générales<a id=534></a>
 
-##### Sous-section unique :  Publicité et informations générales<a id=533></a>
+##### Sous-section unique :  Publicité et informations générales<a id=535></a>
 
-##### Paragraphe 1 : Publicité<a id=534></a>
+##### Paragraphe 1 : Publicité<a id=536></a>
 
 ###### Article R313-1
 
@@ -42870,7 +43104,7 @@ _Cité par_:
   - Code monétaire et financier - art. R313-1 (V)
 
 
-##### Paragraphe 2 : Informations générales<a id=535></a>
+##### Paragraphe 2 : Informations générales<a id=537></a>
 
 ###### Article R313-3
 
@@ -42938,9 +43172,9 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-0-1 (MMN)
 
 
-##### Section 2 : Information précontractuelle de l'emprunteur<a id=536></a>
+##### Section 2 : Information précontractuelle de l'emprunteur<a id=538></a>
 
-##### Sous-section 1 : Fiche d'informations standardisées européenne<a id=537></a>
+##### Sous-section 1 : Fiche d'informations standardisées européenne<a id=539></a>
 
 ###### Article R313-4
 
@@ -43119,7 +43353,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-0-5 (MMN)
 
 
-##### Sous-section 2 : Information relative à l'assurance emprunteur<a id=538></a>
+##### Sous-section 2 : Information relative à l'assurance emprunteur<a id=540></a>
 
 ###### Article R313-8
 
@@ -43216,9 +43450,9 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-1, III (Ab)
 
 
-##### Section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=539></a>
+##### Section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=541></a>
 
-##### Sous-section 1 : Service de conseil<a id=540></a>
+##### Sous-section 1 : Service de conseil<a id=542></a>
 
 ###### Article R313-11
 
@@ -43294,7 +43528,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-3 (MMN)
 
 
-##### Sous-section 2 : Evaluation de la solvabilité<a id=541></a>
+##### Sous-section 2 : Evaluation de la solvabilité<a id=543></a>
 
 ###### Article R313-13
 
@@ -43402,7 +43636,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-7 (MMN)
 
 
-##### Sous-section 3 : Evaluation du bien immobilier<a id=542></a>
+##### Sous-section 3 : Evaluation du bien immobilier<a id=544></a>
 
 ###### Article D313-20
 
@@ -43519,7 +43753,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-0-10 (MMN)
 
 
-##### Section 4 : Formation du contrat de crédit<a id=543></a>
+##### Section 4 : Formation du contrat de crédit<a id=545></a>
 
 ###### Article R313-21
 
@@ -43546,6 +43780,29 @@ _Cite_:
 _Anciens textes_:
 
   - Code de la consommation - art. R312-1 (Ab)
+
+
+###### Article R313-21-1
+
+La durée maximale de domiciliation des salaires ou revenus assimilés mentionnée à l'article L. 313-25-1 est fixée à dix ans
+suivant la conclusion du contrat de crédit, ou le cas échéant, de l'avenant au contrat de crédit initial.
+
+Cette durée ne peut en tout état de cause excéder celle du contrat de crédit.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-1099 du 14 juin 2017, ces dispositions s'appliquent aux offres de prêts émises à
+compter du 1er janvier 2018 ainsi qu'aux avenants modifiant les contrats conclus à la suite de ces offres.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1099 du 14 juin 2017 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L313-25-1
 
 
 ###### Article R313-22
@@ -43692,9 +43949,9 @@ _Anciens textes_:
   - Code de la consommation - art. R312-1-3 (Ab)
 
 
-##### Section 5 : Exécution du contrat de crédit<a id=544></a>
+##### Section 5 : Exécution du contrat de crédit<a id=546></a>
 
-##### Sous-section 1 : Remboursement anticipé<a id=545></a>
+##### Sous-section 1 : Remboursement anticipé<a id=547></a>
 
 ###### Article R313-25
 
@@ -43725,7 +43982,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-2 (MMN)
 
 
-##### Sous-section 2 : Défaillance de l'emprunteur<a id=546></a>
+##### Sous-section 2 : Défaillance de l'emprunteur<a id=548></a>
 
 ###### Article R313-26
 
@@ -43797,7 +44054,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-3, alinéa 3 (MMN)
 
 
-##### Section 6 : Location-vente et location assortie d'une promesse de vente<a id=547></a>
+##### Section 6 : Location-vente et location assortie d'une promesse de vente<a id=549></a>
 
 ###### Article D313-29
 
@@ -43824,7 +44081,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-4 (Ab)
 
 
-##### Section 7 : Prêts libellés dans une devise autre que l'euro<a id=548></a>
+##### Section 7 : Prêts libellés dans une devise autre que l'euro<a id=550></a>
 
 ###### Article R313-30
 
@@ -43911,7 +44168,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-7 (MMN)
 
 
-##### Section 8 : Procédure<a id=549></a>
+##### Section 8 : Procédure<a id=551></a>
 
 ###### Article R313-33
 
@@ -43932,11 +44189,11 @@ _Anciens textes_:
   - Code de la consommation - art. L312-36 (Ab)
 
 
-#### Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=550></a>
+#### Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=552></a>
 
-##### Section 1 : Taux d'intérêt<a id=551></a>
+##### Section 1 : Taux d'intérêt<a id=553></a>
 
-##### Sous-section 1 : Taux effectif global<a id=552></a>
+##### Sous-section 1 : Taux effectif global<a id=554></a>
 
 ###### Article R314-1
 
@@ -44390,7 +44647,7 @@ _Anciens textes_:
   - Code de la consommation - art. R313-5-4 (Ab)
 
 
-##### Sous-section 2 : Taux d'usure<a id=553></a>
+##### Sous-section 2 : Taux d'usure<a id=555></a>
 
 ###### Article D314-15
 
@@ -44483,7 +44740,7 @@ _Cite_:
   - Code monétaire et financier - art. R312-1 (V)
 
 
-##### Section 2 : Regroupement de crédits<a id=554></a>
+##### Section 2 : Regroupement de crédits<a id=556></a>
 
 ###### Article R314-18
 
@@ -44688,7 +44945,7 @@ _Anciens textes_:
   - Code de la consommation - art. R313-14 (Ab)
 
 
-##### Section 3 : Formation du prêteur et de l'intermédiaire<a id=555></a>
+##### Section 3 : Formation du prêteur et de l'intermédiaire<a id=557></a>
 
 ###### Article D314-22
 
@@ -45095,7 +45352,7 @@ _Anciens textes_:
   - Code de la consommation - art. D313-10-6, III (MMN)
 
 
-#### Chapitre V : Prêt viager hypothécaire<a id=556></a>
+#### Chapitre V : Prêt viager hypothécaire<a id=558></a>
 
 ###### Article R315-1
 
@@ -45167,13 +45424,13 @@ _Cite_:
   - Code de la consommation - art. L315-17 (V)
 
 
-### Titre IV : SANCTIONS<a id=557></a>
+### Titre IV : SANCTIONS<a id=559></a>
 
-#### Chapitre Ier : Opérations de crédit<a id=558></a>
+#### Chapitre Ier : Opérations de crédit<a id=560></a>
 
-##### Section 1 : Crédit à la consommation<a id=559></a>
+##### Section 1 : Crédit à la consommation<a id=561></a>
 
-##### Sous-section 1 : Publicité<a id=560></a>
+##### Sous-section 1 : Publicité<a id=562></a>
 
 ###### Article R341-1
 
@@ -45205,7 +45462,7 @@ _Cité par_:
   - Code de la consommation - art. R354-1 (V)
 
 
-##### Sous-section 2 : Information précontractuelle de l'emprunteur<a id=561></a>
+##### Sous-section 2 : Information précontractuelle de l'emprunteur<a id=563></a>
 
 ###### Article R341-2
 
@@ -45232,7 +45489,7 @@ _Cite_:
   - Code de la consommation - art. L312-13 (V)
 
 
-##### Sous-section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=562></a>
+##### Sous-section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=564></a>
 
 ###### Article R341-3
 
@@ -45258,7 +45515,7 @@ _Cite_:
   - Code de la consommation - art. L312-15 (V)
 
 
-##### Sous-section 4 : Formation du contrat de crédit<a id=563></a>
+##### Sous-section 4 : Formation du contrat de crédit<a id=565></a>
 
 ###### Article R341-4
 
@@ -45286,7 +45543,7 @@ _Cite_:
   - Code de la consommation - art. L312-21 (V)
 
 
-##### Sous-section 5 : Informations mentionnées dans le contrat<a id=564></a>
+##### Sous-section 5 : Informations mentionnées dans le contrat<a id=566></a>
 
 ###### Article R341-5
 
@@ -45312,7 +45569,7 @@ _Cite_:
   - Code de la consommation - art. L312-28 (V)
 
 
-##### Sous-section 6 : Exécution du contrat<a id=565></a>
+##### Sous-section 6 : Exécution du contrat<a id=567></a>
 
 ###### Article R341-6
 
@@ -45338,7 +45595,7 @@ _Cite_:
   - Code de la consommation - art. L312-32 (V)
 
 
-##### Sous-section 7 : Crédit gratuit<a id=566></a>
+##### Sous-section 7 : Crédit gratuit<a id=568></a>
 
 ###### Article R341-7
 
@@ -45414,7 +45671,7 @@ _Cite_:
   - Code de la consommation - art. L312-43 (V)
 
 
-##### Sous-section 8 : Crédit affecté<a id=567></a>
+##### Sous-section 8 : Crédit affecté<a id=569></a>
 
 ###### Article R341-10
 
@@ -45466,7 +45723,7 @@ _Cite_:
   - Code de la consommation - art. R312-20 (V)
 
 
-##### Sous-section 9 : Crédit renouvelable<a id=568></a>
+##### Sous-section 9 : Crédit renouvelable<a id=570></a>
 
 ###### Article R341-12
 
@@ -45656,9 +45913,9 @@ _Anciens textes_:
   - Code de la consommation - art. L311-49, alinéa 1 – reconduction du contrat (Ab)
 
 
-##### Section 2 : Crédit immobilier<a id=569></a>
+##### Section 2 : Crédit immobilier<a id=571></a>
 
-##### Sous-section 1 : Information précontractuelle de l'emprunteur<a id=570></a>
+##### Sous-section 1 : Information précontractuelle de l'emprunteur<a id=572></a>
 
 ###### Article R341-20
 
@@ -45690,7 +45947,7 @@ _Cité par_:
   - Code de la consommation - art. R341-27 (V)
 
 
-##### Sous-section 2 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=571></a>
+##### Sous-section 2 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=573></a>
 
 ###### Article R341-21
 
@@ -45742,7 +45999,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-10 (MMN)
 
 
-##### Sous-section 3 : Exécution du contrat de crédit<a id=572></a>
+##### Sous-section 3 : Exécution du contrat de crédit<a id=574></a>
 
 ###### Article R341-23
 
@@ -45769,7 +46026,7 @@ _Anciens textes_:
   - Code de la consommation - art. R312-11 (MMN)
 
 
-##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=573></a>
+##### Section 3 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=575></a>
 
 ###### Article R341-24
 
@@ -45892,11 +46149,11 @@ _Cité par_:
   - Code de la consommation - art. R354-5 (V)
 
 
-### Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=574></a>
+### Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=576></a>
 
-#### Chapitre Ier : Opérations de crédit<a id=575></a>
+#### Chapitre Ier : Opérations de crédit<a id=577></a>
 
-##### Section 1 : Crédit à la consommation<a id=576></a>
+##### Section 1 : Crédit à la consommation<a id=578></a>
 
 ###### Article D351-1
 
@@ -46002,9 +46259,9 @@ _Cite_:
   - Code de la consommation - art. R312-9 (V)
 
 
-##### Section 2 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=577></a>
+##### Section 2 : Dispositions communes au crédit à la consommation et au crédit immobilier<a id=579></a>
 
-##### Sous-section 1 : Dispositions applicables en en Polynésie française et en Nouvelle-Calédonie<a id=578></a>
+##### Sous-section 1 : Dispositions applicables en en Polynésie française et en Nouvelle-Calédonie<a id=580></a>
 
 ###### Article D351-6
 
@@ -46158,7 +46415,7 @@ _Cite_:
   - Code de la consommation - art. R351-4
 
 
-##### Sous-section 2 : Dispositions applicables dans les îles Wallis et Futuna<a id=579></a>
+##### Sous-section 2 : Dispositions applicables dans les îles Wallis et Futuna<a id=581></a>
 
 ###### Article D351-10
 
@@ -46258,9 +46515,9 @@ _Cite_:
   - Code de la consommation - art. R351-8
 
 
-#### Chapitre IV : Sanctions<a id=580></a>
+#### Chapitre IV : Sanctions<a id=582></a>
 
-##### Section 1 : Sanctions relatives au crédit à la consommation<a id=581></a>
+##### Section 1 : Sanctions relatives au crédit à la consommation<a id=583></a>
 
 ###### Article R354-1
 
@@ -46299,9 +46556,9 @@ _Cite_:
   - Code de la consommation - art. R341-1 (V)
 
 
-##### Section 2 : Sanctions communes au crédit immobilier et au crédit à la consommation<a id=582></a>
+##### Section 2 : Sanctions communes au crédit immobilier et au crédit à la consommation<a id=584></a>
 
-##### Sous-section 1 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie<a id=583></a>
+##### Sous-section 1 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie<a id=585></a>
 
 ###### Article R354-2
 
@@ -46366,7 +46623,7 @@ _Cite_:
   - Code de la consommation - art. R354-2
 
 
-##### Sous-section 2 : Dispositions applicables dans les îles Wallis et Futuna<a id=584></a>
+##### Sous-section 2 : Dispositions applicables dans les îles Wallis et Futuna<a id=586></a>
 
 ###### Article R354-4
 
@@ -46440,13 +46697,13 @@ _Cite_:
   - Code de la consommation - art. R354-4
 
 
-## Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES<a id=585></a>
+## Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES<a id=587></a>
 
-### Titre Ier : CONFORMITÉ<a id=586></a>
+### Titre Ier : CONFORMITÉ<a id=588></a>
 
-#### Chapitre II : Mesures d'application<a id=587></a>
+#### Chapitre II : Mesures d'application<a id=589></a>
 
-##### Section 1 : Mesures générales<a id=588></a>
+##### Section 1 : Mesures générales<a id=590></a>
 
 ###### Article R412-1
 
@@ -46477,9 +46734,9 @@ _Cite_:
   - Code de la santé publique - art. L1313-1 (V)
 
 
-##### Section 2 : Modes de présentation et étiquetage<a id=589></a>
+##### Section 2 : Modes de présentation et étiquetage<a id=591></a>
 
-##### Sous-section 1 : Produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou de spécialité traditionnelle garantie<a id=590></a>
+##### Sous-section 1 : Produit bénéficiant d'une reconnaissance d'appellation d'origine, d'indication géographique protégée ou de spécialité traditionnelle garantie<a id=592></a>
 
 ###### Article R412-2
 
@@ -46505,7 +46762,7 @@ _Anciens textes_:
   - Code de la consommation - art. R112-1 (Ab)
 
 
-##### Sous-section 2 : Identification du lot<a id=591></a>
+##### Sous-section 2 : Identification du lot<a id=593></a>
 
 ###### Article R412-3
 
@@ -46622,7 +46879,7 @@ _Anciens textes_:
   - Code de la consommation - art. R112-5 (Ab)
 
 
-##### Sous-section 3 : Dispositions particulières<a id=592></a>
+##### Sous-section 3 : Dispositions particulières<a id=594></a>
 
 ###### Article R412-7
 
@@ -46713,9 +46970,9 @@ _Anciens textes_:
   - Code de la consommation - art. R112-8, alinéa 2 (Ab)
 
 
-##### Section 3 : Dispositions relatives aux denrées non préemballées<a id=593></a>
+##### Section 3 : Dispositions relatives aux denrées non préemballées<a id=595></a>
 
-##### Sous-section 1 : Dénomination de vente<a id=594></a>
+##### Sous-section 1 : Dénomination de vente<a id=596></a>
 
 ###### Article R412-11
 
@@ -46740,7 +46997,7 @@ _Anciens textes_:
   - Code de la consommation - art. R112-10 (Ab)
 
 
-##### Sous-section 2 : Information relative à la présence de substances ou produits provoquant des allergies ou intolérances<a id=595></a>
+##### Sous-section 2 : Information relative à la présence de substances ou produits provoquant des allergies ou intolérances<a id=597></a>
 
 ###### Article R412-12
 
@@ -46892,9 +47149,9 @@ _Cite_:
   - Code de la consommation - art. R412-12 (V)
 
 
-##### Section 4 : Règlements de l'Union européenne constituant des mesures d'exécution de l'article L. 412-1<a id=596></a>
+##### Section 4 : Règlements de l'Union européenne constituant des mesures d'exécution de l'article L. 412-1<a id=598></a>
 
-##### Sous-section 1 : Dispositions générales<a id=597></a>
+##### Sous-section 1 : Dispositions générales<a id=599></a>
 
 ###### Article R412-17
 
@@ -46924,7 +47181,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-1, I, alinéa 2 et II (Ab)
 
 
-##### Sous-section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux<a id=598></a>
+##### Sous-section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux<a id=600></a>
 
 ###### Article R412-18
 
@@ -46970,7 +47227,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-2 (Ab)
 
 
-##### Sous-section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=599></a>
+##### Sous-section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires<a id=601></a>
 
 ###### Article R412-19
 
@@ -46998,7 +47255,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-3 (Ab)
 
 
-##### Sous-section 4 : Organismes génétiquement modifiés<a id=600></a>
+##### Sous-section 4 : Organismes génétiquement modifiés<a id=602></a>
 
 ###### Article R412-20
 
@@ -47034,7 +47291,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-4 (Ab)
 
 
-##### Sous-section 5 : Boissons alcoolisées<a id=601></a>
+##### Sous-section 5 : Boissons alcoolisées<a id=603></a>
 
 ###### Article R412-21
 
@@ -47093,7 +47350,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-5 (Ab)
 
 
-##### Sous-section 6 : Additifs, enzymes, arômes destinés à l'alimentation humaine<a id=602></a>
+##### Sous-section 6 : Additifs, enzymes, arômes destinés à l'alimentation humaine<a id=604></a>
 
 ###### Article R412-22
 
@@ -47134,7 +47391,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-6 (Ab)
 
 
-##### Sous-section 7 : Adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires<a id=603></a>
+##### Sous-section 7 : Adjonction de vitamines, de minéraux et de certaines autres substances aux denrées alimentaires<a id=605></a>
 
 ###### Article R412-23
 
@@ -47163,7 +47420,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-7 (Ab)
 
 
-##### Sous-section 8 : Contaminants<a id=604></a>
+##### Sous-section 8 : Contaminants<a id=606></a>
 
 ###### Article R412-24
 
@@ -47192,7 +47449,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-8 (Ab)
 
 
-##### Sous-section 9 : Fruits et légumes<a id=605></a>
+##### Sous-section 9 : Fruits et légumes<a id=607></a>
 
 ###### Article R412-25
 
@@ -47230,7 +47487,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-9 (Ab)
 
 
-##### Sous-section 10 : Huile d'olive et olives de table<a id=606></a>
+##### Sous-section 10 : Huile d'olive et olives de table<a id=608></a>
 
 ###### Article R412-26
 
@@ -47267,7 +47524,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-10 (Ab)
 
 
-##### Sous-section 11 : Œufs et viande de volaille<a id=607></a>
+##### Sous-section 11 : Œufs et viande de volaille<a id=609></a>
 
 ###### Article R412-27
 
@@ -47315,7 +47572,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-11 (Ab)
 
 
-##### Sous-section 12 : Produits laitiers, colostrum et matières grasses laitières ou non<a id=608></a>
+##### Sous-section 12 : Produits laitiers, colostrum et matières grasses laitières ou non<a id=610></a>
 
 ###### Article R412-28
 
@@ -47358,7 +47615,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-12 (Ab)
 
 
-##### Sous-section 13 : Produits de la pêche<a id=609></a>
+##### Sous-section 13 : Produits de la pêche<a id=611></a>
 
 ###### Article R412-29
 
@@ -47406,7 +47663,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-13 (Ab)
 
 
-##### Sous-section 14 : Viandes bovine, ovine et porcine<a id=610></a>
+##### Sous-section 14 : Viandes bovine, ovine et porcine<a id=612></a>
 
 ###### Article R412-30
 
@@ -47456,7 +47713,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-14 (Ab)
 
 
-##### Sous-section 15 : Viande hachée et produits à base de viande<a id=611></a>
+##### Sous-section 15 : Viande hachée et produits à base de viande<a id=613></a>
 
 ###### Article R412-31
 
@@ -47485,7 +47742,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-14-1 (Ab)
 
 
-##### Sous-section 16 : Collagènes et gélatine<a id=612></a>
+##### Sous-section 16 : Collagènes et gélatine<a id=614></a>
 
 ###### Article R412-32
 
@@ -47517,7 +47774,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-14-2 (Ab)
 
 
-##### Sous-section 17 : Modes de valorisation<a id=613></a>
+##### Sous-section 17 : Modes de valorisation<a id=615></a>
 
 ###### Article R412-33
 
@@ -47574,7 +47831,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-15 (Ab)
 
 
-##### Sous-section 18 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale<a id=614></a>
+##### Sous-section 18 : Limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale<a id=616></a>
 
 ###### Article R412-34
 
@@ -47602,7 +47859,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-16 (Ab)
 
 
-##### Sous-section 19 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=615></a>
+##### Sous-section 19 : Contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des denrées alimentaires surgelées<a id=617></a>
 
 ###### Article R412-35
 
@@ -47625,7 +47882,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-17 (Ab)
 
 
-##### Sous-section 20 : Contrôles officiels renforcés à l'importation<a id=616></a>
+##### Sous-section 20 : Contrôles officiels renforcés à l'importation<a id=618></a>
 
 ###### Article R412-36
 
@@ -47661,7 +47918,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-34 (Ab)
 
 
-##### Sous-section 21 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 6° de l'article L. 412-1<a id=617></a>
+##### Sous-section 21 : Hygiène des produits, denrées alimentaires et aliments pour animaux mentionnés au 6° de l'article L. 412-1<a id=619></a>
 
 ###### Article R412-37
 
@@ -47698,7 +47955,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-22 (Ab)
 
 
-##### Sous-section 22 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=618></a>
+##### Sous-section 22 : Matériaux et objets destinés à entrer en contact avec des denrées alimentaires<a id=620></a>
 
 ###### Article R412-38
 
@@ -47744,7 +48001,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-18 (Ab)
 
 
-##### Sous-section 23 : Alimentation des animaux<a id=619></a>
+##### Sous-section 23 : Alimentation des animaux<a id=621></a>
 
 ###### Article R412-39
 
@@ -47780,7 +48037,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-21 (Ab)
 
 
-##### Sous-section 24 : Engrais<a id=620></a>
+##### Sous-section 24 : Engrais<a id=622></a>
 
 ###### Article R412-40
 
@@ -47807,7 +48064,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-19 (Ab)
 
 
-##### Sous-section 25 : Détergents<a id=621></a>
+##### Sous-section 25 : Détergents<a id=623></a>
 
 ###### Article R412-41
 
@@ -47834,7 +48091,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-20 (Ab)
 
 
-##### Sous-section 26 : Fibres et produits textiles<a id=622></a>
+##### Sous-section 26 : Fibres et produits textiles<a id=624></a>
 
 ###### Article R412-42
 
@@ -47862,7 +48119,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-23 (Ab)
 
 
-##### Sous-section 27 : Produits de construction<a id=623></a>
+##### Sous-section 27 : Produits de construction<a id=625></a>
 
 ###### Article R412-43
 
@@ -47890,7 +48147,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-24 (Ab)
 
 
-##### Section 5 : Dispositions spécifiques à certains produits<a id=624></a>
+##### Section 5 : Dispositions spécifiques à certains produits<a id=626></a>
 
 ###### Article R412-44
 
@@ -48003,7 +48260,7 @@ _Anciens textes_:
   - Code de la consommation - art. L112-7 (Ab)
 
 
-##### Section 6 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs<a id=625></a>
+##### Section 6 : Déclaration environnementale des produits de construction et de décoration et des équipements électriques, électroniques et de génie climatique destinés à la vente aux consommateurs<a id=627></a>
 
 ###### Article R412-49
 
@@ -48289,7 +48546,7 @@ _Anciens textes_:
   - Code de la consommation - art. R214-33 (Ab)
 
 
-#### Chapitre IV : Dispositions relatives à certains établissements<a id=626></a>
+#### Chapitre IV : Dispositions relatives à certains établissements<a id=628></a>
 
 ###### Article R414-1
 
@@ -48438,9 +48695,9 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-### Titre II : SÉCURITÉ<a id=627></a>
+### Titre II : SÉCURITÉ<a id=629></a>
 
-#### Chapitre II : Mesures d'application<a id=628></a>
+#### Chapitre II : Mesures d'application<a id=630></a>
 
 ###### Article R422-1
 
@@ -48480,9 +48737,9 @@ _Cite_:
   - Code de la santé publique - art. L5311-1 (V)
 
 
-### Titre III : VALORISATION DES PRODUITS ET SERVICES<a id=629></a>
+### Titre III : VALORISATION DES PRODUITS ET SERVICES<a id=631></a>
 
-#### Chapitre Ier : Appellations d'origine<a id=630></a>
+#### Chapitre Ier : Appellations d'origine<a id=632></a>
 
 ###### Article R431-1
 
@@ -48616,7 +48873,7 @@ _Cite_:
   - Code de la consommation - art. L431-6 (V)
 
 
-#### Chapitre III : Certification de conformité<a id=631></a>
+#### Chapitre III : Certification de conformité<a id=633></a>
 
 ###### Article R433-1
 
@@ -48672,9 +48929,9 @@ _Cité par_:
   - Code de la consommation - art. R453-1 (V)
 
 
-### Titre V : SANCTIONS<a id=632></a>
+### Titre V : SANCTIONS<a id=634></a>
 
-#### Chapitre Ier : Conformité<a id=633></a>
+#### Chapitre Ier : Conformité<a id=635></a>
 
 ###### Article R451-1
 
@@ -48770,7 +49027,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-#### Chapitre II : Sécurité<a id=634></a>
+#### Chapitre II : Sécurité<a id=636></a>
 
 ###### Article R452-1
 
@@ -48899,7 +49156,7 @@ _Cite_:
   - Code pénal - art. 131-41 (V)
 
 
-#### Chapitre III : Valorisation des produits et services<a id=635></a>
+#### Chapitre III : Valorisation des produits et services<a id=637></a>
 
 ###### Article R453-1
 
@@ -48929,15 +49186,15 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-## Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES<a id=636></a>
+## Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES<a id=638></a>
 
-### Titre Ier : RECHERCHE ET CONSTATATION<a id=637></a>
+### Titre Ier : RECHERCHE ET CONSTATATION<a id=639></a>
 
-#### Chapitre II : Pouvoirs d'enquête<a id=638></a>
+#### Chapitre II : Pouvoirs d'enquête<a id=640></a>
 
-##### Section 1 : Pouvoirs d'enquête ordinaires<a id=639></a>
+##### Section 1 : Pouvoirs d'enquête ordinaires<a id=641></a>
 
-##### Sous-section 1 : Dispositions communes<a id=640></a>
+##### Sous-section 1 : Dispositions communes<a id=642></a>
 
 ###### Article D512-6
 
@@ -49093,7 +49350,7 @@ _Anciens textes_:
   - Code de la consommation - art. R215-3, alinéa 1 (Ab)
 
 
-##### Sous-section 2 : Recueil de renseignements et de documents<a id=641></a>
+##### Sous-section 2 : Recueil de renseignements et de documents<a id=643></a>
 
 ###### Article R512-7
 
@@ -49116,7 +49373,7 @@ _Anciens textes_:
   - Code de la consommation - art. R215-2, alinéa 2 (Ab)
 
 
-##### Sous-section 3 : Contrôle de la vente de biens et de la fourniture de services sur internet<a id=642></a>
+##### Sous-section 3 : Contrôle de la vente de biens et de la fourniture de services sur internet<a id=644></a>
 
 ###### Article R512-8
 
@@ -49147,9 +49404,9 @@ _Anciens textes_:
   - Code de la consommation - art. R215-3-1 et renvoi à l'art. R. 450-1, II du code de commerce (Ab)
 
 
-##### Sous-section 4 : Prélèvements<a id=643></a>
+##### Sous-section 4 : Prélèvements<a id=645></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=644></a>
+##### Paragraphe 1 : Dispositions communes<a id=646></a>
 
 ###### Article R512-9
 
@@ -49425,7 +49682,7 @@ _Anciens textes_:
   - Code de la consommation - art. R215-11 (Ab)
 
 
-##### Paragraphe 2 : Prélèvement en trois échantillons<a id=645></a>
+##### Paragraphe 2 : Prélèvement en trois échantillons<a id=647></a>
 
 ###### Article R512-17
 
@@ -49458,7 +49715,7 @@ _Cité par_:
   - Code de la consommation - art. R541-2 (V)
 
 
-##### Paragraphe 3 : Prélèvement en deux échantillons<a id=646></a>
+##### Paragraphe 3 : Prélèvement en deux échantillons<a id=648></a>
 
 ###### Article R512-18
 
@@ -49485,7 +49742,7 @@ _Cité par_:
   - Code de la consommation - art. R512-17 (V)
 
 
-##### Paragraphe 4 : Prélèvement en un échantillon<a id=647></a>
+##### Paragraphe 4 : Prélèvement en un échantillon<a id=649></a>
 
 ###### Article R512-19
 
@@ -49663,7 +49920,7 @@ _Anciens textes_:
   - Code de la consommation - art. R215-14, alinéas 1 et 2 (Ab)
 
 
-##### Paragraphe 5 : Prélèvement administratif<a id=648></a>
+##### Paragraphe 5 : Prélèvement administratif<a id=650></a>
 
 ###### Article R512-24
 
@@ -49697,7 +49954,7 @@ _Anciens textes_:
   - Code de la consommation - art. R218-1 (Ab)
 
 
-##### Sous-section 5 : Contrôle des produits avant mise en libre pratique<a id=649></a>
+##### Sous-section 5 : Contrôle des produits avant mise en libre pratique<a id=651></a>
 
 ###### Article R512-25
 
@@ -49901,7 +50158,7 @@ _Cite_:
   - Code de la consommation - art. R512-31 (V)
 
 
-##### Sous-section 6 : Essais et analyses<a id=650></a>
+##### Sous-section 6 : Essais et analyses<a id=652></a>
 
 ###### Article R512-30
 
@@ -50179,7 +50436,7 @@ _Anciens textes_:
   - Code de la consommation - art. R215-22, alinéa 1 (Ab)
 
 
-##### Section 2 : Opérations de visites et saisies<a id=651></a>
+##### Section 2 : Opérations de visites et saisies<a id=653></a>
 
 ###### Article R512-39
 
@@ -50275,11 +50532,11 @@ _Anciens textes_:
   - Code de la consommation - art. R215-24, alinéa 4, 3ème phrase (Ab)
 
 
-### Titre II : MESURES CONSÉCUTIVES AUX CONTRÔLES<a id=652></a>
+### Titre II : MESURES CONSÉCUTIVES AUX CONTRÔLES<a id=654></a>
 
-#### Chapitre Ier : Mesures de police administrative<a id=653></a>
+#### Chapitre Ier : Mesures de police administrative<a id=655></a>
 
-##### Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit<a id=654></a>
+##### Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit<a id=656></a>
 
 ###### Article R521-1
 
@@ -50352,7 +50609,7 @@ _Anciens textes_:
   - Code de la consommation - art. R132-2-2 (Ab)
 
 
-##### Section 2 : Conformité et sécurité des produits et services<a id=655></a>
+##### Section 2 : Conformité et sécurité des produits et services<a id=657></a>
 
 ###### Article D521-4
 
@@ -50402,9 +50659,9 @@ _Anciens textes_:
   - Code de la consommation - art. R132-2-2 (Ab)
 
 
-#### Chapitre II : Procédure de sanctions administratives<a id=656></a>
+#### Chapitre II : Procédure de sanctions administratives<a id=658></a>
 
-##### Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit<a id=657></a>
+##### Section 1 : Information précontractuelle, pratiques commerciales, contrats et crédit<a id=659></a>
 
 ###### Article R522-1
 
@@ -50562,7 +50819,7 @@ _Cite_:
   - Code de la consommation - art. L522-1 (V)
 
 
-##### Section 2 : Conformité et sécurité des produits et services<a id=658></a>
+##### Section 2 : Conformité et sécurité des produits et services<a id=660></a>
 
 ###### Article R522-7
 
@@ -50645,7 +50902,7 @@ _Anciens textes_:
   - Code de la consommation - art. R219-2, alinéa 6 (Ab)
 
 
-#### Chapitre III : Transaction<a id=659></a>
+#### Chapitre III : Transaction<a id=661></a>
 
 ###### Article R523-1
 
@@ -50772,7 +51029,7 @@ _Cite_:
   - Code de la consommation - art. R523-3 (V)
 
 
-#### Chapitre IV : Saisine de la juridiction civile ou administrative<a id=660></a>
+#### Chapitre IV : Saisine de la juridiction civile ou administrative<a id=662></a>
 
 ###### Article R524-1
 
@@ -50809,7 +51066,7 @@ _Cité par_:
   - Code de la consommation - art. R542-2 (V)
 
 
-#### Chapitre V : Procédures devant les juridictions<a id=661></a>
+#### Chapitre V : Procédures devant les juridictions<a id=663></a>
 
 ###### Article R525-1
 
@@ -50899,11 +51156,11 @@ _Anciens textes_:
   - Code de la consommation - art. R141-5, et article R. 215-26 (Ab)
 
 
-### Titre III : SANCTIONS<a id=662></a>
+### Titre III : SANCTIONS<a id=664></a>
 
-#### Chapitre Ier : Recherche et constatation<a id=663></a>
+#### Chapitre Ier : Recherche et constatation<a id=665></a>
 
-##### Section 1 : Sanctions pénales<a id=664></a>
+##### Section 1 : Sanctions pénales<a id=666></a>
 
 ###### Article R531-1
 
@@ -50969,7 +51226,7 @@ _Cite_:
   - Code pénal - art. 132-15 (V)
 
 
-##### Section 2 : Sanctions administratives<a id=665></a>
+##### Section 2 : Sanctions administratives<a id=667></a>
 
 ###### Article R531-3
 
@@ -50998,7 +51255,7 @@ _Anciens textes_:
   - Code de la consommation - art. R219-2, sanction (Ab)
 
 
-#### Chapitre II : Mesures consécutives aux contrôles<a id=666></a>
+#### Chapitre II : Mesures consécutives aux contrôles<a id=668></a>
 
 ###### Article R532-1
 
@@ -51069,9 +51326,9 @@ _Cite_:
   - Code de la consommation - art. R532-1 (V)
 
 
-### Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=667></a>
+### Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=669></a>
 
-#### Chapitre Ier : Recherche et constatation<a id=668></a>
+#### Chapitre Ier : Recherche et constatation<a id=670></a>
 
 ###### Article R541-1
 
@@ -51164,7 +51421,7 @@ _Cite_:
   - Code de la consommation - art. R541-1 (V)
 
 
-#### Chapitre II : Mesures consécutives aux contrôles<a id=669></a>
+#### Chapitre II : Mesures consécutives aux contrôles<a id=671></a>
 
 ###### Article R542-1
 
@@ -51211,11 +51468,11 @@ _Cite_:
   - Code de la consommation - art. R525-2
 
 
-## Livre VI : RÈGLEMENT DES LITIGES<a id=670></a>
+## Livre VI : RÈGLEMENT DES LITIGES<a id=672></a>
 
-### Titre Ier : MÉDIATION<a id=671></a>
+### Titre Ier : MÉDIATION<a id=673></a>
 
-#### Chapitre II : Processus de médiation des litiges de consommation<a id=672></a>
+#### Chapitre II : Processus de médiation des litiges de consommation<a id=674></a>
 
 ###### Article R612-1
 
@@ -51365,7 +51622,7 @@ _Cite_:
   - Code de la consommation - art. R612-2 (V)
 
 
-#### Chapitre III : Statut du médiateur de la consommation<a id=673></a>
+#### Chapitre III : Statut du médiateur de la consommation<a id=675></a>
 
 ###### Article D613-2
 
@@ -51420,7 +51677,7 @@ _Anciens textes_:
   - Code de la consommation - art. R153-1 (Ab)
 
 
-#### Chapitre IV : Obligations de communication du médiateur de la consommation<a id=674></a>
+#### Chapitre IV : Obligations de communication du médiateur de la consommation<a id=676></a>
 
 ###### Article R614-1
 
@@ -51585,7 +51842,7 @@ _Cite_:
   - Code de la consommation - art. R614-2 (V)
 
 
-#### Chapitre V : Commission d'évaluation et de contrôle de la médiation de la consommation<a id=675></a>
+#### Chapitre V : Commission d'évaluation et de contrôle de la médiation de la consommation<a id=677></a>
 
 ###### Article R615-1
 
@@ -51920,7 +52177,7 @@ _Anciens textes_:
   - Code de la consommation - art. R155-8 (Ab)
 
 
-#### Chapitre VI : Information et assistance du consommateur<a id=676></a>
+#### Chapitre VI : Information et assistance du consommateur<a id=678></a>
 
 ###### Article R616-1
 
@@ -51970,9 +52227,9 @@ _Anciens textes_:
   - Code de la consommation - art. R156-2 (Ab)
 
 
-### Titre II : ACTIONS EN JUSTICE DES ASSOCIATIONS DE DÉFENSE DES CONSOMMATEURS<a id=677></a>
+### Titre II : ACTIONS EN JUSTICE DES ASSOCIATIONS DE DÉFENSE DES CONSOMMATEURS<a id=679></a>
 
-#### Chapitre II : Action en représentation conjointe<a id=678></a>
+#### Chapitre II : Action en représentation conjointe<a id=680></a>
 
 ###### Article R622-1
 
@@ -52220,9 +52477,9 @@ _Anciens textes_:
   - Code de la consommation - art. R422-10 (Ab)
 
 
-#### Chapitre III : Action de groupe<a id=679></a>
+#### Chapitre III : Action de groupe<a id=681></a>
 
-##### Section 1 : Introduction de l'action et règles de procédure<a id=680></a>
+##### Section 1 : Introduction de l'action et règles de procédure<a id=682></a>
 
 ###### Article R623-1
 
@@ -52350,7 +52607,7 @@ _Anciens textes_:
   - Code de la consommation - art. R423-5 (Ab)
 
 
-##### Section 2 : Jugement sur la responsabilité<a id=681></a>
+##### Section 2 : Jugement sur la responsabilité<a id=683></a>
 
 ###### Article R623-6
 
@@ -52474,7 +52731,7 @@ _Cité par_:
   - Code de la consommation - art. R623-8 (V)
 
 
-##### Section 3 : Procédure d'action de groupe simplifiée<a id=682></a>
+##### Section 3 : Procédure d'action de groupe simplifiée<a id=684></a>
 
 ###### Article R623-11
 
@@ -52621,9 +52878,9 @@ _Cite_:
   - Code de la consommation - art. R623-20 (V)
 
 
-##### Section 4 : Mise en œuvre du jugement, réparation des préjudices et exécution forcée<a id=683></a>
+##### Section 4 : Mise en œuvre du jugement, réparation des préjudices et exécution forcée<a id=685></a>
 
-##### Paragraphe 1 : Mesures d'information des consommateurs<a id=684></a>
+##### Paragraphe 1 : Mesures d'information des consommateurs<a id=686></a>
 
 ###### Article R623-16
 
@@ -52667,7 +52924,7 @@ _Anciens textes_:
   - Code de la consommation - art. R423-13 (Ab)
 
 
-##### Paragraphe 2 : Adhésion au groupe<a id=685></a>
+##### Paragraphe 2 : Adhésion au groupe<a id=687></a>
 
 ###### Article R623-17
 
@@ -52820,7 +53077,7 @@ _Anciens textes_:
   - Code de la consommation - art. R423-17, alinéa 4 (Ab)
 
 
-##### Paragraphe 3 : Réparation des préjudices et règlement des différends<a id=686></a>
+##### Paragraphe 3 : Réparation des préjudices et règlement des différends<a id=688></a>
 
 ###### Article R623-23
 
@@ -52909,7 +53166,7 @@ _Anciens textes_:
   - Code de la consommation - art. R423-19 (Ab)
 
 
-##### Paragraphe 4 : Liquidation judiciaire et réparation forcée des préjudices<a id=687></a>
+##### Paragraphe 4 : Liquidation judiciaire et réparation forcée des préjudices<a id=689></a>
 
 ###### Article R623-26
 
@@ -53010,7 +53267,7 @@ _Anciens textes_:
   - Code de la consommation - art. R423-22 (Ab)
 
 
-##### Section 5 : Substitution<a id=688></a>
+##### Section 5 : Substitution<a id=690></a>
 
 ###### Article R623-30
 
@@ -53102,9 +53359,9 @@ _Anciens textes_:
   - Code de la consommation - art. R423-23, alinéa 4 et 5 (Ab)
 
 
-### Titre III : COMPÉTENCE DU JUGE<a id=689></a>
+### Titre III : COMPÉTENCE DU JUGE<a id=691></a>
 
-#### Chapitre Ier : Règles applicables aux litiges civils<a id=690></a>
+#### Chapitre Ier : Règles applicables aux litiges civils<a id=692></a>
 
 ###### Article R631-1
 
@@ -53202,7 +53459,7 @@ _Cite_:
   - Code des procédures civiles d'exécution - art. L111-8 (M)
 
 
-#### Chapitre II : Office du juge<a id=691></a>
+#### Chapitre II : Office du juge<a id=693></a>
 
 ###### Article R632-1
 
@@ -53226,9 +53483,9 @@ _Anciens textes_:
   - Code de la consommation - art. L141-4 (Ab)
 
 
-### Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=692></a>
+### Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=694></a>
 
-#### Chapitre II : Action de groupe<a id=693></a>
+#### Chapitre II : Action de groupe<a id=695></a>
 
 ###### Article R652-1
 
@@ -53282,11 +53539,11 @@ _Cite_:
   - Code de la consommation - art. R652-1
 
 
-## Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=694></a>
+## Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=696></a>
 
-### Titre Ier : DISPOSITIONS GÉNÉRALES RELATIVES AU TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=695></a>
+### Titre Ier : DISPOSITIONS GÉNÉRALES RELATIVES AU TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=697></a>
 
-#### Chapitre Ier : Définition et champ d'application<a id=696></a>
+#### Chapitre Ier : Définition et champ d'application<a id=698></a>
 
 ###### Article R711-1
 
@@ -53344,9 +53601,9 @@ _Cité par_:
   - Code de la consommation - art. R771-1 (M)
 
 
-#### Chapitre II : Les commissions de surendettement des particuliers<a id=697></a>
+#### Chapitre II : Les commissions de surendettement des particuliers<a id=699></a>
 
-##### Section 1 : Organisation et fonctionnement<a id=698></a>
+##### Section 1 : Organisation et fonctionnement<a id=700></a>
 
 ###### Article R712-1
 
@@ -53661,8 +53918,8 @@ _Anciens textes_:
 ###### Article R712-12
 
 Chaque commission établit un rapport d'activité annuel. Ce rapport fait état de données statistiques sur le nombre des
-dossiers traités ainsi que les mesures prises ou recommandées par la commission. Il précise la typologie de l'endettement
-présentée dans ces dossiers et les difficultés de toute nature rencontrées dans leur traitement. 
+dossiers traités ainsi que les mesures prises par la commission. Il précise la typologie de l'endettement présentée dans ces
+dossiers et les difficultés de toute nature rencontrées dans leur traitement.
 
 Les rapports d'activité des commissions sont transmis à la Banque de France qui en présente la synthèse dans le rapport
 mentionné à l'article L. 143-1 du code monétaire et financier.
@@ -53673,20 +53930,16 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-12 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 2
 
 _Cite_:
 
-  - Code monétaire et financier - art. L143-1 (M)
+  - Code monétaire et financier - art. L143-1
 
 
-##### Section 2 : Procédures devant les commissions<a id=699></a>
+##### Section 2 : Procédures devant les commissions<a id=701></a>
 
 ###### Article R712-13
 
@@ -53900,7 +54153,7 @@ _Cité par_:
   - Code de la consommation - art. R771-2 (V)
 
 
-#### Chapitre III : Compétence du juge du tribunal d'instance<a id=700></a>
+#### Chapitre III : Compétence du juge du tribunal d'instance<a id=702></a>
 
 ###### Article R713-1
 
@@ -53936,9 +54189,9 @@ _Anciens textes_:
 
 Le juge du tribunal d'instance est saisi par la commission par lettre simple signée de son président.
 
-Lorsque la saisine directe du juge par une partie est prévue, elle s'effectue par déclaration remise ou adressée au greffe du
-tribunal d'instance. La déclaration indique les nom, prénoms et adresse du déclarant ; elle est signée par lui. Le greffe en
-informe la commission et l'invite, le cas échéant, à lui transmettre le dossier.
+Lorsque la saisine directe du juge par une partie ou par un tiers est prévue, elle s'effectue par déclaration remise ou
+adressée au greffe du tribunal d'instance. La déclaration indique les nom, prénoms et adresse du déclarant ; elle est signée
+par lui. Le greffe en informe la commission et l'invite, le cas échéant, à lui transmettre le dossier.
 
 **Liens relatifs à cet article**
 
@@ -53946,13 +54199,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R331-9-1 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 3
 
 _Cité par_:
 
@@ -54179,9 +54428,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-9-4 (Ab)
 
 
-### Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT<a id=701></a>
+### Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT<a id=703></a>
 
-#### Chapitre Ier : Saisine de la commission de surendettement des particuliers<a id=702></a>
+#### Chapitre Ier : Saisine de la commission de surendettement des particuliers<a id=704></a>
 
 ###### Article R721-1
 
@@ -54413,9 +54662,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-11-2, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre II : Recevabilité de la demande<a id=703></a>
+#### Chapitre II : Recevabilité de la demande<a id=705></a>
 
-##### Section 1 : Examen de la recevabilité de la demande<a id=704></a>
+##### Section 1 : Examen de la recevabilité de la demande<a id=706></a>
 
 ###### Article R722-1
 
@@ -54526,9 +54775,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-10, alinéa 3 (Ab)
 
 
-##### Section 2 : Effets de la décision de recevabilité<a id=705></a>
+##### Section 2 : Effets de la décision de recevabilité<a id=707></a>
 
-##### Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=706></a>
+##### Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=708></a>
 
 ###### Article R722-5
 
@@ -54536,10 +54785,9 @@ La lettre notifiant la décision de recevabilité rappelle qu'elle a pour effets
 d'exécution diligentées à l'encontre des biens du débiteur ainsi que des cessions de rémunération qu'il a consenties et
 portant sur des dettes autres qu'alimentaires. Elle précise que la suspension ou l'interdiction produit effet, selon les cas,
 jusqu'à l'approbation du plan conventionnel de redressement prévu à l'article L. 732-1, jusqu'à la décision imposant les
-mesures prévues à l'article L. 733-1, jusqu'à l'homologation des mesures recommandées en application des dispositions des
-articles L. 733-7, L. 733-8 et L. 741-1 ou jusqu'au jugement prononçant un rétablissement personnel sans liquidation
-judiciaire ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire, sans
-pouvoir excéder deux ans. Elle reproduit les dispositions de l'article L. 722-5.
+mesures prévues aux articles L. 733-1, L. 733-4, L. 733-7 et L. 741-1, jusqu'au jugement prononçant un rétablissement
+personnel sans liquidation judiciaire ou jusqu'au jugement d'ouverture d'une procédure de rétablissement personnel avec
+liquidation judiciaire, sans pouvoir excéder deux ans. Elle reproduit les dispositions de l'article L. 722-5.
 
 **Liens relatifs à cet article**
 
@@ -54547,21 +54795,17 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 4
 
 _Cite_:
 
-  - Code de la consommation - art. L722-5 (V)
-  - Code de la consommation - art. L732-1 (V)
-  - Code de la consommation - art. L733-1 (V)
-  - Code de la consommation - art. L733-7 (V)
-  - Code de la consommation - art. L741-1 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R331-11, alinéa 1
+  - Code de la consommation - art. L722-5
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-7
+  - Code de la consommation - art. L741-1
 
 
 ###### Article R722-6
@@ -54639,7 +54883,7 @@ _Anciens textes_:
   - Code de la consommation - art. R331-11-3 (Ab)
 
 
-##### Sous-section 2 : Suspension des mesures d'expulsion<a id=707></a>
+##### Sous-section 2 : Suspension des mesures d'expulsion<a id=709></a>
 
 ###### Article R722-9
 
@@ -54694,7 +54938,7 @@ _Anciens textes_:
   - Code de la consommation - art. R331-12, alinéa 2 (Ab)
 
 
-##### Sous-section 3 : Emoluments supportés par le débiteur<a id=708></a>
+##### Sous-section 3 : Emoluments supportés par le débiteur<a id=710></a>
 
 ###### Article R722-11
 
@@ -54722,9 +54966,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-13 (Ab)
 
 
-#### Chapitre III : Etat du passif<a id=709></a>
+#### Chapitre III : Etat du passif<a id=711></a>
 
-##### Section 1 : Etat du passif dressé par la commission<a id=710></a>
+##### Section 1 : Etat du passif dressé par la commission<a id=712></a>
 
 ###### Article R723-1
 
@@ -54879,7 +55123,7 @@ _Anciens textes_:
   - Code de la consommation - art. R332-2, alinéa 3 (Ab)
 
 
-##### Section 2 : Vérification des créances<a id=711></a>
+##### Section 2 : Vérification des créances<a id=713></a>
 
 ###### Article R723-6
 
@@ -54959,17 +55203,17 @@ _Cité par_:
   - Code de la consommation - art. R723-5 (V)
 
 
-#### Chapitre IV : Orientation du dossier<a id=712></a>
+#### Chapitre IV : Orientation du dossier<a id=714></a>
 
 ###### Article R724-1
 
 Lors de l'examen de la demande de traitement de la situation de surendettement, la commission se prononce sur l'orientation
 du dossier par une décision motivée qui indique si le débiteur peut bénéficier des mesures de traitement prévues au premier
-alinéa de l'article L. 724-1 ou s'il se trouve dans la situation définie au deuxième alinéa du même article.
+alinéa de l'article L. 724-1 ou s'il se trouve dans la situation définie au deuxième alinéa du même article. 
 
 Cette décision est portée à la connaissance du débiteur et aux créanciers par lettre simple. La lettre indique que la
-décision peut être contestée lorsque le juge est saisi en application des dispositions des articles L. 733-10, L 733-12, L.
-741-1 à L. 741-3, L. 741-5, L. 741-7 ou L. 742-2.
+décision peut être contestée lorsque le juge est saisi en application des dispositions des articles L. 733-10, à l'article L.
+741-4 ou L. 742-2.
 
 **Liens relatifs à cet article**
 
@@ -54977,20 +55221,16 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L724-1 (V)
-  - Code de la consommation - art. L733-10 (V)
-  - Code de la consommation - art. L741-1 (V)
-  - Code de la consommation - art. L742-2 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R333-1 (Ab)
+  - Code de la consommation - art. L724-1
+  - Code de la consommation - art. L733-10 (VD)
+  - Code de la consommation - art. L741-4 (VD)
+  - Code de la consommation - art. L742-2
 
 _Cité par_:
 
@@ -55031,7 +55271,7 @@ _Cite_:
 ###### Article R724-3
 
 Le débiteur dont la situation devient irrémédiablement compromise en cours d'exécution des mesures de traitement prévues aux
-articles L. 732-1, L. 733-1, L. 733-7 et L. 733-8 peut saisir la commission en application des dispositions de l'article L.
+articles L. 732-1, L. 733-1, L. 733-4 et L. 733-7 peut saisir la commission en application des dispositions de l'article L.
 724-2 afin de bénéficier d'un rétablissement personnel sans liquidation judiciaire ou d'une procédure de rétablissement
 personnel avec liquidation judiciaire par lettre simple signée par lui et remise ou adressée au secrétariat de la
 commission. 
@@ -55046,20 +55286,17 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L724-2 (V)
-  - Code de la consommation - art. L732-1 (V)
-  - Code de la consommation - art. L733-1 (V)
-  - Code de la consommation - art. L733-7 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R333-3, alinéa 1 (Ab)
+  - Code de la consommation - art. L724-2
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-4 (VD)
+  - Code de la consommation - art. L733-7
 
 
 ###### Article R724-4
@@ -55094,20 +55331,18 @@ _Cité par_:
 
 ###### Article R724-5
 
-Si la commission fait droit à la demande du débiteur, la lettre mentionnée à l'article R. 724-4 indique que la recommandation
-aux fins de rétablissement personnel sans liquidation judiciaire ou la saisine du juge du tribunal d'instance aux fins
-d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire emporte suspension et interdiction des
-procédures d'exécution diligentées à l'encontre des biens du débiteur ainsi que des cessions de rémunération qu'il a
-consenties et portant sur les dettes autres qu'alimentaires. 
+Si la commission fait droit à la demande du débiteur, la lettre mentionnée à l'article R. 724-4 indique que sa décision
+emporte suspension et interdiction des procédures d'exécution diligentées à l'encontre des biens du débiteur ainsi que des
+cessions de rémunération qu'il a consenties et portant sur les dettes autres qu'alimentaires.
 
-Cette lettre précise que cette suspension et cette interdiction sont acquises jusqu'à l'homologation par le juge de la
-recommandation, jusqu'au jugement prononçant un rétablissement personnel sans liquidation judiciaire ou jusqu'au jugement
-d'ouverture de la procédure de rétablissement personnel avec liquidation judiciaire, sans pouvoir excéder deux ans. La
-recommandation aux fins de rétablissement personnel sans liquidation judiciaire ou la saisine du juge du tribunal d'instance
-aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire est notifiée par lettre
-recommandée avec demande d'avis de réception, ou remise contre récépissé, aux agents chargés de l'exécution et, le cas
-échéant, au greffier en chef du tribunal d'instance en charge de la procédure de saisie des rémunérations ou de la cession
-des rémunérations, qui en informe le tiers saisi ou le cessionnaire.
+Cette lettre précise que cette suspension et cette interdiction sont acquises jusqu'à la décision de la commission imposant
+un rétablissement personnel sans liquidation judiciaire, jusqu'au jugement prononçant un rétablissement personnel sans
+liquidation judiciaire ou jusqu'au jugement d'ouverture de la procédure de rétablissement personnel avec liquidation
+judiciaire, sans pouvoir excéder deux ans. La décision de la commission imposant un rétablissement personnel sans liquidation
+judiciaire ou la saisine du juge du tribunal d'instance aux fins d'ouverture d'une procédure de rétablissement personnel avec
+liquidation judiciaire est notifiée par lettre recommandée avec demande d'avis de réception, ou remise contre récépissé, aux
+agents chargés de l'exécution et, le cas échéant, au greffier en chef du tribunal d'instance en charge de la procédure de
+saisie des rémunérations ou de la cession des rémunérations, qui en informe le tiers saisi ou le cessionnaire.
 
 **Liens relatifs à cet article**
 
@@ -55115,17 +55350,13 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R333-3, alinéa 3 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 5
 
 _Cite_:
 
-  - Code de la consommation - art. R724-4 (V)
+  - Code de la consommation - art. R724-4
 
 
 ###### Article R724-6
@@ -55154,8 +55385,8 @@ _Cite_:
 
 ###### Article R724-7
 
-Si la commission recommande un rétablissement personnel sans liquidation judiciaire, les dispositions de l'article R. 741-1
-sont applicables. 
+Si la commission impose un rétablissement personnel sans liquidation judiciaire, les dispositions de l'article R. 741-1 sont
+applicables.
 
 Si la commission décide de saisir le juge aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation
 judiciaire, les dispositions de l'article R. 742-3 sont applicables.
@@ -55166,24 +55397,20 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R333-3, alinéas 4 et 5 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 2
 
 _Cite_:
 
-  - Code de la consommation - art. R741-1 (V)
-  - Code de la consommation - art. R742-3 (V)
+  - Code de la consommation - art. R741-1 (VD)
+  - Code de la consommation - art. R742-3
 
 
 ###### Article R724-8
 
 Si la commission ne fait pas droit à la demande du débiteur, elle informe ce dernier que le plan conventionnel ou les mesures
-imposées ou recommandées en cours se poursuivent.
+imposées en cours se poursuivent.
 
 **Liens relatifs à cet article**
 
@@ -55191,22 +55418,18 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R333-3, alinéa 7 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 2
 
 
-### Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=713></a>
+### Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=715></a>
 
-#### Chapitre Ier : Détermination de la capacité de remboursement<a id=714></a>
+#### Chapitre Ier : Détermination de la capacité de remboursement<a id=716></a>
 
 ###### Article R731-1
 
-Pour l'application des dispositions des articles L. 732-1, L. 733-1 et L. 733-7, la part des ressources mensuelles du
+Pour l'application des dispositions des articles L. 732-1, L. 733-1 et L. 733-4, la part des ressources mensuelles du
 débiteur à affecter à l'apurement de ses dettes est calculée, dans les conditions prévues aux articles L. 731-1, L. 731-2 et
 L. 731-3, par référence au barème prévu à l'article R. 3252-2 du code du travail. Toutefois, cette somme ne peut excéder la
 différence entre le montant des ressources mensuelles réelles de l'intéressé et le montant forfaitaire du revenu de
@@ -55219,22 +55442,18 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L731-1 (V)
-  - Code de la consommation - art. L732-1 (V)
-  - Code de la consommation - art. L733-1 (V)
-  - Code de la consommation - art. L733-7 (V)
-  - Code du travail - art. R3252-2 (V)
-  - Code de l'action sociale et des familles - art. L262-2 (M)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-1 (Ab)
+  - Code de la consommation - art. L731-1
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-4 (VD)
+  - Code du travail - art. R3252-2
+  - Code de l'action sociale et des familles - art. L262-2
 
 _Cité par_:
 
@@ -55292,14 +55511,35 @@ _Anciens textes_:
   - Code de la consommation - art. R334-1, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre II : Plan conventionnel<a id=715></a>
+#### Chapitre II : Plan conventionnel<a id=717></a>
+
+###### Article D732-3
+
+La proposition de plan conventionnel de redressement élaborée par la commission est notifiée aux créanciers par lettre
+recommandée avec demande d'avis de réception. Les créanciers disposent d'un délai de 30 jours pour refuser cette proposition.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2017-302 du 8 mars 2017, les présentes dispositions entrent en vigueur le 1er janvier
+2018. Elles s'appliquent aux dossiers de surendettement déposés à compter de cette date.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-302 du 8 mars 2017 - art. 1
+
+_Cité par_:
+
+  - Décret n°2018-94 du 13 février 2018 (V)
+
 
 ###### Article R732-1
 
 Le plan conventionnel de redressement est signé et daté par les parties. Une copie leur en est adressée par lettre simple.
 
-Ce plan entre en application à la date fixée par la commission ou au plus tard le dernier jour du mois suivant la date du
-courrier par lequel la commission informe les parties de l'approbation de ce plan.
+Ce plan entre en application à la date fixée par la commission et à défaut, au plus tard le dernier jour du mois suivant la
+date du courrier par lequel la commission informe les parties de l'approbation de ce plan.
 
 **Liens relatifs à cet article**
 
@@ -55307,13 +55547,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-2 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 6
 
 _Cité par_:
 
@@ -55346,9 +55582,15 @@ _Anciens textes_:
   - Code de la consommation - art. R334-3 (Ab)
 
 
-#### Chapitre III : Mesures imposées ou recommandées<a id=716></a>
+#### Chapitre III : Mesures imposées ou recommandées<a id=718></a>
 
-##### Section 1 : Contenu et adoption des mesures imposées ou recommandées<a id=717></a>
+##### Section 1 : Contenu et adoption des mesures imposées ou recommandées<a id=719></a>
+
+##### Section 2 : Contestation des mesures imposées ou recommandées<a id=720></a>
+
+#### Chapitre III : Mesures imposées<a id=721></a>
+
+##### Section 1 : Contenu et adoption des mesures imposées<a id=722></a>
 
 ###### Article R733-1
 
@@ -55356,15 +55598,14 @@ Lorsque la commission constate qu'il est impossible de recueillir l'accord des i
 notifie au débiteur par lettre recommandée avec demande d'avis de réception et aux créanciers par lettre simple. 
 
 Ces lettres mentionnent que le débiteur peut, dans un délai de quinze jours à compter de la notification mentionnée au
-premier alinéa, saisir la commission aux fins de voir imposer les mesures prévues à l'article L. 733-1 ou recommander les
-mesures prévues aux articles L. 733-7 et L. 733-8 dont elles reproduisent les dispositions. 
+premier alinéa, saisir la commission aux fins de voir imposer les mesures prévues aux articles L. 733-1, L. 733-4 et L. 733-7
+dont elles reproduisent les dispositions. 
 
 Ces lettres rappellent que la suspension et l'interdiction des procédures d'exécution diligentées à l'encontre des biens du
 débiteur et des cessions de rémunération qu'il a consenties et portant sur des dettes autres qu'alimentaires, ainsi que la
 suspension des mesures d'expulsion se poursuivent soit jusqu'à l'expiration du délai mentionné au deuxième alinéa, soit, si
-le débiteur use de la faculté prévue à ce même alinéa, jusqu'à la décision imposant les mesures prévues à l'article L. 733-1
-ou jusqu'à l'homologation par le juge des mesures recommandées en application des dispositions des articles L. 733-7 et L.
-733-8, sans pouvoir excéder deux ans.
+le débiteur use de la faculté prévue à ce même alinéa, jusqu'à la décision imposant les mesures prévues aux articles L.
+733-1, L. 733-4 et L. 733-7, sans pouvoir excéder deux ans.
 
 **Liens relatifs à cet article**
 
@@ -55372,22 +55613,15 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2016-884 du 29 juin 2016 - art., v. init.
+  - Décret n°2017-896 du 9 mai 2017 - art. 7
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (V)
-  - Code de la consommation - art. L733-7 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-4 (Ab)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-4
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -55476,8 +55710,8 @@ du terme de la suspension d'exigibilité des créances prévue au 4° de l'artic
 faite selon les modalités prévues aux articles R. 721-1 à R. 721-4. 
 
 Cette faculté et les modalités selon lesquelles la saisine doit être faite sont indiquées dans les courriers adressés par la
-commission au débiteur en application des articles R. 733-6 et R. 733-7, ou, le cas échéant, dans la notification du jugement
-pris en application de l'article L. 733-15.
+commission au débiteur en application des articles R. 733-6 et R. 733-8, ou, le cas échéant, dans la notification du jugement
+pris en application de l'article L. 733-13.
 
 **Liens relatifs à cet article**
 
@@ -55485,40 +55719,33 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (V)
-  - Code de la consommation - art. L733-15 (V)
-  - Code de la consommation - art. R721-1 (V)
-  - Code de la consommation - art. R733-6 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-6 (Ab)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-13 (VT)
+  - Code de la consommation - art. R721-1
+  - Code de la consommation - art. R733-6 (VD)
+  - Code de la consommation - art. R733-8 (VT)
 
 
 ###### Article R733-6
 
 La commission notifie, par lettre recommandée avec demande d'avis de réception, au débiteur et aux créanciers les mesures
-qu'elle entend imposer en application des dispositions de l'article L. 733-1 ou qu'elle recommande en application des
-dispositions des articles L. 733-7 et L. 733-8. 
+qu'elle entend imposer en application des dispositions des articles L. 733-1, L. 733-4 et L. 733-7.
 
-En cas d'application des dispositions du 3° de l'article L. 733-1 ou de l'article L. 733-7, cette lettre énonce les éléments
-qui motivent spécialement sa décision. 
+Cette lettre mentionne également les dispositions des articles L. 733-8, L. 733-9 et L. 733-14.
 
-Elle mentionne également les dispositions de l'article L. 733-6, de l'article L. 733-9 ainsi que celles des articles L.
-733-10 et L. 733-11. 
+En cas d'application des dispositions du 3° de l'article L. 733-1 ou de l'article L. 733-4, elle énonce les éléments qui
+motivent spécialement la décision de la commission.
 
-Elle indique, selon les cas, que la contestation à l'encontre des mesures que la commission entend imposer est formée par
-déclaration remise ou adressée par lettre recommandée avec demande d'avis de réception à son secrétariat dans un délai de
-quinze jours à compter de leur notification et que la contestation à l'encontre des mesures recommandées est formée par
-déclaration remise ou adressée par lettre recommandée avec demande d'avis de réception au greffe du tribunal d'instance dans
-ce même délai ; elle précise que ces déclarations indiquent les nom, prénoms et adresse de leur auteur, les mesures
-contestées ainsi que les motifs de la contestation, et sont signées par ce dernier.
+Elle indique que la contestation à l'encontre des mesures que la commission entend imposer est formée par déclaration remise
+ou adressée par lettre recommandée avec demande d'avis de réception à son secrétariat dans un délai de trente jours à compter
+de leur notification ; elle précise que cette déclaration indique les nom, prénoms et adresse de son auteur, les mesures
+contestées ainsi que les motifs de la contestation, et est signée par ce dernier.
 
 **Liens relatifs à cet article**
 
@@ -55526,22 +55753,18 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-2, 1ère phrase de l’alinéa 1 - délai (Ab)
-  - Code de la consommation - art. R334-7 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (V)
-  - Code de la consommation - art. L733-10 (V)
-  - Code de la consommation - art. L733-6 (V)
-  - Code de la consommation - art. L733-7 (V)
-  - Code de la consommation - art. L733-9 (V)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-14
+  - Code de la consommation - art. L733-4
+  - Code de la consommation - art. L733-7
+  - Code de la consommation - art. L733-8
+  - Code de la consommation - art. L733-9
 
 _Cité par_:
 
@@ -55552,9 +55775,9 @@ _Cité par_:
 
 ###### Article R733-7
 
-Le bénéfice des mesures recommandées par la commission, en application des dispositions de l'article L. 733-7, ne peut être
+Le bénéfice des mesures imposées par la commission, en application des dispositions de l'article L. 733-4, ne peut être
 invoqué plus de deux mois après sommation faite au débiteur d'avoir à payer le montant de la fraction des prêts immobiliers
-restant due, à moins que, dans ce délai, la commission n'ait été saisie par ce même débiteur. 
+restant due, à moins que, dans ce délai, la commission n'ait été saisie par ce même débiteur.
 
 La sommation de payer reproduit les dispositions du présent article.
 
@@ -55564,27 +55787,23 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-7-1, alinéa 4 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
+  - Décret n°2017-896 du 9 mai 2017 - art. 2
 
 _Cite_:
 
-  - Code de la consommation - art. L733-7 (VT)
+  - Code de la consommation - art. L733-4 (VD)
 
 
 ###### Article R733-8
 
 A défaut de contestation formée dans le délai prévu à l'article R. 733-6, la commission informe par lettre simple le débiteur
-et les créanciers que les mesures prévues à l'article L. 733-1 s'imposent.
+et les créanciers que les mesures prévues aux articles L. 733-1, L. 733-4 et L. 733-7 s'imposent.
 
-Lorsque les mesures prévues à l'article L. 733-1 sont combinées avec tout ou partie de celles prévues aux articles L. 733-7
-et L. 733-8, la commission précise que l'ensemble de ces mesures n'est exécutoire qu'à compter de l'homologation de ces
-dernières par le juge.
+Ces mesures s'appliquent à la date fixée par la commission, et à défaut, au plus tard le dernier jour du mois suivant la date
+de la lettre prévue au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -55592,18 +55811,16 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 9
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (V)
-  - Code de la consommation - art. R733-6 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-8 (Ab)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-4
+  - Code de la consommation - art. L733-7
+  - Code de la consommation - art. R733-6
 
 _Cité par_:
 
@@ -55614,8 +55831,8 @@ _Cité par_:
 
 ###### Article R733-9
 
-Lorsque la commission est destinataire d'une contestation des mesures prévues à l'article L. 733-1, son secrétariat la
-transmet, avec le dossier, au greffe du tribunal d'instance.
+Lorsque la commission est destinataire d'une contestation des mesures prévues aux articles L. 733-1, L. 733-4 et L. 733-7,
+son secrétariat la transmet, avec le dossier, au greffe du tribunal d'instance.
 
 **Liens relatifs à cet article**
 
@@ -55623,160 +55840,23 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Cite_:
-
-  - Code de la consommation - art. L733-1 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-9 (Ab)
-
-
-###### Article R733-10
-
-Lorsque la situation de surendettement du débiteur est traitée en tout ou partie au moyen des mesures prévues aux articles L.
-733-7 et L. 733-8, la commission transmet au juge du tribunal d'instance les mesures qu'elle recommande afin qu'il leur soit
-conféré force exécutoire. Cette transmission est accompagnée des courriers mentionnés aux articles R. 733-1, R. 733-3 et R.
-733-5 et de la déclaration prévue à l'article R. 733-2.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-896 du 9 mai 2017 - art. 17
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L733-7
-  - Code de la consommation - art. R733-1
-  - Code de la consommation - art. R733-2 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-10 (Ab)
+  - Code de la consommation - art. L733-1 (VD)
+  - Code de la consommation - art. L733-4 (VD)
+  - Code de la consommation - art. L733-7 (VD)
 
 
-###### Article R733-11
-
-S'il n'a pas été saisi d'une contestation dans le délai prévu à l'article R. 733-6, le juge se prononce par ordonnance. 
-
-Il vérifie, au vu des pièces transmises par la commission, que les mesures recommandées sont conformes aux dispositions des
-articles L. 733-7 et L. 733-8 et qu'elles ont été formulées dans le respect de la procédure prévue aux articles R. 733-1 à R.
-733-6. Il s'assure en outre du bien-fondé des mesures recommandées en application du 2° de l'article L. 733-7. 
-
-Il ne peut ni les compléter ni les modifier.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-896 du 9 mai 2017 - art. 17
-
-_Cite_:
-
-  - Code de la consommation - art. L733-7
-  - Code de la consommation - art. R733-1
-  - Code de la consommation - art. R733-6
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-11 (Ab)
-
-
-###### Article R733-12
-
-Lorsque le juge du tribunal d'instance confère force exécutoire aux mesures recommandées, celles-ci sont annexées à la
-décision. 
-
-Le greffe établit autant de copies exécutoires de l'ordonnance qui homologue les mesures recommandées qu'il y a de parties et
-les envoie à la commission avec les pièces transmises. La commission adresse à chacune des parties une copie exécutoire de
-l'ordonnance par lettre recommandée avec demande d'avis de réception. 
-
-En cas d'illégalité des mesures recommandées ou d'irrégularité de la procédure ou lorsque les mesures recommandées en
-application du 2° de l'article L. 733-7 sont infondées, le greffe adresse copie de l'ordonnance du juge à la commission et
-lui renvoie les pièces. Il en informe les parties par lettre simple.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-896 du 9 mai 2017 - art. 17
-
-_Cite_:
-
-  - Code de la consommation - art. L733-7
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-12 (Ab)
-
-_Cité par_:
-
-  - Code de la consommation - art. R733-18 (V)
-
-
-###### Article R733-13
-
-S'il a été saisi d'une contestation des mesures prévues aux articles L. 733-7 ou L. 733-8, le greffe du tribunal d'instance
-en informe la commission, qui lui transmet le dossier.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-896 du 9 mai 2017 - art. 17
-
-_Cite_:
-
-  - Code de la consommation - art. L733-7
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-13 (Ab)
-
-
-##### Section 2 : Contestation des mesures imposées ou recommandées<a id=718></a>
+##### Section 2 : Contestation des mesures imposées<a id=723></a>
 
 ###### Article R733-14
 
 Le jugement qui, en application des dispositions de l'article L. 733-13, ordonne par provision l'exécution d'une ou plusieurs
-des mesures prévues aux articles L. 733-1, L. 733-7 et L. 733-8, n'est pas susceptible d'appel, indépendamment du jugement
+des mesures prévues aux articles L. 733-1, L. 733-4 et L. 733-7, n'est pas susceptible d'appel, indépendamment du jugement
 statuant sur la contestation.
 
 **Liens relatifs à cet article**
@@ -55785,25 +55865,22 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (V)
-  - Code de la consommation - art. L733-13 (V)
-  - Code de la consommation - art. L733-7 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-14 (Ab)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-13
+  - Code de la consommation - art. L733-4 (VD)
+  - Code de la consommation - art. L733-7 (VD)
 
 
 ###### Article R733-15
 
-L'appel aux créanciers prévu à l'article L. 733-14 est publié par le greffe du tribunal d'instance selon les formes prévues à
-l'article R. 723-2.
+L'appel aux créanciers prévu à l'article L. 733-12 est publié par le greffe du tribunal d'instance selon les formes prévues à
+l'article R. 723-2. 
 
 A défaut d'accord entre les parties, le juge du tribunal d'instance désigne, par une ordonnance, la ou les parties qui en
 supporteront les frais.
@@ -55814,18 +55891,14 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L733-14 (V)
-  - Code de la consommation - art. R723-2 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-15 (Ab)
+  - Code de la consommation - art. L733-12 (VD)
+  - Code de la consommation - art. R723-2
 
 
 ###### Article R733-16
@@ -55871,21 +55944,20 @@ _Cité par_:
   - Code de la consommation - art. R733-18 (VD)
 
 
-##### Section 3 : Dispositions communes aux mesures recommandées ou imposées<a id=719></a>
+##### Section 3 : Dispositions communes aux mesures imposées et à leur contestation<a id=724></a>
 
 ###### Article R733-18
 
 En cas d'effacement d'une créance correspondant au montant d'un chèque impayé et valant régularisation de l'incident de
-paiement en application des dispositions de l'article L. 733-18, l'établissement teneur de compte avise la Banque de France
+paiement en application des dispositions de l'article L. 733-17, l'établissement teneur de compte avise la Banque de France
 de cette régularisation au plus tard le deuxième jour ouvré suivant la remise par le débiteur d'une attestation précisant que
 l'incident de paiement est régularisé par suite de l'effacement total de la créance correspondante. 
 
-Lorsque la mesure d'effacement a été prise en application des dispositions de l'article L. 733-10, l'attestation est établie
-par la commission, qui l'adresse au débiteur lors de l'envoi de la copie exécutoire de l'ordonnance prévu au deuxième alinéa
-de l'article R. 733-12. 
+Lorsque la mesure d'effacement a été prise en application des dispositions de l'article L. 733-9, l'attestation est établie
+par la commission, qui l'adresse au débiteur lors de l'envoi de la lettre mentionnée à l'article R. 733-8. 
 
-Lorsque cette mesure a été prise en application des dispositions des articles L. 733-12 à L. 733-14, l'attestation est
-établie et adressée au débiteur par le greffe lors de l'envoi du jugement prévu à l'article R. 733-17.
+Lorsque cette mesure a été prise en application des dispositions de l'article L. 733-13, l'attestation est établie et
+adressée au débiteur par le greffe lors de l'envoi du jugement prévu à l'article R. 733-17.
 
 **Liens relatifs à cet article**
 
@@ -55893,21 +55965,17 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-**Liens**:
-
-  - RECTIFICATION: Décret n°2016-884 du 29 juin 2016 - art., v. init.
+  - Décret n°2017-896 du 9 mai 2017 - art. 10
 
 _Cite_:
 
-  - Code de la consommation - art. L733-10 (V)
-  - Code de la consommation - art. L733-12 (V)
-  - Code de la consommation - art. L733-18 (V)
-  - Code de la consommation - art. R733-12 (V)
-  - Code de la consommation - art. R733-17 (V)
+  - Code de la consommation - art. L733-13 (VT)
+  - Code de la consommation - art. L733-17 (VT)
+  - Code de la consommation - art. L733-9 (VT)
+  - Code de la consommation - art. R733-17
+  - Code de la consommation - art. R733-8 (VT)
 
 _Anciens textes_:
 
@@ -55918,21 +55986,21 @@ _Cité par_:
   - Code monétaire et financier - art. R131-21-1 (V)
 
 
-### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=720></a>
+### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=725></a>
 
-#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=721></a>
+#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=726></a>
 
-##### Section 1 : Recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=722></a>
+##### Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=727></a>
 
 ###### Article R741-1
 
-Lorsque la commission recommande un rétablissement personnel sans liquidation judiciaire, cette recommandation est notifiée
-aux parties par lettre recommandée avec demande d'avis de réception. 
+Lorsque la commission impose un rétablissement personnel sans liquidation judiciaire, cette décision est notifiée aux parties
+par lettre recommandée avec demande d'avis de réception. 
 
-Cette lettre mentionne les dispositions de l'article L. 741-5. Elle indique que la recommandation peut être contestée par
-déclaration remise ou adressée par lettre recommandée avec demande d'avis de réception au greffe du tribunal d'instance dans
-un délai de quinze jours à compter de sa notification. Cette lettre précise que cette déclaration indique les nom, prénoms et
-adresse de son auteur, la recommandation contestée ainsi que les motifs de la contestation. La déclaration est signée par son
+Cette lettre mentionne les dispositions de l'article L. 741-4. Elle indique que la décision peut être contestée par
+déclaration remise ou adressée par lettre recommandée avec demande d'avis de réception au secrétariat de la commission dans
+un délai de trente jours à compter de sa notification. Cette lettre précise que cette déclaration indique les nom, prénoms et
+adresse de son auteur, la décision contestée ainsi que les motifs de la contestation. La déclaration est signée par son
 auteur.
 
 **Liens relatifs à cet article**
@@ -55941,32 +56009,27 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5-1, alinéa 1- délai (Ab)
-  - Code de la consommation - art. R334-19 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 11
 
 _Cite_:
 
-  - Code de la consommation - art. L741-5 (V)
+  - Code de la consommation - art. L741-4 (VD)
 
 _Cité par_:
 
-  - Code de la consommation - art. R724-7 (V)
+  - Code de la consommation - art. R724-7 (VD)
   - Code de la consommation - art. R741-5 (VT)
   - Code de la consommation - art. R771-1 (M)
 
 
 ###### Article R741-2
 
-Le greffe procède à des mesures de publicité pour permettre aux créanciers qui n'ont pas été avisés de la recommandation de
-la commission de former tierce opposition à l'encontre de la décision du juge lui conférant force exécutoire.
+La commission procède à des mesures de publicité pour permettre aux créanciers qui n'ont pas été avisés de sa décision de
+former un recours devant le juge du tribunal d'instance.
 
-Les titulaires de créances disposent d'un délai de deux mois pour former tierce opposition.
+Les titulaires de créances disposent d'un délai de deux mois à compter de cette publicité pour exercer leur recours.
 
 **Liens relatifs à cet article**
 
@@ -55974,19 +56037,18 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5, alinéa 3 –tierce opposition (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 12
 
 
 ###### Article R741-3
 
-La commission transmet la recommandation, accompagnée du dossier, au juge du tribunal d'instance afin qu'il lui soit conféré
-force exécutoire.
+Un avis de la commission est adressé pour publication au Bulletin officiel des annonces civiles et commerciales par le
+secrétariat de la commission. Cette publication comporte les nom et prénoms du débiteur, sa date de naissance, le numéro du
+département de sa résidence, la date de la décision, l'indication de la commission qui l'a rendue et à laquelle doivent être
+adressés les recours formés par les créanciers non avisés ainsi que le délai de recours à l'encontre de la décision. Elle est
+effectuée dans un délai de trente jours à compter de la date de la décision.
 
 **Liens relatifs à cet article**
 
@@ -55994,19 +56056,15 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-20 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 12
 
 
 ###### Article R741-4
 
-Le juge du tribunal d'instance vérifie que la recommandation a été formulée dans le respect de la procédure. Il s'assure en
-outre de son bien-fondé.
+A défaut de contestation formée dans le délai prévu à l'article R. 741-1, la commission informe par lettre simple le débiteur
+et les créanciers que la décision prise en application de l'article L. 741-1 s'impose.
 
 **Liens relatifs à cet article**
 
@@ -56014,19 +56072,19 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 12
 
-_Anciens textes_:
+_Cite_:
 
-  - Code de la consommation - art. R334-21 (Ab)
+  - Code de la consommation - art. L741-1 (VD)
 
 
 ###### Article R741-5
 
-S'il n'a pas été saisi d'une contestation dans le délai prévu au premier alinéa de l'article R. 741-1, le juge se prononce
-par ordonnance.
+Lorsque la commission est destinataire d'une contestation de la décision prise en application de l'article L. 741-1, son
+secrétariat la transmet, avec le dossier, au greffe du tribunal d'instance.
 
 **Liens relatifs à cet article**
 
@@ -56034,157 +56092,26 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-22, alinéa 1 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 12
 
 _Cite_:
 
-  - Code de la consommation - art. R741-1 (VT)
+  - Code de la consommation - art. L741-1
 
 _Cité par_:
 
   - Code de la consommation - art. R743-1 (V)
 
 
-###### Article R741-6
+##### Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=728></a>
 
-Lorsqu'il confère force exécutoire à la recommandation, celle-ci est annexée à la décision, laquelle rappelle les
-dispositions du deuxième alinéa de l'article L. 741-3.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-896 du 9 mai 2017 - art. 17
-
-_Cite_:
-
-  - Code de la consommation - art. L741-3
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-22, alinéa 2 (Ab)
-
-
-###### Article R741-7
-
-Le greffe établit autant de copies exécutoires de l'ordonnance qu'il y a de parties et les envoie à la commission avec les
-pièces transmises. La commission adresse à chacune des parties une copie exécutoire de l'ordonnance par lettre recommandée
-avec demande d'avis de réception.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-896 du 9 mai 2017 - art. 17
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-22, alinéa 3 (Ab)
-
-
-###### Article R741-8
-
-En cas d'irrégularité de la procédure ou lorsque la recommandation est infondée, le greffe adresse copie de l'ordonnance du
-juge à la commission et lui renvoie le dossier ; il en informe les parties par lettre simple.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-896 du 9 mai 2017 - art. 17
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-22, alinéa 4 (Ab)
-
-
-###### Article R741-9
-
-Sans préjudice de la notification de l'ordonnance conférant force exécutoire à la recommandation, un avis de celle-ci est
-adressé pour publication au Bulletin officiel des annonces civiles et commerciales par le greffe du tribunal d'instance.
-Cette publication comporte les nom et prénoms du débiteur, sa date de naissance, le numéro du département de sa résidence, la
-date de l'ordonnance et l'indication du tribunal qui l'a rendue. Elle est effectuée dans un délai de quinze jours à compter
-de la date de l'ordonnance. 
-
-Ces avis adressés au Bulletin officiel des annonces civiles et commerciales sont établis conformément à un modèle fixé par
-arrêté du garde des sceaux, ministre de la justice. 
-
-Les avis d'ordonnance portant homologation d'une recommandation aux fins de rétablissement personnel sans liquidation
-judiciaire sont accessibles sous forme numérique sur le réseau internet au moyen d'un supplément du Bulletin officiel des
-annonces civiles et commerciales accessible sur ce réseau. 
-
-Cette diffusion numérique est soumise à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
-libertés. 
-
-Les frais de publicité sont avancés par l'Etat au titre des frais de justice, sans préjudice de la possibilité pour le juge
-de les mettre à la charge du débiteur au moyen d'une contribution dont il fixe le montant et les modalités de versement en
-tenant compte des ressources de l'intéressé.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°78-17 du 6 janvier 1978 (V)
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2017-896 du 9 mai 2017 - art. 17
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-23 (Ab)
-
-_Cité par_:
-
-  - Code de la consommation - art. R741-13 (VD)
-  - Code de la consommation - art. R741-17 (V)
-  - Code de la consommation - art. R742-53 (V)
-  - Code de la consommation - art. R742-9 (V)
-
-
-##### Section 2 : Contestation de la recommandation aux fins de rétablissement personnel sans liquidation judiciaire<a id=723></a>
+##### Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=729></a>
 
 ###### Article R741-10
 
-L'appel aux créanciers prévu à l'article L. 741-6 est publié par le greffe du tribunal d'instance selon les formes prévues à
+L'appel aux créanciers prévu à l'article L. 741-8 est publié par le greffe du tribunal d'instance selon les formes prévues à
 l'article R. 723-2. 
 
 A défaut d'accord entre les parties, le juge du tribunal d'instance désigne, par ordonnance, la ou les parties qui en
@@ -56196,18 +56123,14 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L741-6 (V)
-  - Code de la consommation - art. R723-2 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-24 (Ab)
+  - Code de la consommation - art. L741-8 (VD)
+  - Code de la consommation - art. R723-2
 
 
 ###### Article R741-11
@@ -56255,10 +56178,12 @@ _Cité par_:
 
 ###### Article R741-13
 
-Lorsque le juge prononce un rétablissement personnel sans liquidation judiciaire, sans préjudice de la notification du
-jugement aux parties, un avis de celui-ci est adressé pour publication au Bulletin officiel des annonces civiles et
-commerciales par le greffe. Cette publication est effectuée selon les mêmes modalités que celles prévues à l'article R.
-741-9.
+Lorsque le juge prononce un rétablissement personnel sans liquidation judiciaire, un avis de celui-ci est adressé pour
+publication au Bulletin officiel des annonces civiles et commerciales par le greffe. Cette publication comporte les nom et
+prénoms du débiteur, sa date de naissance, le numéro du département de sa résidence, la date du jugement, l'indication du
+tribunal qui l'a rendu et du greffe auquel doivent être adressées les déclarations de tierce-opposition des créanciers non
+avisés ainsi que le délai dans lequel celles-ci doivent être formées. Elle est effectuée dans un délai de quinze jours à
+compter de la date de la décision.
 
 **Liens relatifs à cet article**
 
@@ -56266,13 +56191,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-27 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 13
 
 _Cité par_:
 
@@ -56282,13 +56203,13 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. R741-9 (V)
+  - Code de la consommation - art. R741-9
 
 
 ###### Article R741-14
 
 Le greffe procède à des mesures de publicité pour permettre aux créanciers qui n'ont pas été avisés de former tierce
-opposition à l'encontre du jugement lui conférant force exécutoire.
+opposition à l'encontre du jugement prononçant un rétablissement personnel sans liquidation judiciaire.
 
 Les titulaires de créances disposent d'un délai de deux mois pour former tierce opposition.
 
@@ -56298,20 +56219,16 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5-1, alinéa 3 - tierce opposition (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 14
 
 
-##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé sans recommandation<a id=724></a>
+##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées<a id=730></a>
 
 ###### Article R741-15
 
-L'appel aux créanciers prévu à l'article L. 741-9 est publié par le greffe du tribunal d'instance selon les formes prévues à
+L'appel aux créanciers prévu à l'article L. 741-8 est publié par le greffe du tribunal d'instance selon les formes prévues à
 l'article R. 723-2. 
 
 A défaut d'accord entre les parties, le juge du tribunal d'instance désigne, par ordonnance, la ou les parties qui en
@@ -56323,23 +56240,19 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L741-9 (V)
-  - Code de la consommation - art. R723-2 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-27-1 (Ab)
+  - Code de la consommation - art. L741-8 (VD)
+  - Code de la consommation - art. R723-2
 
 
 ###### Article R741-16
 
-Le jugement par lequel le juge, saisi en application des dispositions de l'article L. 741-2, prononce le rétablissement
+Le jugement par lequel le juge, saisi en application des dispositions de l'article L. 733-10, prononce le rétablissement
 personnel sans liquidation judiciaire est susceptible d'appel.
 
 **Liens relatifs à cet article**
@@ -56348,17 +56261,13 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L741-2 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-27-2 (Ab)
+  - Code de la consommation - art. L733-10 (VD)
 
 _Cité par_:
 
@@ -56369,7 +56278,7 @@ _Cité par_:
 
 Sans préjudice de la notification aux parties du jugement prononçant un rétablissement personnel sans liquidation judiciaire,
 un avis de celui-ci est adressé pour publication au Bulletin officiel des annonces civiles et commerciales par le greffe.
-Cette publication est effectuée selon les mêmes modalités que celles prévues à l'article R. 741-9.
+Cette publication est effectuée selon les mêmes modalités que celles prévues à l'article R. 741-13.
 
 **Liens relatifs à cet article**
 
@@ -56377,23 +56286,19 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-27-3 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. R741-9 (V)
+  - Code de la consommation - art. R741-13 (VD)
 
 
 ###### Article R741-18
 
 Le greffe procède à des mesures de publicité pour permettre aux créanciers qui n'ont pas été avisés de former tierce
-opposition à l'encontre du jugement lui conférant force exécutoire.
+opposition à l'encontre du jugement prononçant un rétablissement personnel sans liquidation judiciaire.
 
 Les titulaires de créances disposent d'un délai de deux mois pour former tierce opposition.
 
@@ -56403,18 +56308,14 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L332-5-2, alinéa 2 - tierce opposition (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 14
 
 
-#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=725></a>
+#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=731></a>
 
-##### Section 1 : Ouverture de la procédure<a id=726></a>
+##### Section 1 : Ouverture de la procédure<a id=732></a>
 
 ###### Article R742-1
 
@@ -56450,7 +56351,7 @@ _Cité par_:
 
 ###### Article R742-2
 
-Dans les cas prévus à l'article L. 742-2 et à l'article L. 741-7, l'accord du débiteur peut être donné verbalement. Il en est
+Dans les cas prévus à l'article L. 742-2 et à l'article L. 741-6, l'accord du débiteur peut être donné verbalement. Il en est
 pris note par le greffe.
 
 **Liens relatifs à cet article**
@@ -56459,18 +56360,14 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L741-7 (V)
-  - Code de la consommation - art. L742-2 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-29 (Ab)
+  - Code de la consommation - art. L741-6 (VD)
+  - Code de la consommation - art. L742-2
 
 
 ###### Article R742-3
@@ -56653,12 +56550,9 @@ _Anciens textes_:
 
 Sans préjudice de la notification du jugement d'ouverture aux parties, un avis de ce jugement est adressé, pour publication
 au Bulletin officiel des annonces civiles et commerciales, par le mandataire ou, à défaut de mandataire, par le greffe. Cette
-publication est effectuée selon les mêmes modalités que celles prévues à l'article R. 741-9. Elle s'effectue dans un délai de
-quinze jours à compter de la réception du jugement par le mandataire ou, en l'absence de mandataire, à compter du jugement. 
-
-Les frais de publicité sont avancés par l'Etat au titre des frais de justice. Ils peuvent être récupérés sur le produit de la
-vente dans les conditions prévues à l'article R. 742-42 et, à défaut de vente ou en cas d'insuffisance de son produit, au
-moyen de la contribution mentionnée à l'article R. 741-9.
+publication est effectuée selon les mêmes modalités que celles prévues à l'article R. 741-13. Elle s'effectue dans un délai
+de quinze jours à compter de la réception du jugement par le mandataire ou, en l'absence de mandataire, à compter du
+jugement.
 
 **Liens relatifs à cet article**
 
@@ -56666,18 +56560,14 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-34 (Ab)
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
+  - Décret n°2017-896 du 9 mai 2017 - art. 17
 
 _Cite_:
 
-  - Code de la consommation - art. R741-9 (V)
-  - Code de la consommation - art. R742-42 (V)
+  - Code de la consommation - art. R741-13 (VD)
 
 _Cité par_:
 
@@ -56708,12 +56598,12 @@ _Anciens textes_:
   - Code de la consommation - art. R334-35 (Ab)
 
 
-##### Section 2 : Déclaration et arrêté des créances<a id=727></a>
+##### Section 2 : Déclaration et arrêté des créances<a id=733></a>
 
 ###### Article R742-11
 
 Dans un délai de deux mois à compter de la publicité du jugement d'ouverture faite dans les conditions prévues à l'article R.
-742-7, les créanciers déclarent leurs créances au mandataire ou, à défaut de mandataire, au greffe du tribunal d'instance,
+742-9, les créanciers déclarent leurs créances au mandataire ou, à défaut de mandataire, au greffe du tribunal d'instance,
 par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
@@ -56722,21 +56612,17 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
-_Anciens textes_:
+_Cite_:
 
-  - Code de la consommation - art. R334-36 (Ab)
+  - Code de commerce - art. R742-19 (V)
 
 _Cité par_:
 
   - Code de la consommation - art. R742-13 (V)
-
-_Cite_:
-
-  - Code de la consommation - art. R742-7 (V)
 
 
 ###### Article R742-12
@@ -56808,7 +56694,7 @@ Lorsque les créances ont été déclarées entre les mains du mandataire, celui
 la publicité du jugement d'ouverture, le bilan économique et social du débiteur. 
 
 Ce bilan comprend un état des créances et, le cas échéant, une proposition de plan comportant les mesures mentionnées aux
-articles L. 733-1, L. 733-7 et L. 733-8. 
+articles L. 733-1, L. 733-4 et L. 733-7. 
 
 Il est adressé au débiteur et aux créanciers par lettre recommandée avec demande d'avis de réception et adressé par lettre
 simple ou remis au greffe du tribunal d'instance. A sa réception, le greffe convoque le débiteur et les créanciers pour qu'il
@@ -56820,19 +56706,16 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (V)
-  - Code de la consommation - art. L733-7 (V)
-  - Code de la consommation - art. R742-17 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-39, I (Ab)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-4 (VD)
+  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. R742-17
 
 
 ###### Article R742-15
@@ -56918,9 +56801,9 @@ _Cité par_:
   - Code de la consommation - art. R742-15 (V)
 
 
-##### Section 3 : Liquidation des biens du débiteur<a id=728></a>
+##### Section 3 : Liquidation des biens du débiteur<a id=734></a>
 
-##### Sous-section 1 : Dispositions générales<a id=729></a>
+##### Sous-section 1 : Dispositions générales<a id=735></a>
 
 ###### Article R742-18
 
@@ -57133,7 +57016,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-47 (Ab)
 
 
-##### Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=730></a>
+##### Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=736></a>
 
 ###### Article R742-27
 
@@ -57634,7 +57517,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-60 (Ab)
 
 
-##### Sous-section 3 : Répartition du produit des actifs<a id=731></a>
+##### Sous-section 3 : Répartition du produit des actifs<a id=737></a>
 
 ###### Article R742-42
 
@@ -57935,14 +57818,14 @@ _Cité par_:
   - Code de la consommation - art. R742-19 (V)
 
 
-##### Section 4 : Clôture de la procédure<a id=732></a>
+##### Section 4 : Clôture de la procédure<a id=738></a>
 
 ###### Article R742-53
 
 Lorsque le juge fait application de l'article L. 742-20, sans préjudice de la notification du jugement aux parties, un avis
 de celui-ci est adressé pour publication au Bulletin officiel des annonces civiles et commerciales par le greffe. 
 
-Cette publication est effectuée selon les mêmes modalités que celles prévues à l'article R. 741-9.
+Cette publication est effectuée selon les mêmes modalités que celles prévues à l'article R. 741-13.
 
 **Liens relatifs à cet article**
 
@@ -57950,18 +57833,14 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 16
 
 _Cite_:
 
-  - Code de la consommation - art. L742-20 (V)
-  - Code de la consommation - art. R741-9 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-72 (Ab)
+  - Code de la consommation - art. L742-20
+  - Code de la consommation - art. R741-13 (VD)
 
 _Cité par_:
 
@@ -58013,7 +57892,7 @@ _Cité par_:
   - Code de la consommation - art. R743-1 (V)
 
 
-##### Section 5 : Plan<a id=733></a>
+##### Section 5 : Plan<a id=739></a>
 
 ###### Article R742-56
 
@@ -58062,7 +57941,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-75 (Ab)
 
 
-#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=734></a>
+#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=740></a>
 
 ###### Article R743-1
 
@@ -58071,9 +57950,12 @@ paiement en application des dispositions de l'article L. 743-1, l'établissement
 cette régularisation au plus tard le deuxième jour ouvré suivant la remise par le débiteur d'une attestation précisant que
 l'incident de paiement est régularisé par suite de l'effacement total de la créance correspondante. 
 
-L'attestation est établie et adressée au débiteur par le greffe lors de l'envoi de l'ordonnance mentionnée à l'article R.
-741-5 ou du jugement mentionné aux articles R. 741-12, 
-R. 742-53 et R. 742-55.
+Lorsque la mesure d'effacement a été prise en application des dispositions de l'article L. 741-1, l'attestation est établie
+par la commission, qui l'adresse au débiteur lors de l'envoi de la lettre mentionnée à l'article R. 733-8. 
+
+Lorsque la mesure d'effacement a été prise en application des dispositions de l'article L. 741-6, L. 742-20 ou L. 742-21,
+l'attestation est établie et adressée au débiteur par le greffe lors de l'envoi du jugement mentionné à l'article R. 741-12,
+R. 741-16 ou R. 742-17.
 
 **Liens relatifs à cet article**
 
@@ -58081,17 +57963,20 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2017-896 du 9 mai 2017 - art. 15
 
 _Cite_:
 
-  - Code de la consommation - art. L743-1 (V)
+  - Code de la consommation - art. L741-1
+  - Code de la consommation - art. L741-6
+  - Code de la consommation - art. L742-20
+  - Code de la consommation - art. L742-21
+  - Code de la consommation - art. L743-1
+  - Code de la consommation - art. R733-8 (VT)
   - Code de la consommation - art. R741-12 (V)
-  - Code de la consommation - art. R741-5 (V)
-  - Code de la consommation - art. R742-53 (V)
-  - Code de la consommation - art. R742-55 (V)
+  - Code de la consommation - art. R741-16 (VT)
 
 _Anciens textes_:
 
@@ -58129,9 +58014,9 @@ _Anciens textes_:
   - Code de la consommation - art. R334-77 (Ab)
 
 
-### Titre VI : SANCTIONS<a id=735></a>
+### Titre VI : SANCTIONS<a id=741></a>
 
-#### Chapitre Ier : Sanctions civiles<a id=736></a>
+#### Chapitre Ier : Sanctions civiles<a id=742></a>
 
 ###### Article R761-1
 
@@ -58166,11 +58051,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*247-18 (V)
 
 
-### Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=737></a>
+### Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=743></a>
 
-#### Chapitre unique : Traitement des situations de surendettement<a id=738></a>
+#### Chapitre unique : Traitement des situations de surendettement<a id=744></a>
 
-##### Section 1 : Dispositions relatives aux îles Wallis et Futuna<a id=739></a>
+##### Section 1 : Dispositions relatives aux îles Wallis et Futuna<a id=745></a>
 
 ###### Article R771-1
 
@@ -58384,7 +58269,7 @@ _Cite_:
   - Code de la consommation - art. R771-1
 
 
-##### Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin<a id=740></a>
+##### Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin<a id=746></a>
 
 ###### Article R771-3
 
@@ -58426,7 +58311,7 @@ _Créé par_:
   - Décret n°2017-1166 du 12 juillet 2017 - art. 5
 
 
-##### Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon<a id=741></a>
+##### Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon<a id=747></a>
 
 ###### Article R771-5
 
@@ -58475,11 +58360,11 @@ _Créé par_:
   - Décret n°2017-1166 du 12 juillet 2017 - art. 5
 
 
-## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=742></a>
+## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=748></a>
 
-### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=743></a>
+### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=749></a>
 
-#### Chapitre Ier : Agrément des associations<a id=744></a>
+#### Chapitre Ier : Agrément des associations<a id=750></a>
 
 ###### Article R811-1
 
@@ -58693,7 +58578,7 @@ _Anciens textes_:
   - Code de la consommation - art. R411-7 (Ab)
 
 
-#### Chapitre II : Reconnaissance spécifique des associations<a id=745></a>
+#### Chapitre II : Reconnaissance spécifique des associations<a id=751></a>
 
 ###### Article R812-1
 
@@ -58801,11 +58686,11 @@ _Cite_:
   - Code de la consommation - art. R812-1 (V)
 
 
-### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=746></a>
+### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=752></a>
 
-#### Chapitre Ier : Conseil national de la consommation<a id=747></a>
+#### Chapitre Ier : Conseil national de la consommation<a id=753></a>
 
-##### Section 1 : Missions et attributions<a id=748></a>
+##### Section 1 : Missions et attributions<a id=754></a>
 
 ###### Article D821-1
 
@@ -58921,7 +58806,7 @@ _Anciens textes_:
   - Code de la consommation - art. D511-4 (Ab)
 
 
-##### Section 2 : Composition et organisation<a id=749></a>
+##### Section 2 : Composition et organisation<a id=755></a>
 
 ###### Article D821-5
 
@@ -59138,7 +59023,7 @@ _Cité par_:
   - Code de la consommation - art. D821-9 (V)
 
 
-##### Section 3 : Fonctionnement<a id=750></a>
+##### Section 3 : Fonctionnement<a id=756></a>
 
 ###### Article D821-12
 
@@ -59306,9 +59191,9 @@ _Anciens textes_:
   - Code de la consommation - art. D511-17 (Ab)
 
 
-#### Chapitre II : Institut national de la consommation<a id=751></a>
+#### Chapitre II : Institut national de la consommation<a id=757></a>
 
-##### Section 1 : Missions et fonctionnement<a id=752></a>
+##### Section 1 : Missions et fonctionnement<a id=758></a>
 
 ###### Article R822-1
 
@@ -59742,7 +59627,7 @@ _Cité par_:
   - Code de la consommation - art. R822-32 (V)
 
 
-##### Section 2 : Organes consultatifs<a id=753></a>
+##### Section 2 : Organes consultatifs<a id=759></a>
 
 ###### Article R822-13
 
@@ -59766,7 +59651,7 @@ _Anciens textes_:
   - Code de la consommation - art. R532-1 (Ab)
 
 
-##### Section 3 : Dispositions financières et comptables<a id=754></a>
+##### Section 3 : Dispositions financières et comptables<a id=760></a>
 
 ###### Article R822-14
 
@@ -59867,7 +59752,7 @@ _Cite_:
   - Code de la consommation - art. L822-4
 
 
-##### Section 4 : Commission des clauses abusives<a id=755></a>
+##### Section 4 : Commission des clauses abusives<a id=761></a>
 
 ###### Article R822-18
 
@@ -60130,9 +60015,9 @@ _Cite_:
   - Code de la consommation - art. R822-12
 
 
-#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=756></a>
+#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=762></a>
 
-##### Section 1 : Organisation et fonctionnement<a id=757></a>
+##### Section 1 : Organisation et fonctionnement<a id=763></a>
 
 ###### Article R823-1
 
@@ -60601,7 +60486,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-##### Section 2 : Dispositions financières et comptables<a id=758></a>
+##### Section 2 : Dispositions financières et comptables<a id=764></a>
 
 ###### Article R823-15
 
@@ -60712,7 +60597,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-##### Section 3 : Dispositions diverses<a id=759></a>
+##### Section 3 : Dispositions diverses<a id=765></a>
 
 ###### Article R823-20
 
@@ -60735,7 +60620,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-#### Chapitre IV : Conseil national de l'alimentation<a id=760></a>
+#### Chapitre IV : Conseil national de l'alimentation<a id=766></a>
 
 ###### Article D824-1
 
@@ -61022,7 +60907,7 @@ _Anciens textes_:
   - Code de la consommation - art. D541-7 (Ab)
 
 
-#### Chapitre V : Groupe interministériel de la consommation<a id=761></a>
+#### Chapitre V : Groupe interministériel de la consommation<a id=767></a>
 
 ###### Article D825-1
 
@@ -61176,7 +61061,7 @@ _Anciens textes_:
   - Code de la consommation - art. D522-4 (Ab)
 
 
-## Annexes<a id=762></a>
+## Annexes<a id=768></a>
 
 ###### Article Annexe à l'article D312-26
 
