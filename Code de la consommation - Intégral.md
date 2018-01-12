@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2018-01-01 00:00:01 +0100
+Version Consolidée au 2018-01-13
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -26376,8 +26376,8 @@ articles L. 314-14 et L. 342-5 de ce code ;
 
 8° Des articles L. 271-1, L. 271-2 et L. 271-6 du code de la construction et de l'habitation ; 
 
-9° Du dernier alinéa du I de l'article L. 112-6 et des sections 1 à 3 du chapitre VIII du titre IV du livre V du code
-monétaire et financier, 
+9° Du dernier alinéa du I de l'article L. 112-6, des articles L. 112-11 à L. 112-13 et des sections 1 à 3 du chapitre VIII du
+titre IV du livre V du code monétaire et financier, 
 
 10° Du code pénal réprimant la vente forcée par correspondance ; 
 
@@ -26418,6 +26418,8 @@ _Cite_:
   - Loi n°86-1290 du 23 décembre 1986
   - Loi n°89-462 du 6 juillet 1989 - art. 4
   - Loi n°2004-575 du 21 juin 2004
+  - Code monétaire et financier - art. L112-11
+  - Code monétaire et financier - art. L112-13
   - Code monétaire et financier - art. L112-6
   - Code de la santé publique - art. L1111-3
   - Code de la santé publique - art. L1111-3-2
@@ -26432,6 +26434,10 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L271-6
   - Code de la route. - art. L213-2
   - Code des transports - art. L3142-5
+
+_Codifié par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 _Cité par_:
 
@@ -26452,13 +26458,9 @@ _Cité par_:
   - Code des transports - art. L5421-13 (VD)
   - Code monétaire et financier - art. L361-1 (V)
 
-_Codifié par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
 _Modifié par_:
 
-  - Loi n°2017-203 du 21 février 2017 - art. 12
+  - Ordonnance n°2017-1252 du 9 août 2017 - art. 21
 
 
 ###### Article L511-8
