@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2018-01-13
+Version Consolidée au 2018-02-16
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -54253,7 +54253,7 @@ _Anciens textes_:
 ###### Article R712-20
 
 Dans chaque département, la commission de coordination des actions de prévention des expulsions locatives prévue à l'article
-7-2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, le conseil général et la caisse
+7-2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement, le conseil départemental et la caisse
 d'allocations familiales désignent, chacun pour ce qui le concerne, un correspondant en vue de favoriser la coordination de
 leurs actions avec celles de la commission et notamment de faciliter la mise en place des mesures d'accompagnement social ou
 budgétaire prévues au présent livre.
@@ -54262,19 +54262,15 @@ budgétaire prévues au présent livre.
 
 _Cite_:
 
-  - Loi n°90-449 du 31 mai 1990 - art. 7-2 (V)
+  - Loi n°90-449 du 31 mai 1990 - art. 7-2
 
 _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Anciens textes_:
-
-  - Code de la consommation - art. L331-3, II, 2ème phrase de l’alinéa 7 (Ab)
+  - Décret n°2018-94 du 13 février 2018 - art. 2
 
 _Cité par_:
 
@@ -55664,10 +55660,10 @@ _Cité par_:
 
 ###### Article R732-1
 
-Le plan conventionnel de redressement est signé et daté par les parties. Une copie leur en est adressée par lettre simple.
-
-Ce plan entre en application à la date fixée par la commission et à défaut, au plus tard le dernier jour du mois suivant la
-date du courrier par lequel la commission informe les parties de l'approbation de ce plan.
+Le plan conventionnel de redressement est signé et daté par les parties. Lorsque l'accord des créanciers est réputé acquis en
+application de l'article L. 732-3, le plan conventionnel est signé par le seul débiteur. Une copie est adressée par lettre
+simple à l'ensemble des parties. Ce plan entre en application à la date fixée par la commission et à défaut, au plus tard le
+dernier jour du mois suivant la date du courrier par lequel la commission informe les parties de l'approbation de ce plan.
 
 **Liens relatifs à cet article**
 
@@ -55677,7 +55673,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 6
+  - Décret n°2018-94 du 13 février 2018 - art. 3
 
 _Cité par_:
 
@@ -55688,7 +55684,7 @@ _Cité par_:
 
 Le plan conventionnel de redressement mentionne qu'il est de plein droit caduc quinze jours après une mise en demeure restée
 infructueuse, adressée au débiteur d'avoir à exécuter ses obligations, sans préjudice de l'exercice des facultés prévues aux
-articles L. 721-3, L. 722-4 et L. 722-6.
+articles L. 721-1, L. 721-4, L. 721-6, L. 721-7, L. 722-3, L. 722-4 et L. 722-6.
 
 **Liens relatifs à cet article**
 
@@ -55696,18 +55692,14 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2018-94 du 13 février 2018 - art. 4
 
 _Cite_:
 
-  - Code de la consommation - art. L721-3 (V)
-  - Code de la consommation - art. L722-4 (V)
-
-_Anciens textes_:
-
-  - Code de la consommation - art. R334-3 (Ab)
+  - Code de la consommation - art. L721-3
+  - Code de la consommation - art. L722-4
 
 
 #### Chapitre III : Mesures imposées<a id=716></a>
@@ -56166,7 +56158,7 @@ _Modifié par_:
 
 ###### Article R741-3
 
-Un avis de la commission est adressé pour publication au Bulletin officiel des annonces civiles et commerciales par le
+Un avis de la décision est adressé pour publication au Bulletin officiel des annonces civiles et commerciales par le
 secrétariat de la commission. Cette publication comporte les nom et prénoms du débiteur, sa date de naissance, le numéro du
 département de sa résidence, la date de la décision, l'indication de la commission qui l'a rendue et à laquelle doivent être
 adressés les recours formés par les créanciers non avisés ainsi que le délai de recours à l'encontre de la décision. Elle est
@@ -56180,7 +56172,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 12
+  - Décret n°2018-94 du 13 février 2018 - art. 5
 
 
 ###### Article R741-4
@@ -58181,153 +58173,391 @@ _Cité par_:
 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article R. 771-2, les dispositions
 des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite
-du même tableau : 
+du même tableau :
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-ARTICLES APPLICABLES </th>
+ARTICLES APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION </th>
+DANS LEUR REDACTION</th>
     </tr>
     <tr>
       <td align="left">
-R. 711-2 
+
+R. 711-2</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 712-2 à R. 712-11</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 712-12</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017
 </td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
     </tr>
     <tr>
       <td align="left">
-R. 712-2 à R. 712-19 
+
+R. 712-13 à R. 712-19</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 713-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 713-3 à R. 713-11</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016
 </td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
     </tr>
     <tr>
       <td align="left">
-R. 713-2 à R. 713-11 
+
+R. 721-1 à R. 721-6</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 722-1 à l'exception de son dernier alinéa et R. 722-2 à R. 722-4</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 722-5</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 722-6, R. 722-8 et R. 722-11</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 723-1 à R. 723-8</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 724-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 724-2</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 724-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+et R. 724-4</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 724-5, R. 724-7 et R. 724-8</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 731-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 731-2 et R. 731-3</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 732-1 et R. 732-2</td>
+      <td align="left">
+
+Résultant du décret n° 2018-94 du 13 février 2018</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 732-3</td>
+      <td align="left">
+
+Résultant du décret n° 2017-302 du 8 mars 2017
 </td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
     </tr>
     <tr>
       <td align="left">
-R. 721-1 à R. 721-6 
+
+R. 733-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 733-2 à R. 732-4</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 733-5, R. 733-6 et R. 733-8 à R. 733-15</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 733-16 et R. 733-17</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 733-18</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 741-1 et R. 741-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 741-3</td>
+      <td align="left">
+
+Résultant du décret n° 2018-94 du 13 février 2018
 </td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
-    </tr>
-    <tr>
-      <td align="justify">
-R. 722-1 à l'exception de son dernier alinéa, R. 722-2 à R. 722-6, R. 722-8 et R. 722-11 
-</td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
-    </tr>
-    <tr>
-      <td align="left">
-R. 723-1 à R. 723-8 
-</td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
-    </tr>
-    <tr>
-      <td align="left">
-R. 724-1 à R. 724-5 et R. 724-7 à R. 724-8 
-</td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
-    </tr>
-    <tr>
-      <td align="left">
-R. 731-1 à R. 731-3 
-</td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
-    </tr>
-    <tr>
-      <td align="left">
-R. 732-1 et R. 732-2 </td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
-    </tr>
-    <tr>
-      <td align="left">
-R. 733-1 à R. 733-6 et R. 733-8 à R. 733-18 
-</td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
-    </tr>
-    <tr>
-      <td align="left">
-R. 741-1 à R. 741-18 
-</td>
-      <td align="left">
-
-Résultant du décret n° 2016-884 du 29 juin 2016 </td>
-    </tr>
-    <tr>
-      <td align="justify">
-
-R. 742-1 à R. 742-22, R. 742-25, R. 742-26, R. 742-42, R. 742-44, R. 742-45 à R. 742-50 et R. 742-52 à R. 742-57 
-
-</td>
-      <td align="left">Résultant du décret n° 2016-884 du 29 juin 2016 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 743-1, R. 743-2 
+R. 741-4 à R. 741-10</td>
+      <td align="left">
 
-</td>
-      <td align="left">Résultant du décret n° 2016-884 du 29 juin 2016 </td>
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
-R. 761-1
-</td>
-      <td align="left">Résultant du décret n° 2016-884 du 29 juin 2016</td>
+
+R. 741-11 et R. 741-12</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 741-13 à R. 741-18</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-1</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-2</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-3 à R. 742-8</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-9</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-10</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-11</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-12 et R. 742-13</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-14</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-15, R. 742-16 à R. 742-22, R. 742-25, R. 742-26, R. 742-42, R. 742-44, R. 742-45 à R. 742-50, R. 742-52</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-53</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 742-54 à R. 742-57</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 743-1</td>
+      <td align="left">
+
+Résultant du décret n° 2017-896 du 9 mai 2017</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 743-2</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 761-1</td>
+      <td align="left">
+
+Résultant du décret n° 2016-884 du 29 juin 2016</td>
     </tr>
   </tbody>
 </table>
 
+.
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-1166 du 12 juillet 2017 - art. 5
 
 _Cite_:
 
-  - Code de la consommation - art. R711-2 (V)
-  - Code de la consommation - art. R712-2 (V)
-  - Code de la consommation - art. R713-2 (VT)
-  - Code de la consommation - art. R721-1 (V)
-  - Code de la consommation - art. R722-1 (V)
-  - Code de la consommation - art. R723-1 (V)
-  - Code de la consommation - art. R724-1 (VT)
-  - Code de la consommation - art. R731-1 (VT)
-  - Code de la consommation - art. R732-1 (VT)
-  - Code de la consommation - art. R733-1 (VT)
-  - Code de la consommation - art. R741-1 (VT)
-  - Code de la consommation - art. R742-1 (V)
-  - Code de la consommation - art. R742-42 (V)
-  - Code de la consommation - art. R743-1 (VT)
-  - Code de la consommation - art. R761-1 (V)
+  - Décret n°2016-884 du 29 juin 2016
+  - Décret n°2017-302 du 8 mars 2017
+  - Décret n°2017-896 du 9 mai 2017
+  - Décret n°2018-94 du 13 février 2018
+
+_Modifié par_:
+
+  - Décret n°2018-94 du 13 février 2018 - art. 6
 
 _Cité par_:
 
