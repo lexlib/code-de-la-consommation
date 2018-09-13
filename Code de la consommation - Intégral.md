@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2018-08-12
+Version Consolidée au 2018-09-14
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -744,11 +744,11 @@ Version Consolidée au 2018-08-12
           - [Section 1 : Dispositions relatives aux îles Wallis et Futuna (art. R771-1 à R771-2)](#741)
           - [Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin (art. R771-3 à R771-4)](#742)
           - [Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon (art. R771-5 à R771-6)](#743)
-    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R811-1 à D825-4)](#744)
+    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R811-1 à D824-8)](#744)
       - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. R811-1 à R812-3)](#745)
         - [Chapitre Ier : Agrément des associations (art. R811-1 à R811-7)](#746)
         - [Chapitre II : Reconnaissance spécifique des associations (art. R812-1 à R812-3)](#747)
-      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. D821-1 à D825-4)](#748)
+      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. D821-1 à D824-8)](#748)
         - [Chapitre Ier : Conseil national de la consommation (art. D821-1 à D821-17)](#749)
           - [Section 1 : Missions et attributions (art. D821-1 à D821-4)](#750)
           - [Section 2 : Composition et organisation (art. D821-5 à D821-11)](#751)
@@ -763,8 +763,7 @@ Version Consolidée au 2018-08-12
           - [Section 2 : Dispositions financières et comptables (art. R823-15 à R823-19)](#760)
           - [Section 3 : Dispositions diverses (art. R823-20)](#761)
         - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#762)
-        - [Chapitre V : Groupe interministériel de la consommation (art. D825-1 à D825-4)](#763)
-    - [Annexes (art. Annexe à l'article D312-26 à Annexe à l'article R314-20)](#764)
+    - [Annexes (art. Annexe à l'article D312-26 à Annexe à l'article R314-20)](#763)
 # Partie législative nouvelle<a id=1></a>
 
 ###### Article liminaire
@@ -59597,11 +59596,8 @@ _Cite_:
 
 ###### Article D821-7
 
-Les représentants des ministères composant le groupe interministériel de la consommation défini à l'article D. 825-1
-participent aux travaux du Conseil national de la consommation, en fonction des sujets traités. 
-
-Les représentants des autres ministres peuvent participer, soit à leur demande, soit à celle du président du Conseil national
-de la consommation, aux séances du Conseil national de la consommation telles qu'elles sont définies à l'article D. 821-12.
+Les représentants des ministres intéressés peuvent, soit à leur demande, soit à celle du président du Conseil national de la
+consommation, participer aux séances.
 
 **Liens relatifs à cet article**
 
@@ -59609,9 +59605,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2018-785 du 12 septembre 2018 - art. 15
 
 _Anciens textes_:
 
@@ -59619,8 +59615,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. D821-12 (V)
-  - Code de la consommation - art. D825-1 (V)
+  - Code de la consommation - art. D821-12
+  - Code de la consommation - art. D825-1 (Ab)
 
 
 ###### Article D821-8
@@ -61632,161 +61628,7 @@ _Anciens textes_:
   - Code de la consommation - art. D541-7 (Ab)
 
 
-#### Chapitre V : Groupe interministériel de la consommation<a id=763></a>
-
-###### Article D825-1
-
-Le groupe interministériel de la consommation a pour mission de coordonner et d'animer la politique de la consommation.
-
-Il propose notamment aux ministres intéressés les mesures propres à améliorer la protection et l'information des
-consommateurs et des usagers. Il veille à assurer une plus grande coordination dans l'élaboration des textes et dans
-l'exécution des contrôles.
-
-À la demande de l'un de ses membres, il est consulté sur les projets de textes législatifs et réglementaires ayant pour objet
-l'information et la protection des consommateurs et des usagers.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 15
-
-_Anciens textes_:
-
-  - Code de la consommation - art. D522-1 (Ab)
-
-_Cité par_:
-
-  - Code de la consommation - art. D821-7 (V)
-
-
-###### Article D825-2
-
-Le groupe interministériel de la consommation est présidé par le ministre chargé de la consommation ou son représentant et
-composé de représentants des ministres chargés des départements ministériels suivants :
-
-- intérieur ;
-
-- commerce extérieur ;
-
-- transports ;
-
-- industrie ;
-
-- recherche ;
-
-- affaires sociales ;
-
-- justice ;
-
-- défense ;
-
-- économie ;
-
-- budget ;
-
-- éducation nationale ;
-
-- agriculture ;
-
-- commerce et artisanat ;
-
-- travail ;
-
-- santé ;
-
-- tourisme ;
-
-- urbanisme et logement ;
-
-- environnement ;
-
-- mer ;
-
-- postes et télécommunications.
-
-Des représentants des autres ministres sont appelés à participer aux travaux du groupe pour les affaires relevant de leur
-compétence.
-
-Le groupe peut, en tant que de besoin, faire appel au concours de personnes qualifiées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 15
-
-_Anciens textes_:
-
-  - Code de la consommation - art. D522-2 (Ab)
-
-
-###### Article D825-3
-
-Le secrétariat du groupe interministériel de la consommation est assuré par les services du ministre chargé de la
-consommation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 15
-
-_Anciens textes_:
-
-  - Code de la consommation - art. D522-3 (Ab)
-
-
-###### Article D825-4
-
-Le ministre chargé de la consommation peut créer par arrêté pris après avis du groupe interministériel de la consommation,
-des groupes de travail spécifiques, temporaires ou permanents. L'arrêté définit la mission attribuée à ces groupes de travail
-ainsi que leur composition.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
-_Abrogé par_:
-
-  - Décret n°2018-785 du 12 septembre 2018 - art. 15
-
-_Anciens textes_:
-
-  - Code de la consommation - art. D522-4 (Ab)
-
-
-## Annexes<a id=764></a>
+## Annexes<a id=763></a>
 
 ###### Article Annexe à l'article D312-26
 
