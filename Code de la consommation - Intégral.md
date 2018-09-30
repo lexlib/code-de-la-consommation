@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2018-09-14
+Version Consolidée au 2018-10-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -2000,15 +2000,19 @@ _Cite_:
 
 ###### Article L121-11
 
-Est interdit le fait de refuser à un consommateur la vente d'un produit ou la prestation d'un service, sauf motif légitime ; 
+Est interdit le fait de refuser à un consommateur la vente d'un produit ou la prestation d'un service, sauf motif légitime ;
 
 Est également interdit le fait de subordonner la vente d'un produit à l'achat d'une quantité imposée ou à l'achat concomitant
 d'un autre produit ou d'un autre service ainsi que de subordonner la prestation d'un service à celle d'un autre service ou à
 l'achat d'un produit dès lors que cette subordination constitue une pratique commerciale déloyale au sens de l'article L.
-121-1. 
+121-1.
+
+Est également interdit le fait de subordonner la vente d'un bien ou la fourniture d'un service à la conclusion d'un contrat
+d'assurance accessoire au bien ou au service vendu, sans permettre au consommateur d'acheter le bien ou d'obtenir la
+fourniture du service séparément.
 
 Pour les établissements de crédit et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les
-règles relatives aux ventes subordonnées sont fixées par les dispositions du 1 du I de l'article L. 312-1-2 du même code. 
+règles relatives aux ventes subordonnées sont fixées par les dispositions du 1 du I de l'article L. 312-1-2 du même code.
 
 Les dispositions du présent article s'appliquent à toutes les activités de production, de distribution et de services, y
 compris celles qui sont le fait de personnes publiques, notamment dans le cadre de conventions de délégation de service
@@ -2020,15 +2024,15 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2018-361 du 16 mai 2018 - art. 11
 
 _Cite_:
 
-  - Code de la consommation - art. L121-1 (V)
-  - Code monétaire et financier - art. L312-1-2 (V)
-  - Code monétaire et financier - art. L518-1 (M)
+  - Code de la consommation - art. L121-1
+  - Code monétaire et financier - art. L312-1-2
+  - Code monétaire et financier - art. L518-1
 
 _Anciens textes_:
 
@@ -39973,8 +39977,8 @@ _Anciens textes_:
 
 ###### Article R132-2
 
-Les subordinations à conditions, de ventes ou de prestations de services, en méconnaissance des dispositions du deuxième
-alinéa de l'article L. 121-11 sont punis de la peine d'amende prévue pour les contraventions de la 5e classe. 
+Les subordinations à conditions, de ventes ou de prestations de services, en méconnaissance des dispositions des deuxième et
+troisième alinéas de l'article L. 121-11 sont punis de la peine d'amende prévue pour les contraventions de la 5e classe.
 
 La récidive est réprimée conformément aux dispositions des articles 132-11 et 132-15 du code pénal.
 
@@ -39984,15 +39988,15 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2018-431 du 1er juin 2018 - art. 7
 
 _Cite_:
 
-  - Code de la consommation - art. L121-11 (V)
-  - Code pénal - art. 132-11 (M)
-  - Code pénal - art. 132-15 (V)
+  - Code de la consommation - art. L121-11
+  - Code pénal - art. 132-11
+  - Code pénal - art. 132-15
 
 _Anciens textes_:
 
@@ -45718,63 +45722,64 @@ _Cite_:
 ###### Article D314-27
 
 La formation mentionnée à l'article L. 314-25 permet, au minimum, d'acquérir au titre du programme préétabli mentionné à
-l'article L. 6353-1 du code du travail : 
+l'article L. 6353-1 du code du travail :
 
-1° Les connaissances nécessaires à la distribution de crédits à la consommation : 
+1° Les connaissances nécessaires à la distribution de crédits à la consommation :
 
 a) La nature et les caractéristiques des différentes formes de crédit à la consommation que la personne en formation est
-susceptible de commercialiser, en distinguant les besoins de financement auxquels elles sont susceptibles de répondre ; 
+susceptible de commercialiser, en distinguant les besoins de financement auxquels elles sont susceptibles de répondre ;
 
 b) L'analyse des caractéristiques financières d'un crédit à la consommation, notamment : le taux débiteur ; le taux annuel
 effectif global ; le coût total du crédit ; la durée du crédit ; le montant total dû par l'emprunteur ; le montant total du
 crédit ; le montant, le nombre et le contenu des échéances ; pour les locations avec option d'achat, le montant des loyers et
-le prix d'achat en cas d'exercice de l'option ; 
+le prix d'achat en cas d'exercice de l'option ;
 
-c) Les modalités de garantie des crédits et les conditions de fonctionnement de la garantie ; 
+c) Les modalités de garantie des crédits et les conditions de fonctionnement de la garantie, y compris celles des assurances
+des emprunteurs ;
 
 2° La connaissance, pour les différentes formes de crédit à la consommation que la personne en formation est susceptible de
-commercialiser, des droits et obligations de l'emprunteur et du conjoint non co-emprunteur, en particulier : 
+commercialiser, des droits et obligations de l'emprunteur et du conjoint non co-emprunteur, en particulier :
 
 a) Entre la formation d'un contrat de crédit et le moment où il devient parfait, notamment en vertu des articles L. 312-18 à
-L. 312-27 ; L. 312-50 à L. 312-54 et L. 312-62 ; 
+L. 312-27 ; L. 312-50 à L. 312-54 et L. 312-62 ;
 
 b) Au cours de l'exécution du contrat de crédit, notamment en vertu des articles L. 312-31 à L. 312-40 et des articles L.
-312-68 à L. 312-83 ; 
+312-68 à L. 312-83 ;
 
 3° Les connaissances et diligences à accomplir ainsi que les explications à fournir pour assurer une bonne information de
-l'emprunteur, notamment : 
+l'emprunteur, notamment :
 
 a) Les explications à fournir à l'emprunteur pour lui permettre de comprendre le contenu de la fiche mentionnée à l'article
-L. 312-12 ; 
+L. 312-12 ;
 
 b) L'établissement de la fiche mentionnée à l'article L. 312-17, notamment les demandes à adresser à l'emprunteur pour réunir
-les informations nécessaires à cette fin ; 
+les informations nécessaires à cette fin ;
 
 c) Les explications à fournir à l'emprunteur pour lui permettre de comprendre les caractéristiques essentielles du crédit
 proposé ainsi que les conséquences que le crédit peut avoir sur sa situation financière, y compris en cas de défaut de
-paiement ; 
+paiement ;
 
 d) Les explications ou avertissements qui peuvent être adressés à l'emprunteur en amont de l'analyse de sa solvabilité par le
 prêteur, en fonction des informations réunies sur le lieu de vente sur ses revenus et charges, afin de lui permettre de
-s'orienter vers un achat et une demande de financement adaptés à ses besoins, à ses préférences et à sa situation ; 
+s'orienter vers un achat et une demande de financement adaptés à ses besoins, à ses préférences et à sa situation ;
 
 e) La remise de l'offre de contrat de crédit ainsi que les explications à fournir à l'emprunteur pour lui permettre de
-comprendre son contenu, en particulier celui de l'encadré mentionné à l'article L. 312-28 ; 
+comprendre son contenu, en particulier celui de l'encadré mentionné à l'article L. 312-28 ;
 
 f) Les explications à donner à l'emprunteur pour lui faire connaître les droits et obligations mentionnés au a et au b du 2°
-et notamment pour l'avertir des conséquences d'un éventuel défaut de paiement ; 
+et notamment pour l'avertir des conséquences d'un éventuel défaut de paiement ;
 
-4° Les connaissances et les démarches nécessaires à la prévention du surendettement : 
+4° Les connaissances et les démarches nécessaires à la prévention du surendettement :
 
-a) Une présentation des caractéristiques des situations de surendettement ; 
+a) Une présentation des caractéristiques des situations de surendettement ;
 
 b) Les explications et les avertissements qui peuvent être données à un emprunteur qui présente un risque de surendettement,
 dans le cas où celui-ci s'interroge sur l'opportunité de formuler une demande de crédit ou de procéder à un achat au
-comptant, ainsi que sur le type de financement qu'il serait susceptible de demander ; 
+comptant, ainsi que sur le type de financement qu'il serait susceptible de demander ;
 
 c) Une présentation des grands principes des procédures de traitement du surendettement, et notamment du risque auquel
 s'expose le prêteur en cas de surendettement de l'emprunteur, en particulier la possibilité pour les commissions de
-surendettement d'annuler en tout ou partie les dettes contractées par ce dernier ; 
+surendettement d'annuler en tout ou partie les dettes contractées par ce dernier ;
 
 5° La connaissance des infractions et manquements relatifs au non-respect des règles figurant au chapitre II du titre Ier du
 livre III du présent code et de leurs sanctions.
@@ -45785,9 +45790,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2018-431 du 1er juin 2018 - art. 7
 
 _Cité par_:
 
@@ -45801,16 +45806,16 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L312-12 (V)
-  - Code de la consommation - art. L312-17 (V)
-  - Code de la consommation - art. L312-18 (V)
-  - Code de la consommation - art. L312-28 (V)
-  - Code de la consommation - art. L312-31 (V)
-  - Code de la consommation - art. L312-50 (V)
-  - Code de la consommation - art. L312-62 (V)
-  - Code de la consommation - art. L312-68 (V)
-  - Code de la consommation - art. L314-25 (V)
-  - Code du travail - art. L6353-1 (M)
+  - Code de la consommation - art. L312-12
+  - Code de la consommation - art. L312-17
+  - Code de la consommation - art. L312-18
+  - Code de la consommation - art. L312-28
+  - Code de la consommation - art. L312-31
+  - Code de la consommation - art. L312-50
+  - Code de la consommation - art. L312-62
+  - Code de la consommation - art. L312-68
+  - Code de la consommation - art. L314-25
+  - Code du travail - art. L6353-1
 
 
 ###### Article D314-28
