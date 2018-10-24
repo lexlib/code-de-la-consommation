@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2018-10-01
+Version Consolidée au 2018-10-25
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -61735,8 +61735,8 @@ _Créé par_:
 
 ###### Article D824-1
 
-Le Conseil national de l'alimentation est placé auprès du ministre chargé de l'agriculture, du ministre chargé de la santé et
-du ministre chargé de la consommation.
+Le Conseil national de l'alimentation est placé auprès du ministre chargé de l'agriculture, du ministre chargé de la santé,
+du ministre chargé de l'environnement et du ministre chargé de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -61744,9 +61744,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2018-904 du 22 octobre 2018 - art. 1
 
 _Anciens textes_:
 
@@ -61773,10 +61773,13 @@ II peut, en particulier, être consulté sur les grandes orientations de la poli
 Le Conseil ne se substitue pas aux instances qualifiées en matière scientifique ni aux instances d'orientation économique. II
 peut les consulter sur les questions relevant de leur compétence.
 
+Le Conseil peut également être consulté pour contribuer au retour d'expérience à la suite de crises alimentaires d'ampleur
+nationale.
+
 Le Conseil peut être saisi de toute question relevant de son domaine de compétence par le ministre chargé de l'agriculture,
-le ministre chargé de la santé ou le ministre chargé de la consommation, par toute autre instance consultative placée auprès
-de l'Etat ou de l'un de ses établissements publics, par au moins un de ses collèges, à la majorité des deux tiers des membres
-qui le constituent ou par son président.
+le ministre chargé de la santé, du ministre chargé de l'environnement ou le ministre chargé de la consommation, par toute
+autre instance consultative placée auprès de l'Etat ou de l'un de ses établissements publics, par au moins un de ses
+collèges, à la majorité des deux tiers des membres qui le constituent ou par son président.
 
 **Liens relatifs à cet article**
 
@@ -61786,7 +61789,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1107 du 11 août 2016 - art. 1
+  - Décret n°2018-904 du 22 octobre 2018 - art. 1
 
 _Anciens textes_:
 
@@ -61823,7 +61826,7 @@ _Cite_:
 
 Le Conseil national de l'alimentation comprend :
 
-1° Cinquante-cinq membres répartis en huit collèges :
+1° soixante-deux membres répartis en huit collèges :
 
 a) Le collège constitué de neuf représentants des associations nationales de défense des consommateurs ou d'usagers ;
 
@@ -61838,13 +61841,14 @@ e) Le collège constitué de six représentants de la restauration ;
 f) Le collège constitué de cinq représentants des syndicats de salariés de l'agriculture, de l'agroalimentaire et de la
 distribution des produits alimentaires ;
 
-g) Le collège constitué de trois représentants d'associations : une association mettant en œuvre l'aide alimentaire habilitée
+g) Le collège constitué de sept représentants d'associations : une association mettant en œuvre l'aide alimentaire habilitée
 au niveau national en application de l'article L. 230-6 du code rural et de la pêche maritime, une association représentant
 les usagers du système de santé agréée au niveau national en application de l'article L. 1114-1 du code de la santé publique
-et une association de protection de l'environnement agréée au niveau national en application de l'article L. 141-1 du code de
-l'environnement ;
+et trois associations de protection de l'environnement agréées au niveau national en application de l'article L. 141-1 du
+code de l'environnement, une association de protection animale et une association participant à la prévention et la lutte
+contre l'obésité ;
 
-h) Le collège constitué de dix personnalités désignées en raison de leur compétence en matière d'alimentation ; 
+h) Le collège constitué de treize personnalités désignées en raison de leur compétence en matière d'alimentation ;
 
 2° Neuf membres de droit :
 
@@ -61857,7 +61861,7 @@ c) Le directeur de l'Institut national de la santé et de la recherche médicale
 
 d) Le directeur de l'Institut français de recherche pour l'exploitation de la mer, ou son représentant ;
 
-e) Le directeur général de l'Agence de l'environnement et de la maîtrise de l'énergie, ou son représentant ; 
+e) Le directeur général de l'Agence de l'environnement et de la maîtrise de l'énergie, ou son représentant ;
 
 f) Le directeur de l'Institut national de la consommation, ou son représentant ;
 
@@ -61868,31 +61872,31 @@ h) Le président de l'Association des départements de France, ou son représent
 i) Le président de l'Association des régions de France, ou son représentant.
 
 En outre, assistent de plein droit aux séances du conseil et participent aux débats avec voix consultative les représentants
-des ministres chargés : 
+des ministres chargés :
 
-- de l'agriculture ; 
+- de l'agriculture ;
 
-- de la cohésion sociale ; 
+- de la cohésion sociale ;
 
-- du commerce et de l'artisanat ; 
+- du commerce et de l'artisanat ;
 
-- de la consommation ; 
+- de la consommation ;
 
-- de l'économie ; 
+- de l'économie ;
 
-- de l'éducation nationale ; 
+- de l'éducation nationale ;
 
-- de l'emploi ; 
+- de l'emploi ;
 
-- de l'environnement ; 
+- de l'environnement ;
 
-- de l'industrie ; 
+- de l'industrie ;
 
-- de l'outre-mer ; 
+- de l'outre-mer ;
 
-- de la pêche ; 
+- de la pêche ;
 
-- de la recherche ; 
+- de la recherche ;
 
 - de la santé.
 
@@ -61904,7 +61908,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1107 du 11 août 2016 - art. 2
+  - Décret n°2018-904 du 22 octobre 2018 - art. 1
 
 _Anciens textes_:
 
@@ -61912,13 +61916,13 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code de la consommation - art. D824-5 (M)
+  - Code de la consommation - art. D824-5 (V)
 
 
 ###### Article D824-5
 
 Les membres des collèges a à h mentionnés au 1° de l'article D. 824-4 sont nommés, par arrêté conjoint des ministres chargés
-de l'agriculture, de la santé et de la consommation.
+de l'agriculture, de la santé, de l'environnement et de la consommation.
 
 Leur mandat de trois ans est renouvelable.
 
@@ -61930,7 +61934,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1107 du 11 août 2016 - art. 3
+  - Décret n°2018-904 du 22 octobre 2018 - art. 1
 
 _Anciens textes_:
 
@@ -61938,22 +61942,22 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. D824-4
+  - Code de la consommation - art. D824-4 (V)
 
 _Cité par_:
 
-  - Code de la consommation - art. D824-6 (M)
+  - Code de la consommation - art. D824-6 (V)
 
 
 ###### Article D824-6
 
 Le président du Conseil est désigné, pour une durée de trois ans, renouvelable, par arrêté conjoint des ministres chargés de
-l'agriculture, de la santé et de la consommation. Il est choisi parmi les membres mentionnés à l'article D. 824-5. Le Conseil
-se réunit en formation plénière à la demande de son président, de l'un des ministres auprès duquel il est placé, des deux
-tiers de ses membres ou de l'un de ses collèges, à la majorité des deux tiers des membres qui le constituent. L'ordre du jour
-des séances est arrêté par le président. Les propositions faites par les deux tiers au moins des membres du conseil, ou par
-au moins un de ses collèges, à la majorité des deux tiers des membres qui le constituent, sont inscrites de droit à l'ordre
-du jour. 
+l'agriculture, de la santé, de l'environnement et de la consommation. Il est choisi parmi les membres mentionnés à l'article
+D. 824-5. Le Conseil se réunit en formation plénière à la demande de son président, de l'un des ministres auprès duquel il
+est placé, des deux tiers de ses membres ou de l'un de ses collèges, à la majorité des deux tiers des membres qui le
+constituent. L'ordre du jour des séances est arrêté par le président. Les propositions faites par les deux tiers au moins des
+membres du conseil, ou par au moins un de ses collèges, à la majorité des deux tiers des membres qui le constituent, sont
+inscrites de droit à l'ordre du jour.
 
 Les fonctions de président et de membres du Conseil ne sont pas rémunérées.
 
@@ -61963,9 +61967,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2018-904 du 22 octobre 2018 - art. 1
 
 _Anciens textes_:
 
@@ -62001,7 +62005,8 @@ Le Conseil constitue les groupes de travail permanents ou temporaires qu'il juge
 travaux.
 
 Les modalités de fonctionnement du conseil, notamment les règles de quorum, et de publication des conclusions de ses travaux
-sont précisées par arrêté conjoint des ministres chargés de l'agriculture, de la santé et de la consommation.
+sont précisées par arrêté conjoint des ministres chargés de l'agriculture, de la santé, de l'environnement et de la
+consommation.
 
 **Liens relatifs à cet article**
 
@@ -62009,9 +62014,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2018-904 du 22 octobre 2018 - art. 1
 
 _Anciens textes_:
 
