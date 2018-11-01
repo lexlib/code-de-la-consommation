@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2018-10-25
+Version Consolidée au 2018-11-02
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -337,7 +337,7 @@ Version Consolidée au 2018-10-25
           - [Section 2 : Falsifications (art. L451-1-1 à L451-8)](#334)
           - [Section 3 : Autres infractions relatives aux produits (art. L451-9 à L451-16)](#335)
           - [Section 4 : Dispositions relatives à certains établissements (art. L451-17)](#336)
-        - [Chapitre II : Sécurité (art. L452-1 à L452-6)](#337)
+        - [Chapitre II : Sécurité (art. L452-1 à L452-7)](#337)
         - [Chapitre III : Valorisation des produits et services (art. L453-1 à L453-10)](#338)
         - [Chapitre IV : Fraudes (art. L454-1 à L454-7)](#339)
         - [Chapitre V : Dispositions communes (art. L455-1 à L455-2)](#340)
@@ -2857,8 +2857,8 @@ _Cite_:
 ###### Article L122-19
 
 Les personnes ou entreprises qui transforment ou distribuent des produits alimentaires dans le cadre d'une activité de
-restauration commerciale ou de vente à emporter de plats préparés, permanente ou occasionnelle, principale ou accessoire,
-précisent sur leurs cartes ou sur tout autre support qu'un plat proposé est " fait maison ".
+restauration commerciale, de restauration collective ou de vente à emporter de plats préparés, permanente ou occasionnelle,
+principale ou accessoire, précisent sur leurs cartes ou sur tout autre support qu'un plat proposé est " fait maison ".
 
 **Liens relatifs à cet article**
 
@@ -2866,9 +2866,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2018-938 du 30 octobre 2018 - art. 27
 
 _Anciens textes_:
 
@@ -3240,9 +3240,9 @@ _Cite_:
 
 ###### Article L132-4
 
-En cas de condamnation, le tribunal peut ordonner, par tous moyens appropriés, l'affichage ou la diffusion de l'intégralité
-ou d'une partie de la décision ou d'un communiqué informant le public des motifs et du dispositif de celle-ci. Il peut, de
-plus, ordonner la diffusion, aux frais de la personne condamnée, d'une ou de plusieurs annonces rectificatives.
+En cas de condamnation, le tribunal ordonne, par tous moyens appropriés, l'affichage ou la diffusion de l'intégralité ou
+d'une partie de la décision ou d'un communiqué informant le public des motifs et du dispositif de celle-ci. Il peut, de plus,
+ordonner la diffusion, aux frais de la personne condamnée, d'une ou de plusieurs annonces rectificatives.
 
 Le jugement fixe les termes de ces annonces et les modalités de leur diffusion et impartit à la personne condamnée un délai
 pour y faire procéder.
@@ -3255,9 +3255,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2018-938 du 30 octobre 2018 - art. 20
 
 _Cité par_:
 
@@ -3430,10 +3430,13 @@ _Anciens textes_:
 ###### Article L132-11
 
 Les pratiques commerciales agressives mentionnées aux articles L. 121-6 et L. 121-7 sont punies d'un emprisonnement de deux
-ans et d'une amende de 300 000 euros. 
+ans et d'une amende de 300 000 euros.
 
 Le montant de l'amende peut être porté, de manière proportionnée aux avantages tirés du délit, à 10 % du chiffre d'affaires
 moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits.
+
+En cas de condamnation, le tribunal ordonne, par tous moyens appropriés, l'affichage ou la diffusion de l'intégralité ou
+d'une partie de la décision ou d'un communiqué informant le public des motifs et du dispositif de celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -3441,13 +3444,13 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2018-938 du 30 octobre 2018 - art. 20
 
 _Cite_:
 
-  - Code de la consommation - art. L121-6 (VD)
+  - Code de la consommation - art. L121-6
 
 _Anciens textes_:
 
@@ -23874,13 +23877,25 @@ _Cité par_:
 
 Lorsqu'un producteur ou un distributeur sait que des produits destinés aux consommateurs qu'il a mis sur le marché ne
 répondent pas aux exigences énoncées à l'article L. 421-3, il engage les actions nécessaires pour prévenir les risques pour
-les consommateurs et en informe immédiatement les autorités administratives compétentes. 
+les consommateurs et en informe immédiatement les autorités administratives compétentes.
 
 Les modalités de cette information sont définies par arrêté du ministre chargé de la consommation et des ministres
-intéressés. 
+intéressés.
 
 Le producteur ou le distributeur ne peut s'exonérer de ses obligations en soutenant n'avoir pas eu connaissance des risques
 qu'il ne pouvait raisonnablement ignorer.
+
+Dans le secteur alimentaire et de l'alimentation animale, lorsque des mesures de retrait ou de rappel sont mises en œuvre,
+les producteurs et les distributeurs établissent et maintiennent à jour un état chiffré des produits retirés ou rappelés,
+qu'ils tiennent à la disposition des agents habilités.
+
+Sans préjudice des mesures d'information des consommateurs et des autorités administratives compétentes prévues par la
+réglementation en vigueur, les professionnels qui procèdent au rappel de denrées alimentaires ou d'aliments pour animaux en
+font la déclaration de façon dématérialisée sur un site internet dédié, mis à la disposition du public par l'administration.
+
+Un arrêté des ministres intéressés, pris après avis de la Commission nationale de l'informatique et des libertés, détermine
+les conditions de fonctionnement de ce site, son adresse, les informations à déclarer, la nature de celles qui sont rendues
+publiques, ainsi que les modalités de déclaration, de publication et d'actualisation de ces informations.
 
 **Liens relatifs à cet article**
 
@@ -23888,9 +23903,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2018-938 du 30 octobre 2018 - art. 51
 
 _Anciens textes_:
 
@@ -23898,10 +23913,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L421-3 (VD)
+  - Code de la consommation - art. L421-3
 
 _Cité par_:
 
+  - Code de la consommation - art. L452-7 (V)
   - Code de la consommation - art. R452-2 (V)
   - Code rural et de la pêche maritime - art. L205-7-1 (V)
 
@@ -25524,10 +25540,10 @@ Le fait, pour un exploitant, de ne pas mettre en œuvre les procédures de retra
 20 du règlement n° 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les
 prescriptions générales de la législation alimentaire, instituant l'Autorité européenne de sécurité des aliments et fixant
 des procédures relatives à la sécurité des denrées alimentaires, alors qu'il a connaissance qu'un produit ou une denrée
-alimentaire, autre qu'un produit d'origine animale ou une denrée en contenant, qu'il a importé, produit, transformé ou
-distribué est préjudiciable à la santé humaine ou qu'un aliment pour animaux autre qu'un aliment pour animaux d'origine
-animale ou contenant des produits d'origine animale qu'il a importé, produit, transformé ou distribué est dangereux, est puni
-d'une peine d'emprisonnement de cinq ans et d'une amende de 600 000 euros.
+alimentaire, autre qu'un produit d'origine animale ou une denrée en contenant, qu'il a importé, produit ou transformé est
+préjudiciable à la santé humaine ou qu'un aliment pour animaux autre qu'un aliment pour animaux d'origine animale ou
+contenant des produits d'origine animale qu'il a importé, produit ou transformé est dangereux, est puni d'une peine
+d'emprisonnement de cinq ans et d'une amende de 600 000 euros.
 
 Ce montant peut être porté, de manière proportionnée aux avantages tirés du délit, à 10 % du chiffre d'affaires moyen annuel,
 calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits.
@@ -25538,9 +25554,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2018-938 du 30 octobre 2018 - art. 51
 
 _Anciens textes_:
 
@@ -25591,6 +25607,21 @@ _Cite_:
   - Code pénal - art. 131-27 (M)
   - Code pénal - art. 131-38 (M)
   - Code pénal - art. 131-39 (V)
+
+
+###### Article L452-7
+
+Le fait de ne pas satisfaire aux obligations énoncées au quatrième alinéa de l'article L. 423-3 est puni de 5 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-938 du 30 octobre 2018 - art. 51
+
+_Cite_:
+
+  - Code de la consommation - art. L423-3 (V)
 
 
 #### Chapitre III : Valorisation des produits et services<a id=338></a>
@@ -26909,11 +26940,11 @@ _Cite_:
 
 ###### Article L511-12
 
-Les agents sont habilités à rechercher et à constater : 
+Les agents sont habilités à rechercher et à constater :
 
 1° Les infractions aux dispositions réglementaires prises en application du II de l'article L. 231-1, des articles L. 231-5,
 L. 231-6, L. 236-1, L. 236-2 et L. 236-4 du code rural et de la pêche maritime, à l'exception de celles relatives à la
-production primaire et de celles relatives aux abattoirs ; 
+production primaire et de celles relatives aux abattoirs ;
 
 2° Les infractions et les manquements aux dispositions des règlements suivants et des règlements européens qui les
 modifieraient ou seraient pris pour leur application :
@@ -26935,7 +26966,9 @@ avec les dispositions relatives à la santé animale et au bien-être des animau
 la production primaire et aux abattoirs ;
 
 - règlement (CE) n° 183/2005 du Parlement européen et du Conseil du 12 janvier 2005 modifié établissant des exigences en
-matière d'hygiène des aliments pour animaux à l'exception des dispositions applicables à la production primaire.
+matière d'hygiène des aliments pour animaux à l'exception des dispositions applicables à la production primaire ;
+
+3° Les manquements aux chapitres III et IV du titre V du livre II du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
@@ -26943,9 +26976,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2018-938 du 30 octobre 2018 - art. 75
 
 _Anciens textes_:
 
@@ -26955,12 +26988,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L231-1 (VD)
-  - Code rural et de la pêche maritime - art. L231-5 (Ab)
-  - Code rural et de la pêche maritime - art. L231-6 (M)
-  - Code rural et de la pêche maritime - art. L236-1 (Ab)
-  - Code rural et de la pêche maritime - art. L236-2 (Ab)
-  - Code rural et de la pêche maritime - art. L236-4 (M)
+  - Code de la consommation - art. L231-1
+  - Code rural - art. L231-5
+  - Code rural - art. L231-6
+  - Code rural - art. L236-1
+  - Code rural - art. L236-2
+  - Code rural - art. L236-4
 
 _Cité par_:
 
@@ -27075,7 +27108,8 @@ _Cité par_:
 
 Les agents sont habilités à procéder aux contrôles :
 
-- des aliments pour animaux et des denrées alimentaires d'origine non animale originaires ou en provenance des pays tiers ;
+- des aliments pour animaux et des denrées alimentaires à l'exclusion des produits d'origine animale originaires ou en
+provenance des pays tiers ;
 
 - des matériaux et objets destinés à entrer en contact direct ou indirect avec des denrées alimentaires, originaires ou en
 provenance des pays tiers.
@@ -27094,9 +27128,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2018-938 du 30 octobre 2018 - art. 91
 
 _Anciens textes_:
 
@@ -28249,7 +28283,8 @@ _Cité par_:
 
 ###### Article L512-27
 
-Les produits, objets ou appareils consignés sont laissés à la garde de leur détenteur.
+Les produits, objets ou appareils consignés sont laissés à la garde de leur détenteur ou, à défaut, déposés dans un local
+désigné par les agents habilités.
 
 **Liens relatifs à cet article**
 
@@ -28257,9 +28292,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2018-938 du 30 octobre 2018 - art. 92
 
 _Anciens textes_:
 
@@ -28269,7 +28304,8 @@ _Anciens textes_:
 ###### Article L512-28
 
 Les agents habilités dressent un procès-verbal mentionnant les produits, objets ou appareils consignés. Ce procès-verbal est
-transmis dans les vingt-quatre heures au procureur de la République.
+transmis dans les vingt-quatre heures au procureur de la République. Une copie de ce procès-verbal est remise au détenteur
+des produits, objets ou appareils.
 
 La mesure de consignation ne peut excéder une durée d'un mois que sur autorisation du procureur de la République.
 
@@ -28282,9 +28318,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2018-938 du 30 octobre 2018 - art. 92
 
 _Anciens textes_:
 
