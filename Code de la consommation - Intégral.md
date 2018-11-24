@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2018-11-02
+Version Consolidée au 2018-11-25
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -26841,7 +26841,8 @@ en euros et modifiant le règlement (CE) n° 924/2009 ;
 314-10-2, L. 342-1, L. 342-2, L. 342-3 et L. 342-4 du même code en ce qui concerne les manquements précisément énumérés aux
 articles L. 314-14 et L. 342-5 de ce code ; 
 
-8° Des articles L. 271-1, L. 271-2 et L. 271-6 du code de la construction et de l'habitation ; 
+8° Du II de l'article L. 231-4 et des articles L. 241-8, L. 271-1, L. 271-2 et L. 271-6 du code de la construction et de
+l'habitation ; 
 
 9° Du dernier alinéa du I de l'article L. 112-6, des articles L. 112-11 à L. 112-13 et des sections 1 à 3 du chapitre VIII du
 titre IV du livre V du code monétaire et financier, 
@@ -26896,6 +26897,8 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-10-2
   - Code de l'action sociale et des familles - art. L314-4
   - Code de l'action sociale et des familles - art. L342-1
+  - Code de la construction et de l'habitation. - art. L231-4
+  - Code de la construction et de l'habitation. - art. L241-8
   - Code de la construction et de l'habitation. - art. L271-1
   - Code de la construction et de l'habitation. - art. L271-2
   - Code de la construction et de l'habitation. - art. L271-6
@@ -26927,7 +26930,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1252 du 9 août 2017 - art. 21
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 78
 
 _Anciens textes_:
 
@@ -32351,9 +32354,10 @@ _Cite_:
 Une association de défense des consommateurs représentative au niveau national et agréée en application de l'article L. 811-1
 peut agir devant une juridiction civile afin d'obtenir la réparation des préjudices individuels subis par des consommateurs
 placés dans une situation similaire ou identique et ayant pour cause commune un manquement d'un ou des mêmes professionnels à
-leurs obligations légales ou contractuelles : 
+leurs obligations légales, relevant ou non du présent code, ou contractuelles :
 
-1° A l'occasion de la vente de biens ou de la fourniture de services ; 
+1° A l'occasion de la vente de biens ou de la fourniture de services ainsi que dans le cadre de la location d'un bien
+immobilier ;
 
 2° Ou lorsque ces préjudices résultent de pratiques anticoncurrentielles au sens du titre II du livre IV du code de commerce
 ou des articles 101 et 102 du traité sur le fonctionnement de l'Union européenne.
@@ -32361,10 +32365,6 @@ ou des articles 101 et 102 du traité sur le fonctionnement de l'Union européen
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
@@ -32385,13 +32385,17 @@ _Cité par_:
   - Code de la consommation - art. R623-23 (V)
   - Code de la consommation - art. R623-6 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-1021 du 23 novembre 2018 - art. 138
+
 _Anciens textes_:
 
   - Code de la consommation - art. L423-1, alinéas 1, 2 et 3 (Ab)
 
 _Cite_:
 
-  - Code de la consommation - art. L811-1 (VD)
+  - Code de la consommation - art. L811-1
 
 
 ###### Article L623-2
