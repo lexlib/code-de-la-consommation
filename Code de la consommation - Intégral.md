@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2018-10-01
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -39039,6 +39039,30 @@ _Créé par_:
 _Anciens textes_:
 
   - Code de la consommation - art. D111-10 (VT)
+
+
+###### Article D111-15
+
+I.-Le seuil du nombre de connexions au-delà duquel les opérateurs de plateformes en ligne sont soumis aux obligations de
+l'article L. 111-7-1 est fixé à cinq millions de visiteurs uniques par mois, par plateforme, calculé sur la base de la
+dernière année civile. 
+
+Un opérateur de plateforme en ligne dont le nombre de connexions dépasse le seuil mentionné au premier alinéa dispose d'un
+délai de six mois pour se mettre en conformité avec l'article L. 111-7-1. 
+
+II.-Pour l'application de l'article L. 111-7-1 aux opérateurs de plateformes en ligne dont l'activité relève du 2° du I de
+l'article L. 111-7, le nombre de connexions est déterminé au regard de la seule activité de mise en relation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1435 du 29 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code de la consommation - art. L111-7
+  - Code de la consommation - art. L111-7-1
 
 
 ###### Article D111-16
