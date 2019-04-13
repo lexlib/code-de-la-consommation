@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-03-01
+Version Consolidée au 2019-04-14
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -639,7 +639,7 @@ Version Consolidée au 2019-03-01
         - [Chapitre III : Certification de conformité (art. R433-1 à R433-2)](#636)
       - [Titre V : SANCTIONS (art. R451-1 à R453-1)](#637)
         - [Chapitre Ier : Conformité (art. R451-1 à R451-3)](#638)
-        - [Chapitre II : Sécurité (art. R452-1 à R452-4)](#639)
+        - [Chapitre II : Sécurité (art. R452-1 à R452-5)](#639)
         - [Chapitre III : Valorisation des produits et services (art. R453-1)](#640)
     - [Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES (art. D512-6 à R542-2)](#641)
       - [Titre Ier : RECHERCHE ET CONSTATATION (art. D512-6 à R512-42)](#642)
@@ -50016,8 +50016,8 @@ _Anciens textes_:
 
 ###### Article R452-2
 
-Le fait de ne pas informer les autorités administratives compétentes des actions engagées en application de l'article L.
-423-3 est puni de l'amende prévue pour les contraventions de la 5e classe. 
+Le fait de ne pas informer les autorités administratives compétentes des actions engagées en application de l'alinéa premier
+de l'article L. 423-3 est puni de l'amende prévue pour les contraventions de la 5e classe.
 
 La récidive est réprimée conformément aux dispositions des articles 132-11 et 132-15 du code pénal.
 
@@ -50027,15 +50027,15 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-307 du 11 avril 2019 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L423-3 (V)
-  - Code pénal - art. 132-11 (M)
-  - Code pénal - art. 132-15 (V)
+  - Code de la consommation - art. L423-3
+  - Code pénal - art. 132-11
+  - Code pénal - art. 132-15
 
 _Anciens textes_:
 
@@ -50044,7 +50044,7 @@ _Anciens textes_:
 
 ###### Article R452-3
 
-Les infractions aux mesures de la Commission européenne mentionnées à l'article L. 422-4 sont punies de la peine d'amende
+Les infractions aux mesures de la Commission européenne mentionnées à l'article L. 422-3 sont punies de la peine d'amende
 prévue pour les contraventions de la 5e classe. 
 
 La récidive est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
@@ -50055,15 +50055,15 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-307 du 11 avril 2019 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L422-4 (V)
-  - Code pénal - art. 132-11 (M)
-  - Code pénal - art. 132-15 (V)
+  - Code de la consommation - art. L422-3
+  - Code pénal - art. 132-11
+  - Code pénal - art. 132-15
 
 _Anciens textes_:
 
@@ -50071,18 +50071,45 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code de la consommation - art. R452-4 (M)
+  - Code de la consommation - art. R452-4 (V)
+
+
+###### Article R452-3-1
+
+Le fait pour un exploitant du secteur alimentaire ou du secteur de l'alimentation animale, responsable d'activités de
+commerce de détail ou de distribution, au sens du paragraphe 2 des articles 19 et 20 du règlement (CE) n° 178/2002 du
+Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la
+législation alimentaire, instituant l'Autorité européenne de sécurité des aliments et fixant des procédures relatives à la
+sécurité des denrées alimentaires, de méconnaître l'une de ses obligations au titre d'une procédure de retrait ou de rappel,
+prévue par ces mêmes articles, d'un produit ou d'une denrée alimentaire, autre qu'un produit d'origine animale ou une denrée
+en contenant, ou d'un aliment pour animaux autre que ceux d'origine animale ou contenant des produits d'origine animale, est
+puni de la peine d'amende prévue pour les contraventions de la 5e classe.
+
+La récidive est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - 19
+  - 20
+  - Code pénal - art. 132-11
+  - Code pénal - art. 132-15
+
+_Créé par_:
+
+  - Décret n°2019-307 du 11 avril 2019 - art. 1
 
 
 ###### Article R452-4
 
-Les personnes physiques coupables de l'infraction réprimée par l'article R. 452-3 encourent également la confiscation de la
-chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
+Les personnes physiques coupables de l'infraction réprimée par les articles R. 452-3 et R. 452-3-1 encourent également la
+confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit.
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de
-l'infraction réprimée par l'article R. 452-3 encourent, outre l'amende suivant les modalités prévues par l'article 131-41 du
-code pénal, la peine de confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en
-est le produit.
+l'infraction réprimée par les articles R. 452-3 et R. 452-3-1 encourent, outre l'amende suivant les modalités prévues par
+l'article 131-41 du code pénal, la peine de confiscation de la chose qui a servi ou était destinée à commettre l'infraction
+ou de la chose qui en est le produit.
 
 **Liens relatifs à cet article**
 
@@ -50090,9 +50117,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-307 du 11 avril 2019 - art. 1
 
 _Anciens textes_:
 
@@ -50102,8 +50129,29 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la consommation - art. R452-3 (V)
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-41 (V)
+  - Code pénal - art. 121-2
+  - Code pénal - art. 131-41
+
+
+###### Article R452-5
+
+Le fait de ne pas procéder à la déclaration prévue au cinquième alinéa de l'article L. 423-3, ou de communiquer des
+informations inexactes ou incomplètes, est puni de l'amende prévue pour les contraventions de la 5e classe.
+
+L'amende est encourue autant de fois qu'il y a de produits concernés par le rappel.
+
+La récidive est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-307 du 11 avril 2019 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. 132-11
+  - Code pénal - art. 132-15
 
 
 #### Chapitre III : Valorisation des produits et services<a id=640></a>
@@ -52365,18 +52413,18 @@ _Anciens textes_:
 ###### Article R532-1
 
 Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait, en méconnaissance des dispositions d'un
-arrêté pris en application des articles L. 521-17 ou L. 521-25 : 
+arrêté pris en application des articles L. 521-17 ou L. 521-25 :
 
 1° De fabriquer, importer, exporter, mettre sur le marché à titre gratuit ou onéreux, détenir en vue de la vente ou de la
 distribution à titre gratuit un produit ou de réaliser une prestation de services ayant fait l'objet d'une mesure de
-suspension ; 
+suspension ;
 
-2° D'omettre de diffuser les mises en garde ou précautions d'emploi ordonnées ; 
+2° D'omettre de diffuser les mises en garde ou précautions d'emploi ordonnées ;
 
 3° De ne pas échanger, de ne pas modifier ou de ne pas rembourser totalement ou partiellement le produit ou le service, dans
-les conditions de lieu et de délai prescrites ; 
+les conditions de lieu et de délai prescrites ;
 
-4° De ne pas procéder au retrait ou à la destruction d'un produit. 
+4° De ne pas procéder au retrait, au rappel ou à la destruction d'un produit.
 
 La récidive est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
 
@@ -52386,16 +52434,16 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-307 du 11 avril 2019 - art. 1
 
 _Cite_:
 
-  - Code de la consommation - art. L521-17 (V)
-  - Code de la consommation - art. L521-25 (V)
-  - Code pénal - art. 132-11 (M)
-  - Code pénal - art. 132-15 (V)
+  - Code de la consommation - art. L521-17
+  - Code de la consommation - art. L521-25
+  - Code pénal - art. 132-11
+  - Code pénal - art. 132-15
 
 _Anciens textes_:
 
