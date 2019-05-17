@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-04-26
+Version Consolidée au 2019-05-18
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -725,7 +725,7 @@ Version Consolidée au 2019-04-26
         - [Chapitre II : Plan conventionnel (art. D732-3 à R732-2)](#722)
         - [Chapitre III : Mesures imposées (art. R733-1 à R733-18)](#723)
           - [Section 1 : Contenu et adoption des mesures imposées (art. R733-1 à R733-9)](#724)
-          - [Section 2 : Contestation des mesures imposées (art. R733-14 à R733-17)](#725)
+          - [Section 2 : Contestation des mesures imposées (art. R733-14 à R733-17-1)](#725)
           - [Section 3 : Dispositions communes aux mesures imposées et à leur contestation (art. R733-18)](#726)
       - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. R741-1 à R743-2)](#727)
         - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-18)](#728)
@@ -739,7 +739,7 @@ Version Consolidée au 2019-04-26
             - [Sous-section 1 : Dispositions générales (art. R742-18 à R742-26)](#736)
             - [Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R742-27 à R742-41)](#737)
             - [Sous-section 3 : Répartition du produit des actifs (art. R742-42 à R742-52)](#738)
-          - [Section 4 : Clôture de la procédure (art. R742-53 à R742-55)](#739)
+          - [Section 4 : Clôture de la procédure (art. R742-53 à R742-55-1)](#739)
           - [Section 5 : Plan (art. R742-56 à R742-57)](#740)
         - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. R743-1 à R743-2)](#741)
       - [Titre VI : SANCTIONS (art. R761-1)](#742)
@@ -57004,19 +57004,44 @@ _Cite_:
 ###### Article R733-6
 
 La commission notifie, par lettre recommandée avec demande d'avis de réception, au débiteur et aux créanciers les mesures
-qu'elle entend imposer en application des dispositions des articles L. 733-1, L. 733-4 et L. 733-7.
+qu'elle entend imposer en application des dispositions des articles L. 733-1, L. 733-4 et L. 733-7. 
 
-Cette lettre mentionne également les dispositions des articles L. 733-8, L. 733-9 et L. 733-14.
+Cette lettre mentionne également les dispositions des articles L. 733-8, L. 733-9 et L. 733-14. 
 
 En cas d'application des dispositions du 3° de l'article L. 733-1 ou de l'article L. 733-4, elle énonce les éléments qui
-motivent spécialement la décision de la commission.
+motivent spécialement la décision de la commission. 
 
 Elle indique que la contestation à l'encontre des mesures que la commission entend imposer est formée par déclaration remise
 ou adressée par lettre recommandée avec demande d'avis de réception à son secrétariat dans un délai de trente jours à compter
 de leur notification ; elle précise que cette déclaration indique les nom, prénoms et adresse de son auteur, les mesures
-contestées ainsi que les motifs de la contestation, et est signée par ce dernier.
+contestées ainsi que les motifs de la contestation, et est signée par ce dernier. 
+
+En cas d'application des dispositions de l'article L. 714-1, la même lettre informe le bailleur que, en l'absence de
+contestation de sa part, les mesures que la commission entend imposer se substituent aux délais et modalités de paiement de
+la dette locative précédemment accordés par une décision du juge saisi en application de l'article 24 de la loi n° 89-462 du
+6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986. 
+
+Elle rappelle qu'en tout état de cause la suspension des effets de la clause de résiliation de plein droit du contrat de
+location résultant de la décision du juge saisi en application de l'article 24 de la loi n° 89-462 du 6 juillet 1989 tendant
+à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 n'affecte pas l'exécution
+dudit contrat et notamment ne suspend pas le paiement du loyer et des charges. 
+
+Elle rappelle également que l'exécution de la procédure d'expulsion est reprise en cas de défaut de paiement du loyer ou des
+charges ainsi qu'en cas de non-respect des mesures imposées par la commission.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°86-1290 du 23 décembre 1986
+  - Loi n°89-462 du 6 juillet 1989 - art. 24
+  - Code de la consommation - art. L714-1
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-14
+  - Code de la consommation - art. L733-4
+  - Code de la consommation - art. L733-7
+  - Code de la consommation - art. L733-8
+  - Code de la consommation - art. L733-9
 
 _Codifié par_:
 
@@ -57024,21 +57049,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 8
+  - Décret n°2019-455 du 16 mai 2019 - art. 1
 
 _Anciens textes_:
 
   - Code de la consommation - art. L332-2, 1ère phrase de l’alinéa 1 - délai (Ab)
   - Code de la consommation - art. R334-7 (Ab)
-
-_Cite_:
-
-  - Code de la consommation - art. L733-1
-  - Code de la consommation - art. L733-14
-  - Code de la consommation - art. L733-4
-  - Code de la consommation - art. L733-7
-  - Code de la consommation - art. L733-8
-  - Code de la consommation - art. L733-9
 
 _Cité par_:
 
@@ -57135,7 +57151,7 @@ _Anciens textes_:
 
 ###### Article R733-14
 
-Le jugement qui, en application des dispositions de l'article L. 733-13, ordonne par provision l'exécution d'une ou plusieurs
+Le jugement qui, en application des dispositions de l'article L. 733-12, ordonne par provision l'exécution d'une ou plusieurs
 des mesures prévues aux articles L. 733-1, L. 733-4 et L. 733-7, n'est pas susceptible d'appel, indépendamment du jugement
 statuant sur la contestation.
 
@@ -57147,14 +57163,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 16
+  - Décret n°2019-455 du 16 mai 2019 - art. 7
 
 _Cite_:
 
   - Code de la consommation - art. L733-1
-  - Code de la consommation - art. L733-13
-  - Code de la consommation - art. L733-4 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-12
+  - Code de la consommation - art. L733-4
+  - Code de la consommation - art. L733-7
 
 _Anciens textes_:
 
@@ -57233,6 +57249,42 @@ _Cité par_:
   - Code de la consommation - art. R733-18 (VD)
 
 
+###### Article R733-17-1
+
+En cas d'application des dispositions de l'article L. 714-1, la lettre recommandée avec demande d'avis de réception par
+laquelle, en application de l'article R. 713-11, le jugement est notifié au bailleur, informe ce dernier que, en l'absence de
+contestation de sa part, les mesures décidées par ce jugement se substituent aux délais et modalités de paiement de la dette
+locative précédemment accordés par le juge saisi en application de l'article 24 de la loi n° 89-462 du 6 juillet 1989 tendant
+à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986. 
+
+Cette lettre comporte les mentions prévues à l'avant-dernier alinéa de l'article R. 733-6. 
+
+Elle rappelle également que l'exécution de la procédure d'expulsion est reprise en cas de défaut de paiement du loyer ou des
+charges ainsi que, lorsque le juge statue en application du premier alinéa de l'article L. 733-13, en cas de non-respect du
+jugement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°86-1290 du 23 décembre 1986
+  - Loi n°89-462 du 6 juillet 1989 - art. 24
+  - Code de la consommation - art. L714-1
+  - Code de la consommation - art. L733-13
+  - Code de la consommation - art. R713-11
+  - Code de la consommation - art. R733-6
+
+_Créé par_:
+
+  - Décret n°2019-455 du 16 mai 2019 - art. 2
+
+_Cité par_:
+
+  - Code de la consommation - art. R741-12-1 (V)
+  - Code de la consommation - art. R742-55-1 (V)
+  - Code de la consommation - art. R742-56-1 (V)
+
+
 ##### Section 3 : Dispositions communes aux mesures imposées et à leur contestation<a id=726></a>
 
 ###### Article R733-18
@@ -57290,9 +57342,28 @@ Cette lettre mentionne les dispositions de l'article L. 741-4. Elle indique que 
 déclaration remise ou adressée par lettre recommandée avec demande d'avis de réception au secrétariat de la commission dans
 un délai de trente jours à compter de sa notification. Cette lettre précise que cette déclaration indique les nom, prénoms et
 adresse de son auteur, la décision contestée ainsi que les motifs de la contestation. La déclaration est signée par son
-auteur.
+auteur. 
+
+En cas d'application des dispositions de l'article L. 714-1, la même lettre informe le bailleur que, en l'absence de
+contestation de sa part, le rétablissement personnel sans liquidation judiciaire que la commission entend imposer se
+substitue aux délais et modalités de paiement de la dette locative précédemment accordés par le juge saisi en application de
+l'article 24 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la
+loi n° 86-1290 du 23 décembre 1986. 
+
+Elle comporte les mentions prévues à l'avant-dernier alinéa de l'article R. 733-6. 
+
+Elle rappelle également que l'exécution de la procédure d'expulsion est reprise en cas de défaut de paiement du loyer ou des
+charges.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°86-1290 du 23 décembre 1986
+  - Loi n°89-462 du 6 juillet 1989 - art. 24
+  - Code de la consommation - art. L714-1
+  - Code de la consommation - art. L741-4
+  - Code de la consommation - art. R733-6
 
 _Codifié par_:
 
@@ -57300,20 +57371,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 11
+  - Décret n°2019-455 du 16 mai 2019 - art. 3
 
 _Anciens textes_:
 
   - Code de la consommation - art. L332-5-1, alinéa 1- délai (Ab)
   - Code de la consommation - art. R334-19 (Ab)
 
-_Cite_:
-
-  - Code de la consommation - art. L741-4 (VD)
-
 _Cité par_:
 
-  - Code de la consommation - art. R724-7 (VD)
+  - Code de la consommation - art. R724-7 (V)
   - Code de la consommation - art. R741-12-1 (V)
   - Code de la consommation - art. R741-5 (VT)
   - Code de la consommation - art. R742-55-1 (V)
@@ -57482,6 +57549,26 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la consommation - art. R743-1 (VD)
+
+
+###### Article R741-12-1
+
+En cas d'application des dispositions de l'article L. 714-1, les dispositions du premier alinéa de l'article R. 733-17-1
+s'appliquent. 
+
+La lettre prévue à cet alinéa comporte également les mentions prévues aux deux derniers alinéas de l'article R. 741-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-455 du 16 mai 2019 - art. 4
+
+_Cite_:
+
+  - Code de la consommation - art. L714-1
+  - Code de la consommation - art. R733-17-1
+  - Code de la consommation - art. R741-1
 
 
 ###### Article R741-13
@@ -59273,6 +59360,26 @@ _Cité par_:
   - Code de la consommation - art. R743-1 (V)
 
 
+###### Article R742-55-1
+
+En cas d'application des dispositions de l'article L. 714-1, les dispositions du premier alinéa de l'article R. 733-17-1
+s'appliquent. 
+
+La lettre prévue à cet alinéa comporte également les mentions prévues aux deux derniers alinéas de l'article R. 741-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-455 du 16 mai 2019 - art. 5
+
+_Cite_:
+
+  - Code de la consommation - art. L714-1
+  - Code de la consommation - art. R733-17-1
+  - Code de la consommation - art. R741-1
+
+
 ##### Section 5 : Plan<a id=740></a>
 
 ###### Article R742-56
@@ -59296,6 +59403,26 @@ _Cite_:
 _Anciens textes_:
 
   - Code de la consommation - art. R334-74 (Ab)
+
+
+###### Article R742-56-1
+
+En cas d'application des dispositions de l'article L. 714-1, les dispositions des premier et deuxième alinéas de l'article R.
+733-17-1 s'appliquent. 
+
+La lettre prévue à ces alinéas mentionne également qu'un défaut de paiement du loyer ou des charges ainsi que le non-respect
+du jugement entrainent la reprise de l'exécution de la procédure d'expulsion.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-455 du 16 mai 2019 - art. 6
+
+_Cite_:
+
+  - Code de la consommation - art. L714-1
+  - Code de la consommation - art. R733-17-1
 
 
 ###### Article R742-57
