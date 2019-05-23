@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-05-18
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -7021,6 +7021,16 @@ La publicité, directe ou indirecte, adressée par voie électronique à des cli
 notamment des clients potentiels, relative à la fourniture de services d'investissement portant sur les contrats financiers
 définis à l'article L. 533-12-7 du code monétaire et financier est interdite. 
 
+Est également interdite toute publicité, directe ou indirecte, diffusée par voie électronique ayant pour objet d'inviter une
+personne, par le biais d'un formulaire de réponse ou de contact, à demander ou à fournir des informations complémentaires, ou
+à établir une relation avec l'annonceur, en vue d'obtenir son accord pour la réalisation d'une opération relative à : 
+
+a) La fourniture de services sur actifs numériques au sens de l'article L. 54-10-2 du même code, à l'exception de ceux pour
+la fourniture desquels l'annonceur est agréé dans les conditions prévues à l'article L. 54-10-5 dudit code ; 
+
+b) Une offre au public de jetons au sens de l'article L. 552-3 du même code, sauf lorsque l'annonceur a obtenu le visa prévu
+à l'article L. 552-4 du même code. 
+
 Est passible d'une amende administrative dont le montant ne peut excéder 100 000 € : 
 
 1° Tout annonceur, à l'exception des prestataires de services d'investissement mentionnés au même article L. 533-12-7 et des
@@ -7046,9 +7056,20 @@ L'amende est prononcée dans les conditions prévues au chapitre II du titre II 
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Cite_:
 
-  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 7
+  - Loi n°2004-575 du 21 juin 2004 - art. 6 (V)
+  - Code de la consommation -  Chapitre II : Procédure de sanctions administra... (V)
+  - Code monétaire et financier - art. L533-12-7 (V)
+  - Code monétaire et financier - art. L54-10-2 (V)
+  - Code monétaire et financier - art. L54-10-5 (V)
+  - Code monétaire et financier - art. L541-9-1 (V)
+  - Code monétaire et financier - art. L552-3 (V)
+  - Code monétaire et financier - art. L552-4 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-486 du 22 mai 2019 - art. 87
 
 _Cité par_:
 
@@ -7058,29 +7079,36 @@ _Cité par_:
 ###### Article L222-16-2
 
 Toute opération de parrainage ou de mécénat est interdite lorsqu'elle a pour objet ou pour effet la publicité, directe ou
-indirecte, en faveur de services d'investissement portant sur les contrats financiers définis à l'article L. 533-12-7 du code
-monétaire et financier. 
+indirecte, en faveur : 
+
+1° De services d'investissement portant sur les contrats financiers définis à l'article L. 533-12-7 du code monétaire et
+financier ; 
+
+2° De services sur actifs numériques au sens de l'article L. 54-10-2 du même code, à l'exception de ceux pour la fourniture
+desquels le parrain ou le mécène est agréé dans les conditions prévues à l'article L. 54-10-5 dudit code ; 
+
+3° D'une offre au public de jetons au sens de l'article L. 552-3 du même code, sauf lorsque le parrain ou le mécène a obtenu
+le visa prévu à l'article L. 552-4 du même code. 
 
 Tout manquement aux dispositions du présent article est passible d'une amende administrative dont le montant ne peut excéder
 100 000 €. 
 
 L'amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V du présent code.
 
-**Nota:**
-
-Conformément à l'article 77-II de la loi n° 2016-1691 du 9 décembre 2016, l'exécution des contrats en cours au 1er juillet
-2016 relatifs à toute opération mentionnée au premier alinéa du présent article est poursuivie jusqu'au 30 juin 2017 au plus
-tard.
-
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 7
+  - Loi n°2019-486 du 22 mai 2019 - art. 87
 
 _Cite_:
 
+  - Code de la consommation -  Chapitre II : Procédure de sanctions administra... (V)
   - Code monétaire et financier - art. L533-12-7 (V)
+  - Code monétaire et financier - art. L54-10-2 (V)
+  - Code monétaire et financier - art. L54-10-5 (V)
+  - Code monétaire et financier - art. L552-3 (V)
+  - Code monétaire et financier - art. L552-4 (V)
 
 
 ###### Article L222-17
@@ -7735,8 +7763,28 @@ _Cité par_:
 Les factures de fourniture d'électricité et de gaz naturel sont présentées dans les conditions fixées par un arrêté du
 ministre chargé de la consommation et du ministre chargé de l'énergie pris après avis du Conseil national de la consommation.
 
-Un arrêté pris dans les mêmes conditions précise les différents modes de paiement que le fournisseur est tenu d'offrir au
-client et leurs modalités. Il précise quels sont les délais de remboursement ou les conditions de report des trop-perçus.
+Lorsqu'un fournisseur souhaite adresser à un consommateur les factures sur un support durable autre que le papier, ce
+fournisseur vérifie au préalable que ce mode de communication est adapté à la situation de son client et s'assure que ce
+dernier est en mesure de prendre connaissance de ces factures sur le support durable envisagé. Lorsque le client fournit à
+cette fin une adresse électronique, celle-ci est vérifiée par le fournisseur.
+
+Après ces vérifications, le fournisseur informe le client de façon claire, précise et compréhensible de la poursuite de
+l'envoi des factures sur le support durable retenu. Il renouvelle ces vérifications annuellement.
+
+Le fournisseur informe le client du droit de celui-ci de s'opposer à l'utilisation d'un support durable autre que le papier
+et de demander, par tout moyen, à tout moment et sans frais, à recevoir les factures sur un support papier. Le fournisseur
+est tenu de justifier à tout moment de la relation commerciale que cette information a bien été portée à la connaissance du
+client.
+
+La communication des factures sur un support durable autre que le papier comporte nécessairement l'indication du montant
+facturé et de la date de paiement et permet d'accéder facilement au détail de la facture à laquelle elle se rapporte.
+
+Lorsque le fournisseur met à disposition du client des factures par le biais d'un espace personnel sécurisé sur internet, il
+porte à sa connaissance l'existence et la disponibilité de ces factures sur cet espace.
+
+Un arrêté du ministre chargé de la consommation et du ministre chargé de l'énergie pris après avis du Conseil national de la
+consommation précise les différents modes de paiement que le fournisseur est tenu d'offrir au client et leurs modalités. Il
+précise quels sont les délais de remboursement ou les conditions de report des trop-perçus.
 
 En cas de facturation terme à échoir ou fondée sur un index estimé, l'estimation du fournisseur reflète de manière appropriée
 la consommation probable. Cette estimation est fondée sur les consommations réelles antérieures sur la base des données
@@ -7756,9 +7804,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2019-486 du 22 mai 2019 - art. 194
 
 _Anciens textes_:
 
@@ -16406,15 +16454,15 @@ _Cité par_:
 
 ###### Article L313-25
 
-L'offre mentionnée à l'article L. 313-24 : 
+L'offre mentionnée à l'article L. 313-24 :
 
-1° Mentionne l'identité des parties et éventuellement des cautions déclarées ; 
+1° Mentionne l'identité des parties et éventuellement des cautions déclarées ;
 
 2° Précise la nature, l'objet, les modalités du prêt, notamment celles qui sont relatives aux dates et conditions de mise à
-disposition des fonds ; 
+disposition des fonds ;
 
 3° Pour les offres de prêts dont le taux d'intérêt est fixe, comprend un échéancier des amortissements détaillant pour chaque
-échéance la répartition du remboursement entre le capital et les intérêts ; 
+échéance la répartition du remboursement entre le capital et les intérêts ;
 
 4° Pour les offres de prêts dont le taux d'intérêt est variable, ou révisable, est accompagnée d'une notice présentant les
 conditions et modalités de variation du taux d'intérêt et d'un document d'information contenant une simulation de l'impact
@@ -16422,43 +16470,30 @@ d'une variation de ce taux sur les mensualités, la durée du prêt et le coût 
 pas un engagement du prêteur à l'égard de l'emprunteur quant à l'évolution effective des taux d'intérêt pendant le prêt et à
 son impact sur les mensualités, la durée du prêt et le coût total du crédit. Le document d'information mentionne le caractère
 indicatif de la simulation et l'absence de responsabilité du prêteur quant à l'évolution effective des taux d'intérêt pendant
-le prêt et à son impact sur les mensualités, la durée du prêt et le coût total du crédit ; 
+le prêt et à son impact sur les mensualités, la durée du prêt et le coût total du crédit ;
 
 5° Indique, outre le montant du crédit susceptible d'être consenti et, le cas échéant, celui de ses fractions périodiquement
 disponibles, son coût total, son taux défini conformément aux articles L. 314-1 à L. 314-4 ainsi que, s'il y a lieu, les
-modalités de l'indexation ; 
+modalités de l'indexation ;
 
 6° Enonce, en donnant une évaluation de leur coût, les stipulations, les assurances et les sûretés réelles ou personnelles
-exigées, qui conditionnent la conclusion du prêt ; 
+exigées, qui conditionnent la conclusion du prêt ;
 
 7° Mentionne que l'emprunteur peut souscrire auprès de l'assureur de son choix une assurance dans les conditions fixées aux
-articles L. 313-29 et L. 313-30 et précise les documents que doit contenir la demande de substitution ; 
+articles L. 313-29 et L. 313-30 et précise les documents que doit contenir la demande de substitution ;
 
-8° Fait état des conditions requises pour un transfert éventuel du prêt à une tierce personne ; 
+8° Fait état des conditions requises pour un transfert éventuel du prêt à une tierce personne ;
 
-9° Rappelle les dispositions de l'article L. 313-34 ; 
-
-10° Indique si le prêt est subordonné à la condition de domiciliation mentionnée à l'article L. 313-25-1. Si c'est le cas,
-sont mentionnés la durée de celle-ci, le cas échéant les frais d'ouverture et de tenue du compte sur lequel les salaires ou
-revenus assimilés sont domiciliés, ainsi que la nature de l'avantage individualisé consenti en contrepartie par le prêteur.
-L'offre doit permettre d'identifier clairement cet avantage en mentionnant les conditions, de taux ou autres, au regard
-desquelles elle est établie, et qui seraient appliquées par le prêteur si l'exigence de domiciliation n'était plus respectée
-par l'emprunteur. 
+9° Rappelle les dispositions de l'article L. 313-34. 
 
 Le cas échéant, l'information relative aux différents contrats de crédit composant une opération de financement peut figurer
 dans l'offre.
-
-**Nota:**
-
-Conformément aux dispositions de l'article 3 de l'ordonnance n° 2017-1090 du 1er juin 2017, ces dispositions s'appliquent aux
-offres de prêt émises à compter du 1er janvier 2018 ainsi qu'aux avenants modifiant les contrats conclus à la suite de ces
-offres.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1090 du 1er juin 2017 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 _Anciens textes_:
 
@@ -16476,52 +16511,7 @@ _Cité par_:
 
   - Code de la consommation - art. L313-25-1 (Ab)
   - Code de la consommation - art. L313-26 (V)
-  - Code de la consommation - art. L313-39 (VD)
-
-
-###### Article L313-25-1
-
-Le prêteur peut conditionner l'offre de prêt mentionnée à l'article L. 313-24 à la domiciliation par l'emprunteur de ses
-salaires ou revenus assimilés sur un compte de paiement mentionné à l'article L. 314-1 du code monétaire et financier, sous
-réserve pour ce prêteur de faire bénéficier en contrepartie l'emprunteur d'un avantage individualisé. 
-
-Cette condition ne peut être imposée à l'emprunteur au-delà d'une durée maximale fixée par décret en Conseil d'Etat. Au terme
-du délai prévu par le contrat de crédit, l'avantage individualisé est acquis à l'emprunteur jusqu'à la fin du prêt. 
-
-Si, avant le terme de ce délai, l'emprunteur cesse de satisfaire à la condition de domiciliation susmentionnée, le prêteur
-peut mettre fin, pour les échéances restant à courir jusqu'au terme du prêt, à l'avantage individualisé mentionné au premier
-alinéa, et appliquer les conditions, de taux ou autres, mentionnées au 10° de l'article L. 313-25. 
-
-Les dispositions du présent article peuvent être appliquées à chacun des contrats de crédit composant l'opération de
-financement figurant dans l'offre de prêt.
-
-**Nota:**
-
-Conformément aux dispositions de l'article 3 de l'ordonnance n° 2017-1090 du 1er juin 2017, ces dispositions s'appliquent aux
-offres de prêt émises à compter du 1er janvier 2018 ainsi qu'aux avenants modifiant les contrats conclus à la suite de ces
-offres.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2017-1090 du 1er juin 2017 - art. 1
-
-_Abrogé par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
-
-_Cite_:
-
-  - Code de la consommation - art. L313-24
-  - Code monétaire et financier - art. L314-1
-
-_Cité par_:
-
-  - Code de la consommation - art. L313-25 (V)
   - Code de la consommation - art. L313-39 (V)
-  - Code de la consommation - art. L341-34-1 (Ab)
-  - Code de la consommation - art. R313-21-1 (VD)
 
 
 ###### Article L313-26
@@ -16914,31 +16904,16 @@ En cas de renégociation de prêt, les modifications au contrat de crédit initi
 avenant établi sur support papier ou sur un autre support durable.
 
 Cet avenant comprend, d'une part, un échéancier des amortissements détaillant pour chaque échéance le capital restant dû en
-cas de remboursement anticipé et, d'autre part, le taux annuel effectif global (1) ainsi que le coût du crédit, calculés sur
-la base des seuls échéances et frais à venir. Pour les prêts à taux variable ou révisable, l'avenant comprend le taux annuel
-effectif global (1) ainsi que le coût du crédit, calculés sur la base des seuls échéances et frais à venir jusqu'à la date de
-la révision du taux, ainsi que les conditions et modalités de variation du taux.
-
-Lorsque les modifications au contrat de crédit initial portent sur la condition mentionnée à l'article L. 313-25-1, l'avenant
-mentionne cette condition, sa durée, le cas échéant les frais de tenue du compte sur lequel les salaires et revenus assimilés
-sont domiciliés, la nature de l'avantage individualisé consenti en contrepartie par le prêteur et les conditions, de taux ou
-autres, mentionnées au 10° de l'article L. 313-25. L'avenant mentionne également la conséquence tirée par le prêteur du non-
-respect de cette condition par l'emprunteur.
+cas de remboursement anticipé et, d'autre part, le taux annuel effectif global ainsi que le coût du crédit, calculés sur la
+base des seuls échéances et frais à venir. Pour les prêts à taux variable ou révisable, l'avenant comprend le taux annuel
+effectif global ainsi que le coût du crédit, calculés sur la base des seuls échéances et frais à venir jusqu'à la date de la
+révision du taux, ainsi que les conditions et modalités de variation du taux.
 
 L'emprunteur dispose d'un délai de réflexion de dix jours à compter de la réception des informations mentionnées au deuxième
 alinéa.
 
 L'acceptation doit être donnée par lettre, le cachet de l'opérateur postal faisant foi, ou selon tout autre moyen convenu
 entre les parties de nature à rendre certaine la date de l'acceptation par l'emprunteur.
-
-**Nota:**
-
-(1) Aux termes de l'ordonnance n° 2016-351 du 25 mars 2016, article 13 II, ces dispositions entrent en vigueur le 1er octobre
-2016.
-
-Conformément aux dispositions de l'article 3 de l'ordonnance n° 2017-1090 du 1er juin 2017, ces dispositions s'appliquent aux
-offres de prêt émises à compter du 1er janvier 2018 ainsi qu'aux avenants modifiant les contrats conclus à la suite de ces
-offres.
 
 **Liens relatifs à cet article**
 
@@ -16950,7 +16925,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1090 du 1er juin 2017 - art. 1
+  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
 
 _Anciens textes_:
 
@@ -16959,8 +16934,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L313-25 (VD)
-  - Code de la consommation - art. L313-25-1
+  - Code de la consommation - art. L313-25 (V)
+  - Code de la consommation - art. L313-25-1 (Ab)
 
 _Nouveaux textes_:
 
@@ -20554,34 +20529,6 @@ _Cite_:
   - Code de la consommation - art. L341-40 (VD)
 
 
-###### Article L341-34-1
-
-Est réputée non écrite toute clause par laquelle le prêteur subordonne l'octroi du prêt ou la conclusion de l'avenant au
-contrat de crédit initial à la condition de domiciliation mentionnée à l'article L. 313-25-1 sans l'assortir en contrepartie
-de l'avantage individualisé mentionné au même article. Il en va de même de toute clause par laquelle le prêteur exige le
-respect de cette condition au-delà de la durée déterminée en application du même article.
-
-**Nota:**
-
-Conformément aux dispositions de l'article 3 de l'ordonnance n° 2017-1090 du 1er juin 2017, ces dispositions s'appliquent aux
-offres de prêt émises à compter du 1er janvier 2018 ainsi qu'aux avenants modifiant les contrats conclus à la suite de ces
-offres.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2017-1090 du 1er juin 2017 - art. 2
-
-_Abrogé par_:
-
-  - Loi n°2019-486 du 22 mai 2019 - art. 206 (V)
-
-_Cite_:
-
-  - Code de la consommation - art. L313-25-1
-
-
 ###### Article L341-35
 
 Lorsque la somme versée d'avance par l'acquéreur n'a pas été remboursée dans les conditions prévues au second alinéa de
@@ -24003,21 +23950,28 @@ _Cité par_:
 
 Lorsqu'un producteur ou un distributeur sait que des produits destinés aux consommateurs qu'il a mis sur le marché ne
 répondent pas aux exigences énoncées à l'article L. 421-3, il engage les actions nécessaires pour prévenir les risques pour
-les consommateurs et en informe immédiatement les autorités administratives compétentes.
+les consommateurs et en informe immédiatement les autorités administratives compétentes. 
 
 Les modalités de cette information sont définies par arrêté du ministre chargé de la consommation et des ministres
-intéressés.
+intéressés. 
 
 Le producteur ou le distributeur ne peut s'exonérer de ses obligations en soutenant n'avoir pas eu connaissance des risques
-qu'il ne pouvait raisonnablement ignorer.
+qu'il ne pouvait raisonnablement ignorer. 
+
+Lorsque des mesures de retrait ou de rappel sont mises en œuvre, les professionnels établissent et maintiennent à jour un
+état chiffré des produits retirés ou rappelés, qu'ils tiennent à la disposition des agents habilités. 
+
+Sans préjudice des mesures d'information des consommateurs et des autorités administratives compétentes prévues par la
+réglementation en vigueur, les professionnels qui procèdent au rappel de produits en font la déclaration de façon
+dématérialisée sur un site internet dédié, mis à la disposition du public par l'administration. 
 
 Dans le secteur alimentaire et de l'alimentation animale, lorsque des mesures de retrait ou de rappel sont mises en œuvre,
 les producteurs et les distributeurs établissent et maintiennent à jour un état chiffré des produits retirés ou rappelés,
-qu'ils tiennent à la disposition des agents habilités.
+qu'ils tiennent à la disposition des agents habilités. 
 
 Sans préjudice des mesures d'information des consommateurs et des autorités administratives compétentes prévues par la
 réglementation en vigueur, les professionnels qui procèdent au rappel de denrées alimentaires ou d'aliments pour animaux en
-font la déclaration de façon dématérialisée sur un site internet dédié, mis à la disposition du public par l'administration.
+font la déclaration de façon dématérialisée sur un site internet dédié, mis à la disposition du public par l'administration. 
 
 Un arrêté des ministres intéressés, pris après avis de la Commission nationale de l'informatique et des libertés, détermine
 les conditions de fonctionnement de ce site, son adresse, les informations à déclarer, la nature de celles qui sont rendues
@@ -24031,7 +23985,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-938 du 30 octobre 2018 - art. 51
+  - Loi n°2019-486 du 22 mai 2019 - art. 180
 
 _Anciens textes_:
 
@@ -24043,7 +23997,6 @@ _Cite_:
 
 _Cité par_:
 
-  - Code de la consommation - art. L452-7 (V)
   - Code de la consommation - art. R452-2 (V)
   - Code rural et de la pêche maritime - art. L205-7-1 (V)
 
