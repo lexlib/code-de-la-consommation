@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-05-24
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -7297,22 +7297,28 @@ _Cite_:
 
 ###### Article L223-6
 
-Les dispositions du présent chapitre s'appliquent sans préjudice des articles 38 à 40 de la loi n° 78-17 du 6 janvier 1978
+Les dispositions du présent chapitre s'appliquent sans préjudice des articles 49 à 56 de la loi n° 78-17 du 6 janvier 1978
 relative à l'informatique, aux fichiers et aux libertés.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 38 (V)
+  - Loi n°78-17 du 6 janvier 1978 - art. 38
 
 _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 4
 
 _Anciens textes_:
 
@@ -26958,22 +26964,29 @@ _Cité par_:
 ###### Article L511-9
 
 Dans l'exercice de leurs missions, les agents habilités peuvent constater les infractions et les manquements aux chapitres
-II, IV et V de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et peuvent
-communiquer ces constatations à la Commission nationale de l'informatique et des libertés.
+Ier et III du titre Ier, et aux chapitres I, II, III, et IV du titre II de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés et peuvent communiquer ces constatations à la Commission nationale de
+l'informatique et des libertés.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 (V)
+  - Loi n°78-17 du 6 janvier 1978
 
 _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 4
 
 _Anciens textes_:
 
@@ -37324,22 +37337,28 @@ Il est interdit à la Banque de France et aux entreprises mentionnées au premie
 quiconque copie des informations contenues dans le fichier.
 
 Cette interdiction ne s'applique pas aux intéressés, lesquels exercent leur droit d'accès aux informations les concernant
-contenues dans le fichier conformément à l'article 39 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+contenues dans le fichier conformément à l'article 49 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
 fichiers et aux libertés.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 39 (M)
+  - Loi n°78-17 du 6 janvier 1978 - art. 39
 
 _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 4
 
 _Anciens textes_:
 
@@ -37719,678 +37738,541 @@ des articles mentionnés dans la colonne de gauche du tableau ci-après, dans le
 du même tableau : 
 
 <table border="1">
-      <tbody>
-        <tr>
-          <th>
+  <tbody>
+    <tr>
+      <th>
 
-ARTICLES APPLICABLES 
+ARTICLES APPLICABLES</th>
+      <th>
 
-</th>
-          <th>
-
-DANS LEUR RÉDACTION 
-
-</th>
-        </tr>
-        <tr>
-          <td align="justify">
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 711-1 à L. 711-3 et L. 711-6 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
 </td>
-        </tr>
-        <tr>
-          <td align="justify">
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 711-4 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de la loi n° 2017-203 du 21 février 2017 
-
 </td>
-        </tr>
-        <tr>
-          <td align="justify">
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 712-1 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 712-2 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
 novembre 2016 
-
 </td>
-        </tr>
-        <tr>
-          <td align="justify">
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 712-3 et L. 712-5 à L. 712-9 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 713-1 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+L. 721-1, L. 721-2, L. 721-4 et L. 721-6</td>
+      <td align="justify">
 
-L. 721-1, L. 721-2, L. 721-4 et L. 721-6 
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-          <td align="justify">
+L. 721-3 et L. 721-5</td>
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
-
-L. 721-3 et L. 721-5 
-
-</td>
-          <td align="justify">
-
-Résultant de la loi n° 2017-203 du 21 février 2017 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de la loi n° 2017-203 du 21 février 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 722-1 à L. 722-3 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 722-5 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2017-86 du 27 janvier
 2017 
-
 </td>
-        </tr>
-        <tr>
-          <td align="justify">
+    </tr>
+    <tr>
+      <td align="justify">
 
-L. 722-6 ET L. 722-7 
+L. 722-6 ET L. 722-7</td>
+      <td align="justify">
 
-</td>
-          <td align="justify">
-
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 722-9 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 722-11 à L. 722-13 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 722-14 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 722-15 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 723-1 à L. 723-4 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 724-1 à L. 724-4 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 731-1 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 résultant de la loi n° 2016-1691 du 9 décembre 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18 novembre
-2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 731-2 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 731-3 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 732-1 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1691 du 9 décembre
-2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 732-2 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 732-3 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1691 du 9 décembre
-2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 732-4 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016. Article abrogé à compter du 1er janvier 2018 par la loi n° 2016-1691
-du 9 décembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+du 9 décembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 733-1 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1691 du 9 décembre
-2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 733-2 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 733-3 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 733-4 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 733-5 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 733-6 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 733-7 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 733-8 à L. 733-17 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 733-18 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 741-1 à L. 741-9 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 741-10 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
-
-L. 742-1 et L. 742-2 
-
-</td>
-          <td align="justify">
+L. 742-1 et L. 742-2</td>
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 742-3 à L. 742-16 et L. 742-18 à L. 742-23 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 742-24 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 742-25 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 743-1 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 743-2 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+L. 751-1 à L. 751-4</td>
+      <td align="justify">
 
-L. 751-1 à L. 751-6 
-
-</td>
-          <td align="justify">
-
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 751-5</td>
+      <td align="justify">Résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de l'article 32 de
+la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification de la loi n°
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions concernant la
+protection des données à caractère personnel.</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 751-6</td>
+      <td align="justify">Résultant de l'ordonnance n° 2016-301 du 14 mars 2016.</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 752-1 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 752-2 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de la loi n° 2017-203 du 21 février 2017 
-
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+Résultant de la loi n° 2017-203 du 21 février 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 L. 752-3 
-
 </td>
-          <td align="justify">
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
-
-L. 761-1 et L. 761-2 
-
-</td>
-          <td align="justify">
+L. 761-1 et L. 761-2</td>
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 et, à compter du 1er janvier 2018, de la loi n° 2016-1547 du 18
-novembre 2016 
+novembre 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        </tr>
-        <tr>
-          <td align="justify">
+L. 762-1 et L. 762-2</td>
+      <td align="justify">
 
-L. 762-1 et L. 762-2 
-
-</td>
-          <td align="justify">
-
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
-
-</td>
-        </tr>
-      </tbody>
-    </table>
+Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+  </tbody>
+</table>
 
 **Nota:**
 
-Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
-date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
-le 1er juillet 2017.
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 (V)
-  - Loi n°2016-1547 du 18 novembre 2016 (V)
-  - Loi n°2016-1691 du 9 décembre 2016 (V)
-  - Loi n°2017-86 du 27 janvier 2017 (V)
-  - Loi n°2017-203 du 21 février 2017 (V)
-  - Code de la consommation - art. L711-1 (V)
-  - Code de la consommation - art. L711-4 (V)
-  - Code de la consommation - art. L711-6 (V)
-  - Code de la consommation - art. L712-1 (V)
-  - Code de la consommation - art. L712-2 (VT)
-  - Code de la consommation - art. L712-3 (V)
-  - Code de la consommation - art. L712-5 (V)
-  - Code de la consommation - art. L713-1 (V)
-  - Code de la consommation - art. L721-1 (V)
-  - Code de la consommation - art. L721-3 (V)
-  - Code de la consommation - art. L721-4 (V)
-  - Code de la consommation - art. L722-1 (V)
-  - Code de la consommation - art. L722-11 (V)
-  - Code de la consommation - art. L722-14 (VT)
-  - Code de la consommation - art. L722-15 (V)
-  - Code de la consommation - art. L722-5 (V)
-  - Code de la consommation - art. L722-6 (V)
-  - Code de la consommation - art. L722-9 (VT)
-  - Code de la consommation - art. L723-1 (V)
-  - Code de la consommation - art. L724-1 (VT)
-  - Code de la consommation - art. L731-1 (VT)
-  - Code de la consommation - art. L731-2 (V)
-  - Code de la consommation - art. L731-3 (VT)
-  - Code de la consommation - art. L732-1 (VT)
-  - Code de la consommation - art. L732-2 (V)
-  - Code de la consommation - art. L732-3 (VT)
-  - Code de la consommation - art. L732-4 (VT)
-  - Code de la consommation - art. L733-1 (VT)
-  - Code de la consommation - art. L733-18 (VT)
-  - Code de la consommation - art. L733-2 (VT)
-  - Code de la consommation - art. L733-3 (V)
-  - Code de la consommation - art. L733-4 (VT)
-  - Code de la consommation - art. L733-5 (V)
-  - Code de la consommation - art. L733-6 (VT)
-  - Code de la consommation - art. L733-7 (VT)
-  - Code de la consommation - art. L733-8 (VT)
-  - Code de la consommation - art. L741-1 (VT)
-  - Code de la consommation - art. L741-10 (VT)
-  - Code de la consommation - art. L742-1 (VT)
-  - Code de la consommation - art. L742-18 (V)
-  - Code de la consommation - art. L742-24 (VT)
-  - Code de la consommation - art. L742-25 (V)
-  - Code de la consommation - art. L742-3 (V)
-  - Code de la consommation - art. L743-1 (VT)
-  - Code de la consommation - art. L743-2 (V)
-  - Code de la consommation - art. L751-1 (V)
-  - Code de la consommation - art. L752-1 (V)
-  - Code de la consommation - art. L752-2 (VT)
-  - Code de la consommation - art. L752-3 (VT)
-  - Code de la consommation - art. L761-1 (VT)
-  - Code de la consommation - art. L762-1 (V)
+  - Ordonnance n°2016-301 du 14 mars 2016
+  - Loi n°2016-1547 du 18 novembre 2016
+  - Loi n°2016-1691 du 9 décembre 2016
+  - Loi n°2017-86 du 27 janvier 2017
+  - Loi n°2017-203 du 21 février 2017
+  - Code de la consommation - art. L711-1
+  - Code de la consommation - art. L711-4
+  - Code de la consommation - art. L711-6
+  - Code de la consommation - art. L712-1
+  - Code de la consommation - art. L712-2
+  - Code de la consommation - art. L712-3
+  - Code de la consommation - art. L712-5
+  - Code de la consommation - art. L713-1
+  - Code de la consommation - art. L721-1
+  - Code de la consommation - art. L721-3
+  - Code de la consommation - art. L721-4
+  - Code de la consommation - art. L722-1
+  - Code de la consommation - art. L722-11
+  - Code de la consommation - art. L722-14
+  - Code de la consommation - art. L722-15
+  - Code de la consommation - art. L722-5
+  - Code de la consommation - art. L722-6
+  - Code de la consommation - art. L722-9
+  - Code de la consommation - art. L723-1
+  - Code de la consommation - art. L724-1
+  - Code de la consommation - art. L731-1
+  - Code de la consommation - art. L731-2
+  - Code de la consommation - art. L731-3
+  - Code de la consommation - art. L732-1
+  - Code de la consommation - art. L732-2
+  - Code de la consommation - art. L732-3
+  - Code de la consommation - art. L732-4
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-18
+  - Code de la consommation - art. L733-2
+  - Code de la consommation - art. L733-3
+  - Code de la consommation - art. L733-4
+  - Code de la consommation - art. L733-5
+  - Code de la consommation - art. L733-6
+  - Code de la consommation - art. L733-7
+  - Code de la consommation - art. L733-8
+  - Code de la consommation - art. L741-1
+  - Code de la consommation - art. L741-10
+  - Code de la consommation - art. L742-1
+  - Code de la consommation - art. L742-18
+  - Code de la consommation - art. L742-24
+  - Code de la consommation - art. L742-25
+  - Code de la consommation - art. L742-3
+  - Code de la consommation - art. L743-1
+  - Code de la consommation - art. L743-2
+  - Code de la consommation - art. L751-1
+  - Code de la consommation - art. L752-1
+  - Code de la consommation - art. L752-2
+  - Code de la consommation - art. L752-3
+  - Code de la consommation - art. L761-1
+  - Code de la consommation - art. L762-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 4
 
 _Cité par_:
 
@@ -38485,51 +38367,51 @@ les dispositions des articles mentionnés dans la colonne de gauche du tableau c
 colonne de droite du même tableau : 
 
 <table border="1">
-      <tbody>
-        <tr>
-          <th>
+  <tbody>
+    <tr>
+      <th>
 
-ARTICLES APPLICABLES 
+ARTICLES APPLICABLES</th>
+      <th>
 
-</th>
-          <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-DANS LEUR RÉDACTION 
-
-</th>
-        </tr>
-        <tr>
-          <td align="justify">
-
-L. 751-2 à L. 751-5
-
-</td>
-          <td align="justify">
+L. 751-2 à L. 751-4</td>
+      <td align="justify">
 
 Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
-
 </td>
-        </tr>
-      </tbody>
-    </table>
+    </tr>
+    <tr>
+      <td align="justify">L. 751-5</td>
+      <td align="justify">Résultant de l'ordonnance n° 2018-1125 du 12 décembre 2018 prise en application de l'article 32 de
+la loi n° 2018-493 du 20 juin 2018 relative à la protection des données personnelles et portant modification de la loi n°
+78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et diverses dispositions concernant la
+protection des données à caractère personnel</td>
+    </tr>
+  </tbody>
+</table>
 
 **Nota:**
 
-Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
-date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
-le 1er juillet 2017.
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 (V)
-  - Code de la consommation - art. L751-2 (V)
-  - Code de la consommation - art. L771-6 (VD)
+  - Ordonnance n°2016-301 du 14 mars 2016
+  - Code de la consommation - art. L751-2
+  - Code de la consommation - art. L771-6
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 4
 
 
 ###### Article L771-6
