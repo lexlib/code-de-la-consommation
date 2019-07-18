@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-07-19
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -272,7 +272,7 @@ Version Consolidée au 2019-06-01
               - [Paragraphe 2 : Sanctions pénales (art. L341-46)](#269)
             - [Sous-section 6 : Dispositions communes aux sanctions civiles (art. L341-47)](#270)
           - [Section 3 : Taux d'intérêt (art. L341-48 à L341-51)](#271)
-            - [Sous-section 1 : Sanctions civiles (art. L341-48)](#272)
+            - [Sous-section 1 : Sanctions civiles (art. L341-48 à L341-48-1)](#272)
             - [Sous-section 2 : Sanctions pénales (art. L341-49 à L341-51)](#273)
           - [Section 4 : Sûretés personnelles (art. L341-51-1)](#274)
           - [Section 5 : Règle de conduite et rémunération (art. L341-52)](#275)
@@ -19620,9 +19620,13 @@ _Cité par_:
 
 ###### Article L341-1
 
-Le prêteur qui accorde un crédit sans communiquer à l'emprunteur les informations précontractuelles dans les conditions
-fixées par l'article L. 312-12 ou, pour les opérations de découvert en compte, à l'article L. 312-85 est déchu du droit aux
-intérêts.
+Sous réserve des dispositions du second alinéa, le prêteur qui accorde un crédit sans communiquer à l'emprunteur les
+informations précontractuelles dans les conditions fixées par l'article L. 312-12 ou, pour les opérations de découvert en
+compte, à l'article L. 312-85 est déchu du droit aux intérêts.
+
+En cas de défaut de mention ou de mention erronée du taux annuel effectif global déterminé conformément aux articles L. 314-1
+à L. 314-4, le prêteur peut être déchu du droit aux intérêts dans la proportion fixée par le juge, au regard notamment du
+préjudice pour l'emprunteur.
 
 **Liens relatifs à cet article**
 
@@ -19630,9 +19634,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-740 du 17 juillet 2019 - art. 1
 
 _Anciens textes_:
 
@@ -19640,8 +19644,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L312-12 (VD)
-  - Code de la consommation - art. L312-85 (VD)
+  - Code de la consommation - art. L312-12
+  - Code de la consommation - art. L312-85
 
 _Cité par_:
 
@@ -19705,9 +19709,13 @@ _Cite_:
 
 ###### Article L341-4
 
-Le prêteur qui accorde un crédit sans remettre à l'emprunteur un contrat satisfaisant aux conditions fixées par les articles
-L. 312-18, L. 312-21, L. 312-28, L. 312-29, L. 312-43 ainsi que, pour les opérations de découvert en compte, par les articles
-L. 312-85 à L. 312-87 et L. 312-92, est déchu du droit aux intérêts.
+Sous réserve des dispositions du second alinéa, le prêteur qui accorde un crédit sans remettre à l'emprunteur un contrat
+satisfaisant aux conditions fixées par les articles L. 312-18, L. 312-21, L. 312-28, L. 312-29, L. 312-43 ainsi que, pour les
+opérations de découvert en compte, par les articles L. 312-85 à L. 312-87 et L. 312-92, est déchu du droit aux intérêts.
+
+En cas de défaut de mention ou de mention erronée du taux annuel effectif global déterminé conformément aux articles L. 314-1
+à L. 314-4, le prêteur peut être déchu du droit aux intérêts dans la proportion fixée par le juge, au regard notamment du
+préjudice pour l'emprunteur.
 
 **Liens relatifs à cet article**
 
@@ -19715,9 +19723,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-740 du 17 juillet 2019 - art. 1
 
 _Anciens textes_:
 
@@ -19725,12 +19733,12 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L312-18 (VD)
-  - Code de la consommation - art. L312-21 (VD)
-  - Code de la consommation - art. L312-28 (VD)
-  - Code de la consommation - art. L312-43 (VD)
-  - Code de la consommation - art. L312-85 (VD)
-  - Code de la consommation - art. L312-92 (VD)
+  - Code de la consommation - art. L312-18
+  - Code de la consommation - art. L312-21
+  - Code de la consommation - art. L312-28
+  - Code de la consommation - art. L312-43
+  - Code de la consommation - art. L312-85
+  - Code de la consommation - art. L312-92
 
 
 ###### Article L341-5
@@ -20245,37 +20253,50 @@ _Cite_:
 
 ###### Article L341-25
 
-Le prêteur qui accorde un crédit sans respecter les conditions, applicables en matière d'information précontractuelle, fixées
-par les dispositions de l'article L. 313-7, du second alinéa de l'article L. 313-24 ou du deuxième alinéa de l'article L.
-313-64, peut être déchu du droit aux intérêts, dans la proportion fixée par le juge, jusqu'à un montant ne pouvant excéder 30
-% des intérêts, plafonné à 30 000 euros.
+Sous réserve des dispositions du second alinéa, le prêteur qui accorde un crédit sans respecter les conditions, applicables
+en matière d'information précontractuelle, fixées par les dispositions de l'article L. 313-7, du second alinéa de l'article
+L. 313-24 ou du deuxième alinéa de l'article L. 313-64, peut être déchu du droit aux intérêts, dans la proportion fixée par
+le juge, jusqu'à un montant ne pouvant excéder 30 % des intérêts, plafonné à 30 000 euros.
+
+En cas de défaut de mention ou de mention erronée du taux annuel effectif global déterminé conformément aux articles L. 314-1
+à L. 314-4, le prêteur peut être déchu du droit aux intérêts dans la proportion fixée par le juge, au regard notamment du
+préjudice pour l'emprunteur.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code de la consommation - art. L313-24 (VD)
-  - Code de la consommation - art. L313-64 (VD)
-  - Code de la consommation - art. L313-7 (VD)
+  - Code de la consommation - art. L313-64
+  - Code de la consommation - art. L313-7
 
 _Modifié par_:
 
-  - Ordonnance n°2016-351 du 25 mars 2016 - art. 5
+  - Ordonnance n°2019-740 du 17 juillet 2019 - art. 1
 
 
 ###### Article L341-26
 
-Le prêteur qui accorde un crédit sans communiquer à l'emprunteur la fiche d'information standardisée européenne mentionnée à
-l'article L. 313-7 et au second alinéa de l'article L. 313-24 ou l'information précontractuelle mentionnée au deuxième alinéa
-de l'article L. 313-64 peut être déchu du droit aux intérêts, en totalité ou dans la proportion fixée par le juge.
+Sous réserve des dispositions du second alinéa, le prêteur qui accorde un crédit sans communiquer à l'emprunteur la fiche
+d'information standardisée européenne mentionnée à l'article L. 313-7 et au second alinéa de l'article L. 313-24 ou
+l'information précontractuelle mentionnée au deuxième alinéa de l'article L. 313-64 peut être déchu du droit aux intérêts, en
+totalité ou dans la proportion fixée par le juge.
+
+En cas de défaut de mention ou de mention erronée du taux annuel effectif global déterminé conformément aux articles L. 314-1
+à L. 314-4, le prêteur peut être déchu du droit aux intérêts dans la proportion fixée par le juge, au regard notamment du
+préjudice pour l'emprunteur.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code de la consommation - art. L313-24 (VD)
-  - Code de la consommation - art. L313-64 (VD)
-  - Code de la consommation - art. L313-7 (VD)
+  - Code de la consommation - art. L313-64
+  - Code de la consommation - art. L313-7
+
+_Nouveaux textes_:
+
+  - Code de la consommation - art. L341-37 (VD)
 
 _Codifié par_:
 
@@ -20283,11 +20304,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-351 du 25 mars 2016 - art. 5
-
-_Nouveaux textes_:
-
-  - Code de la consommation - art. L341-37 (VD)
+  - Ordonnance n°2019-740 du 17 juillet 2019 - art. 1
 
 
 ##### Sous-section 3 : Explications fournies à l'emprunteur et évaluation de sa solvabilité<a id=261></a>
@@ -20485,8 +20502,12 @@ _Cite_:
 
 ###### Article L341-34
 
-Dans les cas prévus aux articles L. 341-37, L. 341-38, L. 341-40 et L. 341-41, le prêteur ou le bailleur peut être déchu du
-droit aux intérêts, en totalité ou dans la proportion fixée par le juge.
+Sous réserve des dispositions du second alinéa, dans les cas prévus aux articles L. 341-37, L. 341-38, L. 341-40 et L.
+341-41, le prêteur ou le bailleur peut être déchu du droit aux intérêts, en totalité ou dans la proportion fixée par le juge.
+
+Dans les cas prévus à l'article L. 341-37, en cas de défaut de mention ou de mention erronée du taux annuel effectif global
+déterminé conformément aux articles L. 314-1 à L. 314-4, le prêteur peut être déchu du droit aux intérêts dans la proportion
+fixée par le juge, au regard notamment du préjudice pour l'emprunteur.
 
 **Liens relatifs à cet article**
 
@@ -20496,7 +20517,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-351 du 25 mars 2016 - art. 5
+  - Ordonnance n°2019-740 du 17 juillet 2019 - art. 1
 
 _Anciens textes_:
 
@@ -20505,8 +20526,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L341-37 (VD)
-  - Code de la consommation - art. L341-40 (VD)
+  - Code de la consommation - art. L341-37
+  - Code de la consommation - art. L341-40
 
 
 ###### Article L341-35
@@ -20871,6 +20892,27 @@ _Cité par_:
   - Code monétaire et financier - art. L313-17 (V)
 
 
+###### Article L341-48-1
+
+En cas de défaut de mention ou de mention erronée du taux effectif global prévue à l'article L. 314-5, le prêteur peut être
+déchu du droit aux intérêts dans la proportion fixée par le juge, au regard notamment du préjudice pour l'emprunteur.
+
+Lorsque le prêteur est déchu du droit aux intérêts dans les conditions prévues à l'alinéa précédent, l'emprunteur n'est tenu
+qu'au seul remboursement du capital suivant l'échéancier prévu ainsi que, le cas échéant, au paiement des intérêts dont le
+prêteur n'a pas été déchu. Les sommes perçues au titre des intérêts, qui sont productives d'intérêts au taux de l'intérêt
+légal à compter du jour de leur versement, sont restituées par le prêteur ou imputées sur le capital restant dû.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-740 du 17 juillet 2019 - art. 1
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L313-4 (V)
+
+
 ##### Sous-section 2 : Sanctions pénales<a id=273></a>
 
 ###### Article L341-49
@@ -21045,15 +21087,19 @@ _Cite_:
 
 ###### Article L341-54
 
-Le fait pour le prêteur d'accorder un prêt viager hypothécaire sans saisir l'emprunteur d'une offre préalable conforme à
-l'article L. 315-9 ou dans des conditions non conformes aux articles L. 315-10 et L. 315-11 peut entraîner déchéance du droit
-aux intérêts en totalité ou dans la proportion fixée par le juge.
+Sous réserve des dispositions du second alinéa, le fait pour le prêteur d'accorder un prêt viager hypothécaire sans saisir
+l'emprunteur d'une offre préalable conforme à l'article L. 315-9 ou dans des conditions non conformes aux articles L. 315-10
+et L. 315-11 peut entraîner déchéance du droit aux intérêts en totalité ou dans la proportion fixée par le juge.
+
+En cas de défaut de mention ou de mention erronée du taux annuel effectif global déterminé conformément aux articles L. 314-1
+à L. 314-4, le prêteur peut être déchu du droit aux intérêts dans la proportion fixée par le juge, au regard notamment du
+préjudice pour l'emprunteur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-351 du 25 mars 2016 - art. 5
+  - Ordonnance n°2019-740 du 17 juillet 2019 - art. 1
 
 _Anciens textes_:
 
@@ -21062,8 +21108,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L315-10 (VD)
-  - Code de la consommation - art. L315-9 (VD)
+  - Code de la consommation - art. L315-10
+  - Code de la consommation - art. L315-9
 
 
 ###### Article L341-55
@@ -22646,51 +22692,54 @@ des articles mentionnés dans la colonne de gauche du tableau ci-après, dans le
 du même tableau : 
 
 <table border="1">
-      <tbody>
-        <tr>
-          <th>
+  <tbody>
+    <tr>
+      <th>
 
-ARTICLES APPLICABLES 
+ARTICLES APPLICABLES</th>
+      <th>
 
-</th>
-          <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-DANS LEUR RÉDACTION 
-
-</th>
-        </tr>
-        <tr>
-          <td align="justify">
-
-L. 341-1 à L. 341-20
-
+L. 341-1
 </td>
-          <td align="justify">
+      <td align="justify">
 
-Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
-
-</td>
-        </tr>
-      </tbody>
-    </table>
-
-**Nota:**
-
-Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,   les présentes dispositions entrent en vigueur à la
-date d'entrée en   vigueur du décret portant dispositions relatives à l'outre-mer du code   de la consommation et au plus
-tard le 1er juillet 2017.
+Résultant de l'ordonnance n° 2019-740 du 17 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 341-2 et L. 341-3</td>
+      <td align="justify">Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 341-4</td>
+      <td align="justify">Résultant de l'ordonnance n° 2019-740 du 17 juillet 2019</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 341-5 à L. 341-20</td>
+      <td align="justify">Résultant de l'ordonnance n° 2016-301 du 14 mars 2016</td>
+    </tr>
+    <tr>
+      <td align="justify">L. 341-48-1</td>
+      <td align="justify">Résultant de l'ordonnance n° 2019-740 du 17 juillet 2019</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 (V)
-  - Code de la consommation - art. L341-1 (V)
-  - Code de la consommation - art. L354-1 (VD)
+  - Ordonnance n°2016-301 du 14 mars 2016
+  - Code de la consommation - art. L341-1
+  - Code de la consommation - art. L354-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-269 du 2 mars 2017 - art. 3
+  - Ordonnance n°2019-740 du 17 juillet 2019 - art. 3
 
 
 ##### Section 2 : Sanctions communes au crédit immobilier et au crédit à la consommation<a id=294></a>
