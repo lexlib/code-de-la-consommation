@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-07-19
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -61570,21 +61570,27 @@ _Anciens textes_:
 ###### Article R822-14
 
 Le directeur de l'Institut national de la consommation peut créer des régies de recettes et de dépenses dans les conditions
-prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances.
+prévues par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies d'avances.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
 
 _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 _Anciens textes_:
 
@@ -62467,7 +62473,13 @@ _Modifié par_:
 ###### Article R823-18
 
 Des régies de recettes et des régies d'avances peuvent être instituées dans l'établissement dans les conditions prévues par
-le décret n° 92-681 du 20 juillet 1992relatif aux régies de recettes et aux régies d'avances des organismes publics.
+le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
 
 **Liens relatifs à cet article**
 
@@ -62475,17 +62487,17 @@ _Anciens textes_:
 
   - Décret n°78-280 du 10 mars 1978 - art. 17 (Ab)
 
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
-
 _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
+_Cite_:
+
+  - Décret n°2019-798 du 26 juillet 2019
+
 _Modifié par_:
 
-  - Décret n°2017-125 du 1er février 2017 - art. 1
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ###### Article R823-19
