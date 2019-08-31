@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-08-01
+Version Consolidée au 2019-09-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -34575,8 +34575,8 @@ _Cité par_:
 ###### Article L722-10
 
 La recevabilité de la demande emporte rétablissement des droits à l'aide personnalisée au logement et aux allocations de
-logement. Le déblocage des allocations de logement s'effectue dans les conditions prévues aux articles L. 542-7-1 et L. 831-8
-du code de la sécurité sociale.
+logement. Le déblocage des aides personnelles au logement s'effectue dans les conditions prévues aux articles L. 824-3, L.
+832-4 et L. 842-2 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -34584,9 +34584,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-770 du 17 juillet 2019 - art. 4
 
 _Anciens textes_:
 
@@ -34595,13 +34595,13 @@ _Anciens textes_:
 _Cité par_:
 
   - Code de la consommation - art. R722-1 (V)
-  - Code de la construction et de l'habitation. - art. L351-14-1 (M)
+  - Code de la construction et de l'habitation. - art. L351-14-1 (VT)
   - Code de la construction et de l'habitation. - art. L824-3 (VD)
 
 _Cite_:
 
-  - Code de la sécurité sociale. - art. L542-7-1 (M)
-  - Code de la sécurité sociale. - art. L831-8 (M)
+  - Code de la sécurité sociale. - art. L542-7-1
+  - Code de la sécurité sociale. - art. L831-8
 
 
 ###### Article L722-11
