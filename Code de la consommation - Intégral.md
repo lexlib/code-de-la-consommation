@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-09-01
+Version Consolidée au 2019-09-29
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -56076,7 +56076,7 @@ _Anciens textes_:
 En cas de saisie immobilière, lorsque la vente forcée d'un bien immobilier du débiteur a été ordonnée et que la commission
 saisit le juge chargé de la saisie immobilière aux fins de report de la date d'adjudication en application des dispositions
 de l'article L. 721-7 ou de celles de l'article L. 722-4, elle transmet la demande par lettre recommandée avec demande d'avis
-de réception ou remise contre émargement au greffe, quinze jours au moins avant la date prévue par la vente. 
+de réception ou remise contre émargement au greffe, quinze jours au moins avant la date prévue pour la vente.
 
 Cette demande indique les noms, prénoms et adresse du débiteur ainsi que ceux des créanciers poursuivants ou, pour les
 personnes morales, leur dénomination et leur siège social. Elle précise les causes graves et dûment justifiées invoquées à
@@ -56090,19 +56090,19 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Cité par_:
 
   - Décret n°2019-992 du 26 septembre 2019 (V)
   - Code de la consommation - art. R722-7 (V)
 
+_Modifié par_:
+
+  - Décret n°2019-992 du 26 septembre 2019 - art. 14
+
 _Cite_:
 
-  - Code de la consommation - art. L721-7 (V)
-  - Code de la consommation - art. L722-4 (V)
+  - Code de la consommation - art. L721-7
+  - Code de la consommation - art. L722-4
 
 _Anciens textes_:
 
