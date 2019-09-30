@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-09-29
+Version Consolidée au 2019-10-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -62599,52 +62599,52 @@ _Cite_:
 
 ###### Article D824-4
 
-Le Conseil national de l'alimentation comprend :
+Le Conseil national de l'alimentation comprend : 
 
-1° soixante-deux membres répartis en huit collèges :
+1° soixante-deux membres répartis en huit collèges : 
 
-a) Le collège constitué de neuf représentants des associations nationales de défense des consommateurs ou d'usagers ;
+a) Le collège constitué de neuf représentants des associations nationales de défense des consommateurs ou d'usagers ; 
 
-b) Le collège constitué de neuf représentants des producteurs agricoles ;
+b) Le collège constitué de neuf représentants des producteurs agricoles ; 
 
-c) Le collège constitué de neuf représentants de la transformation, dont au moins un représentant de l'artisanat ;
+c) Le collège constitué de neuf représentants de la transformation, dont au moins un représentant de l'artisanat ; 
 
-d) Le collège constitué de quatre représentants de la distribution, dont au moins un représentant du commerce de gros ;
+d) Le collège constitué de quatre représentants de la distribution, dont au moins un représentant du commerce de gros ; 
 
-e) Le collège constitué de six représentants de la restauration ;
+e) Le collège constitué de six représentants de la restauration ; 
 
 f) Le collège constitué de cinq représentants des syndicats de salariés de l'agriculture, de l'agroalimentaire et de la
-distribution des produits alimentaires ;
+distribution des produits alimentaires ; 
 
 g) Le collège constitué de sept représentants d'associations : une association mettant en œuvre l'aide alimentaire habilitée
-au niveau national en application de l'article L. 230-6 du code rural et de la pêche maritime, une association représentant
-les usagers du système de santé agréée au niveau national en application de l'article L. 1114-1 du code de la santé publique
-et trois associations de protection de l'environnement agréées au niveau national en application de l'article L. 141-1 du
-code de l'environnement, une association de protection animale et une association participant à la prévention et la lutte
-contre l'obésité ;
+au niveau national en application de l'article L. 266-2 du code de l'action sociale et des familles, une association
+représentant les usagers du système de santé agréée au niveau national en application de l'article L. 1114-1 du code de la
+santé publique et trois associations de protection de l'environnement agréées au niveau national en application de l'article
+L. 141-1 du code de l'environnement, une association de protection animale et une association participant à la prévention et
+la lutte contre l'obésité ; 
 
-h) Le collège constitué de treize personnalités désignées en raison de leur compétence en matière d'alimentation ;
+h) Le collège constitué de treize personnalités désignées en raison de leur compétence en matière d'alimentation ; 
 
-2° Neuf membres de droit :
+2° Neuf membres de droit : 
 
 a) Le directeur de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, ou son
-représentant ;
+représentant ; 
 
-b) Le directeur de l'Institut national de la recherche agronomique, ou son représentant ;
+b) Le directeur de l'Institut national de la recherche agronomique, ou son représentant ; 
 
-c) Le directeur de l'Institut national de la santé et de la recherche médicale, ou son représentant ;
+c) Le directeur de l'Institut national de la santé et de la recherche médicale, ou son représentant ; 
 
-d) Le directeur de l'Institut français de recherche pour l'exploitation de la mer, ou son représentant ;
+d) Le directeur de l'Institut français de recherche pour l'exploitation de la mer, ou son représentant ; 
 
-e) Le directeur général de l'Agence de l'environnement et de la maîtrise de l'énergie, ou son représentant ;
+e) Le directeur général de l'Agence de l'environnement et de la maîtrise de l'énergie, ou son représentant ; 
 
-f) Le directeur de l'Institut national de la consommation, ou son représentant ;
+f) Le directeur de l'Institut national de la consommation, ou son représentant ; 
 
-g) Le président de l'Association des maires de France, ou son représentant ;
+g) Le président de l'Association des maires de France, ou son représentant ; 
 
-h) Le président de l'Association des départements de France, ou son représentant ;
+h) Le président de l'Association des départements de France, ou son représentant ; 
 
-i) Le président de l'Association des régions de France, ou son représentant.
+i) Le président de l'Association des régions de France, ou son représentant. 
 
 En outre, assistent de plein droit aux séances du conseil et participent aux débats avec voix consultative les représentants
 des ministres chargés :
@@ -62683,7 +62683,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2018-904 du 22 octobre 2018 - art. 1
+  - Décret n°2019-794 du 26 juillet 2019 - art. 1
 
 _Anciens textes_:
 
@@ -62691,7 +62691,11 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code de la consommation - art. D824-5 (V)
+  - Code de la consommation - art. D824-5 (M)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L266-2
 
 
 ###### Article D824-5
