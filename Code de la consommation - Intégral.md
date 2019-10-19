@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-10-01
+Version Consolidée au 2019-10-20
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -3063,13 +3063,20 @@ _Anciens textes_:
 
 ###### Article L131-4
 
-Tout manquement aux obligations d'information mentionnées à l'article L. 111-7 et à l'article L. 111-7-2 est passible d'une
-amende administrative dont le montant ne peut excéder 75 000 euros pour une personne physique et 375 000 euros pour une
-personne morale. 
+Tout manquement aux obligations d'information mentionnées à l'article L. 111-7 et à l'article L. 111-7-2 du présent code
+ainsi qu'au II de l'article 15 de la loi n° 47-585 du 2 avril 1947 relative au statut des entreprises de groupage et de
+distribution des journaux et publications périodiques est passible d'une amende administrative dont le montant ne peut
+excéder 75 000 euros pour une personne physique et 375 000 euros pour une personne morale. 
 
 Cette amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°47-585 du 2 avril 1947 - art. 15
+  - Code de la consommation - art. L111-7
+  - Code de la consommation - art. L111-7-2
 
 _Codifié par_:
 
@@ -3077,16 +3084,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 49 (V)
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 52
+  - Loi n°2019-1063 du 18 octobre 2019 - art. 7
 
 _Anciens textes_:
 
   - Code de la consommation - art. L111-6-1, sanction-plateformes (Ab)
-
-_Cite_:
-
-  - Code de la consommation - art. L111-7 (V)
 
 
 ##### Section 2 : Information sur les prix et conditions de vente<a id=36></a>
@@ -5984,16 +5986,16 @@ _Cité par_:
 ###### Article L221-17
 
 Lorsqu'un professionnel contacte un consommateur par téléphone dans les conditions prévues à l'article L. 221-16,
-l'utilisation d'un numéro masqué est interdite. 
+l'utilisation d'un numéro masqué est interdite.
 
 Le numéro affiché avant l'établissement de l'appel en application du premier alinéa est affecté au professionnel pour le
 compte duquel l'appel est effectué. En cas de rappel du consommateur à ce numéro, ce professionnel s'identifie préalablement
-à la facturation de toute prestation de services autre que le prix de la communication. 
+à la facturation de toute prestation de services autre que le prix de la communication.
 
 Un arrêté conjoint des ministres chargés de la consommation et de l'économie numérique, pris après avis de l'Autorité de
-régulation des communications électroniques et des postes, définit les tranches de numéro qui ne peuvent être utilisées comme
-identifiant d'appel par un professionnel qui joint un consommateur, en tenant compte du plafond de tarification et du format
-de ces numéros.
+régulation des communications électroniques, des postes et de la distribution de la presse, définit les tranches de numéro
+qui ne peuvent être utilisées comme identifiant d'appel par un professionnel qui joint un consommateur, en tenant compte du
+plafond de tarification et du format de ces numéros.
 
 **Liens relatifs à cet article**
 
@@ -6001,9 +6003,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Loi n°2019-1063 du 18 octobre 2019 - art. 7
 
 _Anciens textes_:
 
@@ -6011,7 +6013,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L221-16 (VD)
+  - Code de la consommation - art. L221-16
 
 _Cité par_:
 
@@ -8359,13 +8361,8 @@ les données concernées ;
 
 Ces informations sont précisées par arrêté conjoint du ministre chargé de la consommation et du ministre chargé des
 communications électroniques, pris après avis du Conseil national de la consommation et de l'Autorité de régulation des
-communications électroniques et des postes mentionnée à l'article L. 130 du code des postes et des communications
-électroniques.
-
-**Nota:**
-
-Conformément à l'article 53 II de la loi n° 2016-1321 du 7 octobre 2016, l'article L224-30 dans sa rédaction résultant du I,
-est applicable aux contrats conclus ou reconduits après la publication de la présente loi.
+communications électroniques, des postes et de la distribution de la presse mentionnée à l'article L. 130 du code des postes
+et des communications électroniques.
 
 **Liens relatifs à cet article**
 
@@ -8380,7 +8377,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 53 (V)
+  - Loi n°2019-1063 du 18 octobre 2019 - art. 7
 
 _Anciens textes_:
 
@@ -9018,8 +9015,8 @@ Tout fournisseur d'un service téléphonique au public, au sens du 7° de l'arti
 communications électroniques, propose au consommateur une option gratuite permettant de bloquer les communications à
 destination des numéros surtaxés de certaines tranches de numéros à valeur ajoutée. Ces tranches de numéros sont définies par
 un arrêté conjoint des ministres chargés de la consommation et de l'économie numérique, pris après avis de l'Autorité de
-régulation des communications électroniques et des postes, qui tient compte du plafond de tarification et du format de ces
-numéros.
+régulation des communications électroniques, des postes et de la distribution de la presse, qui tient compte du plafond de
+tarification et du format de ces numéros.
 
 **Liens relatifs à cet article**
 
@@ -9033,7 +9030,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1321 du 7 octobre 2016 - art. 88 (V)
+  - Loi n°2019-1063 du 18 octobre 2019 - art. 7
 
 _Anciens textes_:
 
