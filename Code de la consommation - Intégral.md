@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-10-20
+Version Consolidée au 2019-11-10
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -7492,8 +7492,8 @@ au registre du commerce et des sociétés ;
 4° Les prix de ces produits et services à la date de l'offre ainsi que, le cas échéant, les conditions d'évolution de ces
 prix ;
 
-5° La mention du caractère réglementé ou non des prix proposés et de la possibilité pour une personne ayant renoncé aux
-tarifs réglementés de vente pour un site donné de revenir ou non sur ce choix ;
+5° Pour la fourniture d'électricité, la mention du caractère réglementé ou non des prix proposés et de la possibilité pour
+une personne ayant renoncé aux tarifs réglementés de vente pour un site donné de revenir ou non sur ce choix ;
 
 6° La durée du contrat et ses conditions de renouvellement ;
 
@@ -7534,7 +7534,7 @@ la consommation et de l'énergie.
 
 _Modifié par_:
 
-  - Loi n°2017-1839 du 30 décembre 2017 - art. 17
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 63 (V)
 
 _Cité par_:
 
