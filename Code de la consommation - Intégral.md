@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-11-10
+Version Consolidée au 2019-12-11
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -49496,18 +49496,18 @@ L'étiquetage d'un produit vendu sous marque de distributeur mentionne le nom et
 demande.
 
 Est considéré comme produit vendu sous marque de distributeur le produit dont les caractéristiques ont été définies par
-l'entreprise ou le groupe d'entreprises qui en assure la vente au détail et qui est le propriétaire de la marque sous
-laquelle il est vendu.
+l'entreprise ou le groupe d'entreprises qui en assure la vente au détail et qui est le titulaire de la marque sous laquelle
+il est vendu.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2016-884 du 29 juin 2016 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 14
 
 _Anciens textes_:
 
@@ -50179,7 +50179,7 @@ Lorsqu'il est fait référence à la certification dans la publicité, l'étique
 service, ainsi que sur les documents commerciaux de toute nature qui s'y rapportent, les informations qui suivent, sont
 portées à la connaissance du consommateur ou de l'utilisateur :
 
-1° Le nom ou la raison sociale de l'organisme certificateur ou la marque collective de certification ;
+1° Le nom ou la raison sociale de l'organisme certificateur ou la marque de garantie ;
 
 2° La dénomination du référentiel de certification utilisé ;
 
@@ -50191,9 +50191,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-1316 du 9 décembre 2019 - art. 14
 
 _Anciens textes_:
 
