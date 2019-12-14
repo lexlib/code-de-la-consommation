@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-12-11
+Version Consolidée au 2019-12-15
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -2477,9 +2477,9 @@ _Cité par_:
 
 La publicité comparative ne peut :
 
-1° Tirer indûment profit de la notoriété attachée à une marque de fabrique, de commerce ou de service, à un nom commercial, à
-d'autres signes distinctifs d'un concurrent ou à l'appellation d'origine ainsi qu'à l'indication géographique protégée d'un
-produit concurrent ;
+1° Tirer indûment profit de la notoriété attachée à une marque de produits ou de services, à un nom commercial, à d'autres
+signes distinctifs d'un concurrent ou à l'appellation d'origine ainsi qu'à l'indication géographique protégée d'un produit
+concurrent ;
 
 2° Entraîner le discrédit ou le dénigrement des marques, noms commerciaux, autres signes distinctifs, biens, services,
 activité ou situation d'un concurrent ;
@@ -2490,15 +2490,21 @@ distinctifs, biens ou services de l'annonceur et ceux d'un concurrent ;
 4° Présenter des biens ou des services comme une imitation ou une reproduction d'un bien ou d'un service bénéficiant d'une
 marque ou d'un nom commercial protégé.
 
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Anciens textes_:
 
@@ -23832,7 +23838,7 @@ _Cité par_:
 ###### Article L413-8
 
 Il est interdit, sur des produits naturels ou fabriqués, détenus ou transportés en vue de la vente, mis en vente ou vendus,
-d'apposer ou d'utiliser une marque de fabrique ou de commerce, un nom, un signe ou une indication quelconque de nature à
+d'apposer ou d'utiliser une marque de produits ou de services, un nom, un signe ou une indication quelconque de nature à
 faire croire, s'ils sont étrangers, qu'ils ont été fabriqués en France ou qu'ils sont d'origine française et, dans tous les
 cas, qu'ils ont une origine différente de leur véritable origine française ou étrangère.
 
@@ -23842,15 +23848,21 @@ l'indication de la véritable origine.
 En ce qui concerne les produits français, la raison sociale, le nom et l'adresse du vendeur ne constituent pas nécessairement
 une indication d'origine.
 
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Loi n°2017-203 du 21 février 2017 - art. 11
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Anciens textes_:
 
@@ -24890,9 +24902,15 @@ _Cite_:
 ###### Article L432-7
 
 Les conditions d'utilisation simultanée, pour l'étiquetage d'une denrée alimentaire ou d'un produit agricole non alimentaire
-et non transformé, à l'exception des vins, des boissons spiritueuses et des produits intermédiaires, d'une marque commerciale
-et d'une référence à l'un des modes de valorisation mentionnés à l'article L. 640-2 du code rural et de la pêche maritime,
-sont précisées par décret en Conseil d'Etat.
+et non transformé, à l'exception des vins, des boissons spiritueuses et des produits intermédiaires, d'une marque de produits
+ou de services et d'une référence à l'un des modes de valorisation mentionnés à l'article L. 640-2 du code rural et de la
+pêche maritime, sont précisées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -24900,9 +24918,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Anciens textes_:
 
@@ -24910,7 +24928,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code rural et de la pêche maritime - art. L640-2 (M)
+  - Code rural - art. L640-2
 
 
 #### Chapitre III : Certification de conformité<a id=326></a>
@@ -25108,8 +25126,14 @@ _Anciens textes_:
 
 ###### Article L433-7
 
-Le signe distinctif qui, le cas échéant, accompagne ou matérialise la certification est déposé comme marque collective de
-certification, conformément à la législation sur les marques de fabrique, de commerce et de service.
+Le signe distinctif qui, le cas échéant, accompagne ou matérialise la certification est déposé comme marque de garantie,
+conformément à la législation sur les marques de produits ou de services.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -25117,9 +25141,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Anciens textes_:
 
@@ -25128,20 +25152,26 @@ _Anciens textes_:
 
 ###### Article L433-8
 
-Les dispositions des articles L. 433-3 à L. 433-7 ne sont pas applicables : 
+Les dispositions des articles L. 433-3 à L. 433-7 ne sont pas applicables :
 
-1° A la certification des produits agricoles, forestiers, alimentaires ou de la mer ; 
+1° A la certification des produits agricoles, forestiers, alimentaires ou de la mer ;
 
 2° Aux autorisations de mise sur le marché des médicaments à usage humain ou vétérinaire faisant l'objet des dispositions de
-la Vème partie du code de la santé publique ; 
+la Vème partie du code de la santé publique ;
 
-3° A la délivrance des poinçons, estampilles, visas, certificats d'homologation, marques collectives ou attestations de
+3° A la délivrance des poinçons, estampilles, visas, certificats d'homologation, marques de garantie ou attestations de
 conformité aux dispositions européennes par l'autorité publique ou par des organismes désignés à cet effet et soumis à un
-contrôle technique ou administratif de l'autorité publique en vertu de dispositions législatives ou réglementaires ; 
+contrôle technique ou administratif de l'autorité publique en vertu de dispositions législatives ou réglementaires ;
 
 4° A la délivrance de labels ou marques prévus par l'article L. 2134-1 du code du travail ainsi que des marques d'artisan et
 de maître artisan pour autant que ces marques ne tendent qu'à attester l'origine d'un produit ou d'un service et la mise en
 œuvre des règles de l'art et usages quand ils leur sont spécifiques.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -25149,9 +25179,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Anciens textes_:
 
@@ -25159,9 +25189,9 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L433-3 (VD)
-  - Code du travail - art. L2134-1 (V)
-  - Code de la santé publique (V)
+  - Code de la consommation - art. L433-3
+  - Code du travail - art. L2134-1
+  - Code de la santé publique
 
 
 ###### Article L433-9
@@ -25223,9 +25253,15 @@ _Cite_:
 
 ###### Article L433-11
 
-Les propriétaires de marques de commerce, de fabrique ou de service peuvent s'opposer à ce que des textes publicitaires
-concernant nommément leur marque soient diffusés lorsque l'utilisation de cette marque vise à tromper le consommateur ou
-qu'elle est faite de mauvaise foi.
+Les propriétaires de marques de produits ou de services peuvent s'opposer à ce que des textes publicitaires concernant
+nommément leur marque soient diffusés lorsque l'utilisation de cette marque vise à tromper le consommateur ou qu'elle est
+faite de mauvaise foi.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -25233,9 +25269,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Anciens textes_:
 
@@ -28755,8 +28791,14 @@ de pathologie lésionnelle ;
 3° Les produits, objets ou appareils susceptibles d'être non conformes aux lois et règlements en vigueur et de présenter un
 danger pour la santé ou la sécurité des consommateurs ;
 
-4° Les produits susceptibles d'être présentés sous une marque, une marque collective ou une marque collective de
-certification contrefaisantes.
+4° Les produits susceptibles d'être présentés sous une marque, une marque collective ou une marque de garantie
+contrefaisantes.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -28764,9 +28806,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Anciens textes_:
 
@@ -28826,22 +28868,28 @@ _Anciens textes_:
 ###### Article L512-29
 
 Les agents habilités peuvent effectuer des saisies sans autorisation judiciaire dans le cas d'un flagrant délit de
-falsification ou lorsqu'elles portent sur : 
+falsification ou lorsqu'elles portent sur :
 
-1° Les produits reconnus falsifiés, corrompus ou toxiques ; 
+1° Les produits reconnus falsifiés, corrompus ou toxiques ;
 
 2° Les produits reconnus impropres à la consommation, à l'exception des produits d'origine animale, des denrées alimentaires
 en contenant ainsi que des aliments pour animaux d'origine animale ou contenant des produits d'origine animale dont
 l'impropriété à la consommation ne peut être reconnue qu'en fonction de caractères organoleptiques anormaux ou de signes de
-pathologie lésionnelle ; 
+pathologie lésionnelle ;
 
 3° Les produits, objets ou appareils propres à effectuer des falsifications dans les cas prévus aux articles L. 413-1 et L.
-413-2 ; 
+413-2 ;
 
 4° Les produits, objets ou appareils reconnus non conformes aux lois et règlements en vigueur et présentant un danger pour la
-santé ou la sécurité des consommateurs ; 
+santé ou la sécurité des consommateurs ;
 
-5° Les produits présentés sous une marque, une marque collective ou une marque collective de certification contrefaisantes.
+5° Les produits présentés sous une marque, une marque collective ou une marque de garantie contrefaisantes.
+
+**Nota:**
+
+Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
+ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -28849,9 +28897,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
 
 _Anciens textes_:
 
@@ -28859,7 +28907,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L413-1 (VD)
+  - Code de la consommation - art. L413-1
 
 _Cité par_:
 
