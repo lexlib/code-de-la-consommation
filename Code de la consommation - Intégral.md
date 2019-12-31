@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-11-10
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -425,7 +425,7 @@ Version Consolidée au 2019-11-10
           - [Section 3 : Ordre de règlement des créances (art. L711-6)](#422)
           - [Section 4 : Dispositions relatives à l'entrepreneur individuel à responsabilité limitée (art. L711-7 à L711-8)](#423)
         - [Chapitre II : Les commissions de surendettement des particuliers (art. L712-1 à L712-9)](#424)
-        - [Chapitre III : Compétence du juge du tribunal d'instance (art. L713-1)](#425)
+        - [Chapitre III : Compétence du juge des contentieux de la protection (art. L713-1)](#425)
         - [Chapitre IV : Articulation entre le traitement des situations de surendettement et la procédure en constat de résiliation du bail (art. L714-1)](#426)
       - [Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT (art. L721-1 à L724-5)](#427)
         - [Chapitre Ier : Saisine de la commission de surendettement des particuliers (art. L721-1 à L721-7)](#428)
@@ -707,68 +707,69 @@ Version Consolidée au 2019-11-10
         - [Chapitre II : Les commissions de surendettement des particuliers (art. R712-1 à R712-20)](#704)
           - [Section 1 : Organisation et fonctionnement (art. R712-1 à R712-12)](#705)
           - [Section 2 : Procédures devant les commissions (art. R712-13 à R712-20)](#706)
-        - [Chapitre III : Compétence du juge du tribunal d'instance (art. R713-1 à R713-11)](#707)
-      - [Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT (art. R721-1 à R724-8)](#708)
-        - [Chapitre Ier : Saisine de la commission de surendettement des particuliers (art. R721-1 à R721-8)](#709)
-        - [Chapitre II : Recevabilité de la demande (art. R722-1 à R722-11)](#710)
-          - [Section 1 : Examen de la recevabilité de la demande (art. R722-1 à R722-4)](#711)
-          - [Section 2 : Effets de la décision de recevabilité (art. R722-5 à R722-11)](#712)
-            - [Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R722-5 à R722-8)](#713)
-            - [Sous-section 2 : Suspension des mesures d'expulsion (art. R722-9 à R722-10)](#714)
-            - [Sous-section 3 : Emoluments supportés par le débiteur (art. R722-11)](#715)
-        - [Chapitre III : Etat du passif (art. R723-1 à R723-8)](#716)
-          - [Section 1 : Etat du passif dressé par la commission (art. R723-1 à R723-5)](#717)
-          - [Section 2 : Vérification des créances (art. R723-6 à R723-8)](#718)
-        - [Chapitre IV : Orientation du dossier (art. R724-1 à R724-8)](#719)
-      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R731-1 à R733-18)](#720)
-        - [Chapitre Ier : Détermination de la capacité de remboursement (art. R731-1 à R731-3)](#721)
-        - [Chapitre II : Plan conventionnel (art. D732-3 à R732-2)](#722)
-        - [Chapitre III : Mesures imposées (art. R733-1 à R733-18)](#723)
-          - [Section 1 : Contenu et adoption des mesures imposées (art. R733-1 à R733-9)](#724)
-          - [Section 2 : Contestation des mesures imposées (art. R733-14 à R733-17-1)](#725)
-          - [Section 3 : Dispositions communes aux mesures imposées et à leur contestation (art. R733-18)](#726)
-      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. R741-1 à R743-2)](#727)
-        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-18)](#728)
-          - [Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-5)](#729)
-          - [Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. R741-10 à R741-14)](#730)
-          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées (art. R741-15 à R741-18)](#731)
-        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. R742-1 à R742-57)](#732)
-          - [Section 1 : Ouverture de la procédure (art. R742-1 à R742-10)](#733)
-          - [Section 2 : Déclaration et arrêté des créances (art. R742-11 à R742-17)](#734)
-          - [Section 3 : Liquidation des biens du débiteur (art. R742-18 à R742-52)](#735)
-            - [Sous-section 1 : Dispositions générales (art. R742-18 à R742-26)](#736)
-            - [Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R742-27 à R742-41)](#737)
-            - [Sous-section 3 : Répartition du produit des actifs (art. R742-42 à R742-52)](#738)
-          - [Section 4 : Clôture de la procédure (art. R742-53 à R742-55-1)](#739)
-          - [Section 5 : Plan (art. R742-56 à R742-57)](#740)
-        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. R743-1 à R743-2)](#741)
-      - [Titre VI : SANCTIONS (art. R761-1)](#742)
-        - [Chapitre Ier : Sanctions civiles (art. R761-1)](#743)
-      - [Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R771-1 à R771-6)](#744)
-        - [Chapitre unique : Traitement des situations de surendettement (art. R771-1 à R771-6)](#745)
-          - [Section 1 : Dispositions relatives aux îles Wallis et Futuna (art. R771-1 à R771-2)](#746)
-          - [Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin (art. R771-3 à R771-4)](#747)
-          - [Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon (art. R771-5 à R771-6)](#748)
-    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R811-1 à D824-8)](#749)
-      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. R811-1 à R812-3)](#750)
-        - [Chapitre Ier : Agrément des associations (art. R811-1 à R811-7)](#751)
-        - [Chapitre II : Reconnaissance spécifique des associations (art. R812-1 à R812-3)](#752)
-      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. D821-1 à D824-8)](#753)
-        - [Chapitre Ier : Conseil national de la consommation (art. D821-1 à D821-17)](#754)
-          - [Section 1 : Missions et attributions (art. D821-1 à D821-4)](#755)
-          - [Section 2 : Composition et organisation (art. D821-5 à D821-11)](#756)
-          - [Section 3 : Fonctionnement (art. D821-12 à D821-17)](#757)
-        - [Chapitre II : Institut national de la consommation (art. R822-1 à R822-32)](#758)
-          - [Section 1 : Missions et fonctionnement (art. R822-1 à R822-12)](#759)
-          - [Section 2 : Organes consultatifs (art. R822-13)](#760)
-          - [Section 3 : Dispositions financières et comptables (art. R822-14 à R822-17)](#761)
-          - [Section 4 : Commission des clauses abusives (art. R822-18 à R822-32)](#762)
-        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. R823-1 à R823-20)](#763)
-          - [Section 1 : Organisation et fonctionnement (art. R823-1 à R823-14)](#764)
-          - [Section 2 : Dispositions financières et comptables (art. R823-15 à R823-19)](#765)
-          - [Section 3 : Dispositions diverses (art. R823-20)](#766)
-        - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#767)
-    - [Annexes (art. Annexe à l'article D312-26 à Annexe à l'article R314-20)](#768)
+        - [Chapitre III : Compétence du juge du tribunal d'instance (art.  à R712-20)](#707)
+        - [Chapitre III : Compétence du juge des contentieux de la protection (art. R713-1 à R713-11)](#708)
+      - [Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT (art. R721-1 à R724-8)](#709)
+        - [Chapitre Ier : Saisine de la commission de surendettement des particuliers (art. R721-1 à R721-8)](#710)
+        - [Chapitre II : Recevabilité de la demande (art. R722-1 à R722-11)](#711)
+          - [Section 1 : Examen de la recevabilité de la demande (art. R722-1 à R722-4)](#712)
+          - [Section 2 : Effets de la décision de recevabilité (art. R722-5 à R722-11)](#713)
+            - [Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R722-5 à R722-8)](#714)
+            - [Sous-section 2 : Suspension des mesures d'expulsion (art. R722-9 à R722-10)](#715)
+            - [Sous-section 3 : Emoluments supportés par le débiteur (art. R722-11)](#716)
+        - [Chapitre III : Etat du passif (art. R723-1 à R723-8)](#717)
+          - [Section 1 : Etat du passif dressé par la commission (art. R723-1 à R723-5)](#718)
+          - [Section 2 : Vérification des créances (art. R723-6 à R723-8)](#719)
+        - [Chapitre IV : Orientation du dossier (art. R724-1 à R724-8)](#720)
+      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R731-1 à R733-18)](#721)
+        - [Chapitre Ier : Détermination de la capacité de remboursement (art. R731-1 à R731-3)](#722)
+        - [Chapitre II : Plan conventionnel (art. D732-3 à R732-2)](#723)
+        - [Chapitre III : Mesures imposées (art. R733-1 à R733-18)](#724)
+          - [Section 1 : Contenu et adoption des mesures imposées (art. R733-1 à R733-9)](#725)
+          - [Section 2 : Contestation des mesures imposées (art. R733-14 à R733-17-1)](#726)
+          - [Section 3 : Dispositions communes aux mesures imposées et à leur contestation (art. R733-18)](#727)
+      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. R741-1 à R743-2)](#728)
+        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-18)](#729)
+          - [Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-5)](#730)
+          - [Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. R741-10 à R741-14)](#731)
+          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées (art. R741-15 à R741-18)](#732)
+        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. R742-1 à R742-57)](#733)
+          - [Section 1 : Ouverture de la procédure (art. R742-1 à R742-10)](#734)
+          - [Section 2 : Déclaration et arrêté des créances (art. R742-11 à R742-17)](#735)
+          - [Section 3 : Liquidation des biens du débiteur (art. R742-18 à R742-52)](#736)
+            - [Sous-section 1 : Dispositions générales (art. R742-18 à R742-26)](#737)
+            - [Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R742-27 à R742-41)](#738)
+            - [Sous-section 3 : Répartition du produit des actifs (art. R742-42 à R742-52)](#739)
+          - [Section 4 : Clôture de la procédure (art. R742-53 à R742-55-1)](#740)
+          - [Section 5 : Plan (art. R742-56 à R742-57)](#741)
+        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. R743-1 à R743-2)](#742)
+      - [Titre VI : SANCTIONS (art. R761-1)](#743)
+        - [Chapitre Ier : Sanctions civiles (art. R761-1)](#744)
+      - [Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R771-1 à R771-6)](#745)
+        - [Chapitre unique : Traitement des situations de surendettement (art. R771-1 à R771-6)](#746)
+          - [Section 1 : Dispositions relatives aux îles Wallis et Futuna (art. R771-1 à R771-2)](#747)
+          - [Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin (art. R771-3 à R771-4)](#748)
+          - [Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon (art. R771-5 à R771-6)](#749)
+    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R811-1 à D824-8)](#750)
+      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. R811-1 à R812-3)](#751)
+        - [Chapitre Ier : Agrément des associations (art. R811-1 à R811-7)](#752)
+        - [Chapitre II : Reconnaissance spécifique des associations (art. R812-1 à R812-3)](#753)
+      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. D821-1 à D824-8)](#754)
+        - [Chapitre Ier : Conseil national de la consommation (art. D821-1 à D821-17)](#755)
+          - [Section 1 : Missions et attributions (art. D821-1 à D821-4)](#756)
+          - [Section 2 : Composition et organisation (art. D821-5 à D821-11)](#757)
+          - [Section 3 : Fonctionnement (art. D821-12 à D821-17)](#758)
+        - [Chapitre II : Institut national de la consommation (art. R822-1 à R822-32)](#759)
+          - [Section 1 : Missions et fonctionnement (art. R822-1 à R822-12)](#760)
+          - [Section 2 : Organes consultatifs (art. R822-13)](#761)
+          - [Section 3 : Dispositions financières et comptables (art. R822-14 à R822-17)](#762)
+          - [Section 4 : Commission des clauses abusives (art. R822-18 à R822-32)](#763)
+        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. R823-1 à R823-20)](#764)
+          - [Section 1 : Organisation et fonctionnement (art. R823-1 à R823-14)](#765)
+          - [Section 2 : Dispositions financières et comptables (art. R823-15 à R823-19)](#766)
+          - [Section 3 : Dispositions diverses (art. R823-20)](#767)
+        - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#768)
+    - [Annexes (art. Annexe à l'article D312-26 à Annexe à l'article R314-20)](#769)
 # Partie législative nouvelle<a id=1></a>
 
 ###### Article liminaire
@@ -1679,87 +1680,92 @@ _Anciens textes_:
 
 ###### Article L121-4
 
-Sont réputées trompeuses, au sens des articles L. 121-2 et L. 121-3, les pratiques commerciales qui ont pour objet : 
+Sont réputées trompeuses, au sens des articles L. 121-2 et L. 121-3, les pratiques commerciales qui ont pour objet :
 
-1° Pour un professionnel, de se prétendre signataire d'un code de conduite alors qu'il ne l'est pas ; 
+1° Pour un professionnel, de se prétendre signataire d'un code de conduite alors qu'il ne l'est pas ;
 
-2° D'afficher un certificat, un label de qualité ou un équivalent sans avoir obtenu l'autorisation nécessaire ; 
+2° D'afficher un certificat, un label de qualité ou un équivalent sans avoir obtenu l'autorisation nécessaire ;
 
-3° D'affirmer qu'un code de conduite a reçu l'approbation d'un organisme public ou privé alors que ce n'est pas le cas ; 
+3° D'affirmer qu'un code de conduite a reçu l'approbation d'un organisme public ou privé alors que ce n'est pas le cas ;
 
 4° D'affirmer qu'un professionnel, y compris à travers ses pratiques commerciales ou qu'un produit ou service a été agréé,
 approuvé ou autorisé par un organisme public ou privé alors que ce n'est pas le cas ou de ne pas respecter les conditions de
-l'agrément, de l'approbation ou de l'autorisation reçue ; 
+l'agrément, de l'approbation ou de l'autorisation reçue ;
 
 5° De proposer l'achat de produits ou la fourniture de services à un prix indiqué sans révéler les raisons plausibles que
 pourrait avoir le professionnel de penser qu'il ne pourra fournir lui-même ou faire fournir par un autre professionnel, les
 produits ou services en question ou des produits ou services équivalents au prix indiqué, pendant une période et dans des
 quantités qui soient raisonnables compte tenu du produit ou du service, de l'ampleur de la publicité faite pour le produit ou
-le service et du prix proposé ; 
+le service et du prix proposé ;
 
-6° De proposer l'achat de produits ou la fourniture de services à un prix indiqué, et ensuite : 
+6° De proposer l'achat de produits ou la fourniture de services à un prix indiqué, et ensuite :
 
-a) De refuser de présenter aux consommateurs l'article ayant fait l'objet de la publicité ; 
+a) De refuser de présenter aux consommateurs l'article ayant fait l'objet de la publicité ;
 
 b) Ou de refuser de prendre des commandes concernant ces produits ou ces services ou de les livrer ou de les fournir dans un
-délai raisonnable ; 
+délai raisonnable ;
 
-c) Ou d'en présenter un échantillon défectueux, dans le but de faire la promotion d'un produit ou d'un service différent ; 
+c) Ou d'en présenter un échantillon défectueux, dans le but de faire la promotion d'un produit ou d'un service différent ;
 
 7° De déclarer faussement qu'un produit ou un service ne sera disponible que pendant une période très limitée ou qu'il ne
 sera disponible que sous des conditions particulières pendant une période très limitée afin d'obtenir une décision immédiate
-et priver les consommateurs d'une possibilité ou d'un délai suffisant pour opérer un choix en connaissance de cause ; 
+et priver les consommateurs d'une possibilité ou d'un délai suffisant pour opérer un choix en connaissance de cause ;
 
 8° De s'engager à fournir un service après-vente aux consommateurs avec lesquels le professionnel a communiqué avant la
 transaction dans une langue qui n'est pas une langue officielle de l'Etat membre de l'Union européenne dans lequel il est
 établi et, ensuite, assurer ce service uniquement dans une autre langue sans clairement en informer le consommateur avant que
-celui-ci ne s'engage dans la transaction ; 
+celui-ci ne s'engage dans la transaction ;
 
 9° De déclarer ou de donner l'impression que la vente d'un produit ou la fourniture d'un service est licite alors qu'elle ne
-l'est pas ; 
+l'est pas ;
 
 10° De présenter les droits conférés au consommateur par la loi comme constituant une caractéristique propre à la proposition
-faite par le professionnel ; 
+faite par le professionnel ;
 
 11° D'utiliser un contenu rédactionnel dans les médias pour faire la promotion d'un produit ou d'un service alors que le
 professionnel a financé celle-ci lui-même, sans l'indiquer clairement dans le contenu ou à l'aide d'images ou de sons
-clairement identifiables par le consommateur ; 
+clairement identifiables par le consommateur ;
 
 12° De formuler des affirmations matériellement inexactes en ce qui concerne la nature et l'ampleur des risques auxquels
 s'expose le consommateur sur le plan de sa sécurité personnelle ou de celle de sa famille s'il n'achète pas le produit ou le
-service ; 
+service ;
 
 13° De promouvoir un produit ou un service similaire à celui d'un autre fournisseur clairement identifié, de manière à
 inciter délibérément le consommateur à penser que le produit ou le service provient de ce fournisseur alors que tel n'est pas
-le cas ; 
+le cas ;
 
 14° De déclarer que le professionnel est sur le point de cesser ses activités ou de les établir ailleurs alors que tel n'est
-pas le cas ; 
+pas le cas ;
 
-15° D'affirmer d'un produit ou d'un service qu'il augmente les chances de gagner aux jeux de hasard ; 
+15° D'affirmer d'un produit ou d'un service qu'il augmente les chances de gagner aux jeux d'argent et de hasard ;
 
 16° D'affirmer faussement qu'un produit ou une prestation de services est de nature à guérir des maladies, des
-dysfonctionnements ou des malformations ; 
+dysfonctionnements ou des malformations ;
 
 17° De communiquer des informations matériellement inexactes sur les conditions de marché ou sur les possibilités de trouver
 un produit ou un service, dans le but d'inciter le consommateur à acquérir celui-ci à des conditions moins favorables que les
-conditions normales de marché ; 
+conditions normales de marché ;
 
 18° D'affirmer, dans le cadre d'une pratique commerciale, qu'un concours est organisé ou qu'un prix peut être gagné sans
-attribuer les prix décrits ou un équivalent raisonnable ; 
+attribuer les prix décrits ou un équivalent raisonnable ;
 
 19° De décrire un produit ou un service comme étant " gratuit ", " à titre gracieux ", " sans frais " ou autres termes
 similaires si le consommateur doit payer quoi que ce soit d'autre que les coûts inévitables liés à la réponse à la pratique
-commerciale et au fait de prendre possession ou livraison de l'article ; 
+commerciale et au fait de prendre possession ou livraison de l'article ;
 
 20° D'inclure dans un support publicitaire une facture ou un document similaire demandant paiement qui donne au consommateur
-l'impression qu'il a déjà commandé le produit ou le service commercialisé alors que tel n'est pas le cas ; 
+l'impression qu'il a déjà commandé le produit ou le service commercialisé alors que tel n'est pas le cas ;
 
 21° De faussement affirmer ou donner l'impression que le professionnel n'agit pas à des fins qui entrent dans le cadre de son
-activité commerciale, industrielle, artisanale, libérale ou agricole ou de se présenter faussement comme un consommateur ; 
+activité commerciale, industrielle, artisanale, libérale ou agricole ou de se présenter faussement comme un consommateur ;
 
 22° De créer faussement l'impression que le service après-vente en rapport avec un produit ou un service est disponible dans
 un Etat membre de l'Union européenne autre que celui dans lequel le produit ou le service est vendu.
+
+**Nota:**
+
+Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du
+1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -1767,9 +1773,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 28
 
 _Anciens textes_:
 
@@ -1777,7 +1783,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L121-2 (V)
+  - Code de la consommation - art. L121-2
 
 _Cité par_:
 
@@ -5406,43 +5412,48 @@ _Cite_:
 
 ###### Article L221-2
 
-Sont exclus du champ d'application du présent chapitre : 
+Sont exclus du champ d'application du présent chapitre :
 
 1° Les contrats portant sur les services sociaux, y compris le logement social, l'aide à l'enfance et aux familles, à
-l'exception des services à la personne mentionnés à l'article L. 7231-1 du code du travail ; 
+l'exception des services à la personne mentionnés à l'article L. 7231-1 du code du travail ;
 
 2° Les contrats portant sur les services de santé fournis par des professionnels de la santé aux patients pour évaluer,
 maintenir ou rétablir leur état de santé, y compris la prescription, la délivrance et la fourniture de médicaments et de
-dispositifs médicaux ; 
+dispositifs médicaux ;
 
-3° Les contrats portant sur les jeux d'argent mentionnés à l'article L. 320-1 du code de la sécurité intérieure, y compris
-les loteries, les jeux de casino et les transactions portant sur des paris ; 
+3° Les contrats portant sur les jeux d'argent et hasard mentionnés à l'article L. 320-6 du code de la sécurité intérieure et
+les transactions portant sur des paris ;
 
-4° Les contrats portant sur les services financiers ; 
+4° Les contrats portant sur les services financiers ;
 
-5° Les contrats portant sur un forfait touristique, au sens de l'article L. 211-2 du code du tourisme ; 
+5° Les contrats portant sur un forfait touristique, au sens de l'article L. 211-2 du code du tourisme ;
 
 6° Les contrats portant sur les contrats d'utilisation de biens à temps partagé, les contrats de produits de vacances à long
-terme et les contrats de revente et d'échange mentionnés aux articles L. 224-69 et L. 224-70 ; 
+terme et les contrats de revente et d'échange mentionnés aux articles L. 224-69 et L. 224-70 ;
 
-7° Les contrats rédigés par un officier public ; 
+7° Les contrats rédigés par un officier public ;
 
 8° Les contrats portant sur la fourniture de denrées alimentaires, de boissons ou d'autres biens ménagers de consommation
 courante, qui sont livrés physiquement par un professionnel lors de tournées fréquentes et régulières au domicile ou au lieu
-de résidence ou de travail du consommateur ; 
+de résidence ou de travail du consommateur ;
 
 9° Les contrats portant sur les services de transport de passagers, à l'exception des dispositions prévues à l'article L.
-221-14 ; 
+221-14 ;
 
-10° Les contrats conclus au moyen de distributeurs automatiques ou de sites commerciaux automatisés ; 
+10° Les contrats conclus au moyen de distributeurs automatiques ou de sites commerciaux automatisés ;
 
 11° Les contrats conclus avec des opérateurs de télécommunications pour l'utilisation des cabines téléphoniques publiques ou
 aux fins d'une connexion unique par téléphone, internet ou télécopie, notamment les services et produits à valeur ajoutée
-accessibles par voie téléphonique ou par message textuel ; 
+accessibles par voie téléphonique ou par message textuel ;
 
 12° Les contrats portant sur la création, l'acquisition ou le transfert de biens immobiliers ou de droits sur des biens
 immobiliers, la construction d'immeubles neufs, la transformation importante d'immeubles existants ou la location d'un
 logement à des fins résidentielles.
+
+**Nota:**
+
+Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du
+1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5450,9 +5461,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-1015 du 2 octobre 2019 - art. 28
 
 _Anciens textes_:
 
@@ -5460,11 +5471,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L221-14 (VD)
-  - Code de la consommation - art. L224-69 (VD)
-  - Code du travail - art. L7231-1 (V)
-  - Code du tourisme. - art. L211-2 (V)
-  - Code de la sécurité intérieure - art. L320-1 (V)
+  - Code de la consommation - art. L221-14
+  - Code de la consommation - art. L224-69
+  - Code du travail - art. L7231-1
+  - Code du tourisme. - art. L211-2
+  - Code de la sécurité intérieure - art. L320-1
 
 
 ###### Article L221-3
@@ -18252,19 +18263,24 @@ _Cite_:
 
 ###### Article L314-20
 
-L'exécution des obligations du débiteur peut être, notamment en cas de licenciement, suspendue par ordonnance du juge
-d'instance dans les conditions prévues à l'article 1343-5 du code civil. L'ordonnance peut décider que, durant le délai de
-grâce, les sommes dues ne produiront point intérêt. 
+L'exécution des obligations du débiteur peut être, notamment en cas de licenciement, suspendue par ordonnance du juge des
+contentieux de la protection dans les conditions prévues à l'article 1343-5 du code civil. L'ordonnance peut décider que,
+durant le délai de grâce, les sommes dues ne produiront point intérêt.
 
 En outre, le juge peut déterminer dans son ordonnance les modalités de paiement des sommes qui seront exigibles au terme du
 délai de suspension, sans que le dernier versement puisse excéder de plus de deux ans le terme initialement prévu pour le
 remboursement du prêt ; il peut cependant surseoir à statuer sur ces modalités jusqu'au terme du délai de suspension.
 
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 3
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -18276,7 +18292,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil - art. 1343-5 (VD)
+  - Code civil - art. 1343-5
 
 
 ##### Section 5 : Lettre de change et billets à ordre<a id=230></a>
@@ -27829,7 +27845,12 @@ _Cité par_:
 
 Lorsque les lieux mentionnés à l'article L. 512-5 sont également à usage d'habitation, les contrôles ne peuvent être
 effectués qu'entre 8 heures et 20 heures, et, si l'occupant s'y oppose, avec l'autorisation du juge des libertés et de la
-détention du tribunal de grande instance dans le ressort duquel sont situés ces lieux.
+détention du   tribunal judiciaire dans le ressort duquel sont situés ces lieux.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -27837,9 +27858,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -27849,7 +27870,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L512-5 (VD)
+  - Code de la consommation - art. L512-5
 
 _Cité par_:
 
@@ -28649,17 +28670,22 @@ _Anciens textes_:
 
 ###### Article L512-35
 
-La consignation est effectuée sur autorisation du juge des libertés et de la détention du tribunal de grande instance dans le
-ressort duquel sont situés les lieux de détention des marchandises litigieuses.
+La consignation est effectuée sur autorisation du juge des libertés et de la détention du   tribunal judiciaire dans le
+ressort duquel sont situés les lieux de détention des marchandises litigieuses. 
 
-Ce magistrat est saisi sur requête par les agents habilités. Il statue dans les vingt-quatre heures.
+Ce magistrat est saisi sur requête par les agents habilités. Il statue dans les vingt-quatre heures. 
 
 Le juge des libertés et de la détention vérifie que la demande de consignation qui lui est soumise est fondée. Cette demande
-comporte tous les éléments d'information de nature à justifier la mesure.
+comporte tous les éléments d'information de nature à justifier la mesure. 
 
 La mesure de consignation ne peut excéder quinze jours. En cas de difficultés particulières liées à l'examen des
 marchandises, le juge des libertés et de la détention peut renouveler la mesure pour une même durée par une ordonnance
 motivée.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -28667,9 +28693,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -28721,19 +28747,24 @@ _Anciens textes_:
 
 L'ordonnance autorisant la prolongation d'une mesure de consignation est susceptible de recours devant le premier président
 de la cour d'appel suivant les règles prévues par le code de procédure pénale. Les parties ne sont pas tenues de constituer
-avocat.
+avocat. 
 
 Cet appel est formé par déclaration remise ou adressée par pli recommandé au greffe de la cour dans un délai de quinze jours.
-Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif.
+Ce délai court à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif. 
 
-Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
-parties peuvent le consulter.
+Le greffe du   tribunal judiciaire transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les parties
+peuvent le consulter. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
-le code de procédure pénale. Le délai du pourvoi en cassation est de quinze jours.
+le code de procédure pénale. Le délai du pourvoi en cassation est de quinze jours. 
 
 L'ordonnance du juge des libertés et de la détention précise les voies de recours ouvertes et les conditions dans lesquelles
 elles sont exercées.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -28741,13 +28772,13 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de procédure pénale (V)
+  - Code de procédure pénale
 
 
 ##### Sous-section 9 : Expertise<a id=365></a>
@@ -29086,18 +29117,23 @@ _Cite_:
 
 ###### Article L512-52
 
-Chaque visite est autorisée par une ordonnance du juge des libertés et de la détention du tribunal de grande instance dans le
-ressort duquel sont situés les lieux à visiter.
+Chaque visite est autorisée par une ordonnance du juge des libertés et de la détention du   tribunal judiciaire dans le
+ressort duquel sont situés les lieux à visiter. 
 
 Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans
-chacun d'eux, une ordonnance unique peut être délivrée par l'un des juges des libertés et de la détention compétents.
+chacun d'eux, une ordonnance unique peut être délivrée par l'un des juges des libertés et de la détention compétents. 
 
 Le juge vérifie que la demande d'autorisation qui lui est soumise est fondée. Cette demande comporte les éléments
-d'information en possession de l'administration de nature à justifier la visite.
+d'information en possession de l'administration de nature à justifier la visite. 
 
 Le juge désigne le chef du service qui doit nommer les officiers de police judiciaire chargés d'assister à ces opérations et
 d'apporter leur concours en procédant, le cas échéant, aux réquisitions nécessaires. Ces officiers de police judiciaire
 tiendront le juge informé du déroulement des opérations.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -29105,9 +29141,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -29123,11 +29159,16 @@ _Cité par_:
 
 ###### Article L512-53
 
-La visite et les saisies s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées.
+La visite et les saisies s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. 
 
 Lorsqu'elles ont lieu en dehors du ressort de sa juridiction, le juge qui a établi l'ordonnance délivre, pour exercer ce
-contrôle, une commission rogatoire au juge des libertés et de la détention du tribunal de grande instance dans le ressort
-duquel s'effectue la visite.
+contrôle, une commission rogatoire au juge des libertés et de la détention du   tribunal judiciaire dans le ressort duquel
+s'effectue la visite.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -29135,9 +29176,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -29383,8 +29424,8 @@ La personne à l'encontre de laquelle l'ordonnance mentionnée à l'article L. 5
 devant le premier président de la cour d'appel dans le ressort de laquelle le juge a autorisé la mesure, suivant les règles
 prévues au code de procédure pénale. 
 
-L'appel est formé par déclaration au greffe du tribunal de grande instance dans un délai de dix jours à compter de la
-notification de l'ordonnance. 
+L'appel est formé par déclaration au greffe du   tribunal judiciaire dans un délai de dix jours à compter de la notification
+de l'ordonnance. 
 
 Il n'est pas suspensif. 
 
@@ -29393,15 +29434,20 @@ le code de procédure pénale.
 
 Les pièces saisies sont conservées jusqu'à ce qu'une décision soit devenue définitive.
 
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -29410,29 +29456,33 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la consommation - art. L512-52 (VD)
-  - Code de procédure pénale (V)
+  - Code de procédure pénale
 
 
 ###### Article L512-64
 
 Le déroulement des opérations de visite et de saisie peut faire l'objet d'un recours devant le premier président de la cour
 d'appel dans le ressort de laquelle le juge a autorisé ces dernières, suivant les règles prévues par le code de procédure
-pénale.
+pénale. 
 
 La personne à l'encontre de laquelle l'ordonnance a été prise et les personnes mises en cause par les pièces saisies au cours
-de ces opérations peuvent former ce recours.
+de ces opérations peuvent former ce recours. 
 
-Ce recours est formé par déclaration au greffe du tribunal de grande instance dans un délai de dix jours à compter de la
-remise ou de la réception du procès-verbal et de l'inventaire ou, pour les personnes n'ayant pas fait l'objet de visite et de
-saisie et qui sont mises en cause, à compter de la date à laquelle elles ont reçu notification du procès-verbal et de
-l'inventaire.
+Ce recours est formé par déclaration au greffe du   tribunal judiciaire dans un délai de dix jours à compter de la remise ou
+de la réception du procès-verbal et de l'inventaire ou, pour les personnes n'ayant pas fait l'objet de visite et de saisie et
+qui sont mises en cause, à compter de la date à laquelle elles ont reçu notification du procès-verbal et de l'inventaire. 
 
-Le recours n'est pas suspensif.
+Le recours n'est pas suspensif. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
-le code de procédure pénale.
+le code de procédure pénale. 
 
 Les pièces saisies sont conservées jusqu'à ce qu'une décision soit devenue définitive.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -29440,9 +29490,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -29450,7 +29500,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de procédure pénale (V)
+  - Code de procédure pénale
 
 
 ###### Article L512-65
@@ -33778,15 +33828,13 @@ _Cité par_:
 
 La demande de traitement de la situation de surendettement est portée devant la commission compétente qui peut, soit proposer
 ou imposer des mesures de traitement dans les conditions prévues au titre III, soit imposer un rétablissement personnel sans
-liquidation judiciaire ou saisir, avec l'accord du débiteur, le juge du tribunal d'instance aux fins d'ouverture d'une
-procédure de rétablissement personnel avec liquidation judiciaire dans les conditions prévues au titre IV.
+liquidation judiciaire ou saisir, avec l'accord du débiteur, le juge des contentieux de la protection aux fins d'ouverture
+d'une procédure de rétablissement personnel avec liquidation judiciaire dans les conditions prévues au titre IV.
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -33796,7 +33844,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Cité par_:
 
@@ -33806,10 +33854,19 @@ _Cité par_:
 ###### Article L712-3
 
 La déchéance du bénéfice de la procédure de traitement du surendettement prévue à l'article L. 761-1 est prononcée par la
-commission, par une décision susceptible de recours, ou par le juge du tribunal d'instance à l'occasion des recours exercés
-devant lui ainsi que dans le cadre de la procédure de rétablissement personnel avec liquidation judiciaire.
+commission, par une décision susceptible de recours, ou par le juge des contentieux de la protection à l'occasion des recours
+exercés devant lui ainsi que dans le cadre de la procédure de rétablissement personnel avec liquidation judiciaire.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
 _Cité par_:
 
@@ -33817,13 +33874,9 @@ _Cité par_:
   - Code de la consommation - art. L771-2 (VD)
   - Code de la consommation - art. R712-14 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -33831,7 +33884,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L761-1 (VD)
+  - Code de la consommation - art. L761-1
 
 
 ###### Article L712-4
@@ -33989,12 +34042,17 @@ _Anciens textes_:
   - Code de la consommation - art. L331-3, alinéa 10, 1ère phrase (Ab)
 
 
-#### Chapitre III : Compétence du juge du tribunal d'instance<a id=425></a>
+#### Chapitre III : Compétence du juge des contentieux de la protection<a id=425></a>
 
 ###### Article L713-1
 
-Le juge du tribunal d'instance connaît des mesures de traitement des situations de surendettement des particuliers et de la
-procédure de rétablissement personnel.
+Le juge des contentieux de la protection connaît des mesures de traitement des situations de surendettement des particuliers
+et de la procédure de rétablissement personnel.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -34002,9 +34060,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -34210,20 +34268,21 @@ _Cité par_:
 ###### Article L721-4
 
 A la demande du débiteur, la commission peut saisir, à compter du dépôt du dossier et jusqu'à la décision statuant sur la
-recevabilité de la demande de traitement de la situation de surendettement, le juge du tribunal d'instance aux fins de
-suspension des procédures d'exécution diligentées à l'encontre des biens du débiteur ainsi que des cessions de rémunération
-consenties par celui-ci et portant sur les dettes autres qu'alimentaires.
+recevabilité de la demande de traitement de la situation de surendettement, le juge des contentieux de la protection aux fins
+de suspension des procédures d'exécution diligentées à l'encontre des biens du débiteur ainsi que des cessions de
+rémunération consenties par celui-ci et portant sur les dettes autres qu'alimentaires.
 
 En cas d'urgence, la saisine du juge peut intervenir à l'initiative du président de la commission, du délégué de ce dernier
 ou du représentant local de la Banque de France. La commission est ensuite informée de cette saisine.
 
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Créé par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
@@ -34233,6 +34292,10 @@ _Cité par_:
   - Code de la consommation - art. L721-6 (VD)
   - Code de la consommation - art. L771-2 (VD)
   - Code des procédures civiles d'exécution - art. R322-16 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -34449,12 +34512,17 @@ suspension ou à l'interdiction, de désintéresser les cautions qui acquitterai
 suspension ou à l'interdiction, de faire un acte de disposition étranger à la gestion normale du patrimoine ; elles emportent
 aussi interdiction de prendre toute garantie ou sûreté.
 
-Le débiteur peut toutefois saisir le juge du tribunal d'instance afin qu'il l'autorise à accomplir l'un des actes mentionnés
-au premier alinéa.
+Le débiteur peut toutefois saisir le juge des contentieux de la protection afin qu'il l'autorise à accomplir l'un des actes
+mentionnés au premier alinéa.
 
 L'interdiction mentionnée au même premier alinéa ne s'applique pas aux créances locatives lorsqu'une décision judiciaire a
 accordé des délais de paiement au débiteur en application des V et VI de l'article 24 de la loi n° 89-462 du 6 juillet 1989
 tendant à améliorer les rapports locatifs et portant modification de la loi n° 82-1290 du 23 décembre 1986.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -34464,7 +34532,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 118 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Cite_:
 
@@ -34488,7 +34556,13 @@ _Cité par_:
 ###### Article L722-6
 
 Dès que la décision de recevabilité de la demande de traitement de la situation de surendettement est intervenue, la
-commission peut saisir le juge du tribunal d'instance aux fins de suspension des mesures d'expulsion du logement du débiteur.
+commission peut saisir le juge des contentieux de la protection aux fins de suspension des mesures d'expulsion du logement du
+débiteur.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -34496,9 +34570,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -34888,10 +34962,15 @@ _Anciens textes_:
 ###### Article L723-3
 
 Le débiteur peut, dans un délai fixé par décret, contester l'état du passif dressé par la commission et demander à celle-ci
-de saisir le juge du tribunal d'instance, aux fins de vérification de la validité des créances, des titres qui les constatent
-et du montant des sommes réclamées.
+de saisir le juge des contentieux de la protection, aux fins de vérification de la validité des créances, des titres qui les
+constatent et du montant des sommes réclamées.
 
 La commission est tenue de faire droit à cette demande.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -34899,9 +34978,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -34915,8 +34994,14 @@ _Cité par_:
 
 ###### Article L723-4
 
-Même en l'absence de demande du débiteur, la commission peut, en cas de difficultés, saisir le juge du tribunal d'instance
-aux fins de vérification de la validité des créances, des titres qui les constatent et du montant des sommes réclamées.
+Même en l'absence de demande du débiteur, la commission peut, en cas de difficultés, saisir le juge des contentieux de la
+protection aux fins de vérification de la validité des créances, des titres qui les constatent et du montant des sommes
+réclamées.
+
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -34924,9 +35009,9 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art.
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -34947,22 +35032,21 @@ articles L. 732-1, L. 733-1, L. 733-4 et L. 733-7.
 
 Lorsque le débiteur se trouve dans une situation irrémédiablement compromise caractérisée par l'impossibilité manifeste de
 mettre en œuvre des mesures de traitement mentionnées au premier alinéa, la commission peut, dans les conditions du présent
-livre : 
+livre :
 
 1° Soit imposer un rétablissement personnel sans liquidation judiciaire si elle constate que le débiteur ne possède que des
 biens meublants nécessaires à la vie courante et des biens non professionnels indispensables à l'exercice de son activité
 professionnelle, ou que l'actif n'est constitué que de biens dépourvus de valeur marchande ou dont les frais de vente
-seraient manifestement disproportionnés au regard de leur valeur vénale ; 
+seraient manifestement disproportionnés au regard de leur valeur vénale ;
 
 2° Soit saisir, si elle constate que le débiteur n'est pas dans la situation mentionnée au 1°, avec l'accord du débiteur, le
-juge du tribunal d'instance aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire.
+juge des contentieux de la protection aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation
+judiciaire.
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -34972,7 +35056,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -35045,8 +35129,8 @@ _Cité par_:
 ###### Article L724-3
 
 Dans le cas mentionné à l'article L. 724-2, après avoir constaté la bonne foi du débiteur, la commission impose un
-rétablissement personnel sans liquidation judiciaire ou saisit le juge du tribunal d'instance aux fins d'ouverture d'une
-procédure de rétablissement personnel avec liquidation judiciaire. 
+rétablissement personnel sans liquidation judiciaire ou saisit le juge des contentieux de la protection aux fins d'ouverture
+d'une procédure de rétablissement personnel avec liquidation judiciaire.
 
 Cette décision ou cette saisine emportent suspension et interdiction des procédures d'exécution diligentées à l'encontre des
 biens du débiteur ainsi que des cessions de rémunération consenties par celui-ci et portant sur les dettes autres
@@ -35054,10 +35138,8 @@ qu'alimentaires. Les dispositions de l'article L. 722-5 sont applicables.
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -35067,7 +35149,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -35816,15 +35898,13 @@ _Cité par_:
 
 ###### Article L733-10
 
-Une partie peut contester devant le juge du tribunal d'instance, dans un délai fixé par décret, les mesures imposées par la
-commission en application des articles L. 733-1, L. 733-4 ou L. 733-7.
+Une partie peut contester devant le juge des contentieux de la protection, dans un délai fixé par décret, les mesures
+imposées par la commission en application des articles L. 733-1, L. 733-4 ou L. 733-7.
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -35834,7 +35914,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -35849,7 +35929,6 @@ _Cité par_:
 
   - Code de la consommation - art. L733-16 (VD)
   - Code de la consommation - art. L733-17 (VD)
-  - Code de la consommation - art. L733-18 (VT)
   - Code de la consommation - art. L733-6 (VD)
   - Code de la consommation - art. R724-1 (VD)
   - Code de la consommation - art. R733-18 (V)
@@ -35980,23 +36059,20 @@ _Cité par_:
 
 ###### Article L733-14
 
-Si la situation du débiteur l'exige, le juge du tribunal d'instance l'invite à solliciter une mesure d'aide ou d'action
-sociale qui peut comprendre un programme d'éducation budgétaire, notamment une mesure d'accompagnement social personnalisé,
-dans les conditions prévues au livre II du code de l'action sociale et des familles.
+Si la situation du débiteur l'exige, le juge des contentieux de la protection l'invite à solliciter une mesure d'aide ou
+d'action sociale qui peut comprendre un programme d'éducation budgétaire, notamment une mesure d'accompagnement social
+personnalisé, dans les conditions prévues au livre II du code de l'action sociale et des familles.
 
 **Nota:**
 
-
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
-
-_Modifié par_:
-
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
 
 _Cité par_:
 
@@ -36005,6 +36081,10 @@ _Cité par_:
   - Code de la consommation - art. R733-6 (V)
   - Livre des procédures fiscales - art. L145 D (M)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
+
 _Anciens textes_:
 
   - Code de la consommation - art. L332-2, alinéas 2 à 6 (Ab)
@@ -36012,7 +36092,7 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la consommation - art. L711-1
-  - Code de la consommation - art. L733-13 (VD)
+  - Code de la consommation - art. L733-13
 
 
 ##### Section 3 : Dispositions communes aux mesures imposées et à leur contestation<a id=443></a>
@@ -36254,15 +36334,13 @@ _Cité par_:
 
 ###### Article L741-4
 
-Une partie peut contester devant le juge du tribunal d'instance, dans un délai fixé par décret, le rétablissement personnel
-sans liquidation judiciaire imposé par la commission.
+Une partie peut contester devant le juge des contentieux de la protection, dans un délai fixé par décret, le rétablissement
+personnel sans liquidation judiciaire imposé par la commission.
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -36272,7 +36350,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -36371,16 +36449,14 @@ _Cite_:
 
 ###### Article L741-7
 
-Lorsque le juge d'instance statue en application de l'article L. 733-13, le rétablissement personnel sans liquidation
-judiciaire emporte les effets mentionnés à l'article L. 741-2. Cependant, dans ce cas, les dettes sont arrêtées à la date du
-jugement prononçant le rétablissement personnel sans liquidation judiciaire.
+Lorsque le juge des contentieux de la protection statue en application de l'article L. 733-13, le rétablissement personnel
+sans liquidation judiciaire emporte les effets mentionnés à l'article L. 741-2. Cependant, dans ce cas, les dettes sont
+arrêtées à la date du jugement prononçant le rétablissement personnel sans liquidation judiciaire.
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -36390,7 +36466,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -36493,20 +36569,18 @@ _Cite_:
 
 Si l'examen de la demande de traitement de la situation de surendettement fait apparaître que le débiteur se trouve dans la
 situation irrémédiablement compromise définie au deuxième alinéa de l'article L. 724-1 et dispose de biens autres que ceux
-mentionnés au 1° du même article, la commission, après avoir convoqué le débiteur et obtenu son accord, saisit le juge du
-tribunal d'instance aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire. 
+mentionnés au 1° du même article, la commission, après avoir convoqué le débiteur et obtenu son accord, saisit le juge des
+contentieux de la protection aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire.
 
-L'absence de réponse du débiteur aux convocations vaut refus de cette saisine. 
+L'absence de réponse du débiteur aux convocations vaut refus de cette saisine.
 
 En cas de refus du débiteur, la commission reprend sa mission dans les termes des dispositions des articles L. 732-1, L.
 733-1, L. 733-4 et L. 733-7.
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -36516,7 +36590,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -36527,7 +36601,7 @@ _Cite_:
   - Code de la consommation - art. L724-1 (VD)
   - Code de la consommation - art. L732-1
   - Code de la consommation - art. L733-1
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-7
 
 _Cité par_:
 
@@ -36538,15 +36612,13 @@ _Cité par_:
 ###### Article L742-2
 
 A l'occasion des recours exercés devant lui en application des dispositions des articles L. 723-3, L. 723-4 et L. 733-10, le
-juge du tribunal d'instance peut, avec l'accord du débiteur, décider l'ouverture d'une procédure de rétablissement personnel
-avec liquidation judiciaire.
+juge des contentieux de la protection peut, avec l'accord du débiteur, décider l'ouverture d'une procédure de rétablissement
+personnel avec liquidation judiciaire.
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -36556,7 +36628,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -36564,8 +36636,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. L723-3
-  - Code de la consommation - art. L733-12 (VD)
+  - Code de la consommation - art. L723-3 (VD)
+  - Code de la consommation - art. L733-12
 
 _Cité par_:
 
@@ -37504,19 +37576,17 @@ _Cite_:
 ###### Article L752-2
 
 Dès qu'une commission de surendettement des particuliers est saisie par un débiteur, elle en informe la Banque de France aux
-fins d'inscription au fichier. 
+fins d'inscription au fichier.
 
-La même obligation pèse sur le greffe du juge du tribunal d'instance lorsque, sur recours de l'intéressé contre une décision
-de recevabilité rendue par la commission, la situation mentionnée à l'article L. 711-1 est reconnue par ce juge ou lorsque le
+La même obligation pèse sur le greffe du tribunal judiciaire lorsque, sur recours de l'intéressé contre une décision de
+recevabilité rendue par la commission, la situation mentionnée à l'article L. 711-1 est reconnue par ce juge ou lorsque le
 débiteur a bénéficié de l'effacement des dettes résultant d'un rétablissement personnel en application des dispositions des
 articles L. 741-2, L. 741-6, L. 741-7 ou L. 742-22.
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -37531,7 +37601,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -37540,8 +37610,8 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la consommation - art. L711-1
-  - Code de la consommation - art. L741-2 (VT)
-  - Code de la consommation - art. L741-6 (VT)
+  - Code de la consommation - art. L741-2
+  - Code de la consommation - art. L741-6
   - Code de la consommation - art. L742-22
 
 
@@ -37549,11 +37619,11 @@ _Cite_:
 
 Le fichier recense les mesures du plan conventionnel de redressement mentionnées à l'article L. 732-2. Ces mesures sont
 communiquées à la Banque de France par la commission. L'inscription est conservée pendant toute la durée de l'exécution du
-plan conventionnel, sans pouvoir excéder sept ans. 
+plan conventionnel, sans pouvoir excéder sept ans.
 
 Le fichier recense également les mesures prises en vertu des articles L. 733-1, L. 733-4 et L. 733-7 qui sont communiquées à
-la Banque de France par la commission ou le greffe du juge du tribunal d'instance. L'inscription est conservée pendant toute
-la durée d'exécution de ces mesures, sans pouvoir excéder sept ans. 
+la Banque de France par la commission ou le greffe du tribunal judiciaire. L'inscription est conservée pendant toute la durée
+d'exécution de ces mesures, sans pouvoir excéder sept ans.
 
 Lorsque les mesures du plan conventionnel mentionnées à l'article L. 732-2 et celles prises en application des articles L.
 733-1, L. 733-4 et L. 733-7 sont exécutées sans incident, les informations relatives aux mentions qui ont entraîné leur
@@ -37561,8 +37631,7 @@ déclaration sont radiées à l'expiration d'une période de cinq ans à compter
 de la décision de la commission qui impose des mesures ou de la date du jugement ordonnant des mesures. Lorsque, pour une
 même personne, sont prescrits successivement, dans le cadre d'une révision ou d'un renouvellement du plan ou des mesures, un
 plan conventionnel mentionné à l'article L. 732-2 et des mesures prises en application des articles L. 733-1, L. 733-4 et L.
-733-7, l'inscription est maintenue pendant la durée globale d'exécution du plan et des mesures sans pouvoir excéder sept
-ans. 
+733-7, l'inscription est maintenue pendant la durée globale d'exécution du plan et des mesures sans pouvoir excéder sept ans.
 
 Pour les personnes ayant bénéficié de la procédure de rétablissement personnel, les informations relatives aux mentions
 correspondantes sont radiées à l'expiration d'une période de cinq ans à compter de la décision de la commission ou de la
@@ -37571,10 +37640,8 @@ liquidation judiciaire en application de l'article L. 670-6 du code de commerce.
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -37584,7 +37651,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Cite_:
 
@@ -37655,8 +37722,9 @@ _Cite_:
 ###### Article L761-2
 
 Tout acte ou tout paiement effectué en violation des articles L. 721-2, L. 722-2, L. 722-3, L. 722-4, L. 722-5, L. 722-12, L.
-722-13, L. 722-14, L. 722-16, L. 724-4, L. 732-2, L. 733-1 et L. 733-4 peut être annulé par le juge du tribunal d'instance, à
-la demande de la commission, présentée pendant le délai d'un an à compter de l'acte ou du paiement de la créance. 
+722-13, L. 722-14, L. 722-16, L. 724-4, L. 732-2, L. 733-1 et L. 733-4 peut être annulé par le juge des contentieux de la
+protection, à la demande de la commission, présentée pendant le délai d'un an à compter de l'acte ou du paiement de la
+créance.
 
 L'établissement de crédit qui tient le compte du déposant, conformément à ses devoirs de non-immixtion et de diligence, ne
 peut, en raison de cette seule qualité de teneur de compte, voir sa responsabilité engagée du fait des paiements effectués
@@ -37664,10 +37732,8 @@ par le débiteur non dessaisi, en violation de l'interdiction mentionnée à l'a
 
 **Nota:**
 
-Conformément à l'article 58 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur le
-1er janvier 2018. Elles s'appliquent aux procédures de surendettement en cours à cette date, sauf lorsque le juge d'instance
-a été saisi par la commission de surendettement aux fins d'homologation. Dans ce cas, l'affaire est poursuivie et jugée
-conformément au livre VII du code de la consommation, dans sa rédaction antérieure à la présente loi.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -37677,7 +37743,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1547 du 18 novembre 2016 - art. 58 (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -37689,7 +37755,7 @@ _Cite_:
   - Code de la consommation - art. L722-12
   - Code de la consommation - art. L722-16
   - Code de la consommation - art. L722-2
-  - Code de la consommation - art. L722-5
+  - Code de la consommation - art. L722-5 (VD)
   - Code de la consommation - art. L724-4
   - Code de la consommation - art. L732-2
   - Code de la consommation - art. L733-1
@@ -38334,47 +38400,46 @@ _Cité par_:
 
 ###### Article L771-3
 
-Pour l'application de l'article L. 771-2 : 
+Pour l'application de l'article L. 771-2 :
 
-1° Ne sont pas applicables : 
+1° Ne sont pas applicables :
 
-a) Le dernier alinéa de l'article L. 711-3 ; 
+a) Le dernier alinéa de l'article L. 711-3 ;
 
-b) Le 3° et le dernier alinéa de l'article L. 711-4 ; 
+b) Le 3° et le dernier alinéa de l'article L. 711-4 ;
 
-c) Le deuxième alinéa de l'article L. 732-3 ; 
+c) Le deuxième alinéa de l'article L. 732-3 ;
 
-d) Le dernier alinéa de l'article L. 742-25 ; 
+d) Le dernier alinéa de l'article L. 742-25 ;
 
-2° A l'article L. 742-24, la référence à l'article L. 733-7 n'est applicable qu'à compter du 1er janvier 2018 ; 
+2° A l'article L. 742-24, la référence à l'article L. 733-7 n'est applicable qu'à compter du 1er janvier 2018 ;
 
-3° Les mots : “ juge du tribunal d'instance ” sont remplacés dans toutes les occurrences par les mots : “ juge du tribunal de
-première instance ” ; 
+3° Les mots : “ juge des contentieux de la protection ” sont remplacés dans toutes les occurrences par les mots : “ juge du
+tribunal de première instance ” ;
 
-4° Les références aux organismes de sécurité sociale ne sont pas applicables ; 
+4° Les références aux organismes de sécurité sociale ne sont pas applicables ;
 
 5° Les références au code de l'action sociale et des familles, au code du travail sont remplacées par les références aux
 dispositions applicables localement ayant le même objet.
 
 **Nota:**
 
-Aux termes de l'article 9 de l'ordonnance n° 2017-269 du 2 mars 2017,  les présentes dispositions entrent en vigueur à la
-date d'entrée en  vigueur du décret portant dispositions relatives à l'outre-mer du code  de la consommation et au plus tard
-le 1er juillet 2017.
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2017-269 du 2 mars 2017 - art. 7
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 4
 
 _Cite_:
 
-  - Code de la consommation - art. L711-3 (V)
-  - Code de la consommation - art. L732-3 (VT)
-  - Code de la consommation - art. L733-7 (VT)
-  - Code de la consommation - art. L742-25 (V)
-  - Code de la consommation - art. L771-2 (VD)
+  - Code de la consommation - art. L711-3
+  - Code de la consommation - art. L732-3
+  - Code de la consommation - art. L733-7
+  - Code de la consommation - art. L742-25
+  - Code de la consommation - art. L771-2
 
 
 ##### Section 2 : Dispositions applicables en Polynésie française et en Nouvelle-Calédonie<a id=465></a>
@@ -43727,9 +43792,9 @@ _Anciens textes_:
 
 ###### Article R312-35
 
-Le tribunal d'instance connaît des litiges nés de l'application des dispositions du présent chapitre. Les actions en paiement
-engagées devant lui à l'occasion de la défaillance de l'emprunteur doivent être formées dans les deux ans de l'événement qui
-leur a donné naissance à peine de forclusion. Cet événement est caractérisé par :
+Le   tribunal judiciaire connaît des litiges nés de l'application des dispositions du présent chapitre. Les actions en
+paiement engagées devant lui à l'occasion de la défaillance de l'emprunteur doivent être formées dans les deux ans de
+l'événement qui leur a donné naissance à peine de forclusion. Cet événement est caractérisé par :
 
 - le non-paiement des sommes dues à la suite de la résiliation du contrat ou de son terme ;
 
@@ -43745,15 +43810,20 @@ rééchelonnement conclu entre les intéressés ou après adoption du plan conve
 732-1 ou après décision de la commission imposant les mesures prévues à l'article L. 733-1 ou la décision du juge de
 l'exécution homologuant les mesures prévues à l'article L. 733-7.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cité par_:
 
@@ -43762,8 +43832,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la consommation - art. L311-1 (MMN)
-  - Code de la consommation - art. L312-93 (V)
+  - Code de la consommation - art. L311-1
+  - Code de la consommation - art. L312-93
 
 _Anciens textes_:
 
@@ -44918,7 +44988,12 @@ _Anciens textes_:
 
 ###### Article R313-33
 
-Le tribunal d'instance connaît des actions nées de l'application des articles L. 313-63 et L. 314-20.
+Le   tribunal judiciaire connaît des actions nées de l'application des articles L. 313-63 et L. 314-20.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -44926,9 +45001,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -49685,16 +49760,21 @@ _Cite_:
 
 ###### Article R431-2
 
-L'action est portée devant le tribunal de grande instance du lieu d'origine du produit dont l'appellation est contestée.
+L'action est portée devant le   tribunal judiciaire du lieu d'origine du produit dont l'appellation est contestée. 
 
-La demande est dispensée du préliminaire de conciliation et instruite et jugée selon la procédure à jour fixe.
+La demande est dispensée du préliminaire de conciliation et instruite et jugée selon la procédure à jour fixe. 
 
 Dans la huitaine de l'assignation, le demandeur fait insérer dans un journal d'annonces légales de l'arrondissement de son
 domicile, ainsi que dans un journal d'annonces légales de l'arrondissement du tribunal saisi, une note succincte indiquant
 ses nom, prénoms, profession et domicile, les nom, prénoms et domicile de son représentant, ceux du défendeur et du
-représentant de celui-ci s'il a été constitué, et l'objet de la demande.
+représentant de celui-ci s'il a été constitué, et l'objet de la demande. 
 
 Les débats ne peuvent commencer que quinze jours après la publication de la note prévue au troisième alinéa.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -49702,9 +49782,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -53632,10 +53712,15 @@ _Cité par_:
 
 ###### Article R623-2
 
-Le tribunal de grande instance territorialement compétent est celui du lieu où demeure le défendeur.
+Le   tribunal judiciaire territorialement compétent est celui du lieu où demeure le défendeur. 
 
-Le tribunal de grande instance de Paris est compétent lorsque le défendeur demeure à l'étranger ou n'a ni domicile ni
-résidence connus.
+Le   tribunal judiciaire de Paris est compétent lorsque le défendeur demeure à l'étranger ou n'a ni domicile ni résidence
+connus.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -53643,9 +53728,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -53683,9 +53768,14 @@ _Cite_:
 ###### Article R623-4
 
 La demande est formée, instruite et jugée selon les règles applicables à la procédure ordinaire en matière contentieuse
-devant le tribunal de grande instance. 
+devant le   tribunal judiciaire. 
 
-L'appel est jugé selon la procédure prévue à l' article 905  du code de procédure civile.
+L'appel est jugé selon la procédure prévue à l'article 905 du code de procédure civile.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -53693,9 +53783,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -53703,7 +53793,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de procédure civile - art. 905 (Ab)
+  - Code de procédure civile - art. 905
 
 
 ###### Article R623-5
@@ -54289,9 +54379,14 @@ _Anciens textes_:
 
 ###### Article R623-26
 
-Les demandes d'indemnisation auxquelles le professionnel n'a pas fait droit sont portées devant le tribunal de grande
-instance, en vue de l'audience fixée en application des dispositions de l'article R. 623-8, dans les formes prévues pour les
-demandes incidentes et dans le délai fixé par le juge pour le saisir, conformément à l'article L. 623-11.
+Les demandes d'indemnisation auxquelles le professionnel n'a pas fait droit sont portées devant le   tribunal judiciaire, en
+vue de l'audience fixée en application des dispositions de l'article R. 623-8, dans les formes prévues pour les demandes
+incidentes et dans le délai fixé par le juge pour le saisir, conformément à l'article L. 623-11.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -54299,14 +54394,14 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L623-11 (V)
-  - Code de la consommation - art. R623-8 (V)
+  - Code de la consommation - art. L623-11
+  - Code de la consommation - art. R623-8
 
 _Anciens textes_:
 
@@ -54485,8 +54580,13 @@ _Anciens textes_:
 ###### Article R631-1
 
 Les litiges civils nés de l'application du présent code relèvent, lorsque le montant de la demande n'excède pas le taux de
-compétence en dernier ressort du tribunal d'instance, des règles relatives à la saisine simplifiée du tribunal d'instance
+compétence en dernier ressort du   tribunal judiciaire, des règles relatives à la saisine simplifiée du   tribunal judiciaire
 fixées par les articles  843 et 844 du code de procédure civile.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -54494,9 +54594,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -54504,7 +54604,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de procédure civile - art. 843 (V)
+  - Code de procédure civile - art. 843
 
 
 ###### Article R631-2
@@ -54642,14 +54742,19 @@ _Cité par_:
 
 ###### Article R652-2
 
-Pour l'application de l'article R. 652-1 dans les îles Wallis et Futuna, les références au tribunal de grande instance sont
+Pour l'application de l'article R. 652-1 dans les îles Wallis et Futuna, les références au   tribunal judiciaire sont
 remplacées par les références au tribunal de première instance.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2017-1166 du 12 juillet 2017 - art. 4
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -55092,8 +55197,13 @@ notification, par déclaration remise ou adressée par lettre recommandée avec 
 commission. Elle précise que cette déclaration indique les noms, prénoms et adresse de son auteur, la décision attaquée ainsi
 que les motifs du recours. Elle est signée par son auteur. 
 
-Lorsque la commission est destinataire d'un recours, son secrétariat le transmet, avec le dossier, au greffe du tribunal
-d'instance.
+Lorsque la commission est destinataire d'un recours, son secrétariat le transmet, avec le dossier, au greffe du   tribunal
+judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -55101,13 +55211,13 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L712-3 (V)
+  - Code de la consommation - art. L712-3
 
 _Anciens textes_:
 
@@ -55272,13 +55382,22 @@ _Cité par_:
 
 #### Chapitre III : Compétence du juge du tribunal d'instance<a id=707></a>
 
+#### Chapitre III : Compétence du juge des contentieux de la protection<a id=708></a>
+
 ###### Article R713-1
 
-Le juge du tribunal d'instance compétent, en vertu des dispositions de l'article L. 221-8-1 du code de l'organisation
-judiciaire, est celui du lieu où demeure le débiteur, y compris pour l'application des articles R. 721-5 et R. 722-9. 
+Le     juge des contentieux de la protection compétent, en vertu des dispositions de l'article L. 221-8-1 du code de
+l'organisation judiciaire, est celui du lieu où demeure le débiteur, y compris pour l'application des articles R. 721-5 et R.
+722-9. 
 
 Toutefois, dans le cas prévu à l'article L. 711-2, le juge compétent est celui dans le ressort duquel siège la commission
 saisie.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -55286,20 +55405,16 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L711-2 (V)
-  - Code de la consommation - art. R721-5 (V)
-  - Code de la consommation - art. R722-9 (V)
-  - Code de l'organisation judiciaire - art. L221-8-1 (V)
+  - Code de la consommation - art. L711-2
+  - Code de la consommation - art. R721-5
+  - Code de la consommation - art. R722-9
+  - Code de l'organisation judiciaire - art. L221-8-1
 
 _Anciens textes_:
 
@@ -55308,11 +55423,17 @@ _Anciens textes_:
 
 ###### Article R713-2
 
-Le juge du tribunal d'instance est saisi par la commission par lettre simple signée de son président.
+Le     juge des contentieux de la protection est saisi par la commission par lettre simple signée de son président. 
 
 Lorsque la saisine directe du juge par une partie ou par un tiers est prévue, elle s'effectue par déclaration remise ou
 adressée au greffe du tribunal d'instance. La déclaration indique les nom, prénoms et adresse du déclarant ; elle est signée
 par lui. Le greffe en informe la commission et l'invite, le cas échéant, à lui transmettre le dossier.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -55322,8 +55443,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 3
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -55336,7 +55456,23 @@ _Cité par_:
 
 ###### Article R713-3
 
-Le juge du tribunal d'instance statue par jugement ou, en application d'une disposition spéciale, par ordonnance.
+Le     juge des contentieux de la protection statue par jugement ou, en application d'une disposition spéciale, par
+ordonnance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
+<font color="black">A compter du 1er janvier 2020, les conciliateurs de justice poursuivent l'exercice de leurs fonctions
+dans le ressort visé par l'ordonnance de nomination du premier président jusqu'à l'expiration de la période mentionnée par
+ladite ordonnance.</font>
+
+<font color="black">Les conciliateurs de justice nommés pour exercer leurs fonctions dans le ressort d'un tribunal d'instance
+situé dans une ville où siège un tribunal judiciaire déposent leurs constats d'accord au siège de ce tribunal. Ceux nommés
+pour exercer leurs fonctions dans le ressort d'un tribunal d'instance situé dans une ville où est créée une chambre de
+proximité d'un tribunal judiciaire déposent leurs constats d'accord au siège de cette chambre.</font>
 
 **Liens relatifs à cet article**
 
@@ -55344,13 +55480,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -55488,14 +55620,19 @@ _Anciens textes_:
 
 ###### Article R713-9
 
-Les ordonnances sont rendues en dernier ressort.
+Les ordonnances sont rendues en dernier ressort. 
 
 Elles peuvent faire l'objet, dans le délai de quinze jours, d'un recours en rétractation remis ou adressé au greffe du
-tribunal d'instance par toute partie intéressée qui n'a pas été mise en mesure de s'opposer à la demande.
+tribunal judiciaire par toute partie intéressée qui n'a pas été mise en mesure de s'opposer à la demande. 
 
-Copie de l'ordonnance est jointe à la demande de rétractation.
+Copie de l'ordonnance est jointe à la demande de rétractation. 
 
 Il est statué sur le recours en rétractation par jugement, sauf disposition contraire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -55503,9 +55640,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -55514,7 +55651,13 @@ _Anciens textes_:
 
 ###### Article R713-10
 
-Les décisions du juge du tribunal d'instance sont immédiatement exécutoires.
+Les décisions du     juge des contentieux de la protection sont immédiatement exécutoires.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -55522,13 +55665,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -55538,13 +55677,18 @@ _Anciens textes_:
 ###### Article R713-11
 
 S'il n'en est disposé autrement, les jugements et ordonnances sont notifiés au débiteur et aux créanciers intéressés par
-lettre recommandée avec demande d'avis de réception par le greffe du tribunal d'instance. Ces notifications sont
+lettre recommandée avec demande d'avis de réception par le greffe du   tribunal judiciaire. Ces notifications sont
 régulièrement faites à l'adresse préalablement indiquée par le destinataire. Dans ce cas, la date de notification est celle
 de la signature de l'avis de réception. Lorsque l'avis de réception n'a pas été signé par son destinataire ou par une
 personne munie d'un pouvoir à cet effet, la date de notification est celle de la présentation de la lettre recommandée. La
-notification mentionne les voies et délais de recours.
+notification mentionne les voies et délais de recours. 
 
 La commission est informée par lettre simple.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -55552,9 +55696,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -55565,9 +55709,9 @@ _Cité par_:
   - Code de la consommation - art. R733-17-1 (V)
 
 
-### Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT<a id=708></a>
+### Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT<a id=709></a>
 
-#### Chapitre Ier : Saisine de la commission de surendettement des particuliers<a id=709></a>
+#### Chapitre Ier : Saisine de la commission de surendettement des particuliers<a id=710></a>
 
 ###### Article R721-1
 
@@ -55714,16 +55858,21 @@ _Cité par_:
 ###### Article R721-6
 
 L'ordonnance qui suspend une ou plusieurs procédures d'exécution ou cessions de rémunération est notifiée par le greffe du
-tribunal d'instance par lettre recommandée avec demande d'avis de réception, ou remise contre récépissé, aux créanciers
-poursuivants et aux agents chargés de l'exécution ou au greffier en chef du tribunal d'instance en charge de la procédure de
-saisie des rémunérations ou de la cession des rémunérations, qui en informe le tiers saisi ou le cessionnaire.
+tribunal judiciaire par lettre recommandée avec demande d'avis de réception, ou remise contre récépissé, aux créanciers
+poursuivants et aux agents chargés de l'exécution ou au greffier en chef du   tribunal judiciaire en charge de la procédure
+de saisie des rémunérations ou de la cession des rémunérations, qui en informe le tiers saisi ou le cessionnaire. 
 
 Une copie de l'ordonnance par laquelle le juge se prononce sur la demande de suspension et de celle qui statue sur la demande
-en rétractation est adressée par le greffe par lettre simple à la commission, qui en informe le débiteur.
+en rétractation est adressée par le greffe par lettre simple à la commission, qui en informe le débiteur. 
 
 Le greffe notifie au créancier requérant et aux agents chargés de l'exécution ou au greffier en chef du service chargé des
 saisies des rémunérations l'ordonnance qui rétracte la décision de suspension par lettre simple et l'ordonnance qui rejette
 la demande en rétractation par lettre recommandée avec demande d'avis de réception.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -55731,9 +55880,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -55801,9 +55950,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-11-2, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre II : Recevabilité de la demande<a id=710></a>
+#### Chapitre II : Recevabilité de la demande<a id=711></a>
 
-##### Section 1 : Examen de la recevabilité de la demande<a id=711></a>
+##### Section 1 : Examen de la recevabilité de la demande<a id=712></a>
 
 ###### Article R722-1
 
@@ -55852,8 +56001,14 @@ _Cité par_:
 
 ###### Article R722-2
 
-La décision rendue par la commission sur la recevabilité du dossier est susceptible de recours devant le juge du tribunal
-d'instance.
+La décision rendue par la commission sur la recevabilité du dossier est susceptible de recours devant le     juge des
+contentieux de la protection.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -55861,13 +56016,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -55900,8 +56051,13 @@ _Anciens textes_:
 
 ###### Article R722-4
 
-Lorsque la commission est destinataire d'un recours, son secrétariat le transmet, avec le dossier, au greffe du tribunal
-d'instance.
+Lorsque la commission est destinataire d'un recours, son secrétariat le transmet, avec le dossier, au greffe du   tribunal
+judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -55909,18 +56065,18 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
   - Code de la consommation - art. R331-10, alinéa 3 (Ab)
 
 
-##### Section 2 : Effets de la décision de recevabilité<a id=712></a>
+##### Section 2 : Effets de la décision de recevabilité<a id=713></a>
 
-##### Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=713></a>
+##### Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=714></a>
 
 ###### Article R722-5
 
@@ -55953,10 +56109,15 @@ _Cite_:
 
 ###### Article R722-6
 
-La commission ou le greffe du tribunal d'instance, selon le cas, notifie la décision de recevabilité par lettre recommandée
+La commission ou le greffe du   tribunal judiciaire, selon le cas, notifie la décision de recevabilité par lettre recommandée
 avec demande d'avis de réception, ou remise contre récépissé, aux agents chargés de l'exécution et, le cas échéant, au
-greffier en chef du tribunal d'instance en charge de la procédure de saisie des rémunérations ou de la cession des
+greffier en chef du   tribunal judiciaire en charge de la procédure de saisie des rémunérations ou de la cession des
 rémunérations, qui en informe le tiers saisi ou le cessionnaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -55964,9 +56125,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -56026,7 +56187,7 @@ _Anciens textes_:
   - Code de la consommation - art. R331-11-3 (Ab)
 
 
-##### Sous-section 2 : Suspension des mesures d'expulsion<a id=714></a>
+##### Sous-section 2 : Suspension des mesures d'expulsion<a id=715></a>
 
 ###### Article R722-9
 
@@ -56081,7 +56242,7 @@ _Anciens textes_:
   - Code de la consommation - art. R331-12, alinéa 2 (Ab)
 
 
-##### Sous-section 3 : Emoluments supportés par le débiteur<a id=715></a>
+##### Sous-section 3 : Emoluments supportés par le débiteur<a id=716></a>
 
 ###### Article R722-11
 
@@ -56109,9 +56270,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-13 (Ab)
 
 
-#### Chapitre III : Etat du passif<a id=716></a>
+#### Chapitre III : Etat du passif<a id=717></a>
 
-##### Section 1 : Etat du passif dressé par la commission<a id=717></a>
+##### Section 1 : Etat du passif dressé par la commission<a id=718></a>
 
 ###### Article R723-1
 
@@ -56150,8 +56311,14 @@ est publié à la diligence du secrétariat de la commission dans un journal d'a
 siège la commission. L'appel précise le délai dans lequel les créanciers doivent, par lettre recommandée avec demande d'avis
 de réception adressée au secrétariat de la commission, déclarer leurs créances. 
 
-A défaut d'accord entre les parties, la commission saisit le juge du tribunal d'instance à l'effet de désigner, par
-ordonnance, la ou les parties qui supporteront les frais de l'appel aux créanciers.
+A défaut d'accord entre les parties, la commission saisit le     juge des contentieux de la protection à l'effet de désigner,
+par ordonnance, la ou les parties qui supporteront les frais de l'appel aux créanciers.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -56159,17 +56326,13 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L723-1 (V)
+  - Code de la consommation - art. L723-1
 
 _Anciens textes_:
 
@@ -56270,7 +56433,7 @@ _Anciens textes_:
   - Code de la consommation - art. R332-2, alinéa 3 (Ab)
 
 
-##### Section 2 : Vérification des créances<a id=718></a>
+##### Section 2 : Vérification des créances<a id=719></a>
 
 ###### Article R723-6
 
@@ -56350,7 +56513,7 @@ _Cité par_:
   - Code de la consommation - art. R723-5 (V)
 
 
-#### Chapitre IV : Orientation du dossier<a id=719></a>
+#### Chapitre IV : Orientation du dossier<a id=720></a>
 
 ###### Article R724-1
 
@@ -56480,16 +56643,22 @@ _Cité par_:
 
 Si la commission fait droit à la demande du débiteur, la lettre mentionnée à l'article R. 724-4 indique que sa décision
 emporte suspension et interdiction des procédures d'exécution diligentées à l'encontre des biens du débiteur ainsi que des
-cessions de rémunération qu'il a consenties et portant sur les dettes autres qu'alimentaires.
+cessions de rémunération qu'il a consenties et portant sur les dettes autres qu'alimentaires. 
 
 Cette lettre précise que cette suspension et cette interdiction sont acquises jusqu'à la décision de la commission imposant
 un rétablissement personnel sans liquidation judiciaire, jusqu'au jugement prononçant un rétablissement personnel sans
 liquidation judiciaire ou jusqu'au jugement d'ouverture de la procédure de rétablissement personnel avec liquidation
 judiciaire, sans pouvoir excéder deux ans. La décision de la commission imposant un rétablissement personnel sans liquidation
-judiciaire ou la saisine du juge du tribunal d'instance aux fins d'ouverture d'une procédure de rétablissement personnel avec
-liquidation judiciaire est notifiée par lettre recommandée avec demande d'avis de réception, ou remise contre récépissé, aux
-agents chargés de l'exécution et, le cas échéant, au greffier en chef du tribunal d'instance en charge de la procédure de
-saisie des rémunérations ou de la cession des rémunérations, qui en informe le tiers saisi ou le cessionnaire.
+judiciaire ou la saisine du     juge des contentieux de la protection aux fins d'ouverture d'une procédure de rétablissement
+personnel avec liquidation judiciaire est notifiée par lettre recommandée avec demande d'avis de réception, ou remise contre
+récépissé, aux agents chargés de l'exécution et, le cas échéant, au greffier en chef du tribunal d'instance en charge de la
+procédure de saisie des rémunérations ou de la cession des rémunérations, qui en informe le tiers saisi ou le cessionnaire.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -56499,8 +56668,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 5
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -56513,8 +56681,14 @@ _Cite_:
 
 ###### Article R724-6
 
-La suspension des mesures d'expulsion du logement du débiteur est demandée par la commission au juge du tribunal d'instance
-et traitée dans les conditions prévues aux articles R. 722-7 et R. 722-8.
+La suspension des mesures d'expulsion du logement du débiteur est demandée par la commission au     juge des contentieux de
+la protection et traitée dans les conditions prévues aux articles R. 722-7 et R. 722-8.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -56522,13 +56696,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -56536,7 +56706,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. R722-7 (V)
+  - Code de la consommation - art. R722-7
 
 
 ###### Article R724-7
@@ -56579,9 +56749,9 @@ _Modifié par_:
   - Décret n°2017-896 du 9 mai 2017 - art. 2
 
 
-### Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=720></a>
+### Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=721></a>
 
-#### Chapitre Ier : Détermination de la capacité de remboursement<a id=721></a>
+#### Chapitre Ier : Détermination de la capacité de remboursement<a id=722></a>
 
 ###### Article R731-1
 
@@ -56671,7 +56841,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-1, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre II : Plan conventionnel<a id=722></a>
+#### Chapitre II : Plan conventionnel<a id=723></a>
 
 ###### Article D732-3
 
@@ -56738,9 +56908,9 @@ _Cite_:
   - Code de la consommation - art. L722-4
 
 
-#### Chapitre III : Mesures imposées<a id=723></a>
+#### Chapitre III : Mesures imposées<a id=724></a>
 
-##### Section 1 : Contenu et adoption des mesures imposées<a id=724></a>
+##### Section 1 : Contenu et adoption des mesures imposées<a id=725></a>
 
 ###### Article R733-1
 
@@ -57005,7 +57175,12 @@ _Cité par_:
 ###### Article R733-9
 
 Lorsque la commission est destinataire d'une contestation des mesures prévues aux articles L. 733-1, L. 733-4 et L. 733-7,
-son secrétariat la transmet, avec le dossier, au greffe du tribunal d'instance.
+son secrétariat la transmet, avec le dossier, au greffe du   tribunal judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -57015,20 +57190,20 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 16
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L733-1 (VD)
-  - Code de la consommation - art. L733-4 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-1
+  - Code de la consommation - art. L733-4
+  - Code de la consommation - art. L733-7
 
 _Anciens textes_:
 
   - Code de la consommation - art. R334-9 (Ab)
 
 
-##### Section 2 : Contestation des mesures imposées<a id=725></a>
+##### Section 2 : Contestation des mesures imposées<a id=726></a>
 
 ###### Article R733-14
 
@@ -57063,8 +57238,14 @@ _Anciens textes_:
 L'appel aux créanciers prévu à l'article L. 733-12 est publié par le greffe du tribunal d'instance selon les formes prévues à
 l'article R. 723-2. 
 
-A défaut d'accord entre les parties, le juge du tribunal d'instance désigne, par une ordonnance, la ou les parties qui en
-supporteront les frais.
+A défaut d'accord entre les parties, le     juge des contentieux de la protection désigne, par une ordonnance, la ou les
+parties qui en supporteront les frais.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -57074,12 +57255,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 16
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L733-12 (VD)
+  - Code de la consommation - art. L733-12
   - Code de la consommation - art. R723-2
 
 _Anciens textes_:
@@ -57166,7 +57346,7 @@ _Cité par_:
   - Code de la consommation - art. R742-56-1 (V)
 
 
-##### Section 3 : Dispositions communes aux mesures imposées et à leur contestation<a id=726></a>
+##### Section 3 : Dispositions communes aux mesures imposées et à leur contestation<a id=727></a>
 
 ###### Article R733-18
 
@@ -57208,11 +57388,11 @@ _Cité par_:
   - Code monétaire et financier - art. R131-21-1 (V)
 
 
-### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=727></a>
+### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=728></a>
 
-#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=728></a>
+#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=729></a>
 
-##### Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=729></a>
+##### Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=730></a>
 
 ###### Article R741-1
 
@@ -57271,9 +57451,15 @@ _Cité par_:
 ###### Article R741-2
 
 La commission procède à des mesures de publicité pour permettre aux créanciers qui n'ont pas été avisés de sa décision de
-former un recours devant le juge du tribunal d'instance.
+former un recours devant le     juge des contentieux de la protection. 
 
 Les titulaires de créances disposent d'un délai de deux mois à compter de cette publicité pour exercer leur recours.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -57283,8 +57469,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 12
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -57333,7 +57518,12 @@ _Cite_:
 ###### Article R741-5
 
 Lorsque la commission est destinataire d'une contestation de la décision prise en application de l'article L. 741-1, son
-secrétariat la transmet, avec le dossier, au greffe du tribunal d'instance.
+secrétariat la transmet, avec le dossier, au greffe du   tribunal judiciaire.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -57343,7 +57533,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 12
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
@@ -57358,15 +57548,21 @@ _Cité par_:
   - Code de la consommation - art. R743-1 (V)
 
 
-##### Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=730></a>
+##### Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=731></a>
 
 ###### Article R741-10
 
 L'appel aux créanciers prévu à l'article L. 741-8 est publié par le greffe du tribunal d'instance selon les formes prévues à
 l'article R. 723-2. 
 
-A défaut d'accord entre les parties, le juge du tribunal d'instance désigne, par ordonnance, la ou les parties qui en
-supporteront les frais.
+A défaut d'accord entre les parties, le     juge des contentieux de la protection désigne, par ordonnance, la ou les parties
+qui en supporteront les frais.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -57376,12 +57572,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 16
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L741-8 (VD)
+  - Code de la consommation - art. L741-8
   - Code de la consommation - art. R723-2
 
 _Anciens textes_:
@@ -57500,15 +57695,21 @@ _Modifié par_:
   - Décret n°2017-896 du 9 mai 2017 - art. 14
 
 
-##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées<a id=731></a>
+##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées<a id=732></a>
 
 ###### Article R741-15
 
 L'appel aux créanciers prévu à l'article L. 741-8 est publié par le greffe du tribunal d'instance selon les formes prévues à
 l'article R. 723-2. 
 
-A défaut d'accord entre les parties, le juge du tribunal d'instance désigne, par ordonnance, la ou les parties qui en
-supporteront les frais.
+A défaut d'accord entre les parties, le     juge des contentieux de la protection désigne, par ordonnance, la ou les parties
+qui en supporteront les frais.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -57518,13 +57719,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 16
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L741-8 (VD)
-  - Code de la consommation - art. R723-2
+  - Code de la consommation - art. L741-8
+  - Code de la consommation - art. R723-2 (VD)
 
 _Anciens textes_:
 
@@ -57594,9 +57794,9 @@ _Modifié par_:
   - Décret n°2017-896 du 9 mai 2017 - art. 14
 
 
-#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=732></a>
+#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=733></a>
 
-##### Section 1 : Ouverture de la procédure<a id=733></a>
+##### Section 1 : Ouverture de la procédure<a id=734></a>
 
 ###### Article R742-1
 
@@ -57713,8 +57913,14 @@ l'encontre du débiteur.
 Lorsqu'un mandataire a été désigné, une copie du jugement lui est adressée par le greffe par lettre simple. 
 
 Si le mandataire refuse la mission ou s'il existe un empêchement légitime, il est pourvu à son remplacement par ordonnance du
-juge du tribunal d'instance. Le juge peut également, à la demande des parties ou d'office, remplacer, par ordonnance, le
-mandataire qui manquerait à ses devoirs, après avoir provoqué ses explications.
+juge des contentieux de la protection. Le juge peut également, à la demande des parties ou d'office, remplacer, par
+ordonnance, le mandataire qui manquerait à ses devoirs, après avoir provoqué ses explications.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -57722,17 +57928,13 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L742-4 (V)
+  - Code de la consommation - art. L742-4
 
 _Anciens textes_:
 
@@ -57740,7 +57942,7 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code de la consommation - art. R742-18 (V)
+  - Code de la consommation - art. R742-18 (VD)
 
 
 ###### Article R742-6
@@ -57807,10 +58009,16 @@ _Cité par_:
 Le dispositif du jugement d'ouverture indique l'adresse à laquelle doit être présentée la déclaration de créances et le délai
 dans lequel cette déclaration doit être réalisée. 
 
-Il constate, le cas échéant d'office, que les demandes antérieurement formulées devant le juge du tribunal d'instance et
-concernant le même débiteur ont perdu leur objet. 
+Il constate, le cas échéant d'office, que les demandes antérieurement formulées devant le     juge des contentieux de la
+protection et concernant le même débiteur ont perdu leur objet. 
 
 Il rappelle les dispositions de l'article L. 742-7.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -57818,17 +58026,13 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Cite_:
 
-  - Code de la consommation - art. L742-7 (V)
+  - Code de la consommation - art. L742-7
 
 _Anciens textes_:
 
@@ -57891,13 +58095,18 @@ _Anciens textes_:
   - Code de la consommation - art. R334-35 (Ab)
 
 
-##### Section 2 : Déclaration et arrêté des créances<a id=734></a>
+##### Section 2 : Déclaration et arrêté des créances<a id=735></a>
 
 ###### Article R742-11
 
 Dans un délai de deux mois à compter de la publicité du jugement d'ouverture faite dans les conditions prévues à l'article R.
-742-9, les créanciers déclarent leurs créances au mandataire ou, à défaut de mandataire, au greffe du tribunal d'instance,
+742-9, les créanciers déclarent leurs créances au mandataire ou, à défaut de mandataire, au greffe du   tribunal judiciaire,
 par lettre recommandée avec demande d'avis de réception.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -57907,11 +58116,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 16
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
-  - Code de commerce - art. R742-19 (V)
+  - Code de commerce - art. R742-19
 
 _Anciens textes_:
 
@@ -57951,10 +58160,10 @@ _Cité par_:
 
 ###### Article R742-13
 
-A défaut de déclaration dans le délai mentionné à l'article R. 742-11, les créanciers peuvent saisir le juge du tribunal
-d'instance d'une demande de relevé de forclusion dans le délai de six mois à compter de la publicité du jugement d'ouverture
-faite dans les conditions prévues à l'article R. 742-9. La lettre de saisine comporte les mentions prévues à l'article R.
-742-12. 
+A défaut de déclaration dans le délai mentionné à l'article R. 742-11, les créanciers peuvent saisir le     juge des
+contentieux de la protection d'une demande de relevé de forclusion dans le délai de six mois à compter de la publicité du
+jugement d'ouverture faite dans les conditions prévues à l'article R. 742-9. La lettre de saisine comporte les mentions
+prévues à l'article R. 742-12. 
 
 La lettre de saisine indique également les circonstances de fait extérieures à la volonté du créancier de nature à justifier
 son défaut de déclaration. Le juge se prononce sur la demande de relevé de forclusion au vu de ces circonstances. Toutefois,
@@ -57963,19 +58172,21 @@ que le créancier, pourtant connu, n'avait pas été convoqué à l'audience d'o
 
 Dans tous les cas, le juge statue par ordonnance, dont copie est adressée au mandataire par lettre simple.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -57983,10 +58194,10 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. R721-1 (V)
-  - Code de la consommation - art. R742-11 (V)
-  - Code de la consommation - art. R742-12 (V)
-  - Code de la consommation - art. R742-9 (V)
+  - Code de la consommation - art. R721-1
+  - Code de la consommation - art. R742-11
+  - Code de la consommation - art. R742-12
+  - Code de la consommation - art. R742-9
 
 
 ###### Article R742-14
@@ -57998,8 +58209,13 @@ Ce bilan comprend un état des créances et, le cas échéant, une proposition d
 articles L. 733-1, L. 733-4 et L. 733-7. 
 
 Il est adressé au débiteur et aux créanciers par lettre recommandée avec demande d'avis de réception et adressé par lettre
-simple ou remis au greffe du tribunal d'instance. A sa réception, le greffe convoque le débiteur et les créanciers pour qu'il
-soit statué selon les modalités prévues à l'article R. 742-17.
+simple ou remis au greffe du   tribunal judiciaire. A sa réception, le greffe convoque le débiteur et les créanciers pour
+qu'il soit statué selon les modalités prévues à l'article R. 742-17.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -58009,13 +58225,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-896 du 9 mai 2017 - art. 16
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Cite_:
 
   - Code de la consommation - art. L733-1
-  - Code de la consommation - art. L733-4 (VD)
-  - Code de la consommation - art. L733-7 (VD)
+  - Code de la consommation - art. L733-4
+  - Code de la consommation - art. L733-7
   - Code de la consommation - art. R742-17
 
 _Anciens textes_:
@@ -58025,9 +58241,14 @@ _Anciens textes_:
 
 ###### Article R742-15
 
-Lorsque les créances ont été déclarées au greffe du tribunal d'instance, le greffe dresse un état des créances ainsi
+Lorsque les créances ont été déclarées au greffe du   tribunal judiciaire, le greffe dresse un état des créances ainsi
 déclarées. Il notifie cet état au débiteur et aux créanciers et leur adresse dans le même temps la convocation pour qu'il
 soit statué selon les modalités prévues à l'article R. 742-17.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -58035,9 +58256,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -58045,7 +58266,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. R742-17 (V)
+  - Code de la consommation - art. R742-17
 
 
 ###### Article R742-16
@@ -58106,9 +58327,9 @@ _Cité par_:
   - Code de la consommation - art. R742-15 (VD)
 
 
-##### Section 3 : Liquidation des biens du débiteur<a id=735></a>
+##### Section 3 : Liquidation des biens du débiteur<a id=736></a>
 
-##### Sous-section 1 : Dispositions générales<a id=736></a>
+##### Sous-section 1 : Dispositions générales<a id=737></a>
 
 ###### Article R742-18
 
@@ -58116,13 +58337,19 @@ Le jugement qui prononce la liquidation désigne un liquidateur parmi les person
 procureur de la République en application de l'article R. 742-5. 
 
 Si le liquidateur refuse la mission ou s'il existe un empêchement légitime, il est pourvu à son remplacement par ordonnance
-du juge du tribunal d'instance. Le juge peut également, à la demande des parties ou d'office, remplacer par ordonnance le
-liquidateur qui manquerait à ses devoirs, après avoir provoqué ses explications. 
+du     juge des contentieux de la protection. Le juge peut également, à la demande des parties ou d'office, remplacer par
+ordonnance le liquidateur qui manquerait à ses devoirs, après avoir provoqué ses explications. 
 
 Le liquidateur ne peut, ni en son nom personnel ni par personne interposée, se porter acquéreur des biens du débiteur. Il
 accomplit sa mission avec diligence et dans le respect des intérêts des parties. 
 
 Lorsqu'un liquidateur a été désigné, une copie du jugement lui est adressée par le greffe par lettre simple.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -58130,13 +58357,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -58144,7 +58367,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. R742-5 (V)
+  - Code de la consommation - art. R742-5 (VD)
 
 
 ###### Article R742-19
@@ -58194,11 +58417,17 @@ _Anciens textes_:
 ###### Article R742-21
 
 Les biens du débiteur rendus indisponibles par une procédure d'exécution peuvent être vendus de gré à gré par le liquidateur,
-sur autorisation du juge du tribunal d'instance, statuant par ordonnance, qui justifie que cette vente peut être conclue dans
-des conditions satisfaisantes.
+sur autorisation du     juge des contentieux de la protection, statuant par ordonnance, qui justifie que cette vente peut
+être conclue dans des conditions satisfaisantes. 
 
 L'ordonnance autorisant la vente de gré à gré d'un immeuble est publiée en marge du commandement publié au service chargé de
 la publicité foncière.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -58206,13 +58435,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -58241,14 +58466,20 @@ _Anciens textes_:
 
 ###### Article R742-23
 
-En cas de vente de gré à gré d'un bien immobilier grevé d'une hypothèque ou d'un privilège, le juge du tribunal d'instance
-détermine le montant minimum du prix de vente.
+En cas de vente de gré à gré d'un bien immobilier grevé d'une hypothèque ou d'un privilège, le     juge des contentieux de la
+protection détermine le montant minimum du prix de vente. 
 
 Le paiement du prix conforme à ce montant, des frais de la vente et des droits de mutation purge l'immeuble de toute
-hypothèque et de tout privilège pris du chef du débiteur.
+hypothèque et de tout privilège pris du chef du débiteur. 
 
 Sur requête de l'acquéreur, le juge constate la purge des hypothèques et privilèges pris sur l'immeuble et ordonne la
 radiation des inscriptions correspondantes au service chargé de la publicité foncière. Il statue par ordonnance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -58256,13 +58487,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -58316,7 +58543,14 @@ _Anciens textes_:
 ###### Article R742-26
 
 Si le liquidateur n'a pas réalisé la vente des biens du débiteur dans les conditions prévues aux articles L. 742-16, il peut
-demander au juge du tribunal d'instance une prolongation du délai de vente. Le juge statue sur cette demande par ordonnance.
+demander au     juge des contentieux de la protection une prolongation du délai de vente. Le juge statue sur cette demande
+par ordonnance.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -58324,20 +58558,16 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
   - Code de la consommation - art. R334-47 (Ab)
 
 
-##### Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=737></a>
+##### Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=738></a>
 
 ###### Article R742-27
 
@@ -58371,10 +58601,10 @@ _Anciens textes_:
 
 ###### Article R742-28
 
-Le juge du tribunal d'instance, à la demande du liquidateur, détermine la mise à prix du bien à vendre, les conditions
-essentielles de la vente et les modalités de visite. A la demande du liquidateur ou de l'une des parties, il peut aménager,
-restreindre ou compléter les mesures de publicité de la vente dans les conditions des articles R. 322-37 et R. 322-38 du code
-des procédures civiles d'exécution. 
+Le     juge des contentieux de la protection, à la demande du liquidateur, détermine la mise à prix du bien à vendre, les
+conditions essentielles de la vente et les modalités de visite. A la demande du liquidateur ou de l'une des parties, il peut
+aménager, restreindre ou compléter les mesures de publicité de la vente dans les conditions des articles R. 322-37 et R.
+322-38 du code des procédures civiles d'exécution. 
 
 Il précise qu'à défaut d'enchères la vente pourra se faire sur une mise à prix inférieure, dont il fixe le montant. Il peut,
 si la valeur et la consistance des biens le justifient, faire procéder à leur estimation totale ou partielle. 
@@ -58385,26 +58615,28 @@ Moselle, ce jugement comporte, outre les indications mentionnées au premier ali
 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin
 et de la Moselle.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi du 1er juin 1924 - art. 144 (V)
-  - Code des procédures civiles d'exécution - art. R321-3 (M)
-  - Code des procédures civiles d'exécution - art. R322-37 (V)
-  - Code des procédures civiles d'exécution - art. R322-38 (V)
+  - Loi du 1 juin 1924 - art. 144
+  - Code des procédures civiles d'exécution - art. R321-3
+  - Code des procédures civiles d'exécution - art. R322-37
+  - Code des procédures civiles d'exécution - art. R322-38
 
 _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -58472,9 +58704,9 @@ _Cite_:
 ###### Article R742-31
 
 Lorsqu'une procédure de saisie immobilière, suspendue par l'effet du jugement d'ouverture, est reprise par le liquidateur, le
-juge du tribunal d'instance, à la demande du liquidateur, fixe ou modifie, s'il y a lieu, la mise à prix, les conditions
-essentielles de la vente, les modalités de visite et statue, à la demande du liquidateur ou d'une des parties, sur les
-mesures de publicité de la vente dans les conditions des articles R. 322-37 et R. 322-38 du code des procédures civiles
+juge des contentieux de la protection, à la demande du liquidateur, fixe ou modifie, s'il y a lieu, la mise à prix, les
+conditions essentielles de la vente, les modalités de visite et statue, à la demande du liquidateur ou d'une des parties, sur
+les mesures de publicité de la vente dans les conditions des articles R. 322-37 et R. 322-38 du code des procédures civiles
 d'exécution. 
 
 Le juge qui fixe ou modifie la mise à prix précise qu'à défaut d'enchères la vente pourra se faire à une mise à prix
@@ -58490,19 +58722,21 @@ Haut-Rhin et de la Moselle.
 Le créancier qui avait engagé la procédure de saisie immobilière remet contre récépissé au liquidateur, sur sa demande, les
 pièces de la poursuite. Ses frais de procédure lui sont restitués dans la distribution.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -58518,8 +58752,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des procédures civiles d'exécution - art. R322-37 (V)
-  - Code des procédures civiles d'exécution - art. R322-38 (V)
+  - Code des procédures civiles d'exécution - art. R322-37
+  - Code des procédures civiles d'exécution - art. R322-38
 
 
 ###### Article R742-32
@@ -58558,7 +58792,7 @@ _Cite_:
 Dans un délai de deux mois à compter de la publication du jugement prononcé en application de l'article R. 742-28 ou de la
 mention du jugement pris en application de l'article R. 742-31 en marge de la copie du commandement publié au service chargé
 de la publicité foncière, le liquidateur établit un cahier des conditions de vente et le dépose au greffe du juge chargé des
-saisies immobilières du tribunal de grande instance compétent. 
+saisies immobilières du   tribunal judiciaire compétent. 
 
 Par exception à l'article R. 322-10 du code des procédures civiles d'exécution, le cahier des conditions de ventes
 contient : 
@@ -58573,15 +58807,20 @@ celui-ci et le procès-verbal de description ;
 3° La mention de la mise à prix, des conditions de la vente et des modalités de paiement du prix selon les règles prévues à
 l'article R. 742-38.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-884 du 29 juin 2016 - art.
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -58589,9 +58828,9 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. R742-28 (V)
-  - Code de la consommation - art. R742-31 (V)
-  - Code des procédures civiles d'exécution - art. R322-10 (V)
+  - Code de la consommation - art. R742-28
+  - Code de la consommation - art. R742-31
+  - Code des procédures civiles d'exécution - art. R322-10
 
 
 ###### Article R742-34
@@ -58846,7 +59085,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-60 (Ab)
 
 
-##### Sous-section 3 : Répartition du produit des actifs<a id=738></a>
+##### Sous-section 3 : Répartition du produit des actifs<a id=739></a>
 
 ###### Article R742-42
 
@@ -58901,17 +59140,23 @@ _Cite_:
 ###### Article R742-44
 
 Afin de répartir le produit des ventes, le liquidateur élabore un projet de distribution. A cette fin, il peut convoquer les
-créanciers.
+créanciers. 
 
-Le projet de distribution est notifié aux créanciers et au débiteur par lettre recommandée avec demande d'avis de réception.
+Le projet de distribution est notifié aux créanciers et au débiteur par lettre recommandée avec demande d'avis de réception. 
 
-Cette lettre indique :
+Cette lettre indique : 
 
 1° Qu'une contestation peut être formée, pièces justificatives à l'appui, auprès du liquidateur par lettre recommandée avec
-demande d'avis de réception dans un délai de quinze jours à compter de sa notification ;
+demande d'avis de réception dans un délai de quinze jours à compter de sa notification ; 
 
-2° Qu'à défaut de contestation dans ce délai le projet est réputé accepté et sera soumis au juge du tribunal d'instance pour
-homologation.
+2° Qu'à défaut de contestation dans ce délai le projet est réputé accepté et sera soumis au     juge des contentieux de la
+protection pour homologation.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -58919,13 +59164,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -58933,23 +59174,29 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code de la consommation - art. R742-45 (V)
+  - Code de la consommation - art. R742-45 (VD)
 
 
 ###### Article R742-45
 
 En l'absence de contestation dans le délai prévu à l'article R. 742-44, le liquidateur transmet le projet de distribution,
-accompagné des justificatifs de réception de ce projet par les créanciers et le débiteur, au juge du tribunal d'instance aux
-fins d'homologation. 
+accompagné des justificatifs de réception de ce projet par les créanciers et le débiteur, au     juge des contentieux de la
+protection aux fins d'homologation. 
 
 En cas de vente d'un immeuble, le liquidateur y joint un état hypothécaire postérieur à la publication de la vente et, le cas
 échéant, les autorisations de mainlevée des inscriptions et radiation du commandement de payer valant saisie immobilière. En
 cas de vente forcée d'un immeuble, il y joint, en outre, le jugement d'adjudication. 
 
-Le juge du tribunal d'instance confère force exécutoire au projet de distribution, par ordonnance, après avoir vérifié que
-les créanciers et le débiteur ont pu faire valoir leurs contestations dans le délai prévu à l'article R. 742-44. 
+Le     juge des contentieux de la protection confère force exécutoire au projet de distribution, par ordonnance, après avoir
+vérifié que les créanciers et le débiteur ont pu faire valoir leurs contestations dans le délai prévu à l'article R. 742-44. 
 
 Une copie de l'ordonnance est adressée au liquidateur par le greffe par lettre simple.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -58957,13 +59204,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -58971,11 +59214,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. R742-44 (V)
+  - Code de la consommation - art. R742-44 (VD)
 
 _Cité par_:
 
-  - Code de la consommation - art. R742-46 (V)
+  - Code de la consommation - art. R742-46 (VD)
 
 
 ###### Article R742-46
@@ -58986,13 +59229,19 @@ Si les créanciers et le débiteur parviennent à un accord sur la distribution 
 inscriptions et publications, il en est dressé un procès-verbal signé des créanciers et du débiteur. Une copie leur en est
 remise ou adressée. 
 
-Le liquidateur transmet ce procès-verbal d'accord au juge du tribunal d'instance aux fins d'homologation. En cas de vente
-d'un immeuble, il y joint les documents mentionnés au deuxième alinéa de l'article R. 742-45. 
+Le liquidateur transmet ce procès-verbal d'accord au     juge des contentieux de la protection aux fins d'homologation. En
+cas de vente d'un immeuble, il y joint les documents mentionnés au deuxième alinéa de l'article R. 742-45. 
 
-Le juge du tribunal d'instance confère force exécutoire au procès-verbal, par ordonnance, après en avoir vérifié la
-régularité. 
+Le     juge des contentieux de la protection confère force exécutoire au procès-verbal, par ordonnance, après en avoir
+vérifié la régularité. 
 
 Une copie de l'ordonnance est adressée au liquidateur par le greffe par lettre simple.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -59000,13 +59249,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -59014,18 +59259,24 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la consommation - art. R742-45 (V)
+  - Code de la consommation - art. R742-45 (VD)
 
 
 ###### Article R742-47
 
 A défaut d'accord sur la distribution constaté dans les conditions prévues par les dispositions de l'article R. 742-46, le
-liquidateur transmet au juge du tribunal d'instance le projet de distribution, un procès-verbal exposant les difficultés
-rencontrées ainsi que tous documents utiles.
+liquidateur transmet au     juge des contentieux de la protection le projet de distribution, un procès-verbal exposant les
+difficultés rencontrées ainsi que tous documents utiles. 
 
 Si la difficulté porte, en tout ou partie, sur la répartition du prix d'un immeuble, le liquidateur saisit le juge chargé des
 saisies immobilières par voie d'assignation des créanciers participant à la distribution. L'assignation expose les
 difficultés rencontrées ; elle est accompagnée de tous documents utiles.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -59033,13 +59284,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -59048,13 +59295,19 @@ _Anciens textes_:
 
 ###### Article R742-48
 
-Le juge du tribunal d'instance ou, le cas échéant, le juge chargé des saisies immobilières établit l'état de répartition et
-statue sur les frais de distribution. Le cas échéant, il ordonne la radiation des inscriptions des hypothèques et privilèges
-sur l'immeuble.
+Le     juge des contentieux de la protection ou, le cas échéant, le juge chargé des saisies immobilières établit l'état de
+répartition et statue sur les frais de distribution. Le cas échéant, il ordonne la radiation des inscriptions des hypothèques
+et privilèges sur l'immeuble. 
 
-L'appel contre le jugement établissant l'état de répartition a un effet suspensif.
+L'appel contre le jugement établissant l'état de répartition a un effet suspensif. 
 
 Une copie du jugement est adressée au liquidateur par le greffe par lettre simple.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -59062,13 +59315,9 @@ _Codifié par_:
 
   - Décret n°2016-884 du 29 juin 2016 - art.
 
-_Créé par_:
-
-  - Décret n°2016-884 du 29 juin 2016 - art.
-
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Anciens textes_:
 
@@ -59167,7 +59416,7 @@ _Cité par_:
   - Code de la consommation - art. R742-19 (V)
 
 
-##### Section 4 : Clôture de la procédure<a id=739></a>
+##### Section 4 : Clôture de la procédure<a id=740></a>
 
 ###### Article R742-53
 
@@ -59261,7 +59510,7 @@ _Cite_:
   - Code de la consommation - art. R741-1
 
 
-##### Section 5 : Plan<a id=740></a>
+##### Section 5 : Plan<a id=741></a>
 
 ###### Article R742-56
 
@@ -59330,7 +59579,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-75 (Ab)
 
 
-#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=741></a>
+#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=742></a>
 
 ###### Article R743-1
 
@@ -59403,9 +59652,9 @@ _Anciens textes_:
   - Code de la consommation - art. R334-77 (Ab)
 
 
-### Titre VI : SANCTIONS<a id=742></a>
+### Titre VI : SANCTIONS<a id=743></a>
 
-#### Chapitre Ier : Sanctions civiles<a id=743></a>
+#### Chapitre Ier : Sanctions civiles<a id=744></a>
 
 ###### Article R761-1
 
@@ -59440,11 +59689,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*247-18 (V)
 
 
-### Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=744></a>
+### Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=745></a>
 
-#### Chapitre unique : Traitement des situations de surendettement<a id=745></a>
+#### Chapitre unique : Traitement des situations de surendettement<a id=746></a>
 
-##### Section 1 : Dispositions relatives aux îles Wallis et Futuna<a id=746></a>
+##### Section 1 : Dispositions relatives aux îles Wallis et Futuna<a id=747></a>
 
 ###### Article R771-1
 
@@ -59865,8 +60114,8 @@ finances publiques des îles Wallis et Futuna ;
 7° Les références au site internet de la Banque de France sont remplacées par les références au site internet de l'institut
 d'émission d'outre-mer ;
 
-8° Les références au tribunal d'instance et au juge du tribunal d'instance sont remplacées par les références au tribunal de
-première instance et au juge du tribunal de première instance ;
+8° Les références au tribunal judiciaire et au juge des contentieux de la protection sont remplacées par les références au
+tribunal de première instance et au juge du tribunal de première instance ;
 
 9° Les références aux dispositions des articles L. 733-7, L. 722-4 et L. 722-6 ne sont pas applicables ;
 
@@ -59876,15 +60125,17 @@ familles sont remplacées par les références aux dispositions applicables loca
 11° Les dispositions relatives aux ventes d'immeubles, aux saisies immobilières, au juge chargé des saisies immobilières et
 au prix d'un immeuble ne sont pas applicables.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-1166 du 12 juillet 2017 - art. 5
 
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 _Cite_:
 
@@ -59900,7 +60151,7 @@ _Cite_:
   - Code de la consommation - art. R771-1
 
 
-##### Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin<a id=747></a>
+##### Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin<a id=748></a>
 
 ###### Article R771-3
 
@@ -59942,7 +60193,7 @@ _Créé par_:
   - Décret n°2017-1166 du 12 juillet 2017 - art. 5
 
 
-##### Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon<a id=748></a>
+##### Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon<a id=749></a>
 
 ###### Article R771-5
 
@@ -59973,10 +60224,10 @@ sont remplacées par les références au trésorier-payeur général de la colle
 
 3° Les références au tribunal d'instance sont remplacées par les références au tribunal de première instance ;
 
-4° Les mots : “ juge du tribunal d'instance ” sont remplacés par les mots : “ président du tribunal de première instance ou
-le juge délégué par lui ”, le mot : “ juge ” est remplacé par les mots : “ président du tribunal de première instance ou le
-juge délégué par lui ” et les mots : “ premier président de la cour d'appel ” sont remplacés par les mots : “ président du
-tribunal supérieur d'appel ” ;
+4° Les mots : “ juge des contentieux de la protection ” sont remplacés par les mots : “ président du tribunal de première
+instance ou le juge délégué par lui ”, le mot : “ juge ” est remplacé par les mots : “ président du tribunal de première
+instance ou le juge délégué par lui ” et les mots : “ premier président de la cour d'appel ” sont remplacés par les mots : “
+président du tribunal supérieur d'appel ” ;
 
 5° Les références au département sont remplacées par les références à la collectivité ;
 
@@ -59984,22 +60235,24 @@ tribunal supérieur d'appel ” ;
 Miquelon, à des dispositions qui n'y sont pas applicables, sont remplacées par les références aux dispositions ayant le même
 objet applicables localement.
 
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
+
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2017-1166 du 12 juillet 2017 - art. 5
 
 _Modifié par_:
 
-  - Décret n°2019-913 du 30 août 2019 - art. 8 (VD)
+  - Décret n°2019-913 du 30 août 2019 - art. 8
 
 
-## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=749></a>
+## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=750></a>
 
-### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=750></a>
+### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=751></a>
 
-#### Chapitre Ier : Agrément des associations<a id=751></a>
+#### Chapitre Ier : Agrément des associations<a id=752></a>
 
 ###### Article R811-1
 
@@ -60213,7 +60466,7 @@ _Anciens textes_:
   - Code de la consommation - art. R411-7 (Ab)
 
 
-#### Chapitre II : Reconnaissance spécifique des associations<a id=752></a>
+#### Chapitre II : Reconnaissance spécifique des associations<a id=753></a>
 
 ###### Article R812-1
 
@@ -60321,11 +60574,11 @@ _Cite_:
   - Code de la consommation - art. R812-1 (V)
 
 
-### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=753></a>
+### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=754></a>
 
-#### Chapitre Ier : Conseil national de la consommation<a id=754></a>
+#### Chapitre Ier : Conseil national de la consommation<a id=755></a>
 
-##### Section 1 : Missions et attributions<a id=755></a>
+##### Section 1 : Missions et attributions<a id=756></a>
 
 ###### Article D821-1
 
@@ -60441,7 +60694,7 @@ _Anciens textes_:
   - Code de la consommation - art. D511-4 (Ab)
 
 
-##### Section 2 : Composition et organisation<a id=756></a>
+##### Section 2 : Composition et organisation<a id=757></a>
 
 ###### Article D821-5
 
@@ -60655,7 +60908,7 @@ _Cité par_:
   - Code de la consommation - art. D821-9 (V)
 
 
-##### Section 3 : Fonctionnement<a id=757></a>
+##### Section 3 : Fonctionnement<a id=758></a>
 
 ###### Article D821-12
 
@@ -60823,9 +61076,9 @@ _Anciens textes_:
   - Code de la consommation - art. D511-17 (Ab)
 
 
-#### Chapitre II : Institut national de la consommation<a id=758></a>
+#### Chapitre II : Institut national de la consommation<a id=759></a>
 
-##### Section 1 : Missions et fonctionnement<a id=759></a>
+##### Section 1 : Missions et fonctionnement<a id=760></a>
 
 ###### Article R822-1
 
@@ -61259,7 +61512,7 @@ _Cité par_:
   - Code de la consommation - art. R822-32 (V)
 
 
-##### Section 2 : Organes consultatifs<a id=760></a>
+##### Section 2 : Organes consultatifs<a id=761></a>
 
 ###### Article R822-13
 
@@ -61283,7 +61536,7 @@ _Anciens textes_:
   - Code de la consommation - art. R532-1 (Ab)
 
 
-##### Section 3 : Dispositions financières et comptables<a id=761></a>
+##### Section 3 : Dispositions financières et comptables<a id=762></a>
 
 ###### Article R822-14
 
@@ -61390,7 +61643,7 @@ _Cite_:
   - Code de la consommation - art. L822-4
 
 
-##### Section 4 : Commission des clauses abusives<a id=762></a>
+##### Section 4 : Commission des clauses abusives<a id=763></a>
 
 ###### Article R822-18
 
@@ -61653,9 +61906,9 @@ _Cite_:
   - Code de la consommation - art. R822-12
 
 
-#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=763></a>
+#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=764></a>
 
-##### Section 1 : Organisation et fonctionnement<a id=764></a>
+##### Section 1 : Organisation et fonctionnement<a id=765></a>
 
 ###### Article R823-1
 
@@ -62124,7 +62377,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-##### Section 2 : Dispositions financières et comptables<a id=765></a>
+##### Section 2 : Dispositions financières et comptables<a id=766></a>
 
 ###### Article R823-15
 
@@ -62245,7 +62498,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-##### Section 3 : Dispositions diverses<a id=766></a>
+##### Section 3 : Dispositions diverses<a id=767></a>
 
 ###### Article R823-20
 
@@ -62268,7 +62521,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-#### Chapitre IV : Conseil national de l'alimentation<a id=767></a>
+#### Chapitre IV : Conseil national de l'alimentation<a id=768></a>
 
 ###### Article D824-1
 
@@ -62392,7 +62645,8 @@ h) Le collège constitué de treize personnalités désignées en raison de leur
 a) Le directeur de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, ou son
 représentant ; 
 
-b) Le directeur de l'Institut national de la recherche agronomique, ou son représentant ; 
+b) Le directeur de l'     Institut national de recherche pour l'agriculture, l'alimentation et l'environnement, ou son
+représentant ; 
 
 c) Le directeur de l'Institut national de la santé et de la recherche médicale, ou son représentant ; 
 
@@ -62445,7 +62699,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-794 du 26 juillet 2019 - art. 1
+  - Décret n°2019-1046 du 10 octobre 2019 - art. 27
 
 _Anciens textes_:
 
@@ -62564,7 +62818,7 @@ _Anciens textes_:
   - Code de la consommation - art. D541-7 (Ab)
 
 
-## Annexes<a id=768></a>
+## Annexes<a id=769></a>
 
 ###### Article Annexe à l'article D312-26
 
