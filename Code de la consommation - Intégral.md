@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-30
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -706,69 +706,68 @@ Version Consolidée au 2020-01-01
         - [Chapitre II : Les commissions de surendettement des particuliers (art. R712-1 à R712-20)](#703)
           - [Section 1 : Organisation et fonctionnement (art. R712-1 à R712-12)](#704)
           - [Section 2 : Procédures devant les commissions (art. R712-13 à R712-20)](#705)
-        - [Chapitre III : Compétence du juge du tribunal d'instance (art.  à R712-20)](#706)
-        - [Chapitre III : Compétence du juge des contentieux de la protection (art. R713-1 à R713-11)](#707)
-      - [Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT (art. R721-1 à R724-8)](#708)
-        - [Chapitre Ier : Saisine de la commission de surendettement des particuliers (art. R721-1 à R721-8)](#709)
-        - [Chapitre II : Recevabilité de la demande (art. R722-1 à R722-11)](#710)
-          - [Section 1 : Examen de la recevabilité de la demande (art. R722-1 à R722-4)](#711)
-          - [Section 2 : Effets de la décision de recevabilité (art. R722-5 à R722-11)](#712)
-            - [Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R722-5 à R722-8)](#713)
-            - [Sous-section 2 : Suspension des mesures d'expulsion (art. R722-9 à R722-10)](#714)
-            - [Sous-section 3 : Emoluments supportés par le débiteur (art. R722-11)](#715)
-        - [Chapitre III : Etat du passif (art. R723-1 à R723-8)](#716)
-          - [Section 1 : Etat du passif dressé par la commission (art. R723-1 à R723-5)](#717)
-          - [Section 2 : Vérification des créances (art. R723-6 à R723-8)](#718)
-        - [Chapitre IV : Orientation du dossier (art. R724-1 à R724-8)](#719)
-      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R731-1 à R733-18)](#720)
-        - [Chapitre Ier : Détermination de la capacité de remboursement (art. R731-1 à R731-3)](#721)
-        - [Chapitre II : Plan conventionnel (art. D732-3 à R732-2)](#722)
-        - [Chapitre III : Mesures imposées (art. R733-1 à R733-18)](#723)
-          - [Section 1 : Contenu et adoption des mesures imposées (art. R733-1 à R733-9)](#724)
-          - [Section 2 : Contestation des mesures imposées (art. R733-14 à R733-17-1)](#725)
-          - [Section 3 : Dispositions communes aux mesures imposées et à leur contestation (art. R733-18)](#726)
-      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. R741-1 à R743-2)](#727)
-        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-18)](#728)
-          - [Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-5)](#729)
-          - [Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. R741-10 à R741-14)](#730)
-          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées (art. R741-15 à R741-18)](#731)
-        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. R742-1 à R742-57)](#732)
-          - [Section 1 : Ouverture de la procédure (art. R742-1 à R742-10)](#733)
-          - [Section 2 : Déclaration et arrêté des créances (art. R742-11 à R742-17)](#734)
-          - [Section 3 : Liquidation des biens du débiteur (art. R742-18 à R742-52)](#735)
-            - [Sous-section 1 : Dispositions générales (art. R742-18 à R742-26)](#736)
-            - [Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R742-27 à R742-41)](#737)
-            - [Sous-section 3 : Répartition du produit des actifs (art. R742-42 à R742-52)](#738)
-          - [Section 4 : Clôture de la procédure (art. R742-53 à R742-55-1)](#739)
-          - [Section 5 : Plan (art. R742-56 à R742-57)](#740)
-        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. R743-1 à R743-2)](#741)
-      - [Titre VI : SANCTIONS (art. R761-1)](#742)
-        - [Chapitre Ier : Sanctions civiles (art. R761-1)](#743)
-      - [Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R771-1 à R771-6)](#744)
-        - [Chapitre unique : Traitement des situations de surendettement (art. R771-1 à R771-6)](#745)
-          - [Section 1 : Dispositions relatives aux îles Wallis et Futuna (art. R771-1 à R771-2)](#746)
-          - [Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin (art. R771-3 à R771-4)](#747)
-          - [Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon (art. R771-5 à R771-6)](#748)
-    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R811-1 à D824-8)](#749)
-      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. R811-1 à R812-3)](#750)
-        - [Chapitre Ier : Agrément des associations (art. R811-1 à R811-7)](#751)
-        - [Chapitre II : Reconnaissance spécifique des associations (art. R812-1 à R812-3)](#752)
-      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. D821-1 à D824-8)](#753)
-        - [Chapitre Ier : Conseil national de la consommation (art. D821-1 à D821-17)](#754)
-          - [Section 1 : Missions et attributions (art. D821-1 à D821-4)](#755)
-          - [Section 2 : Composition et organisation (art. D821-5 à D821-11)](#756)
-          - [Section 3 : Fonctionnement (art. D821-12 à D821-17)](#757)
-        - [Chapitre II : Institut national de la consommation (art. R822-1 à R822-32)](#758)
-          - [Section 1 : Missions et fonctionnement (art. R822-1 à R822-12)](#759)
-          - [Section 2 : Organes consultatifs (art. R822-13)](#760)
-          - [Section 3 : Dispositions financières et comptables (art. R822-14 à R822-17)](#761)
-          - [Section 4 : Commission des clauses abusives (art. R822-18 à R822-32)](#762)
-        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. R823-1 à R823-20)](#763)
-          - [Section 1 : Organisation et fonctionnement (art. R823-1 à R823-14)](#764)
-          - [Section 2 : Dispositions financières et comptables (art. R823-15 à R823-19)](#765)
-          - [Section 3 : Dispositions diverses (art. R823-20)](#766)
-        - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#767)
-    - [Annexes (art. Annexe à l'article D312-26 à Annexe à l'article R314-20)](#768)
+        - [Chapitre III : Compétence du juge des contentieux de la protection (art. R713-1 à R713-11)](#706)
+      - [Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT (art. R721-1 à R724-8)](#707)
+        - [Chapitre Ier : Saisine de la commission de surendettement des particuliers (art. R721-1 à R721-8)](#708)
+        - [Chapitre II : Recevabilité de la demande (art. R722-1 à R722-11)](#709)
+          - [Section 1 : Examen de la recevabilité de la demande (art. R722-1 à R722-4)](#710)
+          - [Section 2 : Effets de la décision de recevabilité (art. R722-5 à R722-11)](#711)
+            - [Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération (art. R722-5 à R722-8)](#712)
+            - [Sous-section 2 : Suspension des mesures d'expulsion (art. R722-9 à R722-10)](#713)
+            - [Sous-section 3 : Emoluments supportés par le débiteur (art. R722-11)](#714)
+        - [Chapitre III : Etat du passif (art. R723-1 à R723-8)](#715)
+          - [Section 1 : Etat du passif dressé par la commission (art. R723-1 à R723-5)](#716)
+          - [Section 2 : Vérification des créances (art. R723-6 à R723-8)](#717)
+        - [Chapitre IV : Orientation du dossier (art. R724-1 à R724-8)](#718)
+      - [Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT (art. R731-1 à R733-18)](#719)
+        - [Chapitre Ier : Détermination de la capacité de remboursement (art. R731-1 à R731-3)](#720)
+        - [Chapitre II : Plan conventionnel (art. D732-3 à R732-2)](#721)
+        - [Chapitre III : Mesures imposées (art. R733-1 à R733-18)](#722)
+          - [Section 1 : Contenu et adoption des mesures imposées (art. R733-1 à R733-9)](#723)
+          - [Section 2 : Contestation des mesures imposées (art. R733-14 à R733-17-1)](#724)
+          - [Section 3 : Dispositions communes aux mesures imposées et à leur contestation (art. R733-18)](#725)
+      - [Titre IV : RÉTABLISSEMENT PERSONNEL (art. R741-1 à R743-2)](#726)
+        - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-18)](#727)
+          - [Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. R741-1 à R741-5)](#728)
+          - [Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire (art. R741-10 à R741-14)](#729)
+          - [Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées (art. R741-15 à R741-18)](#730)
+        - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire (art. R742-1 à R742-57)](#731)
+          - [Section 1 : Ouverture de la procédure (art. R742-1 à R742-10)](#732)
+          - [Section 2 : Déclaration et arrêté des créances (art. R742-11 à R742-17)](#733)
+          - [Section 3 : Liquidation des biens du débiteur (art. R742-18 à R742-52)](#734)
+            - [Sous-section 1 : Dispositions générales (art. R742-18 à R742-26)](#735)
+            - [Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier (art. R742-27 à R742-41)](#736)
+            - [Sous-section 3 : Répartition du produit des actifs (art. R742-42 à R742-52)](#737)
+          - [Section 4 : Clôture de la procédure (art. R742-53 à R742-55-1)](#738)
+          - [Section 5 : Plan (art. R742-56 à R742-57)](#739)
+        - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire (art. R743-1 à R743-2)](#740)
+      - [Titre VI : SANCTIONS (art. R761-1)](#741)
+        - [Chapitre Ier : Sanctions civiles (art. R761-1)](#742)
+      - [Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R771-1 à R771-6)](#743)
+        - [Chapitre unique : Traitement des situations de surendettement (art. R771-1 à R771-6)](#744)
+          - [Section 1 : Dispositions relatives aux îles Wallis et Futuna (art. R771-1 à R771-2)](#745)
+          - [Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin (art. R771-3 à R771-4)](#746)
+          - [Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon (art. R771-5 à R771-6)](#747)
+    - [Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION (art. R811-1 à D824-8)](#748)
+      - [Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS (art. R811-1 à R812-3)](#749)
+        - [Chapitre Ier : Agrément des associations (art. R811-1 à R811-7)](#750)
+        - [Chapitre II : Reconnaissance spécifique des associations (art. R812-1 à R812-3)](#751)
+      - [Titre II : INSTITUTIONS DE LA CONSOMMATION (art. D821-1 à D824-8)](#752)
+        - [Chapitre Ier : Conseil national de la consommation (art. D821-1 à D821-17)](#753)
+          - [Section 1 : Missions et attributions (art. D821-1 à D821-4)](#754)
+          - [Section 2 : Composition et organisation (art. D821-5 à D821-11)](#755)
+          - [Section 3 : Fonctionnement (art. D821-12 à D821-17)](#756)
+        - [Chapitre II : Institut national de la consommation (art. R822-1 à R822-32)](#757)
+          - [Section 1 : Missions et fonctionnement (art. R822-1 à R822-12)](#758)
+          - [Section 2 : Organes consultatifs (art. R822-13)](#759)
+          - [Section 3 : Dispositions financières et comptables (art. R822-14 à R822-17)](#760)
+          - [Section 4 : Commission des clauses abusives (art. R822-18 à R822-32)](#761)
+        - [Chapitre III : Laboratoire national de métrologie et d'essais (art. R823-1 à R823-20)](#762)
+          - [Section 1 : Organisation et fonctionnement (art. R823-1 à R823-14)](#763)
+          - [Section 2 : Dispositions financières et comptables (art. R823-15 à R823-19)](#764)
+          - [Section 3 : Dispositions diverses (art. R823-20)](#765)
+        - [Chapitre IV : Conseil national de l'alimentation (art. D824-1 à D824-8)](#766)
+    - [Annexes (art. Annexe à l'article D312-26 à Annexe à l'article R314-20)](#767)
 # Partie législative nouvelle<a id=1></a>
 
 ###### Article liminaire
@@ -55809,9 +55808,7 @@ _Cité par_:
   - Code de la consommation - art. R771-2 (VD)
 
 
-#### Chapitre III : Compétence du juge du tribunal d'instance<a id=706></a>
-
-#### Chapitre III : Compétence du juge des contentieux de la protection<a id=707></a>
+#### Chapitre III : Compétence du juge des contentieux de la protection<a id=706></a>
 
 ###### Article R713-1
 
@@ -56142,9 +56139,9 @@ _Cité par_:
   - Code de la consommation - art. R733-17-1 (V)
 
 
-### Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT<a id=708></a>
+### Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT<a id=707></a>
 
-#### Chapitre Ier : Saisine de la commission de surendettement des particuliers<a id=709></a>
+#### Chapitre Ier : Saisine de la commission de surendettement des particuliers<a id=708></a>
 
 ###### Article R721-1
 
@@ -56383,9 +56380,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-11-2, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre II : Recevabilité de la demande<a id=710></a>
+#### Chapitre II : Recevabilité de la demande<a id=709></a>
 
-##### Section 1 : Examen de la recevabilité de la demande<a id=711></a>
+##### Section 1 : Examen de la recevabilité de la demande<a id=710></a>
 
 ###### Article R722-1
 
@@ -56507,9 +56504,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-10, alinéa 3 (Ab)
 
 
-##### Section 2 : Effets de la décision de recevabilité<a id=712></a>
+##### Section 2 : Effets de la décision de recevabilité<a id=711></a>
 
-##### Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=713></a>
+##### Sous-section 1 : Suspension et interdiction des procédures d'exécution et cessions de rémunération<a id=712></a>
 
 ###### Article R722-5
 
@@ -56620,7 +56617,7 @@ _Anciens textes_:
   - Code de la consommation - art. R331-11-3 (Ab)
 
 
-##### Sous-section 2 : Suspension des mesures d'expulsion<a id=714></a>
+##### Sous-section 2 : Suspension des mesures d'expulsion<a id=713></a>
 
 ###### Article R722-9
 
@@ -56675,7 +56672,7 @@ _Anciens textes_:
   - Code de la consommation - art. R331-12, alinéa 2 (Ab)
 
 
-##### Sous-section 3 : Emoluments supportés par le débiteur<a id=715></a>
+##### Sous-section 3 : Emoluments supportés par le débiteur<a id=714></a>
 
 ###### Article R722-11
 
@@ -56703,9 +56700,9 @@ _Anciens textes_:
   - Code de la consommation - art. R331-13 (Ab)
 
 
-#### Chapitre III : Etat du passif<a id=716></a>
+#### Chapitre III : Etat du passif<a id=715></a>
 
-##### Section 1 : Etat du passif dressé par la commission<a id=717></a>
+##### Section 1 : Etat du passif dressé par la commission<a id=716></a>
 
 ###### Article R723-1
 
@@ -56866,7 +56863,7 @@ _Anciens textes_:
   - Code de la consommation - art. R332-2, alinéa 3 (Ab)
 
 
-##### Section 2 : Vérification des créances<a id=718></a>
+##### Section 2 : Vérification des créances<a id=717></a>
 
 ###### Article R723-6
 
@@ -56946,7 +56943,7 @@ _Cité par_:
   - Code de la consommation - art. R723-5 (V)
 
 
-#### Chapitre IV : Orientation du dossier<a id=719></a>
+#### Chapitre IV : Orientation du dossier<a id=718></a>
 
 ###### Article R724-1
 
@@ -57182,9 +57179,9 @@ _Modifié par_:
   - Décret n°2017-896 du 9 mai 2017 - art. 2
 
 
-### Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=720></a>
+### Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT<a id=719></a>
 
-#### Chapitre Ier : Détermination de la capacité de remboursement<a id=721></a>
+#### Chapitre Ier : Détermination de la capacité de remboursement<a id=720></a>
 
 ###### Article R731-1
 
@@ -57274,7 +57271,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-1, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre II : Plan conventionnel<a id=722></a>
+#### Chapitre II : Plan conventionnel<a id=721></a>
 
 ###### Article D732-3
 
@@ -57341,9 +57338,9 @@ _Cite_:
   - Code de la consommation - art. L722-4
 
 
-#### Chapitre III : Mesures imposées<a id=723></a>
+#### Chapitre III : Mesures imposées<a id=722></a>
 
-##### Section 1 : Contenu et adoption des mesures imposées<a id=724></a>
+##### Section 1 : Contenu et adoption des mesures imposées<a id=723></a>
 
 ###### Article R733-1
 
@@ -57636,7 +57633,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-9 (Ab)
 
 
-##### Section 2 : Contestation des mesures imposées<a id=725></a>
+##### Section 2 : Contestation des mesures imposées<a id=724></a>
 
 ###### Article R733-14
 
@@ -57780,7 +57777,7 @@ _Cité par_:
   - Code de la consommation - art. R742-56-1 (V)
 
 
-##### Section 3 : Dispositions communes aux mesures imposées et à leur contestation<a id=726></a>
+##### Section 3 : Dispositions communes aux mesures imposées et à leur contestation<a id=725></a>
 
 ###### Article R733-18
 
@@ -57822,11 +57819,11 @@ _Cité par_:
   - Code monétaire et financier - art. R131-21-1 (V)
 
 
-### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=727></a>
+### Titre IV : RÉTABLISSEMENT PERSONNEL<a id=726></a>
 
-#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=728></a>
+#### Chapitre Ier : Rétablissement personnel sans liquidation judiciaire<a id=727></a>
 
-##### Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=729></a>
+##### Section 1 : Décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=728></a>
 
 ###### Article R741-1
 
@@ -57982,7 +57979,7 @@ _Cité par_:
   - Code de la consommation - art. R743-1 (V)
 
 
-##### Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=730></a>
+##### Section 2 : Contestation de la décision de la commission imposant un rétablissement personnel sans liquidation judiciaire<a id=729></a>
 
 ###### Article R741-10
 
@@ -58130,7 +58127,7 @@ _Modifié par_:
   - Décret n°2017-896 du 9 mai 2017 - art. 14
 
 
-##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées<a id=731></a>
+##### Section 3 : Rétablissement personnel sans liquidation judiciaire prononcé par le juge saisi d'un recours à l'encontre des mesures imposées<a id=730></a>
 
 ###### Article R741-15
 
@@ -58230,9 +58227,9 @@ _Modifié par_:
   - Décret n°2017-896 du 9 mai 2017 - art. 14
 
 
-#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=732></a>
+#### Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire<a id=731></a>
 
-##### Section 1 : Ouverture de la procédure<a id=733></a>
+##### Section 1 : Ouverture de la procédure<a id=732></a>
 
 ###### Article R742-1
 
@@ -58531,7 +58528,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-35 (Ab)
 
 
-##### Section 2 : Déclaration et arrêté des créances<a id=734></a>
+##### Section 2 : Déclaration et arrêté des créances<a id=733></a>
 
 ###### Article R742-11
 
@@ -58763,9 +58760,9 @@ _Cité par_:
   - Code de la consommation - art. R742-15 (VD)
 
 
-##### Section 3 : Liquidation des biens du débiteur<a id=735></a>
+##### Section 3 : Liquidation des biens du débiteur<a id=734></a>
 
-##### Sous-section 1 : Dispositions générales<a id=736></a>
+##### Sous-section 1 : Dispositions générales<a id=735></a>
 
 ###### Article R742-18
 
@@ -59003,7 +59000,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-47 (Ab)
 
 
-##### Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=737></a>
+##### Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier<a id=736></a>
 
 ###### Article R742-27
 
@@ -59521,7 +59518,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-60 (Ab)
 
 
-##### Sous-section 3 : Répartition du produit des actifs<a id=738></a>
+##### Sous-section 3 : Répartition du produit des actifs<a id=737></a>
 
 ###### Article R742-42
 
@@ -59852,7 +59849,7 @@ _Cité par_:
   - Code de la consommation - art. R742-19 (V)
 
 
-##### Section 4 : Clôture de la procédure<a id=739></a>
+##### Section 4 : Clôture de la procédure<a id=738></a>
 
 ###### Article R742-53
 
@@ -59946,7 +59943,7 @@ _Cite_:
   - Code de la consommation - art. R741-1
 
 
-##### Section 5 : Plan<a id=740></a>
+##### Section 5 : Plan<a id=739></a>
 
 ###### Article R742-56
 
@@ -60015,7 +60012,7 @@ _Anciens textes_:
   - Code de la consommation - art. R334-75 (Ab)
 
 
-#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=741></a>
+#### Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire<a id=740></a>
 
 ###### Article R743-1
 
@@ -60088,9 +60085,9 @@ _Anciens textes_:
   - Code de la consommation - art. R334-77 (Ab)
 
 
-### Titre VI : SANCTIONS<a id=742></a>
+### Titre VI : SANCTIONS<a id=741></a>
 
-#### Chapitre Ier : Sanctions civiles<a id=743></a>
+#### Chapitre Ier : Sanctions civiles<a id=742></a>
 
 ###### Article R761-1
 
@@ -60125,11 +60122,11 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*247-18 (V)
 
 
-### Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=744></a>
+### Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=743></a>
 
-#### Chapitre unique : Traitement des situations de surendettement<a id=745></a>
+#### Chapitre unique : Traitement des situations de surendettement<a id=744></a>
 
-##### Section 1 : Dispositions relatives aux îles Wallis et Futuna<a id=746></a>
+##### Section 1 : Dispositions relatives aux îles Wallis et Futuna<a id=745></a>
 
 ###### Article R771-1
 
@@ -60600,7 +60597,7 @@ _Cite_:
   - Code de la consommation - art. R771-1
 
 
-##### Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin<a id=747></a>
+##### Section 2 : Dispositions relatives à Saint-Barthélemy et à Saint-Martin<a id=746></a>
 
 ###### Article R771-3
 
@@ -60642,7 +60639,7 @@ _Créé par_:
   - Décret n°2017-1166 du 12 juillet 2017 - art. 5
 
 
-##### Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon<a id=748></a>
+##### Section 3 : Dispositions relatives à Saint-Pierre-et Miquelon<a id=747></a>
 
 ###### Article R771-5
 
@@ -60698,11 +60695,11 @@ _Modifié par_:
   - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 
-## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=749></a>
+## Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION<a id=748></a>
 
-### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=750></a>
+### Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS<a id=749></a>
 
-#### Chapitre Ier : Agrément des associations<a id=751></a>
+#### Chapitre Ier : Agrément des associations<a id=750></a>
 
 ###### Article R811-1
 
@@ -60916,7 +60913,7 @@ _Anciens textes_:
   - Code de la consommation - art. R411-7 (Ab)
 
 
-#### Chapitre II : Reconnaissance spécifique des associations<a id=752></a>
+#### Chapitre II : Reconnaissance spécifique des associations<a id=751></a>
 
 ###### Article R812-1
 
@@ -61024,11 +61021,11 @@ _Cite_:
   - Code de la consommation - art. R812-1 (V)
 
 
-### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=753></a>
+### Titre II : INSTITUTIONS DE LA CONSOMMATION<a id=752></a>
 
-#### Chapitre Ier : Conseil national de la consommation<a id=754></a>
+#### Chapitre Ier : Conseil national de la consommation<a id=753></a>
 
-##### Section 1 : Missions et attributions<a id=755></a>
+##### Section 1 : Missions et attributions<a id=754></a>
 
 ###### Article D821-1
 
@@ -61144,7 +61141,7 @@ _Anciens textes_:
   - Code de la consommation - art. D511-4 (Ab)
 
 
-##### Section 2 : Composition et organisation<a id=756></a>
+##### Section 2 : Composition et organisation<a id=755></a>
 
 ###### Article D821-5
 
@@ -61358,7 +61355,7 @@ _Cité par_:
   - Code de la consommation - art. D821-9 (V)
 
 
-##### Section 3 : Fonctionnement<a id=757></a>
+##### Section 3 : Fonctionnement<a id=756></a>
 
 ###### Article D821-12
 
@@ -61526,9 +61523,9 @@ _Anciens textes_:
   - Code de la consommation - art. D511-17 (Ab)
 
 
-#### Chapitre II : Institut national de la consommation<a id=758></a>
+#### Chapitre II : Institut national de la consommation<a id=757></a>
 
-##### Section 1 : Missions et fonctionnement<a id=759></a>
+##### Section 1 : Missions et fonctionnement<a id=758></a>
 
 ###### Article R822-1
 
@@ -61962,7 +61959,7 @@ _Cité par_:
   - Code de la consommation - art. R822-32 (V)
 
 
-##### Section 2 : Organes consultatifs<a id=760></a>
+##### Section 2 : Organes consultatifs<a id=759></a>
 
 ###### Article R822-13
 
@@ -61986,7 +61983,7 @@ _Anciens textes_:
   - Code de la consommation - art. R532-1 (Ab)
 
 
-##### Section 3 : Dispositions financières et comptables<a id=761></a>
+##### Section 3 : Dispositions financières et comptables<a id=760></a>
 
 ###### Article R822-14
 
@@ -62093,7 +62090,7 @@ _Cite_:
   - Code de la consommation - art. L822-4
 
 
-##### Section 4 : Commission des clauses abusives<a id=762></a>
+##### Section 4 : Commission des clauses abusives<a id=761></a>
 
 ###### Article R822-18
 
@@ -62356,9 +62353,9 @@ _Cite_:
   - Code de la consommation - art. R822-12
 
 
-#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=763></a>
+#### Chapitre III : Laboratoire national de métrologie et d'essais<a id=762></a>
 
-##### Section 1 : Organisation et fonctionnement<a id=764></a>
+##### Section 1 : Organisation et fonctionnement<a id=763></a>
 
 ###### Article R823-1
 
@@ -62827,7 +62824,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-##### Section 2 : Dispositions financières et comptables<a id=765></a>
+##### Section 2 : Dispositions financières et comptables<a id=764></a>
 
 ###### Article R823-15
 
@@ -62948,7 +62945,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-##### Section 3 : Dispositions diverses<a id=766></a>
+##### Section 3 : Dispositions diverses<a id=765></a>
 
 ###### Article R823-20
 
@@ -62971,7 +62968,7 @@ _Créé par_:
   - Décret n°2016-884 du 29 juin 2016 - art.
 
 
-#### Chapitre IV : Conseil national de l'alimentation<a id=767></a>
+#### Chapitre IV : Conseil national de l'alimentation<a id=766></a>
 
 ###### Article D824-1
 
@@ -63064,53 +63061,53 @@ _Cite_:
 
 ###### Article D824-4
 
-Le Conseil national de l'alimentation comprend : 
+Le Conseil national de l'alimentation comprend :
 
-1° soixante-deux membres répartis en huit collèges : 
+1° soixante-trois membres répartis en huit collèges :
 
-a) Le collège constitué de neuf représentants des associations nationales de défense des consommateurs ou d'usagers ; 
+a) Le collège constitué de neuf représentants des associations nationales de défense des consommateurs ou d'usagers ;
 
-b) Le collège constitué de neuf représentants des producteurs agricoles ; 
+b) Le collège constitué de neuf représentants des producteurs agricoles ;
 
-c) Le collège constitué de neuf représentants de la transformation, dont au moins un représentant de l'artisanat ; 
+c) Le collège constitué de neuf représentants de la transformation, dont au moins un représentant de l'artisanat ;
 
-d) Le collège constitué de quatre représentants de la distribution, dont au moins un représentant du commerce de gros ; 
+d) Le collège constitué de quatre représentants de la distribution, dont au moins un représentant du commerce de gros ;
 
-e) Le collège constitué de six représentants de la restauration ; 
+e) Le collège constitué de six représentants de la restauration ;
 
 f) Le collège constitué de cinq représentants des syndicats de salariés de l'agriculture, de l'agroalimentaire et de la
-distribution des produits alimentaires ; 
+distribution des produits alimentaires ;
 
-g) Le collège constitué de sept représentants d'associations : une association mettant en œuvre l'aide alimentaire habilitée
+g) Le collège constitué de huit représentants d'associations : une association mettant en œuvre l'aide alimentaire habilitée
 au niveau national en application de l'article L. 266-2 du code de l'action sociale et des familles, une association
 représentant les usagers du système de santé agréée au niveau national en application de l'article L. 1114-1 du code de la
-santé publique et trois associations de protection de l'environnement agréées au niveau national en application de l'article
-L. 141-1 du code de l'environnement, une association de protection animale et une association participant à la prévention et
-la lutte contre l'obésité ; 
+santé publique, trois associations de protection de l'environnement agréées au niveau national en application de l'article L.
+141-1 du code de l'environnement, une association de protection animale, une association participant à la prévention et la
+lutte contre l'obésité et une association représentant des étudiants engagés pour le développement durable ;
 
-h) Le collège constitué de treize personnalités désignées en raison de leur compétence en matière d'alimentation ; 
+h) Le collège constitué de treize personnalités désignées en raison de leur compétence en matière d'alimentation ;
 
-2° Neuf membres de droit : 
+2° Neuf membres de droit :
 
 a) Le directeur de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, ou son
-représentant ; 
+représentant ;
 
-b) Le directeur de l'     Institut national de recherche pour l'agriculture, l'alimentation et l'environnement, ou son
-représentant ; 
+b) Le directeur de l' Institut national de recherche pour l'agriculture, l'alimentation et l'environnement, ou son
+représentant ;
 
-c) Le directeur de l'Institut national de la santé et de la recherche médicale, ou son représentant ; 
+c) Le directeur de l'Institut national de la santé et de la recherche médicale, ou son représentant ;
 
-d) Le directeur de l'Institut français de recherche pour l'exploitation de la mer, ou son représentant ; 
+d) Le directeur de l'Institut français de recherche pour l'exploitation de la mer, ou son représentant ;
 
-e) Le directeur général de l'Agence de l'environnement et de la maîtrise de l'énergie, ou son représentant ; 
+e) Le directeur général de l'Agence de l'environnement et de la maîtrise de l'énergie, ou son représentant ;
 
-f) Le directeur de l'Institut national de la consommation, ou son représentant ; 
+f) Le directeur de l'Institut national de la consommation, ou son représentant ;
 
-g) Le président de l'Association des maires de France, ou son représentant ; 
+g) Le président de l'Association des maires de France, ou son représentant ;
 
-h) Le président de l'Association des départements de France, ou son représentant ; 
+h) Le président de l'Association des départements de France, ou son représentant ;
 
-i) Le président de l'Association des régions de France, ou son représentant. 
+i) Le président de l'Association des régions de France, ou son représentant.
 
 En outre, assistent de plein droit aux séances du conseil et participent aux débats avec voix consultative les représentants
 des ministres chargés :
@@ -63149,7 +63146,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1046 du 10 octobre 2019 - art. 27
+  - Décret n°2020-53 du 28 janvier 2020 - art. 1
 
 _Anciens textes_:
 
@@ -63268,7 +63265,7 @@ _Anciens textes_:
   - Code de la consommation - art. D541-7 (Ab)
 
 
-## Annexes<a id=768></a>
+## Annexes<a id=767></a>
 
 ###### Article Annexe à l'article D312-26
 
