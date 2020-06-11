@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2020-06-01
+Version Consolidée au 2020-06-12
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -306,9 +306,9 @@ Version Consolidée au 2020-06-01
     - [Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES (art. L411-1 à L463-1)](#303)
       - [Titre Ier : CONFORMITÉ (art. L411-1 à L414-1)](#304)
         - [Chapitre Ier : Obligation générale de conformité (art. L411-1 à L411-2)](#305)
-        - [Chapitre II : Mesures d'application (art. L412-1 à L412-11)](#306)
+        - [Chapitre II : Mesures d'application (art. L412-1 à L412-12)](#306)
           - [Section 1 : Mesures générales (art. L412-1 à L412-2)](#307)
-          - [Section 2 : Mesures spécifiques (art. L412-3 à L412-11)](#308)
+          - [Section 2 : Mesures spécifiques (art. L412-3 à L412-12)](#308)
         - [Chapitre III : Falsifications et autres infractions relatives aux produits (art. L413-1 à L413-9)](#309)
           - [Section 1 : Falsifications (art. L413-1 à L413-4)](#310)
           - [Section 2 : Autres infractions relatives aux produits (art. L413-5 à L413-9)](#311)
@@ -23542,20 +23542,24 @@ _Cité par_:
 ###### Article L412-1
 
 I.-Des décrets en Conseil d'Etat définissent les règles auxquelles doivent satisfaire les marchandises. Ils déterminent
-notamment : 
+notamment :
 
 1° Les conditions dans lesquelles l'exportation, l'offre, la vente, la distribution à titre gratuit, la détention,
-l'étiquetage, le conditionnement ou le mode d'utilisation des marchandises sont interdits ou réglementés ; 
+l'étiquetage, le conditionnement ou le mode d'utilisation des marchandises sont interdits ou réglementés ;
 
 2° Les conditions dans lesquelles la fabrication et l'importation des marchandises autres que les produits d'origine animale
 et les denrées alimentaires en contenant, les aliments pour animaux d'origine animale et les aliments pour animaux contenant
-des produits d'origine animale sont interdites ou réglementées ; 
+des produits d'origine animale sont interdites ou réglementées ;
 
 3° Les modes de présentation ou les inscriptions de toute nature sur les marchandises elles-mêmes, les emballages, les
 factures, les documents commerciaux ou documents de promotion, en ce qui concerne notamment : le mode de production, la
 nature, les qualités substantielles, la composition y compris, pour les denrées alimentaires, la composition nutritionnelle,
 la teneur en principes utiles, l'espèce, l'origine, l'identité, la quantité, l'aptitude à l'emploi, les modes d'emploi ainsi
 que les marques spéciales facultatives ou obligatoires apposées sur les marchandises françaises exportées à l'étranger ;
+
+3° bis S'agissant des inscriptions de toute nature relatives aux denrées alimentaires préemballées, les modalités de mise à
+la disposition du public en ligne des informations correspondantes par le responsable de la première mise sur le marché, dans
+les conditions prévues au livre III du code des relations entre le public et l'administration ;
 
 4° La définition, la composition et la dénomination des marchandises de toute nature, les traitements licites dont elles
 peuvent être l'objet, les caractéristiques qui les rendent impropres à la consommation ;
@@ -23587,17 +23591,21 @@ accompagnent leur commercialisation sous forme de mentions sur les emballages, l
 télémercatique ou d'insertions sur supports numériques ou électroniques ;
 
 11° Les conditions d'hygiène et de salubrité que doivent observer les personnes qui participent à la fabrication, à la
-transformation, au transport, à l'entreposage ou à la vente des produits. 
+transformation, au transport, à l'entreposage ou à la vente des produits.
 
-Les 1° à 11° s'appliquent aux prestations de services. 
+Les 1° à 11° s'appliquent aux prestations de services.
 
 II.-Les décrets mentionnés au I peuvent ordonner que des produits soient retirés du marché ou rappelés en vue de leur
 modification, de leur remboursement total ou partiel ou de leur échange, et prévoir des obligations relatives à l'information
 des consommateurs. Ils peuvent également ordonner la destruction de ces produits lorsque celle-ci constitue le seul moyen de
-faire cesser un danger. 
+faire cesser un danger.
 
 Ces décrets précisent les conditions dans lesquelles sont mis à la charge des fabricants, importateurs, distributeurs ou
 prestataires de services les frais afférents aux dispositions à prendre en vertu de la réglementation ainsi édictée.
+
+S'agissant des informations mentionnées au 3° bis du même I, ces décrets déterminent notamment le lieu de mise à disposition
+et le format des données de façon à constituer une base ouverte accessible à tous les utilisateurs et à permettre la
+réutilisation libre de ces données.
 
 **Liens relatifs à cet article**
 
@@ -23605,16 +23613,11 @@ _Codifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art.
 
-_Modifié par_:
-
-  - Loi n°2017-203 du 21 février 2017 - art. 11
-
 _Cité par_:
 
   - Décret n°2019-62 du 30 janvier 2019 (V)
   - Code de la consommation - art. L412-2 (VD)
   - Code de la consommation - art. L422-1 (V)
-  - Code de la consommation - art. L422-4 (T)
   - Code de la consommation - art. R412-1 (V)
   - Code de la consommation - art. R412-18 (V)
   - Code de la consommation - art. R412-19 (V)
@@ -23648,6 +23651,10 @@ _Cité par_:
   - Code rural - art. L643-2 (V)
   - Code rural - art. R661-37 (V)
   - Code rural et de la pêche maritime - art. R231-5 (V)
+
+_Modifié par_:
+
+  - Loi n°2020-699 du 10 juin 2020 - art. 1
 
 _Anciens textes_:
 
@@ -23805,6 +23812,79 @@ _Créé par_:
   - Loi n°2020-105 du 10 février 2020 - art. 35 (V)
 
 
+###### Article L412-8
+
+Préalablement à la conclusion d'un contrat conclu à distance portant sur la vente de denrées alimentaires, le professionnel
+communique au consommateur, en application de l'article L. 221-5, de manière lisible et compréhensible, les informations
+exigées par le règlement (UE) n° 1169/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l'information
+des consommateurs sur les denrées alimentaires, modifiant les règlements (CE) n° 1924/2006 et (CE) n° 1925/2006 du Parlement
+européen et du Conseil et abrogeant la directive 87/250/ CEE de la Commission, la directive 90/496/ CEE du Conseil, la
+directive 1999/10/ CE de la Commission, la directive 2000/13/ CE du Parlement européen et du Conseil, les directives 2002/67/
+CE et 2008/5/ CE de la Commission et le règlement (CE) n° 608/2004 de la Commission.
+
+Ces informations figurent sur le support de vente à distance où sont présentés ces produits ou sont communiquées sans frais
+par tout autre moyen approprié. Lorsqu'un autre moyen approprié est utilisé, il est indiqué clairement sur le support de
+vente à distance où ces informations obligatoires sont disponibles.
+
+Les modalités d'application du présent article sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-699 du 10 juin 2020 - art. 3
+
+_Cite_:
+
+  - règlement (CE) n°608/2004
+  - règlements (CE) n°1924/2006
+
+
+###### Article L412-9
+
+I.-Dans les établissements proposant des repas à consommer sur place ou dans les établissements proposant des repas à
+consommer sur place et à emporter ou à livrer, l'indication du pays d'origine ou du lieu de provenance est obligatoire pour
+les plats contenant un ou plusieurs morceaux de viandes bovines au sens du règlement (CE) n° 1760/2000 du Parlement européen
+et du Conseil du 17 juillet 2000 établissant un système d'identification et d'enregistrement des bovins et concernant
+l'étiquetage de la viande bovine et des produits à base de viande bovine et abrogeant le règlement (CE) n° 820/97 du Conseil,
+de viandes porcines, ovines et de volailles au sens du règlement (UE) n° 1337/2013 de la Commission du 13 décembre 2013
+portant modalités d'application du règlement (UE) n° 1169/2011 du Parlement européen et du Conseil en ce qui concerne
+l'indication des viandes fraîches, réfrigérées et congelées des animaux des espèces porcine, ovine, caprine et des volailles,
+ou de la viande bovine hachée au sens du règlement (CE) n° 1825/2000 de la Commission du 25 août 2000 portant modalités
+d'application du règlement (CE) n° 1760/2000 du Parlement européen et du Conseil en ce qui concerne l'étiquetage de la viande
+bovine et des produits à base de viande bovine.
+
+II.-Les modalités d'application de l'indication de l'origine mentionnée au I sont fixées par décret.
+
+Les modalités d'affichage des mentions prévues au même I et les sanctions applicables sont définies par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-699 du 10 juin 2020 - art. 4
+
+_Cite_:
+
+  - règlement (CE) n°1760/2000
+  - règlement (CE) n°1825/2000
+  - règlement (CE) n°820/97
+
+
+###### Article L412-10
+
+Les dénominations utilisées pour désigner des denrées alimentaires d'origine animale ne peuvent être utilisées pour décrire,
+commercialiser ou promouvoir des denrées alimentaires comportant des protéines végétales. Un décret fixe la part de protéines
+végétales au-delà de laquelle cette dénomination n'est pas possible. Ce décret définit également les modalités d'application
+du présent article et les sanctions encourues en cas de manquement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-699 du 10 juin 2020 - art. 5
+
+
 ###### Article L412-11
 
 Les exploitants d'établissements titulaires d'une licence de débit de boissons à consommer sur place ou à emporter ou d'une
@@ -23817,6 +23897,19 @@ sous forme de bouteille, de pichet ou de verre.
 _Créé par_:
 
   - Loi n°2020-699 du 10 juin 2020 - art. 8 (V)
+
+
+###### Article L412-12
+
+Le nom et l'adresse du producteur de bière sont indiqués en évidence sur l'étiquetage de manière à ne pas induire en erreur
+le consommateur quant à l'origine de la bière, d'une manière quelconque, y compris en raison de la présentation générale de
+l'étiquette.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2020-699 du 10 juin 2020 - art. 9
 
 
 #### Chapitre III : Falsifications et autres infractions relatives aux produits<a id=309></a>
@@ -24043,17 +24136,11 @@ d'apposer ou d'utiliser une marque de produits ou de services, un nom, un signe 
 faire croire, s'ils sont étrangers, qu'ils ont été fabriqués en France ou qu'ils sont d'origine française et, dans tous les
 cas, qu'ils ont une origine différente de leur véritable origine française ou étrangère.
 
-Toutefois, ces dispositions ne sont pas applicables lorsque le produit porte, en caractères manifestement apparents,
-l'indication de la véritable origine.
+Toutefois , sauf pour les vins, ces dispositions ne sont pas applicables lorsque le produit porte, en caractères
+manifestement apparents, l'indication de la véritable origine.
 
 En ce qui concerne les produits français, la raison sociale, le nom et l'adresse du vendeur ne constituent pas nécessairement
 une indication d'origine.
-
-**Nota:**
-
-Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente
-ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15
-décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -24063,7 +24150,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2019-1169 du 13 novembre 2019 - art. 13
+  - Loi n°2020-699 du 10 juin 2020 - art. 7
 
 _Anciens textes_:
 
@@ -28116,54 +28203,58 @@ _Anciens textes_:
 
 I-Sont habilités à rechercher et à constater, dans l'exercice de leurs fonctions, les infractions aux dispositions du livre
 IV et les infractions et les manquements mentionnés aux articles L. 511-12 et L. 511-13, à l'article L. 521-1, à la section 2
-du chapitre Ier du titre II et à la section 1 du chapitre Ier du titre III du présent livre : 
+du chapitre Ier du titre II et à la section 1 du chapitre Ier du titre III du présent livre :
 
-1° Les agents des douanes, 
+1° Les agents des douanes,
 
-2° Les agents de la direction générale des finances publiques, 
+2° Les agents de la direction générale des finances publiques,
 
-3° Les inspecteurs du travail ; 
+3° Les inspecteurs du travail ;
 
 4° Les agents mentionnés aux 1° à 6° et au dernier tiret du dernier alinéa du I de l'article L. 205-1 du code rural et de la
-pêche maritime ; 
+pêche maritime ;
 
-5° Les agents de l'Institut français de recherche pour l'exploitation de la mer ; 
+5° Les agents de l'Institut français de recherche pour l'exploitation de la mer ;
 
-6° Les agents assermentés de l'Etat chargés du contrôle des instruments de mesure ; 
+6° Les agents assermentés de l'Etat chargés du contrôle des instruments de mesure ;
 
-7° Les agents de l'Etat agréés et commissionnés par le ministre chargé de l'agriculture ; 
+7° Les agents de l'Etat agréés et commissionnés par le ministre chargé de l'agriculture ;
 
 8° Des agents chargés de mission de contrôle de conformité et de sécurité des produits et services désignés par arrêté du
-ministre chargé de la consommation ; 
+ministre chargé de la consommation ;
 
 9° Les administrateurs des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes et
 les fonctionnaires affectés dans les services exerçant des missions de contrôle sous l'autorité ou à la disposition du
-ministre chargé de la mer : 
+ministre chargé de la mer :
 
-a) Dans le domaine des affaires maritimes ; 
+a) Dans le domaine des affaires maritimes ;
 
 b) Au titre de la surveillance du marché, dans les domaines de la conformité et de la sécurité des bateaux de plaisance et de
-leurs pièces et de leurs pièces et éléments d'équipement ; 
+leurs pièces et de leurs pièces et éléments d'équipement ;
 
-10° Les agents mentionnés au 2° du II de l'article L. 172-1 du code de l'environnement ; 
+10° Les agents mentionnés au 2° du II de l'article L. 172-1 du code de l'environnement ;
 
-11° Les agents mentionnés à l'article L. 40 du code des postes et des communications électroniques. 
+11° Les agents mentionnés à l'article L. 40 du code des postes et des communications électroniques.
 
 Ils disposent à cet effet des pouvoirs définis aux sections 1 et 2 du chapitre II du présent titre et peuvent mettre en œuvre
-les mesures prévues à l'article L. 521-1 ainsi qu'à la section 2 du chapitre Ier du titre II. 
+les mesures prévues à l'article L. 521-1 ainsi qu'à la section 2 du chapitre Ier du titre II.
 
 II-Sont habilités à rechercher et à constater les infractions aux dispositions du livre IV et les infractions et les
-manquements mentionnés aux articles L. 511-12 et L. 511-13 : 
+manquements mentionnés aux articles L. 511-12 et L. 511-13 :
 
 1° Les agents mentionnés à l'article L. 1312-1 du code de la santé publique, qui disposent à cet effet des pouvoirs prévus
-aux articles L. 1421-2 à L. 1421-3 du même code ; 
+aux articles L. 1421-2 à L. 1421-3 du même code ;
 
 2° Les inspecteurs de l'Agence nationale de sécurité du médicament et des produits de santé mentionnée à l'article L. 5311-1
-du code de la santé publique, qui disposent à cet effet des pouvoirs prévus à l'article L. 5313-1 du même code ; 
+du code de la santé publique, qui disposent à cet effet des pouvoirs prévus à l'article L. 5313-1 du même code ;
 
 3° Les inspecteurs de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail
 mentionnée à l'article L. 1313-1 du code de la santé publique qui disposent à cet effet des pouvoirs prévus à l'article L.
 5146-2 du même code.
+
+III.-Les agents mentionnés à l'article L. 329-5 du code de la route, qui disposent à cet effet des pouvoirs prévus par la
+section 3 du chapitre IX du titre II du livre III du même code, sont habilités à rechercher et à constater les infractions de
+tromperie prévues aux articles L. 441-1, L. 454-1 à L. 454-5.
 
 **Liens relatifs à cet article**
 
@@ -28206,7 +28297,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-203 du 21 février 2017 - art. 12
+  - Ordonnance n°2020-701 du 10 juin 2020 - art. 2
 
 _Anciens textes_:
 
