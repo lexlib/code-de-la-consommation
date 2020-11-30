@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2019-10-01
+Version Consolidée au 2020-12-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -16618,7 +16618,7 @@ _Cité par_:
 Jusqu'à la signature par l'emprunteur de l'offre mentionnée à l'article L. 313-24, le prêteur ne peut pas refuser en garantie
 un autre contrat d'assurance dès lors que ce contrat présente un niveau de garantie équivalent au contrat d'assurance de
 groupe qu'il propose. Il en est de même lorsque l'emprunteur fait usage du droit de résiliation mentionné au premier alinéa
-de l'article L. 113-12-2 du code des assurances ou au deuxième alinéa de l'article L. 221-10 du code de la mutualité dans un
+de l'article L. 113-12-2 du code des assurances ou au troisième alinéa de l'article L. 221-10 du code de la mutualité dans un
 délai de douze mois à compter de la signature de l'offre de prêt mentionnée à l'article L. 313-24 ou qu'il fait usage du
 droit de résiliation annuel mentionné au deuxième alinéa de l'article L. 113-12 du code des assurances ou au premier alinéa
 de l'article L. 221-10 du code de la mutualité. Toute décision de refus doit être motivée.
@@ -16629,11 +16629,14 @@ Conformément à l'article 10 IV et V de la loi n° 2017-203 du 21 février 2017
 prêts émises à compter de la date de publication de ladite loi et, à compter du 1er janvier 2018, aux contrats d'assurance en
 cours d'exécution à cette date.
 
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-203 du 21 février 2017 - art. 10 (V)
+  - Loi n°2019-733 du 14 juillet 2019 - art. 3
 
 _Anciens textes_:
 
@@ -16661,9 +16664,9 @@ support durable de sa décision d'acceptation ou de refus et lui adresse, s'il y
 l'article L. 313-27, dans un délai de dix jours ouvrés à compter de la réception de la demande de substitution.
 
 Si l'emprunteur fait usage du droit de résiliation du contrat d'assurance en application du deuxième alinéa de l'article L.
-113-12 du code des assurances, du premier alinéa de l'article L. 113-12-2 du même code, ou des premier ou deuxième alinéas de
-l'article L. 221-10 du code de la mutualité, le prêteur notifie à l'emprunteur sa décision d'acceptation ou de refus dans un
-délai de dix jours ouvrés à compter de la réception d'un autre contrat d'assurance.
+113-12 du code des assurances, du premier alinéa de l'article L. 113-12-2 du même code, ou des premier ou troisième alinéas
+de l'article L. 221-10 du code de la mutualité, le prêteur notifie à l'emprunteur sa décision d'acceptation ou de refus dans
+un délai de dix jours ouvrés à compter de la réception d'un autre contrat d'assurance.
 
 En cas d'acceptation, le prêteur modifie par voie d'avenant le contrat de crédit conformément à l'article L. 313-39 en y
 mentionnant, notamment, le nouveau taux annuel effectif global calculé, conformément aux articles L. 314-1 à L. 314-4, en se
@@ -16677,15 +16680,14 @@ Le prêteur ne peut exiger de frais supplémentaires de l'emprunteur pour l'émi
 
 **Nota:**
 
-Conformément à l'article 10 IV et V de la loi n° 2017-203 du 21 février 2017, ces dispositions sont applicables aux offres de
-prêts émises à compter de la date de publication de ladite loi et, à compter du 1er janvier 2018, aux contrats d'assurance en
-cours d'exécution à cette date.
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2017-1433 du 4 octobre 2017 - art. 13
+  - Loi n°2019-733 du 14 juillet 2019 - art. 3
 
 _Anciens textes_:
 
@@ -16695,40 +16697,39 @@ _Anciens textes_:
 _Cite_:
 
   - Code de la consommation - art. L313-24
-  - Code de la consommation - art. L313-27 (VD)
-  - Code de la consommation - art. L313-28 (VD)
+  - Code de la consommation - art. L313-27
+  - Code de la consommation - art. L313-28
   - Code de la consommation - art. L313-39
-  - Code de la consommation - art. L313-8 (VD)
+  - Code de la consommation - art. L313-8
   - Code de la consommation - art. L314-1
   - Code des assurances - art. L113-12
-  - Code de la mutualité - art. L221-10 (VD)
 
 _Cité par_:
 
   - Code de la consommation - art. R313-24 (V)
-  - Code des assurances - art. L113-12-2 (VD)
+  - Code de la mutualité - art. L221-10 (VD)
+  - Code des assurances - art. L113-12-2 (V)
 
 
 ###### Article L313-32
 
 Le prêteur ne peut, en contrepartie de son acceptation en garantie d'un contrat d'assurance autre que le contrat d'assurance
 qu'il propose, y compris en cas d'exercice du droit de résiliation en application du premier alinéa de l'article L. 113-12-2
-du code des assurances, du deuxième alinéa de l'article L. 113-12 du même code, ou des premier ou deuxième alinéas de
+du code des assurances, du deuxième alinéa de l'article L. 113-12 du même code, ou des premier ou troisième alinéas de
 l'article L. 221-10 du code de la mutualité ni modifier le taux, qu'il soit fixe, variable ou révisable, ou les conditions
 d'octroi du crédit, prévus dans l'offre mentionnée à l'article L. 313-24, ni exiger le paiement de frais supplémentaires, y
 compris les frais liés aux travaux d'analyse de cet autre contrat d'assurance.
 
 **Nota:**
 
-Conformément à l'article 10 IV et V de la loi n° 2017-203 du 21 février 2017, ces dispositions sont applicables aux offres de
-prêts émises à compter de la date de publication de ladite loi et, à compter du 1er janvier 2018, aux contrats d'assurance en
-cours d'exécution à cette date.
+Conformément à l’article 6 de la loi n° 2019-733 du 14 juillet 2019, ces dispositions entrent en vigueur à une date fixée par
+décret en Conseil d'Etat, et au plus tard le 1er décembre 2020.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-203 du 21 février 2017 - art. 10 (V)
+  - Loi n°2019-733 du 14 juillet 2019 - art. 3
 
 _Anciens textes_:
 
