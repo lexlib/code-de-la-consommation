@@ -1,5 +1,5 @@
 # Code de la consommation  
-Version Consolidée au 2020-12-01
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative nouvelle (art. liminaire à L823-2)](#1)
     - [Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES (art. L111-1 à L141-1)](#2)
@@ -26931,8 +26931,8 @@ en euros et modifiant le règlement (CE) n° 924/2009 ;
 314-10-2, L. 342-1, L. 342-2, L. 342-3 et L. 342-4 du même code en ce qui concerne les manquements précisément énumérés aux
 articles L. 314-14 et L. 342-5 de ce code ; 
 
-8° Du II de l'article L. 231-4 et des articles L. 241-8, L. 271-1, L. 271-2 et L. 271-6 du code de la construction et de
-l'habitation ; 
+8° De l'article L. 134-4-3, du II de l'article L. 231-4 et des articles L. 241-8, L. 271-1, L. 271-2 et L. 271-6 du code de
+la construction et de l'habitation ; 
 
 9° Du dernier alinéa du I de l'article L. 112-6, des articles L. 112-11 à L. 112-13 et des sections 1 à 3 du chapitre VIII du
 titre IV du livre V du code monétaire et financier, 
@@ -26987,6 +26987,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L314-10-2
   - Code de l'action sociale et des familles - art. L314-4
   - Code de l'action sociale et des familles - art. L342-1
+  - Code de la construction et de l'habitation. - art. L134-4-3
   - Code de la construction et de l'habitation. - art. L231-4
   - Code de la construction et de l'habitation. - art. L241-8
   - Code de la construction et de l'habitation. - art. L271-1
@@ -27020,7 +27021,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1021 du 23 novembre 2018 - art. 78
+  - Loi n°2019-1147 du 8 novembre 2019 - art. 22 (V)
 
 _Anciens textes_:
 
